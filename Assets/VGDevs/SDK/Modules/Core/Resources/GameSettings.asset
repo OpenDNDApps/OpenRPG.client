@@ -35,7 +35,7 @@ MonoBehaviour:
       HideAnimation: {fileID: 11400000, guid: c6a2c1a39dbbf504bbcc8af49274e715, type: 2}
       TransparentSprite: {fileID: 21300000, guid: b898ea2ed1706fa41921ad318f0cfdd9, type: 3}
   User:
-    DebugDeviceOverrideID: cccc
+    DebugDeviceOverrideID: 
     UsernameLengthMinMax: {x: 3, y: 20}
     PasswordLengthMinMax: {x: 6, y: 100}
     EmailLengthMinMax: {x: 6, y: 100}
