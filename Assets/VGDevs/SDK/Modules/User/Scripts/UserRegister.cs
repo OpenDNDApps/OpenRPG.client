@@ -28,7 +28,6 @@ namespace VGDevs
             {
                 Username = userData.Username,
                 Email = userData.Email,
-                Password = userData.Password,
             };
 
             PlayFabClientAPI.AddUsernamePassword(
@@ -42,7 +41,6 @@ namespace VGDevs
         {
             UserAccount.UserData.Username = result.Username;
             UserAccount.UserData.Email = newUserData.Email;
-            UserAccount.UserData.Password = newUserData.Password;
             
             if (UserLogin.RememberMe)
             {

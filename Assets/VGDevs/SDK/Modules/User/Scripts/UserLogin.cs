@@ -135,14 +135,14 @@ namespace VGDevs
             OnFullLoginSuccess?.Invoke(UserAccount.UserData);
         }
 
-        public static void DoManualLogin()
+        public static void DoManualLogin(UserData userName)
         {
             PlayFabClientAPI.LoginWithEmailAddress(
                 new LoginWithEmailAddressRequest
                 {
                     TitleId = PlayFabSettings.TitleId,
-                    Email = UserAccount.UserData.Email,
-                    Password = UserAccount.UserData.Password,
+                    Email = userName.Email,
+                    Password = userName.Password,
                     InfoRequestParameters = GameResources.Settings.User.InfoRequestParams
                 },
                 HandleOnManualLoginSuccess,
