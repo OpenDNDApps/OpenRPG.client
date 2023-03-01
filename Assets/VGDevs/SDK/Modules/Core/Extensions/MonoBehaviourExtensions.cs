@@ -23,9 +23,9 @@ public static class MonoBehaviourExtensions
         action?.Invoke();
     }
     
-    public static void ActionAfterSeconds(this MonoBehaviour mono, float seconds, Action action)
+    public static Coroutine ActionAfterSeconds(this MonoBehaviour mono, float seconds, Action action)
     {
-        GameResources.Runtime.StartCoroutine(IEActionAfterSeconds(seconds, action));
+        return GameResources.Runtime.StartCoroutine(IEActionAfterSeconds(seconds, action));
     }
 
     private static IEnumerator IEActionAfterSeconds(float seconds, Action action)

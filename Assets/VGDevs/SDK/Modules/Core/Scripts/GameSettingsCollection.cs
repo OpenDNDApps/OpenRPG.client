@@ -5,7 +5,5 @@ using UnityEngine;
 namespace VGDevs
 {
     [CreateAssetMenu(fileName = GameResources.kSettingsFileName, menuName = GameResources.kCreateMenuPrefixNameResources + GameResources.kSettingsFileName)]
-    public partial class GameSettingsCollection : ScriptableObject
-    {
-    }
+    public partial class GameSettingsCollection : ScriptableObject { }
 }

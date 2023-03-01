@@ -27,6 +27,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5211358619179328236}
   - {fileID: 5211358620208356189}
@@ -81,6 +82,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5211358619106832513}
   m_RootOrder: 0
@@ -216,6 +218,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5211358619518093026}
+  - component: {fileID: 4970905024089971513}
   - component: {fileID: 5211358619518093027}
   m_Layer: 0
   m_Name: VisualRoot
@@ -234,6 +237,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5211358620745158579}
   - {fileID: 8490863198205725978}
@@ -246,6 +250,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4970905024089971513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5211358619518092829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a8da66bf749a14c8046716c0bfb98c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_id: MainVisualRoot
+  m_canvasGroup: {fileID: 5211358619518093027}
+  m_animationsInfo: []
 --- !u!225 &5211358619518093027
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -286,10 +305,11 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5211358619518093026}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -308,9 +328,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff2870752e3a404c9e2f4b4e88a7478, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_visualRoot: {fileID: 5211358619518093027}
-  m_uiShowAnimation: {fileID: 11400000, guid: 5612cdccd2a124240ac3d693e289c6a0, type: 2}
-  m_uiHideAnimation: {fileID: 11400000, guid: 020946f89effb894880e1b603a9445bb, type: 2}
+  m_visualRoots:
+  - {fileID: 4970905024089971513}
   destroyOnHide: 0
   m_inputField: {fileID: 5211358620036852679}
   m_label: {fileID: 8754984894022382536}
@@ -443,6 +462,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5211358619106832513}
   m_RootOrder: 1
@@ -577,6 +597,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5211358619518093026}
   m_RootOrder: 0
@@ -652,6 +673,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5211358619518093026}
   m_RootOrder: 1

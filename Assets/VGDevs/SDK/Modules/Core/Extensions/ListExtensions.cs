@@ -7,7 +7,7 @@ using Object = System.Object;
 
 public static class ListExtensions
 {
-    public static bool AddUnique<T>(this List<T> collection, T item) where T : UnityEngine.Object
+    public static bool AddUnique<T>(this List<T> collection, T item)
     {
         if (collection.Contains(item))
             return false;

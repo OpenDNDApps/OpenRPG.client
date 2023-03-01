@@ -28,6 +28,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7929224557297133373}
   m_RootOrder: 0
@@ -103,6 +104,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7929224557297133373}
   m_RootOrder: 1
@@ -218,6 +220,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7929224557297133373}
+  - component: {fileID: 7656522116056092288}
   - component: {fileID: 3064402579658170451}
   m_Layer: 0
   m_Name: VisualRoot
@@ -236,6 +239,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1013047016929045263}
   - {fileID: 5081490876825017400}
@@ -247,6 +251,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &7656522116056092288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6680518287437969675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a8da66bf749a14c8046716c0bfb98c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_id: MainVisualRoot
+  m_canvasGroup: {fileID: 3064402579658170451}
+  m_animationsInfo: []
 --- !u!225 &3064402579658170451
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -287,10 +306,11 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7929224557297133373}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -309,9 +329,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f5bb7ec99da97a42aa8f58b49ca572a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_visualRoot: {fileID: 3064402579658170451}
-  m_uiShowAnimation: {fileID: 11400000, guid: 5612cdccd2a124240ac3d693e289c6a0, type: 2}
-  m_uiHideAnimation: {fileID: 11400000, guid: 020946f89effb894880e1b603a9445bb, type: 2}
+  m_visualRoots:
+  - {fileID: 7656522116056092288}
   destroyOnHide: 0
   m_button: {fileID: 1979186909000964910}
   m_label: {fileID: 4801534825859306700}

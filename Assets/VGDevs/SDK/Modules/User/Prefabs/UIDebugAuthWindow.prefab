@@ -28,6 +28,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3565620741674675686}
   m_RootOrder: 0
@@ -143,6 +144,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3565620741674675686}
+  - component: {fileID: 6797114251790215690}
   - component: {fileID: 3565620741674675685}
   m_Layer: 0
   m_Name: VisualRoot
@@ -161,6 +163,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3565620740723780495}
   m_Father: {fileID: 3565620742487813417}
@@ -171,6 +174,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6797114251790215690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565620741674675687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a8da66bf749a14c8046716c0bfb98c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_id: MainVisualRoot
+  m_canvasGroup: {fileID: 3565620741674675685}
+  m_animationsInfo: []
 --- !u!225 &3565620741674675685
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -210,10 +228,11 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3565620741674675686}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -232,9 +251,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f16af2ead6466a1459b96acd43fda7b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_visualRoot: {fileID: 3565620741674675685}
-  m_uiShowAnimation: {fileID: 0}
-  m_uiHideAnimation: {fileID: 0}
+  m_visualRoots:
+  - {fileID: 6797114251790215690}
   destroyOnHide: 0
   m_uiSectionType: 3
   m_closeButton: {fileID: 0}
@@ -244,5 +262,4 @@ MonoBehaviour:
   m_autoGenerateInputBlocker: 0
   m_inputBlocker: {fileID: 0}
   m_inputBlockClickBehaviour: 0
-  m_destroyOnHide: 1
   m_playerID: {fileID: 3565620740723780494}

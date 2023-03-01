@@ -32,6 +32,8 @@ namespace VGDevs
             
             if (softDisable) 
                 return;
+            
+            canvasGroup.alpha = 0f;
             canvasGroup.gameObject.SetActive(false);
             canvasGroup.DOKill();
         }
@@ -51,6 +53,8 @@ namespace VGDevs
             
             if (softDisable) 
                 return;
+            
+            text.alpha = 0f;
             text.gameObject.SetActive(false);
             text.DOKill();
         }

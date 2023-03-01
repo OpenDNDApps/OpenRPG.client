@@ -8,7 +8,7 @@ using static VGDevs.GameResources;
 
 namespace VGDevs
 {
-    public class UIMenuScene : UIWindow
+    public class UIMainMenu : UIWindow
     {
         [SerializeField] private UIButton m_playButton;
         [SerializeField] private UIButton m_loginButton;
@@ -69,6 +69,18 @@ namespace VGDevs
             base.OnDestroy();
             UserLogin.OnFullLoginSuccess -= HandleOnUserLoggedInChange;
             UserAccount.OnUserDataChanged -= HandleOnUserLoggedInChange;
+        }
+
+        private void Update()
+        {
+            if (Input.GetKeyDown(KeyCode.UpArrow))
+            {
+                this.AnimatedShow();
+            }
+            if (Input.GetKeyDown(KeyCode.DownArrow))
+            {
+                this.AnimatedHide();
+            }
         }
     }  
 }

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameSettings
   m_EditorClassIdentifier: 
   UI:
-    DisabledAlpha: 0.4
+    DisabledAlpha: 0.7
     EnabledAlpha: 1
     Sorting:
     - SortOrder: 0
@@ -33,6 +33,7 @@ MonoBehaviour:
       InputBlocker: {fileID: 6316150423643922361, guid: bd9ff69435161af47aeff112199cb1c8, type: 3}
       ShowAnimation: {fileID: 11400000, guid: 16662b2e47cbd3d44918d0e981a3f475, type: 2}
       HideAnimation: {fileID: 11400000, guid: c6a2c1a39dbbf504bbcc8af49274e715, type: 2}
+      EmptyAnimation: {fileID: 11400000, guid: 986fff21acaa8b1478f0ebdad7acca0b, type: 2}
       TransparentSprite: {fileID: 21300000, guid: b898ea2ed1706fa41921ad318f0cfdd9, type: 3}
   User:
     DebugDeviceOverrideID: 
@@ -42,6 +43,8 @@ MonoBehaviour:
     DisplayNameLengthMinMax: {x: 0, y: 0}
     ShowDebugWindow: 1
     ForceLink: 0
+    SoftCoinID: GC
+    HardCoinID: AE
     InfoRequestParams:
       GetCharacterInventories: 1
       GetCharacterList: 0
@@ -54,9 +57,8 @@ MonoBehaviour:
       GetUserReadOnlyData: 0
       GetUserVirtualCurrency: 1
       PlayerStatisticNames:
-      - Score
-      - Kills
-      - Deaths
+      - Campaigns
+      - TimePlayed
       ProfileConstraints:
         ShowAvatarUrl: 1
         ShowBannedUntil: 0
@@ -65,7 +67,7 @@ MonoBehaviour:
         ShowCreated: 0
         ShowDisplayName: 1
         ShowExperimentVariants: 0
-        ShowLastLogin: 0
+        ShowLastLogin: 1
         ShowLinkedAccounts: 0
         ShowLocations: 0
         ShowMemberships: 0
@@ -77,5 +79,6 @@ MonoBehaviour:
         ShowValuesToDate: 1
       TitleDataKeys: []
       UserDataKeys:
+      - Level
       - Level
       UserReadOnlyDataKeys: []

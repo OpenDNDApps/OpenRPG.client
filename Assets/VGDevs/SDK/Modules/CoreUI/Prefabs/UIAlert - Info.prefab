@@ -28,6 +28,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2376852172045422358}
   m_RootOrder: 1
@@ -84,6 +85,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2376852172045422358}
+  - component: {fileID: 671829335685220890}
   - component: {fileID: 2376852172045422353}
   m_Layer: 0
   m_Name: VisualRoot
@@ -102,6 +104,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5888034060606988668}
   - {fileID: 2376852171970975987}
@@ -116,6 +119,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &671829335685220890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2376852172045422359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a8da66bf749a14c8046716c0bfb98c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_id: MainVisualRoot
+  m_canvasGroup: {fileID: 2376852172045422353}
+  m_animationsInfo: []
 --- !u!225 &2376852172045422353
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -156,6 +174,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2376852172045422358}
   m_RootOrder: 2
@@ -290,6 +309,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2376852172045422358}
   m_RootOrder: 3
@@ -423,10 +443,11 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2376852172045422358}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -445,9 +466,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35481106bf09521469273309d894b281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_visualRoot: {fileID: 2376852172045422353}
-  m_uiShowAnimation: {fileID: 0}
-  m_uiHideAnimation: {fileID: 0}
+  m_visualRoots:
+  - {fileID: 671829335685220890}
   destroyOnHide: 0
   m_uiSectionType: 3
   m_closeButton: {fileID: 8017465240728263752}
@@ -457,13 +477,13 @@ MonoBehaviour:
   m_autoGenerateInputBlocker: 0
   m_inputBlocker: {fileID: 8600537380143655204}
   m_inputBlockClickBehaviour: 0
-  m_destroyOnHide: 1
   m_message: {fileID: 2376852173112814256}
 --- !u!1001 &2376852173142221798
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 2376852172045422358}
     m_Modifications:
     - target: {fileID: 4283462698290451645, guid: eb51d7fbbf450954482ce205a8576a4a, type: 3}
@@ -559,6 +579,9 @@ PrefabInstance:
       value: UIButton - Close
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb51d7fbbf450954482ce205a8576a4a, type: 3}
 --- !u!224 &1985433038548170587 stripped
 RectTransform:
@@ -581,6 +604,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 2376852172045422358}
     m_Modifications:
     - target: {fileID: 3677620611044330384, guid: bd9ff69435161af47aeff112199cb1c8, type: 3}
@@ -672,6 +696,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd9ff69435161af47aeff112199cb1c8, type: 3}
 --- !u!224 &5888034060606988668 stripped
 RectTransform:

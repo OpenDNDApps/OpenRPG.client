@@ -21,6 +21,8 @@ namespace VGDevs
             public Vector2 DisplayNameLengthMinMax;
             public bool ShowDebugWindow;
             public bool ForceLink;
+            public string SoftCoinID;
+            public string HardCoinID;
             public GetPlayerCombinedInfoRequestParams InfoRequestParams;
         }
     }

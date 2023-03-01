@@ -26,6 +26,7 @@ namespace VGDevs
             public UIInputBlocker InputBlocker;
             public UIAnimation ShowAnimation;
             public UIAnimation HideAnimation;
+            public UIAnimation EmptyAnimation;
             public Sprite TransparentSprite;
         }
     }

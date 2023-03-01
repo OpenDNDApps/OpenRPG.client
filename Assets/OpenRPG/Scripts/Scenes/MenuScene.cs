@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -6,18 +7,22 @@ namespace VGDevs
 {
     public class MenuScene : MonoBehaviour
     {
-        private UIMenuScene m_menuSceneUI = null;
+        private UIMainMenu m_uiMainMenu = null;
         
-        private const string kUIMenuScene = "UIMenuScene";
+        private const string kUIMainMenu = "UIMainMenu";
         
-        private void Start()
+        IEnumerator Start()
         {
+            yield return new WaitUntil(() => GameResources.Runtime.IsReady);
+            yield return new WaitUntil(() => GameResources.UIRuntime.IsReady);
+            yield return new WaitUntil(() => GameResources.UserRuntime.IsReady);
+            
             SceneManager.activeSceneChanged += OnActiveSceneChanged;
-            
-            if (!UIRuntime.TryShowWindow(kUIMenuScene, out m_menuSceneUI))
-                return;
-            
-            m_menuSceneUI.AnimatedShow();
+
+            if (UIRuntime.TryShowWindow(kUIMainMenu, out m_uiMainMenu))
+            {
+                m_uiMainMenu.AnimatedShow();
+            }
             
             UserAccount.GetAccountStatistics();
             UserAccount.GetAccountCurrencyData();
@@ -26,10 +31,10 @@ namespace VGDevs
 
         private void OnActiveSceneChanged(Scene current, Scene next)
         {
-            if (m_menuSceneUI == null)
+            if (m_uiMainMenu == null)
                 return;
             
-            m_menuSceneUI.AnimatedHide();
+            m_uiMainMenu.AnimatedHide();
         }
 
         private void OnDestroy()

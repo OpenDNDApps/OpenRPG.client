@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -20,7 +21,6 @@ namespace VGDevs
         [SerializeField] protected bool m_autoGenerateInputBlocker = false;
         [SerializeField] protected UIInputBlocker m_inputBlocker;
         [SerializeField] protected InputBlockClickBehaviour m_inputBlockClickBehaviour = InputBlockClickBehaviour.AnimatedHide;
-        [SerializeField] protected bool m_destroyOnHide = true;
 
         public UISectionType SectionType => m_uiSectionType;
         public NotchBehaviour NotchBehaviour => m_notchBehaviour;
@@ -32,9 +32,7 @@ namespace VGDevs
             get
             {
                 if (m_canvas == null)
-                {
                     m_canvas = UIRuntime.GetCanvasOfType(m_uiSectionType);
-                }
 
                 return m_canvas;
             }
@@ -46,9 +44,9 @@ namespace VGDevs
         
         protected override void OnInit()
         {
-            if (m_visualRoot != null && m_hideOnAwake)
+            if (m_hideOnAwake)
             {
-                m_visualRoot.gameObject.SetActive(false);
+                m_visualRoots.Disable();
             }
 
             if (m_closeButton != null)
@@ -91,10 +89,6 @@ namespace VGDevs
     
         public override void AnimatedShow()
         {
-            if (m_visualRoot != null)
-            {
-                m_visualRoot.gameObject.SetActive(true);
-            }
             if (m_inputBlocker != null)
             {
                 m_inputBlocker.AnimatedShow();
@@ -105,14 +99,7 @@ namespace VGDevs
         public override void Hide()
         {
             base.Hide();
-            if (m_visualRoot != null)
-            {
-                m_visualRoot.Disable();
-            }
-            if (m_destroyOnHide)
-            {
-                this.SafeDestroy(this.gameObject);
-            }
+            m_visualRoots.Disable();
             if (m_inputBlocker != null)
             {
                 m_inputBlocker.Disable();
@@ -140,7 +127,7 @@ namespace VGDevs
         /// <param name="changePivot">Also update the pivot position to match the given value, recommended.</param>
         public void SetVerticalPosition(float bottomToTop = 0.5f, bool changePivot = true)
         {
-            RectTransform root = (RectTransform) m_visualRoot.transform;
+            RectTransform root = (RectTransform) m_visualRoots.First().transform;
 
             root.anchorMax = new Vector2(root.anchorMax.x, bottomToTop);
             root.anchorMin = new Vector2(root.anchorMin.x, bottomToTop);
@@ -158,7 +145,7 @@ namespace VGDevs
             if (inputBlocker == null)
                 inputBlocker = GameResources.Settings.UI.Default.InputBlocker;
             
-            UIInputBlocker newInputBlocker = Instantiate(inputBlocker, window.VisualRoot.transform);
+            UIInputBlocker newInputBlocker = Instantiate(inputBlocker, window.VisualRoots.First().transform);
             var ibTransform = (RectTransform)newInputBlocker.transform;
             ibTransform.localPosition = Vector3.zero;
             ibTransform.localScale = Vector3.one;

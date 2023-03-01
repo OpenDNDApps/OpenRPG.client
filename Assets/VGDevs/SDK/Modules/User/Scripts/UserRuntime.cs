@@ -77,8 +77,8 @@ namespace VGDevs
 
         public bool SetVirtualCurrency(Dictionary<string, int> userVirtualCurrency)
         {
-            SoftCoin = userVirtualCurrency["SC"];
-            HardCoin = userVirtualCurrency["HC"];
+            SoftCoin = userVirtualCurrency[Settings.User.SoftCoinID];
+            HardCoin = userVirtualCurrency[Settings.User.HardCoinID];
 
             return true;
         }
@@ -97,21 +97,21 @@ namespace VGDevs
             if (stats == null)
                 return hasChanged;
             
-            var scoreStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Score")).Value.ToString();
-            if (!string.IsNullOrEmpty(scoreStat)) {
-                Score = scoreStat;
-                hasChanged = true;
-            }
-            var killStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Kills")).Value.ToString();
-            if (!string.IsNullOrEmpty(killStat)) {
-                Kills = killStat;
-                hasChanged = true;
-            }
-            var deathsStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Deaths")).Value.ToString();
-            if (!string.IsNullOrEmpty(deathsStat)) {
-                Deaths = deathsStat;
-                hasChanged = true;
-            }
+            // var scoreStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Score")).Value.ToString();
+            // if (!string.IsNullOrEmpty(scoreStat)) {
+            //     Score = scoreStat;
+            //     hasChanged = true;
+            // }
+            // var killStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Kills")).Value.ToString();
+            // if (!string.IsNullOrEmpty(killStat)) {
+            //     Kills = killStat;
+            //     hasChanged = true;
+            // }
+            // var deathsStat = stats.Find(stat => stat.StatisticName != null && stat.StatisticName.Equals("Deaths")).Value.ToString();
+            // if (!string.IsNullOrEmpty(deathsStat)) {
+            //     Deaths = deathsStat;
+            //     hasChanged = true;
+            // }
 
             return hasChanged;
         }
