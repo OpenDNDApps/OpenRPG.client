@@ -71,3 +71,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .idea/.idea.OpenRPG.client/.idea
+
+# Custom OpenRPG Ignores.
+/[Aa]ssets/[Ll]ocal[Ee]xperiments/*
+!/[Aa]ssets/[Ll]ocal[Ee]xperiments/.gitkeep
+/[Aa]ssets/[Pp]lugins/CodeRespawn/*
+![Aa]ssets/[Pp]lugins/CodeRespawn/.gitkeep
