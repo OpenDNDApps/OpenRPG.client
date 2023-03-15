@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: gith
+  m_EditorClassIdentifier: 
+  Title: Gith
+  AsJson: '{"name":"Gith","dialects":["Githzerai","Githyanki"],"source":"MM","page":160,"additionalSources":[{"source":"MTF","page":90}],"typicalSpeakers":["{@creature
+    Githzerai Monk||githzerai monks}","{@creature Githyanki Warrior||githyanki warriors}","{@creature
+    Githzerai Zerth||githzerai zerths}","{@creature Githyanki Knight||githyanki knights}"],"script":"Tir''su","entries":[{"type":"inset","name":"The
+    Gith Alphabet","entries":["The gith use a written language composed of alphabetic
+    symbols arranged in circular clusters called tir''su. Each \"spoke\" on the wheel
+    corresponds to a letter of the alphabet. Each cluster of characters represents
+    a single word, and multiple tir''su connect to form phrases and sentences.","Githyanki
+    and githzerai both speak Gith, but each race has a distinct dialect and accent.
+    Similarly, the two races of gith differentiate their language by how they write
+    it. Githyanki write a tir''su clockwise, starting at the top. Githzerai use the
+    same letter symbols but write their tir''su counterclockwise, starting from the
+    bottom."]}]}'
+  DataHash: bf510369fd4e84fc8dc7a09de8de796e

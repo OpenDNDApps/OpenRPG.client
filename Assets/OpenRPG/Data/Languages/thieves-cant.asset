@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: thieves-cant
+  m_EditorClassIdentifier: 
+  Title: Thieves' Cant
+  AsJson: '{"name":"Thieves'' Cant","source":"PHB","page":94,"srd":true,"basicRules":true,"type":"secret","typicalSpeakers":["{@creature
+    assassin||assassins}","{@class rogue||rogues}"],"entries":["Thieves'' cant is
+    a secret mix of dialect, jargon, and code that allows messages to be hidden in
+    seemingly normal conversation. Only a creature that knows thieves'' cant understands
+    such messages. It takes four times longer to convey such a message than it does
+    to speak the same idea plainly."]}'
+  DataHash: 056ad402f5675f88b9681146f31ce6e1

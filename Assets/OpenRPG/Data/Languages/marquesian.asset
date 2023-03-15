@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: marquesian
+  m_EditorClassIdentifier: 
+  Title: Marquesian
+  AsJson: '{"name":"Marquesian","source":"EGW","page":9,"entries":["The Menagerie
+    Coast was settled by colonists from the arid land of Marquet, and their language
+    now holds an unusual position in the Clovis Concord. It is the language of high
+    society, as many Clovis elite are descended from Marquesians, but it is also
+    the language of piracy, since countless lower-class Marquesians defected from
+    the Concord and formed the Revelry pirates."]}'
+  DataHash: 1434a6d5429ad8143208b1b9046acade
