@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: urban-bounty-hunter
+  m_EditorClassIdentifier: 
+  Title: Urban Bounty Hunter
+  AsJson: '{"name":"Urban Bounty Hunter","source":"SCAG","page":153,"skillProficiencies":[{"choose":{"from":["deception","insight","persuasion","stealth"],"count":2}}],"toolProficiencies":[{"choose":{"from":["gaming
+    set","musical instrument","thieves'' tools"],"count":2}}],"startingEquipment":[{"_":[{"item":"pouch|phb","containsValue":2000}]}],"entries":[{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Skill
+    Proficiencies:","entry":"Choose two from among {@skill Deception}, {@skill Insight},
+    {@skill Persuasion}, and {@skill Stealth}"},{"type":"item","name":"Tool Proficiencies:","entry":"Choose
+    two from among one type of {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming
+    set}, one {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument},
+    and {@item thieves'' tools|phb}"},{"type":"item","name":"Equipment:","entry":"A
+    set of clothes appropriate to your duties and a {@item pouch|phb} containing
+    20 gp"}]},{"name":"Feature: Ear to the Ground","type":"entries","entries":["You
+    are in frequent contact with people in the segment of society that your chosen
+    quarries move through. These people might be associated with the criminal underworld,
+    the rough-and-tumble folk of the streets, or members of high society. This connection
+    comes in the form of a contact in any city you visit, a person who provides information
+    about the people and places of the local area."],"data":{"isFeature":true}},{"type":"entries","name":"Suggested
+    Characteristics","entries":["Use the tables for the {@background criminal} background
+    in the Player''s Handbook as the basis for your bounty hunter''s traits and motivations,
+    modifying the entries when appropriate to suit your identity as a bounty hunter.","For
+    instance, your bond might involve other bounty hunters or the organizations or
+    individuals that employ you. Your ideal could be associated with your determination
+    always to catch your quarry or your desire to maintain your reputation for being
+    dependable."]}],"hasFluff":true}'
+  DataHash: f99f664d85091f23a1ecaa976a7a90f2

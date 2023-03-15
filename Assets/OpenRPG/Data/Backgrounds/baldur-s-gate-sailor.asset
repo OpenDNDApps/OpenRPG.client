@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: baldur-s-gate-sailor
+  m_EditorClassIdentifier: 
+  Title: Baldur's Gate Sailor
+  AsJson: "{\"name\":\"Baldur's Gate Sailor\",\"source\":\"BGDIA\",\"page\":204,\"additionalSources\":[{\"source\":\"PHB\",\"page\":139}],\"_copy\":{\"name\":\"Sailor\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"insertArr\",\"index\":2,\"items\":{\"name\":\"Baldur's
+    Gate Feature: Smuggler's Sense\",\"type\":\"entries\",\"entries\":[\"{@note The
+    effects of a Baldur's Gate feature can be used only while the character is in
+    Baldur's Gate\u2014though, at the DM's discretion, they might have applicable
+    effects in situations similar to those in Baldur's Gate.}\",\"You're familiar
+    with the docks of Baldur's Gate, the movement of inspectors and tax collectors,
+    the way cargo and coin flows. As a result, it's easy for you to hustle a load
+    of cargo ashore or see such a cargo onto a cooperative ship without attracting
+    suspicion or taxation. You also know the movements of the Gray Wavers\u2014the
+    Flaming Fist harbor guards\u2014and have a sense of how to operate the city's
+    mechanized cranes.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
+  DataHash: e6ab108daaf00ffa21e754fc21f86d37

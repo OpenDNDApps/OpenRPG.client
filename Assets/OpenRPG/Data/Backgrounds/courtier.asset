@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: courtier
+  m_EditorClassIdentifier: 
+  Title: Courtier
+  AsJson: '{"name":"Courtier","source":"SCAG","page":146,"skillProficiencies":[{"insight":true,"persuasion":true}],"languageProficiencies":[{"anyStandard":2}],"startingEquipment":[{"_":["fine
+    clothes|phb",{"item":"pouch|phb","containsValue":500}]}],"entries":[{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Skill
+    Proficiencies:","entry":"{@skill Insight}, {@skill Persuasion}"},{"type":"item","name":"Languages:","entry":"Any
+    two of your choice"},{"type":"item","name":"Equipment:","entry":"A set of {@item
+    fine clothes|phb} and a {@item pouch|phb} containing 5 gp"}]},{"name":"Feature:
+    Court Functionary","type":"entries","entries":["Your knowledge of how bureaucracies
+    function lets you gain access to the records and inner workings of any noble
+    court or government you encounter. You know who the movers and shakers are, whom
+    to go to for the favors you seek, and what the current intrigues of interest
+    in the group are."],"data":{"isFeature":true}},{"type":"entries","name":"Suggested
+    Characteristics","entries":["Use the tables for the {@background guild artisan}
+    background in the Player''s Handbook as the basis for your traits and motivations,
+    modifying the entries when appropriate to suit your identity as a courtier.","The
+    noble court or bureaucratic organization where you got your start is directly
+    or indirectly associated with your bond (which could pertain to certain individuals
+    in the group, such as your sponsor or mentor). Your ideal might be concerned
+    with the prevailing philosophy of your court or organization."]}],"hasFluff":true}'
+  DataHash: 4521b61ac7b82a8aff048fffa4855561

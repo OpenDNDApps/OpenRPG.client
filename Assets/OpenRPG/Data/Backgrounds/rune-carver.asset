@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: rune-carver
+  m_EditorClassIdentifier: 
+  Title: Rune Carver
+  AsJson: '{"name":"Rune Carver","source":"UA2022WondersOfTheMultiverse","page":5,"feats":[{"rune
+    carver apprentice|ua2022wondersofthemultiverse":true}],"skillProficiencies":[{"history":true,"perception":true}],"languageProficiencies":[{"giant":true,"anyStandard":1}],"toolProficiencies":[{"herbalism
+    kit":true}],"startingEquipment":[{"_":[{"equipmentType":"toolArtisan"},{"special":"small
+    knife"},"whetstone|phb","common clothes|phb",{"item":"pouch|phb","containsValue":1000}]}],"fromFeature":{"feats":true},"entries":[{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Skill
+    Proficiencies:","entry":"{@skill History}, {@skill Perception}"},{"type":"item","name":"Languages:","entry":"Giant
+    and one other language of your choice"},{"type":"item","name":"Equipment:","entry":"A
+    set of {@filter artisan''s tools|items|source=phb|miscellaneous=mundane|type=artisan''s
+    tools} (one of your choice), a small knife, a {@item whetstone|phb}, a set of
+    {@item common clothes|phb}, and a {@item pouch|phb} containing 10 gp"}]},{"type":"entries","name":"Rune
+    Styles","entries":["Each rune carver has a unique style and preferred medium
+    for creating runes. To determine how you make your runes, you can roll on the
+    Rune Style table.",{"type":"table","caption":"Rune Style","colLabels":["d6","Style"],"colStyles":["col-1
+    text-center","col-11"],"rows":[["1","You inscribe your runes with a fine metal
+    needle."],["2","You whittle down pieces of wood into small figurines you mark
+    with your runes."],["3","You engrave runes onto glass beads and thread them onto
+    necklaces and bracelets."],["4","You stitch your runes into the hems of clothing."],["5","You
+    carve runes on a set of animal bones you can throw in different formations."],["6","You
+    draw your runes into candles, melting the wax to smooth over the engravings."]]}]},{"type":"entries","name":"Feature:
+    Rune Carver Apprentice","entries":["You gain the {@feat Rune Carver Apprentice|UA2022WondersOfTheMultiverse}
+    feat."],"data":{"isFeature":true}},{"type":"entries","name":"Building a Rune
+    Carver Character","entries":["Scholarly pursuits, ancient mysteries, or all manner
+    of fateful encounters might inspire a character to pursue the secrets of a rune
+    carver.",{"type":"entries","name":"Suggested Characteristics","entries":["The
+    Rune Carver Personality Traits table suggests a variety of traits you might adopt
+    for your character.",{"type":"table","caption":"Rune Carver Personality Traits","colLabels":["d6","Personality
+    Trait"],"colStyles":["col-1 text-center","col-11"],"rows":[["1","Is it practical
+    to learn an ancient language that is rarely used in everyday speech? No. But
+    is it fun? Very."],["2","I learned one of my ancestors was a lauded rune carver
+    whose story was lost to time. I seek to rekindle that legacy."],["3","The old,
+    traditional markings of runecraft look so boring. Why not give your runes some
+    flair?"],["4","In my studies of runes, I strive to understand how great civilizations
+    of the past fell, so that I may prevent it from happening to societies of the
+    present."],["5","Life may be a whirlwind of chaos around me, but whenever I create
+    my runes, I feel at peace."],["6","My brain struggles to process ink words written
+    on paper, but the tactile feeling of carved runes makes my mind sing."]]}]}]}],"hasFluff":true}'
+  DataHash: c358e16be1aaa0c5172f772ec5fe0c80
