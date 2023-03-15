@@ -22,7 +22,7 @@ MonoBehaviour:
     TargetFolderPath: Assets/OpenRPG/Data/Books
     ParsingMethodName: ParseBooks
   - Title: Classes
-    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/classes.json
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/class/
     TargetFolderPath: Assets/OpenRPG/Data/Classes
     ParsingMethodName: ParseClasses
   - Title: Feats
@@ -208,7 +208,29 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   - {fileID: 11400000, guid: 9d6b5d3a5d1a6b345b6e757d819bba1a, type: 2}
   - {fileID: 11400000, guid: 253e76f7e581bdc4092643f29efad308, type: 2}
-  Classes: []
+  Classes:
+  - {fileID: 11400000, guid: 37759da56e99d074e8d10f9cf7781265, type: 2}
+  - {fileID: 11400000, guid: f4abced15ef63c74ba3c018821825afe, type: 2}
+  - {fileID: 11400000, guid: 794697c0e845d4a4f939cffce47f3359, type: 2}
+  - {fileID: 11400000, guid: a9a6a9ea991ff3d4bb9e1d5060c938eb, type: 2}
+  - {fileID: 11400000, guid: 22619c7a02d4cf549aeebd180fa5f00e, type: 2}
+  - {fileID: 11400000, guid: 3aabb9e1cc85744419dd8bf7db36e973, type: 2}
+  - {fileID: 11400000, guid: b4718b33fd4f9d04db5d633e89ec6780, type: 2}
+  - {fileID: 11400000, guid: 49622e2e1764c01468b66edc5c536bf7, type: 2}
+  - {fileID: 11400000, guid: 47efa85edfb97694989b22fa1b76b073, type: 2}
+  - {fileID: 11400000, guid: 681f96005dc58774c831d0e93f35f3bb, type: 2}
+  - {fileID: 11400000, guid: ddab48c8f860bb344a5f7a10c983a2b2, type: 2}
+  - {fileID: 11400000, guid: 5908708d08bc246439261747775e20c7, type: 2}
+  - {fileID: 11400000, guid: 190444910dbe9844d8189b564bd8cb5f, type: 2}
+  - {fileID: 11400000, guid: 806faae2cf098f84aa815e142913cfeb, type: 2}
+  - {fileID: 11400000, guid: 30d37db1f5e9aff4faf77e2328e01278, type: 2}
+  - {fileID: 11400000, guid: 349b886f2eb89124790b343d9b14c35e, type: 2}
+  - {fileID: 11400000, guid: bd1401bea59d1a047b977849df25c76f, type: 2}
+  - {fileID: 11400000, guid: 249b226c83eba2841a73036fff51d8c8, type: 2}
+  - {fileID: 11400000, guid: dd50a755b6bec5549a32e4b1b384d10a, type: 2}
+  - {fileID: 11400000, guid: 09c18ca59d4c32748b71fa92ed85084c, type: 2}
+  - {fileID: 11400000, guid: 7edbd5f6fbabc4d4689c7751a7bf4991, type: 2}
+  - {fileID: 11400000, guid: b44746ca49a45544fb9b042ad8847755, type: 2}
   Feats:
   - {fileID: 11400000, guid: a1166e41c198b7744955325a99fffdff, type: 2}
   - {fileID: 11400000, guid: 5b877767e1bb3454cadea13ea4a577ef, type: 2}

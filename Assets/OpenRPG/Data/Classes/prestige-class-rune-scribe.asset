@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fea2c9005fb4b57a4c68f7db02c560b, type: 3}
+  m_Name: prestige-class-rune-scribe
+  m_EditorClassIdentifier: 
+  Title: 'Prestige Class: Rune Scribe'
+  AsJson: "{\"name\":\"Prestige Class: Rune Scribe\",\"source\":\"UAPrestigeClassesRunMagic\",\"page\":2,\"requirements\":{\"entries\":[\"{@b
+    Dexterity 13.} Rune scribes need agile fingers to master the intricate patterns
+    of a rune.\",\"{@b Intelligence 13.} Rune lore requires intense study and knowledge.\",\"{@b
+    Proficiency in the {@skill Arcana} skill.} Rune mastery requires an understanding
+    of arcane lore.\",\"{@b Character level 5th.} Rune magic awakens only for powerful
+    souls, and you must be a 5th-level character before you can gain levels in the
+    rune scribe prestige class.\",\"{@b Complete a special task.} You must find a
+    rune and present it to an NPC rune scribe who accepts it in return for tutoring
+    you in the ways of rune magic. You cannot gain more levels in this prestige class
+    than your tutor has. You might need to seek out additional runes and present
+    them to more skilled rune scribes in order to reach 5th level in this prestige
+    class.\"]},\"hd\":{\"number\":1,\"faces\":8},\"casterProgression\":\"full\",\"startingProficiencies\":{\"tools\":[\"{@item
+    calligrapher's supplies|PHB}\",\"{@item mason's tools|PHB}\",\"{@item woodcarver's
+    tools|PHB}\"]},\"classTableGroups\":[{\"title\":\"Spell Slots per Spell Level\",\"colLabels\":[\"1st\",\"2nd\",\"3rd\"],\"rowsSpellProgression\":[[2,0,0],[3,0,0],[4,2,0],[4,3,0],[4,3,2]]}],\"classFeatures\":[\"Rune
+    Lore|Prestige Class: Rune Scribe|UAPrestigeClassesRunMagic|1\",\"Runic Magic|Prestige
+    Class: Rune Scribe|UAPrestigeClassesRunMagic|1\",\"Runic Discovery|Prestige Class:
+    Rune Scribe|UAPrestigeClassesRunMagic|2\",\"Runic Discovery|Prestige Class: Rune
+    Scribe|UAPrestigeClassesRunMagic|3\",\"Living Rune|Prestige Class: Rune Scribe|UAPrestigeClassesRunMagic|4\",\"Rune
+    Mastery|Prestige Class: Rune Scribe|UAPrestigeClassesRunMagic|5\",\"Runic Discovery|Prestige
+    Class: Rune Scribe|UAPrestigeClassesRunMagic|5\"],\"fluff\":[{\"name\":\"Rune
+    Scribe\",\"type\":\"section\",\"entries\":[\"A rune scribe masters the secrets
+    of the runes of power\u2014ancient sigils that embody the fundamental magic of
+    creation. The giants were the first to master rune magic, though many other races
+    eventually stole away or traded for that power.\",\"Rune magic is exceedingly
+    rare. Some of its secrets have been lost, and what lore remains is jealously
+    guarded. Few rune scribes share their lore with others. Indeed, most rune scribes
+    take on new students only if doing so allows them to gain access to a forgotten
+    or missing rune. The rune scribe prestige class uses the rules for rune magic
+    presented at the end of this article.\"],\"source\":\"UAPrestigeClassesRunMagic\",\"page\":2}]}"
+  DataHash: 8ec2ff6cb9e406690e06563909e0e68b
