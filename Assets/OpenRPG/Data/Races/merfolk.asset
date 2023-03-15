@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: merfolk
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Merfolk","source":"DMG","page":282,"size":["M"],"speed":{"walk":10,"swim":40},"traitTags":["Amphibious","NPC
+    Race"],"languageProficiencies":[{"common":true,"aquan":true}],"entries":[{"name":"Amphibious","entries":["You
+    can breathe air and water."],"type":"entries"},{"name":"Languages","entries":["You
+    can speak, read, and write Common and Aquan."],"type":"entries"}]}'
+  DataHash: 0f242dd7121a02d80b07edc1330ab141

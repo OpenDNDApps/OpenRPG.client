@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: goblin-dankwood
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Goblin (Dankwood)","source":"AWM","page":35,"_copy":{"name":"Goblin","source":"VGM","_mod":{"entries":[{"mode":"appendArr","items":{"name":"Alignment","type":"entries","entries":["Dankwood
+    goblins are typically neutral or neutral good, though some mischievous dankwood
+    goblins are chaotic neutral."]}},{"mode":"replaceArr","replace":"Fury of the
+    Small","items":{"name":"Speak with Small Beasts","type":"entries","entries":["Through
+    sounds and gestures, you can communicate simple ideas with Small or smaller beasts.
+    Dankwood goblins love animals and often keep squirrels, badgers, rabbits, moles,
+    woodpeckers, and other creatures as beloved pets."]}}]},"_preserve":{"reprintedAs":true}},"ability":[{"dex":2,"wis":1}],"heightAndWeight":null,"hasFluff":true}'
+  DataHash: 5df88f8dfc48ee074adba360661965f5

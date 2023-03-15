@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: fairy
+  m_EditorClassIdentifier: 
+  Title: Fairy
+  AsJson: '{"name":"Fairy","source":"WBtW","page":12,"reprintedAs":["Fairy|MPMM"],"lineage":"VRGR","creatureTypes":["fey"],"size":["S"],"speed":{"walk":30,"fly":true},"additionalSpells":[{"ability":{"choose":["int","wis","cha"]},"known":{"1":["druidcraft#c"]},"innate":{"3":{"daily":{"1":["faerie
+    fire"]}},"5":{"daily":{"1":["enlarge/reduce"]}}}}],"entries":[{"type":"entries","name":"Creature
+    Type","entries":["You are a Fey."]},{"type":"entries","name":"Flight","entries":["Because
+    of your wings, you have a flying speed equal to your walking speed. You can''t
+    use this flying speed if you''re wearing medium or heavy armor."]},{"type":"entries","name":"Fairy
+    Magic","entries":["You know the {@spell druidcraft} cantrip.","Starting at 3rd
+    level, you can cast the {@spell faerie fire} spell with this trait. Starting
+    at 5th level, you can also cast the {@spell enlarge/reduce} spell with this trait.
+    Once you cast {@spell faerie fire} or {@spell enlarge/reduce} with this trait,
+    you can''t cast that spell with it again until you finish a long rest. You can
+    also cast either of those spells using any spell slots you have of the appropriate
+    level.","Intelligence, Wisdom, or Charisma is your spellcasting ability for these
+    spells when you cast them with this trait (choose when you select this race)."]}],"hasFluff":true,"hasFluffImages":true}'
+  DataHash: cb5b4a409f0b92d98abe7a0ad739bd4c

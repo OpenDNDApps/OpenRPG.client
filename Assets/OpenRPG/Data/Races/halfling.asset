@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: halfling
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Halfling","source":"PHB","page":26,"srd":true,"basicRules":true,"size":["S"],"speed":25,"ability":[{"dex":2}],"heightAndWeight":{"baseHeight":31,"heightMod":"2d4","baseWeight":35},"age":{"mature":20,"max":250},"languageProficiencies":[{"common":true,"halfling":true}],"soundClip":{"type":"internal","path":"races/halfling.mp3"},"entries":[{"name":"Age","type":"entries","entries":["A
+    halfling reaches adulthood at the age of 20 and generally lives into the middle
+    of his or her second century."]},{"type":"entries","name":"Size","entries":["Halflings
+    average about 3 feet tall and weigh about 40 pounds. Your size is Small."]},{"name":"Lucky","entries":["When
+    you roll a 1 on an attack roll, ability check, or saving throw, you can reroll
+    the die and must use the new roll."],"type":"entries"},{"name":"Brave","entries":["You
+    have advantage on saving throws against being {@condition frightened}."],"type":"entries"},{"name":"Halfling
+    Nimbleness","entries":["You can move through the space of any creature that is
+    of a size larger than yours."],"type":"entries"},{"name":"Languages","entries":["You
+    can speak, read, and write Common and Halfling. The Halfling language isn''t
+    secret, but halflings are loath to share it with others. They write very little,
+    so they don''t have a rich body of literature. Their oral tradition, however,
+    is very strong. Almost all halflings speak Common to converse with the people
+    in whose lands they dwell or through which they are traveling."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 69695f026c32eec0c087b263c2e8eab2

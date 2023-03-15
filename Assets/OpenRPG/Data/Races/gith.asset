@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: gith
+  m_EditorClassIdentifier: 
+  Title: Gith
+  AsJson: '{"name":"Gith","source":"UAEladrinAndGith","page":2,"size":["M"],"speed":30,"ability":[{"int":1}],"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"other":true}],"entries":[{"name":"Age","type":"entries","entries":["Gith
+    reach adulthood in their late teens and live for about a century."]},{"type":"entries","name":"Size","entries":["Gith
+    are taller and leaner than humans, with most a slender 6 feet in height."]},{"name":"Languages","entries":["You
+    can speak, read, and write Common and Gith."],"type":"entries"}]}'
+  DataHash: c56e12143b4d2d5d9d0466c42a9b363e

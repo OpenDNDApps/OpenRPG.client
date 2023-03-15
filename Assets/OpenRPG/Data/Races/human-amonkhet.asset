@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: human-amonkhet
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Human (Amonkhet)","source":"PSA","page":14,"size":["M"],"speed":30,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"count":2}}],"age":{"mature":20,"max":100},"feats":[{"any":1}],"skillProficiencies":[{"any":1}],"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
+    reach adulthood in their late teens. Most human initiates have completed the
+    trials and found a glorious or inglorious death before they turn 30. Viziers
+    can enjoy longer service to their gods, in theory living up to a century."]},{"name":"Alignment","type":"entries","entries":["Humans
+    tend toward no particular alignment. The best and the worst are found among them."]},{"type":"entries","name":"Size","entries":["Humans
+    vary widely in height and build, from barely 5 feet to well over 6 feet tall.
+    Regardless of your position in that range, your size is Medium"]},{"name":"Skills","entries":["You
+    gain proficiency in one skill of your choice."],"type":"entries"},{"name":"Feat","entries":["You
+    gain one {@5etools feat|feats.html} of your choice."],"type":"entries"},{"name":"Languages","entries":["You
+    can speak, read, and write Common and one extra language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 4c7197ae20ec2dc530cc5e69298dcf56
