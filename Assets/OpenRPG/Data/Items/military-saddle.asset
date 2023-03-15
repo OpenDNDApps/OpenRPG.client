@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: military-saddle
+  m_EditorClassIdentifier: 
+  Title: Military Saddle
+  AsJson: '{"name":"Military Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":30,"value":2000,"entries":["A
+    military saddle braces the rider, helping you keep your seat on an active mount
+    in battle. It gives you advantage on any check you make to remain mounted."]}'
+  DataHash: 78615a9b40072dcff94e34d54a10f13f

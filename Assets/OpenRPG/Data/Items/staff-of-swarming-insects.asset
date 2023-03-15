@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-swarming-insects
+  m_EditorClassIdentifier: 
+  Title: Staff of Swarming Insects
+  AsJson: '{"name":"Staff of Swarming Insects","source":"DMG","page":203,"srd":true,"tier":"major","rarity":"rare","reqAttune":"by
+    a bard, cleric, druid, sorcerer, warlock, or wizard","reqAttuneTags":[{"class":"bard"},{"class":"cleric"},{"class":"druid"},{"class":"sorcerer"},{"class":"warlock"},{"class":"wizard"}],"weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 4}","charges":10,"staff":true,"entries":["This staff has 10 charges and
+    regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last
+    charge, roll a {@dice d20}. On a 1, a {@creature swarm of insects} consumes and
+    destroys the staff, then disperses.",{"name":"Spells","type":"entries","entries":["While
+    holding the staff, you can use an action to expend some of its charges to cast
+    one of the following spells from it, using your spell save DC: {@spell giant
+    insect} (4 charges) or {@spell insect plague} (5 charges)."]},{"name":"Insect
+    Cloud","type":"entries","entries":["While holding the staff, you can use an action
+    and expend 1 charge to cause a swarm of harmless flying insects to spread out
+    in a 30-foot radius from you. The insects remain for 10 minutes, making the area
+    heavily obscured for creatures other than you. The swarm moves with you, remaining
+    centered on you. A wind of at least 10 miles per hour disperses the swarm and
+    ends the effect."]}],"attachedSpells":["giant insect","insect plague"],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: 9e2116e8448f71f7d69e9fba8525f9b8

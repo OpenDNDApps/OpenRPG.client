@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: variant-entertainer-gladiator
+  m_EditorClassIdentifier: 
+  Title: Variant Entertainer (Gladiator)
+  AsJson: "{\"name\":\"Variant Entertainer (Gladiator)\",\"source\":\"PHB\",\"page\":131,\"_copy\":{\"name\":\"Entertainer\",\"source\":\"PHB\",\"_mod\":{\"entries\":[{\"mode\":\"replaceArr\",\"replace\":{\"index\":0},\"items\":{\"type\":\"list\",\"style\":\"list-hang-notitle\",\"items\":[{\"type\":\"item\",\"name\":\"Skill
+    Proficiencies:\",\"entry\":\"{@skill Acrobatics}, {@skill Performance}\"},{\"type\":\"item\",\"name\":\"Tool
+    Proficiencies:\",\"entry\":\"{@item Disguise kit|phb}, one type of {@filter musical
+    instrument|items|source=phb|miscellaneous=mundane|type=instrument}\"},{\"type\":\"item\",\"name\":\"Equipment:\",\"entry\":\"An
+    inexpensive but unusual weapon, such as a {@item trident|phb} or {@item net|phb}
+    (one of your choice), the favor of an admirer (love letter, lock of hair, or
+    trinket), {@item costume clothes|phb}, and a belt {@item pouch|phb} containing
+    15 gp\"}]}},{\"mode\":\"replaceArr\",\"replace\":{\"index\":1},\"items\":{\"name\":\"Feature:
+    By Popular Demand\",\"type\":\"entries\",\"entries\":[\"You can always find a
+    place to perform in any place that features combat for entertainment\u2014perhaps
+    a gladiatorial arena or secret pit fighting club. At such a place, you receive
+    free lodging and food of a modest or comfortable standard (depending on the quality
+    of the establishment), as long as you perform each night. In addition, your performance
+    makes you something of a local figure. When strangers recognize you in a town
+    where you have performed, they typically take a liking to you.\"],\"data\":{\"isFeature\":true}}}]}},\"hasFluff\":true}"
+  DataHash: bd84af08f0ed53118d9f7f70cf2d19af

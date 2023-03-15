@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: scufflecup-teacup
+  m_EditorClassIdentifier: 
+  Title: Scufflecup Teacup
+  AsJson: '{"name":"Scufflecup Teacup","source":"SCC","page":159,"size":["T"],"type":"construct","alignment":["U"],"ac":[12],"hp":{"average":5,"formula":"2d4"},"speed":{"walk":20},"str":4,"dex":14,"con":10,"int":3,"wis":3,"cha":1,"senses":["blindsight
+    30 ft. (blind beyond this radius)"],"passive":6,"immune":["poison"],"conditionImmune":["blinded","exhaustion","poisoned"],"cr":"0","action":[{"name":"Slam","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d3 + 2}) bludgeoning
+    damage."]}],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 7f6ad3ba14498d3d28948d66e412fa2b

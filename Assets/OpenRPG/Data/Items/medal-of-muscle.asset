@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-muscle
+  m_EditorClassIdentifier: 
+  Title: Medal of Muscle
+  AsJson: '{"name":"Medal of Muscle","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["You
+    can squeeze this medal tightly in the palm of your hand as an action. Doing so
+    gives you advantage on Strength checks and Strength saving throws for 1 hour.
+    Once this property has been used, it can''t be used again, and the medal becomes
+    nonmagical."]}'
+  DataHash: d57dbf410b97026e4189280aaf0ef50d

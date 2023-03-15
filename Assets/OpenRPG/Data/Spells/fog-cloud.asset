@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: fog-cloud
+  m_EditorClassIdentifier: 
+  Title: Fog Cloud
+  AsJson: '{"name":"Fog Cloud","source":"PHB","page":243,"srd":true,"level":1,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    create a 20-foot-radius sphere of fog centered on a point within range. The sphere
+    spreads around corners, and its area is {@quickref Vision and Light|PHB|2||heavily
+    obscured}. It lasts for the duration or until a wind of moderate or greater speed
+    (at least 10 miles per hour) disperses it."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the radius of the fog increases by 20 feet for each slot level
+    above 1st."]}],"miscTags":["OBS"],"areaTags":["S"]}'
+  DataHash: 5296b447acd87b82c2a9e9f734187542

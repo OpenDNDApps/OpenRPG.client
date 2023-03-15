@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: outer-essence-shard-chaotic
+  m_EditorClassIdentifier: 
+  Title: Outer Essence Shard (Chaotic)
+  AsJson: '{"name":"Outer Essence Shard (Chaotic)","source":"TCE","page":133,"rarity":"rare","reqAttune":"by
+    a sorcerer","reqAttuneTags":[{"class":"sorcerer"}],"wondrous":true,"weight":1,"focus":["Sorcerer"],"entries":["This
+    flickering crystal holds the essence of an Outer Plane. As an action, you can
+    attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or
+    detach it. It falls off if your attunement to it ends. You can use the shard
+    as a spellcasting focus while you hold or wear it.","When you use a Metamagic
+    option on a spell while you are holding or wearing the shard, you can use that
+    property.",{"type":"entries","name":"Property","entries":["Choose one creature
+    who takes damage from the spell. That target has disadvantage on attack rolls
+    and ability checks made before the start of your next turn."]}]}'
+  DataHash: 506c44f8b590e144ec1cd166b1bdfa12

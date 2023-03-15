@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: meteor-swarm
+  m_EditorClassIdentifier: 
+  Title: Meteor Swarm
+  AsJson: '{"name":"Meteor Swarm","source":"PHB","page":259,"srd":true,"basicRules":true,"level":9,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"miles","amount":1}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Blazing
+    orbs of fire plummet to the ground at four different points you can see within
+    range. Each creature in a 40-foot-radius sphere centered on each point you choose
+    must make a Dexterity saving throw. The sphere spreads around corners. A creature
+    takes {@damage 20d6} fire damage and {@damage 20d6} bludgeoning damage on a failed
+    save, or half as much damage on a successful one. A creature in the area of more
+    than one fiery burst is affected only once.","The spell damages objects in the
+    area and ignites flammable objects that aren''t being worn or carried."],"damageInflict":["bludgeoning","fire"],"savingThrow":["dexterity"],"miscTags":["OBJ","SGT"],"areaTags":["S"]}'
+  DataHash: 58dba05db7312ba68ac98a9bc434b674

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: candle
+  m_EditorClassIdentifier: 
+  Title: Candle
+  AsJson: '{"name":"Candle","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1,"entries":["For
+    1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional
+    5 feet."]}'
+  DataHash: a00630e5f7f28a7d15b26503f5092dbe

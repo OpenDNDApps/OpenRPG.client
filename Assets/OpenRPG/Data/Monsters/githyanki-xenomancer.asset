@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: githyanki-xenomancer
+  m_EditorClassIdentifier: 
+  Title: Githyanki Xenomancer
+  AsJson: '{"name":"Githyanki Xenomancer","source":"BAM","page":27,"otherSources":[{"source":"LoX"}],"size":["M"],"type":{"type":"humanoid","tags":["druid","gith"]},"alignment":["A"],"ac":[14],"hp":{"average":157,"formula":"21d8
+    + 63"},"speed":{"walk":30},"str":14,"dex":18,"con":17,"int":15,"wis":18,"cha":13,"save":{"dex":"+8","con":"+7","wis":"+8"},"skill":{"animal
+    handling":"+8","nature":"+6","perception":"+8","survival":"+8"},"passive":18,"languages":["Gith
+    plus any four languages"],"cr":"9","spellcasting":[{"name":"Spellcasting (Psionics)","headerEntries":["The
+    githyanki casts one of the following spells, requiring no spell components and
+    using Wisdom as the spellcasting ability (spell save {@dc 16}):"],"will":["{@spell
+    druidcraft}","{@spell light}","{@spell mage hand} (the hand is invisible)"],"daily":{"2e":["{@spell
+    invisibility} (self only)","{@spell pass without trace} (self only)"],"1e":["{@spell
+    dominate monster}","{@spell forcecage}","{@spell plane shift}","{@spell telekinesis}"]},"ability":"wis","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    githyanki makes three Staff attacks, three Telekinetic Bolt attacks, or a combination
+    thereof."]},{"name":"Staff","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+    one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage, or 6 ({@damage 1d8
+    + 2}) bludgeoning damage when used with two hands, plus 14 ({@damage 4d6}) psychic
+    damage."]},{"name":"Telekinetic Bolt","entries":["{@atk rs} {@hit 8} to hit,
+    range 60 ft., one target. {@h}20 ({@damage 3d10 + 4}) force damage."]}],"bonus":[{"name":"Astral
+    Step {@recharge 4}","entries":["The githyanki teleports, along with any equipment
+    it is wearing or carrying, up to 30 feet to an unoccupied space it can see."]}],"actionTags":["Multiattack"],"languageTags":["GTH","X"],"damageTags":["B","O","Y"],"spellcastingTags":["P"],"miscTags":["MW"],"conditionInflictSpell":["charmed","invisible","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 04d569e56b4f11fb41a699866d225449

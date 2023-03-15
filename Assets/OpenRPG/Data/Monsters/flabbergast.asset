@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: flabbergast
+  m_EditorClassIdentifier: 
+  Title: Flabbergast
+  AsJson: '{"name":"Flabbergast","isNpc":true,"source":"AI","page":200,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"ac":[12,{"ac":15,"condition":"with
+    {@spell mage armor}","braces":true}],"hp":{"average":40,"formula":"9d8"},"speed":{"walk":30},"str":10,"dex":14,"con":10,"int":17,"wis":13,"cha":13,"save":{"int":"+5","wis":"+3"},"skill":{"arcana":"+5","persuasion":"+3","history":"+5","perception":"+3"},"passive":13,"languages":["Common","Draconic","Elvish","Gnomish"],"cr":"4","spellcasting":[{"name":"Spellcasting","headerEntries":["Flabbergast
+    is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save
+    {@dc 13}, {@hit 5} to hit with spell attacks). He has the following wizard spells
+    prepared:"],"spells":{"0":{"spells":["{@spell fire bolt}","{@spell light}","{@spell
+    mage hand}","{@spell prestidigitation}"]},"1":{"slots":4,"spells":["{@spell detect
+    magic}","{@spell mage armor}","{@spell distort value|AI}*"]},"2":{"slots":3,"spells":["{@spell
+    gift of gab|AI}*","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell fast
+    friends|AI}*","{@spell lightning bolt}"]},"4":{"slots":3,"spells":["{@spell greater
+    invisibility}"]},"5":{"slots":1,"spells":["{@spell cone of cold}"]}},"footerEntries":["*New
+    spell introduced in chapter 3"],"ability":"int"}],"action":[{"name":"Dagger","entries":["{@atk
+    mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) piercing damage."]}],"languageTags":["C","DR","E","G"],"damageTags":["P"],"damageTagsSpell":["C","F","L"],"spellcastingTags":["CW"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c80dcefb9b3feb1d97b1c168fa9986a3

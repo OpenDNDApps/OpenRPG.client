@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: giant
+  m_EditorClassIdentifier: 
+  Title: Giant
+  AsJson: '{"name":"Giant","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@creature
+    ogre||ogres}","{@filter giants|bestiary|type=giant}"],"script":"Dwarvish","hasFluffImages":true}'
+  DataHash: 6b3ad2ed7118dd91d2c6305f1aff7b84

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: shape-water
+  m_EditorClassIdentifier: 
+  Title: Shape Water
+  AsJson: '{"name":"Shape Water","source":"XGE","page":164,"otherSources":[{"source":"EEPC","page":21},{"source":"EGW"}],"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"s":true},"duration":[{"type":"instant"},{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+    choose an area of water that you can see within range and that fits within a
+    5-foot cube. You manipulate it in one of the following ways:",{"type":"list","items":["You
+    instantaneously move or otherwise change the flow of the water as you direct,
+    up to 5 feet in any direction. This movement doesn''t have enough force to cause
+    damage.","You cause the water to form into simple shapes and animate at your
+    direction. This change lasts for 1 hour.","You change the water''s color or opacity.
+    The water must be changed in the same way throughout. This change lasts for 1
+    hour.","You freeze the water, provided that there are no creatures in it. The
+    water unfreezes in 1 hour."]},"If you cast this spell multiple times, you can
+    have no more than two of its non-instantaneous effects active at a time, and
+    you can dismiss such an effect as an action."],"miscTags":["SGT"],"areaTags":["C"]}'
+  DataHash: 5e96d63fd28f642c28d296643dfb4ef8

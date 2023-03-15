@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: circle-of-death
+  m_EditorClassIdentifier: 
+  Title: Circle of Death
+  AsJson: '{"name":"Circle of Death","source":"PHB","page":221,"srd":true,"level":6,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":150}},"components":{"v":true,"s":true,"m":{"text":"the
+    powder of a crushed black pearl worth at least 500 gp","cost":50000}},"duration":[{"type":"instant"}],"entries":["A
+    sphere of negative energy ripples out in a 60-foot-radius sphere from a point
+    within range. Each creature in that area must make a Constitution saving throw.
+    A target takes {@damage 8d6} necrotic damage on a failed save, or half as much
+    damage on a successful one."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 7th
+    level or higher, the damage increases by {@scaledamage 8d6|6-9|2d6} for each
+    slot level above 6th."]}],"damageInflict":["necrotic"],"savingThrow":["constitution"],"areaTags":["S"]}'
+  DataHash: 8e2998e29f3269b387989146491969f4

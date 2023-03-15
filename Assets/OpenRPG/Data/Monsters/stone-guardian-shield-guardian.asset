@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: stone-guardian-shield-guardian
+  m_EditorClassIdentifier: 
+  Title: Stone Guardian (Shield Guardian)
+  AsJson: '{"name":"Stone Guardian (Shield Guardian)","source":"PSX","page":40,"_copy":{"name":"Shield
+    Guardian","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shield guardian","with":"stone
+    guardian"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 1167ddc64e765106542f3d305061eca6

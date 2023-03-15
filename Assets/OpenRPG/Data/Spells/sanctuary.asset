@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sanctuary
+  m_EditorClassIdentifier: 
+  Title: Sanctuary
+  AsJson: '{"name":"Sanctuary","source":"PHB","page":272,"srd":true,"basicRules":true,"level":1,"school":"A","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    small silver mirror"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+    ward a creature within range against attack. Until the spell ends, any creature
+    who targets the warded creature with an attack or a harmful spell must first
+    make a Wisdom saving throw. On a failed save, the creature must choose a new
+    target or lose the attack or spell. This spell doesn''t protect the warded creature
+    from area effects, such as the explosion of a {@spell fireball}.","If the warded
+    creature makes an attack, casts a spell that affects an enemy, or deals damage
+    to another creature, this spell ends."],"savingThrow":["wisdom"],"areaTags":["ST"]}'
+  DataHash: 4221090e7536023e60609b203bf75aa7

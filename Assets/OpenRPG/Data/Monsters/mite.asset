@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mite
+  m_EditorClassIdentifier: 
+  Title: Mite
+  AsJson: '{"name":"Mite","source":"MFF","page":14,"size":["S"],"type":"fey","alignment":["L","E"],"ac":[12],"hp":{"average":7,"formula":"2d6"},"speed":{"walk":30,"burrow":10,"climb":30},"str":7,"dex":14,"con":11,"int":10,"wis":8,"cha":13,"skill":{"deception":"+3","stealth":"+6"},"senses":["darkvision
+    60 ft."],"passive":9,"languages":["Sylvan","Undercommon"],"cr":"1/4","trait":[{"name":"Vexing
+    Presence","entries":["While within 30 feet of a mite that can see it, a non-fey
+    creature has disadvantage on Dexterity checks and Dexterity saving throws."]}],"action":[{"name":"Dagger","entries":["{@atk
+    mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) piercing damage."]},{"name":"Blood Boiling Hex {@recharge}","entries":["The
+    mite places a hex on a creature it can see within 60 feet of it for 1 minute.
+    If the mite is hidden, using this ability does not reveal its location. While
+    the creature is affected by this hex, whenever it makes an attack roll, an ability
+    check, or a saving throw, it must roll a {@dice d6} and subtract the number rolled
+    from the {@dice d20} roll. On any turn in which it suffers the effect of the
+    hex, the target can attack an ally as a reaction, ignoring the effect of the
+    hex when it does so. It can then ignore the effect of the hex until the end of
+    its turn."]}],"senseTags":["D"],"languageTags":["S","U"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 41f31379dea27d50f9b544b7e0f69068

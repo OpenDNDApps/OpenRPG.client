@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: stone-shape
+  m_EditorClassIdentifier: 
+  Title: Stone Shape
+  AsJson: '{"name":"Stone Shape","source":"PHB","page":278,"srd":true,"level":4,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"soft
+    clay, which must be worked into roughly the desired shape of the stone object"},"duration":[{"type":"instant"}],"entries":["You
+    touch a stone object of Medium size or smaller or a section of stone no more
+    than 5 feet in any dimension and form it into any shape that suits your purpose.
+    So, for example, you could shape a large rock into a weapon, idol, or coffer,
+    or make a small passage through a wall, as long as the wall is less than 5 feet
+    thick. You could also shape a stone door or its frame to seal the door shut.
+    The object you create can have up to two hinges and a latch, but finer mechanical
+    detail isn''t possible."],"miscTags":["OBJ"]}'
+  DataHash: e0954a32e988db69e8f618561948a7b5

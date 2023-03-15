@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: obsidian-flint-dragon-plate
+  m_EditorClassIdentifier: 
+  Title: Obsidian Flint Dragon Plate
+  AsJson: '{"name":"Obsidian Flint Dragon Plate","source":"BGDIA","page":224,"baseItem":"plate
+    armor|phb","type":"HA","rarity":"legendary","weight":65,"ac":18,"strength":"15","bonusAc":"+2","stealth":true,"entries":["You
+    gain a +2 bonus to AC and resistance to poison damage while you wear this armor.
+    In addition, you gain advantage on ability checks and saving throws made to avoid
+    or end the {@condition grappled} condition on yourself."]}'
+  DataHash: 8bfdaedb48738d9e0315f6a7320652a0

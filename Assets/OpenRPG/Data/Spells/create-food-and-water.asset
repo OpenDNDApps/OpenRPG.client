@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: create-food-and-water
+  m_EditorClassIdentifier: 
+  Title: Create Food and Water
+  AsJson: '{"name":"Create Food and Water","source":"PHB","page":229,"srd":true,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    create 45 pounds of food and 30 gallons of water on the ground or in containers
+    within range, enough to sustain up to fifteen humanoids or five steeds for 24
+    hours. The food is bland but nourishing, and spoils if uneaten after 24 hours.
+    The water is clean and doesn''t go bad."]}'
+  DataHash: bca227329c33e65d6f971868de90e7ea

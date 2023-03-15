@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: guard
+  m_EditorClassIdentifier: 
+  Title: Guard
+  AsJson: '{"name":"Guard","source":"MM","page":347,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"EGW"},{"source":"MOT"},{"source":"CM"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"LoX"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["A"],"ac":[{"ac":16,"from":["{@item chain shirt|phb}","{@item
+    shield|phb}"]}],"hp":{"average":11,"formula":"2d8 + 2"},"speed":{"walk":30},"str":13,"dex":12,"con":12,"int":10,"wis":11,"cha":10,"skill":{"perception":"+2"},"passive":12,"languages":["any
+    one language (usually Common)"],"cr":"1/8","action":[{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d6 + 1}) piercing damage, or 5 ({@damage 1d8 + 1}) piercing damage if used with
+    two hands to make a melee attack."]}],"environment":["coastal","mountain","grassland","hill","urban","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/guard.mp3"},"languageTags":["C","X"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
+  DataHash: ff4e60c5bda51817aa77f23a1b09d02f

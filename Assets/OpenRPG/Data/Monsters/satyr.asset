@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: satyr
+  m_EditorClassIdentifier: 
+  Title: Satyr
+  AsJson: '{"name":"Satyr","source":"MM","page":267,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"IMR"},{"source":"CM"},{"source":"WBtW"},{"source":"KftGV"}],"size":["M"],"type":"fey","alignment":["C","N"],"ac":[{"ac":14,"from":["{@item
+    leather armor|phb}"]}],"hp":{"average":31,"formula":"7d8"},"speed":{"walk":40},"str":12,"dex":16,"con":11,"int":12,"wis":10,"cha":14,"skill":{"perception":"+2","performance":"+6","stealth":"+5"},"passive":12,"languages":["Common","Elvish","Sylvan"],"cr":"1/2","trait":[{"name":"Magic
+    Resistance","entries":["The satyr has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Ram","entries":["{@atk mw}
+    {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) bludgeoning
+    damage."]},{"name":"Shortsword","entries":["{@atk mw} {@hit 5} to hit, reach
+    5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."]},{"name":"Shortbow","entries":["{@atk
+    rw} {@hit 5} to hit, range 80/320 ft., one target. {@h}6 ({@damage 1d6 + 3})
+    piercing damage."]}],"variant":[{"type":"variant","name":"Satyr Pipes","entries":["A
+    satyr might carry panpipes that it can play to create magical effects. Usually,
+    only one satyr in a group carries such pipes. If a satyr has pipes, it gains
+    the following additional action option.",{"type":"entries","name":"Panpipes","entries":["The
+    satyr plays its pipes and chooses one of the following magical effects: a charming
+    melody, a frightening strain, or a gentle lullaby. Any creature within 60 feet
+    of the satyr that can hear the pipes must succeed on a {@dc 13} Wisdom saving
+    throw or be affected as described below. Other satyrs and creature that can''t
+    be {@condition charmed} are unaffected","An affected creature can repeat the
+    saving throw at the end of each of its turns, ending the effect on itself on
+    a success. If a creature''s saving throw is successful or the effect ends for
+    it, the creature is immune to these panpipes for the next 24 hours.",{"type":"variantSub","name":"Charming
+    Melody","entries":["The creature is {@condition charmed} by the satyr for 1 minute.
+    If the satyr or any of its companions harms the creature, the effect on it ends
+    immediately."]},{"type":"variantSub","name":"Frightening Strain","entries":["The
+    creature is {@condition frightened} for 1 minute."]},{"type":"variantSub","name":"Gentle
+    Lullaby","entries":["The creature falls asleep and is {@condition unconscious}
+    for 1 minute. The effect ends if the creature takes damage or if someone takes
+    an action to shake the creature awake."]}]}],"_version":{"name":"Satyr Piper","addHeadersAs":"trait"}}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/satyr.mp3"},"traitTags":["Magic
+    Resistance"],"languageTags":["C","E","S"],"damageTags":["B","P"],"miscTags":["MW","RNG","RW"],"conditionInflict":["charmed","frightened","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 617337bfe80488d3de82de8a6b41197a

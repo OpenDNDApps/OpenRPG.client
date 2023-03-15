@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: create-or-destroy-water
+  m_EditorClassIdentifier: 
+  Title: Create or Destroy Water
+  AsJson: '{"name":"Create or Destroy Water","source":"PHB","page":229,"srd":true,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    drop of water if creating water or a few grains of sand if destroying it"},"duration":[{"type":"instant"}],"entries":["You
+    either create or destroy water.",{"type":"entries","name":"Create Water","entries":["You
+    create up to 10 gallons of clean water within range in an open container. Alternatively,
+    the water falls as rain in a 30-foot cube within range, extinguishing exposed
+    flames in the area."]},{"type":"entries","name":"Destroy Water","entries":["You
+    destroy up to 10 gallons of water in an open container within range. Alternatively,
+    you destroy fog in a 30-foot cube within range."]}],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, you create or destroy 10 additional gallons of water, or the
+    size of the cube increases by 5 feet, for each slot level above 1st."]}],"miscTags":["PRM"],"areaTags":["C"]}'
+  DataHash: 493f1472e9c19e77d035238fd6bf4f80

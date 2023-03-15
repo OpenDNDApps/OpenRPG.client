@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: opal-of-the-ild-rune
+  m_EditorClassIdentifier: 
+  Title: Opal of the Ild Rune
+  AsJson: "{\"name\":\"Opal of the Ild Rune\",\"source\":\"UAPrestigeClassesRunMagic\",\"page\":4,\"type\":\"MR\",\"resist\":[\"cold\"],\"rarity\":\"rare\",\"reqAttune\":true,\"entries\":[\"This
+    triangular fire opal measures about three inches on each side and is half an
+    inch thick. The ild rune\u2014the rune of fire\u2014shimmers within its core.
+    Grasping this object causes a split second of searing, fiery pain to pass through
+    you. That pain quickly fades, giving way to a warming glow.\",{\"type\":\"entries\",\"name\":\"Ignite
+    (Simple Property)\",\"entries\":[\"As an action, you scribe the ild rune using
+    ash onto a flammable object. That object immediately bursts into flame. While
+    it burns, the fire extends 1 foot out from the rune you scribed.\"]},{\"type\":\"entries\",\"name\":\"Fire
+    Tamer (Simple Property)\",\"entries\":[\"As an action, you touch an open flame
+    and scribe the ild rune within it with a hand motion. This causes the flame to
+    immediately extinguish. For a large blaze, the fire is extinguished in a 10-foot
+    radius around you. You can extend this distance by expending a spell slot when
+    using the ild rune in this manner. The radius extends by 20 feet per level of
+    the expended spell slot.\"]},{\"type\":\"entries\",\"name\":\"Fire's Friend (Simple
+    Property)\",\"entries\":[\"While you are attuned to this rune, you have resistance
+    to cold damage.\"]},{\"type\":\"entries\",\"name\":\"Combustion (Complex Property)\",\"entries\":[\"As
+    an action, you scribe this rune using ash onto a creature within your reach as
+    you expend a spell slot. The creature automatically takes {@damage 1d10} fire
+    damage plus {@damage 1d10} fire damage per level of the expended spell slot.\"]},{\"type\":\"entries\",\"name\":\"Flame
+    Brand (Complex Property)\",\"entries\":[\"Over the course of a short rest, you
+    inscribe this rune using ash onto a melee or ranged weapon, or onto up to 20
+    pieces of ammunition. The weapon or ammunition gains a ghostly aura of yellow
+    flame and deals fire damage instead of piercing, slashing, or bludgeoning damage.\",\"In
+    addition, you can expend a spell slot while using this property to grant the
+    weapon or ammunition a bonus to attack rolls and damage rolls equal to the spell
+    slot's level divided by three.\",\"These effects last for 24 hours or until you
+    use this property again.\"]},{\"type\":\"entries\",\"name\":\"Flame Stoker (Complex
+    Property)\",\"entries\":[\"While you are attuned to this rune, your fire attacks
+    are deadlier. Whenever you roll fire damage from an attack or a spell you cast,
+    you can reroll that damage and use the higher result.\"]}]}"
+  DataHash: b50427c6a62f617d4bc824f0e184065e

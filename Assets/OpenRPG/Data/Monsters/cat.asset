@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: cat
+  m_EditorClassIdentifier: 
+  Title: Cat
+  AsJson: '{"name":"Cat","source":"MM","page":320,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"IMR"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"JttRC"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":40,"climb":30},"str":3,"dex":15,"con":10,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3","stealth":"+4"},"passive":13,"cr":"0","trait":[{"name":"Keen
+    Smell","entries":["The cat has advantage on Wisdom ({@skill Perception}) checks
+    that rely on smell."]}],"action":[{"name":"Claws","entries":["{@atk mw} {@hit
+    0} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"environment":["grassland","forest","urban","desert"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/cat.mp3"},"traitTags":["Keen
+    Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 215355ea570d13d0f02debee432b22de

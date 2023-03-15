@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: component-pouch
+  m_EditorClassIdentifier: 
+  Title: Component Pouch
+  AsJson: '{"name":"Component Pouch","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":2500,"entries":["A
+    component pouch is a small, watertight leather belt pouch that has compartments
+    to hold all the material components and other special items you need to cast
+    your spells, except for those components that have a specific cost (as indicated
+    in a spell''s description)."]}'
+  DataHash: 358f670bede78cdc320a2fa8c244ce50

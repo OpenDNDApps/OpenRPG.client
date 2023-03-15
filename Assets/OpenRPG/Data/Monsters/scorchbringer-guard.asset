@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: scorchbringer-guard
+  m_EditorClassIdentifier: 
+  Title: Scorchbringer Guard
+  AsJson: '{"name":"Scorchbringer Guard","source":"GGR","page":243,"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["C","N"],"ac":[{"ac":16,"from":["{@item breastplate|phb}"]}],"hp":{"average":11,"formula":"2d8
+    + 2"},"speed":{"walk":30},"str":13,"dex":14,"con":12,"int":10,"wis":9,"cha":10,"passive":9,"languages":["any
+    one language (usually Common)"],"cr":"1/2","trait":[{"name":"Explosive Tank","entries":["When
+    the guard dies, or if it rolls a 1 when checking whether its Scorchbringer action
+    recharges, the tank on its back explodes in a 10-foot radius sphere. Each creature
+    in that area must make a {@dc 12} Dexterity saving throw, taking 7 ({@damage
+    2d6}) fire damage on a failed save, or half as much damage on a successful one.
+    The explosion ignites flammable objects that aren''t being worn or carried, and
+    it destroys the scorchbringer."]}],"action":[{"name":"Light Hammer","entries":["{@atk
+    mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) bludgeoning damage."]},{"name":"Scorchbringer {@recharge 4}","entries":["The
+    guard''s scorchbringer spouts a stream of flame in a line that is 30 feet long
+    and 5 feet wide. Each creature in the line must make a {@dc 12} Dexterity saving
+    throw, taking 7 ({@damage 2d6}) fire damage on a failed save, or half as much
+    damage on a successful one."]}],"languageTags":["C","X"],"damageTags":["B","F"],"miscTags":["AOE","MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f480b01e15077ecb77c16ab29ac800bb

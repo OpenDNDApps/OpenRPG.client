@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: alchemist-s-fire-flask
+  m_EditorClassIdentifier: 
+  Title: Alchemist's Fire (flask)
+  AsJson: '{"name":"Alchemist''s Fire (flask)","source":"PHB","page":148,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":5000,"entries":["This
+    sticky, adhesive fluid ignites when exposed to air. As an action, you can throw
+    this flask up to 20 feet, shattering it on impact. Make a ranged attack against
+    a creature or object, treating the alchemist''s fire as an improvised weapon.
+    On a hit, the target takes {@damage 1d4} fire damage at the start of each of
+    its turns. A creature can end this damage by using its action to make a DC 10
+    Dexterity check to extinguish the flames."]}'
+  DataHash: 21523d92958b56cc03ade3ba2dae583b

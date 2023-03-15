@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thessalheart-construct
+  m_EditorClassIdentifier: 
+  Title: Thessalheart Construct
+  AsJson: '{"name":"Thessalheart Construct","source":"IMR","page":86,"size":["T"],"type":"construct","alignment":["N"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":7,"formula":"2d4 + 2"},"speed":{"walk":40,"climb":40},"str":4,"dex":15,"con":12,"int":10,"wis":10,"cha":7,"senses":["darkvision
+    60"],"passive":10,"immune":["poison"],"conditionImmune":["charmed","poisoned"],"languages":["understands
+    the languages of its creator but can''t speak"],"cr":"0","trait":[{"name":"Telepathic
+    Bond","entries":["While the construct is on the same plane of existence as its
+    master, it can magically convey what it senses to its master, and the two can
+    communicate telepathically."]}],"action":[{"name":"Claws","entries":["{@atk mw}
+    {@hit 4} to hit, reach 5 ft., one target. {@h}1 slashing damage, and the target
+    must succeed on a {@dc 10} Constitution saving throw or be {@condition poisoned}
+    for 1 minute. If the saving throw fails by 5 or more, the target is instead {@condition
+    poisoned} for 5 ({@dice 1d10}) minutes and {@condition unconscious} while {@condition
+    poisoned} in this way."]}],"senseTags":["D"],"languageTags":["CS"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["poisoned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 8111946b34cf91a04f8bebbe077f243d

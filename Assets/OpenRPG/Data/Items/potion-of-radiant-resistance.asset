@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-radiant-resistance
+  m_EditorClassIdentifier: 
+  Title: Potion of Radiant Resistance
+  AsJson: '{"name":"Potion of Radiant Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["radiant"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+    Potion of Resistance}"]}'
+  DataHash: bf42608887a359ad405e65fbc37b6134

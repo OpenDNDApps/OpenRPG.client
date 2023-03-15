@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: barking-box
+  m_EditorClassIdentifier: 
+  Title: Barking Box
+  AsJson: '{"name":"Barking Box","source":"WDH","page":47,"type":"OTH","rarity":"unknown","entries":["This
+    metal cube, 6 inches on a side, has a crank on top. Using an action to wind the
+    crank activates the box for 8 hours. While activated, the box barks whenever
+    it detects vibrations within 15 feet of it, as long as the box and the source
+    of the vibrations are in contact with the same ground or substance. A switch
+    on one side of the box sets the device to emit either a small dog''s bark or
+    a large dog''s bark."]}'
+  DataHash: cf1316a74b5c90eaff28ae52c8a6d013

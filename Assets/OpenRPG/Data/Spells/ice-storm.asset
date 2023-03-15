@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ice-storm
+  m_EditorClassIdentifier: 
+  Title: Ice Storm
+  AsJson: '{"name":"Ice Storm","source":"PHB","page":252,"srd":true,"basicRules":true,"level":4,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":300}},"components":{"v":true,"s":true,"m":"a
+    pinch of dust and a few drops of water"},"duration":[{"type":"instant"}],"entries":["A
+    hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high
+    cylinder centered on a point within range. Each creature in the cylinder must
+    make a Dexterity saving throw. A creature takes {@damage 2d8} bludgeoning damage
+    and {@damage 4d6} cold damage on a failed save, or half as much damage on a successful
+    one.","Hailstones turn the storm''s area of effect into {@quickref difficult
+    terrain||3} until the end of your next turn."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 5th
+    level or higher, the bludgeoning damage increases by {@scaledamage 2d8|4-9|1d8}
+    for each slot level above 4th."]}],"damageInflict":["bludgeoning","cold"],"savingThrow":["dexterity"],"areaTags":["Y"]}'
+  DataHash: 758266622438ddb0faa865fc621ed996

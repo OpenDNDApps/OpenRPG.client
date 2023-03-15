@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: elephant
+  m_EditorClassIdentifier: 
+  Title: Elephant
+  AsJson: '{"name":"Elephant","source":"MM","page":322,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":76,"formula":"8d12 + 24"},"speed":{"walk":40},"str":22,"dex":9,"con":17,"int":3,"wis":11,"cha":6,"passive":10,"cr":"4","trait":[{"name":"Trampling
+    Charge","entries":["If the elephant moves at least 20 feet straight toward a
+    creature and then hits it with a gore attack on the same turn, that target must
+    succeed on a {@dc 12} Strength saving throw or be knocked {@condition prone}.
+    If the target is {@condition prone}, the elephant can make one stomp attack against
+    it as a bonus action."]}],"action":[{"name":"Gore","entries":["{@atk mw} {@hit
+    8} to hit, reach 5 ft., one target. {@h}19 ({@damage 3d8 + 6}) piercing damage."]},{"name":"Stomp","entries":["{@atk
+    mw} {@hit 8} to hit, reach 5 ft., one {@condition prone} creature. {@h}22 ({@damage
+    3d10 + 6}) bludgeoning damage."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/elephant.mp3"},"damageTags":["B","P"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: b1c26c48bdd6928e41b9eb0183565954

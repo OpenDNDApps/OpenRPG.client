@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kuo-toa-monitor
+  m_EditorClassIdentifier: 
+  Title: Kuo-toa Monitor
+  AsJson: '{"name":"Kuo-toa Monitor","source":"MM","page":198,"otherSources":[{"source":"PotA"},{"source":"GoS"}],"size":["M"],"type":{"type":"humanoid","tags":["kuo-toa"]},"alignment":["N","E"],"ac":[{"ac":13,"from":["natural
+    armor","Unarmored Defense"]}],"hp":{"average":65,"formula":"10d8 + 20"},"speed":{"walk":30,"swim":30},"str":14,"dex":10,"con":14,"int":12,"wis":14,"cha":11,"skill":{"perception":"+6","religion":"+5"},"senses":["darkvision
+    120 ft."],"passive":16,"languages":["Undercommon"],"cr":"3","trait":[{"name":"Amphibious","entries":["The
+    kuo-toa can breathe air and water."]},{"name":"Otherworldly Perception","entries":["The
+    kuo-toa can sense the presence of any creature within 30 feet of it that is {@condition
+    invisible} or on the Ethereal Plane. It can pinpoint such a creature that is
+    moving."]},{"name":"Slippery","entries":["The kuo-toa has advantage on ability
+    checks and saving throws made to escape a grapple."]},{"name":"Sunlight Sensitivity","entries":["While
+    in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom
+    ({@skill Perception}) checks that rely on sight."]},{"name":"Unarmored Defense","entries":["The
+    kuo-toa adds its Wisdom modifier to its armor class."]}],"action":[{"name":"Multiattack","entries":["The
+    kuo-toa makes one bite attack and two unarmed strikes."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]},{"name":"Unarmed Strike","entries":["{@atk mw} {@hit 6} to hit, reach
+    5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage plus 3 ({@damage
+    1d6}) lightning damage, and the target can''t take reactions until the end of
+    the kuo-toa''s next turn."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/kuo-toa-monitor.mp3"},"traitTags":["Amphibious","Sunlight
+    Sensitivity"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["B","L","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 8b8c420697771896d62f562b26975976

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: prismari-professor-of-expression
+  m_EditorClassIdentifier: 
+  Title: Prismari Professor of Expression
+  AsJson: '{"name":"Prismari Professor of Expression","source":"SCC","page":206,"size":["S","M"],"type":{"type":"humanoid","tags":["sorcerer"]},"alignment":["A"],"ac":[13],"hp":{"average":97,"formula":"15d8
+    + 30"},"speed":{"walk":40},"str":14,"dex":16,"con":15,"int":15,"wis":13,"cha":19,"save":{"dex":"+6","int":"+5","wis":"+4","cha":"+7"},"skill":{"acrobatics":"+6","arcana":"+5","athletics":"+5","perception":"+4","performance":"+10"},"passive":14,"resist":["fire","lightning"],"languages":["Common
+    plus any four languages"],"cr":"7","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    professor casts one of the following spells, requiring no material components
+    and using Charisma as the spellcasting ability (spell save {@dc 15}):"],"will":["{@spell
+    minor illusion}"],"daily":{"2e":["{@spell fog cloud}","{@spell gust of wind}","{@spell
+    mage armor}"]},"ability":"cha","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    professor makes three Cinder Strike attacks."]},{"name":"Cinder Strike","entries":["{@atk
+    ms} {@hit 7} to hit, reach 15 ft., one target. {@h}13 ({@damage 2d8 + 4}) fire
+    damage."]},{"name":"Lightning Flourish {@recharge}","entries":["The professor
+    unleashes arcs of magical lightning at up to two creatures it can see within
+    60 feet of itself. Each target must make a {@dc 15} Dexterity saving throw, taking
+    35 ({@damage 10d6}) lightning damage on a failed save, or half as much damage
+    on a successful one."]}],"bonus":[{"name":"Flaming Leap","entries":["The professor
+    is wreathed in flames and jumps up to 30 feet in any direction. When the professor
+    lands, the flames erupt in a 10-foot radius around the professor and then vanish.
+    Each creature of the professor''s choice in that area must succeed on a {@dc
+    15} Dexterity saving throw or take 7 ({@damage 2d6}) fire damage."]}],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["F","L"],"spellcastingTags":["O"],"miscTags":["AOE","RCH"],"hasToken":true,"hasFluff":true}'
+  DataHash: 7142be29f70f3f79f8990a52efada414

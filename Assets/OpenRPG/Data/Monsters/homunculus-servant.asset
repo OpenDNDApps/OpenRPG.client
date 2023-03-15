@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: homunculus-servant
+  m_EditorClassIdentifier: 
+  Title: Homunculus Servant
+  AsJson: "{\"name\":\"Homunculus Servant\",\"source\":\"TCE\",\"page\":22,\"otherSources\":[{\"source\":\"ERLW\",\"page\":62}],\"summonedByClass\":\"Artificer|TCE\",\"size\":[\"T\"],\"type\":\"construct\",\"ac\":[{\"ac\":13,\"from\":[\"natural
+    armor\"]}],\"hp\":{\"special\":\"1 + your Intelligence modifier + your artificer
+    level (the homunculus has a number of Hit Dice [d4s] equal to your artificer
+    level)\"},\"speed\":{\"walk\":20,\"fly\":30},\"str\":4,\"dex\":15,\"con\":12,\"int\":10,\"wis\":10,\"cha\":7,\"save\":{\"dex\":\"+2
+    plus PB\"},\"skill\":{\"perception\":\"+0 plus PB \xD7 2\",\"stealth\":\"+2 plus
+    PB\"},\"senses\":[\"darkvision 60 ft.\"],\"passive\":\"10 + (PB \xD7 2)\",\"immune\":[\"poison\"],\"conditionImmune\":[\"exhaustion\",\"poisoned\"],\"languages\":[\"understands
+    the languages you speak\"],\"pbNote\":\"equals your bonus\",\"trait\":[{\"name\":\"Evasion\",\"entries\":[\"If
+    the homunculus is subjected to an effect that allows it to make a Dexterity saving
+    throw to take only half damage, it instead takes no damage if it succeeds on
+    the saving throw, and only half damage if it fails. It can't use this trait if
+    it's {@condition incapacitated}.\"]}],\"actionNote\":\"Requires Your Bonus Action\",\"action\":[{\"name\":\"Force
+    Strike\",\"entries\":[\"{@atk rw} {@hitYourSpellAttack} to hit, range 30 ft.,
+    one target you can see. {@h}{@damage 1d4 + PB} force damage.\"]}],\"reaction\":[{\"name\":\"Channel
+    Magic\",\"entries\":[\"The homunculus delivers a spell you cast that has a range
+    of touch. The homunculus must be within 120 feet of you.\"]}],\"senseTags\":[\"D\"],\"damageTags\":[\"O\"],\"miscTags\":[\"RW\"],\"hasToken\":true,\"hasFluffImages\":true}"
+  DataHash: c32174c6f03372c1cd6eab198dc12557

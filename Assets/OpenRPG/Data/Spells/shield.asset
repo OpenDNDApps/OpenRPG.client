@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: shield
+  m_EditorClassIdentifier: 
+  Title: Shield
+  AsJson: '{"name":"Shield","source":"PHB","page":275,"srd":true,"basicRules":true,"level":1,"school":"A","time":[{"number":1,"unit":"reaction","condition":"which
+    you take when you are hit by an attack or targeted by the {@spell magic missile}
+    spell"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["An
+    invisible barrier of magical force appears and protects you. Until the start
+    of your next turn, you have a +5 bonus to AC, including against the triggering
+    attack, and you take no damage from {@spell magic missile}."],"miscTags":["MAC"]}'
+  DataHash: e2f0836506dfb8a642f4b2b7bbf15ae8

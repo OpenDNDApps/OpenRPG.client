@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-vitality
+  m_EditorClassIdentifier: 
+  Title: Potion of Vitality
+  AsJson: '{"name":"Potion of Vitality","source":"DMG","page":188,"basicRules":true,"type":"P","tier":"minor","rarity":"very
+    rare","entries":["When you drink this potion, it removes any {@condition exhaustion}
+    you are suffering and cures any disease or poison affecting you. For the next
+    24 hours, you regain the maximum number of hit points for any Hit Die you spend.
+    The potion''s crimson liquid regularly pulses with dull light, calling to mind
+    a heartbeat."],"lootTables":["Magic Item Table D"]}'
+  DataHash: 100948bef3928deb9be3ce8091695bdb

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: guardian-of-faith
+  m_EditorClassIdentifier: 
+  Title: Guardian of Faith
+  AsJson: '{"name":"Guardian of Faith","source":"PHB","page":246,"srd":true,"basicRules":true,"level":4,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["A
+    Large spectral guardian appears and hovers for the duration in an unoccupied
+    space of your choice that you can see within range. The guardian occupies that
+    space and is indistinct except for a gleaming sword and shield emblazoned with
+    the symbol of your deity.","Any creature hostile to you that moves to a space
+    within 10 feet of the guardian for the first time on a turn must succeed on a
+    Dexterity saving throw. The creature takes 20 radiant damage on a failed save,
+    or half as much damage on a successful one. The guardian vanishes when it has
+    dealt a total of 60 damage."],"damageInflict":["radiant"],"savingThrow":["dexterity"],"miscTags":["SGT"],"hasFluffImages":true}'
+  DataHash: e228b1b59282cd1293cba9581690d87a

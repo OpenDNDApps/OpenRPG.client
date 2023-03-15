@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: salida
+  m_EditorClassIdentifier: 
+  Title: Salida
+  AsJson: '{"name":"Salida","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Yuan-ti
+    Pureblood","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the yuan-ti","with":"Salida","flags":"i"}}},"alignment":["N","E"],"skill":{"deception":"+6","perception":"+3","stealth":"+3","survival":"+5"},"hasToken":true}'
+  DataHash: 060f4090ed29f21b7fd75b3af160c8a5

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ape
+  m_EditorClassIdentifier: 
+  Title: Ape
+  AsJson: '{"name":"Ape","source":"MM","page":317,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"GoS"},{"source":"CM"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":19,"formula":"3d8
+    + 6"},"speed":{"walk":30,"climb":30},"str":16,"dex":14,"con":14,"int":6,"wis":12,"cha":7,"skill":{"athletics":"+5","perception":"+3"},"passive":13,"cr":"1/2","action":[{"name":"Multiattack","entries":["The
+    ape makes two fist attacks."]},{"name":"Fist","entries":["{@atk mw} {@hit 5}
+    to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage."]},{"name":"Rock","entries":["{@atk
+    rw} {@hit 5} to hit, range 25/50 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning
+    damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/ape.mp3"},"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW","RW"],"hasToken":true}'
+  DataHash: 031c34bec4d362ff9431e5e57193c4dc

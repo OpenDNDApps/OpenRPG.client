@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: scribe-s-pen
+  m_EditorClassIdentifier: 
+  Title: Scribe's Pen
+  AsJson: '{"name":"Scribe''s Pen","source":"ERLW","page":278,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","reqAttune":"by
+    a creature with the Mark of Scribing","reqAttuneTags":[{"race":"gnome (mark of
+    scribing)|erlw"}],"wondrous":true,"entries":["You can use this pen to write on
+    any surface. You decide whether the writing is visible or {@condition invisible},
+    but the writing is always visible to a person with the Mark of Scribing.","Any
+    creature with the Mark of Scribing can use an action to touch the {@condition
+    invisible} writing, making it visible to all.","If you use the pen to write on
+    a creature that isn''t a construct, the writing fades after 7 days."]}'
+  DataHash: d9609f38e2e2a5526000c3454ef8ed35

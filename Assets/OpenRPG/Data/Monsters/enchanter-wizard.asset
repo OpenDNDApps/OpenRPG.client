@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: enchanter-wizard
+  m_EditorClassIdentifier: 
+  Title: Enchanter Wizard
+  AsJson: '{"name":"Enchanter Wizard","source":"MPMM","page":261,"otherSources":[{"source":"VGM","page":213}],"size":["M"],"type":{"type":"humanoid"},"alignment":["A"],"ac":[12,{"ac":15,"condition":"with
+    {@spell mage armor}","braces":true}],"hp":{"average":49,"formula":"11d8"},"speed":{"walk":30},"str":9,"dex":14,"con":11,"int":17,"wis":12,"cha":11,"save":{"int":"+6","wis":"+4"},"skill":{"arcana":"+6","history":"+6"},"passive":11,"languages":["any
+    four languages"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    enchanter casts one of the following spells, using Intelligence as the spellcasting
+    ability (spell save {@dc 14}):"],"will":["{@spell friends}","{@spell mage hand}","{@spell
+    message}"],"daily":{"2e":["{@spell charm person}","{@spell mage armor}","{@spell
+    hold person}","{@spell invisibility}","{@spell suggestion}","{@spell tongues}"]},"ability":"int","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    enchanter makes three Arcane Burst attacks."]},{"name":"Arcane Burst","entries":["{@atk
+    ms,rs} {@hit 6} to hit, reach 5 ft. or range 120 ft., one target. {@h}19 ({@damage
+    3d10 + 3}) psychic damage."]}],"reaction":[{"name":"Instinctive Charm {@recharge
+    4}","entries":["When a visible creature within 30 feet of the enchanter makes
+    an attack roll against it, the enchanter forces the attacker to make a {@dc 14}
+    Wisdom saving throw. On a failed save, the attacker redirects the attack roll
+    to the creature closest to it, other than the enchanter or itself. If multiple
+    eligible creatures are closest, the attacker chooses which one to target."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/enchanter.mp3"},"actionTags":["Multiattack"],"languageTags":["X"],"damageTags":["Y"],"spellcastingTags":["O"],"conditionInflictSpell":["charmed","invisible","paralyzed"],"hasToken":true,"hasFluff":true}'
+  DataHash: 76034dc763263ab2b83309af6b4b96ef

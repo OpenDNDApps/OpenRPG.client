@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: roc
+  m_EditorClassIdentifier: 
+  Title: Roc
+  AsJson: '{"name":"Roc","source":"MM","page":260,"srd":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"}],"size":["G"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":248,"formula":"16d20 + 80"},"speed":{"walk":20,"fly":120},"str":28,"dex":10,"con":20,"int":3,"wis":10,"cha":9,"save":{"dex":"+4","con":"+9","wis":"+4","cha":"+3"},"skill":{"perception":"+4"},"passive":14,"cr":"11","trait":[{"name":"Keen
+    Sight","entries":["The roc has advantage on Wisdom ({@skill Perception}) checks
+    that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The roc makes
+    two attacks: one with its beak and one with its talons."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 13} to hit, reach 10 ft., one target. {@h}27 ({@damage 4d8 + 9}) piercing
+    damage."]},{"name":"Talons","entries":["{@atk mw} {@hit 13} to hit, reach 5 ft.,
+    one target. {@h}23 ({@damage 4d6 + 9}) slashing damage, and the target is {@condition
+    grappled} (escape {@dc 19}). Until this grapple ends, the target is {@condition
+    restrained}, and the roc can''t use its talons on another target."]}],"environment":["mountain","hill","desert","coastal","arctic"],"soundClip":{"type":"internal","path":"bestiary/roc.mp3"},"traitTags":["Keen
+    Senses"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW","RCH"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: a799af7a7c63c79d2d76f53a17976601

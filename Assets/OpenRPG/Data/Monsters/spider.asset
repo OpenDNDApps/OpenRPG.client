@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: spider
+  m_EditorClassIdentifier: 
+  Title: Spider
+  AsJson: '{"name":"Spider","source":"MM","page":337,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"WDMM"},{"source":"PSX"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":1,"formula":"1d4
+    - 1"},"speed":{"walk":20,"climb":20},"str":2,"dex":14,"con":8,"int":1,"wis":10,"cha":2,"skill":{"stealth":"+4"},"senses":["darkvision
+    30 ft."],"passive":10,"cr":"0","trait":[{"name":"Spider Climb","entries":["The
+    spider can climb difficult surfaces, including upside down on ceilings, without
+    needing to make an ability check."]},{"name":"Web Sense","entries":["While in
+    contact with a web, the spider knows the exact location of any other creature
+    in contact with the same web."]},{"name":"Web Walker","entries":["The spider
+    ignores movement restrictions caused by webbing."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and the
+    target must succeed on a {@dc 9} Constitution saving throw or take 2 ({@damage
+    1d4}) poison damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/spider.mp3"},"traitTags":["Spider
+    Climb","Web Sense","Web Walker"],"senseTags":["D"],"damageTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: f70534f6310e1b2bce9336d1cbaa912e

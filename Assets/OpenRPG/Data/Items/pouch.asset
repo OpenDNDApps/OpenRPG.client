@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pouch
+  m_EditorClassIdentifier: 
+  Title: Pouch
+  AsJson: "{\"name\":\"Pouch\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":1,\"value\":50,\"entries\":[\"A
+    cloth or leather pouch can hold up to 20 {@item sling bullet|phb|sling bullets}
+    or 50 {@item blowgun needle|phb|blowgun needles}, among other things. A compartmentalized
+    pouch for holding spell components is called a {@item component pouch|phb}. A
+    pouch can hold up to \u2155 cubic foot or 6 pounds of gear.\"],\"containerCapacity\":{\"weight\":[6],\"item\":[{\"sling
+    bullet|phb\":20,\"blowgun needle|phb\":50}]}}"
+  DataHash: 85664be918ea29ab62e2524bb25e0fca

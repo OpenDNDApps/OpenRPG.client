@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: goblin
+  m_EditorClassIdentifier: 
+  Title: Goblin
+  AsJson: '{"name":"Goblin","source":"MM","page":166,"srd":true,"basicRules":true,"otherSources":[{"source":"LMoP"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"RMBRE"},{"source":"EGW"},{"source":"IDRotF"},{"source":"TCE"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"DSotDQ"}],"size":["S"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["N","E"],"ac":[{"ac":15,"from":["{@item
+    leather armor|phb}","{@item shield|phb}"]}],"hp":{"average":7,"formula":"2d6"},"speed":{"walk":30},"str":8,"dex":14,"con":10,"int":10,"wis":8,"cha":8,"skill":{"stealth":"+6"},"senses":["darkvision
+    60 ft."],"passive":9,"languages":["Common","Goblin"],"cr":"1/4","trait":[{"name":"Nimble
+    Escape","entries":["The goblin can take the Disengage or Hide action as a bonus
+    action on each of its turns."]}],"action":[{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing
+    damage."]},{"name":"Shortbow","entries":["{@atk rw} {@hit 4} to hit, range 80/320
+    ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"environment":["underdark","grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/goblin.mp3"},"altArt":[{"name":"Goblin","source":"RMBRE"}],"senseTags":["D"],"languageTags":["C","GO"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: a5cd851c317d40771cc886404e49ff42

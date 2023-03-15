@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: turtle-ship
+  m_EditorClassIdentifier: 
+  Title: Turtle Ship
+  AsJson: '{"name":"Turtle Ship","source":"AAG","page":52,"type":"SPC","rarity":"none","value":4000000,"crew":16,"vehAc":19,"vehHp":300,"vehDmgThresh":15,"vehSpeed":3,"capCargo":30,"entries":["A
+    turtle ship is encased in a protective metal shell, as befits its name, and bristles
+    with weapons. In addition to its roomy quarters, it can carry a decent- sized
+    payload, making it popular among traders and others who need a lot of cargo space.
+    The ship can land on the ground, and it floats on water. Sliding panels can be
+    closed to make the hull airtight, enabling the ship to travel underwater safely,
+    even to great depths. If the ship takes damage while on or under the water, interior
+    hatches can be sealed to prevent the ship from flooding completely.","Standard
+    weaponry on a turtle ship includes three forward-mounted ballistae and a rear-facing
+    mangonel. These weapons can''t be used while the ship is underwater."],"seeAlsoVehicle":["Turtle
+    Ship|AAG"]}'
+  DataHash: 6d1b5dd0f00a40b49549ef533cfcb154

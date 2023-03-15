@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: flaming-sphere
+  m_EditorClassIdentifier: 
+  Title: Flaming Sphere
+  AsJson: '{"name":"Flaming Sphere","source":"PHB","page":242,"srd":true,"basicRules":true,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    bit of tallow, a pinch of brimstone, and a dusting of powdered iron"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    5-foot-diameter sphere of fire appears in an unoccupied space of your choice
+    within range and lasts for the duration. Any creature that ends its turn within
+    5 feet of the sphere must make a Dexterity saving throw. The creature takes {@damage
+    2d6} fire damage on a failed save, or half as much damage on a successful one.","As
+    a bonus action, you can move the sphere up to 30 feet. If you ram the sphere
+    into a creature, that creature must make the saving throw against the sphere''s
+    damage, and the sphere stops moving this turn.","When you move the sphere, you
+    can direct it over barriers up to 5 feet tall and jump it across pits up to 10
+    feet wide. The sphere ignites flammable objects not being worn or carried, and
+    it sheds bright light in a 20-foot radius and dim light for an additional 20
+    feet."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 3rd level or higher, the damage increases
+    by {@scaledamage 2d6|2-9|1d6} for each slot level above 2nd."]}],"damageInflict":["fire"],"savingThrow":["dexterity"],"miscTags":["LGT","OBJ","UBA"],"areaTags":["S"]}'
+  DataHash: 9bc6f7478f33b5f0af6483918c4f755e

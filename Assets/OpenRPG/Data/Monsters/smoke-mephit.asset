@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: smoke-mephit
+  m_EditorClassIdentifier: 
+  Title: Smoke Mephit
+  AsJson: '{"name":"Smoke Mephit","source":"MM","page":217,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDMM"},{"source":"KftGV"}],"size":["S"],"type":"elemental","alignment":["N","E"],"ac":[12],"hp":{"average":22,"formula":"5d6
+    + 5"},"speed":{"walk":30,"fly":30},"str":6,"dex":14,"con":12,"int":10,"wis":10,"cha":11,"skill":{"perception":"+2","stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":12,"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Auran","Ignan"],"cr":"1/4","spellcasting":[{"name":"Innate
+    Spellcasting (1/Day)","headerEntries":["The mephit can innately cast {@spell
+    dancing lights}, requiring no material components. Its innate spellcasting ability
+    is Charisma."],"will":["{@spell dancing lights}"],"ability":"cha","hidden":["will"]}],"trait":[{"name":"Death
+    Burst","entries":["When the mephit dies, it leaves behind a cloud of smoke that
+    fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured.
+    Wind disperses the cloud, which otherwise lasts for 1 minute."]}],"action":[{"name":"Claws","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) slashing
+    damage."]},{"name":"Cinder Breath {@recharge}","entries":["The mephit exhales
+    a 15-foot cone of smoldering ash. Each creature in that area must succeed on
+    a {@dc 10} Dexterity saving throw or be {@condition blinded} until the end of
+    the mephit''s next turn."]}],"variant":[{"type":"variant","name":"Summon Mephits
+    (1/Day)","entries":["The mephit has a {@chance 25|25 percent|25% summoning chance}
+    chance of summoning {@dice 1d4} mephits of its kind. A summoned mephit appears
+    in an unoccupied space within 60 feet of its summoner, acts as an ally of its
+    summoner, and can''t summon other mephits. It remains for 1 minute, until it
+    or its summoner dies, or until its summoner dismisses it as an action."],"_version":{"name":"Smoke
+    Mephit (Summoner)","addAs":"action"}}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/smoke-mephit.mp3"},"traitTags":["Death
+    Burst"],"senseTags":["D"],"actionTags":["Breath Weapon"],"languageTags":["AU","IG"],"damageTags":["S"],"spellcastingTags":["I"],"miscTags":["AOE","MW"],"conditionInflict":["blinded"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 495b7f43089671a135bbfa08fc17643b

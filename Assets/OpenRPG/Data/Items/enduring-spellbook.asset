@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: enduring-spellbook
+  m_EditorClassIdentifier: 
+  Title: Enduring Spellbook
+  AsJson: '{"name":"Enduring Spellbook","source":"XGE","page":137,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+    spellbook, along with anything written on its pages, can''t be damaged by fire
+    or immersion in water. In addition, the spellbook doesn''t deteriorate with age."]}'
+  DataHash: de463a76a62a281df2ef5d5938fd5ffb

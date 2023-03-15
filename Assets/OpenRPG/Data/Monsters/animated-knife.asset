@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: animated-knife
+  m_EditorClassIdentifier: 
+  Title: Animated Knife
+  AsJson: '{"name":"Animated Knife","source":"EGW","page":248,"_copy":{"name":"Flying
+    Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"knife"},"action":{"mode":"replaceArr","replace":"Longsword","items":{"name":"Dagger","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
+    damage."]}}}},"size":["T"],"hp":{"average":12,"formula":"5d4"},"cr":"1/8","damageTags":["P"],"hasToken":true}'
+  DataHash: 486b7057b4c2c1a8d533aa86ddfc868c

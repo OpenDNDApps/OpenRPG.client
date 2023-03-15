@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: on-off-ua
+  m_EditorClassIdentifier: 
+  Title: On/Off (UA)
+  AsJson: '{"name":"On/Off (UA)","source":"UAModernMagic","page":7,"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"meta":{"technomagic":true},"entries":["This
+    cantrip allows you to activate or deactivate any electronic device within range,
+    as long as the device has a clearly defined on or off function that can be easily
+    accessed from the outside of the device. Any device that requires a software-based
+    shutdown sequence to activate or deactivate cannot be affected by on/off."]}'
+  DataHash: 0ecee394022870af451dadf5e9563133

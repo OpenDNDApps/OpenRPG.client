@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: pteranodon
+  m_EditorClassIdentifier: 
+  Title: Pteranodon
+  AsJson: '{"name":"Pteranodon","group":["Dinosaurs"],"source":"MM","page":80,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"GoS"},{"source":"ERLW"},{"source":"WBtW"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":13,"formula":"3d8"},"speed":{"walk":10,"fly":60},"str":12,"dex":15,"con":10,"int":2,"wis":9,"cha":5,"skill":{"perception":"+1"},"passive":11,"cr":"1/4","trait":[{"name":"Flyby","entries":["The
+    pteranodon doesn''t provoke opportunity attacks when it flies out of an enemy''s
+    reach."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 3} to hit, reach
+    5 ft., one target. {@h}6 ({@damage 2d4 + 1}) piercing damage"]}],"environment":["mountain","grassland","coastal"],"soundClip":{"type":"internal","path":"bestiary/pteranodon.mp3"},"traitTags":["Flyby"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 0017b0716716eda0b95c43ca48a12e69

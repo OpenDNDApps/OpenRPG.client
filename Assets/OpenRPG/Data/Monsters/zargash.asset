@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: zargash
+  m_EditorClassIdentifier: 
+  Title: Zargash
+  AsJson: '{"name":"Zargash","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":223,"size":["M"],"type":{"type":"humanoid","tags":["cleric","human"]},"alignment":["C","E"],"ac":[{"ac":13,"from":["{@item
+    chain shirt|phb}"]}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":30},"str":14,"dex":10,"con":14,"int":12,"wis":16,"cha":15,"save":{"wis":"+5","cha":"+4"},"skill":{"deception":"+6","insight":"+5"},"passive":13,"languages":["Common"],"cr":"3","spellcasting":[{"name":"Spellcasting","headerEntries":["Zargash
+    casts one of the following spells, using Wisdom as the spellcasting ability (spell
+    save {@dc 13}):"],"will":["{@spell light}","{@spell thaumaturgy}"],"daily":{"1e":["{@spell
+    command}","{@spell gaseous form}","{@spell hold person}","{@spell silence}","{@spell
+    speak with dead}"]},"ability":"wis","displayAs":"action"}],"trait":[{"name":"Cling
+    to Life (Recharges after a Long Rest)","entries":["The first time Zargash would
+    drop to 0 hit points as a result of taking damage, he instead drops to 1 hit
+    point."]},{"name":"Special Equipment","entries":["Zargash wears a bat-shaped
+    amulet that has the properties of a ring of feather falling."]}],"action":[{"name":"Warhammer","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning
+    damage, or 7 ({@damage 1d10 + 2}) bludgeoning damage when used with two hands."]},{"name":"Deathly
+    Ray","entries":["{@atk rs} {@hit 5} to hit, range 60 ft., one creature. {@h}25
+    ({@damage 4d10 + 3}) necrotic damage."]}],"bonus":[{"name":"Animate Corpse (1/Day)","entries":["Zargash
+    targets the lifeless corpse of one Humanoid he can see within 30 feet of him
+    and commands it to rise, transforming it into a zombie under his control. The
+    zombie takes its turn immediately after Zargash. Animating the zombie requires
+    Zargash''s concentration (as if concentrating on a spell). The zombie reverts
+    to an inanimate corpse after 10 minutes, when it drops to 0 hit points, or when
+    Zargash''s concentration ends."]}],"languageTags":["C"],"damageTags":["B","N"],"spellcastingTags":["O"],"miscTags":["MW"],"conditionInflictSpell":["deafened","paralyzed","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: dcd6bc27199cf79e461e635e95c9e512

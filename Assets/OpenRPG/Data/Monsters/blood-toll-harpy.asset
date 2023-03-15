@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: blood-toll-harpy
+  m_EditorClassIdentifier: 
+  Title: Blood-Toll Harpy
+  AsJson: '{"name":"Blood-Toll Harpy","source":"MOT","page":227,"size":["M"],"type":"monstrosity","alignment":["C","E"],"ac":[11],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":20,"fly":40},"str":12,"dex":13,"con":10,"int":6,"wis":11,"cha":13,"skill":{"intimidation":"+3"},"passive":10,"languages":["Common"],"cr":"1/8","trait":[{"name":"Blood
+    Frenzy","entries":["The harpy has advantage on melee attack rolls against any
+    creature that doesn''t have all its hit points."]},{"name":"Dark Devotion","entries":["The
+    harpy has advantage on saving throws against being {@condition charmed} or {@condition
+    frightened}."]}],"action":[{"name":"Multiattack","entries":["The harpy makes
+    two melee attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 3} to hit, reach 5 ft.,
+    one target. {@h}3 ({@damage 1d4 + 1}) slashing damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d7f41e1ee5aa3c2139fc7d1b7a6d99f5

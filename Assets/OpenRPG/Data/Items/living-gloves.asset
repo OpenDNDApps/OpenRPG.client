@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: living-gloves
+  m_EditorClassIdentifier: 
+  Title: Living Gloves
+  AsJson: "{\"name\":\"Living Gloves\",\"source\":\"ERLW\",\"page\":278,\"rarity\":\"uncommon\",\"reqAttune\":true,\"wondrous\":true,\"grantsProficiency\":true,\"entries\":[\"These
+    symbiotic gloves\u2014made of thin chitin and sinew\u2014pulse with a life of
+    their own. To attune to them, you must wear them for the entire attunement period,
+    during which the gloves bond with your skin.\",\"While attuned to these gloves,
+    you gain one of the following proficiencies (your choice when you attune to the
+    gloves):\",{\"type\":\"list\",\"items\":[\"{@skill Sleight of Hand}\",\"{@item
+    Thieves' tools|PHB}\",\"One kind of {@item artisan's tools|PHB} of your choice\",\"One
+    kind of {@item musical instrument|PHB} of your choice\"]},\"When you make an
+    ability check using the chosen proficiency, you add double your proficiency bonus
+    to the check, instead of your normal proficiency bonus.\",{\"type\":\"entries\",\"name\":\"Symbiotic
+    Nature\",\"entries\":[\"The gloves can't be removed from you while you're attuned
+    to them, and you can't voluntarily end your attunement to them. If you're targeted
+    by a spell that ends a curse, your attunement to the gloves ends, and they can
+    be removed.\"]}]}"
+  DataHash: 32fb9eee641f89b72177ffad17f62c3f

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: psi-crystal
+  m_EditorClassIdentifier: 
+  Title: Psi Crystal
+  AsJson: '{"name":"Psi Crystal","source":"IDRotF","page":315,"rarity":"uncommon","reqAttune":"by
+    a creature with an intelligence score of 3 or higher","reqAttuneTags":[{"int":3}],"wondrous":true,"entries":["This
+    crystal grants you telepathy for as long as you remain attuned to it. See the
+    {@book introduction of the Monster Manual|MM|0|Telepathy} for rules on how this
+    telepathy works.","The crystal also glows with a purplish inner light while you
+    are attuned to it.","The higher your intelligence, the greater the light''s intensity
+    and the greater the range of the telepathy (see the Psi Crystal Properties table).",{"type":"table","caption":"Psi
+    Crystal Properties","colStyles":["col-2 text-center","col-2 text-center","col-8"],"colLabels":["Intelligence
+    Score","Range of Telepathy","Light Intensity"],"rows":[["3-7","15 feet","Dim
+    light out to a range of 5 feet"],["8-11","30 feet","Bright light in a 5-foot
+    radius and dim light for an additional 5 feet"],["12-15","60 feet","Bright light
+    in a 10-foot radius and dim light for an additional 10 feet"],["16 or higher","120
+    feet","Bright light in a 15-foot radius and dim light for an additional 15 feet"]]}],"hasFluffImages":true}'
+  DataHash: 307ed10dd586df322608692b705520fe

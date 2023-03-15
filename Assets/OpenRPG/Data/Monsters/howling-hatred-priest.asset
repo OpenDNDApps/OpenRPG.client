@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: howling-hatred-priest
+  m_EditorClassIdentifier: 
+  Title: Howling Hatred Priest
+  AsJson: '{"name":"Howling Hatred Priest","source":"PotA","page":190,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":15,"from":["{@item
+    studded leather armor|phb|studded leather}"]}],"hp":{"average":45,"formula":"10d8"},"speed":{"walk":30},"str":12,"dex":16,"con":10,"int":14,"wis":10,"cha":14,"skill":{"acrobatics":"+5","intimidation":"+4","religion":"+4"},"passive":10,"languages":["Auran","Common"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell
+    save {@dc 12}, {@hit 4} to hit with spell attacks). It knows the following sorcerer
+    spells:"],"spells":{"0":{"spells":["{@spell blade ward}","{@spell gust|xge}","{@spell
+    light}","{@spell prestidigitation}","{@spell shocking grasp}"]},"1":{"slots":4,"spells":["{@spell
+    feather fall}","{@spell shield}","{@spell witch bolt}"]},"2":{"slots":3,"spells":["{@spell
+    dust devil|xge}","{@spell gust of wind}"]},"3":{"slots":2,"spells":["{@spell
+    gaseous form}"]}},"ability":"cha"}],"trait":[{"name":"Hold Breath","entries":["The
+    priest can hold its breath for 30 minutes."]}],"action":[{"name":"Multiattack","entries":["The
+    priest makes two melee attacks or two ranged attacks."]},{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing
+    damage."]},{"name":"Dagger","entries":["{@atk mw,rw} {@hit 5} to hit, reach 5
+    ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."]}],"traitTags":["Hold
+    Breath"],"actionTags":["Multiattack"],"languageTags":["AU","C"],"damageTags":["P","S"],"damageTagsSpell":["B","L"],"spellcastingTags":["CS"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c32ec931473cf1ad07a65bc0097acc5d

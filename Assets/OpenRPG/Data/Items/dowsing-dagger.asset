@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dowsing-dagger
+  m_EditorClassIdentifier: 
+  Title: Dowsing Dagger
+  AsJson: '{"name":"Dowsing Dagger","source":"XMtS","page":19,"rarity":"unknown (magic)","entries":["A
+    curved jade blade fashioned by the River Heralds, this {@item +1 dagger} can
+    detect the presence of fresh water within 200 feet of the wielder."]}'
+  DataHash: 70546f314b6475794d93407ae7bf1e6a

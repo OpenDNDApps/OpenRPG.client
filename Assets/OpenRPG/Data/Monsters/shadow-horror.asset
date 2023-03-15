@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: shadow-horror
+  m_EditorClassIdentifier: 
+  Title: Shadow Horror
+  AsJson: '{"name":"Shadow Horror","source":"GGR","page":205,"size":["L"],"type":"aberration","alignment":["N","E"],"ac":[13],"hp":{"average":120,"formula":"16d10
+    + 32"},"speed":{"walk":40},"str":12,"dex":16,"con":14,"int":2,"wis":17,"cha":18,"skill":{"perception":"+7","stealth":"+11"},"senses":["darkvision
+    120 ft."],"passive":17,"vulnerable":["radiant"],"conditionImmune":["frightened"],"cr":"9","trait":[{"name":"Incorporeal
+    Movement","entries":["The horror can move through other creatures and objects
+    as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10})
+    force damage if it ends its turn inside an object."]},{"name":"Shadow Stealth","entries":["While
+    in dim light or darkness, the horror can take the Hide action as a bonus action."]},{"name":"Shadow
+    Stride","entries":["As a bonus action, the horror can step into a shadow within
+    5 feet of it and magically appear in an unoccupied space within 5 feet of a second
+    shadow that is up to 60 feet away. Both shadows must be cast by a Small or larger
+    creature or object."]},{"name":"Sunlight Sensitivity","entries":["While in sunlight,
+    the horror has disadvantage on attack rolls and on Wisdom (Perception) checks
+    that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The horror
+    makes three attacks: one with its bite and two with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}21 ({@damage 4d8 + 3}) piercing
+    damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}13 ({@damage 3d6 + 3}) slashing damage, and the target must succeed
+    on a {@dc 16} Wisdom saving throw or be {@condition frightened} of the horror
+    until the end of the target''s next turn."]},{"name":"Lashing Shadows {@recharge
+    5}","entries":["Each creature within 60 feet of the horror, except other horrors,
+    must succeed on a {@dc 16} Dexterity saving throw or take 27 ({@damage 6d8})
+    necrotic damage."]}],"traitTags":["Incorporeal Movement","Sunlight Sensitivity"],"senseTags":["SD"],"actionTags":["Multiattack"],"damageTags":["N","O","P","S"],"miscTags":["MW"],"conditionInflict":["frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 826bb5e5f74cb01923f2eeeeb089ba6d

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: naevys-tharesso
+  m_EditorClassIdentifier: 
+  Title: Naevys Tharesso
+  AsJson: '{"name":"Naevys Tharesso","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    knight","with":"Naevys Tharesso","flags":"i"},"action":{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Flame
+    Tongue Longsword","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one target.
+    {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing
+    damage if used with two hands. The knight can use a bonus action to speak this
+    magic sword''s command word, causing flames to erupt from the blade. These flames
+    shed bright light in a 40-foot radius and dim light for an additional 40 feet.
+    While the sword is ablaze, it deals an extra 2d6 fire damage to any target it
+    hits. The flames last until she uses a bonus action to speak the command word
+    again or until she drops or sheathes the sword."]}}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["L","G"]}'
+  DataHash: fe98811a191eee0cd82bf8b5028a9f5e

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-the-adder
+  m_EditorClassIdentifier: 
+  Title: Staff of the Adder
+  AsJson: '{"name":"Staff of the Adder","source":"DMG","page":203,"tier":"major","rarity":"uncommon","reqAttune":"by
+    a cleric, druid, or warlock","reqAttuneTags":[{"class":"cleric"},{"class":"druid"},{"class":"warlock"}],"weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","staff":true,"entries":["You
+    can use a bonus action to speak this staff''s command word and make the head
+    of the staff become that of an animate poisonous snake for 1 minute. By using
+    another bonus action to speak the command word again, you return the staff to
+    its normal inanimate form.","You can make a melee attack using the snake head,
+    which has a reach of 5 feet. Your proficiency bonus applies to the attack roll.
+    On a hit, the target takes {@damage 1d6} piercing damage and must succeed on
+    a DC 15 Constitution saving throw or take {@damage 3d6} poison damage.","The
+    snake head can be attacked while it is animate. It has an Armor Class of 15 and
+    20 hit points. If the head drops to 0 hit points, the staff is destroyed. As
+    long as it''s not destroyed, the staff regains all lost hit points when it reverts
+    to its inanimate form."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+  DataHash: bfea54322a93a4920dca8e7415f2653a

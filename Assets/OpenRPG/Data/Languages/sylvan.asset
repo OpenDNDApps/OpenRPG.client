@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: sylvan
+  m_EditorClassIdentifier: 
+  Title: Sylvan
+  AsJson: '{"name":"Sylvan","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
+    fey creatures|bestiary|type=fey}"],"script":"Elvish","hasFluffImages":true}'
+  DataHash: 9bf42d2d5a8631d55b3a3a543699525f

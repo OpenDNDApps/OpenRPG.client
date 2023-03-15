@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: griffon
+  m_EditorClassIdentifier: 
+  Title: Griffon
+  AsJson: '{"name":"Griffon","source":"MM","page":174,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"PotA"},{"source":"SKT"},{"source":"WDH"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"JttRC"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[12],"hp":{"average":59,"formula":"7d10
+    + 21"},"speed":{"walk":30,"fly":80},"str":18,"dex":15,"con":16,"int":2,"wis":13,"cha":8,"skill":{"perception":"+5"},"senses":["darkvision
+    60 ft."],"passive":15,"cr":"2","trait":[{"name":"Keen Sight","entries":["The
+    griffon has advantage on Wisdom ({@skill Perception}) checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The
+    griffon makes two attacks: one with its beak and one with its claws."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+    one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."]}],"environment":["mountain","grassland","hill","coastal","arctic"],"soundClip":{"type":"internal","path":"bestiary/griffon.mp3"},"traitTags":["Keen
+    Senses"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 61eaae6a0acde0f862733e860ff5f7d5

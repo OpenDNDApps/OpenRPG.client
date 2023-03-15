@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: eyes-of-minute-seeing
+  m_EditorClassIdentifier: 
+  Title: Eyes of Minute Seeing
+  AsJson: '{"name":"Eyes of Minute Seeing","source":"DMG","page":168,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["These
+    crystal lenses fit over the eyes. While wearing them, you can see much better
+    than normal out to a range of 1 foot. You have advantage on Intelligence ({@skill
+    Investigation}) checks that rely on sight while searching an area or studying
+    an object within that range."],"lootTables":["Magic Item Table C"]}'
+  DataHash: 2ed81e29a9392e2bfbd25e6d7b0f8ac0

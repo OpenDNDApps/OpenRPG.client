@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: chimera
+  m_EditorClassIdentifier: 
+  Title: Chimera
+  AsJson: '{"name":"Chimera","source":"MM","page":39,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDMM"},{"source":"SDW"},{"source":"BGDIA"}],"size":["L"],"type":"monstrosity","alignment":["C","E"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":114,"formula":"12d10 + 48"},"speed":{"walk":30,"fly":60},"str":19,"dex":11,"con":19,"int":3,"wis":14,"cha":10,"skill":{"perception":"+8"},"senses":["darkvision
+    60 ft."],"passive":18,"languages":["understands Draconic but can''t speak"],"cr":"6","action":[{"name":"Multiattack","entries":["The
+    chimera makes three attacks: one with its bite, one with its horns, and one with
+    its claws. When its fire breath is available, it can use the breath in place
+    of its bite or horns."]},{"name":"Bite","entries":["{@atk mw} {@hit 7} to hit,
+    reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage."]},{"name":"Horns","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d12 + 4}) bludgeoning
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."]},{"name":"Fire Breath
+    {@recharge 5}","entries":["The dragon head exhales fire in a 15-foot cone. Each
+    creature in that area must make a {@dc 15} Dexterity saving throw, taking 31
+    ({@damage 7d8}) fire damage on a failed save, or half as much damage on a successful
+    one."]}],"environment":["underdark","mountain","grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/chimera.mp3"},"senseTags":["D"],"actionTags":["Breath
+    Weapon","Multiattack"],"languageTags":["CS","DR"],"damageTags":["B","F","P","S"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: b7d4f837db09cd486530736e34718997

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: insignia-of-claws
+  m_EditorClassIdentifier: 
+  Title: Insignia of Claws
+  AsJson: '{"name":"Insignia of Claws","source":"HotDQ","page":94,"otherSources":[{"source":"ToD","page":178}],"rarity":"uncommon","wondrous":true,"bonusWeapon":"+1","entries":["The
+    jewels in the insignia of the Cult of the Dragon flare with purple light when
+    you enter combat, empowering your natural fists or natural weapons.","While wearing
+    the insignia you gain a +1 bonus to the attack rolls and the damage rolls you
+    make with unarmed strikes and natural weapons. Such attacks are considered to
+    be magical."]}'
+  DataHash: 5b3406efa6b1fb526f3bec8e0bb58770

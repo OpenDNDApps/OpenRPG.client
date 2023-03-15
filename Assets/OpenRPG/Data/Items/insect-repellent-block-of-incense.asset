@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: insect-repellent-block-of-incense
+  m_EditorClassIdentifier: 
+  Title: Insect Repellent (block of incense)
+  AsJson: '{"name":"Insect Repellent (block of incense)","source":"ToA","page":32,"type":"G","rarity":"none","value":10,"charges":1,"entries":["Insect
+    repellent can be purchased in Port Nyanzaru in two forms: blocks of incense or
+    a greasy salve. The merchant prince Kwayothe controls the sale of both. Neither
+    kind of repellent protects against giant insects or the vile swarms of insects
+    described in appendix A of the Monster Manual.","When lit, it burns for 8 hours
+    and repels normal insects within a 20-foot-radius centered on it."]}'
+  DataHash: 29744efe15aba261b6933d5247db0761

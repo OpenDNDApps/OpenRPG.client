@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: glabrezu
+  m_EditorClassIdentifier: 
+  Title: Glabrezu
+  AsJson: '{"name":"Glabrezu","source":"MM","page":58,"srd":true,"otherSources":[{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"EGW"},{"source":"CRCotN"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":157,"formula":"15d10 + 75"},"speed":{"walk":40},"str":20,"dex":15,"con":21,"int":19,"wis":17,"cha":16,"save":{"str":"+9","con":"+9","wis":"+7","cha":"+7"},"senses":["truesight
+    120 ft."],"passive":13,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+    120 ft."],"cr":"9","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    glabrezu''s spellcasting ability is Intelligence (spell save {@dc 16}). The glabrezu
+    can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    darkness}","{@spell detect magic}","{@spell dispel magic}"],"daily":{"1e":["{@spell
+    confusion}","{@spell fly}","{@spell power word stun}"]},"ability":"int"}],"trait":[{"name":"Magic
+    Resistance","entries":["The glabrezu has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively,
+    it makes two attacks with its pincers and casts one spell."]},{"name":"Pincer","entries":["{@atk
+    mw} {@hit 9} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d10 + 5}) bludgeoning
+    damage. If the target is a Medium or smaller creature, it is {@condition grappled}
+    (escape {@dc 15}). The glabrezu has two pincers, each of which can grapple only
+    one target."]},{"name":"Fist","entries":["{@atk mw} {@hit 9} to hit, reach 5
+    ft., one target. {@h}7 ({@damage 2d4 + 2}) bludgeoning damage."]}],"variant":[{"type":"variant","name":"Summon
+    Demon (1/Day)","entries":["The demon chooses what to summon and attempts a magical
+    summoning.","A glabrezu has a {@chance 30|30 percent|30% summoning chance} chance
+    of summoning {@dice 1d3} {@creature vrock||vrocks}, {@dice 1d2} {@creature hezrou||hezrous},
+    or one glabrezu.","A summoned demon appears in an unoccupied space within 60
+    feet of its summoner, acts as an ally of its summoner, and can''t summon other
+    demons. It remains for 1 minute, until it or its summoner dies, or until its
+    summoner dismisses it as an action."],"_version":{"name":"Glabrezu (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/glabrezu.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["B"],"spellcastingTags":["I"],"miscTags":["MW","RCH"],"conditionInflict":["grappled"],"conditionInflictSpell":["stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c2604292a0ac806dafab206f188df65d

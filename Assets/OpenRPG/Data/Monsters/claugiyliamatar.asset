@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: claugiyliamatar
+  m_EditorClassIdentifier: 
+  Title: Claugiyliamatar
+  AsJson: '{"name":"Claugiyliamatar","isNpc":true,"isNamedCreature":true,"source":"SKT","page":96,"otherSources":[{"source":"DC"},{"source":"SLW"},{"source":"SDW"}],"_copy":{"name":"Ancient
+    Green Dragon","source":"MM"},"spellcasting":[{"name":"Spellcasting","headerEntries":["Claugiyliamatar
+    casts one of the following spells, requiring no material components and using
+    Charisma as the spellcasting ability (spell save {@dc 19}):"],"will":["{@spell
+    detect magic}","{@spell druidcraft}","{@spell speak with animals}"],"daily":{"2e":["{@spell
+    animal messenger}","{@spell cure wounds}","{@spell dispel magic}","{@spell entangle}","{@spell
+    invisibility}"],"1e":["{@spell blight}","{@spell legend lore} (cast as 1 action)","{@spell
+    locate creature}","{@spell pass without trace}","{@spell protection from energy}","{@spell
+    true seeing}"]},"ability":"cha","displayAs":"action"}],"damageTagsLegendary":[],"damageTagsSpell":["N"],"spellcastingTags":["O"],"hasToken":true}'
+  DataHash: 9fcd997d2049d74523a9d62c54ffd981

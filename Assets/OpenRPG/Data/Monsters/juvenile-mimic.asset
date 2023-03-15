@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: juvenile-mimic
+  m_EditorClassIdentifier: 
+  Title: Juvenile Mimic
+  AsJson: '{"name":"Juvenile Mimic","source":"TCE","page":167,"size":["T"],"type":{"type":"monstrosity","tags":["shapechanger"]},"alignment":["U"],"ac":[11],"hp":{"average":7,"formula":"2d4
+    + 2"},"speed":{"walk":10,"climb":10},"str":1,"dex":12,"con":13,"int":10,"wis":13,"cha":10,"skill":{"stealth":"+3"},"senses":["darkvision
+    60 ft."],"passive":11,"immune":["acid"],"conditionImmune":["prone"],"languages":["Common","Undercommon","telepathy
+    120 ft."],"cr":"0","trait":[{"name":"False Appearance (Object Form Only)","entries":["While
+    the mimic remains motionless, it is indistinguishable from an ordinary object."]},{"name":"Spider
+    Climb","entries":["The mimic can climb difficult surfaces, including upside down
+    on ceilings, without needing to make an ability check."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}1 piercing damage plus 2 ({@damage
+    1d4}) acid damage."]},{"name":"Shape-Shift","entries":["The mimic polymorphs
+    into an object or back into its true, amorphous form. Its statistics are the
+    same in each form. Any equipment it is wearing or carrying isn''t transformed.
+    It reverts to its true form if it dies."]}],"traitTags":["False Appearance","Spider
+    Climb"],"senseTags":["D"],"languageTags":["C","TP","U"],"damageTags":["A","P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: a58ec69e7a19bf36615c23723b3b06e7

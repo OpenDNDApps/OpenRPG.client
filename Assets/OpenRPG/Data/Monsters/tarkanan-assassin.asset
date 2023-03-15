@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: tarkanan-assassin
+  m_EditorClassIdentifier: 
+  Title: Tarkanan Assassin
+  AsJson: '{"name":"Tarkanan Assassin","source":"ERLW","page":320,"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["L","NX","C","NY","E"],"ac":[{"ac":15,"from":["{@item studded
+    leather armor|phb|studded leather}"]}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":30},"str":12,"dex":16,"con":14,"int":10,"wis":14,"cha":11,"skill":{"athletics":"+3","deception":"+2","perception":"+4","sleight
+    of hand":"+5","stealth":"+5"},"senses":["darkvision 60 ft."],"passive":14,"languages":["Common","Thieves''
+    cant"],"cr":"2","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    assassin''s spellcasting ability is Constitution ({@hit 4} to hit with spell
+    attacks). It can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    fire bolt}"],"daily":{"1":["{@spell chromatic orb}"]},"ability":"con"}],"trait":[{"name":"Unstable
+    Mark","entries":["When the assassin casts an innate spell, each creature within
+    10 feet of the assassin must make a {@dc 12} Constitution saving throw, taking
+    4 ({@damage 1d8}) force damage on a failed save, or half as much damage on a
+    successful one."]}],"action":[{"name":"Multiattack","entries":["The assassin
+    makes two shortsword attacks."]},{"name":"Shortsword","entries":["{@atk mw} {@hit
+    5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage
+    plus 7 ({@damage 2d6}) poison damage."]},{"name":"Fire Bolt (Cantrip)","entries":["{@atk
+    rs} {@hit 4} to hit, range 120 ft., one target. {@h}11 ({@damage 2d10}) fire
+    damage. A flammable object hit by this spell ignites if it isn''t being worn
+    or carried."]},{"name":"Chromatic Orb (1/Day)","entries":["{@atk rs} {@hit 4}
+    to hit, range 90 ft., one creature. {@h}18 ({@dice 4d8}) damage of a type chosen
+    by the assassin: acid, cold, fire, lightning, poison, or thunder."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","TC"],"damageTags":["F","I","O","P"],"damageTagsSpell":["A","C","F","I","L","T"],"spellcastingTags":["I"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 6520b4c755e4f3f46ed06db95512342a

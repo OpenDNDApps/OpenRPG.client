@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thunderbeast-skeleton
+  m_EditorClassIdentifier: 
+  Title: Thunderbeast Skeleton
+  AsJson: '{"name":"Thunderbeast Skeleton","source":"SKT","page":99,"size":["H"],"type":"undead","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":68,"formula":"8d12 + 16"},"speed":{"walk":30},"str":19,"dex":11,"con":15,"int":2,"wis":12,"cha":5,"senses":["darkvision
+    60 ft."],"passive":11,"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["poisoned","exhaustion"],"cr":"3","action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., {@h}18 ({@damage 4d6 + 4}) piercing damage."]},{"name":"Tail","entries":["{@hit
+    7} to hit, reach 10 ft., one target. {@h}18 ({@damage 4d6 + 4}) bludgeoning damage.
+    Succeed on a DC14 Strength saving throw or be knocked {@condition prone}."]}],"senseTags":["D"],"damageTags":["B","P"],"miscTags":["MW","RCH"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: a49ac67cd928b0f9d51de451a2fb6882

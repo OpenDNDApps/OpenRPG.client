@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: stone-cursed
+  m_EditorClassIdentifier: 
+  Title: Stone Cursed
+  AsJson: '{"name":"Stone Cursed","source":"MTF","page":240,"reprintedAs":["Stone
+    Cursed|MPMM"],"size":["M"],"type":"construct","alignment":["L","E"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":19,"formula":"3d8 + 4"},"speed":{"walk":10},"str":16,"dex":5,"con":14,"int":5,"wis":8,"cha":7,"passive":9,"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["charmed","exhaustion","frightened","petrified","poisoned"],"languages":["the
+    languages it knew in life"],"cr":"1","trait":[{"name":"Cunning Opportunist","entries":["The
+    stone cursed has advantage on the attack rolls of opportunity attacks."]},{"name":"False
+    Appearance","entries":["While the stone cursed remains motionless, it is indistinguishable
+    from a normal statue."]}],"action":[{"name":"Petrifying Claws","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) slashing
+    damage, or 14 ({@damage 2d10 + 3}) slashing damage if the attack roll had advantage.
+    If the target is a creature, it must succeed on a {@dc 12} Constitution saving
+    throw, or it begins to turn to stone and is {@condition restrained} until the
+    end of its next turn, when it must repeat the saving throw. The effect ends if
+    the second save is successful; otherwise the target is {@condition petrified}
+    for 24 hours."]}],"environment":["desert","mountain","urban"],"soundClip":{"type":"internal","path":"bestiary/stone-cursed.mp3"},"traitTags":["False
+    Appearance"],"languageTags":["LF"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["petrified","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 5af71e45053d4ed1039ac82f86b71c41

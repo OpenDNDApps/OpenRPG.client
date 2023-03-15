@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: orc
+  m_EditorClassIdentifier: 
+  Title: Orc
+  AsJson: '{"name":"Orc","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
+    orcs|bestiary|tag=orc}"],"script":"Dwarvish","entries":[" Orc is a harsh, grating
+    language with hard consonants. It has no script of its own but is written in
+    the Dwarvish script."],"hasFluffImages":true}'
+  DataHash: db517f086ffdde24ff82071230c92387

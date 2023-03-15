@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ruin-s-wake-exalted
+  m_EditorClassIdentifier: 
+  Title: Ruin's Wake (Exalted)
+  AsJson: '{"name":"Ruin''s Wake (Exalted)","source":"EGW","_copy":{"name":"Ruin''s
+    Wake (Awakened)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted","entries":["When
+    the spear reaches an exalted state, it gains the following properties:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +3.","While holding the
+    spear, you can let out a battle cry as a bonus action. Each creature you choose
+    within 30 feet of you gains advantage on attack rolls until the start of your
+    next turn. This property can''t be used again until the next dawn.","When you
+    reduce a creature to 0 hit points with an attack from the spear, you can regain
+    hit points equal to the damage you dealt with the attack. This property can''t
+    be used again until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+3","hasFluffImages":true}'
+  DataHash: 62bf59025a39d54b9b28ca45c185815d

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: unseen-servant
+  m_EditorClassIdentifier: 
+  Title: Unseen Servant
+  AsJson: '{"name":"Unseen Servant","source":"PHB","page":284,"srd":true,"level":1,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    piece of string and a bit of wood"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"meta":{"ritual":true},"entries":["This
+    spell creates an {@condition invisible}, mindless, shapeless, Medium force that
+    performs simple tasks at your command until the spell ends. The servant springs
+    into existence in an unoccupied space on the ground within range. It has AC 10,
+    1 hit point, and a Strength of 2, and it can''t attack. If it drops to 0 hit
+    points, the spell ends.","Once on each of your turns as a bonus action, you can
+    mentally command the servant to move up to 15 feet and interact with an object.
+    The servant can perform simple tasks that a human servant could do, such as fetching
+    things, cleaning, mending, folding clothes, lighting fires, serving food, and
+    pouring wine. Once you give the command, the servant performs the task to the
+    best of its ability until it completes the task, then waits for your next command.","If
+    you command the servant to perform a task that would move it more than 60 feet
+    away from you, the spell ends."],"miscTags":["UBA"]}'
+  DataHash: dc55312782fdff9d399f5a6479316e6b

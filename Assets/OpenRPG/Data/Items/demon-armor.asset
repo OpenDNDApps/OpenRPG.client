@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: demon-armor
+  m_EditorClassIdentifier: 
+  Title: Demon Armor
+  AsJson: '{"name":"Demon Armor","source":"DMG","page":165,"srd":true,"type":"HA","tier":"major","rarity":"very
+    rare","reqAttune":true,"curse":true,"weight":65,"ac":18,"strength":"15","bonusWeapon":"+1","bonusAc":"+1","stealth":true,"entries":["While
+    wearing this armor, you gain a +1 bonus to AC, and you can understand and speak
+    Abyssal. In addition, the armor''s clawed gauntlets turn unarmed strikes with
+    your hands into magic weapons that deal slashing damage, with a +1 bonus to attack
+    and damage rolls and a damage die of {@dice 1d8}.",{"type":"entries","name":"Curse","entries":["Once
+    you don this cursed armor, you can''t doff it unless you are targeted by the
+    {@spell remove curse} spell or similar magic. While wearing the armor, you have
+    disadvantage on attack rolls against demons and on saving throws against their
+    spells and special abilities."]}],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+  DataHash: 7793e5885a9408fe546b455badbe2a76

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dust-of-the-mummy
+  m_EditorClassIdentifier: 
+  Title: Dust of the Mummy
+  AsJson: '{"name":"Dust of the Mummy","source":"IMR","page":93,"rarity":"none","poison":true,"entries":["This
+    poison is created during a mummy''s embalming process, distilled from the dead
+    creature''s removed organs. A creature subjected to this poison must succeed
+    on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed
+    creature can''t regain hit points, and its hit point maximum decreases by 10
+    ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the creature''s
+    hit point maximum to 0, the creature dies, and its body turns to dust. The curse
+    lasts until removed by the {@spell remove curse} spell or similar magic."],"poisonTypes":["inhaled"]}'
+  DataHash: 3ff1f0e534a12247330d4a4b7b901883

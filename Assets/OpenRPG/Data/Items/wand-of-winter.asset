@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wand-of-winter
+  m_EditorClassIdentifier: 
+  Title: Wand of Winter
+  AsJson: '{"name":"Wand of Winter","source":"HotDQ","page":94,"otherSources":[{"source":"ToD","page":178}],"type":"WD","rarity":"rare","reqAttune":true,"weight":1,"recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 1}","charges":7,"entries":["This wand looks and feels like an icicle. You
+    must be attuned to the wand to use it.","The wand has 7 charges, which are used
+    to fuel the spells within it. With the wand in hand, you can use your action
+    to cast one of the following spells from the wand, even if you are incapable
+    of casting spells: {@spell ray of frost} (no charges, or 1 charge to cast at
+    5th level; +5 to hit with ranged spell attack), {@spell sleet storm} (3 charges;
+    spell save DC 15), or {@spell ice storm} (4 charges; spell save DC 15). No components
+    are required. The wand regains {@dice 1d6 + 1} expended charges each day at dawn.
+    If you expend the wand''s last charge, roll a {@dice d20}. On a 20, the wand
+    melts away, forever destroyed."],"attachedSpells":["ray of frost","sleet storm","ice
+    storm"],"hasFluffImages":true}'
+  DataHash: 4ae8883d5620896beaa2943f9f612aa4

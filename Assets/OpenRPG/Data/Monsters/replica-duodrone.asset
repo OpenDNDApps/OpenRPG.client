@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: replica-duodrone
+  m_EditorClassIdentifier: 
+  Title: Replica Duodrone
+  AsJson: '{"name":"Replica Duodrone","source":"OoW","page":132,"_copy":{"name":"Duodrone","source":"MM","_mod":{"trait":{"mode":"replaceArr","replace":"Disintegration","items":{"name":"Dismantlable","entries":["If
+    the replica duodrone dies, its body falls into a pile of parts (gears, plates,
+    screws, and wires), leaving behind its weapons and anything else it was carrying."]}}}},"senses":["darkvision
+    60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
+    responses"],"languageTags":["C","OTH"],"hasToken":true}'
+  DataHash: 1571a8876208c4601d75b4e106cd9fb9

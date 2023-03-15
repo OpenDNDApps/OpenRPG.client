@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sangzor
+  m_EditorClassIdentifier: 
+  Title: Sangzor
+  AsJson: '{"name":"Sangzor","isNpc":true,"source":"CoS","page":160,"_copy":{"name":"Giant
+    Goat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the goat","with":"Sangzor","flags":"i"}}},"alignment":["C","E"],"hp":{"average":33,"formula":"3d10
+    + 3"},"int":6,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"cr":"1","hasToken":true}'
+  DataHash: f6048abaeab1d90234638663ef2f82a4

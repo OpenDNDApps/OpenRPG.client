@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ssendam-lord-of-madness
+  m_EditorClassIdentifier: 
+  Title: Ssendam, Lord of Madness
+  AsJson: '{"name":"Ssendam, Lord of Madness","isNamedCreature":true,"source":"MaBJoV","page":105,"size":["L"],"type":{"type":"aberration","tags":["shapechanger"]},"alignment":["C","E"],"ac":[{"ac":19,"from":["natural
+    armor"]}],"hp":{"average":299,"formula":"26d10 + 156"},"speed":{"walk":30,"swim":30},"str":20,"dex":24,"con":22,"int":20,"wis":18,"cha":26,"save":{"dex":"+14","con":"+13","cha":"+15"},"skill":{"arcana":"+12","deception":"+15","insight":"+18","intimidation":"+15","perception":"+11"},"senses":["blindsight
+    60 ft.","truesight 120 ft."],"passive":21,"resist":["acid","cold","fire","lightning","thunder"],"immune":["necrotic","poison",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"languages":["all","telepathy
+    120 ft."],"cr":"23","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["Ssendam''s
+    innate spellcasting ability is Charisma (spell save {@dc 23}, {@hit 15} to hit
+    with spell attacks). Ssendam can innately cast the following spells, requiring
+    no material components:"],"will":["{@spell detect evil and good}","{@spell detect
+    magic}","{@spell detect thoughts}","{@spell dispel magic}","{@spell fear}","{@spell
+    fly}","{@spell mass suggestion}","{@spell plane shift}"],"daily":{"1":["{@spell
+    power word heal}","{@spell power word kill}","{@spell power word stun}"],"2e":["{@spell
+    finger of death}","{@spell flame strike}"]},"ability":"cha"}],"trait":[{"name":"Aura
+    of Madness","entries":["Any creature (other than undead or constructs) that ends
+    its turn within 10 feet of Ssendam must make a {@dc 20} Charisma saving throw
+    or be inflicted with a random short-term madness. If a creature succeeds against
+    any madness ability of Ssendam''s, they are immune to Ssendam''s madness for
+    1 hour."]},{"name":"Legendary Resistance (3/Day)","entries":["If Ssendam fails
+    a saving throw, she can choose to succeed instead."]},{"name":"Magic Resistance","entries":["Ssendam
+    has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+    Weapons","entries":["Ssendam''s weapon attacks are magical."]},{"name":"Regeneration
+    (Golden Amoeba Form Only)","entries":["Ssendam regains 40 hit points at the start
+    of her turn if she has at least 1 hit point."]},{"name":"Shapechanger","entries":["Ssendam
+    can use her action to polymorph into a Small or Medium humanoid, into a Small
+    aberration that looks like a golden amoeba, or back into this, her golden slaad
+    form. Any equipment she is wearing or carrying isn''t transformed. She reverts
+    to her true form if she dies. Her statistics in the humanoid forms, other than
+    her size, are the same.","While in her amoeba form, Ssendam has the same statistics
+    with the following changes. She can''t take any actions (except her Shapechanger
+    action), speak, or manipulate objects. She has a movement speed of 40 feet and
+    can enter a hostile creature''s space and stop there. In addition, Ssendam can
+    move through a space as narrow as 1 inch wide without squeezing. She has advantage
+    on Strength and Dexterity saving throws, and has resistance to all damage except
+    psychic and radiant."]}],"action":[{"name":"Multiattack","entries":["Ssendam
+    makes three attacks: one with her Touch of Madness and two with her chaos staff."]},{"name":"Chaos
+    Staff","entries":["{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}12
+    ({@damage 2d6 + 5}) bludgeoning damage plus 16 ({@damage 3d10}) necrotic damage.
+    The target must also make a {@dc 19} Constitution or be {@condition stunned}.
+    The target may repeat the saving throw at the end of each of their turns."]},{"name":"Summon
+    Slaadi (1/Day)","entries":["Ssendam summons {@dice 1d4 + 1} {@creature death
+    slaad||death slaadi}. A summoned slaad appears in an unoccupied space within
+    60 feet of Ssendam, acts as an ally of Ssendam, and can''t summon other slaadi.
+    It remains for 1 minute, until it or Ssendam dies, or until Ssendam dismisses
+    it as an action."]},{"name":"Teleport","entries":["Ssendam magically teleports,
+    along with any equipment she is wearing or carrying, up to 120 feet to an unoccupied
+    space she can see."]},{"name":"Touch of Madness","entries":["{@atk mw} {@hit
+    12} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d10 + 5}) slashing damage
+    plus 16 ({@damage 3d10}) necrotic damage. A target that fails a {@dc 20} Charisma
+    saving throw is inflicted with a random short-term madness. If it is already
+    mad, the existing madness is replaced with a random long-term madness."]}],"reaction":[{"name":"Amoeba","entries":["When
+    damaged, Ssendam can use her reaction to shapechange into her golden amoeba form
+    and the damage is reduced to 0."]}],"legendary":[{"name":"Chaos Staff","entries":["Ssendam
+    makes one attack with her chaos staff."]},{"name":"Teleport","entries":["Ssendam
+    uses her Teleport action."]},{"name":"Subversion (Costs 2 Actions)","entries":["Ssendam
+    forces every creature suffering from madness within 60 feet of her to use their
+    reaction to attack another creature within 5 feet of them."]}],"legendaryGroup":{"name":"Ssendam,
+    Lord of Madness","source":"MaBJoV"},"traitTags":["Legendary Resistances","Magic
+    Resistance","Magic Weapons","Regeneration","Shapechanger"],"senseTags":["B","U"],"actionTags":["Multiattack","Teleport"],"languageTags":["TP","XX"],"damageTags":["B","N","S"],"damageTagsSpell":["F","N","R"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["frightened","stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: db0ba3065e5be18bdc5afe8ddfa4a945

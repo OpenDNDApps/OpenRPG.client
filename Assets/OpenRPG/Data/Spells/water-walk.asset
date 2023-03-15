@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: water-walk
+  m_EditorClassIdentifier: 
+  Title: Water Walk
+  AsJson: "{\"name\":\"Water Walk\",\"source\":\"PHB\",\"page\":287,\"srd\":true,\"level\":3,\"school\":\"T\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"feet\",\"amount\":30}},\"components\":{\"v\":true,\"s\":true,\"m\":\"a
+    piece of cork\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"hour\",\"amount\":1}}],\"meta\":{\"ritual\":true},\"entries\":[\"This
+    spell grants the ability to move across any liquid surface\u2014such as water,
+    acid, mud, snow, quicksand, or lava\u2014as if it were harmless solid ground
+    (creatures crossing molten lava can still take damage from the heat). Up to ten
+    willing creatures you can see within range gain this ability for the duration.\",\"If
+    you target a creature submerged in a liquid, the spell carries the target to
+    the surface of the liquid at a rate of 60 feet per round.\"],\"miscTags\":[\"SGT\"],\"areaTags\":[\"MT\"]}"
+  DataHash: 54dd564c82c72dce2710764d17a51707

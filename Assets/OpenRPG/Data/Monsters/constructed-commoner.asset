@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: constructed-commoner
+  m_EditorClassIdentifier: 
+  Title: Constructed Commoner
+  AsJson: '{"name":"Constructed Commoner","source":"CM","page":149,"size":["M"],"type":"construct","ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":6,"formula":"1d8 + 2"},"speed":{"walk":25},"str":10,"dex":10,"con":15,"int":10,"wis":10,"cha":10,"passive":10,"immune":["poison"],"conditionImmune":["exhaustion","poisoned"],"languages":["Common"],"cr":"0","trait":[{"name":"Unusual
+    Nature","entries":["The commoner doesn''t require air, food, drink, or sleep,
+    and it gains no benefit from finishing a short or long rest. When it drops to
+    0 hit points, it becomes a lifeless object."]}],"action":[{"name":"Club","entries":["{@atk
+    mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+    damage."]}],"traitTags":["Unusual Nature"],"languageTags":["C"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bd9087fef94a11ed2518409587c667f2

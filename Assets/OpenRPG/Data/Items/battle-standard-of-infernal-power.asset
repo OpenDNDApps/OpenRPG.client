@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: battle-standard-of-infernal-power
+  m_EditorClassIdentifier: 
+  Title: Battle Standard of Infernal Power
+  AsJson: '{"name":"Battle Standard of Infernal Power","source":"BGDIA","page":223,"rarity":"very
+    rare","reqAttune":true,"wondrous":true,"entries":["This hell-forged battle standard
+    is made of infernal iron and fitted with a small, unopenable cage containing
+    a {@creature quasit}. The trapped {@creature quasit} is {@condition incapacitated},
+    and its cage has AC 19, 10 hit points, and immunity to all types of damage except
+    force damage. If killed or somehow released, the {@creature quasit} disappears
+    in a cloud of smoke, and a new one appears in the cage, provided the cage is
+    intact.","While you hold the banner, your weapon attacks and those of all allied
+    creatures within 300 feet of you count as magical for the purposes of overcoming
+    damage immunities and resistances."],"hasFluffImages":true}'
+  DataHash: 7c01aaa76979725b5eff3b3a62445eee

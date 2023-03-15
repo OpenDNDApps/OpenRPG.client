@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: xzar-the-chaos-clone
+  m_EditorClassIdentifier: 
+  Title: Xzar the Chaos Clone
+  AsJson: '{"name":"Xzar the Chaos Clone","isNamedCreature":true,"source":"MaBJoV","page":128,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"ac":[15],"hp":{"average":88,"formula":"16d8
+    + 16"},"speed":{"walk":30},"str":12,"dex":16,"con":12,"int":20,"wis":10,"cha":12,"save":{"int":"+9","wis":"+4"},"skill":{"arcana":"+13","history":"+13"},"senses":["darkvision
+    60 ft."],"passive":10,"resist":["acid","cold","fire","lightning","thunder"],"languages":["Abyssal","Common","Infernal","Primordial","Undercommon","telepathy
+    60 ft."],"cr":"11","spellcasting":[{"name":"Spellcasting","headerEntries":["Xzar
+    is an 16th-level spellcaster. His spellcasting ability is Intelligence (spell
+    save {@dc 17}, {@hit 12} to hit with spell attacks). Xzar has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell acid splash}","{@spell fire
+    bolt}","{@spell mage hand}","{@spell poison spray}"]},"1":{"slots":4,"spells":["{@spell
+    false life}*","{@spell mage armor}","{@spell ray of sickness}*"]},"2":{"slots":3,"spells":["{@spell
+    ray of enfeeblement}*","{@spell mirror image}","{@spell misty step}"]},"3":{"slots":3,"spells":["{@spell
+    animate dead}*","{@spell counterspell}","{@spell dispel magic}","{@spell vampiric
+    touch}*"]},"4":{"slots":3,"spells":["{@spell blight}*","{@spell evard''s black
+    tentacles}"]},"5":{"slots":3,"spells":["{@spell cloudkill}","{@spell conjure
+    elemental}","{@spell scrying}"]},"6":{"slots":1,"spells":["{@spell circle of
+    death}*","{@spell create undead}*"]},"7":{"slots":1,"spells":["{@spell finger
+    of death}*","{@spell teleport}"]},"8":{"slots":1,"spells":["{@spell Abi-Dalzim''s
+    Horrid Wilting|XGE}*","{@spell clone}*"]}},"footerEntries":["*Necromancy spell
+    of 1st level or higher"],"ability":"int"}],"trait":[{"name":"No Soul","entries":["Since
+    Xzar doesn''t have a soul, resurrection magic is able to work upon him no matter
+    how much time has passed. For example, a revivify would work on Xzar a week after
+    he died. The only drawback is that True Resurrection and Wish are unable to bring
+    Xzar back to life if no body exists."]},{"name":"Grim Harvest (1/Turn)","entries":["When
+    Xzar kills a creature that is neither a construct nor undead with a spell of
+    1st level or higher, Xzar regains hit points equal to twice the spell''s level,
+    or three times if it is a necromancy spell."]},{"name":"Chaos Phage","entries":["Xzar''s
+    infusion with the Chaos Phage gives him the following benefits:",{"type":"list","items":["Xzar
+    regains 10 hit points at the start of his turn if he has at least 1 hit point","Xzar
+    has advantage on saving throws against spells and other magical effects","Xzar
+    has resistance to acid, cold, fire, lightning, thunder","Xzar has darkvision
+    and telepathy to 60 ft."]}]}],"action":[{"name":"Staff","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning
+    damage."]}],"senseTags":["D"],"languageTags":["AB","C","I","P","TP","U"],"damageTags":["B"],"damageTagsSpell":["A","B","F","I","N"],"spellcastingTags":["CW"],"miscTags":["MW"],"conditionInflictSpell":["poisoned","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 07d5a237d74bcb73dcc389085d6aa3f9

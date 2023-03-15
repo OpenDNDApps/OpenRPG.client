@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thurstwell-vanthampur
+  m_EditorClassIdentifier: 
+  Title: Thurstwell Vanthampur
+  AsJson: '{"name":"Thurstwell Vanthampur","isNpc":true,"source":"BGDIA","page":34,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[9],"hp":{"average":5,"formula":"2d8
+    - 4"},"speed":{"walk":30},"str":7,"dex":8,"con":6,"int":15,"wis":17,"cha":12,"skill":{"deception":"+3","insight":"+5","perception":"+5","religion":"+4"},"passive":15,"languages":["Common","Elvish","Infernal"],"cr":"1/8","spellcasting":[{"name":"Spellcasting","headerEntries":["Thurstwell
+    is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc
+    13}). He has the following cleric spells prepared:"],"spells":{"0":{"spells":["{@spell
+    guidance}","{@spell sacred flame} (see \"Actions\" below)","{@spell thaumaturgy}"]},"1":{"slots":3,"spells":["{@spell
+    command}","{@spell detect evil and good}","{@spell sanctuary}"]}},"ability":"wis"}],"trait":[{"name":"Dark
+    Devotion","entries":["Thurstwell has advantage on saving throws against being
+    {@condition charmed} or {@condition frightened}."]}],"action":[{"name":"Sacred
+    Flame (Cantrip)","entries":["Flame-like radiance descends on one creature Thurstwell
+    can see within 60 feet of him. The target must succeed on a {@dc 13} Dexterity
+    saving throw or take 4 ({@damage 1d8}) radiant damage, gaining no benefit from
+    cover."]}],"languageTags":["C","E","I"],"damageTags":["R"],"damageTagsSpell":["R"],"spellcastingTags":["CC"],"conditionInflictSpell":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ab298ca9f44569da72d50cb72b470d6e

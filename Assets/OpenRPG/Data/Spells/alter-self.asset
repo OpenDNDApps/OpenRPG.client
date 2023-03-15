@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: alter-self
+  m_EditorClassIdentifier: 
+  Title: Alter Self
+  AsJson: '{"name":"Alter Self","source":"PHB","page":211,"srd":true,"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    assume a different form. When you cast the spell, choose one of the following
+    options, the effects of which last for the duration of the spell. While the spell
+    lasts, you can end one option as an action to gain the benefits of a different
+    one.",{"type":"entries","name":"Aquatic Adaptation","entries":["You adapt your
+    body to an aquatic environment, sprouting gills and growing webbing between your
+    fingers. You can breathe underwater and gain a swimming speed equal to your walking
+    speed."]},{"type":"entries","name":"Change Appearance","entries":["You transform
+    your appearance. You decide what you look like, including your height, weight,
+    facial features, sound of your voice, hair length, coloration, and distinguishing
+    characteristics, if any. You can make yourself appear as a member of another
+    race, though none of your statistics change. You also can''t appear as a creature
+    of a different size than you, and your basic shape stays the same; if you''re
+    bipedal, you can''t use this spell to become quadrupedal, for instance. At any
+    time for the duration of the spell, you can use your action to change your appearance
+    in this way again."]},{"type":"entries","name":"Natural Weapons","entries":["You
+    grow claws, fangs, spines, horns, or a different natural weapon of your choice.
+    Your unarmed strikes deal {@damage 1d6} bludgeoning, piercing, or slashing damage,
+    as appropriate to the natural weapon you chose, and you are proficient with your
+    unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus
+    to the attack and damage rolls you make using it."]}],"damageInflict":["bludgeoning","piercing","slashing"]}'
+  DataHash: 71549deddad183e1e646300637dc0b40

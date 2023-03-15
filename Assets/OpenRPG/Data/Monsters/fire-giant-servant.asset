@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fire-giant-servant
+  m_EditorClassIdentifier: 
+  Title: Fire Giant Servant
+  AsJson: '{"name":"Fire Giant Servant","source":"TftYP","page":171,"_copy":{"name":"Hill
+    Giant","source":"MM","_mod":{"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+    giant makes two longsword attacks."]}},{"mode":"replaceArr","replace":"Greatclub","items":{"name":"Longsword","entries":["{@atk
+    mw} {@hit 8} to hit, reach 10 ft., one target. {@h}18 ({@damage 3d8 + 5}) slashing
+    damage, or 21 ({@damage 3d10 + 5}) slashing damage if used with both hands."]}}]}},"immune":["fire"],"damageTags":["B","S"],"hasToken":true}'
+  DataHash: f00f4f8e3bbfa9d0cc099cf383b3a3ca

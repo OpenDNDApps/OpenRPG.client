@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-three-wishes
+  m_EditorClassIdentifier: 
+  Title: Ring of Three Wishes
+  AsJson: '{"name":"Ring of Three Wishes","source":"DMG","page":193,"srd":true,"type":"RG","tier":"major","rarity":"legendary","entries":["While
+    wearing this ring, you can use an action to expend 1 of its 3 charges to cast
+    the {@spell wish} spell from it. The ring becomes nonmagical when you use the
+    last charge."],"attachedSpells":["wish"],"lootTables":["Magic Item Table I"],"hasFluffImages":true}'
+  DataHash: 55da7786eaa8a493bff6c0993586ceb0

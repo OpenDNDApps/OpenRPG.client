@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: tankard-of-plenty
+  m_EditorClassIdentifier: 
+  Title: Tankard of Plenty
+  AsJson: '{"name":"Tankard of Plenty","source":"HotDQ","page":74,"otherSources":[{"source":"ToD","page":90}],"type":"OTH","rarity":"unknown
+    (magic)","entries":["This golden stein is decorated with dancing dwarves and
+    grain patterns. Speaking the command word (\"Illefarn\") while grasping the handle
+    fills the tankard with three pints of rich dwarven ale. This power can be used
+    up to three times per day."]}'
+  DataHash: 45c660d386328a85cdcd6a9d1a4ed6c5

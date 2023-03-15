@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: intelligent-black-pudding
+  m_EditorClassIdentifier: 
+  Title: Intelligent Black Pudding
+  AsJson: '{"name":"Intelligent Black Pudding","source":"WDMM","page":244,"_copy":{"name":"Black
+    Pudding","source":"MM"},"int":14,"languages":["Elvish and Undercommon but can''t
+    speak"],"spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The pudding''s
+    spellcasting ability is Intelligence (spell save {@dc 12}, {@hit 4} to hit with
+    spell attacks). It can cast the following spells, requiring no components:"],"will":["{@spell
+    dancing lights}","{@spell mage hand}"],"daily":{"1":["{@spell Melf''s acid arrow}"],"3e":["{@spell
+    darkness}","{@spell faerie fire}","{@spell shield}"]},"ability":"int"}],"languageTags":["CS","E","U"],"damageTagsSpell":["A"],"spellcastingTags":["I"],"hasToken":true}'
+  DataHash: 1a012c8828120d72789cf75834be4eef

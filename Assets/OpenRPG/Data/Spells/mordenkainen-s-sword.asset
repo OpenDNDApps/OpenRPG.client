@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: mordenkainen-s-sword
+  m_EditorClassIdentifier: 
+  Title: Mordenkainen's Sword
+  AsJson: '{"name":"Mordenkainen''s Sword","source":"PHB","page":262,"srd":"Arcane
+    Sword","basicRules":true,"level":7,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"a
+    miniature platinum sword with a grip and pommel of copper and zinc, worth 250
+    gp","cost":25000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    create a sword-shaped plane of force that hovers within range. It lasts for the
+    duration.","When the sword appears, you make a melee spell attack against a target
+    of your choice within 5 feet of the sword. On a hit, the target takes {@damage
+    3d10} force damage. Until the spell ends, you can use a bonus action on each
+    of your turns to move the sword up to 20 feet to a spot you can see and repeat
+    this attack against the same target or a different one."],"damageInflict":["force"],"spellAttack":["M"],"miscTags":["SGT","UBA"],"areaTags":["ST"],"hasFluffImages":true}'
+  DataHash: b6908555c8c5365b93bd03fd34f3b755

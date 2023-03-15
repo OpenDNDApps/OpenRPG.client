@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: fear
+  m_EditorClassIdentifier: 
+  Title: Fear
+  AsJson: '{"name":"Fear","source":"PHB","page":239,"srd":true,"level":3,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    white feather or the heart of a hen"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    project a phantasmal image of a creature''s worst fears. Each creature in a 30-foot
+    cone must succeed on a Wisdom saving throw or drop whatever it is holding and
+    become {@condition frightened} for the duration.","While {@condition frightened}
+    by this spell, a creature must take the {@action Dash} action and move away from
+    you by the safest available route on each of its turns, unless there is nowhere
+    to move. If the creature ends its turn in a location where it doesn''t have line
+    of sight to you, the creature can make a Wisdom saving throw. On a successful
+    save, the spell ends for that creature."],"conditionInflict":["frightened"],"savingThrow":["wisdom"],"areaTags":["N"]}'
+  DataHash: a58d8cd715726975cceaceea056e3bcb

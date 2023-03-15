@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: jarl-storvald
+  m_EditorClassIdentifier: 
+  Title: Jarl Storvald
+  AsJson: '{"name":"Jarl Storvald","isNpc":true,"source":"SKT","page":165,"size":["H"],"type":"giant","alignment":["N","E"],"ac":[{"ac":15,"from":["barding
+    scraps"]}],"hp":{"average":189,"formula":"12d12 + 60"},"speed":{"walk":40},"str":23,"dex":9,"con":21,"int":9,"wis":16,"cha":16,"save":{"con":"+8","wis":"+6","cha":"+6"},"skill":{"athletics":"+9","perception":"+6"},"passive":13,"immune":["cold"],"languages":["Common","Giant","Giant
+    Owl"],"cr":"8","spellcasting":[{"name":"Spellcasting","headerEntries":["Storvald
+    casts one of the following spells, requiring no material components and using
+    Wisdom as the spellcasting ability:"],"daily":{"1e":["{@spell jump}","{@spell
+    locate animals or plants}","{@spell locate object}","{@spell water breathing}","{@spell
+    water walk}"]},"ability":"wis","displayAs":"action"}],"action":[{"name":"Weighted
+    Net","entries":["{@atk rw} {@hit 5} to hit, ranged 20/60 ft., one Small, Medium,
+    or Large creature. {@h}The target is {@condition restrained} until it escapes
+    the net. Any creature can use its action to make a {@dc 17} Strength check to
+    free itself or another creature in the net, ending the effect on a success. Dealing
+    15 slashing damage to the net (AC 12) destroys the net and frees the target."]},{"name":"Multiattack","entries":["The
+    giant makes two greataxe attacks."]},{"name":"Greataxe","entries":["{@atk mw}
+    {@hit 9} to hit, reach 10 ft., one target. {@h}25 ({@damage 3d12 + 6}) slashing
+    damage."]},{"name":"Rock","entries":["{@atk rw} {@hit 9} to hit, range 60/240
+    ft., one target. {@h}28 ({@damage 4d10 + 6}) bludgeoning damage."]}],"actionTags":["Multiattack"],"languageTags":["C","GI","OTH"],"damageTags":["B","S"],"spellcastingTags":["O"],"miscTags":["MW","RCH","RW","THW"],"conditionInflict":["restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 297c23215b06402c219b6900fd9b8aa6

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: virtue-ua
+  m_EditorClassIdentifier: 
+  Title: Virtue (UA)
+  AsJson: '{"name":"Virtue (UA)","source":"UAStarterSpells","page":5,"level":0,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+    touch one creature, imbuing it with vitality. If the target has at least 1 hit
+    point, it gains a number of temporary hit points equal to {@dice 1d4} + your
+    spellcasting ability modifier. The temporary hit points are lost when the spell
+    ends."],"miscTags":["THP"],"areaTags":["ST"]}'
+  DataHash: 5ced9bdb70d39f751747e6aa8e3f9e80

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: thermal-cube
+  m_EditorClassIdentifier: 
+  Title: Thermal Cube
+  AsJson: '{"name":"Thermal Cube","source":"IDRotF","page":316,"rarity":"common","wondrous":true,"entries":["This
+    3-inch cube of solid brimstone generates enough dry heat to keep the temperature
+    within 15 feet of it at 95 degrees Fahrenheit (35 degrees Celsius)."]}'
+  DataHash: ca68b50233009bcbdf3dc3e692992826

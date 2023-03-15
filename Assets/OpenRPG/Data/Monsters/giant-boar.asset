@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-boar
+  m_EditorClassIdentifier: 
+  Title: Giant Boar
+  AsJson: '{"name":"Giant Boar","source":"MM","page":323,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"ToA"},{"source":"GoS"},{"source":"MOT"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":42,"formula":"5d10 + 15"},"speed":{"walk":40},"str":17,"dex":10,"con":16,"int":2,"wis":7,"cha":5,"passive":8,"cr":"2","trait":[{"name":"Charge","entries":["If
+    the boar moves at least 20 feet straight toward a target and then hits it with
+    a tusk attack on the same turn, the target takes an extra 7 ({@damage 2d6}) slashing
+    damage. If the target is a creature, it must succeed on a {@dc 13} Strength saving
+    throw or be knocked {@condition prone}."]},{"name":"Relentless (Recharges after
+    a Short or Long Rest)","entries":["If the boar takes 10 damage or less that would
+    reduce it to 0 hit points, it is reduced to 1 hit point instead."]}],"action":[{"name":"Tusk","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing
+    damage."]}],"environment":["grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/giant-boar.mp3"},"traitTags":["Charge"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: 2af10a7ef2585b4c9f92298a269dcd54

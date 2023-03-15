@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: beacon-of-hope
+  m_EditorClassIdentifier: 
+  Title: Beacon of Hope
+  AsJson: '{"name":"Beacon of Hope","source":"PHB","page":217,"srd":true,"basicRules":true,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["This
+    spell bestows hope and vitality. Choose any number of creatures within range.
+    For the duration, each target has advantage on Wisdom saving throws and death
+    saving throws, and regains the maximum number of hit points possible from any
+    healing."],"areaTags":["MT"]}'
+  DataHash: 9888878cda35ea7977476d305eb22c0c

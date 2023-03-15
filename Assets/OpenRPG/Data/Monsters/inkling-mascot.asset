@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: inkling-mascot
+  m_EditorClassIdentifier: 
+  Title: Inkling Mascot
+  AsJson: '{"name":"Inkling Mascot","source":"SCC","page":195,"size":["T"],"type":"ooze","alignment":["N"],"alignmentPrefix":"typically
+    ","ac":[13],"hp":{"average":18,"formula":"4d4 + 8"},"speed":{"walk":10,"fly":{"number":30,"condition":"(hover)"},"canHover":true},"str":10,"dex":16,"con":14,"int":6,"wis":7,"cha":11,"skill":{"stealth":"+5"},"senses":["blindsight
+    60 ft."],"passive":8,"immune":["psychic"],"conditionImmune":["blinded","charmed","deafened","exhaustion","prone"],"languages":["understands
+    the languages of its creator but can''t speak"],"cr":"1/4","trait":[{"name":"Amorphous","entries":["The
+    inkling can move through a space as narrow as 1 inch wide without squeezing."]}],"action":[{"name":"Blot","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) psychic
+    damage."]},{"name":"Ink Spray (1/Day)","entries":["The inkling sprays viscous
+    ink at one creature within 15 feet of itself. The target must succeed on a {@dc
+    12} Constitution saving throw or be {@condition blinded} until the end of the
+    inkling''s next turn."]}],"bonus":[{"name":"Shadow Stealth","entries":["While
+    in dim light or darkness, the inkling takes the Hide action."]}],"familiar":true,"traitTags":["Amorphous"],"senseTags":["B"],"languageTags":["CS"],"damageTags":["Y"],"miscTags":["MW"],"conditionInflict":["blinded"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 05098b5ef51ae443e752085f05847753

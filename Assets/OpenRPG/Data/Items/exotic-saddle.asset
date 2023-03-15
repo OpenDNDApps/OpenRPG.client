@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: exotic-saddle
+  m_EditorClassIdentifier: 
+  Title: Exotic Saddle
+  AsJson: '{"name":"Exotic Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":40,"value":6000,"entries":["An
+    exotic saddle is required for riding any aquatic or flying mount."]}'
+  DataHash: 90119c04c4250d11dfaf0d24a6390187

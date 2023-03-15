@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: gunpowder-keg
+  m_EditorClassIdentifier: 
+  Title: Gunpowder Keg
+  AsJson: '{"name":"Gunpowder Keg","source":"DMG","page":268,"type":"EXP","rarity":"none","weight":20,"value":25000,"age":"renaissance","entries":["Gunpowder
+    is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or
+    it is formed into a bomb. Gunpowder is sold in small wooden kegs or in water-resistant
+    powder horns.","Setting fire to a container full of gunpowder can cause it to
+    explode, dealing fire damage to creatures within 10 feet of it ({@damage 7d6}
+    for a keg). A successful DC 12 Dexterity saving throw halves the damage. Setting
+    fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright
+    light in a 30-foot radius and dim light for an additional 30 feet."]}'
+  DataHash: 578d7f5dd0c4af163e8eba6f61fb15f1

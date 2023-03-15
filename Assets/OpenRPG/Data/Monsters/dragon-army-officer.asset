@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dragon-army-officer
+  m_EditorClassIdentifier: 
+  Title: Dragon Army Officer
+  AsJson: '{"name":"Dragon Army Officer","source":"DSotDQ","page":200,"size":["M"],"type":"humanoid","alignment":["L","E"],"alignmentPrefix":"typically
+    ","ac":[{"ac":19,"from":["{@item splint armor|PHB|splint}","{@item shield|PHB}"]}],"hp":{"average":65,"formula":"10d8
+    + 20"},"speed":{"walk":30},"str":16,"dex":14,"con":15,"int":12,"wis":14,"cha":12,"save":{"dex":"+4","wis":"+4"},"skill":{"athletics":"+5","perception":"+4"},"passive":14,"languages":["Common","Draconic"],"cr":"3","trait":[{"name":"Draconic
+    Devotion","entries":["While the officer can see a Dragon that isn''t hostile
+    to it, the officer has advantage on attack rolls."]}],"action":[{"name":"Multiattack","entries":["The
+    officer makes two Vicious Lance attacks and uses Assault Orders if it''s available."]},{"name":"Vicious
+    Lance","entries":["{@atk mw} {@hit 5} to hit, reach 10 ft., one target. {@h}8
+    ({@damage 1d10 + 3}) piercing damage plus 2 ({@damage 1d4}) fire damage."]},{"name":"Heavy
+    Crossbow","entries":["{@atk rw} {@hit 4} to hit, range 100/400 ft., one target.
+    {@h}7 ({@damage 1d10 + 2}) piercing damage plus 5 ({@damage 1d10}) fire damage."]},{"name":"Assault
+    Orders {@recharge 5}","entries":["The officer shouts orders and targets up to
+    two other creatures within 60 feet of itself. If a target has the Draconic Devotion
+    trait and can hear the officer, the target can use its reaction to make one melee
+    attack."]}],"actionTags":["Multiattack"],"languageTags":["C","DR"],"damageTags":["F","P"],"miscTags":["MW","RCH","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: e7be6327f8563c6991151cf33ec22b2b

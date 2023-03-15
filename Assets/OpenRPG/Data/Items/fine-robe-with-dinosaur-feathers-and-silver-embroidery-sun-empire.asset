@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: fine-robe-with-dinosaur-feathers-and-silver-embroidery-sun-empire
+  m_EditorClassIdentifier: 
+  Title: Fine robe with dinosaur feathers and silver embroidery (Sun Empire)
+  AsJson: '{"name":"Fine robe with dinosaur feathers and silver embroidery (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+  DataHash: 02f68eb57d5487a024bc98db2782398f

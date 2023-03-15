@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: clockwork-mule
+  m_EditorClassIdentifier: 
+  Title: Clockwork Mule
+  AsJson: '{"name":"Clockwork Mule","source":"SKT","page":162,"_copy":{"name":"Mule","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Maintainable","entries":["Repairing
+    1 hit point of damage to the clockwork mule takes 1 hour and requires replacement
+    parts, which can be bought in a large city for 20 gp. If the mule drops to 0
+    hit points, it is destroyed and unrepairable."]}}}},"type":"construct","immune":["poison","psychic"],"conditionImmune":["charmed","exhaustion","frightened","paralyzed","petrified","poisoned"],"hasToken":true}'
+  DataHash: 18d737169c91ca75c4289cfe2e1e4a6d

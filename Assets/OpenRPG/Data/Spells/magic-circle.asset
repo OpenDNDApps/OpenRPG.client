@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: magic-circle
+  m_EditorClassIdentifier: 
+  Title: Magic Circle
+  AsJson: '{"name":"Magic Circle","source":"PHB","page":256,"srd":true,"level":3,"school":"A","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true,"m":{"text":"holy
+    water or powdered silver and iron worth at least 100 gp, which the spell consumes","cost":10000,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+    create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
+    a point on the ground that you can see within range. Glowing runes appear wherever
+    the cylinder intersects with the floor or other surface.","Choose one or more
+    of the following types of creatures: celestials, elementals, fey, fiends, or
+    undead. The circle affects a creature of the chosen type in the following ways:",{"type":"list","items":["The
+    creature can''t willingly enter the cylinder by nonmagical means. If the creature
+    tries to use teleportation or interplanar travel to do so, it must first succeed
+    on a Charisma saving throw.","The creature has disadvantage on attack rolls against
+    targets within the cylinder.","Targets within the cylinder can''t be {@condition
+    charmed}, {@condition frightened}, or possessed by the creature."]},"When you
+    cast this spell, you can elect to cause its magic to operate in the reverse direction,
+    preventing a creature of the specified type from leaving the cylinder and protecting
+    targets outside it."],"entriesHigherLevel":[{"type":"entries","name":"At Higher
+    Levels","entries":["When you cast this spell using a spell slot of 4th level
+    or higher, the duration increases by 1 hour for each slot level above 3rd."]}],"savingThrow":["charisma"],"affectsCreatureType":["celestial","elemental","fey","fiend","undead"],"miscTags":["SGT"],"areaTags":["Y"]}'
+  DataHash: 5e3535a31ccc76aeb0e5868f169c9e25

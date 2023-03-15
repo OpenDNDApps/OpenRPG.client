@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: cloud-of-daggers
+  m_EditorClassIdentifier: 
+  Title: Cloud of Daggers
+  AsJson: '{"name":"Cloud of Daggers","source":"PHB","page":222,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    sliver of glass"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    fill the air with spinning daggers in a cube 5 feet on each side, centered on
+    a point you choose within range. A creature takes {@damage 4d4} slashing damage
+    when it enters the spell''s area for the first time on a turn or starts its turn
+    there."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 3rd level or higher, the damage increases
+    by {@scaledamage 4d4|2-9|2d4} for each slot level above 2nd."]}],"damageInflict":["slashing"],"areaTags":["C"]}'
+  DataHash: 522a0f795e83c6817788f1a8f84a8a12

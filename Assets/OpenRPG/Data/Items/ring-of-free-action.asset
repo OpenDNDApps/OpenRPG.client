@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-free-action
+  m_EditorClassIdentifier: 
+  Title: Ring of Free Action
+  AsJson: '{"name":"Ring of Free Action","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"rare","reqAttune":true,"entries":["While
+    you wear this ring, {@quickref difficult terrain||3} doesn''t cost you extra
+    movement. In addition, magic can neither reduce your speed nor cause you to be
+    {@condition paralyzed} or {@condition restrained}."],"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: af995b9afc933cb22d6ef27ee29d50e1

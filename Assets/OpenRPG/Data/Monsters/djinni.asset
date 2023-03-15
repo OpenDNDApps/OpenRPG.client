@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: djinni
+  m_EditorClassIdentifier: 
+  Title: Djinni
+  AsJson: '{"name":"Djinni","group":["Genies"],"source":"MM","page":144,"srd":true,"otherSources":[{"source":"PotA"},{"source":"GoS"},{"source":"TCE"},{"source":"CM"},{"source":"JttRC"}],"size":["L"],"type":"elemental","alignment":["C","G"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":161,"formula":"14d10 + 84"},"speed":{"walk":30,"fly":90},"str":21,"dex":15,"con":22,"int":15,"wis":16,"cha":20,"save":{"dex":"+6","wis":"+7","cha":"+9"},"senses":["darkvision
+    120 ft."],"passive":13,"immune":["lightning","thunder"],"languages":["Auran"],"cr":"11","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The djinni''s innate spellcasting ability is
+    Charisma (spell save {@dc 17}, {@hit 9} to hit with spell attacks). It can innately
+    cast the following spells, requiring no material components:"],"will":["{@spell
+    detect evil and good}","{@spell detect magic}","{@spell thunderwave}"],"daily":{"3e":["{@spell
+    create food and water} (can create wine instead of water)","{@spell tongues}","{@spell
+    wind walk}"],"1e":["{@spell conjure elemental} ({@creature air elemental} only)","{@spell
+    creation}","{@spell gaseous form}","{@spell invisibility}","{@spell major image}","{@spell
+    plane shift}"]},"ability":"cha"}],"trait":[{"name":"Elemental Demise","entries":["If
+    the djinni dies, its body disintegrates into a warm breeze, leaving behind only
+    equipment the djinni was wearing or carrying."]}],"action":[{"name":"Multiattack","entries":["The
+    djinni makes three scimitar attacks."]},{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) slashing
+    damage plus 3 ({@damage 1d6}) lightning or thunder damage (djinni''s choice)."]},{"name":"Create
+    Whirlwind","entries":["A 5-foot-radius, 30-foot-tall cylinder of swirling air
+    magically forms on a point the djinni can see within 120 feet of it. The whirlwind
+    lasts as long as the djinni maintains concentration (as if concentrating on a
+    spell). Any creature but the djinni that enters the whirlwind must succeed on
+    a {@dc 18} Strength saving throw or be {@condition restrained} by it. The djinni
+    can move the whirlwind up to 60 feet as an action, and creatures {@condition
+    restrained} by the whirlwind move with it. The whirlwind ends if the djinni loses
+    sight of it.","A creature can use its action to free a creature {@condition restrained}
+    by the whirlwind, including itself, by succeeding on a {@dc 18} Strength check.
+    If the check succeeds, the creature is no longer {@condition restrained} and
+    moves to the nearest space outside the whirlwind."]}],"variant":[{"type":"variant","name":"Genie
+    Powers","entries":["Genies have a variety of magical capabilities, including
+    spells. A few have even greater powers that allow them to alter their appearance
+    or the nature of reality.",{"type":"entries","name":"Disguises","entries":["Some
+    genies can veil themselves in illusion to pass as other similarly shaped creatures.
+    Such genies can innately cast the {@spell disguise self} spell at will, often
+    with a longer duration than is normal for that spell. Mightier genies can cast
+    the {@spell true polymorph} spell one to three times per day, possibly with a
+    longer duration than normal. Such genies can change only their own shape, but
+    a rare few can use the spell on other creatures and objects as well."]},{"type":"entries","name":"Wishes","entries":["The
+    genie power to grant wishes is legendary among mortals. Only the most potent
+    genies, such as those among the nobility, can do so. A particular genie that
+    has this power can grant one to three wishes to a creature that isn''t a genie.
+    Once a genie has granted its limit of wishes, it can''t grant wishes again for
+    some amount of time (usually 1 year), and cosmic law dictates that the same genie
+    can expend its limit of wishes on a specific creature only once in that creature''s
+    existence.","To be granted a wish, a creature within 60 feet of the genie states
+    a desired effect to it. The genie can then cast the {@spell wish} spell on the
+    creature''s behalf to bring about the effect. Depending on the genie''s nature,
+    the genie might try to pervert the intent of the wish by exploiting the wish''s
+    poor wording. The perversion of the wording is usually crafted to be to the genie''s
+    benefit."]}]}],"environment":["coastal"],"soundClip":{"type":"internal","path":"bestiary/djinni.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AU"],"damageTags":["L","S","T"],"damageTagsSpell":["T"],"spellcastingTags":["I"],"miscTags":["AOE","MW"],"conditionInflict":["restrained"],"conditionInflictSpell":["incapacitated","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true,"_versions":[{"name":"Djinni
+    (Disguises)","source":"MM","_mod":{"_":{"mode":"addSpells","will":["{@spell disguise
+    self} (often with a longer duration than is normal for that spell; see Disguises)"],"daily":{"3e":["{@spell
+    true polymorph} (mightier genies only; see Disguises)"]}},"trait":{"mode":"appendArr","items":{"name":"Disguises","entries":["Some
+    genies can veil themselves in illusion to pass as other similarly shaped creatures.
+    Such genies can innately cast the {@spell disguise self} spell at will, often
+    with a longer duration than is normal for that spell. Mightier genies can cast
+    the {@spell true polymorph} spell one to three times per day, possibly with a
+    longer duration than normal. Such genies can change only their own shape, but
+    a rare few can use the spell on other creatures and objects as well."]}}},"variant":null},{"name":"Djinni
+    (Wishes)","source":"MM","_mod":{"_":{"mode":"addSpells","yearly":{"1e":["{@spell
+    wish} (see Wishes)"]}},"trait":{"mode":"appendArr","items":{"name":"Wishes","entries":["The
+    genie power to grant wishes is legendary among mortals. Only the most potent
+    genies, such as those among the nobility, can do so. A particular genie that
+    has this power can grant one to three wishes to a creature that isn''t a genie.
+    Once a genie has granted its limit of wishes, it can''t grant wishes again for
+    some amount of time (usually 1 year), and cosmic law dictates that the same genie
+    can expend its limit of wishes on a specific creature only once in that creature''s
+    existence.","To be granted a wish, a creature within 60 feet of the genie states
+    a desired effect to it. The genie can then cast the {@spell wish} spell on the
+    creature''s behalf to bring about the effect. Depending on the genie''s nature,
+    the genie might try to pervert the intent of the wish by exploiting the wish''s
+    poor wording. The perversion of the wording is usually crafted to be to the genie''s
+    benefit."]}}},"variant":null}]}'
+  DataHash: 57ca2e0b3a3f86f8289b488c1ff739d0

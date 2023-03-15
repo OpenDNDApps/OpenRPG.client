@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: blight-ichor
+  m_EditorClassIdentifier: 
+  Title: Blight Ichor
+  AsJson: '{"name":"Blight Ichor","source":"EGW","page":152,"type":"G","rarity":"none","value":20000,"entries":["This
+    bitter chartreuse concoction is distilled from a fungus native to the Blightshore
+    badlands. The sickly green liqueur harbors potent psychedelic properties. Provided
+    it is neither a construct nor undead, a creature subjected to a dose of blight
+    ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability
+    to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature
+    must succeed on a DC 15 Constitution saving throw or become {@condition poisoned}
+    for {@dice 1d6} hours and suffer the effects of a {@spell confusion} spell for
+    1 minute. An undead creature subjected to a dose of blight ichor gains advantage
+    on all Dexterity checks and is immune to the {@condition frightened} condition
+    for 1 hour."]}'
+  DataHash: 54b253e5b02ee7e94f9fc08e5d7ca5b7

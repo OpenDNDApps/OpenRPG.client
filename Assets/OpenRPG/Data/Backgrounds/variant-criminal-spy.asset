@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: variant-criminal-spy
+  m_EditorClassIdentifier: 
+  Title: Variant Criminal (Spy)
+  AsJson: '{"name":"Variant Criminal (Spy)","source":"PHB","page":130,"basicRules":true,"_copy":{"name":"Criminal","source":"PHB","_mod":{"entries":{"mode":"replaceArr","replace":"Feature:
+    Criminal Contact","items":{"name":"Feature: Spy Contact","type":"entries","entries":["You
+    have a reliable and trustworthy contact who acts as your liaison to a network
+    of other spies. You know how to get messages to and from your contact, even over
+    great distances; specifically, you know the local messengers, corrupt caravan
+    masters, and seedy sailors who can deliver messages for you."],"data":{"isFeature":true}}}}},"hasFluff":true}'
+  DataHash: b3eadbdbce4992b4d7e083ed33d8aef1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: greater-restoration
+  m_EditorClassIdentifier: 
+  Title: Greater Restoration
+  AsJson: '{"name":"Greater Restoration","source":"PHB","page":246,"srd":true,"basicRules":true,"level":5,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"diamond
+    dust worth at least 100 gp, which the spell consumes","cost":10000,"consume":true}},"duration":[{"type":"instant"}],"entries":["You
+    imbue a creature you touch with positive energy to undo a debilitating effect.
+    You can reduce the target''s {@condition exhaustion} level by one, or end one
+    of the following effects on the target:",{"type":"list","items":["One effect
+    that {@condition charmed} or {@condition petrified} the target","One curse, including
+    the target''s attunement to a cursed magic item","Any reduction to one of the
+    target''s ability scores","One effect reducing the target''s hit point maximum"]}],"areaTags":["ST"]}'
+  DataHash: 1c4c117d401ea52ef4a17dfdb6219c59

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bead-of-force
+  m_EditorClassIdentifier: 
+  Title: Bead of Force
+  AsJson: "{\"name\":\"Bead of Force\",\"source\":\"DMG\",\"page\":154,\"srd\":true,\"tier\":\"minor\",\"rarity\":\"rare\",\"wondrous\":true,\"weight\":0.0625,\"entries\":[\"This
+    small black sphere measures \xBE of an inch in diameter and weighs an ounce.
+    Typically, {@dice 1d4 + 4} {@italic beads of force} are found together.\",\"You
+    can use an action to throw the bead up to 60 feet. The bead explodes on impact
+    and is destroyed. Each creature within a 10-foot radius of where the bead landed
+    must succeed on a DC 15 Dexterity saving throw or take {@damage 5d4} force damage.
+    A sphere of transparent force then encloses the area for 1 minute. Any creature
+    that failed the save and is completely within the area is trapped inside this
+    sphere. Creatures that succeeded on the save, or are partially within the area,
+    are pushed away from the center of the sphere until they are no longer inside
+    it. Only breathable air can pass through the sphere's wall. No attack or other
+    effect can.\",\"An enclosed creature can use its action to push against the sphere's
+    wall, moving the sphere up to half the creature's walking speed. The sphere can
+    be picked up, and its magic causes it to weigh only 1 pound, regardless of the
+    weight of creatures inside.\"],\"lootTables\":[\"Magic Item Table C\"]}"
+  DataHash: 1e059c7c98922d8f083f375f1a964b57

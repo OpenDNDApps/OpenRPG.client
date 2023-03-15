@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: wiggan-nettlebee
+  m_EditorClassIdentifier: 
+  Title: Wiggan Nettlebee
+  AsJson: '{"name":"Wiggan Nettlebee","isNpc":true,"source":"PotA","page":212,"size":["S"],"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N","E"],"ac":[11,{"ac":16,"condition":"with
+    {@spell barkskin}","braces":true}],"hp":{"average":36,"formula":"8d6 + 8"},"speed":{"walk":30},"str":8,"dex":12,"con":12,"int":14,"wis":15,"cha":13,"skill":{"deception":"+3","insight":"+4"},"passive":12,"languages":["Common","Halfling"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["Wiggan
+    is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc
+    12}, {@hit 4} to hit with spell attacks). He has the following cleric spells
+    prepared:"],"spells":{"0":{"spells":["{@spell guidance}","{@spell light}","{@spell
+    mending}","{@spell shillelagh}","{@spell thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell
+    animal friendship}","{@spell cure wounds}","{@spell healing word}","{@spell inflict
+    wounds}","{@spell speak with animals}"]},"2":{"slots":3,"spells":["{@spell barkskin}","{@spell
+    spike growth}","{@spell spiritual weapon}"]}},"ability":"wis"}],"trait":[{"name":"Brave
+    Devotion","entries":["Wiggan has advantage on saving throws against being {@condition
+    charmed} or {@condition frightened}."]}],"action":[{"name":"Multiattack","entries":["Wiggan
+    makes two attacks with his wooden cane."]},{"name":"Wooden Cane","entries":["{@atk
+    mw} {@hit 0} to hit ({@hit 4} to hit with shillelagh), reach 5 ft., one target.
+    {@h}1 ({@damage 1d4 - 1}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning
+    damage with shillelagh."]}],"actionTags":["Multiattack"],"languageTags":["C","H"],"damageTags":["B"],"damageTagsSpell":["N","O","P"],"spellcastingTags":["CC"],"miscTags":["MW"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 10a420d84aac5e0b8d3488cc2aac82c2

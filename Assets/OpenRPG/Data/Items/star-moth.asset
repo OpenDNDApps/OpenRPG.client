@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: star-moth
+  m_EditorClassIdentifier: 
+  Title: Star Moth
+  AsJson: '{"name":"Star Moth","source":"AAG","page":50,"type":"SPC","rarity":"none","value":4000000,"crew":13,"vehAc":13,"vehHp":400,"vehDmgThresh":15,"vehSpeed":5.5,"capCargo":30,"entries":["Star
+    moths are ships constructed and flown by astral elves, who don''t like it when
+    these ships end up in the hands of others.","A star moth''s hull is fashioned
+    from a grown and sculpted organic substance, and its enormous, decorative wings
+    are made of shimmering crystal. The vessel is built for space travel, but its
+    design does enable it to float on water or land safely on the ground. Standard
+    weaponry includes two ballistae nestled in the star moth''s eye holes and a mangonel
+    mounted above the bridge."],"seeAlsoVehicle":["Star Moth|AAG"]}'
+  DataHash: 2e81bb0404cc92bf2c8d3928fa6935f3

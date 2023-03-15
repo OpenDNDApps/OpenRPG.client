@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: fargab
+  m_EditorClassIdentifier: 
+  Title: Fargab
+  AsJson: '{"name":"Fargab","source":"DSotDQ","page":188,"type":"G","rarity":"none","entries":["These
+    backpack-sized devices are created in pairs, with matching numbers engraved on
+    them, and allow communication over a long distance using radio frequencies. While
+    wearing a fargab, you can use an action to speak into the device''s mouthpiece
+    and send a short message of twenty-five words or less to another creature wearing
+    the matched fargab while it is within 18 miles of you. The message emits from
+    the speakers of the device and can be heard up to 10 feet away from the device.
+    If no creature is wearing the fargab, the speakers make static noises instead."],"hasFluffImages":true}'
+  DataHash: 2d3f18b31583886660ce7151fe5ca2f0

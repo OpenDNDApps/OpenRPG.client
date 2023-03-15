@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: dancing-lights
+  m_EditorClassIdentifier: 
+  Title: Dancing Lights
+  AsJson: '{"name":"Dancing Lights","source":"PHB","page":230,"srd":true,"basicRules":true,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true,"m":"a
+    bit of phosphorus or wychwood, or a glowworm"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    create up to four torch-sized lights within range, making them appear as torches,
+    lanterns, or glowing orbs that hover in the air for the duration. You can also
+    combine the four lights into one glowing vaguely humanoid form of Medium size.
+    Whichever form you choose, each light sheds dim light in a 10-foot radius.","As
+    a bonus action on your turn, you can move the lights up to 60 feet to a new spot
+    within range. A light must be within 20 feet of another light created by this
+    spell, and a light winks out if it exceeds the spell''s range."],"miscTags":["LGT","UBA"]}'
+  DataHash: db90903f8a2910f5c6a21de4e30d66d3

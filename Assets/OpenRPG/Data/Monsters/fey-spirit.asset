@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fey-spirit
+  m_EditorClassIdentifier: 
+  Title: Fey Spirit
+  AsJson: '{"name":"Fey Spirit","source":"UA2020SpellsAndMagicTattoos","page":5,"summonedBySpell":"Summon
+    Fey Spirit|UA2020SpellsAndMagicTattoos","summonedBySpellLevel":3,"size":["S"],"type":"fey","alignment":["C","G"],"ac":[{"special":"11
+    + the level of the spell (natural armor)"}],"hp":{"special":"equal the fey''s
+    Constitution modifier + your spellcasting ability modifier + ten times the spell''s
+    level"},"speed":{"walk":40},"str":13,"dex":16,"con":14,"int":14,"wis":11,"cha":16,"senses":["darkvision
+    60 ft."],"passive":10,"conditionImmune":["charmed"],"languages":["Sylvan","understands
+    the languages you speak"],"trait":[{"name":"Fey Step","entries":["As a bonus
+    action, the fey can magically teleport up to 30 feet to an unoccupied space it
+    can see."]},{"name":"Darkening Step (Deceitful Only)","entries":["Immediately
+    after using its Fey Step, the fey can fill a 5-foot cube within 5 feet of it
+    with magical darkness, which remains until the end of the fey''s next turn."]},{"name":"Ecstatic
+    Step (Joyful Only)","entries":["Immediately after using its Fey Step, the fey
+    can choose a creature it can see within 10 feet of it and force it to succeed
+    on a Wisdom saving throw against your spell save DC or be {@condition charmed}
+    by the fey for 1 minute. The charm ends if the fey or any of its companions deals
+    any damage to the target."]},{"name":"Impassioned Step (Furious Only)","entries":["Immediately
+    after using its Fey Step, the fey has advantage on the next attack roll it makes
+    before the end of its turn."]}],"action":[{"name":"Multiattack","entries":["The
+    fey makes a number of attacks equal to half this spell''s level (rounded down)."]},{"name":"Shortsword","entries":["{@atk
+    mw} {@hit 3 + summonSpellLevel} to hit, reach 5 ft., one target. {@h}{@damage
+    1d6 + 3 + summonSpellLevel} piercing damage {@damage + 1d6} force damage."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["S"],"damageTags":["O","P"],"miscTags":["AOE","MW"],"conditionInflict":["charmed"],"hasToken":true}'
+  DataHash: f7a579b4239971552e4f230d43e4592a

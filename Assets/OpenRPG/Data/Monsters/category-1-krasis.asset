@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: category-1-krasis
+  m_EditorClassIdentifier: 
+  Title: Category 1 Krasis
+  AsJson: '{"name":"Category 1 Krasis","source":"GGR","page":210,"size":["M"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":19,"formula":"3d8 + 6"},"speed":{"walk":30},"str":16,"dex":15,"con":14,"int":2,"wis":13,"cha":8,"passive":11,"cr":"1","trait":[{"name":"Amphibious","entries":["The
+    krasis can breathe air and water."]}],"action":[{"name":"Multiattack","entries":["The
+    krasis makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}8 ({@damage 1d10 + 3}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft.,
+    one target. {@h}7 ({@damage 1d8 + 3}) slashing damage."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 56b31fb9323a8fa9df83af7a7a1f7972

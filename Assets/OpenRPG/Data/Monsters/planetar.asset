@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: planetar
+  m_EditorClassIdentifier: 
+  Title: Planetar
+  AsJson: '{"name":"Planetar","group":["Angels"],"source":"MM","page":17,"srd":true,"otherSources":[{"source":"BGDIA"},{"source":"CRCotN"},{"source":"JttRC"}],"size":["L"],"type":"celestial","alignment":["L","G"],"ac":[{"ac":19,"from":["natural
+    armor"]}],"hp":{"average":200,"formula":"16d10 + 112"},"speed":{"walk":40,"fly":120},"str":24,"dex":20,"con":24,"int":19,"wis":22,"cha":25,"save":{"con":"+12","wis":"+11","cha":"+12"},"skill":{"perception":"+11"},"senses":["truesight
+    120 ft."],"passive":21,"resist":["radiant",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"conditionImmune":["charmed","exhaustion","frightened"],"languages":["all","telepathy
+    120 ft."],"cr":"16","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    planetar''s spellcasting ability is Charisma (spell save {@dc 20}). The planetar
+    can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    detect evil and good}","{@spell invisibility} (self only)"],"daily":{"3e":["{@spell
+    blade barrier}","{@spell dispel evil and good}","{@spell flame strike}","{@spell
+    raise dead}"],"1e":["{@spell commune}","{@spell control weather}","{@spell insect
+    plague}"]},"ability":"cha"}],"trait":[{"name":"Angelic Weapons","entries":["The
+    planetar''s weapon attacks are magical. When the planetar hits with any weapon,
+    the weapon deals an extra {@dice 5d8} radiant damage (included in the attack)."]},{"name":"Divine
+    Awareness","entries":["The planetar knows if it hears a lie."]},{"name":"Magic
+    Resistance","entries":["The planetar has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    planetar makes two melee attacks."]},{"name":"Greatsword","entries":["{@atk mw}
+    {@hit 12} to hit, reach 5 ft., one target. {@h}21 ({@damage 4d6 + 7}) slashing
+    damage plus 22 ({@damage 5d8}) radiant damage."]},{"name":"Healing Touch (4/Day)","entries":["The
+    planetar touches another creature. The target magically regains 30 ({@dice 6d8
+    + 3}) hit points and is freed from any curse, disease, poison, blindness, or
+    deafness."]}],"soundClip":{"type":"internal","path":"bestiary/planetar.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["TP","XX"],"damageTags":["R","S"],"damageTagsSpell":["F","P","R","S"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 842716e36395bbb893349473c87f1d98

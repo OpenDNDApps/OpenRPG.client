@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: mason-s-tools
+  m_EditorClassIdentifier: 
+  Title: Mason's Tools
+  AsJson: '{"name":"Mason''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":83}],"type":"AT","rarity":"none","weight":8,"value":1000,"additionalEntries":["Mason''s
+    tools allow you to craft stone structures, including walls and buildings crafted
+    from brick.",{"type":"entries","name":"Components","entries":["Mason''s tools
+    consist of a trowel, a hammer, a chisel, brushes, and a square."]},{"type":"entries","name":"History","entries":["Your
+    expertise aids you in identifying a stone building''s date of construction and
+    purpose, along with insight into who might have built it."]},{"type":"entries","name":"Investigation","entries":["You
+    gain additional insight when inspecting areas within stone structures."]},{"type":"entries","name":"Perception","entries":["You
+    can spot irregularities in stone walls or floors, making it easier to find trap
+    doors and secret passages."]},{"type":"entries","name":"Demolition","entries":["Your
+    knowledge of masonry allows you to spot weak points in brick walls. You deal
+    double damage to such structures with your weapon attacks."]},{"type":"table","caption":"Mason''s
+    Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Chisel
+    a small hole in a stone wall","10"],["Find a weak point in a stone wall","15"]]}]}'
+  DataHash: c7a4c48de6855167c2a554cf777d726d

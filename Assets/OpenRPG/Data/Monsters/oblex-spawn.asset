@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: oblex-spawn
+  m_EditorClassIdentifier: 
+  Title: Oblex Spawn
+  AsJson: '{"name":"Oblex Spawn","source":"MTF","page":217,"reprintedAs":["Oblex
+    Spawn|MPMM"],"size":["T"],"type":"ooze","alignment":["L","E"],"ac":[13],"hp":{"average":18,"formula":"4d4
+    + 8"},"speed":{"walk":20},"str":8,"dex":16,"con":15,"int":14,"wis":11,"cha":10,"save":{"int":"+4","cha":"+2"},"senses":["blindsight
+    60 ft. (blind beyond this distance)"],"passive":12,"conditionImmune":["blinded","charmed","deafened","exhaustion","prone"],"cr":"1/4","trait":[{"name":"Amorphous","entries":["The
+    oblex can move through a space as narrow as 1 inch wide without squeezing."]},{"name":"Aversion
+    to Fire","entries":["If the oblex takes fire damage, it has disadvantage on attack
+    rolls and ability checks until the end of its next turn."]}],"action":[{"name":"Pseudopod","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) bludgeoning
+    damage plus 2 ({@damage 1d4}) psychic damage."]}],"environment":["swamp","underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/oblex-spawn.mp3"},"traitTags":["Amorphous"],"senseTags":["B"],"damageTags":["B","Y"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bdfca0d0b52ad7cce4adfb345545f565

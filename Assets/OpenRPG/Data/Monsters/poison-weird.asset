@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: poison-weird
+  m_EditorClassIdentifier: 
+  Title: Poison Weird
+  AsJson: '{"name":"Poison Weird","source":"WDMM","page":127,"_copy":{"name":"Water
+    Weird","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"water weird","with":"poison
+    weird"}}},"cr":"4","trait":[{"name":"Invisible in Water","entries":["The weird
+    is {@condition invisible} while fully immersed in toxic brew."]},{"name":"Brew
+    Bound","entries":["The weird dies if forced to leave the basin of toxic brew
+    it inhabits, or if a {@spell purify food and drink} spell is cast on the brew."]},{"name":"Poisonous
+    Body","entries":["A creature takes 10 ({@damage 3d6}) poison damage at the start
+    of each of its turns while {@condition grappled} by a poison weird."]}],"damageTags":["B","I"],"conditionInflict":["invisible"],"hasToken":true}'
+  DataHash: 8ac4dbdaa4eb4f892eace908d72c90b5

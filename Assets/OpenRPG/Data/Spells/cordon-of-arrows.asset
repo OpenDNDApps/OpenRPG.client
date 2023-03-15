@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: cordon-of-arrows
+  m_EditorClassIdentifier: 
+  Title: Cordon of Arrows
+  AsJson: "{\"name\":\"Cordon of Arrows\",\"source\":\"PHB\",\"page\":228,\"level\":2,\"school\":\"T\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"feet\",\"amount\":5}},\"components\":{\"v\":true,\"s\":true,\"m\":\"four
+    or more arrows or bolts\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"hour\",\"amount\":8}}],\"entries\":[\"You
+    plant four pieces of nonmagical ammunition\u2014{@item arrow|phb|arrows} or {@item
+    crossbow bolt|phb|crossbow bolts}\u2014in the ground within range and lay magic
+    upon them to protect an area. Until the spell ends, whenever a creature other
+    than you comes within 30 feet of the ammunition for the first time on a turn
+    or ends its turn there, one piece of ammunition flies up to strike it. The creature
+    must succeed on a Dexterity saving throw or take {@damage 1d6} piercing damage.
+    The piece of ammunition is then destroyed. The spell ends when no ammunition
+    remains.\",\"When you cast this spell, you can designate any creatures you choose,
+    and the spell ignores them.\"],\"entriesHigherLevel\":[{\"type\":\"entries\",\"name\":\"At
+    Higher Levels\",\"entries\":[\"When you cast this spell using a spell slot of
+    3rd level or higher, the amount of ammunition that can be affected increases
+    by two for each slot level above 2nd.\"]}],\"damageInflict\":[\"piercing\"],\"savingThrow\":[\"dexterity\"],\"areaTags\":[\"S\"]}"
+  DataHash: 404a89208ce082031b2a6803b4848574

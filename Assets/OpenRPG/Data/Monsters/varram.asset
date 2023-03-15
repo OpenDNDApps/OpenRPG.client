@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: varram
+  m_EditorClassIdentifier: 
+  Title: Varram
+  AsJson: '{"name":"Varram","isNpc":true,"source":"RoT","page":9,"otherSources":[{"source":"ToD","page":8}],"_copy":{"name":"Dragonsoul","source":"RoT","_trait":{"name":"Mountain
+    Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the dragonsoul","with":"Varram","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"5etools
+    Note","entries":["Varram is presented in {@adventure The Rise of Tiamat|RoT}
+    as a male dwarf. The {@creature dragonsoul|RoT} stat block, modified with dwarf
+    racial traits, has been provided here for ease of use."]}}}},"senseTags":["D"],"languageTags":["C","D","DR","I"],"hasToken":true}'
+  DataHash: 67596add5dace66df9b8811cb30dfa04

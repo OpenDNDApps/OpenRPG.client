@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wargong
+  m_EditorClassIdentifier: 
+  Title: Wargong
+  AsJson: '{"name":"Wargong","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+    metal gong, traditionally made from a shield, particularly the shield of an enemy.
+    Both goblins and dwarves make and play wargongs, their sound echoing through
+    tunnels in the Underdark."]}'
+  DataHash: 6dfb6ae05e5cc67a8c74a3517b186f1a

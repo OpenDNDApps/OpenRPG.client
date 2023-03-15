@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: viln-tirin
+  m_EditorClassIdentifier: 
+  Title: Viln Tirin
+  AsJson: '{"name":"Viln Tirin","isNpc":true,"isNamedCreature":true,"source":"OotA","page":202,"_copy":{"name":"Bandit
+    Captain","source":"MM","_trait":{"name":"Drow","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+    captain","with":"Viln","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Special
+    Equipment","entries":["Viln carries a {@item scimitar of speed} and can make
+    one attack with it as a bonus action on her turn. Viln also carries four daggers
+    coated with {@item purple worm poison}. The poison on a dagger''s blade is good
+    for one hit only, whether the poison takes effect or not."]}},"action":{"mode":"replaceArr","replace":"Scimitar","items":{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) slashing
+    damage."]}}}},"alignment":["C","E"],"cr":"5","traitTags":["Fey Ancestry","Sunlight
+    Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+  DataHash: 30e6742a598970d5db528b156c159c5e

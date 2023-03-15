@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: skabatha-nightshade
+  m_EditorClassIdentifier: 
+  Title: Skabatha Nightshade
+  AsJson: '{"name":"Skabatha Nightshade","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":218,"size":["M"],"type":{"type":"fey","tags":["hag"]},"alignment":["N","E"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":150,"formula":"20d8 + 60"},"speed":{"walk":30},"str":18,"dex":9,"con":16,"int":12,"wis":16,"cha":15,"save":{"con":"+6","int":"+4","wis":"+6","cha":"+5"},"skill":{"arcana":"+7","deception":"+5","perception":"+6","stealth":"+2"},"senses":["truesight
+    60 ft."],"passive":16,"languages":["Common","Elvish","Infernal","Sylvan"],"cr":"8","spellcasting":[{"name":"Spellcasting","headerEntries":["Skabatha
+    casts one of the following spells, requiring no material components and using
+    Wisdom as the spellcasting ability (spell save {@dc 14}):"],"will":["{@spell
+    detect magic}","{@spell druidcraft}","{@spell speak with animals}"],"daily":{"1":["{@spell
+    awaken} (as an action)","{@spell plane shift} (self only)"],"2e":["{@spell polymorph}","{@spell
+    remove curse}","{@spell speak with plants}"]},"ability":"wis","displayAs":"action"}],"trait":[{"name":"Boon
+    of Immortality","entries":["Skabatha is immune to any effect that would age her,
+    and she can''t die from old age."]},{"name":"Forgetfulness","entries":["The first
+    creature that Skabatha sees after she finishes a long rest is {@condition invisible}
+    to her. She can''t remember seeing the creature or perceive it using her truesight
+    until the end of her next long rest."]}],"action":[{"name":"Multiattack","entries":["Skabatha
+    makes two Claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit 7} to hit,
+    reach 5 ft., one creature. {@h}25 ({@damage 6d6 + 4}) poison damage."]}],"bonus":[{"name":"Alter
+    Size","entries":["Skabatha magically shrinks herself to Tiny size (between 4
+    and 8 inches tall) or returns to her normal size. If Skabatha lacks the room
+    to return to her normal size, she attains the maximum size possible in the space
+    available. Anything she is wearing or carrying changes size along with her.","As
+    a Tiny creature, Skabatha deals 2 ({@damage 1d4}) poison damage when she hits
+    with a Claw attack. She has advantage on Dexterity (Stealth) checks, and disadvantage
+    on Strength checks and Strength saving throws. Her statistics otherwise remain
+    unchanged."]}],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["C","E","I","S"],"damageTags":["I"],"spellcastingTags":["O"],"miscTags":["MW"],"conditionInflict":["invisible"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 1409b6099411411dd5c03f1ec6768016

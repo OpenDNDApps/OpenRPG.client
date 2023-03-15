@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ashen-veteran
+  m_EditorClassIdentifier: 
+  Title: Ashen Veteran
+  AsJson: '{"name":"Ashen Veteran","source":"KftGV","page":154,"_copy":{"name":"Veteran","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Ashen
+    Creature","entries":["When the veteran drops to 0 hit points, it is reduced to
+    a pile of ash, and any equipment it was wearing or carrying falls to the ground."]}}}},"type":"elemental","alignment":["L","E"],"immune":["fire"],"hasFluff":true}'
+  DataHash: 89c0c944a2fa09096fc75992ced1ed95

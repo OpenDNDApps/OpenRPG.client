@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stirring-dragon-touched-focus
+  m_EditorClassIdentifier: 
+  Title: Stirring Dragon-Touched Focus
+  AsJson: '{"name":"Stirring Dragon-Touched Focus","source":"FTD","_copy":{"name":"Slumbering
+    Dragon-Touched Focus","source":"FTD","_preserve":{"page":true}},"rarity":"rare","entries":["This
+    wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely
+    crafted object. It typically incorporates imagery of dragons'' wings, claws,
+    teeth, or scales.","You have advantage on initiative rolls. While you are holding
+    the focus, it can function as a spellcasting focus for all your spells.","The
+    focus gains an additional property determined by the family of the dragon in
+    whose hoard it became Stirring:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Chromatic","entries":["Whenever
+    you use a spell slot to cast a spell that deals acid, cold, fire, lightning,
+    or poison damage, roll a {@dice d6}, and you gain a bonus equal to the number
+    rolled to one of the spell''s damage rolls."]},{"type":"item","name":"Gem","entries":["Whenever
+    you use a spell slot to cast a spell, you can immediately teleport to an unoccupied
+    space you can see within 15 feet of you."]},{"type":"item","name":"Metallic","entries":["When
+    a creature you can see within 30 feet of you makes a saving throw, you can use
+    your reaction to give that creature advantage on the saving throw."]}]}]}'
+  DataHash: 9031c130b3590dd02fdf36a604dea127

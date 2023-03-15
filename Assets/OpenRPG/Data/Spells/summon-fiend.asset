@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: summon-fiend
+  m_EditorClassIdentifier: 
+  Title: Summon Fiend
+  AsJson: '{"name":"Summon Fiend","source":"TCE","page":112,"level":6,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":{"text":"humanoid
+    blood inside a ruby vial worth at least 600 gp","cost":60000}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    call forth a fiendish spirit. It manifests in an unoccupied space that you can
+    see within range. This corporeal form uses the {@creature Fiendish Spirit|TCE}
+    stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature
+    resembles a fiend of the chosen type, which determines certain traits in its
+    stat block. The creature disappears when it drops to 0 hit points or when the
+    spell ends.","The creature is an ally to you and your companions. In combat,
+    the creature shares your initiative count, but it takes its turn immediately
+    after yours. It obeys your verbal commands (no action required by you). If you
+    don''t issue any, it takes the {@action Dodge} action and uses its move to avoid
+    danger."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 7th level or higher, use the higher
+    level wherever the spell''s level appears in the stat block."]}],"miscTags":["SGT","SMN"]}'
+  DataHash: 0a876c2a2d3fbcf0aea83e3b5ab031bd

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: great-ulfe
+  m_EditorClassIdentifier: 
+  Title: Great Ulfe
+  AsJson: '{"name":"Great Ulfe","isNpc":true,"source":"TftYP","page":42,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    ogre","with":"Ulfe","flags":"i"},"action":{"mode":"replaceArr","replace":"Greatclub","items":{"name":"Greataxe","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}17 ({@damage 2d12 + 4}) slashing
+    damage."]}}}},"damageTags":["P","S"],"hasToken":true}'
+  DataHash: 631c8e9c860dffbf15b244af05734aa6

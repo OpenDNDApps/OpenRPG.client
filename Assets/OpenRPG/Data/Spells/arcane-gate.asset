@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: arcane-gate
+  m_EditorClassIdentifier: 
+  Title: Arcane Gate
+  AsJson: '{"name":"Arcane Gate","source":"PHB","page":214,"level":6,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":500}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    create linked teleportation portals that remain open for the duration. Choose
+    two points on the ground that you can see, one point within 10 feet of you and
+    one point within 500 feet of you. A circular portal, 10 feet in diameter, opens
+    over each point. If the portal would open in the space occupied by a creature,
+    the spell fails, and the casting is lost.","The portals are two-dimensional glowing
+    rings filled with mist, hovering inches from the ground and perpendicular to
+    it at the points you choose. A ring is visible only from one side (your choice),
+    which is the side that functions as a portal.","Any creature or object entering
+    the portal exits from the other portal as if the two were adjacent to each other;
+    passing through a portal from the nonportal side has no effect. The mist that
+    fills each portal is opaque and blocks vision through it. On your turn, you can
+    rotate the rings as a bonus action so that the active side faces in a different
+    direction."],"miscTags":["OBJ","SGT","TP","UBA"]}'
+  DataHash: 0775c44e9df1a24f0bd77ad604e65cf3

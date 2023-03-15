@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dragon-thighbone-club
+  m_EditorClassIdentifier: 
+  Title: Dragon Thighbone Club
+  AsJson: '{"name":"Dragon Thighbone Club","source":"SKT","page":105,"baseItem":"greatclub|phb","type":"M","rarity":"unknown
+    (magic)","reqAttune":"optional","weight":250,"weaponCategory":"simple","property":["2H"],"dmg1":"1d8","dmgType":"B","weapon":true,"entries":["This
+    red dragon''s thighbone is 14 feet long, 250 lbs, and is wrapped in old leather,
+    suggesting that it was once used as a giant''s greatclub.","When you hit a creature
+    of the dragon type with this weapon, it deals an extra {@damage 2d8} bludgeoning
+    damage.","If you attune to the greatclub, it magically shrinks to a size that
+    you can wield effectively."]}'
+  DataHash: b346a21d4c1a462dd66fdf726e8a4624

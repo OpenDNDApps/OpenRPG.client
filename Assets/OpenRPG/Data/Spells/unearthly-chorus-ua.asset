@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: unearthly-chorus-ua
+  m_EditorClassIdentifier: 
+  Title: Unearthly Chorus (UA)
+  AsJson: '{"name":"Unearthly Chorus (UA)","source":"UAStarterSpells","page":4,"level":1,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Music
+    of a style you choose fills the air around you in a 30-foot radius. The music
+    spreads around corners and can be heard from up to 100 feet away. The music moves
+    with you, centered on you for the duration.","Until the spell ends, you make
+    Charisma ({@skill Performance}) checks with advantage. In addition, you can use
+    a bonus action on each of your turns to beguile one creature you choose within
+    30 feet of you that can see you and hear the music. The creature must make a
+    Charisma saving throw. If you or your companions are attacking it, the creature
+    automatically succeeds on the saving throw. On a failure, the creature becomes
+    friendly to you for as long as it can hear the music and for 1 hour thereafter.
+    You make Charisma ({@skill Deception}) checks and Charisma ({@skill Persuasion})
+    checks against creatures made friendly by this spell with advantage."],"savingThrow":["charisma"],"miscTags":["UBA"],"areaTags":["S"]}'
+  DataHash: b820c2f2d7e7506b89d8a707a6b2223b

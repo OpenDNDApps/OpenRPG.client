@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stormgirdle-exalted
+  m_EditorClassIdentifier: 
+  Title: Stormgirdle (Exalted)
+  AsJson: '{"name":"Stormgirdle (Exalted)","source":"EGW","_copy":{"name":"Stormgirdle
+    (Awakened)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted","entries":["While
+    wearing the Stormgirdle in its exalted state, you gain the following benefits:",{"type":"list","items":["Your
+    Strength score becomes 25 if it isn''t already 25 or higher.","Your Storm Avatar''s
+    lightning strike deals {@damage 5d6} lightning damage (instead of {@dice 3d6}).","You
+    can cast the {@spell control weather} spell from the girdle. This property can''t
+    be used again until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"attachedSpells":["control
+    weather"]}'
+  DataHash: aab8682f15b9b392e78f2a075d8a51e2

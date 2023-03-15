@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: demodand-shator
+  m_EditorClassIdentifier: 
+  Title: Demodand, Shator
+  AsJson: '{"name":"Demodand, Shator","source":"MaBJoV","page":135,"size":["L"],"type":"fiend","alignment":["N","E"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":189,"formula":"18d10 + 90"},"speed":{"walk":30,"fly":60},"str":24,"dex":13,"con":20,"int":14,"wis":16,"cha":20,"save":{"str":"+12","con":"+10","cha":"+10"},"skill":{"athletics":"+12","insight":"+8","persuasion":"+10"},"senses":["darkvision
+    120 ft."],"passive":13,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t silvered","cond":true}],"immune":["acid","fire","poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common"],"cr":"15","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The shator''s innate spellcasting ability is
+    Charisma (spell save {@dc 18}, {@hit 10} to hit with spell attacks). It can innately
+    cast the following spells, requiring no material components:"],"will":["{@spell
+    clairvoyance}","{@spell detect magic}","{@spell magic missile}","{@spell invisibility}
+    (self only)","{@spell spider climb}","{@spell tongues}"],"daily":{"3e":["{@spell
+    cloudkill}","{@spell tasha''s hideous laughter}"],"2e":["{@spell dispel magic}","{@spell
+    plane shift}"]},"ability":"cha"}],"trait":[{"name":"Devil''s Sight","entries":["Magical
+    darkness doesn''t impede the shator''s darkvision."]},{"name":"Keen Smell","entries":["The
+    shator has advantage on Wisdom ({@skill Perception}) checks that rely on smell."]},{"name":"Magic
+    Resistance","entries":["The shator has advantage on saving throws against spells
+    and other magical effects."]},{"name":"Magic Weapons","entries":["The shator''s
+    weapon attacks are magical."]},{"name":"Poisonous Slime","entries":["A creature
+    within 5 feet of the shator is splattered with slime whenever it hits the shator
+    with a melee attack. The creature must make a {@dc 18} Dexterity saving throw
+    or becoming {@condition paralyzed} for 1 minute. A creature can repeat the saving
+    throw at the end of each of its turns, ending the {@condition paralyzed} effect
+    on itself on a success.."]}],"action":[{"name":"Multiattack","entries":["The
+    shator makes two claw attacks and one bite. It can substitute its bite for a
+    poisonous spit attack if available."]},{"name":"Claws","entries":["{@atk mw}
+    {@hit 12} to hit, reach 5 ft., one target. {@h}16 ({@damage 2d8 + 7}) slashing
+    damage plus 10 ({@damage 3d6}) acid damage."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 12} to hit, reach 5 ft., one target. {@h}25 ({@damage 4d8 + 7}) piercing
+    damage plus 14 ({@damage 4d6}) acid damage."]},{"name":"Poisonous Spit {@recharge
+    5}","entries":["The shator exhales poisonous spit in a 20-foot line that is 5
+    feet wide. Each creature in that line must make a {@dc 18} Dexterity saving throw,
+    taking 36 ({@damage 8d8}) acid damage on a failed save and becoming {@condition
+    paralyzed} for 1 minute. A creature can repeat the saving throw at the end of
+    each of its turns, ending the {@condition paralyzed} effect on itself on a success.
+    The creature takes 18 ({@damage 4d8}) acid damage on a successful save."]},{"name":"Summon
+    Reinforcements (Recharges after a Short or Long Rest)","entries":["If the shator
+    rolls 1-2 on a {@dice d6} it summons in two Demodand, Farastu|MaBJoV|farastu,
+    a result of 3-4 summons in one {@creature Demodand, shator|MaBJoV|shator}."]}],"traitTags":["Devil''s
+    Sight","Keen Senses","Magic Resistance","Magic Weapons"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AB","C"],"damageTags":["A","P","S"],"damageTagsSpell":["I","O"],"spellcastingTags":["I"],"miscTags":["AOE","MW"],"conditionInflictSpell":["incapacitated","invisible","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2355ac448f1631581d1461ad74240318

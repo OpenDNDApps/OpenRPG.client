@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wreath-of-the-prism-awakened
+  m_EditorClassIdentifier: 
+  Title: Wreath of the Prism (Awakened)
+  AsJson: '{"name":"Wreath of the Prism (Awakened)","source":"EGW","_copy":{"name":"Wreath
+    of the Prism (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["Once
+    the Wreath of the Prism reaches an awakened state, it gains the following benefits:",{"type":"list","items":["You
+    can affect creatures of challenge rating 10 or lower with the wreath.","The save
+    DC of the wreath''s spell increases to 15."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"hasFluffImages":true}'
+  DataHash: 62090421c10318b3bec489628c52de0b

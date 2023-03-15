@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: reality-break
+  m_EditorClassIdentifier: 
+  Title: Reality Break
+  AsJson: '{"name":"Reality Break","source":"EGW","page":189,"level":8,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    crystal prism"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    shatter the barriers between realities and timelines, thrusting a creature into
+    turmoil and madness. The target must succeed on a Wisdom saving throw, or it
+    can''t take reactions until the spell ends. The affected target must also roll
+    a {@dice d10} at the start of each of its turns; the number rolled determines
+    what happens to the target, as shown on the Reality Break Effects table.","At
+    the end of each of its turns, the affected target can repeat the Wisdom saving
+    throw, ending the spell on itself on a success.",{"type":"table","caption":"Reality
+    Break Effects","colLabels":["d10","Effect"],"colStyles":["col-2 text-center","col-10"],"rows":[["1-2","{@b
+    Vision of the Far Realm.} The target takes {@damage 6d12} psychic damage, and
+    it is {@condition stunned} until the end of the turn."],["3-5","{@b Rending Rift.}
+    The target must make a Dexterity saving throw, taking {@damage 8d12} force damage
+    on a failed save, or half as much damage on a successful one."],["6-8","{@b Wormhole.}
+    The target is teleported, along with everything it is wearing and carrying, up
+    to 30 feet to an unoccupied space of your choice that you can see. The target
+    also takes {@damage 10d12} force damage and is knocked {@condition prone}."],["9-10","{@b
+    Chill of the Dark Void.} The target takes {@damage 10d12} cold damage, and it
+    is {@condition blinded} until the end of the turn."]]}],"damageInflict":["psychic","force","cold"],"conditionInflict":["stunned","prone","blinded"],"savingThrow":["wisdom","dexterity"],"miscTags":["RO","SGT"],"areaTags":["ST"],"hasFluffImages":true}'
+  DataHash: 2beedaf43b8404e8740ef05a8c1d957b

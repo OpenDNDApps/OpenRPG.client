@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: glaur
+  m_EditorClassIdentifier: 
+  Title: Glaur
+  AsJson: '{"name":"Glaur","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["Short,
+    curved horns like a cornucopia. Played with valves, glaur sound like trumpets,
+    while those without valves, known as gloon, have a more mournful sound."]}'
+  DataHash: 9bf1700918003fe23ecbc4c04a6c01e2

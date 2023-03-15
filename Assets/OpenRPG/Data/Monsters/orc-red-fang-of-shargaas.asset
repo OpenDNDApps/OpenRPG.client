@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: orc-red-fang-of-shargaas
+  m_EditorClassIdentifier: 
+  Title: Orc Red Fang of Shargaas
+  AsJson: '{"name":"Orc Red Fang of Shargaas","source":"VGM","page":185,"size":["M"],"type":{"type":"humanoid","tags":["orc"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["{@item
+    studded leather armor|phb|studded leather}"]}],"hp":{"average":52,"formula":"8d8
+    + 16"},"speed":{"walk":30},"str":11,"dex":16,"con":15,"int":9,"wis":11,"cha":9,"skill":{"intimidation":"+1","perception":"+2","stealth":"+5"},"senses":["darkvision
+    60 ft."],"passive":12,"languages":["Common","Orc"],"cr":"3","trait":[{"name":"Cunning
+    Action","entries":["On each of its turns, the orc can use a bonus action to take
+    the Dash, Disengage, or Hide action."]},{"name":"Hand of Shargaas","entries":["The
+    orc deals 2 extra dice of damage when it hits a target with a weapon attack (included
+    in its attacks)."]},{"name":"Shargaas''s Sight","entries":["Magical darkness
+    doesn''t impede the orc''s darkvision."]},{"name":"Slayer","entries":["In the
+    first round of a combat, the orc has advantage on attack rolls against any creature
+    that hasn''t taken a turn yet. If the orc hits a creature that round who was
+    {@quickref Surprise|PHB|3|0|surprised}, the hit is automatically a critical hit."]}],"action":[{"name":"Multiattack","entries":["The
+    orc makes two scimitar or dart attacks."]},{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}13 ({@damage 3d6 + 3}) slashing
+    damage."]},{"name":"Dart","entries":["{@atk rw} {@hit 5} to hit, range 20/60
+    ft., one target. {@h}10 ({@damage 3d4 + 3}) piercing damage."]},{"name":"Veil
+    of Shargaas (Recharges after a Short or Long Rest)","entries":["The orc casts
+    {@spell darkness} without any components. Wisdom is its spellcasting ability."]}],"environment":["underdark","mountain","forest","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/orc-red-fang.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","O"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ce3c4f95bd177d95319a5fc3f4612ae4

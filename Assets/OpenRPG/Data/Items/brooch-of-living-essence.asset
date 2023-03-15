@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: brooch-of-living-essence
+  m_EditorClassIdentifier: 
+  Title: Brooch of Living Essence
+  AsJson: '{"name":"Brooch of Living Essence","source":"EGW","page":266,"rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+    wearing this nondescript brooch, spells and anything else that would detect or
+    reveal your creature type treat you as humanoid, and those that would reveal
+    your alignment treat it as neutral."]}'
+  DataHash: d78609d9a89a58df426a933c80e13248

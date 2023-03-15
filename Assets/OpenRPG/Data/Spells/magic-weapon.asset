@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: magic-weapon
+  m_EditorClassIdentifier: 
+  Title: Magic Weapon
+  AsJson: '{"name":"Magic Weapon","source":"PHB","page":257,"srd":true,"basicRules":true,"level":2,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
+    weapon with a +1 bonus to attack rolls and damage rolls."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+    level or higher, the bonus increases to +2. When you use a spell slot of 6th
+    level or higher, the bonus increases to +3."]}]}'
+  DataHash: 29881fa980332cf0dcd38d189c02910a

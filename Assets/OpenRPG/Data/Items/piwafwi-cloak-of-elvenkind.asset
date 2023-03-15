@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: piwafwi-cloak-of-elvenkind
+  m_EditorClassIdentifier: 
+  Title: Piwafwi (Cloak of Elvenkind)
+  AsJson: '{"name":"Piwafwi (Cloak of Elvenkind)","source":"OotA","page":222,"rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["This
+    dark spider-silk cloak is made by {@creature drow}. It is a {@item cloak of elvenkind}.
+    It loses its magic if exposed to sunlight for 1 hour without interruption.","While
+    you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made
+    to see you have disadvantage. and you have advantage on Dexterity ({@skill Stealth})
+    checks made to hide, as the cloak''s color shifts to camouflage you. Pulling
+    the hood up or down requires an action."],"hasFluffImages":true}'
+  DataHash: 27955baa06609bdcc59647c734ad3ca8

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: rool
+  m_EditorClassIdentifier: 
+  Title: Rool
+  AsJson: '{"name":"Rool","isNpc":true,"source":"SKT","page":221,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+    assassin","with":"Rool","flags":"i"}}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["O","TC","X"],"hasToken":true}'
+  DataHash: f1dd038b5590e13b0bf26e453b3dd8d7

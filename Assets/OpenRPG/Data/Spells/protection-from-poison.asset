@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: protection-from-poison
+  m_EditorClassIdentifier: 
+  Title: Protection from Poison
+  AsJson: '{"name":"Protection from Poison","source":"PHB","page":270,"srd":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+    touch a creature. If it is {@condition poisoned}, you neutralize the poison.
+    If more than one poison afflicts the target, you neutralize one poison that you
+    know is present, or you neutralize one at random.","For the duration, the target
+    has advantage on saving throws against being {@condition poisoned}, and it has
+    resistance to poison damage."],"damageResist":["poison"],"areaTags":["ST"]}'
+  DataHash: 5c0bd56322f70bc4e0bb855350dafb11

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: moorbounder
+  m_EditorClassIdentifier: 
+  Title: Moorbounder
+  AsJson: '{"name":"Moorbounder","source":"EGW","page":132,"type":"MNT","rarity":"none","value":40000,"entries":["Beasts
+    of burden are common throughout Xhorhas, and often horses and other riding animals
+    are the best or only option. For those who require speed and have a little more
+    coin to spend, the best option is often a moorbounder. However, moorbounders
+    that haven''t undergone proper training or established bonds of trust with their
+    masters tend to attack and even eat their riders.","Moorbounders can cost anywhere
+    from 300 to 500 gp each. They''re often cheaper and more abundant in towns on
+    the wastes than in cities like Rosohna."]}'
+  DataHash: 30fc6d0cffc4eaaa9b69ceee2736116f

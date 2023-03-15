@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: qualith
+  m_EditorClassIdentifier: 
+  Title: Qualith
+  AsJson: '{"name":"Qualith","source":"VGM","page":75,"typicalSpeakers":["{@creature
+    Mind Flayer||Mind Flayers}"],"script":"Qualith","entries":["The \"writing\" of
+    mind flayers, known as Qualith, isn''t as simple as a set of symbols representing
+    sounds or ideas. An inscription in Qualith captures the thoughts of its creator
+    and psionically transmits the thoughts to a mind flayer who later reads the inscription
+    by touching it with its tentacles. Mind flayers write in Qualith by psionically
+    imprinting their messages on nonmagical, nonliving material they grasp or caress
+    with their tentacles. The imprinting causes imperceptible surface changes to
+    the object, and abrasion or degradation of the material can cause the inscription
+    to fade and fail.","An expression in Qualith is made up of four-line stanzas
+    packed into interlocking blocks, creating complex patterns that are indecipherable
+    by other creatures. Someone that touches a Qualith inscription, however, can
+    receive fragmentary insight into the multilayered thoughts contained within it.
+    A non-illithid that wants to understand a Qualith inscription can make an Intelligence
+    check (DC based on the complexity of the contained thoughts) to try to derive
+    some of the inscription''s meaning. Multiple successful attempts might uncover
+    different aspects about the illithid author, its intended meaning, and its intended
+    audience. A failed attempt results in a crushing headache and, in extreme cases,
+    madness. A {@spell comprehend languages} spell provides understanding of the
+    inscription roughly equivalent to what a mind flayer would get from it."]}'
+  DataHash: bb2fa1990f5f8cf6b9899e6758882b23

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bowl-of-commanding-water-elementals
+  m_EditorClassIdentifier: 
+  Title: Bowl of Commanding Water Elementals
+  AsJson: '{"name":"Bowl of Commanding Water Elementals","source":"DMG","page":156,"srd":true,"tier":"major","rarity":"rare","wondrous":true,"weight":3,"entries":["While
+    this bowl is filled with water, you can use an action to speak the bowl''s command
+    word and summon a {@creature water elemental}, as if you had cast the {@spell
+    conjure elemental} spell. The bowl can''t be used this way again until the next
+    dawn.","The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds
+    and holds about 3 gallons."],"attachedSpells":["conjure elemental"],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: 19f5340d6e5ab750d1acb26c8007801b

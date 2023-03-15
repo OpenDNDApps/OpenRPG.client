@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: krebbyg-masq-il-yr
+  m_EditorClassIdentifier: 
+  Title: Krebbyg Masq'il'yr
+  AsJson: '{"name":"Krebbyg Masq''il''yr","isNpc":true,"source":"WDH","page":67,"_copy":{"name":"Drow
+    Gunslinger","source":"WDH","_mod":{"*":{"mode":"replaceTxt","replace":"the drow","with":"Krebbyg","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+  DataHash: d532482f1e29f08d6fcd596c137e9b5c

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: zemnian
+  m_EditorClassIdentifier: 
+  Title: Zemnian
+  AsJson: '{"name":"Zemnian","source":"EGW","page":9,"entries":["This ancient language
+    was spoken by the people of Zemniaz in the Age of Arcanum. That ancient culture
+    has long since crumbled, but its language and its people live on in the Dwendalian
+    Empire. Many ancient scrolls were written in Zemnian, but it is a language now
+    largely spoken by farmers, as Common is the default language of the empire."]}'
+  DataHash: 5b59f9fc6d4305fd081e1c27bebba1e7

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: bugbear
+  m_EditorClassIdentifier: 
+  Title: Bugbear
+  AsJson: '{"name":"Bugbear","source":"MM","page":33,"srd":true,"basicRules":true,"otherSources":[{"source":"LMoP"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"ERLW"},{"source":"RMBRE"},{"source":"EGW"},{"source":"IDRotF"},{"source":"TCE"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["C","E"],"ac":[{"ac":16,"from":["{@item
+    hide armor|phb}","{@item shield|phb}"]}],"hp":{"average":27,"formula":"5d8 +
+    5"},"speed":{"walk":30},"str":15,"dex":14,"con":13,"int":8,"wis":11,"cha":9,"skill":{"stealth":"+6","survival":"+2"},"senses":["darkvision
+    60 ft."],"passive":10,"languages":["Common","Goblin"],"cr":"1","trait":[{"name":"Brute","entries":["A
+    melee weapon deals one extra die of its damage when the bugbear hits with it
+    (included in the attack)."]},{"name":"Surprise Attack","entries":["If the bugbear
+    surprises a creature and hits it with an attack during the first round of combat,
+    the target takes an extra 7 ({@dice 2d6}) damage from the attack."]}],"action":[{"name":"Morningstar","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) piercing
+    damage."]},{"name":"Javelin","entries":["{@atk mw,rw} {@hit 4} to hit, reach
+    5 ft. or range 30/120 ft., one target. {@h}9 ({@damage 2d6 + 2}) piercing damage
+    in melee or 5 ({@damage 1d6 + 2}) piercing damage at range."]}],"environment":["underdark","grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/bugbear.mp3"},"traitTags":["Brute"],"senseTags":["D"],"languageTags":["C","GO"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c45c94bc9b7f764b212a32b1058cbe17

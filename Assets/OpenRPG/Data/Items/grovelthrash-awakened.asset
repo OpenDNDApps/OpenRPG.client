@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: grovelthrash-awakened
+  m_EditorClassIdentifier: 
+  Title: Grovelthrash (Awakened)
+  AsJson: '{"name":"Grovelthrash (Awakened)","source":"EGW","_copy":{"name":"Grovelthrash
+    (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["When
+    the warhammer reaches an awakened state, it gains the following properties:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +2.","You gain a burrowing
+    speed equal to your walking speed. You can use your burrowing speed to move through
+    sand, loose earth, mud, or ice, not solid rock.","When a creature you can see
+    within 30 feet of you hits you with an attack while you are wielding the warhammer,
+    you can use your reaction to deal an amount of psychic damage to that creature
+    equal to the damage you took from the attack. This property can''t be used again
+    until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+2","modifySpeed":{"equal":{"burrow":"walk"}},"hasFluffImages":true}'
+  DataHash: 119ceeac018ae0cf0327f2325c8774bd

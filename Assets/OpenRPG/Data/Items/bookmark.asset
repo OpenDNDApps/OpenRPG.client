@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bookmark
+  m_EditorClassIdentifier: 
+  Title: Bookmark
+  AsJson: '{"name":"Bookmark","source":"ToA","page":206,"baseItem":"dagger|phb","type":"M","rarity":"legendary","reqAttune":true,"weight":1,"weaponCategory":"simple","property":["F","L","T"],"range":"20/60","dmg1":"1d4","dmgType":"P","bonusWeapon":"+3","entries":["This
+    +3 dagger belongs to {@creature Artus Cimber|ToA}. While you have the dagger
+    drawn, you can use a bonus action to activate one of the following properties:",{"type":"list","items":["Cause
+    a blue gem set into the dagger''s pommel to shed bright light in a 20-foot radius
+    and dim light for an additional 20 feet, or make the gem go dark.","Turn the
+    dagger into a compass that, while resting on your palm, points north.","Cast
+    {@spell dimension door} from the dagger. Once this property is used, it can''t
+    be used again until the next dawn.","Cast {@spell compulsion} (save DC 15) from
+    the dagger. The range of the spell increases to 90 feet but it targets only spiders
+    that are beasts. Once this property is used, it can''t be used again until the
+    next dawn."]}],"attachedSpells":["dimension door","compulsion"]}'
+  DataHash: eef441503350a21b02bc38c64c4f8729

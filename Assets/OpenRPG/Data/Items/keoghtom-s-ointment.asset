@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: keoghtom-s-ointment
+  m_EditorClassIdentifier: 
+  Title: Keoghtom's Ointment
+  AsJson: "{\"name\":\"Keoghtom's Ointment\",\"source\":\"DMG\",\"page\":179,\"srd\":\"Restorative
+    Ointment\",\"basicRules\":true,\"tier\":\"minor\",\"rarity\":\"uncommon\",\"wondrous\":true,\"entries\":[\"This
+    glass jar, 3 inches in diameter, contains {@dice 1d4 + 1} doses of a thick mixture
+    that smells faintly of aloe. The jar and its contents weigh \xBD pound.\",\"As
+    an action, one dose of the ointment can be swallowed or applied to the skin.
+    The creature that receives it regains {@dice 2d8 + 2} hit points, ceases to be
+    {@condition poisoned}, and is cured of any disease.\"],\"lootTables\":[\"Magic
+    Item Table B\"],\"hasFluffImages\":true}"
+  DataHash: 67e7243a0143c904b9e350177801106e

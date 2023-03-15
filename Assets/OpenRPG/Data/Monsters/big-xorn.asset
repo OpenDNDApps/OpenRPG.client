@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: big-xorn
+  m_EditorClassIdentifier: 
+  Title: Big Xorn
+  AsJson: '{"name":"Big Xorn","source":"WDMM","page":51,"_copy":{"name":"Xorn","source":"MM"},"size":["L"],"hp":{"formula":"9d10
+    + 54","average":103},"str":20,"cr":"8","action":[{"name":"Multiattack","entries":["The
+    xorn makes three claw attacks and one bite attack."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 8} to hit, reach 5 ft., one target. {@h}22 ({@damage 5d6 + 5}) piercing
+    damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 8} to hit, reach 10 ft.,
+    one target. {@h}9 ({@damage 1d8 + 5}) slashing damage."]}],"miscTags":["MW","RCH"],"hasToken":true}'
+  DataHash: c34ed8461d9ef3e27bcf55e34e71b4be

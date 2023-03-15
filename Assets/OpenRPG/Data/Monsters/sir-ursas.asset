@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sir-ursas
+  m_EditorClassIdentifier: 
+  Title: Sir Ursas
+  AsJson: '{"name":"Sir Ursas","isNpc":true,"source":"IMR","page":56,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[{"ac":20,"from":["{@item
+    plate armor|phb}","{@item shield|phb}"]}],"hp":{"average":112,"formula":"15d8
+    + 45"},"speed":{"walk":30},"str":18,"dex":15,"con":16,"int":10,"wis":12,"cha":15,"save":{"str":"+7","dex":"+5","con":"+6"},"skill":{"athletics":"+10","intimidation":"+5"},"passive":11,"resist":["fire"],"languages":["Common","Infernal"],"cr":"5","trait":[{"name":"Special
+    Equipment","entries":["Sir Ursas wears a ring of mind shielding and plate armor
+    of fire resistance."]},{"name":"Brave","entries":["Sir Ursas has advantage on
+    saving throws against being {@condition frightened}."]},{"name":"Brute","entries":["A
+    melee weapon deals one extra die of its damage when Sir Ursas hits with it (included
+    in his attack)."]}],"action":[{"name":"Multiattack","entries":["Sir Ursas makes
+    three melee attacks or two ranged attacks."]},{"name":"Claw","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing
+    damage."]},{"name":"Spear","entries":["{@atk mw,rw} {@hit 7} to hit, reach 5
+    ft. and range 20/60 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage,
+    or 13 ({@damage 2d8 + 4}) piercing damage if used with two hands to make a melee
+    attack."]},{"name":"Shield Bash","entries":["{@atk mw} {@hit 7} to hit, reach
+    5 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning damage, and if the target
+    is a Medium or smaller creature, it must succeed on a {@dc 15} Strength saving
+    throw or be knocked {@condition prone}."]}],"reaction":[{"name":"Parry","entries":["Sir
+    Ursas adds 3 to his AC against one melee attack that would hit him. To do so,
+    he must see the attacker and be wielding a melee weapon."]}],"traitTags":["Brute"],"actionTags":["Multiattack","Parry"],"languageTags":["C","I"],"damageTags":["B","P","S"],"miscTags":["MW","RW","THW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true}'
+  DataHash: 9834c453e48ee15631133c44829e63bf

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: investiture-of-ice
+  m_EditorClassIdentifier: 
+  Title: Investiture of Ice
+  AsJson: '{"name":"Investiture of Ice","source":"XGE","page":159,"otherSources":[{"source":"EEPC","page":19}],"level":6,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Until
+    the spell ends, ice rimes your body, and you gain the following benefits:",{"type":"list","items":["You
+    are immune to cold damage and have resistance to fire damage.","You can move
+    across {@quickref difficult terrain||3} created by ice or snow without spending
+    extra movement.","The ground in a 10-foot radius around you is icy and is {@quickref
+    difficult terrain||3} for creatures other than you. The radius moves with you.","You
+    can use your action to create a 15-foot cone of freezing wind extending from
+    your outstretched hand in a direction you choose. Each creature in the cone must
+    make a Constitution saving throw. A creature takes {@damage 4d6} cold damage
+    on a failed save, or half as much damage on a successful one. A creature that
+    fails its save against this effect has its speed halved until the start of your
+    next turn."]}],"damageResist":["fire"],"damageImmune":["cold"],"damageInflict":["cold"],"savingThrow":["constitution"],"miscTags":["DFT"],"areaTags":["N","S"]}'
+  DataHash: 05a0bab3da1da918dada6eee289c24d0

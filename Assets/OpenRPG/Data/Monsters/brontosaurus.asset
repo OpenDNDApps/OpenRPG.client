@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: brontosaurus
+  m_EditorClassIdentifier: 
+  Title: Brontosaurus
+  AsJson: '{"name":"Brontosaurus","group":["Dinosaurs"],"source":"VGM","page":139,"otherSources":[{"source":"ToA"}],"reprintedAs":["Brontosaurus|MPMM"],"size":["G"],"type":"beast","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":121,"formula":"9d20 + 27"},"speed":{"walk":30},"str":21,"dex":9,"con":17,"int":2,"wis":10,"cha":7,"save":{"con":"+6"},"passive":10,"cr":"5","action":[{"name":"Stomp","entries":["{@atk
+    mw} {@hit 8} to hit, reach 20 ft., one target. {@h}27 ({@damage 5d8 + 5}) bludgeoning
+    damage, and the target must succeed on a {@dc 14} Strength saving throw or be
+    knocked {@condition prone}."]},{"name":"Tail","entries":["{@atk mw} {@hit 8}
+    to hit, reach 20 ft., one target. {@h}32 ({@damage 6d8 + 5}) bludgeoning damage."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/brontosaurus.mp3"},"damageTags":["B"],"miscTags":["MW","RCH"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 09f791cb36317d684df360ae73913cbc

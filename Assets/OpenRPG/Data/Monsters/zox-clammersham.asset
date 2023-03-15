@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: zox-clammersham
+  m_EditorClassIdentifier: 
+  Title: Zox Clammersham
+  AsJson: '{"name":"Zox Clammersham","isNpc":true,"source":"WDMM","page":176,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Rock
+    Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Zox","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
+    banishment}","with":"{@spell confusion}"}]}}}},"languages":["Aquan","Auran","Common","Gnomish","Ignan","Terran"],"senseTags":["D"],"languageTags":["AQ","AU","C","G","IG","T"],"hasToken":true}'
+  DataHash: 9bef57bbac5fa0a41e2daf26a6555a75

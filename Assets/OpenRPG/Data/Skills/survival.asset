@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
+  m_Name: survival
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Survival","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["The
+    DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild
+    game, guide your group through frozen wastelands, identify signs that owlbears
+    live nearby, predict the weather, or avoid quicksand and other natural hazards."]}'
+  DataHash: 84255b4721049fcc91ee78c742bfc3ad

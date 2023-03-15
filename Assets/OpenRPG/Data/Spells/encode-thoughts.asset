@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: encode-thoughts
+  m_EditorClassIdentifier: 
+  Title: Encode Thoughts
+  AsJson: '{"name":"Encode Thoughts","source":"GGR","page":47,"level":0,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["Putting
+    a finger to your head, you pull a memory, an idea, or a message from your mind
+    and transform it into a tangible string of glowing energy called a thought strand,
+    which persists for the duration or until you cast this spell again. The thought
+    strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless,
+    semisolid object that can be held and carried like a ribbon. It is otherwise
+    stationary.","If you cast this spell while concentrating on a spell or an ability
+    that allows you to read or manipulate the thoughts of others (such as {@spell
+    detect thoughts} or {@spell modify memory}), you can transform the thoughts or
+    memories you read, rather than your own, into a thought strand.","Casting this
+    spell while holding a thought strand allows you to instantly receive whatever
+    memory, idea, or message the thought strand contains. (Casting {@spell detect
+    thoughts} on the strand has the same effect.)"]}'
+  DataHash: c830df90d1ff30b9d583496c4d2ea328

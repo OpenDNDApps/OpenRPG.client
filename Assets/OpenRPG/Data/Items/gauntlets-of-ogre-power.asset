@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: gauntlets-of-ogre-power
+  m_EditorClassIdentifier: 
+  Title: Gauntlets of Ogre Power
+  AsJson: '{"name":"Gauntlets of Ogre Power","source":"DMG","page":171,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"ability":{"static":{"str":19}},"entries":["Your
+    Strength score is 19 while you wear these gauntlets. They have no effect on you
+    if your Strength is already 19 or higher without them."],"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 236615becac5275207e7680b87d850cb

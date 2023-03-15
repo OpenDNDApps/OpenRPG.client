@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: prismari-apprentice
+  m_EditorClassIdentifier: 
+  Title: Prismari Apprentice
+  AsJson: '{"name":"Prismari Apprentice","source":"SCC","page":205,"size":["S","M"],"type":{"type":"humanoid","tags":["sorcerer"]},"alignment":["A"],"ac":[12],"hp":{"average":44,"formula":"8d8
+    + 8"},"speed":{"walk":35},"str":10,"dex":14,"con":13,"int":12,"wis":13,"cha":15,"save":{"dex":"+4","cha":"+4"},"skill":{"acrobatics":"+4","athletics":"+4","performance":"+6"},"passive":11,"languages":["Common
+    plus any two languages"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    apprentice casts one of the following spells, requiring no material components
+    and using Charisma as the spellcasting ability (spell save {@dc 12}):"],"will":["{@spell
+    minor illusion}"],"daily":{"1e":["{@spell gust of wind}","{@spell mage armor}","{@spell
+    silent image}"]},"ability":"cha","displayAs":"action"}],"action":[{"name":"Elemental
+    Strike","entries":["{@atk ms,rs} {@hit 4} to hit, reach 5 ft. or range 60 ft.,
+    one target. {@h}10 ({@damage 3d6}) fire or cold damage (the apprentice''s choice)."]}],"bonus":[{"name":"Surge
+    of Artistry {@recharge 4}","entries":["The apprentice moves up to its speed,
+    surrounding itself with elemental magic as it moves. Until the end of its turn,
+    the apprentice can move through the space of other creatures. The first time
+    the apprentice enters a creature''s space on a turn, that creature must succeed
+    on a {@dc 12} Dexterity saving throw or be knocked {@condition prone}. If the
+    apprentice ends its turn in another creature''s space, the apprentice takes 5
+    ({@damage 1d10}) force damage and is pushed into the nearest unoccupied space."]}],"languageTags":["C","X"],"damageTags":["C","F","O"],"spellcastingTags":["O"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 35e3c5900087d22fa0ec96d7fd3ccf53

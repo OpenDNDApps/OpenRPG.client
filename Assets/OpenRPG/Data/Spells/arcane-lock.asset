@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: arcane-lock
+  m_EditorClassIdentifier: 
+  Title: Arcane Lock
+  AsJson: '{"name":"Arcane Lock","source":"PHB","page":215,"srd":true,"basicRules":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"gold
+    dust worth at least 25 gp, which the spell consumes","cost":2500,"consume":true}},"duration":[{"type":"permanent","ends":["dispel"]}],"entries":["You
+    touch a closed door, window, gate, chest, or other entryway, and it becomes locked
+    for the duration. You and the creatures you designate when you cast this spell
+    can open the object normally. You can also set a password that, when spoken within
+    5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable
+    until it is broken or the spell is dispelled or suppressed. Casting {@spell knock}
+    on the object suppresses {@spell arcane lock} for 10 minutes.","While affected
+    by this spell, the object is more difficult to break or force open; the DC to
+    break it or pick any locks on it increases by 10."],"miscTags":["OBJ"]}'
+  DataHash: b8eb75bb82e56e677cd46179ca93c64a

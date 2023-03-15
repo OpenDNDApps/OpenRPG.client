@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: undercity-medusa
+  m_EditorClassIdentifier: 
+  Title: Undercity Medusa
+  AsJson: '{"name":"Undercity Medusa","source":"GGR","page":222,"size":["M"],"type":"monstrosity","alignment":["N","E"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":120,"formula":"16d8 + 48"},"speed":{"walk":30},"str":16,"dex":18,"con":16,"int":17,"wis":12,"cha":15,"skill":{"deception":"+5","insight":"+4","perception":"+4","stealth":"+7"},"senses":["darkvision
+    60 ft."],"passive":14,"languages":["Common","Elvish"],"cr":"6","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The medusa''s innate spellcasting ability is
+    Intelligence (spell save {@dc 14}). The medusa can innately cast the following
+    spells, requiring no material components:"],"daily":{"1e":["{@spell expeditious
+    retreat}","{@spell fog cloud}","{@spell misty step}"]},"ability":"int"}],"trait":[{"name":"Magic
+    Resistance","entries":["The medusa has advantage on saving throws against spells
+    and other magical effects."]},{"name":"Surprise Attack","entries":["During the
+    first round of combat, the medusa has advantage on attack rolls against any creature
+    that is {@quickref Surprise|PHB|3|0|surprised}, and it deals an extra 10 ({@dice
+    3d6}) damage each time it hits such a creature with an attack."]}],"action":[{"name":"Multiattack","entries":["The
+    medusa makes two claw attacks. It can also use Petrifying Gaze before or after
+    making these attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit 7} to hit,
+    reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage."]},{"name":"Petrifying
+    Gaze","entries":["The medusa fixes its gaze on one creature within 60 feet of
+    it that it can see and that can see its eyes. The target must make a {@dc 14}
+    Constitution saving throw. If the saving throw fails by 5 or more, the creature
+    is instantly {@condition petrified}. Otherwise, a creature that fails the save
+    begins to turn to stone and is {@condition restrained}. The {@condition restrained}
+    creature must repeat the saving throw at the end of its next turn, becoming {@condition
+    petrified} on a failure or ending the effect on a success. The petrification
+    lasts until the creature is freed by a {@spell greater restoration} spell or
+    similar magic."]}],"traitTags":["Magic Resistance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","E"],"damageTags":["S"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflict":["petrified","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: afc37a4079076377518daca831abbbeb

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: nightspider
+  m_EditorClassIdentifier: 
+  Title: Nightspider
+  AsJson: '{"name":"Nightspider","source":"AAG","page":40,"type":"SPC","rarity":"none","value":5000000,"crew":25,"vehAc":19,"vehHp":300,"vehDmgThresh":15,"vehSpeed":4.5,"capCargo":50,"entries":["Neogi
+    terrorize Wildspace in ships of their own construction, which others call nightspiders.
+    These vessels often wait in ambush for other ships. Once a target ship is identified,
+    the neogi try to steal its spelljamming helm and capture its crew.","A nightspider''s
+    crew usually consists of nineteen neogi and up to a half-dozen umber hulks, which
+    the neogi use as shock troops.","Nightspiders are designed for space travel alone
+    and can''t float on water or land safely on the ground (the weight of the ship
+    would snap its spindly legs, destroying its weblike rigging in the process).
+    Standard weaponry on a nightspider includes four ballistae (two forward-facing
+    and two aft-facing) and a forward-facing mangonel."],"seeAlsoVehicle":["Nightspider|AAG"]}'
+  DataHash: c73f26305e732b40416750594d8f8ae2

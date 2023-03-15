@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: iskander
+  m_EditorClassIdentifier: 
+  Title: Iskander
+  AsJson: '{"name":"Iskander","isNpc":true,"source":"RoT","page":62,"otherSources":[{"source":"ToD","page":148}],"_copy":{"name":"Mage","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"5etools
+    Note","entries":["Iskander is presented in {@adventure The Rise of Tiamat|RoT}
+    as a neutral evil male human wizard. The {@creature mage} stat block has been
+    provided here for ease of use."]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+  DataHash: a30fc86401dd0edd0e6c3e2a220820ef

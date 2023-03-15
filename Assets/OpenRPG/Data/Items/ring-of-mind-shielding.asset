@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-mind-shielding
+  m_EditorClassIdentifier: 
+  Title: Ring of Mind Shielding
+  AsJson: '{"name":"Ring of Mind Shielding","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"uncommon","reqAttune":true,"entries":["While
+    wearing this ring, you are immune to magic that allows other creatures to read
+    your thoughts, determine whether you are lying, know your alignment, or know
+    your creature type. Creatures can telepathically communicate with you only if
+    you allow it.","You can use an action to cause the ring to become {@condition
+    invisible} until you use another action to make it visible, until you remove
+    the ring, or until you die.","If you die while wearing the ring, your soul enters
+    it, unless it already houses a soul. You can remain in the ring or depart for
+    the afterlife. As long as your soul is in the ring, you can telepathically communicate
+    with any creature wearing it. A wearer can''t prevent this telepathic communication."],"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 1f894717eda997c6b6010f5375a78938

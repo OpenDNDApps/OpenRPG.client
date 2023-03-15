@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: scimitar-of-speed
+  m_EditorClassIdentifier: 
+  Title: Scimitar of Speed
+  AsJson: '{"name":"Scimitar of Speed","source":"DMG","page":199,"srd":true,"baseItem":"scimitar|phb","type":"M","tier":"major","rarity":"very
+    rare","reqAttune":true,"weight":3,"weaponCategory":"martial","property":["F","L"],"dmg1":"1d6","dmgType":"S","bonusWeapon":"+2","entries":["You
+    gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition,
+    you can make one attack with it as a bonus action on each of your turns."],"lootTables":["Magic
+    Item Table H"]}'
+  DataHash: 2c8f9ee201a938d9a094a0e7dfa9eaec

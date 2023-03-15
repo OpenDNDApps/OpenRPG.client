@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: oil-of-sharpness
+  m_EditorClassIdentifier: 
+  Title: Oil of Sharpness
+  AsJson: '{"name":"Oil of Sharpness","source":"DMG","page":184,"srd":true,"type":"P","tier":"minor","rarity":"very
+    rare","bonusWeapon":"+3","entries":["This clear, gelatinous oil sparkles with
+    tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon
+    or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes
+    1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack
+    and damage rolls."],"lootTables":["Magic Item Table D"]}'
+  DataHash: d0cbc266004efc4c68df97e77e75cd8d

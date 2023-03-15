@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: narycrash
+  m_EditorClassIdentifier: 
+  Title: Narycrash
+  AsJson: '{"name":"Narycrash","source":"DSotDQ","page":188,"type":"G","rarity":"none","entries":["This
+    backpack-sized device holds a balloon-based parachute. If you fall while wearing
+    this device, you can use your reaction to deploy the parachute. Once deployed,
+    the parachute rapidly inflates, and you descend 60 feet per round and take no
+    damage from falling. When you are 10 feet away from the ground, roll a {@dice
+    d20}. If you roll a 5 or less, the parachute gives out, and you begin to fall
+    normally."],"hasFluffImages":true}'
+  DataHash: dc0795cc4db9197546e11d03575c5036

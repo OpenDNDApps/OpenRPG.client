@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: silverquill-apprentice
+  m_EditorClassIdentifier: 
+  Title: Silverquill Apprentice
+  AsJson: '{"name":"Silverquill Apprentice","source":"SCC","page":214,"size":["S","M"],"type":{"type":"humanoid","tags":["bard"]},"alignment":["A"],"ac":[12],"hp":{"average":44,"formula":"8d8
+    + 8"},"speed":{"walk":30},"str":10,"dex":14,"con":13,"int":12,"wis":11,"cha":15,"save":{"dex":"+4","cha":"+4"},"skill":{"deception":"+4","performance":"+6","persuasion":"+6"},"passive":10,"languages":["Common
+    plus any two languages"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    apprentice casts one of the following spells, requiring no material components
+    and using Charisma as the spellcasting ability (spell save {@dc 12}):"],"will":["{@spell
+    dancing lights}","{@spell friends}"],"daily":{"1e":["{@spell command}","{@spell
+    mage armor}"]},"ability":"cha","displayAs":"action"}],"action":[{"name":"Ink
+    Blade","entries":["{@atk ms,rs} {@hit 4} to hit, reach 5 ft. or range 60 ft.,
+    one target. {@h}5 ({@damage 1d6 + 2}) piercing damage plus 9 ({@damage 2d8})
+    psychic damage."]}],"reaction":[{"name":"Rousing Verse","entries":["When a creature
+    the apprentice can see within 30 feet of it fails a saving throw, the apprentice
+    magically weaves together stirring prose, allowing the creature to reroll the
+    saving throw and use the higher result."]}],"languageTags":["C","X"],"damageTags":["P","Y"],"spellcastingTags":["O"],"conditionInflictSpell":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 40dee08e63792a8364cb393440d21b25

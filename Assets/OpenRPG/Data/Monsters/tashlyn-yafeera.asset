@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: tashlyn-yafeera
+  m_EditorClassIdentifier: 
+  Title: Tashlyn Yafeera
+  AsJson: '{"name":"Tashlyn Yafeera","isNpc":true,"source":"WDH","page":200,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":149,"formula":"23d8 + 46"},"speed":{"walk":30},"str":18,"dex":15,"con":14,"int":10,"wis":14,"cha":12,"save":{"str":"+8","con":"+6"},"skill":{"athletics":"+8","intimidation":"+5","perception":"+6"},"passive":16,"languages":["Common"],"cr":"9","trait":[{"name":"Indomitable
+    (2/Day)","entries":["Tashlyn can reroll a saving throw that she fails. She must
+    use the new roll."]},{"name":"Second Wind (Recharges after a Short or Long Rest)","entries":["As
+    a bonus action, Tashlyn can regain 20 hit points."]},{"name":"Extra Damage","entries":["Tashlyn
+    deals an extra 7 ({@dice 2d6}) damage to every hit if she has more than half
+    her hit points remaining."]}],"action":[{"name":"Multiattack","entries":["Tashlyn
+    makes three attacks with her greatsword or her shortbow."]},{"name":"Greatsword","entries":["{@atk
+    mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing
+    damage."]},{"name":"Shortbow","entries":["{@atk rw} {@hit 6} to hit, range 80/320
+    ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ad86c59645f5a481974a60c0a6881277

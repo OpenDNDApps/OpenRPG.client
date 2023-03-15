@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ivana-s-whisper
+  m_EditorClassIdentifier: 
+  Title: Ivana's Whisper
+  AsJson: '{"name":"Ivana''s Whisper","source":"VRGR","page":83,"type":"G","rarity":"unknown","poison":true,"entries":["This
+    poison bears a distinct scent and chemical message from Ivana Boritsi. A creature
+    subjected to this poison must succeed on a DC 18 Constitution saving throw or
+    experience the effects of a {@spell dream} spell created by Ivana the next time
+    they sleep. This poison is nonmagical, and Ivana doesn''t directly communicate
+    with those affected during the dream. Rather, she creates the illusion of speaking
+    with her intended target by alchemically crafting her message, predicting her
+    target''s reactions, and chemically encoding in her responses. She wears this
+    poison as a perfume or hides it within gift bouquets, allowing it to convey her
+    message later."],"poisonTypes":["inhaled"],"attachedSpells":["dream"]}'
+  DataHash: f6c8457aa56ea1e5b69b8b0e52a190b0

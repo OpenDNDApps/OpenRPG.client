@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: herbalism-kit
+  m_EditorClassIdentifier: 
+  Title: Herbalism Kit
+  AsJson: '{"name":"Herbalism Kit","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":82}],"type":"T","rarity":"none","weight":3,"value":500,"entries":["This
+    kit contains a variety of instruments such as clippers, mortar and pestle, and
+    pouches and vials used by herbalists to create remedies and potions. Proficiency
+    with this kit lets you add your proficiency bonus to any ability checks you make
+    to identify or apply herbs. Also, proficiency with this kit is required to create
+    antitoxin and potions of healing."],"additionalEntries":["Proficiency with an
+    herbalism kit allows you to identify plants and safely collect their useful elements.",{"type":"entries","name":"Components","entries":["An
+    herbalism kit includes pouches to store herbs, clippers and leather gloves for
+    collecting plants, a mortar and pestle, and several glass jars."]},{"type":"entries","name":"Arcana","entries":["Your
+    knowledge of the nature and uses of herbs can add insight to your magical studies
+    that deal with plants and your attempts to identify potions."]},{"type":"entries","name":"Investigation","entries":["When
+    you inspect an area overgrown with plants, your proficiency can help you pick
+    out details and clues that others might miss."]},{"type":"entries","name":"Medicine","entries":["Your
+    mastery of herbalism improves your ability to treat illnesses and wounds by augmenting
+    your methods of care with medicinal plants."]},{"type":"entries","name":"Nature
+    and Survival","entries":["When you travel in the wild, your skill in herbalism
+    makes it easier to identify plants and spot sources of food that others might
+    overlook."]},{"type":"entries","name":"Identify Plants","entries":["You can identify
+    most plants with a quick inspection of their appearance and smell."]},{"type":"table","caption":"Herbalism
+    Kit","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Find
+    plants","15"],["Identify poison","20"]]}]}'
+  DataHash: 5271721db7eec617c2f4ddb625ddeed6

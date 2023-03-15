@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dragonguard
+  m_EditorClassIdentifier: 
+  Title: Dragonguard
+  AsJson: '{"name":"Dragonguard","source":"LMoP","page":48,"type":"MA","rarity":"rare","weight":20,"ac":14,"bonusAc":"+1","entries":["You
+    have a +1 bonus to AC while wearing this armor.","This +1 breastplate has a gold
+    dragon motif worked into its design. Created for a human hero of Neverwinter
+    named Tergon, it grants its wearer advantage on saving throws against the breath
+    weapons of creatures that have the dragon type."]}'
+  DataHash: 6015679464b421891ea560b7f813cc92

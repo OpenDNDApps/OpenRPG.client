@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: magnifying-glass
+  m_EditorClassIdentifier: 
+  Title: Magnifying Glass
+  AsJson: '{"name":"Magnifying Glass","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":10000,"entries":["This
+    lens allows a closer look at small objects. It is also useful as a substitute
+    for flint and steel when starting fires. Lighting a fire with a magnifying glass
+    requires light as bright as sunlight to focus, tinder to ignite, and about 5
+    minutes for the fire to ignite. A magnifying glass grants advantage on any ability
+    check made to appraise or inspect an item that is small or highly detailed."]}'
+  DataHash: 15b06396ef8b99b48a481990b71fe969

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: battlehammer-dwarf
+  m_EditorClassIdentifier: 
+  Title: Battlehammer Dwarf
+  AsJson: '{"name":"Battlehammer Dwarf","isNamedCreature":true,"source":"IDRotF","page":107,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
+    Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"scout","with":"dwarf"},"action":[{"mode":"replaceArr","replace":"Longbow","items":{"name":"Light
+    Crossbow","entries":["{@atk rw} {@hit 4} to hit, ranged 80/320 ft., one target.
+    {@h}6 ({@damage 1d8 + 2}) piercing damage."]}},{"mode":"replaceArr","replace":"Shortsword","items":{"name":"Handaxe","entries":["{@atk
+    mw,rw} {@hit 2} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage
+    1d6 + 0}) slashing damage."]}}]}},"alignment":["L","G"],"senseTags":["D"],"languageTags":["C","D","X"],"miscTags":["MW","RNG","RW","THW"],"hasToken":true}'
+  DataHash: 9d05a6706df12a21ffcd1c5059d199ba

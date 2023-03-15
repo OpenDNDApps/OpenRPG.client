@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fhenimore
+  m_EditorClassIdentifier: 
+  Title: Fhenimore
+  AsJson: '{"name":"Fhenimore","isNpc":true,"source":"LR","page":20,"_copy":{"name":"Kraken
+    Priest","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Fhenimore","flags":"i"},"_":{"mode":"replaceSpells","daily":{"1e":[{"replace":"{@spell
+    call lightning}","with":"{@spell lightning bolt}"}]}},"trait":{"mode":"appendArr","items":{"name":"Blood
+    Frenzy","entries":["Fhenimore has advantage on melee attack rolls against any
+    creature that doesn''t have all its hit points."]}},"action":{"mode":"replaceArr","replace":"Voice
+    of the Kraken (Recharges after a Short or Long Rest)","items":[{"name":"Multiattack","entries":["Fhenimore
+    can attack once with her bite attack and once with Thunderous Touch."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing
+    damage."]}]}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"str":16,"languages":["Common","Aquan"],"actionTags":["Multiattack"],"languageTags":["AQ","C"],"damageTags":["P","T"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 1cb5cedc82bfdf029498c1685cddbe6c

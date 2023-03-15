@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: greater-invisibility
+  m_EditorClassIdentifier: 
+  Title: Greater Invisibility
+  AsJson: '{"name":"Greater Invisibility","source":"PHB","page":246,"srd":true,"basicRules":true,"level":4,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    or a creature you touch becomes {@condition invisible} until the spell ends.
+    Anything the target is wearing or carrying is {@condition invisible} as long
+    as it is on the target''s person."],"conditionInflict":["invisible"],"areaTags":["ST"]}'
+  DataHash: 9c122e7c41e087a13776173c0a390598

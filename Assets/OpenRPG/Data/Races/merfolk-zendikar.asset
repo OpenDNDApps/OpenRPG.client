@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: merfolk-zendikar
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Merfolk (Zendikar)","source":"PSZ","page":13,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"cha":1}],"age":{"mature":20,"max":100},"traitTags":["Amphibious"],"languageProficiencies":[{"common":true,"other":true,"anyStandard":1}],"entries":[{"type":"entries","name":"Age","entries":["Merfolk
+    mature at the same rate humans do and reach adulthood around the age of 20. They
+    live considerably longer than humans, though, often reaching well over 100 years."]},{"type":"entries","name":"Alignment","entries":["Most
+    merfolk are neutral, though merfolk of the Emeria and Cosi creeds have chaotic
+    leanings."]},{"name":"Amphibious","entries":["You can breathe air and water."],"type":"entries"},{"type":"entries","name":"Size","entries":["Merfolk
+    are about the same size and build as humans. Your size is Medium."]},{"name":"Swimming","entries":["You
+    have a swimming speed of 30 feet."],"type":"entries"},{"name":"Languages","entries":["You
+    can speak, read, and write Common, Merfolk, and one extra language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 16199960c9a94185b808b5fe14b32ca5

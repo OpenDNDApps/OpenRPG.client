@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: earth-tremor
+  m_EditorClassIdentifier: 
+  Title: Earth Tremor
+  AsJson: '{"name":"Earth Tremor","source":"XGE","page":155,"otherSources":[{"source":"EEPC","page":17}],"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    cause a tremor in the ground within range. Each creature other than you in that
+    area must make a Dexterity saving throw. On a failed save, a creature takes {@damage
+    1d6} bludgeoning damage and is knocked {@condition prone}. If the ground in that
+    area is loose earth or stone, it becomes {@quickref difficult terrain||3} until
+    cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear
+    by hand."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 2nd level or higher, the damage increases
+    by {@scaledamage 1d6|1-9|1d6} for each slot level above 1st."]}],"damageInflict":["bludgeoning"],"conditionInflict":["prone"],"savingThrow":["dexterity"],"areaTags":["R"]}'
+  DataHash: f212a1fb2eaff9c9c19bb08044ca9af9

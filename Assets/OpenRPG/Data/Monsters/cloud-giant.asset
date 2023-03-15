@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: cloud-giant
+  m_EditorClassIdentifier: 
+  Title: Cloud Giant
+  AsJson: '{"name":"Cloud Giant","source":"MM","page":154,"srd":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"GoS"},{"source":"MOT"},{"source":"JttRC"}],"size":["H"],"type":"giant","alignment":[{"alignment":["N","G"],"chance":50},{"alignment":["N","E"],"chance":50}],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":200,"formula":"16d12 + 96"},"speed":{"walk":40},"str":27,"dex":10,"con":22,"int":12,"wis":16,"cha":16,"save":{"con":"+10","wis":"+7","cha":"+7"},"skill":{"insight":"+7","perception":"+7"},"passive":17,"languages":["Common","Giant"],"cr":"9","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The giant''s innate spellcasting ability is Charisma.
+    It can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    detect magic}","{@spell fog cloud}","{@spell light}"],"daily":{"3e":["{@spell
+    feather fall}","{@spell fly}","{@spell misty step}","{@spell telekinesis}"],"1e":["{@spell
+    control weather}","{@spell gaseous form}"]},"ability":"cha"}],"trait":[{"name":"Keen
+    Smell","entries":["The giant has advantage on Wisdom ({@skill Perception}) checks
+    that rely on smell."]}],"action":[{"name":"Multiattack","entries":["The giant
+    makes two morningstar attacks."]},{"name":"Morningstar","entries":["{@atk mw}
+    {@hit 12} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d8 + 8}) piercing
+    damage."]},{"name":"Rock","entries":["{@atk rw} {@hit 12} to hit, range 60/240
+    ft., one target. {@h}30 ({@damage 4d10 + 8}) bludgeoning damage."]}],"variant":[{"type":"variant","name":"New
+    Giant Options","entries":["Some adult cloud giants have the magical ability to
+    create barriers of gale-force wind around themselves that can deflect incoming
+    missiles. Others like to fling enemies through the air. These abilities are represented
+    by the following action options.",{"name":"Fling","type":"entries","entries":["The
+    giant tries to throw a Small or Medium creature within 10 feet of it. The target
+    must succeed on a {@dc 20} Dexterity saving throw or be hurled up to 60 feet
+    horizontally in a direction of the giant''s choice and land {@condition prone},
+    taking 4 ({@damage 1d8}) bludgeoning damage for every 10 feet it was thrown."]},{"name":"Wind
+    Aura","type":"entries","entries":["A magical aura of wind surrounds the giant.
+    The aura is a 10-foot-radius sphere that lasts as long as the giant maintains
+    concentration on it (as if concentrating on a spell). While the aura is in effect,
+    the giant gains a +2 bonus to its AC against ranged weapon attacks, and all open
+    flames within the aura are extinguished unless they are magical."]}],"_version":{"name":"Cloud
+    Giant (Optional Actions)","addHeadersAs":"action"},"source":"SKT","page":245}],"environment":["mountain"],"soundClip":{"type":"internal","path":"bestiary/cloud-giant.mp3"},"traitTags":["Keen
+    Senses"],"actionTags":["Multiattack"],"languageTags":["C","GI"],"damageTags":["B","P"],"spellcastingTags":["I"],"miscTags":["MW","RCH","RW"],"conditionInflict":["prone"],"conditionInflictSpell":["restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: b3895b3a7d97e269c586447e50b25959

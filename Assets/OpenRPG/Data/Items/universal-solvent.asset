@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: universal-solvent
+  m_EditorClassIdentifier: 
+  Title: Universal Solvent
+  AsJson: '{"name":"Universal Solvent","source":"DMG","page":209,"srd":true,"tier":"minor","rarity":"legendary","wondrous":true,"entries":["This
+    tube holds milky liquid with a strong alcohol smell. You can use an action to
+    pour the contents of the tube onto a surface within reach. The liquid instantly
+    dissolves up to 1 square foot of adhesive it touches, including {@item sovereign
+    glue}."],"lootTables":["Magic Item Table E"],"hasFluffImages":true}'
+  DataHash: b5be4e538920b4215257ac6ba7daa455

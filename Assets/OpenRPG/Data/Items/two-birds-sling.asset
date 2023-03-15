@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: two-birds-sling
+  m_EditorClassIdentifier: 
+  Title: Two-Birds Sling
+  AsJson: '{"name":"Two-Birds Sling","source":"MOT","page":198,"baseItem":"sling|PHB","type":"R","rarity":"rare","weaponCategory":"simple","property":["A"],"range":"30/120","dmg1":"1d4","dmgType":"B","bonusWeapon":"+1","weapon":true,"entries":["You
+    have a +1 bonus to attack and damage rolls made with this weapon.","When you
+    make a ranged attack with this sling and hit a target, you can cause the ammunition
+    to ricochet toward a second target within 10 feet of the first, and then make
+    a ranged attack against the second target."],"ammoType":"sling bullet|phb"}'
+  DataHash: d57e31a3a3ea7d3f149ce2fe3513b3b5

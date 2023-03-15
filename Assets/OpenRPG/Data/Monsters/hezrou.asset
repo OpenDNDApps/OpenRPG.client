@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hezrou
+  m_EditorClassIdentifier: 
+  Title: Hezrou
+  AsJson: '{"name":"Hezrou","source":"MM","page":60,"srd":true,"otherSources":[{"source":"PotA"},{"source":"TftYP"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"EGW"},{"source":"WBtW"},{"source":"CRCotN"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":136,"formula":"13d10 + 65"},"speed":{"walk":30},"str":19,"dex":17,"con":20,"int":5,"wis":12,"cha":13,"save":{"str":"+7","con":"+8","wis":"+4"},"senses":["darkvision
+    120 ft."],"passive":11,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+    120 ft."],"cr":"8","trait":[{"name":"Magic Resistance","entries":["The hezrou
+    has advantage on saving throws against spells and other magical effects."]},{"name":"Stench","entries":["Any
+    creature that starts its turn within 10 feet of the hezrou must succeed on a
+    {@dc 14} Constitution saving throw or be {@condition poisoned} until the start
+    of its next turn. On a successful saving throw, the creature is immune to the
+    hezrou''s stench for 24 hours."]}],"action":[{"name":"Multiattack","entries":["The
+    hezrou makes three attacks: one with its bite and two with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}15 ({@damage 2d10 + 4}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."]}],"variant":[{"type":"variant","name":"Summon
+    Demon (1/Day)","entries":["The demon chooses what to summon and attempts a magical
+    summoning.","A hezrou has a {@chance 30|30 percent|30% summoning chance} chance
+    of summoning {@dice 2d6} {@creature dretch||dretches} or one hezrou.","A summoned
+    demon appears in an unoccupied space within 60 feet of its summoner, acts as
+    an ally of its summoner, and can''t summon other demons. It remains for 1 minute,
+    until it or its summoner dies, or until its summoner dismisses it as an action."],"_version":{"name":"Hezrou
+    (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/hezrou.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 9add93025d56b7ae2ba65c921a3cab2e

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-temporal-salvation
+  m_EditorClassIdentifier: 
+  Title: Ring of Temporal Salvation
+  AsJson: '{"name":"Ring of Temporal Salvation","source":"EGW","page":269,"type":"RG","rarity":"rare","reqAttune":true,"entries":["If
+    you die while wearing this gray crystal ring, you vanish and reappear in an unoccupied
+    space within 5 feet of the space you left (or the nearest unoccupied space).
+    You have a number of hit points equal to {@dice 3d6} + your Constitution modifier.
+    If your hit point maximum is lower than the number of hit points you regain,
+    your hit point maximum rises to a similar amount. If you have any levels of {@condition
+    exhaustion}, reduce your level of {@condition exhaustion} by 1. Once the ring
+    is used, it turns to dust and is destroyed."]}'
+  DataHash: 474d5142f7a78bd735c04d27b5e5552e

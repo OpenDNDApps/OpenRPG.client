@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lava-child
+  m_EditorClassIdentifier: 
+  Title: Lava Child
+  AsJson: '{"name":"Lava Child","source":"WDMM","page":313,"size":["M"],"type":{"type":"humanoid","tags":["lava
+    child"]},"alignment":["N"],"ac":[11],"hp":{"average":60,"formula":"8d8 + 24"},"speed":{"walk":25,"climb":20},"str":18,"dex":13,"con":16,"int":11,"wis":10,"cha":10,"skill":{"athletics":"+6","survival":"+2"},"senses":["darkvision
+    60 ft."],"passive":10,"immune":["fire",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    metal weapons","cond":true}],"languages":["Common","Ignan"],"cr":"3","trait":[{"name":"Metal
+    Immunity","entries":["The lava child can move through metal without hindrance,
+    and it has advantage on attack rolls against any creature wearing metal armor
+    or using a metal shield."]}],"action":[{"name":"Multiattack","entries":["The
+    lava child makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}7 ({@damage 1d6 + 4}) slashing damage."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","IG"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 09899495582fc9b48c093e03687dec39

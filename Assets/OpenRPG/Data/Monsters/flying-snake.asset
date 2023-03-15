@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: flying-snake
+  m_EditorClassIdentifier: 
+  Title: Flying Snake
+  AsJson: '{"name":"Flying Snake","source":"MM","page":322,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"IDRotF"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[14],"hp":{"average":5,"formula":"2d4"},"speed":{"walk":30,"fly":60,"swim":30},"str":4,"dex":18,"con":11,"int":2,"wis":12,"cha":5,"senses":["blindsight
+    10 ft."],"passive":11,"cr":"1/8","trait":[{"name":"Flyby","entries":["The snake
+    doesn''t provoke opportunity attacks when it flies out of an enemy''s reach."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}1 piercing damage plus 7 ({@damage
+    3d4}) poison damage."]}],"environment":["grassland","forest","urban","desert"],"soundClip":{"type":"internal","path":"bestiary/flying-snake.mp3"},"traitTags":["Flyby"],"senseTags":["B"],"damageTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 90f14754bcd6f8d1319229222e462c81

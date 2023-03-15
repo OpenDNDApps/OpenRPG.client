@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: summon-bestial-spirit
+  m_EditorClassIdentifier: 
+  Title: Summon Bestial Spirit
+  AsJson: '{"name":"Summon Bestial Spirit","source":"UA2020SpellsAndMagicTattoos","page":3,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":{"text":"a
+    feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200
+    gp","cost":20000}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    call forth the spirit of a beast. The spirit manifests physically in an unoccupied
+    space that you can see within range. This corporeal form uses the {@creature
+    Bestial Spirit|UA2020SpellsAndMagicTattoos} stat block. When you cast the spell,
+    choose an environment: Air, Land, or Water. The creature physically resembles
+    an animal of your choice that is native to the chosen environment, which also
+    determines one of the movement modes in the creature''s stat block. The creature
+    disappears when it drops to 0 hit points or when the spell ends.","The creature
+    is friendly to you and your companions for the spell''s duration. In combat,
+    the creature shares your initiative count, but it takes its turn immediately
+    after yours. It obeys verbal commands that you issue to it (no action required
+    by you). If you don''t issue any, it defends itself but otherwise takes no action."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, the creature assumes the higher level for that casting wherever
+    it uses the spell''s level in its stat block."]}],"miscTags":["SGT","SMN"]}'
+  DataHash: 56df55d0671d55be6a6dbc7395d19c10

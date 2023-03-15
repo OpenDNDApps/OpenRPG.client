@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ego-whip
+  m_EditorClassIdentifier: 
+  Title: Ego Whip
+  AsJson: '{"name":"Ego Whip","source":"UAFighterRogueWizard","page":7,"level":4,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    lash the mind of one creature you can see within range, filling it with despair.
+    The target must succeed on an Intelligence saving throw or suffer disadvantage
+    on attack rolls, ability checks, and saving throws, and it can''t cast spells.
+    At the end of each of its turns, the target can make another Intelligence saving
+    throw. On a success, the spell ends on the target."],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: eac848ff5e9a36928a6679ca694a3c38

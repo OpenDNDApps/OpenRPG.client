@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-animal-influence
+  m_EditorClassIdentifier: 
+  Title: Ring of Animal Influence
+  AsJson: '{"name":"Ring of Animal Influence","source":"DMG","page":189,"srd":true,"type":"RG","tier":"major","rarity":"rare","recharge":"dawn","rechargeAmount":"{@dice
+    1d3}","charges":3,"entries":["This ring has 3 charges, and it regains {@dice
+    1d3} expended charges daily at dawn. While wearing the ring, you can use an action
+    to expend 1 of its charges to cast one of the following spells:",{"type":"list","items":["{@spell
+    Animal friendship} (save DC 13)","{@spell Fear} (save DC 13), targeting only
+    beasts that have an Intelligence of 3 or lower","{@spell Speak with animals}"]}],"attachedSpells":["animal
+    friendship","fear","speak with animals"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+  DataHash: 45746e5702a0c67fb918246d880499ae

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: warforged
+  m_EditorClassIdentifier: 
+  Title: Warforged
+  AsJson: "{\"name\":\"Warforged\",\"source\":\"UARacesOfEberron\",\"page\":7,\"size\":[\"M\"],\"speed\":30,\"ability\":[{\"con\":1}],\"age\":{\"mature\":2,\"max\":30},\"traitTags\":[\"Improved
+    Resting\",\"Natural Armor\"],\"languageProficiencies\":[{\"common\":true}],\"resist\":[\"poison\"],\"conditionImmune\":[\"disease\"],\"entries\":[{\"name\":\"Age\",\"entries\":[\"A
+    typical warforged is between two and thirty years old. The maximum lifespan of
+    the warforged remains a mystery; so far, warforged have shown no signs of deterioration
+    due to age.\"],\"type\":\"entries\"},{\"type\":\"entries\",\"name\":\"Alignment\",\"entries\":[\"Most
+    warforged take comfort in order and discipline, tending toward law and neutrality,
+    but some have absorbed the morality\u2014or lack thereof\u2014of the beings they
+    served with.\"]},{\"type\":\"entries\",\"name\":\"Size\",\"entries\":[\"Your
+    size is Medium. Most warforged stand between 5 and 6\xBD feet tall. Build is
+    affected by your subrace.\"]},{\"type\":\"entries\",\"name\":\"Warforged Resilience\",\"entries\":[\"You
+    were created to have remarkable fortitude, represented by the following benefits:\",{\"type\":\"list\",\"items\":[\"You
+    have advantage on saving throws against being {@condition poisoned}, and you
+    have resistance to poison damage.\",\"You are immune to disease.\",\"You don't
+    need to eat, drink, or breathe.\",\"You don't need to sleep and don't suffer
+    the effects of {@condition exhaustion} due to lack of rest, and magic can't put
+    you to sleep.\"]}]},{\"type\":\"entries\",\"name\":\"Sentry's Rest\",\"entries\":[\"When
+    you take a long rest, you must spend at least six hours of it in an inactive,
+    motionless state, rather than sleeping. In this state, you appear inert, but
+    it doesn't render you {@condition unconscious}, and you can see and hear as normal.\"]},{\"type\":\"entries\",\"name\":\"Integrated
+    Protection\",\"entries\":[\"Your body has built-in protective layers, which determine
+    your Armor Class. You gain no benefit from wearing armor, but if you are using
+    a shield, you apply its bonus as normal.\",\"You can alter your body to enter
+    different defensive modes; each time you finish a long rest, choose one mode
+    to adopt from the Integrated Protection table, provided you meet the mode's prerequisite.\",{\"type\":\"table\",\"caption\":\"Integrated
+    protection\",\"colLabels\":[\"Mode\",\"Prerequisite\",\"Armor Class\"],\"colStyles\":[\"col-4\",\"col-4\",\"col-4\"],\"rows\":[[\"Darkwood
+    core (unarmored)\",\"None\",\"11 + your Dexterity modifier (add proficiency bonus
+    if proficient with light armor)\"],[\"Composite plating (armor)\",\"Medium armor
+    proficiency\",\"13 + your Dexterity modifier (maximum of 2) + your proficiency
+    bonus\"],[\"Heavy plating (armor)\",\"Heavy armor proficiency\",\"16 + your proficiency
+    bonus; disadvantage on Dexterity ({@skill Stealth}) checks\"]]}]},{\"name\":\"Languages\",\"entries\":[\"You
+    can speak, read, and write Common.\"],\"type\":\"entries\"}]}"
+  DataHash: 0aeb923f647b264498ac1e8c0449cc58

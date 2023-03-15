@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: silken-spite-awakened
+  m_EditorClassIdentifier: 
+  Title: Silken Spite (Awakened)
+  AsJson: '{"name":"Silken Spite (Awakened)","source":"EGW","_copy":{"name":"Silken
+    Spite (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["The
+    rapier grants the following benefits in its awakened state:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +2.","The saving throw
+    DC for the weapon''s poison increases to 15.","While holding the rapier, you
+    can use an action to cast one of the following spells from it (save DC 15): {@spell
+    cloudkill}, {@spell darkness}, {@spell levitate}, or {@spell web}. Once a spell
+    has been cast using the rapier, that spell can''t be cast from the rapier again
+    until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+2","attachedSpells":["cloudkill","darkness","levitate","web"]}'
+  DataHash: 9daa768fecac4d06c18de31d34b55bb3

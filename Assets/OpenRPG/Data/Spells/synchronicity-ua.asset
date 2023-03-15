@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: synchronicity-ua
+  m_EditorClassIdentifier: 
+  Title: Synchronicity (UA)
+  AsJson: '{"name":"Synchronicity (UA)","source":"UAModernMagic","page":8,"level":4,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["The
+    creature you touch feels reality subtly shifted to its favor while this spell
+    is in effect. The target isn''t inconvenienced by mundane delays of any sort.
+    Traffic lights are always green, there''s always a waiting elevator, and a taxi
+    is always around the corner. The target can run at full speed through dense crowds,
+    and attacks of opportunity provoked by the target''s movement are made with disadvantage.","Synchronicity
+    grants advantage to Dexterity ({@skill Stealth}) checks, since the target always
+    finds a handy piece of cover available. Additionally, the target has advantage
+    on all ability checks made to drive a vehicle.","In the event that two or more
+    creatures under the effect of synchronicity are attempting to avoid being inconvenienced
+    by each other, the creatures engage in a contest of Charisma each time the effects
+    of the spells would oppose each other."],"areaTags":["ST"]}'
+  DataHash: 754101ba8edab2e500039605339447de

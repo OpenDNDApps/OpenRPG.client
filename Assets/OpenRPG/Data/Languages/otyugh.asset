@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: otyugh
+  m_EditorClassIdentifier: 
+  Title: Otyugh
+  AsJson: '{"name":"Otyugh","source":"MM","page":248,"typicalSpeakers":["{@creature
+    Otyugh||otyughs}"]}'
+  DataHash: ea6487f3075976a665bbd95a144c1e90

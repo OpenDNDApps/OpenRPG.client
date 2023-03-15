@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb4304bcd7e431b905a1a4b118c249d, type: 3}
+  m_Name: shou
+  m_EditorClassIdentifier: 
+  Title: Shou
+  AsJson: "{\"name\":\"Shou\",\"source\":\"SCAG\",\"page\":112,\"typicalSpeakers\":[\"Shou
+    ethnic group\"],\"script\":\"Thorass\",\"entries\":[{\"type\":\"inset\",\"name\":\"Option:
+    Human Languages\",\"entries\":[\"Many human ethnicities and nations in Faer\xFBn
+    have their own language, in addition to Common. Most human languages are written
+    in Thorass, the alphabet of Old Common, derived from the Chondathan language
+    that traders used as their common tongue. A few human languages use other alphabets,
+    including Draconic, Dethek, and Espruar.\",\"If your Dungeon Master allows this
+    option, then any human from an ethnic group that has its own language is assumed
+    to know that language as well as Common. This ethnic language is treated as a
+    free additional language for such individuals.\"]}],\"hasFluffImages\":true}"
+  DataHash: 285258e3dc3844bff69c8606b4e65689

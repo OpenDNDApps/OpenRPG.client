@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sinensa
+  m_EditorClassIdentifier: 
+  Title: Sinensa
+  AsJson: '{"name":"Sinensa","isNpc":true,"isNamedCreature":true,"source":"DoSI","page":45,"_copy":{"name":"Myconid
+    Sovereign","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the myconid","with":"Sinensa","flags":"i"},"action":[{"mode":"removeArr","names":["Animating
+    Spores (3/Day)","Pacifying Spores"]},{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","type":"entries","entries":["The
+    myconid makes one Fist attack and uses its Hallucination Spores."]}},{"mode":"replaceArr","replace":"Fist","items":{"name":"Fist","type":"entries","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}8 ({@damage 3d4 + 1}) bludgeoning
+    damage plus 7 ({@damage 2d4}) poison damage."]}}]}},"hasToken":true,"hasFluff":true}'
+  DataHash: 17829c6d921411cbe66fda8c43eaef65

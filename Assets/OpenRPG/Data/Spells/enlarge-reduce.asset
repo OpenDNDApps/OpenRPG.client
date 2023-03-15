@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: enlarge-reduce
+  m_EditorClassIdentifier: 
+  Title: Enlarge/Reduce
+  AsJson: "{\"name\":\"Enlarge/Reduce\",\"source\":\"PHB\",\"page\":237,\"srd\":true,\"level\":2,\"school\":\"T\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"feet\",\"amount\":30}},\"components\":{\"v\":true,\"s\":true,\"m\":\"a
+    pinch of powdered iron\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"minute\",\"amount\":1},\"concentration\":true}],\"entries\":[\"You
+    cause a creature or an object you can see within range to grow larger or smaller
+    for the duration. Choose either a creature or an object that is neither worn
+    nor carried. If the target is unwilling, it can make a Constitution saving throw.
+    On a success, the spell has no effect.\",\"If the target is a creature, everything
+    it is wearing and carrying changes size with it. Any item dropped by an affected
+    creature returns to normal size at once.\",{\"name\":\"Enlarge\",\"type\":\"entries\",\"entries\":[\"The
+    target's size doubles in all dimensions, and its weight is multiplied by eight.
+    This growth increases its size by one category\u2014from Medium to Large, for
+    example. If there isn't enough room for the target to double its size, the creature
+    or object attains the maximum possible size in the space available. Until the
+    spell ends, the target also has advantage on Strength checks and Strength saving
+    throws. The target's weapons also grow to match its new size. While these weapons
+    are enlarged, the target's attacks with them deal {@damage 1d4} extra damage.\"]},{\"name\":\"Reduce\",\"type\":\"entries\",\"entries\":[\"The
+    target's size is halved in all dimensions, and its weight is reduced to one-eighth
+    of normal. This reduction decreases its size by one category\u2014from Medium
+    to Small, for example. Until the spell ends, the target also has disadvantage
+    on Strength checks and Strength saving throws. The target's weapons also shrink
+    to match its new size. While these weapons are reduced, the target's attacks
+    with them deal {@damage 1d4} less damage (this can't reduce the damage below
+    1).\"]}],\"savingThrow\":[\"constitution\"],\"miscTags\":[\"OBJ\",\"SGT\"],\"areaTags\":[\"ST\"]}"
+  DataHash: 522a3285307b20e7f59a172d6c10eb92

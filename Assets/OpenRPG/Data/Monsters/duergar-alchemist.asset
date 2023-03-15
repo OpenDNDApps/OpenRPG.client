@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: duergar-alchemist
+  m_EditorClassIdentifier: 
+  Title: Duergar Alchemist
+  AsJson: '{"name":"Duergar Alchemist","source":"OotA","page":76,"_copy":{"name":"Duergar","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Javelin","items":[{"name":"Acid
+    Vial","entries":["{@atk rw} {@hit 4} to hit, range 20 ft., one target. {@h}7
+    ({@damage 2d6}) acid damage."]},{"name":"Alchemist''s Fire","entries":["{@atk
+    rw} {@hit 4} to hit, range 20 ft., one target. {@h}2 ({@damage 1d4}) fire damage
+    at the start of each of the target''s turns. A creature can end this damage by
+    using its action to make a successful {@dc 10} Dexterity check to extinguish
+    the flames."]}]}}},"damageTags":["A","F","P"],"hasToken":true}'
+  DataHash: 61985c922fb56d195d4c1759aae9ecc8

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fea2c9005fb4b57a4c68f7db02c560b, type: 3}
+  m_Name: ranger-ambuscade
+  m_EditorClassIdentifier: 
+  Title: Ranger (Ambuscade)
+  AsJson: '{"name":"Ranger (Ambuscade)","source":"UARanger","page":2,"hd":{"number":2,"faces":6},"proficiency":["dex","wis"],"optionalfeatureProgression":[{"name":"Fighting
+    Style","featureType":["FS:R"],"progression":{"2":1}}],"startingProficiencies":{"armor":["light","{@item
+    shield|phb|shields}"],"weapons":["simple","martial"],"tools":["{@item herbalism
+    kit|PHB}"],"skills":[{"choose":{"from":["animal handling","athletics","insight","investigation","nature","perception","stealth","survival"],"count":3}}]},"startingEquipment":{"additionalFromBackground":true,"default":["{@item
+    leather armor|phb}","(a) two {@item shortsword|phb|shortswords} or (b) two {@filter
+    martial melee weapons|items|source=phb|category=basic|type=martial weapon;melee
+    weapon=sand} or (c) a {@filter martial weapon|items|source=phb|category=basic|type=martial
+    weapon} and a {@item shield|phb}","(a) a {@item dungeoneer''s pack|phb} or (b)
+    an {@item explorer''s pack|phb}","(a) a {@item longbow|phb} and a {@item quiver|phb}
+    of {@item arrows (20)|phb|20 arrows} or (b) a {@filter martial weapon|items|source=phb|category=basic|type=martial
+    weapon}"],"defaultData":[{"_":["leather armor|phb"]},{"a":[{"item":"shortsword|phb","quantity":2}],"b":[{"equipmentType":"weaponMartialMelee","quantity":2}],"c":[{"equipmentType":"weaponMartial"},"shield|phb"]},{"a":["dungeoneer''s
+    pack|phb"],"b":["explorer''s pack|phb"]},{"a":["longbow|phb","arrows (20)|phb"],"b":[{"equipmentType":"weaponMartial"}]}]},"classFeatures":["Ambuscade|Ranger
+    (Ambuscade)|UARanger|1","Natural Explorer|Ranger||1","Fighting Style|Ranger||2","Skirmisher''s
+    Stealth|Ranger (Ambuscade)|UARanger|2","Primeval Awareness|Ranger||3",{"classFeature":"Spirit
+    Path|Ranger (Ambuscade)|UARanger|3","gainSubclassFeature":true},"Ability Score
+    Improvement|Ranger||4","Extra Attack|Ranger||5"],"subclassTitle":"Ranger Path"}'
+  DataHash: 91ed6adde57d6b7e0f15ce8cb9b5161c

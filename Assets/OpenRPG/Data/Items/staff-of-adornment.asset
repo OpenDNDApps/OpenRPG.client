@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-adornment
+  m_EditorClassIdentifier: 
+  Title: Staff of Adornment
+  AsJson: '{"name":"Staff of Adornment","source":"XGE","page":139,"tier":"minor","rarity":"common","weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","staff":true,"entries":["If
+    you place an object weighing no more than 1 pound (such as a shard of crystal,
+    an egg, or a stone) above the tip of the staff while holding it, the object floats
+    an inch from the staff''s tip and remains there until it is removed or until
+    the staff is no longer in your possession. The staff can have up to three such
+    objects floating over its tip at any given time. While holding the staff, you
+    can make one or more of the objects slowly spin or turn in place."]}'
+  DataHash: 8df087c6e1daa57c113a365077314c06

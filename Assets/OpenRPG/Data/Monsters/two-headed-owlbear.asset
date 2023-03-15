@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: two-headed-owlbear
+  m_EditorClassIdentifier: 
+  Title: Two-Headed Owlbear
+  AsJson: '{"name":"Two-Headed Owlbear","source":"IMR","page":90,"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":40},"str":20,"dex":12,"con":17,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3"},"senses":["darkvision
+    60"],"passive":13,"cr":"3","trait":[{"name":"Two Heads","entries":["The two-headed
+    owlbear has advantage on Wisdom (Perception) checks and on saving throws against
+    being {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition
+    frightened}, {@condition stunned}, and knocked {@condition unconscious}."]},{"name":"Wakeful","entries":["When
+    one of the owlbear''s heads is asleep, its other head is awake."]}],"action":[{"name":"Multiattack","entries":["The
+    two-headed owlbear makes three attacks: two with its beaks and one with its claws."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d10 + 5}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}14 ({@damage 2d8 + 5}) slashing damage."]}],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 852fb844a2335309c8c5a05912bb006f

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: headless-iron-golem
+  m_EditorClassIdentifier: 
+  Title: Headless Iron Golem
+  AsJson: '{"name":"Headless Iron Golem","source":"IDRotF","page":244,"_copy":{"name":"Iron
+    Golem","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Headless","entries":["The
+    golem is {@condition blinded} and {@condition deafened}, giving it disadvantage
+    on all its attack rolls, and it can''t use its Poison Breath."]}},"action":{"mode":"removeArr","names":"Poison
+    Breath {@recharge 5}"}}},"hp":{"average":150,"formula":"10d10 + 50"},"cr":"10","actionTags":["Multiattack"],"hasToken":true,"hasFluff":true}'
+  DataHash: 6f91790b9a2e61ef8ebd9d93925186ba

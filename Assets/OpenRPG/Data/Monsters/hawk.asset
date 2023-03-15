@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hawk
+  m_EditorClassIdentifier: 
+  Title: Hawk
+  AsJson: '{"name":"Hawk","source":"MM","page":330,"srd":true,"basicRules":true,"otherSources":[{"source":"WDH"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"JttRC"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":1,"formula":"1d4
+    - 1"},"speed":{"walk":10,"fly":60},"str":5,"dex":16,"con":8,"int":2,"wis":14,"cha":6,"skill":{"perception":"+4"},"passive":14,"cr":"0","trait":[{"name":"Keen
+    Sight","entries":["The hawk has advantage on Wisdom ({@skill Perception}) checks
+    that rely on sight."]}],"action":[{"name":"Talons","entries":["{@atk mw} {@hit
+    5} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/hawk.mp3"},"traitTags":["Keen
+    Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 446d7b775ca8630d323192280e298cbf

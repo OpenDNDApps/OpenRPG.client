@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: blade-of-broken-mirrors-exalted
+  m_EditorClassIdentifier: 
+  Title: Blade of Broken Mirrors (Exalted)
+  AsJson: '{"name":"Blade of Broken Mirrors (Exalted)","source":"EGW","_copy":{"name":"Blade
+    of Broken Mirrors (Awakened)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted","entries":["When
+    the dagger reaches an exalted state, it gains the following properties:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +3.","The saving throw
+    DC for spells cast from the dagger increases to 17.","While holding the dagger,
+    you can turn {@condition invisible} as an action. Anything you are wearing or
+    carrying is {@condition invisible} with you. You remain {@condition invisible}
+    until you stop holding the dagger, until you attack or cast a spell that forces
+    a creature to make a saving throw, or until you use a bonus action to become
+    visible again."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+3"}'
+  DataHash: 4335aa3e68beca665b9b964fa80cc636

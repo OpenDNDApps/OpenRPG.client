@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: power-word-stun
+  m_EditorClassIdentifier: 
+  Title: Power Word Stun
+  AsJson: '{"name":"Power Word Stun","source":"PHB","page":267,"srd":true,"basicRules":true,"level":8,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+    speak a word of power that can overwhelm the mind of one creature you can see
+    within range, leaving it dumbfounded. If the target has 150 hit points or fewer,
+    it is {@condition stunned}. Otherwise, the spell has no effect.","The {@condition
+    stunned} target must make a Constitution saving throw at the end of each of its
+    turns. On a successful save, this stunning effect ends."],"conditionInflict":["stunned"],"savingThrow":["constitution"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 075ca5aaeb299f78d5da047dc299f850

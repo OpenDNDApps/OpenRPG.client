@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: mislead
+  m_EditorClassIdentifier: 
+  Title: Mislead
+  AsJson: '{"name":"Mislead","source":"PHB","page":260,"srd":true,"level":5,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    become {@condition invisible} at the same time that an illusory double of you
+    appears where you are standing. The double lasts for the duration, but the invisibility
+    ends if you attack or cast a spell.","You can use your action to move your illusory
+    double up to twice your speed and make it gesture, speak, and behave in whatever
+    way you choose.","You can see through its eyes and hear through its ears as if
+    you were located where it is. On each of your turns as a bonus action, you can
+    switch from using its senses to using your own, or back again. While you are
+    using its senses, you are {@condition blinded} and {@condition deafened} in regard
+    to your own surroundings."],"conditionInflict":["blinded","deafened","invisible"],"miscTags":["SGT","UBA"]}'
+  DataHash: 991422ca3d13f403ef3e075c0ba50de9

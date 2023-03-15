@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ashen-knight
+  m_EditorClassIdentifier: 
+  Title: Ashen Knight
+  AsJson: '{"name":"Ashen Knight","source":"KftGV","page":158,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"knight","with":"ashen
+    knight"},"trait":{"mode":"appendArr","items":{"name":"Ashen Creature","entries":["When
+    the knight drops to 0 hit points, it is reduced to a pile of ash, and any equipment
+    it was wearing or carrying falls to the ground."]}}}},"type":{"type":"elemental","tags":["any
+    race"]},"alignment":["L","E"],"immune":["fire"],"hasFluff":true}'
+  DataHash: d206969ee3bed0432b6b95a26a30b442

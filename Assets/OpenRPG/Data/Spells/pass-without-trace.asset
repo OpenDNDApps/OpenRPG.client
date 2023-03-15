@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: pass-without-trace
+  m_EditorClassIdentifier: 
+  Title: Pass without Trace
+  AsJson: '{"name":"Pass without Trace","source":"PHB","page":264,"srd":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"ashes
+    from a burned leaf of mistletoe and a sprig of spruce"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["A
+    veil of shadows and silence radiates from you, masking you and your companions
+    from detection. For the duration, each creature you choose within 30 feet of
+    you (including you) has a +10 bonus to Dexterity ({@skill Stealth}) checks and
+    can''t be tracked except by magical means. A creature that receives this bonus
+    leaves behind no tracks or other traces of its passage."],"areaTags":["MT"]}'
+  DataHash: c479ee69cf91861cc217218727c0dc6a

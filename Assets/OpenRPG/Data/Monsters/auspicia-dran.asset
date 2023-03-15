@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: auspicia-dran
+  m_EditorClassIdentifier: 
+  Title: Auspicia Dran
+  AsJson: '{"name":"Auspicia Dran","isNpc":true,"source":"AI","page":208,"size":["M"],"type":{"type":"humanoid","tags":["half-elf"]},"alignment":["N","G"],"ac":[{"ac":15,"from":["{@item
+    chain shirt|phb}"]}],"hp":{"average":52,"formula":"8d8 + 16"},"speed":{"walk":30},"str":16,"dex":14,"con":14,"int":15,"wis":12,"cha":10,"skill":{"athletics":"+5","perception":"+3"},"passive":13,"languages":["Common","Elvish"],"cr":"2","spellcasting":[{"name":"Innate
+    Spellcasting (Psionics)","headerEntries":["Auspicia''s innate spellcasting ability
+    is Intelligence. She can innately cast the following spells, requiring no components:"],"will":["{@spell
+    detect thoughts}"],"daily":{"1e":["{@spell augury}"]},"ability":"int"}],"action":[{"name":"Multiattack","entries":["Auspicia
+    makes two attacks."]},{"name":"Longsword","entries":["{@atk mw} {@hit 5} to hit,
+    reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing damage, or 8 ({@damage
+    1d10 + 3}) slashing damage if used with two hands."]},{"name":"Light Crossbow","entries":["{@atk
+    rw} {@hit 4} to hit, range 80/320 ft., one target. {@h}6 ({@damage 1d8 + 2})
+    piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C","E"],"damageTags":["P","S"],"spellcastingTags":["I","P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: b543a922c4c7d9a1ea05631b8fbe7178

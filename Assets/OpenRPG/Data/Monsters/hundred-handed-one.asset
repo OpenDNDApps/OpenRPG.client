@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hundred-handed-one
+  m_EditorClassIdentifier: 
+  Title: Hundred-Handed One
+  AsJson: '{"name":"Hundred-Handed One","source":"MOT","page":225,"size":["H"],"type":"giant","alignment":["L","N"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":243,"formula":"18d12 + 126"},"speed":{"walk":40},"str":26,"dex":15,"con":25,"int":14,"wis":16,"cha":16,"save":{"con":"+12","wis":"+8"},"skill":{"intimidation":"+8","perception":"+8"},"senses":["darkvision
+    120 ft."],"passive":18,"conditionImmune":["frightened"],"languages":["Giant"],"cr":"15","trait":[{"name":"Reactive","entries":["The
+    giant can take one reaction on every turn in a combat."]},{"name":"Vigilant","entries":["The
+    giant can''t be {@quickref Surprise|PHB|3|0|surprised}."]}],"action":[{"name":"Multiattack","entries":["The
+    giant makes four longsword attacks or two rock attacks."]},{"name":"Longsword","entries":["{@atk
+    mw} {@hit 13} to hit, reach 15 ft., one target. {@h}21 ({@damage 3d8 + 8}) slashing
+    damage."]},{"name":"Rock","entries":["{@atk rw} {@hit 13} to hit, range 60/240
+    ft., one target. {@h}30 ({@damage 4d10 + 8}) bludgeoning damage. If the target
+    is a creature, it must succeed on a {@dc 21} Strength saving throw or be knocked
+    {@condition prone}."]}],"reaction":[{"name":"Deflect Attack","entries":["The
+    giant adds 5 to its AC against one weapon attack that would hit it. To do so,
+    the giant must see the attacker and be wielding a melee weapon."]}],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["GI"],"damageTags":["B","S"],"miscTags":["MW","RCH","RW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3c7015c5c83db12beb971c5431d26b2d

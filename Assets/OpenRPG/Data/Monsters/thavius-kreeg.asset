@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thavius-kreeg
+  m_EditorClassIdentifier: 
+  Title: Thavius Kreeg
+  AsJson: '{"name":"Thavius Kreeg","isNpc":true,"source":"BGDIA","page":42,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[10],"hp":{"average":40,"formula":"9d8"},"speed":{"walk":30},"str":12,"dex":10,"con":11,"int":15,"wis":18,"cha":16,"skill":{"deception":"+5","medicine":"+6","persuasion":"+5","religion":"+4"},"passive":14,"languages":["Abyssal","Common","Infernal"],"cr":"1/2","trait":[{"name":"Shadow
+    of Guilt","entries":["Thavius''s shadow is that of a pudgy, horned devil with
+    small wings."]}],"action":[{"name":"Mace","entries":["{@atk mw} {@hit 3} to hit,
+    reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage."]}],"languageTags":["AB","C","I"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 8db61d53b60ff906804887bb3e201b0b

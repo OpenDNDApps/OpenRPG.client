@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: flying-shield
+  m_EditorClassIdentifier: 
+  Title: Flying Shield
+  AsJson: '{"name":"Flying Shield","source":"TftYP","page":224,"_copy":{"name":"Flying
+    Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"shield","flags":"i"}}},"action":null,"miscTags":[],"hasToken":true}'
+  DataHash: e9196fb537a1b8b7247b0aeddd510672

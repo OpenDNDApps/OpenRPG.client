@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dust-of-dryness
+  m_EditorClassIdentifier: 
+  Title: Dust of Dryness
+  AsJson: '{"name":"Dust of Dryness","source":"DMG","page":166,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["This
+    small packet contains {@dice 1d6 + 4} pinches of dust. You can use an action
+    to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet
+    on a side into one marble-sized pellet, which floats or rests near where the
+    dust was sprinkled. The pellet''s weight is negligible.","Someone can use an
+    action to smash the pellet against a hard surface, causing the pellet to shatter
+    and release the water the dust absorbed. Doing so ends that pellet''s magic.","An
+    elemental composed mostly of water that is exposed to a pinch of the dust must
+    make a DC 13 Constitution saving throw, taking {@damage 10d6} necrotic damage
+    on a failed save, or half as much damage on a successful one."],"lootTables":["Magic
+    Item Table B"]}'
+  DataHash: 37c93da79cf5f59e0a17299bc753c7ad

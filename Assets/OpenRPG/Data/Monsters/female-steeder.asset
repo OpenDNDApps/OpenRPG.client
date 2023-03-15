@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: female-steeder
+  m_EditorClassIdentifier: 
+  Title: Female Steeder
+  AsJson: '{"name":"Female Steeder","source":"MTF","page":238,"otherSources":[{"source":"OotA","page":231}],"reprintedAs":["Female
+    Steeder|MPMM"],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":30,"formula":"4d10 + 8"},"speed":{"walk":30,"climb":30},"str":15,"dex":16,"con":14,"int":2,"wis":10,"cha":3,"skill":{"stealth":"+7","perception":"+4"},"senses":["darkvision
+    120 ft."],"passive":14,"cr":"1","trait":[{"name":"Spider Climb","entries":["The
+    steeder can climb difficult surfaces, including upside down on ceilings, without
+    needing to make an ability check."]},{"name":"Extraordinary Leap","entries":["The
+    distance of the steeder''s long jumps is tripled; every foot of its walking speed
+    that it spends on the jump allows it to move 3 feet."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing
+    damage plus 9 ({@damage 2d8}) poison damage."]},{"name":"Sticky Leg","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one Medium or smaller creature. {@h}The target
+    is stuck to the steeder''s leg and is {@condition grappled} until it escapes
+    (escape {@dc 12}). The steeder can have only one creature {@condition grappled}
+    at a time."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/female-steeder.mp3"},"traitTags":["Spider
+    Climb"],"senseTags":["SD"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 18556fd1705d582ff1962046eb63880a

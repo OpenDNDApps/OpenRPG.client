@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: 2-arcane-grimoire
+  m_EditorClassIdentifier: 
+  Title: +2 Arcane Grimoire
+  AsJson: '{"name":"+2 Arcane Grimoire","source":"TCE","page":120,"rarity":"rare","reqAttune":"by
+    a wizard","reqAttuneTags":[{"class":"wizard"}],"wondrous":true,"weight":3,"bonusSpellAttack":"+2","bonusSpellSaveDc":"+2","focus":["Wizard"],"entries":["While
+    you are holding this leather-bound book, you can use it as a spellcasting focus
+    for your wizard spells, and you gain a +2 bonus to spell attack rolls and to
+    the saving throw DCs of your wizard spells.","You can use this book as a spellbook.
+    In addition, when you use your Arcane Recovery feature, you can increase the
+    number of spell slot levels you regain by 1."]}'
+  DataHash: f75337040c0285993283b62431b151ed

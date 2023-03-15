@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: swarm-of-gremishkas
+  m_EditorClassIdentifier: 
+  Title: Swarm of Gremishkas
+  AsJson: '{"name":"Swarm of Gremishkas","source":"VRGR","page":235,"size":["M"],"type":{"type":"monstrosity","swarmSize":"T"},"ac":[12],"hp":{"average":24,"formula":"7d6"},"speed":{"walk":25},"str":12,"dex":14,"con":10,"int":12,"wis":14,"cha":4,"skill":{"perception":"+4"},"senses":["darkvision
+    30 ft."],"passive":14,"resist":["bludgeoning","piercing","slashing"],"conditionImmune":["charmed","frightened","grappled","paralyzed","petrified","prone","restrained","stunned"],"languages":["understands
+    Common but can''t speak"],"cr":"2","trait":[{"name":"Limited Spell Immunity","entries":["The
+    swarm automatically succeeds on saving throws against spells of 3rd level or
+    lower, and the attack rolls of such spells always miss it."]},{"name":"Swarm","entries":["The
+    swarm can occupy another creature''s space and vice versa, and the swarm can
+    move through any opening large enough for a Tiny gremishka. The swarm can''t
+    regain hit points or gain temporary hit points."]}],"action":[{"name":"Bites","entries":["{@atk
+    mw} {@hit 4} to hit, reach 0 ft., one target in the swarm''s space. {@h}12 ({@damage
+    3d6 + 2}) piercing damage, or 5 ({@damage 1d6 + 2}) piercing damage if the swarm
+    has half of its hit points or fewer, plus 7 ({@damage 2d6}) force damage."]}],"reaction":[{"name":"Spell
+    Redirection","entries":["In response to a spell attack roll missing the swarm,
+    the swarm causes that spell to hit another creature of its choice within 30 feet
+    of it that it can see."]}],"senseTags":["D"],"languageTags":["C","CS"],"damageTags":["O","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ef59247af447020ecbc5e8856117e156

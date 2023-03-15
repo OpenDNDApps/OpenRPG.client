@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ilvara-mizzrym
+  m_EditorClassIdentifier: 
+  Title: Ilvara Mizzrym
+  AsJson: '{"name":"Ilvara Mizzrym","isNpc":true,"source":"OotA","page":9,"_copy":{"name":"Drow
+    Priestess of Lolth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    drow","with":"Ilvara","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+    Equipment","entries":["Ilvara wields a {@item tentacle rod} in addition to her
+    scourge."]}}}},"hasToken":true,"hasFluffImages":true}'
+  DataHash: 648fd13069dab4f4ea321a4aa7f63ff4

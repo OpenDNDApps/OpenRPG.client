@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: elder-monastery-of-the-distressed-body-monk
+  m_EditorClassIdentifier: 
+  Title: Elder Monastery of the Distressed Body Monk
+  AsJson: '{"name":"Elder Monastery of the Distressed Body Monk","source":"LLK","page":12,"_copy":{"name":"Cult
+    Fanatic","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"fanatic","with":"monk"},"action":{"mode":"replaceArr","replace":"Dagger","items":{"name":"Force
+    Pike","entries":["{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 40/100 ft.,
+    one creature. {@h}7 ({@damage 1d10 + 2}) force damage. The attack has disadvantage
+    against any target with polished metal armor or shield, and has its ranged halved
+    when firing through smoke or fog."]}}}},"hasToken":true}'
+  DataHash: 3889e1432baaf4201ae73c05a8fccec3

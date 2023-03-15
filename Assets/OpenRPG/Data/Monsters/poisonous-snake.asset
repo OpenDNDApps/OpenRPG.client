@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: poisonous-snake
+  m_EditorClassIdentifier: 
+  Title: Poisonous Snake
+  AsJson: '{"name":"Poisonous Snake","source":"MM","page":334,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"GoS"},{"source":"IMR"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":30,"swim":30},"str":2,"dex":16,"con":11,"int":1,"wis":10,"cha":3,"senses":["blindsight
+    10 ft."],"passive":10,"cr":"1/8","action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}1 piercing damage, and the target
+    must make a {@dc 10} Constitution saving throw, taking 5 ({@damage 2d4}) poison
+    damage on a failed save, or half as much damage on a successful one."]}],"environment":["grassland","forest","swamp","hill","desert","coastal"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/poisonous-snake.mp3"},"senseTags":["B"],"damageTags":["I","P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: d93d10192770f4a1d49d8dc227f72df1

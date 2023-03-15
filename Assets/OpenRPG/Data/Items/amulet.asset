@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: amulet
+  m_EditorClassIdentifier: 
+  Title: Amulet
+  AsJson: '{"name":"Amulet","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","weight":1,"value":500}'
+  DataHash: 6c17b6a5db2b9301dabe4e3954ab5d99

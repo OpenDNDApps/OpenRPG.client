@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: mirror-of-the-past
+  m_EditorClassIdentifier: 
+  Title: Mirror of the Past
+  AsJson: '{"name":"Mirror of the Past","source":"TftYP","page":228,"rarity":"rare","wondrous":true,"weight":1,"entries":["The
+    holder of this platinum hand mirror can learn something about the history of
+    a specific object or creature by taking an action to gaze into the mirror and
+    think of the target. Instead of the holder''s reflection, the mirror presents
+    scenes from the target''s past. Information conveyed is accurate, but it is random
+    and cryptic, and presented in no particular order. Once it is activated, the
+    mirror gives its information for 1 minute or less, then returns to normal. It
+    can''t be used again until the next dawn."]}'
+  DataHash: f27343c93c4cd7839701a98bd81e4c94

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cleansing-stone
+  m_EditorClassIdentifier: 
+  Title: Cleansing Stone
+  AsJson: '{"name":"Cleansing Stone","source":"ERLW","page":276,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["A
+    cleansing stone is a sphere 1 foot in diameter, engraved with mystic sigils.
+    When touching the stone, you can use an action to activate it and remove dirt
+    and grime from your garments and your person.","Such stones are often embedded
+    in pedestals in public squares in Aundair or in high-end Ghallanda inns."]}'
+  DataHash: b1bf1f5afacc6201a30a826b6f75dbbb

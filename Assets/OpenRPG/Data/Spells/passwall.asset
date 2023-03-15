@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: passwall
+  m_EditorClassIdentifier: 
+  Title: Passwall
+  AsJson: '{"name":"Passwall","source":"PHB","page":264,"srd":true,"basicRules":true,"level":5,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    pinch of sesame seeds"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["A
+    passage appears at a point of your choice that you can see on a wooden, plaster,
+    or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts
+    for the duration. You choose the opening''s dimensions: up to 5 feet wide, 8
+    feet tall, and 20 feet deep. The passage creates no instability in a structure
+    surrounding it.","When the opening disappears, any creatures or objects still
+    in the passage created by the spell are safely ejected to an unoccupied space
+    nearest to the surface on which you cast the spell."],"miscTags":["OBJ","SGT"]}'
+  DataHash: b56e1bc2a57d385fc7a21a28ef34f940

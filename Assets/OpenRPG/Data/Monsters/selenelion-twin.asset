@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: selenelion-twin
+  m_EditorClassIdentifier: 
+  Title: Selenelion Twin
+  AsJson: '{"name":"Selenelion Twin","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":241,"size":["M"],"type":{"type":"humanoid","tags":["elf"]},"alignment":["C","G"],"ac":[14],"hp":{"average":33,"formula":"6d8
+    + 6"},"speed":{"walk":30},"str":7,"dex":18,"con":13,"int":12,"wis":10,"cha":17,"save":{"dex":"+6","cha":"+5"},"skill":{"acrobatics":"+8","sleight
+    of hand":"+6","stealth":"+6"},"senses":["darkvision 60 ft."],"passive":10,"languages":["Common","Elvish"],"cr":"2","trait":[{"name":"Fey
+    Ancestry","entries":["The Selenelion twins, Gleam and Glister, have advantage
+    on saving throws against being {@condition charmed}, and magic can''t put them
+    to sleep."]},{"name":"Regeneration","entries":["A Selenelion twin regains 5 hit
+    points at the start of her turn as long as both twins are alive and within 60
+    feet of each other. A twin dies only if she starts her turn with 0 hit points
+    and doesn''t regenerate."]},{"name":"Twin Bond","entries":["While both Selenelion
+    twins are alive and on the same plane of existence, each is aware of the other''s
+    emotions."]}],"action":[{"name":"Dagger","entries":["{@atk mw,rw} {@hit 6} to
+    hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing
+    damage."]},{"name":"Moon Ray (Gleam Only; 3/Day)","entries":["{@atk rs} {@hit
+    5} to hit, range 60 ft., one creature. {@h}12 ({@damage 2d8 + 3}) radiant damage,
+    and the target must succeed on a {@dc 13} Wisdom saving throw or be transformed
+    into a bat for 1 minute, as though affected by a {@spell polymorph} spell. The
+    target can repeat the saving throw at the end of each of its turns, ending the
+    effect on itself on a success."]},{"name":"Sun Ray (Glister Only; 3/Day)","entries":["{@atk
+    rs} {@hit 5} to hit, range 60 ft., one creature. {@h}12 ({@damage 2d8 + 3}) radiant
+    damage, and the target must succeed on a {@dc 13} Wisdom saving throw or be {@condition
+    blinded} for 1 minute. The target can repeat the saving throw at the end of each
+    of its turns, ending the effect on itself on a success."]},{"name":"Twin Sight
+    (Recharges after a Short or Long Rest)","entries":["In her mind''s eye, a Selenelion
+    twin can see what the other twin sees for up to 1 minute, provided both twins
+    are alive and on the same plane of existence. Maintaining this effect requires
+    concentration (as if concentrating on a spell)."]}],"traitTags":["Fey Ancestry","Regeneration"],"senseTags":["D"],"languageTags":["C","E"],"damageTags":["P","R"],"miscTags":["MW","RW","THW"],"conditionInflict":["blinded"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 393b7df46db8e2e22b65640901f7cf3c

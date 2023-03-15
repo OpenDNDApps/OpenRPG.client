@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: boots-of-speed
+  m_EditorClassIdentifier: 
+  Title: Boots of Speed
+  AsJson: '{"name":"Boots of Speed","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"rare","reqAttune":true,"wondrous":true,"modifySpeed":{"multiply":{"walk":2}},"entries":["While
+    you wear these boots, you can use a bonus action and click the boots'' heels
+    together. If you do, the boots double your walking speed, and any creature that
+    makes an opportunity attack against you has disadvantage on the attack roll.
+    If you click your heels together again, you end the effect.","When the boots''
+    property has been used for a total of 10 minutes, the magic ceases to function
+    until you finish a long rest."],"optionalfeatures":["replicate magic item|tce","replicate
+    magic item|uaartificerrevisited"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+  DataHash: 694d80f9903fe1f1ca025b5c13a66af4

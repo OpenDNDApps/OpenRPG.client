@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: 1-wand-of-the-war-mage
+  m_EditorClassIdentifier: 
+  Title: +1 Wand of the War Mage
+  AsJson: '{"name":"+1 Wand of the War Mage","source":"DMG","page":212,"srd":true,"type":"WD","tier":"major","rarity":"uncommon","reqAttune":"by
+    a spellcaster","reqAttuneTags":[{"spellcasting":true}],"weight":1,"bonusSpellAttack":"+1","entries":["While
+    you are holding this wand, you gain a +1 bonus to spell attack rolls. In addition,
+    you ignore half cover when making a spell attack."],"lootTables":["Magic Item
+    Table F"]}'
+  DataHash: c55987ffcaf96e22c34a612c4a9a376c

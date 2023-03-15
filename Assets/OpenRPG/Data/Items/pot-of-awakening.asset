@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pot-of-awakening
+  m_EditorClassIdentifier: 
+  Title: Pot of Awakening
+  AsJson: '{"name":"Pot of Awakening","source":"XGE","page":138,"otherSources":[{"source":"IMR","page":95}],"tier":"minor","rarity":"common","wondrous":true,"entries":["If
+    you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30
+    days, the shrub magically transforms into an {@creature awakened shrub} at the
+    end of that time. When the shrub awakens, its roots break the pot, destroying
+    it.","The awakened shrub is friendly toward you. Absent commands from you, it
+    does nothing."]}'
+  DataHash: 5dc3ec738a0beca3fec54d848db2ffba

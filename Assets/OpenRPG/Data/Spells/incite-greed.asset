@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: incite-greed
+  m_EditorClassIdentifier: 
+  Title: Incite Greed
+  AsJson: '{"name":"Incite Greed","source":"AI","page":76,"level":3,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":{"text":"a
+    gem worth at least 50 gp","cost":5000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["When
+    you cast this spell, you present the gem used as the material component and choose
+    any number of creatures within range that can see you. Each target must succeed
+    on a Wisdom saving throw or be {@condition charmed} by you until the spell ends,
+    or until you or your companions do anything harmful to it. While {@condition
+    charmed} in this way, a creature can do nothing but use its movement to approach
+    you in a safe manner. While an affected creature is within 5 feet of you, it
+    cannot move, but simply stares greedily at the gem you present.","At the end
+    of each of its turns, an affected target can make a Wisdom saving throw. If it
+    succeeds, this effect ends for that target."],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["MT"]}'
+  DataHash: e0d2890c0eabe561a6a78b42bb16eb99

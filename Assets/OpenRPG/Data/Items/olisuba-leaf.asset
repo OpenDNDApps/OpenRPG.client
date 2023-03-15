@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: olisuba-leaf
+  m_EditorClassIdentifier: 
+  Title: Olisuba Leaf
+  AsJson: '{"name":"Olisuba Leaf","source":"EGW","page":70,"type":"G","rarity":"none","value":5000,"entries":["These
+    dried leaves of the Olisuba tree, when steeped to make a tea, can help a body
+    recover from strenuous activity. If you drink a dose of Olisuba tea during a
+    long rest, your {@condition exhaustion} level is reduced by 2 instead of 1 at
+    the end of that long rest."]}'
+  DataHash: 0bf9eaf25ce915a41eec371742ab1a72

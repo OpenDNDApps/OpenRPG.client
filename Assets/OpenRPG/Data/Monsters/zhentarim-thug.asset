@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: zhentarim-thug
+  m_EditorClassIdentifier: 
+  Title: Zhentarim Thug
+  AsJson: '{"name":"Zhentarim Thug","source":"OotA","page":131,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"ac":[{"ac":11,"from":["{@item
+    leather armor|phb}"]}],"hp":{"average":32,"formula":"5d8 + 10"},"speed":{"walk":30},"str":15,"dex":11,"con":14,"int":10,"wis":10,"cha":11,"skill":{"intimidation":"+2"},"passive":10,"languages":["Common"],"cr":"1/2","trait":[{"name":"Pack
+    Tactics","entries":["The thug has advantage on an attack roll against a creature
+    if at least one of the thug''s allies is within 5 feet of the creature and the
+    ally isn''t {@condition incapacitated}."]}],"action":[{"name":"Multiattack","entries":["The
+    thug makes two melee attacks"]},{"name":"Mace","entries":["{@atk mw} {@hit 4}
+    to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."]},{"name":"Heavy
+    Crossbow","entries":["{@atk rw} {@hit 2} to hit, range 100/400 ft., one target.
+    {@h}5 ({@damage 1d10}) piercing damage."]}],"traitTags":["Pack Tactics"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RNG","RW"],"hasToken":true}'
+  DataHash: 2ac357ef5836bf6f4f21fc19d55fd4bc

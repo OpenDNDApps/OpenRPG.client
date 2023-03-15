@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: helmed-horror
+  m_EditorClassIdentifier: 
+  Title: Helmed Horror
+  AsJson: '{"name":"Helmed Horror","source":"MM","page":183,"otherSources":[{"source":"HotDQ"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"JttRC"},{"source":"KftGV"}],"size":["M"],"type":"construct","alignment":["U"],"ac":[{"ac":20,"from":["{@item
+    plate armor|phb}","{@item shield|phb}"]}],"hp":{"average":60,"formula":"8d8 +
+    24"},"speed":{"walk":30,"fly":30},"str":18,"dex":13,"con":16,"int":10,"wis":10,"cha":10,"skill":{"perception":"+4"},"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"passive":14,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t adamantine","cond":true}],"immune":["force","necrotic","poison"],"conditionImmune":["blinded","charmed","deafened","frightened","paralyzed","petrified","poisoned","stunned"],"languages":["understands
+    the languages of its creator but can''t speak"],"cr":"4","trait":[{"name":"Magic
+    Resistance","entries":["The helmed horror has advantage on saving throws against
+    spells and other magical effects."]},{"name":"Spell Immunity","entries":["The
+    helmed horror is immune to three spells chosen by its creator. Typical immunities
+    include {@spell fireball}, {@spell heat metal}, and {@spell lightning bolt}."]}],"action":[{"name":"Multiattack","entries":["The
+    helmed horror makes two longsword attacks."]},{"name":"Longsword","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing
+    damage, or 9 ({@damage 1d10 + 4}) slashing damage if used with two hands."]}],"soundClip":{"type":"internal","path":"bestiary/helmed-horror.mp3"},"traitTags":["Magic
+    Resistance","Spell Immunity"],"senseTags":["B"],"actionTags":["Multiattack"],"languageTags":["CS"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: e43385eef7b4dd1cb89a21834b6fe0ab

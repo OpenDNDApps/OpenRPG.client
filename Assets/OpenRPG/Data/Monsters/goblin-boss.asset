@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: goblin-boss
+  m_EditorClassIdentifier: 
+  Title: Goblin Boss
+  AsJson: '{"name":"Goblin Boss","source":"MM","page":166,"otherSources":[{"source":"SKT"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"TCE"},{"source":"WBtW"},{"source":"KftGV"}],"size":["S"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["N","E"],"ac":[{"ac":17,"from":["{@item
+    chain shirt|phb}","{@item shield|phb}"]}],"hp":{"average":21,"formula":"6d6"},"speed":{"walk":30},"str":10,"dex":14,"con":10,"int":10,"wis":8,"cha":10,"skill":{"stealth":"+6"},"senses":["darkvision
+    60 ft."],"passive":9,"languages":["Common","Goblin"],"cr":"1","trait":[{"name":"Nimble
+    Escape","entries":["The goblin can take the Disengage or Hide action as a bonus
+    action on each of its turns."]}],"action":[{"name":"Multiattack","entries":["The
+    goblin makes two attacks with its scimitar. The second attack has disadvantage."]},{"name":"Scimitar","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing
+    damage."]},{"name":"Javelin","entries":["{@atk mw,rw} {@hit 2} to hit, reach
+    5 ft. or range 30/120 ft., one target. {@h}3 ({@damage 1d6}) piercing damage."]}],"reaction":[{"name":"Redirect
+    Attack","entries":["When a creature the goblin can see targets it with an attack,
+    the goblin chooses another goblin within 5 feet of it. The two goblins swap places,
+    and the chosen goblin becomes the target instead."]}],"environment":["underdark","grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/goblin-boss.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","GO"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 6e8a2ad58f9be13c3dd75ecc6b34d751

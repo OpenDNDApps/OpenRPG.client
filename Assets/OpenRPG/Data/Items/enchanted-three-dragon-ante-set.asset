@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: enchanted-three-dragon-ante-set
+  m_EditorClassIdentifier: 
+  Title: Enchanted Three-Dragon Ante Set
+  AsJson: "{\"name\":\"Enchanted Three-Dragon Ante Set\",\"source\":\"LLK\",\"page\":15,\"_copy\":{\"name\":\"Three-Dragon
+    Ante Set\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"appendArr\",\"items\":\"One
+    card in this deck is enchanted to appear as whatever specific card its owner
+    commands. This magic works only 25 percent of the time, but the deck is worth
+    500 gp to any serious gambler who doesn't mind the risk\u2014or who isn't told
+    about it.\"}}},\"value\":null}"
+  DataHash: dd2fc29f5998df68de8974b75c6ce5f9

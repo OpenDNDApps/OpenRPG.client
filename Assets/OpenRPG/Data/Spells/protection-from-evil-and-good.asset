@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: protection-from-evil-and-good
+  m_EditorClassIdentifier: 
+  Title: Protection from Evil and Good
+  AsJson: '{"name":"Protection from Evil and Good","source":"PHB","page":270,"srd":true,"level":1,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"holy
+    water or powdered silver and iron, which the spell consumes","consume":true}},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Until
+    the spell ends, one willing creature you touch is protected against certain types
+    of creatures: aberrations, celestials, elementals, fey, fiends, and undead.","The
+    protection grants several benefits. Creatures of those types have disadvantage
+    on attack rolls against the target. The target also can''t be {@condition charmed},
+    {@condition frightened}, or possessed by them. If the target is already {@condition
+    charmed}, {@condition frightened}, or possessed by such a creature, the target
+    has advantage on any new saving throw against the relevant effect."],"affectsCreatureType":["aberration","celestial","elemental","fey","fiend","undead"],"areaTags":["ST"]}'
+  DataHash: d2566dc6347250510608629626893272

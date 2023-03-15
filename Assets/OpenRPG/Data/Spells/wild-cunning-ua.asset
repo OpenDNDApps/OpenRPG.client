@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: wild-cunning-ua
+  m_EditorClassIdentifier: 
+  Title: Wild Cunning (UA)
+  AsJson: '{"name":"Wild Cunning (UA)","source":"UAStarterSpells","page":5,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"meta":{"ritual":true},"entries":["You
+    call out to the spirits of nature to aid you. When you cast this spell, choose
+    one of the following effects:",{"type":"list","items":["If there are any tracks
+    on the ground within range, you know where they are, and you make Wisdom ({@skill
+    Survival}) checks to follow these tracks with advantage for 1 hour or until you
+    cast this spell again.","If there is edible forage within range, you know it
+    and where to find it.","If there is clean drinking water within range, you know
+    it and where to find it.","If there is suitable shelter for you and your companions
+    with range, you know it and where to find.","Send the spirits to bring back wood
+    for a fire and to set up a campsite in the area using your supplies. The spirits
+    build the fire in a circle of stones, put up tents, unroll bedrolls, and put
+    out any rations and water for consumption.","Have the spirits instantly break
+    down a campsite, which includes putting out a fire, taking down tents, packing
+    up bags, and burying any rubbish."]}]}'
+  DataHash: 12d5be0863107eb8872780129934a90a

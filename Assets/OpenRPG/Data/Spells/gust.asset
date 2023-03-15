@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: gust
+  m_EditorClassIdentifier: 
+  Title: Gust
+  AsJson: '{"name":"Gust","source":"XGE","page":157,"otherSources":[{"source":"EEPC","page":19},{"source":"UAWGE","page":107},{"source":"ERLW","page":50},{"source":"TCE","page":50}],"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    seize the air and compel it to create one of the following effects at a point
+    you can see within range:",{"type":"list","items":["One Medium or smaller creature
+    that you choose must succeed on a Strength saving throw or be pushed up to 5
+    feet away from you.","You create a small blast of air capable of moving one object
+    that is neither held nor carried and that weighs no more than 5 pounds. The object
+    is pushed up to 10 feet away from you. It isn''t pushed with enough force to
+    cause damage.","You create a harmless sensory effect using air, such as causing
+    leaves to rustle, wind to slam shutters closed, or your clothing to ripple in
+    a breeze."]}],"savingThrow":["strength"],"miscTags":["FMV","OBJ","SGT"],"areaTags":["ST"]}'
+  DataHash: c2157d03641e87b2495251ef26a927e0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: anhkolox
+  m_EditorClassIdentifier: 
+  Title: Anhkolox
+  AsJson: '{"name":"Anhkolox","source":"DSotDQ","page":192,"size":["H"],"type":"undead","alignment":["N","E"],"alignmentPrefix":"typically
+    ","ac":[{"ac":15,"from":["natural armor"]}],"hp":{"average":157,"formula":"15d12
+    + 60"},"speed":{"walk":50},"str":22,"dex":11,"con":18,"int":4,"wis":14,"cha":2,"save":{"wis":"+6"},"skill":{"perception":"+6"},"senses":["darkvision
+    60 ft."],"passive":16,"immune":["poison"],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"cr":"9","trait":[{"name":"Unusual
+    Nature","entries":["The anhkolox doesn''t require air, food, drink, or sleep."]}],"action":[{"name":"Multiattack","entries":["The
+    anhkolox makes two Claw attacks and one Entrapping Rend attack."]},{"name":"Claw","entries":["{@atk
+    mw} {@hit 10} to hit, reach 5 ft., one target. {@h}17 ({@damage 2d10 + 6}) piercing
+    damage. If the target is a Large or smaller creature, it must succeed on a {@dc
+    18} Strength saving throw or be pushed up to 20 feet in a horizontal direction
+    of the anhkolox''s choice."]},{"name":"Entrapping Rend","entries":["{@atk mw}
+    {@hit 10} to hit, reach 5 ft., one target. {@h}23 ({@damage 5d6 + 6}) piercing
+    damage, and if the target is a Large or smaller creature, the target must succeed
+    on a {@dc 18} Strength saving throw or be trapped in the anhkolox''s rib cage
+    and {@condition grappled} (escape {@dc 18}). Until this grapple ends, the target
+    is {@condition restrained}, and the anhkolox can''t use Entrapping Rend on another
+    target."]}],"traitTags":["Unusual Nature"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: cd7b460f97ce9bd3641083db37352dd9

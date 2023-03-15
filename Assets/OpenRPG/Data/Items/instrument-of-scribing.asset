@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: instrument-of-scribing
+  m_EditorClassIdentifier: 
+  Title: Instrument of Scribing
+  AsJson: '{"name":"Instrument of Scribing","source":"XGE","page":138,"type":"INS","tier":"minor","rarity":"common","reqAttune":true,"wondrous":true,"recharge":"dawn","rechargeAmount":3,"charges":3,"entries":["This
+    musical instrument has 3 charges. While you are playing it, you can use an action
+    to expend 1 charge from the instrument and write a magical message on a nonmagical
+    object or surface that you can see within 30 feet of you. The message can be
+    up to six words long and is written in a language you know. If you are a bard,
+    you can scribe an additional seven words and choose to make the message glow
+    faintly, allowing it to be seen in nonmagical darkness. Casting {@spell dispel
+    magic} on the message erases it. Otherwise, the message fades away after 24 hours.","The
+    instrument regains all expended charges daily at dawn."]}'
+  DataHash: 595b54c7d1116a9c3f07ce7680c4aaa5

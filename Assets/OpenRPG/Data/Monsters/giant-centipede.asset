@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-centipede
+  m_EditorClassIdentifier: 
+  Title: Giant Centipede
+  AsJson: '{"name":"Giant Centipede","source":"MM","page":323,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"TCE"},{"source":"PSX"}],"size":["S"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":4,"formula":"1d6 + 1"},"speed":{"walk":30,"climb":30},"str":5,"dex":14,"con":12,"int":1,"wis":7,"cha":3,"senses":["blindsight
+    30 ft."],"passive":8,"cr":"1/4","action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage, and the target must succeed on a {@dc 11} Constitution saving throw or
+    take 10 ({@damage 3d6}) poison damage. If the poison damage reduces the target
+    to 0 hit points, the target is stable but {@condition poisoned} for 1 hour, even
+    after regaining hit points, and is {@condition paralyzed} while {@condition poisoned}
+    in this way."]}],"environment":["underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/giant-centipede.mp3"},"senseTags":["B"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["paralyzed","poisoned"],"hasToken":true}'
+  DataHash: c5cf869e4b77d0deecf2bee35d6f591f

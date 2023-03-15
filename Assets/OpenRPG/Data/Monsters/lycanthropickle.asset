@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lycanthropickle
+  m_EditorClassIdentifier: 
+  Title: Lycanthropickle
+  AsJson: '{"name":"Lycanthropickle","group":["Lycanthropes"],"source":"RMBRE","page":11,"_copy":{"name":"Twig
+    Blight","source":"MM"},"trait":[{"name":"False Appearance","entries":["While
+    the lycanthropickle remains motionless, it is indistinguishable from a pickle."]}],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 01dde16e95523d249f9df919ce34a3c4

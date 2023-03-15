@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: arcanaloth-s-music-box
+  m_EditorClassIdentifier: 
+  Title: Arcanaloth's Music Box
+  AsJson: '{"name":"Arcanaloth''s Music Box","source":"ToA","page":188,"type":"OTH","rarity":"unknown
+    (magic)","value":75000,"entries":["This music box is made of dark wood with gold
+    filigree. Each of its five sides is sculpted with the image of a horned woman
+    playing a different {@item musical instrument|PHB}: a {@item dulcimer|PHB}, a
+    {@item flute|PHB}, a harp, a {@item lyre|PHB}, and a {@item viol|PHB}. While
+    touching the box, you can use an action to make it play music featuring one of
+    the instruments shown, which can be heard up to 60 feet away. You can also use
+    an action to stop the music."]}'
+  DataHash: 4d914e8d7ee080fa4cdfec396d3516de

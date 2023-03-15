@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ice-spider-queen
+  m_EditorClassIdentifier: 
+  Title: Ice Spider Queen
+  AsJson: '{"name":"Ice Spider Queen","source":"SKT","page":128,"_copy":{"name":"Giant
+    Spider","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Cold
+    Aura","entries":["Any creature that starts its turn within 5 feet of the spider
+    takes 5 ({@damage 2d4}) cold damage."]}},"action":{"mode":"replaceArr","replace":"Web
+    {@recharge 5}","items":{"name":"Icy Web {@recharge 5}","entries":["{@atk rw}
+    {@hit 5} to hit, range 30/60 ft., one creature. {@h}The target is {@condition
+    restrained} by webbing, and takes 2 ({@damage 1d4}) cold damage at the start
+    of each of its turns. As an action, the {@condition restrained} target can make
+    a DC 12 Strength check, bursting the webbing on a success. The webbing can also
+    be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity
+    to poison, and psychic damage)."]}}}},"hp":{"average":44,"formula":"4d10 + 4"},"resist":["cold"],"cr":"2","damageTags":["C","I","P"],"hasToken":true}'
+  DataHash: aba3de26d85e42177231c1aee7527651

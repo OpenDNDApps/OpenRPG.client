@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: concertina
+  m_EditorClassIdentifier: 
+  Title: Concertina
+  AsJson: '{"name":"Concertina","source":"RMBRE","page":26,"rarity":"rare","wondrous":true,"entries":["A
+    concertina is a less charming kind of accordion.","In addition to knocking out
+    a killer polka, a creature playing the concertina can use an action to cause
+    an area of mist or water up to 30 feet in diameter and 6 inches deep to freeze
+    solid.","Once used, this feature of the concertina can''t be used again until
+    the next dawn.","Any creatures touching the floor must succeed on a DC 20 Dexterity
+    saving throw or be {@condition restrained} by the ice. As an action, a {@condition
+    restrained} creature can attempt to free itself or another creature within its
+    reach from the ice, doing so with a successful DC 20 Strength ({@skill Athletics})
+    check. A character freed from the ice is no longer {@condition restrained} by
+    it. The ice melts in an hour."]}'
+  DataHash: bae425bc863f86102561f6c646232477

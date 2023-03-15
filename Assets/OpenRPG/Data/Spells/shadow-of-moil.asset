@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: shadow-of-moil
+  m_EditorClassIdentifier: 
+  Title: Shadow of Moil
+  AsJson: '{"name":"Shadow of Moil","source":"XGE","page":164,"level":4,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":{"text":"an
+    undead eyeball encased in a gem worth at least 150 gp","cost":15000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Flame-like
+    shadows wreathe your body until the spell ends, causing you to become heavily
+    obscured to others. The shadows turn dim light within 10 feet of you into darkness,
+    and bright light in the same area to dim light.","Until the spell ends, you have
+    resistance to radiant damage. In addition, whenever a creature within 10 feet
+    of you hits you with an attack, the shadows lash out at that creature, dealing
+    it {@damage 2d8} necrotic damage."],"damageResist":["radiant"],"damageInflict":["necrotic"],"miscTags":["OBS"],"areaTags":["S"]}'
+  DataHash: 387a80ef564b088f3db945f37b767214

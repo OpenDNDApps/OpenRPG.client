@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: thunderwave
+  m_EditorClassIdentifier: 
+  Title: Thunderwave
+  AsJson: '{"name":"Thunderwave","source":"PHB","page":282,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cube","distance":{"type":"feet","amount":15}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["A
+    wave of thunderous force sweeps out from you. Each creature in a 15-foot cube
+    originating from you must make a Constitution saving throw. On a failed save,
+    a creature takes {@damage 2d8} thunder damage and is pushed 10 feet away from
+    you. On a successful save, the creature takes half as much damage and isn''t
+    pushed.","In addition, unsecured objects that are completely within the area
+    of effect are automatically pushed 10 feet away from you by the spell''s effect,
+    and the spell emits a thunderous boom audible out to 300 feet."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the damage increases by {@scaledamage 2d8|1-9|1d8} for each
+    slot level above 1st."]}],"damageInflict":["thunder"],"savingThrow":["constitution"],"miscTags":["FMV","OBJ"],"areaTags":["C"]}'
+  DataHash: 668258b22dfba77dbadb0fd3fb862177

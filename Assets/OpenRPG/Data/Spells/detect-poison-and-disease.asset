@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: detect-poison-and-disease
+  m_EditorClassIdentifier: 
+  Title: Detect Poison and Disease
+  AsJson: '{"name":"Detect Poison and Disease","source":"PHB","page":231,"srd":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+    yew leaf"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"meta":{"ritual":true},"entries":["For
+    the duration, you can sense the presence and location of poisons, poisonous creatures,
+    and diseases within 30 feet of you. You also identify the kind of poison, poisonous
+    creature, or disease in each case.","The spell can penetrate most barriers, but
+    it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead,
+    or 3 feet of wood or dirt."]}'
+  DataHash: 38cac64ac4ecccf67dc573b074f73566

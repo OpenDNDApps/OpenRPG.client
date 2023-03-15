@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: snilloc-s-snowball-swarm
+  m_EditorClassIdentifier: 
+  Title: Snilloc's Snowball Swarm
+  AsJson: '{"name":"Snilloc''s Snowball Swarm","source":"XGE","page":165,"otherSources":[{"source":"EEPC","page":22}],"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":"a
+    piece of ice or a small white rock chip"},"duration":[{"type":"instant"}],"entries":["A
+    flurry of magic snowballs erupts from a point you choose within range. Each creature
+    in a 5-foot-radius sphere centered on that point must make a Dexterity saving
+    throw. A creature takes {@damage 3d6} cold damage on a failed save, or half as
+    much damage on a successful one."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, the damage increases by {@scaledamage 3d6|2-9|1d6} for each
+    slot level above 2nd."]}],"damageInflict":["cold"],"savingThrow":["dexterity"],"areaTags":["S"]}'
+  DataHash: 96623d88c087c784bc82af12d9b70b17

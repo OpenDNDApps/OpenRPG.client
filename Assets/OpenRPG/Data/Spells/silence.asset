@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: silence
+  m_EditorClassIdentifier: 
+  Title: Silence
+  AsJson: '{"name":"Silence","source":"PHB","page":275,"srd":true,"basicRules":true,"level":2,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"meta":{"ritual":true},"entries":["For
+    the duration, no sound can be created within or pass through a 20-foot-radius
+    sphere centered on a point you choose within range. Any creature or object entirely
+    inside the sphere is immune to thunder damage, and creatures are {@condition
+    deafened} while entirely inside it. Casting a spell that includes a verbal component
+    is impossible there."],"conditionInflict":["deafened"],"miscTags":["OBJ"],"areaTags":["S"]}'
+  DataHash: dc931269909434f2dc09667326e1b2cb

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: quiver-of-ehlonna
+  m_EditorClassIdentifier: 
+  Title: Quiver of Ehlonna
+  AsJson: '{"name":"Quiver of Ehlonna","source":"DMG","page":189,"srd":"Efficient
+    Quiver","tier":"major","rarity":"uncommon","wondrous":true,"weight":2,"entries":["Each
+    of the quiver''s three compartments connects to an extradimensional space that
+    allows the quiver to hold numerous items while never weighing more than 2 pounds.
+    The shortest compartment can hold up to sixty {@item arrow|phb|arrows}, {@item
+    crossbow bolt|phb|bolts}, or similar objects. The midsize compartment holds up
+    to eighteen {@item javelin|phb|javelins} or similar objects. The longest compartment
+    holds up to six long objects, such as bows, {@item quarterstaff|phb|quarterstaffs},
+    or {@item spear|phb|spears}.","You can draw any item the quiver contains as if
+    doing so from a regular quiver or scabbard."],"containerCapacity":{"item":[{"crossbow
+    bolt|phb":60,"arrow|phb":60},{"javelin|phb":18},{"quarterstaff|phb":6,"spear|phb":6}],"weightless":true},"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 30ed256026cfab1b41b0c4f03fef4a06

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: silver-plated-steel-longsword-with-jet-set-in-hilt
+  m_EditorClassIdentifier: 
+  Title: Silver-plated steel longsword with jet set in hilt
+  AsJson: '{"name":"Silver-plated steel longsword with jet set in hilt","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+  DataHash: a5074eb1304975ed7e6fd8009a1d9aa1

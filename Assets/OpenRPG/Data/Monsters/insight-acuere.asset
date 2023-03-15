@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: insight-acuere
+  m_EditorClassIdentifier: 
+  Title: Insight Acuere
+  AsJson: '{"name":"Insight Acuere","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":126,"size":["M"],"type":{"type":"humanoid","tags":["wizard"]},"alignment":["L","G"],"ac":[12],"hp":{"average":82,"formula":"15d8
+    + 15"},"speed":{"walk":30},"str":10,"dex":14,"con":13,"int":18,"wis":16,"cha":14,"save":{"int":"+7","wis":"+6"},"skill":{"arcana":"+7","history":"+7","insight":"+6","perception":"+6"},"senses":["darkvision
+    60 ft."],"passive":16,"resist":["fire"],"languages":["Aquan","Common","Infernal","Orc"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["Insight
+    casts one of the following spells, requiring no material components and using
+    Intelligence as the spellcasting ability (spell save {@dc 15}):"],"will":["{@spell
+    alter self}","{@spell light}","{@spell mage hand}"],"daily":{"1e":["{@spell comprehend
+    languages}","{@spell mage armor}","{@spell zone of truth}"]},"ability":"int","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["Insight
+    makes two Arcane Shock or Dagger of the Poisoned Mind attacks."]},{"name":"Arcane
+    Shock","entries":["{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 60 ft.,
+    one target. {@h}26 ({@damage 4d10 + 4}) lightning damage. If the target is a
+    creature, it can''t take reactions until the start of its next turn."]},{"name":"Dagger
+    of the Poisoned Mind","entries":["{@atk mw,rw} {@hit 7} to hit, reach 5 ft. or
+    range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage plus 10
+    ({@damage 3d6}) psychic damage. If the target is a creature, it must succeed
+    on a {@dc 15} Wisdom saving throw or be {@condition frightened} until the end
+    of its next turn."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AQ","C","I","O"],"damageTags":["L","P","Y"],"damageTagsSpell":["B","P","S"],"spellcastingTags":["O"],"miscTags":["MW","RW","THW"],"conditionInflict":["frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ae71c81fa477dc3a55f4c9377844119d

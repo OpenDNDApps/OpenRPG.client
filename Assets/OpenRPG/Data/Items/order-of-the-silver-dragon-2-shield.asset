@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: order-of-the-silver-dragon-2-shield
+  m_EditorClassIdentifier: 
+  Title: Order of the Silver Dragon +2 Shield
+  AsJson: '{"name":"Order of the Silver Dragon +2 Shield","source":"CoS","page":68,"type":"S","tier":"major","rarity":"rare","weight":6,"ac":2,"bonusAc":"+2","entries":["While
+    holding this shield, you have a +2 bonus to AC. This bonus is in addition to
+    the shield''s normal bonus to AC.","The shield is emblazoned with a stylized
+    silver dragon that is the emblem of the Order of the Silver Dragon (see {@adventure
+    {@i Curse of Strahd}, chapter 7|CoS|7|The Order of the Silver Dragon}). The shield
+    whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer
+    isn''t {@condition incapacitated}.","A shield is made from wood or metal and
+    is carried in one hand. Wielding a shield increases your Armor Class by 2. You
+    can benefit from only one shield at a time."]}'
+  DataHash: b5ef2f5ce999fedb754093eb399768f4

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: efreeti-chain
+  m_EditorClassIdentifier: 
+  Title: Efreeti Chain
+  AsJson: '{"name":"Efreeti Chain","source":"DMG","page":167,"type":"HA","immune":["fire"],"tier":"major","rarity":"legendary","reqAttune":true,"weight":55,"ac":16,"strength":"13","bonusAc":"+3","stealth":true,"entries":["While
+    wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage,
+    and you can understand and speak Primordial. In addition, you can stand on and
+    walk across molten rock as if it were solid ground."],"lootTables":["Magic Item
+    Table I"],"hasFluffImages":true}'
+  DataHash: aa1f76c8b3ab4adf566a7cddb7802b05

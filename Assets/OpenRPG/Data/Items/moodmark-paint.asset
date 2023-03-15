@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: moodmark-paint
+  m_EditorClassIdentifier: 
+  Title: Moodmark Paint
+  AsJson: '{"name":"Moodmark Paint","source":"GGR","page":180,"rarity":"common","wondrous":true,"entries":["This
+    thick, black paint is stored in a small jar, containing enough paint to apply
+    moodmarks to one creature. The paint is dabbed on the face in spots or markings
+    that often resemble the eyes of insects or spiders. Applying the paint in this
+    way takes 1 minute.","For the next 8 hours, the marks change to reflect your
+    mental state. A creature that can see you and makes a successful DC 10 Wisdom
+    ({@skill Insight}) check can discern whether you are happy, sad, angry, disgusted,
+    surprised, or afraid, as well as the main source of that emotion. For example,
+    you might communicate fear caused by a monster you just saw around the corner,
+    grief at the loss of a friend, or happiness derived from pride in your performance
+    in combat. A dark elf has advantage on this check."],"hasFluffImages":true}'
+  DataHash: c9cd77479c2c3b2ce60370d95a25b7bd

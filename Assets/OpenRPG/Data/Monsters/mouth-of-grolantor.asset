@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mouth-of-grolantor
+  m_EditorClassIdentifier: 
+  Title: Mouth of Grolantor
+  AsJson: "{\"name\":\"Mouth of Grolantor\",\"source\":\"VGM\",\"page\":149,\"reprintedAs\":[\"Mouth
+    of Grolantor|MPMM\"],\"size\":[\"H\"],\"type\":{\"type\":\"giant\",\"tags\":[\"hill
+    giant\"]},\"alignment\":[\"C\",\"E\"],\"ac\":[{\"ac\":14,\"from\":[\"natural
+    armor\"]}],\"hp\":{\"average\":105,\"formula\":\"10d12 + 40\"},\"speed\":{\"walk\":50},\"str\":21,\"dex\":10,\"con\":18,\"int\":5,\"wis\":7,\"cha\":5,\"skill\":{\"perception\":\"+1\"},\"passive\":11,\"conditionImmune\":[\"frightened\"],\"languages\":[\"Giant\"],\"cr\":\"6\",\"trait\":[{\"name\":\"Mouth
+    of Madness\",\"entries\":[\"The giant is immune to {@spell confusion} spells
+    and similar magic.\",\"On each of its turns, the giant uses all its movement
+    to move toward the nearest creature or whatever else it might perceive as food.
+    Roll a {@dice d10} at the start of each of the giant's turns to determine its
+    action for that turn:\",\"1\u20133. The giant makes three attacks with its fists
+    against one random target within its reach. If no other creatures are within
+    its reach, the giant flies into a rage and gains advantage on all attack rolls
+    until the end of its next turn.\",\"4\u20135. The giant makes one attack with
+    its fist against every creature within its reach. If no other creatures are within
+    its reach, the giant makes one fist attack against itself.\",\"6\u20137. The
+    giant makes one attack with its bite against one random target within its reach.
+    If no other creatures are within its reach, its eyes glaze over and it becomes
+    {@condition stunned} until the start of its next turn.\",\"8\u201310. The giant
+    makes three attacks against one random target within its reach: one attack with
+    its bite and two with its fists. If no other creatures are within its reach,
+    the giant flies into a rage and gains advantage on all attack rolls until the
+    end of its next turn.\"]}],\"action\":[{\"name\":\"Bite\",\"entries\":[\"{@atk
+    mw} {@hit 8} to hit, reach 5 ft., one creature. {@h}15 ({@damage 3d6 + 5}) piercing
+    damage, and the giant magically regains hit points equal to the damage dealt.\"]},{\"name\":\"Fist\",\"entries\":[\"{@atk
+    mw} {@hit 8} to hit, reach 10 ft., one target. {@h}18 ({@damage 3d8 + 5}) bludgeoning
+    damage.\"]}],\"environment\":[\"grassland\",\"hill\"],\"soundClip\":{\"type\":\"internal\",\"path\":\"bestiary/mouth-of-grolantor.mp3\"},\"languageTags\":[\"GI\"],\"damageTags\":[\"B\",\"P\"],\"miscTags\":[\"MW\",\"RCH\"],\"hasToken\":true,\"hasFluff\":true,\"hasFluffImages\":true}"
+  DataHash: 40f38566bd9c860e7ab186793f51cdb2

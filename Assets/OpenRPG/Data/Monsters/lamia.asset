@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lamia
+  m_EditorClassIdentifier: 
+  Title: Lamia
+  AsJson: '{"name":"Lamia","source":"MM","page":201,"srd":true,"otherSources":[{"source":"GoS"},{"source":"MOT"},{"source":"CM"},{"source":"WBtW"}],"size":["L"],"type":"monstrosity","alignment":["C","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":97,"formula":"13d10 + 26"},"speed":{"walk":30},"str":16,"dex":13,"con":15,"int":14,"wis":15,"cha":16,"skill":{"deception":"+7","insight":"+4","stealth":"+3"},"senses":["darkvision
+    60 ft."],"passive":12,"languages":["Abyssal","Common"],"cr":"4","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The lamia''s innate spellcasting ability is Charisma
+    (spell save {@dc 13}). It can innately cast the following spells, requiring no
+    material components."],"will":["{@spell disguise self} (any humanoid form)","{@spell
+    major image}"],"daily":{"1":["{@spell geas}"],"3e":["{@spell charm person}","{@spell
+    mirror image}","{@spell scrying}","{@spell suggestion}"]},"ability":"cha"}],"action":[{"name":"Multiattack","entries":["The
+    lamia makes two attacks: one with its claws and one with its dagger or Intoxicating
+    Touch."]},{"name":"Claws","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft.,
+    one target. {@h}14 ({@damage 2d10 + 3}) slashing damage."]},{"name":"Dagger","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing
+    damage."]},{"name":"Intoxicating Touch","entries":["{@atk ms} {@hit 5} to hit,
+    reach 5 ft., one creature. {@h}The target is magically cursed for 1 hour. Until
+    the curse ends, the target has disadvantage on Wisdom saving throws and all ability
+    checks."]}],"environment":["desert"],"soundClip":{"type":"internal","path":"bestiary/lamia.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C"],"damageTags":["P","S"],"damageTagsSpell":["Y"],"spellcastingTags":["I"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ce246d7d21244ae76e1160a6e67f92eb

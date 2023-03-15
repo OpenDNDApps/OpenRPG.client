@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: iron-defender
+  m_EditorClassIdentifier: 
+  Title: Iron Defender
+  AsJson: '{"name":"Iron Defender","source":"UAArtificerRevisited","page":11,"size":["M"],"type":"construct","alignment":["N"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"special":"equal to five times your level in this class + your
+    Intelligence modifier + the iron defender''s Constitution modifier"},"speed":{"walk":40},"str":14,"dex":12,"con":14,"int":4,"wis":10,"cha":6,"skill":{"perception":"+4"},"senses":["darkvision
+    60 ft."],"passive":10,"immune":["poison"],"conditionImmune":["charmed","exhaustion","poisoned"],"languages":["understands
+    the languages you speak"],"trait":[{"name":"Might of the Master","entries":["The
+    following numbers increase by 1 when your proficiency bonus increases by 1: the
+    iron defender''s skill bonuses, the bonuses to hit and damage of its bite, and
+    the number of hit points restored by its Repair action."]},{"name":"Vigilant","entries":["The
+    iron defender can''t be {@quickref Surprise|PHB|3|0|surprised}."]}],"actionNote":"Requires
+    Your Bonus Action","action":[{"name":"Bite","entries":["{@atk mw} {@hit 4} to
+    hit, reach 5 ft., one target you can see. {@h}{@damage 1d8 + 2} piercing damage."]},{"name":"Repair
+    (3/Day)","entries":["The magical mechanisms inside the iron defender restore
+    {@dice 2d8 + 2} hit points to itself or to one construct or object within 5 feet
+    of it."]}],"reaction":[{"name":"Defensive Pounce","entries":["The iron defender
+    imposes disadvantage on the attack roll of one creature it can see that is within
+    5 feet of it, provided the attack roll is against a creature other than the iron
+    defender."]}],"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 04333a56c5c6838aeed0315bad6f85ac

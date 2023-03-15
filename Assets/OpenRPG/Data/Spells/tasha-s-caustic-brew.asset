@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: tasha-s-caustic-brew
+  m_EditorClassIdentifier: 
+  Title: Tasha's Caustic Brew
+  AsJson: '{"name":"Tasha''s Caustic Brew","source":"TCE","page":115,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"line","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    bit of rotten food"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    stream of acid emanates from you in a line 30 feet long and 5 feet wide in a
+    direction you choose. Each creature in the line must succeed on a Dexterity saving
+    throw or be covered in acid for the spell''s duration or until a creature uses
+    its action to scrape or wash the acid off itself or another creature. A creature
+    covered in the acid takes {@damage 2d4} acid damage at start of each of its turns."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the damage increases by {@scaledamage 2d4|1-9|2d4} for each
+    slot level above 1st."]}],"damageInflict":["acid"],"savingThrow":["dexterity"]}'
+  DataHash: c61efdf747d264e674ad55500b5fb2c5

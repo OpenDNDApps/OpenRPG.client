@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: winged-boots
+  m_EditorClassIdentifier: 
+  Title: Winged Boots
+  AsJson: '{"name":"Winged Boots","source":"DMG","page":214,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"modifySpeed":{"equal":{"fly":"walk"}},"entries":["While
+    you wear these boots, you have a flying speed equal to your walking speed. You
+    can use the boots to fly for up to 4 hours, all at once or in several shorter
+    flights, each one using a minimum of 1 minute from the duration. If you are flying
+    when the duration expires, you descend at a rate of 30 feet per round until you
+    land.","The boots regain 2 hours of flying capability for every 12 hours they
+    aren''t in use."],"optionalfeatures":["replicate magic item|tce","replicate magic
+    item|uaartificerrevisited"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+  DataHash: 45c09ab081fca84c123f558375a0a1b0

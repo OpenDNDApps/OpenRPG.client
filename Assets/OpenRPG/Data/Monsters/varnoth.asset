@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: varnoth
+  m_EditorClassIdentifier: 
+  Title: Varnoth
+  AsJson: '{"name":"Varnoth","isNpc":true,"isNamedCreature":true,"source":"DoSI","page":47,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[11],"hp":{"average":39,"formula":"6d8
+    + 12"},"speed":{"walk":30},"str":16,"dex":13,"con":14,"int":10,"wis":11,"cha":10,"skill":{"athletics":"+5","history":"+2","perception":"+2","religion":"+2"},"passive":12,"languages":["Common"],"cr":"2","action":[{"name":"Multiattack","entries":["Varnoth
+    makes three Shortsword attacks."]},{"name":"Shortsword","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing
+    damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: d9ee2c69efb6ad18a735d2fe58e6d0a6

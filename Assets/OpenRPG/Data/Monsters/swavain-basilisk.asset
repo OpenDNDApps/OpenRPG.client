@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: swavain-basilisk
+  m_EditorClassIdentifier: 
+  Title: Swavain Basilisk
+  AsJson: '{"name":"Swavain Basilisk","source":"EGW","page":300,"size":["H"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":85,"formula":"10d12 + 20"},"speed":{"walk":15,"swim":40},"str":15,"dex":16,"con":15,"int":2,"wis":8,"cha":7,"senses":["darkvision
+    60 ft."],"passive":9,"immune":["poison"],"conditionImmune":["poisoned"],"cr":"7","trait":[{"name":"Amphibious","entries":["The
+    basilisk can breathe air and water."]},{"name":"Petrifying Secretions","entries":["A
+    creature must make a {@dc 13} Constitution saving throw if it hits the basilisk
+    with a weapon attack while within 5 feet of it or if it starts its turn {@condition
+    grappled} by the basilisk. Unless the save succeeds, the creature magically begins
+    to turn to stone and is {@condition restrained}, and it must repeat the saving
+    throw at the end of its next turn. On a successful save, the effect ends. On
+    a failure, the creature is {@condition petrified}."]}],"action":[{"name":"Multiattack","entries":["The
+    basilisk makes two attacks: one with its bite and one with its tail."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one creature. {@h}13 ({@damage 3d6 + 3}) piercing
+    damage plus 10 ({@damage 3d6}) poison damage."]},{"name":"Tail","entries":["{@atk
+    mw} {@hit 6} to hit, reach 15 ft., one target. {@h}14 ({@damage 2d10 + 3}) bludgeoning
+    damage. If the target is a Large or smaller creature, it is {@condition grappled}
+    (escape {@dc 12})."]}],"traitTags":["Amphibious"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["B","I","P"],"miscTags":["MW","RCH"],"conditionInflict":["grappled","petrified","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 078f64f156e1b44cf58467c81501d69d

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: slumbering-dragon-vessel
+  m_EditorClassIdentifier: 
+  Title: Slumbering Dragon Vessel
+  AsJson: '{"name":"Slumbering Dragon Vessel","source":"FTD","page":27,"rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["This
+    vessel can be a potion bottle, drinking horn, or other container meant to hold
+    a liquid.","As a bonus action, if the vessel is empty, you can speak the command
+    word to fill the vessel with one of the following (your choice): ale, olive oil,
+    a {@item potion of healing}, or a {@item potion of climbing}. Once this property
+    is used, it can''t be used until the next dawn. A potion you create in this way
+    loses its magical properties if it isn''t imbibed within 24 hours."]}'
+  DataHash: f5139a96dd5a63fa7798ef21a1402bbc

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: silver-necklace-with-an-amber-pendant-sun-empire
+  m_EditorClassIdentifier: 
+  Title: Silver necklace with an amber pendant (Sun Empire)
+  AsJson: '{"name":"Silver necklace with an amber pendant (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+  DataHash: b63df9f3c2c5889699911f328dc0c1a5

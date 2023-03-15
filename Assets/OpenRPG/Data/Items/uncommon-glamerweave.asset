@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: uncommon-glamerweave
+  m_EditorClassIdentifier: 
+  Title: Uncommon Glamerweave
+  AsJson: '{"name":"Uncommon Glamerweave","source":"ERLW","page":277,"rarity":"uncommon","wondrous":true,"entries":["Glamerweave
+    is clothing imbued with harmless illusory magic. While wearing these clothes,
+    you can use a bonus action to create a moving illusory pattern within the cloth.
+    Alternatively, you can have the pattern rise from the cloth. For example, a glamerweave
+    gown might be wreathed in harmless, illusory flames, while a glamerweave hat
+    might have illusory butterflies fluttering around it.","When you make a Charisma
+    ({@skill Performance}) or Charisma ({@skill Persuasion}) check while wearing
+    the glamerweave, you can roll a {@dice d4} and add the number rolled to the check.
+    Once you use this property, it can''t be used again until the next dawn."]}'
+  DataHash: b523cdc318c3436830aeee4cdde92084

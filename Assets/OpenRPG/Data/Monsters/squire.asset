@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: squire
+  m_EditorClassIdentifier: 
+  Title: Squire
+  AsJson: '{"name":"Squire","source":"HoL","page":201,"size":["M"],"type":"humanoid","ac":[{"ac":12,"from":["{@item
+    shield|PHB}"]}],"hp":{"average":11,"formula":"2d8 + 2"},"speed":{"walk":30},"str":13,"dex":10,"con":12,"int":8,"wis":11,"cha":9,"save":{"str":"+3"},"skill":{"athletics":"+3"},"passive":10,"languages":["any
+    one language (usually Common)"],"pbNote":"+2","action":[{"name":"Longsword","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing
+    damage, or 6 ({@damage 1d10 + 1}) slashing damage if used with two hands."]}],"bonus":[{"name":"Shove","entries":["While
+    wielding a shield, you try to shove one creature within 5 feet of you."]}],"languageTags":["C","X"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 0b05833c078a18dcedd0302b322fe551

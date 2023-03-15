@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: spy
+  m_EditorClassIdentifier: 
+  Title: Spy
+  AsJson: '{"name":"Spy","source":"MM","page":349,"srd":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["A"],"ac":[12],"hp":{"average":27,"formula":"6d8"},"speed":{"walk":30},"str":10,"dex":15,"con":10,"int":12,"wis":14,"cha":16,"skill":{"deception":"+5","insight":"+4","investigation":"+5","perception":"+6","persuasion":"+5","sleight
+    of hand":"+4","stealth":"+4"},"passive":16,"languages":["any two languages"],"cr":"1","trait":[{"name":"Cunning
+    Action","entries":["On each of its turns, the spy can use a bonus action to take
+    the Dash, Disengage, or Hide action."]},{"name":"Sneak Attack (1/Turn)","entries":["The
+    spy deals an extra 7 ({@dice 2d6}) damage when it hits a target with a weapon
+    attack and has advantage on the attack roll, or when the target is within 5 feet
+    of an ally of the spy that isn''t {@condition incapacitated} and the spy doesn''t
+    have disadvantage on the attack roll."]}],"action":[{"name":"Multiattack","entries":["The
+    spy makes two melee attacks."]},{"name":"Shortsword","entries":["{@atk mw} {@hit
+    4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]},{"name":"Hand
+    Crossbow","entries":["{@atk rw} {@hit 4} to hit, range 30/120 ft., one target.
+    {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/spy.mp3"},"traitTags":["Sneak
+    Attack"],"actionTags":["Multiattack"],"languageTags":["X"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 9a9f4a1b6975ecd93c697b8f6505cc18

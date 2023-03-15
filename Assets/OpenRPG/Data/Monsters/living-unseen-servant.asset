@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: living-unseen-servant
+  m_EditorClassIdentifier: 
+  Title: Living Unseen Servant
+  AsJson: '{"name":"Living Unseen Servant","source":"WDMM","page":313,"size":["M"],"type":"construct","alignment":["U"],"ac":[10],"hp":{"average":4,"formula":"1d8"},"speed":{"walk":30},"str":2,"dex":10,"con":11,"int":1,"wis":10,"cha":1,"skill":{"perception":"+2","stealth":"+4"},"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"passive":12,"immune":["poison"],"conditionImmune":["exhaustion","paralyzed","petrified","poisoned","unconscious"],"languages":["understands
+    one language (usually Common) but can''t speak"],"cr":"0","trait":[{"name":"Invisibility","entries":["The
+    unseen servant is {@condition invisible}."]}],"action":[{"name":"Slam","entries":["{@atk
+    mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."]}],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["invisible"],"hasToken":true,"hasFluff":true}'
+  DataHash: 5364593bb079b85cf788d683b9e7e0f6

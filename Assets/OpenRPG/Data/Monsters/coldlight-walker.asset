@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: coldlight-walker
+  m_EditorClassIdentifier: 
+  Title: Coldlight Walker
+  AsJson: '{"name":"Coldlight Walker","source":"IDRotF","page":284,"size":["M"],"type":"undead","alignment":["C","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":82,"formula":"11d8 + 33"},"speed":{"walk":30},"str":15,"dex":10,"con":17,"int":8,"wis":10,"cha":8,"save":{"int":"+2","wis":"+3"},"senses":["darkvision
+    60 ft."],"passive":10,"immune":["cold"],"conditionImmune":["blinded","charmed","exhaustion","paralyzed","petrified","poisoned"],"cr":"5","trait":[{"name":"Blinding
+    Light","entries":["The walker sheds bright light in a 20-foot radius and dim
+    light for an additional 20 feet. As a bonus action, the walker can target one
+    creature in its bright light that it can see and force it to succeed on a {@dc
+    14} Constitution saving throw or be {@condition blinded} until the start of the
+    walker''s next turn."]},{"name":"Icy Doom","entries":["Any creature killed by
+    the walker freezes for 9 days, during which time it can''t be thawed, harmed
+    by fire, animated, or raised from the dead."]},{"name":"Unusual Nature","entries":["The
+    walker doesn''t require air, food, drink, or sleep."]}],"action":[{"name":"Multiattack","entries":["The
+    walker makes two attacks."]},{"name":"Slam","entries":["{@atk mw} {@hit 5} to
+    hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) bludgeoning damage plus
+    14 ({@damage 4d6}) cold damage."]},{"name":"Cold Ray","entries":["{@atk rs} {@hit
+    3} to hit, range 60 ft., one target. {@h}25 ({@damage 4d10 + 3}) cold damage."]}],"traitTags":["Unusual
+    Nature"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["B","C"],"miscTags":["AOE","MW"],"conditionInflict":["blinded"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 1681b66ff514a0efd4630d5701f3c6a4

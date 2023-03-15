@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: yellow-musk-zombie
+  m_EditorClassIdentifier: 
+  Title: Yellow Musk Zombie
+  AsJson: '{"name":"Yellow Musk Zombie","source":"ToA","page":237,"size":["M"],"type":"undead","alignment":["U"],"ac":[9],"hp":{"average":33,"formula":"6d8
+    + 6"},"speed":{"walk":20},"str":13,"dex":9,"con":12,"int":1,"wis":6,"cha":3,"senses":["blindsight
+    30 ft."],"passive":8,"conditionImmune":["charmed","exhaustion"],"cr":"1/4","trait":[{"name":"Undead
+    Fortitude","entries":["If damage reduces the zombie to 0 hit points, it must
+    make a Constitution saving throw with a DC of 5 +the damage taken, unless the
+    damage is fire or from a critical hit. On a success, the zombie drops to 1 hit
+    point instead."]}],"action":[{"name":"Slam","entries":["{@atk mw} {@hit 3} to
+    hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) bludgeoning damage."]}],"traitTags":["Undead
+    Fortitude"],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 7fecd13cae4b57506ca09851ddf5519c

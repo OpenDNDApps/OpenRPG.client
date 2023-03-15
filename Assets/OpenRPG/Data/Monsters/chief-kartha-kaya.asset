@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: chief-kartha-kaya
+  m_EditorClassIdentifier: 
+  Title: Chief Kartha-Kaya
+  AsJson: '{"name":"Chief Kartha-Kaya","isNpc":true,"source":"SKT","page":173,"_copy":{"name":"Yakfolk
+    Warrior","source":"SKT","_mod":{"*":{"mode":"replaceTxt","replace":"the yakfolk","with":"Chief
+    Kartha","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Chief
+    Kartha makes two attacks, either with his flame tongue greatsword or his longbow."]}},{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Flame
+    Tongue Greatsword","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft., one target.
+    {@h}18 ({@damage 4d6 + 4}) slashing damage plus 7 ({@damage 2d6}) fire damage."]}}]}},"hp":{"average":70,"formula":"8d10
+    + 16"},"cr":"4","damageTags":["F","P","S"],"hasToken":true}'
+  DataHash: c65301006aab506946810896973787d6

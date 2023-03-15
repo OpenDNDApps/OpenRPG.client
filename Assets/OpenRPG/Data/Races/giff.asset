@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
+  m_Name: giff
+  m_EditorClassIdentifier: 
+  Title: Giff
+  AsJson: '{"name":"Giff","source":"UA2021TravelersOfTheMultiverse","page":2,"lineage":"VRGR","size":["M"],"speed":{"walk":30,"swim":true},"traitTags":["Powerful
+    Build"],"entries":[{"type":"entries","name":"Damage Dealer","entries":["Like
+    a hippopotamus in a crystalware shop, you are naturally adept at damaging things.
+    When you roll a 1 on a damage die for a melee attack, you can reroll the die
+    and use the new roll. You can do so no more than once per turn."]},{"type":"entries","name":"Hippo
+    Build","entries":["You have advantage on Strength-based ability checks and Strength
+    saving throws. In addition, you count as one size larger when determining your
+    carrying capacity and the weight you can push, drag, or lift."]}],"hasFluff":true}'
+  DataHash: d94d52645584351597df88298e3bf974

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: flying-trident
+  m_EditorClassIdentifier: 
+  Title: Flying Trident
+  AsJson: '{"name":"Flying Trident","source":"WDMM","page":106,"_copy":{"name":"Flying
+    Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"trident","flags":"i"},"action":{"mode":"replaceArr","replace":"Longsword","items":{"name":"Trident","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing
+    damage."]}}}},"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: e8061e479100096e4bb534f6c58c3acc

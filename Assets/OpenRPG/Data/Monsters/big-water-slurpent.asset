@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: big-water-slurpent
+  m_EditorClassIdentifier: 
+  Title: Big Water Slurpent
+  AsJson: '{"name":"Big Water Slurpent","isNpc":true,"isNamedCreature":true,"source":"AWM","page":29,"size":["L"],"type":"elemental","alignment":["N"],"ac":[13],"hp":{"special":"58"},"speed":{"walk":0,"swim":60},"str":17,"dex":16,"con":13,"int":11,"wis":10,"cha":10,"passive":0,"cr":"3","trait":[{"name":"Invisible
+    in Water","entries":["The big water slurpent is {@condition invisible} while
+    fully immersed in water."]},{"name":"Water Bound","entries":["The big water slurpent
+    dies if it leaves the water to which it is bound or if that water is destroyed."]}],"action":[{"name":"Constrict","entries":["{@atk
+    mw} {@hit 5} to hit, one target. {@h}13 ({@damage 3d6+3}) bludgeoning damage.
+    If the target is Medium or smaller, it is {@condition grappled} (escape {@dc
+    13}) and pulled 5 feet toward the big water slurpent. Until this grapple ends,
+    the target is {@condition restrained}, the big water slurpent tries to drown
+    it, and the big water slurpent can''t constrict another target."]}],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["grappled","invisible","restrained"],"hasToken":true,"hasFluff":true}'
+  DataHash: 0484d104d2a3da95b7e523580984995e

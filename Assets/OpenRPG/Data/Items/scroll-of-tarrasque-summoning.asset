@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: scroll-of-tarrasque-summoning
+  m_EditorClassIdentifier: 
+  Title: Scroll of Tarrasque Summoning
+  AsJson: '{"name":"Scroll of Tarrasque Summoning","source":"IDRotF","page":315,"type":"SC","rarity":"legendary","entries":["Using
+    an action to read the scroll causes the {@creature tarrasque} (see the creature''s
+    entry in the Monster Manual) to appear in an unoccupied space you can see within
+    1 mile of you. The tarrasque disappears when it drops to 0 hit points and is
+    hostile toward all creatures other than itself."]}'
+  DataHash: add62793a3e5c10a9b1468427004e3f6

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: vampire-neonate
+  m_EditorClassIdentifier: 
+  Title: Vampire Neonate
+  AsJson: "{\"name\":\"Vampire Neonate\",\"source\":\"PSI\",\"page\":17,\"size\":[\"M\"],\"type\":\"undead\",\"alignment\":[\"N\",\"E\"],\"ac\":[{\"ac\":15,\"from\":[\"natural
+    armor\"]}],\"hp\":{\"average\":82,\"formula\":\"11d8 + 33\"},\"speed\":{\"walk\":30},\"str\":16,\"dex\":16,\"con\":16,\"int\":11,\"wis\":10,\"cha\":12,\"save\":{\"dex\":\"+6\",\"wis\":\"+3\"},\"skill\":{\"perception\":\"+3\",\"stealth\":\"+6\"},\"senses\":[\"darkvision
+    60 ft.\"],\"passive\":13,\"resist\":[\"necrotic\",{\"resist\":[\"bludgeoning\",\"piercing\",\"slashing\"],\"note\":\"from
+    nonmagical attacks not made with living wood weapons\",\"cond\":true}],\"languages\":[\"Common\"],\"cr\":\"5\",\"trait\":[{\"name\":\"Regeneration\",\"entries\":[\"The
+    vampire regains 10 hit points at the start of its turn if it has at least 1 hit
+    point. If the vampire takes radiant damage or damage from holy water, this trait
+    doesn't function at the start of the vampire's next turn.\"]}],\"action\":[{\"name\":\"Multiattack\",\"entries\":[\"The
+    vampire makes two attacks, only one of which can be a bite attack.\"]},{\"name\":\"Claws\",\"entries\":[\"{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one creature. {@h}8 ({@damage 2d4 + 3}) slashing
+    damage. Instead of dealing damage, the vampire can grapple the target (escape
+    {@dc 13}).\"]},{\"name\":\"Bite\",\"entries\":[\"{@atk mw} {@hit 6} to hit, reach
+    5 ft., one willing creature, or a creature that is {@condition grappled} by the
+    vampire, {@condition incapacitated}, or {@condition restrained}. {@h}6 ({@damage
+    1d6 + 3}) piercing damage plus 7 ({@damage 2d6}) necrotic damage. The target's
+    hit point maximum is reduced by an amount equal to the necrotic damage taken,
+    and the vampire regains hit points equal to that amount. The reduction lasts
+    until the target finishes a long rest. The target dies if this effect reduces
+    its hit point maximum to 0.\"]},{\"name\":\"Vampiric Glamer\",\"entries\":[\"The
+    vampire obscures its form with mind-affecting magic that makes others perceive
+    it as a beautiful human of the same size and shape. The illusion ends if the
+    vampire takes a bonus action to end it or if the vampire dies. A creature that
+    can see the vampire can take an action to visually inspect it, ending the mental
+    effect on itself and seeing the vampire's true form with a successful {@dc 20}
+    Wisdom (Perception) check.\"]},{\"name\":\"Aura of Silence\",\"entries\":[\"The
+    vampire shrouds itself in a cloak of silence to a radius of 2 feet. Within that
+    radius, the effect is the same as the {@spell silence} spell.\"]}],\"variant\":[{\"type\":\"variant\",\"name\":\"Elder
+    Vampires\",\"entries\":[\"The basic vampire statistics represent a \\\"neonate\\\"\u2014a
+    newly spawned vampire. Older vampires can learn powerful magic of many different
+    kinds, and might have any of the following traits and abilities.\",{\"type\":\"entries\",\"name\":\"Shapechanger\",\"entries\":[\"The
+    vampire has the Shapechanger trait of the {@creature vampire} in the Monster
+    Manual, as well as the shapechanger tag. Some vampires can turn into bat form,
+    some can assume mist form, and a few can choose either form.\"]},{\"type\":\"entries\",\"name\":\"Charm\",\"entries\":[\"The
+    vampire has the Charm action of the {@creature vampire} in the Monster Manual.\"]},{\"type\":\"entries\",\"name\":\"Flight\",\"entries\":[\"The
+    vampire has a flying speed of 30 feet.\"]},{\"type\":\"entries\",\"name\":\"Gorger\",\"entries\":[\"The
+    vampire has advantage on melee attack rolls, but attack rolls against it have
+    advantage.\"]},{\"type\":\"entries\",\"name\":\"Spellcasting\",\"entries\":[\"The
+    vampire has the spellcasting abilities of a wizard or cleric.\"]}]}],\"traitTags\":[\"Regeneration\"],\"senseTags\":[\"D\"],\"actionTags\":[\"Multiattack\"],\"languageTags\":[\"C\"],\"damageTags\":[\"N\",\"P\",\"S\"],\"miscTags\":[\"HPR\",\"MW\"],\"hasToken\":true}"
+  DataHash: f00466f352c9f4bd53a7f44a6df4da52

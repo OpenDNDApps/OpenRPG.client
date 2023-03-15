@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: eldritch-claw-tattoo
+  m_EditorClassIdentifier: 
+  Title: Eldritch Claw Tattoo
+  AsJson: '{"name":"Eldritch Claw Tattoo","source":"UA2020SpellsAndMagicTattoos","page":9,"rarity":"uncommon","reqAttune":true,"wondrous":true,"tattoo":true,"bonusWeapon":"+1","entries":["This
+    tattoo depicts clawlike forms and other jagged shapes. While the tattoo is on
+    your skin, your unarmed strikes are considered magical for the purpose of overcoming
+    immunity and resistance to nonmagical attacks, and you gain a +1 bonus to attack
+    and damage rolls with unarmed strikes.",{"type":"entries","name":"Eldritch Maul","entries":["As
+    a bonus action, you can empower the tattoo for 1 minute. For the duration, each
+    of your melee weapon attacks can reach a target up to 30 feet away from you,
+    as tendrils of ink launch from your weapon or unarmed strike toward the target.
+    In addition, your melee weapon attacks deal an extra {@damage 1d6} force damage
+    on a hit. Once used, this bonus action can''t be used again until the next dawn."]},{"type":"entries","name":"Tattoo
+    Attunement","entries":["To attune to this item, you hold the needle to your skin
+    where you want the tattoo to appear, pressing the needle there throughout the
+    attunement process. When the attunement is complete, the needle turns into the
+    ink that becomes the tattoo, which appears on the skin. If you have multiple
+    magic tattoos, they count as a single magic item with regard to the number of
+    magic items you can attune to.","If your attunement to the tattoo ends, the tattoo
+    vanishes, and the needle reappears in the closest unoccupied space to you."]}]}'
+  DataHash: ae5d5e91813fe12f0fa7a1e9e03d9ac2

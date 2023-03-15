@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: sunforger
+  m_EditorClassIdentifier: 
+  Title: Sunforger
+  AsJson: '{"name":"Sunforger","source":"GGR","page":181,"baseItem":"warhammer|phb","type":"M","rarity":"rare","reqAttune":true,"weight":2,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"B","dmg2":"1d10","bonusWeapon":"+2","entries":["You
+    gain a +2 bonus to attack and damage rolls made with this magic weapon.","As
+    an action, you can hurl the weapon up to 120 feet to a point you can see. When
+    it reaches that point, the weapon vanishes in an explosion, and each creature
+    in a 20-foot-radius sphere centered on that point must make a DC 15 Dexterity
+    saving throw, taking {@damage 6d6} fire damage on a failed save, or half as much
+    damage on a successful one. Afterward, you can use an action to cause the weapon
+    to reappear in your empty hand. You can''t cause it to explode again until you
+    finish a short or long rest.","If you don''t call the weapon back to your hand,
+    it reappears at the point where it exploded when you are no longer attuned to
+    it or when 24 hours have passed."],"hasFluffImages":true}'
+  DataHash: 23cb7c1d56109f7338305bef8274c11c

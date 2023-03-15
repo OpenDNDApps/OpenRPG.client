@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: fish-suit
+  m_EditorClassIdentifier: 
+  Title: Fish Suit
+  AsJson: '{"name":"Fish Suit","source":"AAG","page":22,"rarity":"very rare","wondrous":true,"entries":["This
+    bulky suit, which fully encases your head and body, takes 1 minute to don or
+    doff. While worn, it enables you to breathe in an airless environment and renders
+    you immune to the harmful effects of any gas that surrounds you. The suit also
+    grants you a swimming speed equal to your walking speed while underwater, or
+    a flying speed equal to your walking speed in an environment with no gravity."],"hasFluffImages":true}'
+  DataHash: 540a5e20c243d8bd52c121fe4283c201

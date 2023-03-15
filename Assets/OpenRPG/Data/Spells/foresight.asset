@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: foresight
+  m_EditorClassIdentifier: 
+  Title: Foresight
+  AsJson: '{"name":"Foresight","source":"PHB","page":244,"srd":true,"basicRules":true,"level":9,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+    hummingbird feather"},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+    touch a willing creature and bestow a limited ability to see into the immediate
+    future. For the duration, the target can''t be {@quickref Surprise|PHB|3|0|surprised}
+    and has advantage on attack rolls, ability checks, and saving throws. Additionally,
+    other creatures have disadvantage on attack rolls against the target for the
+    duration.","This spell immediately ends if you cast it again before its duration
+    ends."],"areaTags":["ST"]}'
+  DataHash: 3d21c7dc2ca7551f5739410f25e8b003

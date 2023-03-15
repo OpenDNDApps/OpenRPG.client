@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mister-witch
+  m_EditorClassIdentifier: 
+  Title: Mister Witch
+  AsJson: '{"name":"Mister Witch","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":25,"size":["M"],"type":{"type":"humanoid","tags":["elf","shadar-kai"]},"alignment":["C","G"],"ac":[10],"hp":{"average":82,"formula":"11d8
+    + 33"},"speed":{"walk":30},"str":14,"dex":11,"con":16,"int":16,"wis":13,"cha":14,"save":{"int":"+5","wis":"+3"},"skill":{"arcana":"+5","deception":"+4","perception":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"resist":["necrotic"],"languages":["Common","Elvish","Sylvan"],"cr":"3","spellcasting":[{"name":"Spellcasting","headerEntries":["While
+    carrying the {@item Witchlight watch|WbtW}, Witch casts one of the following
+    spells, requiring no spell components and using Intelligence as the spellcasting
+    ability (spell save {@dc 13}, {@hit 5} to hit with spell attacks):"],"will":["{@spell
+    fire bolt}","{@spell invisibility} (after casting, roll a {@dice d8}; on a roll
+    of 3 or 8, Witch can''t cast the spell again until the next dawn)","{@spell message}"],"ability":"int","displayAs":"action"}],"trait":[{"name":"Fey
+    Ancestry","entries":["Witch has advantage on saving throws against being {@condition
+    charmed}, and magic can''t put him to sleep."]},{"name":"Special Equipment","entries":["Witch
+    carries and is attuned to the {@item Witchlight watch|WbtW}."]}],"action":[{"name":"Multiattack","entries":["Witch
+    makes two Cane attacks."]},{"name":"Cane","entries":["{@atk mw} {@hit 4} to hit,
+    reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage plus 6
+    ({@damage 1d12}) necrotic damage."]}],"bonus":[{"name":"Blessing of the Raven
+    Queen (1/Day)","entries":["Witch magically teleports, along with any equipment
+    he is wearing or carrying, up to 30 feet to an unoccupied space he can see. Until
+    the start of his next turn, he appears ghostly and gains resistance to all damage."]}],"traitTags":["Fey
+    Ancestry"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","E","S"],"damageTags":["B","N"],"damageTagsSpell":["F"],"spellcastingTags":["O"],"miscTags":["MW"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: e91678ea09018d1e9d3fa885863760ba

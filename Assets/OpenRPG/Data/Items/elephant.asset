@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: elephant
+  m_EditorClassIdentifier: 
+  Title: Elephant
+  AsJson: '{"name":"Elephant","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":20000,"carryingCapacity":1320,"speed":40}'
+  DataHash: 43ab0ad5f51a2faf103a195eb607a8b6

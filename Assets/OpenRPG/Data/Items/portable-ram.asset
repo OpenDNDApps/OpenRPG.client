@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: portable-ram
+  m_EditorClassIdentifier: 
+  Title: Portable Ram
+  AsJson: '{"name":"Portable Ram","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":35,"value":400,"entries":["You
+    can use a portable ram to break down doors. When doing so, you gain a +4 bonus
+    on the Strength check. One other character can help you use the ram, giving you
+    advantage on this check."]}'
+  DataHash: 6d461ceea9f2aec4cc1288b7b7e78b41

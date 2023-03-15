@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-snail
+  m_EditorClassIdentifier: 
+  Title: Giant Snail
+  AsJson: '{"name":"Giant Snail","source":"WBtW","page":234,"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":22,"formula":"4d10"},"speed":{"walk":10,"climb":10},"str":15,"dex":3,"con":11,"int":3,"wis":10,"cha":3,"senses":["darkvision
+    60 ft."],"passive":10,"cr":"1/4","trait":[{"name":"Salt Osmosis","entries":["Whenever
+    the snail starts its turn in contact with a pound or more of salt, it takes {@damage
+    1d4} necrotic damage. Using an action to sprinkle a pound of salt on the snail
+    deals {@damage 1d4} necrotic damage to it immediately and another {@damage 1d4}
+    necrotic damage to it at the start of its next turn (after which the salt rubs
+    off), provided the snail has not withdrawn into its shell."]}],"action":[{"name":"Slam","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning
+    damage."]},{"name":"Shell Defense","entries":["The snail withdraws into its shell,
+    gaining a +4 bonus to its AC until it emerges. It can emerge from its shell as
+    a bonus action on its turn."]}],"senseTags":["D"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ee5de64ac1dcf645db2a2fd9f1311b63

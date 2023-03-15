@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: explosive-seed
+  m_EditorClassIdentifier: 
+  Title: Explosive Seed
+  AsJson: '{"name":"Explosive Seed","source":"EGW","page":225,"type":"G","rarity":"none","entries":["This
+    acorn-sized sphere of brass contains a small amount of blasting powder and a
+    clockwork trigger. An explosive seed can be thrown up to 30 feet as an action,
+    detonating on impact. Each creature within 5 feet of the exploding seed must
+    make a DC 10 Dexterity saving throw, taking {@damage 1d8} bludgeoning damage
+    on a failed save, or half as much damage on a successful one."]}'
+  DataHash: 7d71a7740326bb62d3e638325c06068c

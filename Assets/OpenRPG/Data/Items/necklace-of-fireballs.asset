@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: necklace-of-fireballs
+  m_EditorClassIdentifier: 
+  Title: Necklace of Fireballs
+  AsJson: '{"name":"Necklace of Fireballs","source":"DMG","page":182,"srd":true,"tier":"minor","rarity":"rare","wondrous":true,"weight":1,"entries":["This
+    necklace has {@dice 1d6 + 3} beads hanging from it. You can use an action to
+    detach a bead and throw it up to 60 feet away. When it reaches the end of its
+    trajectory, the bead detonates as a 3rd-level {@spell fireball} spell (save DC
+    15).","You can hurl multiple beads, or even the whole necklace, as one action.
+    When you do so, increase the level of the {@spell fireball} by 1 for each bead
+    beyond the first."],"attachedSpells":["fireball"],"lootTables":["Magic Item Table
+    C"],"hasFluffImages":true}'
+  DataHash: 8185b41ba96d43fa67f239d114099732

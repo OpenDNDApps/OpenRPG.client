@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: elemental-spirit
+  m_EditorClassIdentifier: 
+  Title: Elemental Spirit
+  AsJson: '{"name":"Elemental Spirit","source":"UA2020SpellsAndMagicTattoos","page":5,"summonedBySpell":"Summon
+    Elemental Spirit|UA2020SpellsAndMagicTattoos","summonedBySpellLevel":4,"size":["M"],"type":"elemental","alignment":["N"],"ac":[{"special":"11
+    + the level of the spell (natural armor)"}],"hp":{"special":"equal the elemental''s
+    Constitution modifier + your spellcasting ability modifier + ten times the spell''s
+    level"},"speed":{"walk":40,"fly":{"number":40,"condition":"(air only hover)"},"burrow":{"number":40,"condition":"(earth
+    only)"},"swim":{"number":40,"condition":"(water only)"},"canHover":true},"str":18,"dex":15,"con":17,"int":4,"wis":10,"cha":16,"senses":["darkvision
+    60 ft."],"passive":10,"resist":["lightning",{"resist":["thunder"],"note":"(air
+    only)"},"piercing",{"resist":["slashing"],"note":"(earth only)"},{"resist":["acid"],"note":"(water
+    only)"}],"immune":["poison",{"immune":["fire"],"note":"(fire only)"}],"conditionImmune":["exhaustion","paralyzed","petrified","poisoned","unconscious"],"languages":["Primordial","understands
+    the languages you speak"],"trait":[{"name":"Amorphous Form (Air, Fire, and Water
+    Only)","entries":["The elemental can move through a space as narrow as 1 inch
+    wide without squeezing."]}],"action":[{"name":"Multiattack","entries":["The elemental
+    makes a number of attacks equal to half this spell''s level (rounded down)."]},{"name":"Slam","entries":["{@atk
+    mw} {@hit 4 + summonSpellLevel} to hit, reach 5 ft., one target. {@h}{@damage
+    1d10 + 4 + summonSpellLevel} bludgeoning damage (Air, Earth, and Water only)
+    or fire damage (Fire only)."]}],"traitTags":["Amorphous"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["P"],"damageTags":["B","F"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 7f9e889d1f0545f4ce0a4b52e50d56a8

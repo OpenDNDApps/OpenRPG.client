@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: power-word-heal
+  m_EditorClassIdentifier: 
+  Title: Power Word Heal
+  AsJson: '{"name":"Power Word Heal","source":"PHB","page":266,"level":9,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["A
+    wave of healing energy washes over the creature you touch. The target regains
+    all its hit points. If the creature is {@condition charmed}, {@condition frightened},
+    {@condition paralyzed}, or {@condition stunned}, the condition ends. If the creature
+    is {@condition prone}, it can use its reaction to stand up. This spell has no
+    effect on undead or constructs."],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL"],"areaTags":["ST"]}'
+  DataHash: be934b117ecf353d5124c0ab5d13717b

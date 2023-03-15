@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wheel-of-wind-and-water
+  m_EditorClassIdentifier: 
+  Title: Wheel of Wind and Water
+  AsJson: '{"name":"Wheel of Wind and Water","source":"ERLW","page":280,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"uncommon","wondrous":true,"entries":["When
+    mounted at the helm of an elemental galleon or airship, this wheel allows a creature
+    that possesses the Mark of Storm to telepathically control the elemental bound
+    inside the vessel.","If a wheel of wind and water is mounted on a mundane sailing
+    ship, a creature with the Mark of Storm who is using the wheel can create an
+    area of ideal conditions around the vessel, increasing its speed by 5 miles per
+    hour."]}'
+  DataHash: 1d73d6ed8dc3a8deb5f19034633310d0

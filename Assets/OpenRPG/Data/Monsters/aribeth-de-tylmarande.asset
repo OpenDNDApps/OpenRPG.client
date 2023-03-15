@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: aribeth-de-tylmarande
+  m_EditorClassIdentifier: 
+  Title: Aribeth de Tylmarande
+  AsJson: '{"name":"Aribeth de Tylmarande","isNamedCreature":true,"source":"MaBJoV","page":108,"size":["M"],"type":"undead","alignment":["N","E"],"ac":[{"ac":17,"from":["{@item
+    half plate armor|PHB|half plate}"]}],"hp":{"average":120,"formula":"16d8 + 48"},"speed":{"walk":30},"str":16,"dex":14,"con":16,"int":10,"wis":13,"cha":16,"skill":{"perception":"+5","religion":"+4"},"senses":["darkvision
+    60 ft."],"passive":15,"immune":["necrotic",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical weapons that aren''t silvered","cond":true}],"conditionImmune":["poisoned"],"languages":["Common","Elvish","Infernal"],"cr":"10","spellcasting":[{"name":"Spellcasting","headerEntries":["Aribeth
+    is a 11th-level spellcaster. Her spellcasting ability is Charisma (spell save
+    {@dc 15}, {@hit 7} to hit with spell attacks). Aribeth has the following paladin
+    spells prepared:"],"spells":{"1":{"slots":4,"spells":["{@spell command}","{@spell
+    searing smite}","{@spell shield of faith}"]},"2":{"slots":3,"spells":["{@spell
+    aid}","{@spell magic weapon}"]},"3":{"slots":3,"spells":["{@spell dispel magic}"]}},"ability":"cha"}],"trait":[{"name":"Sunlight
+    Sensitivity","entries":["While in sunlight, Aribeth has disadvantage on attack
+    rolls, as well as on Wisdom (Perception) checks that rely on sight."]},{"name":"Magic
+    Resistance","entries":["Aribeth has advantage on saving throws against spells
+    and other magical effects."]},{"name":"Regeneration","entries":["Aribeth regains
+    20 hit points at the start of her turn. If Aribeth takes radiant damage, this
+    trait doesn''t function at the start of Aribeth''s next turn. Aribeth''s body
+    is destroyed only if she starts her turn with 0 hit points and doesn''t regenerate."]},{"name":"Infernal
+    Tracker","entries":["Aribeth knows the distance to and direction of any creature
+    that has broken a pact with Mephistopheles, even if the creature and Aribeth
+    are on different planes of existence."]},{"name":"Nightmare","entries":["Aribeth
+    is accompanied by a nightmare. The nightmare allows Aribeth to use it as a mount."]},{"name":"Shadows","entries":["3
+    {@creature shadow||shadows} hide within the saddle of Aribeth''s nightmare. These
+    shadows only come out if there is a creature within 30 feet that is at 0 hit
+    points. When that happens, 1 shadow will emerge and attack the creature in order
+    to make it fail a death saving throw. It continues to do so until the creature
+    is dead."]}],"action":[{"name":"Multiattack","entries":["Aribeth makes three
+    longsword attacks or three attacks with her sword called Void."]},{"name":"Longsword","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+    damage or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands, plus
+    9 ({@damage 3d6}) necrotic damage."]},{"name":"Void","entries":["{@atk mw} {@hit
+    7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing damage
+    or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands, plus 9 ({@damage
+    3d6}) necrotic damage. A creature reduced to 0 hit points from damage dealt by
+    the sword Void dies and can''t be revived by any means short of a {@spell wish}
+    spell."]}],"reaction":[{"name":"Parry","entries":["Aribeth adds 4 to her AC against
+    one melee attack that would hit her. To do so, Aribeth must see the attacker
+    and be wielding a melee weapon."]}],"traitTags":["Magic Resistance","Regeneration","Sunlight
+    Sensitivity"],"senseTags":["D"],"actionTags":["Multiattack","Parry"],"languageTags":["C","E","I"],"damageTags":["N","S"],"damageTagsSpell":["F"],"spellcastingTags":["CP"],"miscTags":["MW"],"conditionInflictSpell":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f12ff70a719a78e797e4c0e78abf49b2

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: flying-fish-ship
+  m_EditorClassIdentifier: 
+  Title: Flying Fish Ship
+  AsJson: '{"name":"Flying Fish Ship","source":"AAG","page":30,"type":"SPC","rarity":"none","value":2000000,"crew":10,"vehAc":15,"vehHp":250,"vehDmgThresh":15,"vehSpeed":4.5,"capCargo":13,"entries":["Aside
+    from space galleons, flying fish ships are the most common vessels in Wildspace,
+    favorites among merchants and adventurers alike.","A flying fish ship can float
+    and sail on water, but it isn''t built to land on the ground (the ventral fins
+    would snap under the weight of the ship during landing, and the keel would cause
+    the ship to roll to one side).","Typical weapons on a flying fish ship include
+    a forward-mounted mangonel and an aftmounted ballista."],"seeAlsoVehicle":["Flying
+    Fish Ship|AAG"]}'
+  DataHash: f7737b9de8f6c709fa4700140f28b4be

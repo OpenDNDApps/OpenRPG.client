@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: mask-of-the-dragon-queen
+  m_EditorClassIdentifier: 
+  Title: Mask of the Dragon Queen
+  AsJson: '{"name":"Mask of the Dragon Queen","source":"RoT","page":94,"otherSources":[{"source":"ToD","page":179}],"rarity":"artifact","reqAttune":true,"wondrous":true,"entries":["Individually,
+    the five dragon masks resemble the dragons they are named for. When two or more
+    of the dragon masks are assembled, however, they transform magically into the
+    Mask of the Dragon Queen. Each mask shrinks to become the modeled head of a chromatic
+    dragon, appearing to roar its devotion to {@creature Tiamat|RoT} where all the
+    masks brought together are arranged crown-like on the wearer''s head. Below the
+    five masks, a new mask shapes itself, granting the wearer a draconic visage that
+    covers the face, neck, and shoulders.","While you are attuned to and wear this
+    mask, you can have any of the properties from any one mask. Additionally, you
+    gain the Damage Absorption from each of the five dragon masks, and you gain five
+    uses of the Legendary Resistance property."],"hasFluffImages":true}'
+  DataHash: c5788c94698939ea1effaca8ed34e3c8

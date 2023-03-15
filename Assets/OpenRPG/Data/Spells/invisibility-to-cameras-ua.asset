@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: invisibility-to-cameras-ua
+  m_EditorClassIdentifier: 
+  Title: Invisibility to Cameras (UA)
+  AsJson: '{"name":"Invisibility to Cameras (UA)","source":"UAModernMagic","page":7,"level":3,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true,"m":"a
+    scrap of black paper"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["Four
+    creatures of your choice within range become undetectable to electronic sensors
+    and cameras for the duration of the spell. Anything a target is wearing or carrying
+    is likewise undetectable as long as it is on the target''s person. The targets
+    remain visible to vision."],"areaTags":["MT"]}'
+  DataHash: 5a4d23857ce6168b2096e603ba491b0d

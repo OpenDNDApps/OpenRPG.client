@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lady-gondafrey
+  m_EditorClassIdentifier: 
+  Title: Lady Gondafrey
+  AsJson: '{"name":"Lady Gondafrey","isNpc":true,"source":"WDH","page":152,"size":["M"],"type":"elemental","alignment":["L","G"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":52,"formula":"7d8 + 21"},"speed":{"walk":30,"fly":60},"str":15,"dex":11,"con":16,"int":10,"wis":11,"cha":7,"senses":["darkvision
+    60 ft."],"passive":10,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t adamantine","cond":true}],"immune":["poison"],"conditionImmune":["exhaustion","petrified","poisoned"],"languages":["Common"],"cr":"2","trait":[{"name":"False
+    Appearance","entries":["While the gargoyle remains motionless, it is indistinguishable
+    from an inanimate statue."]}],"action":[{"name":"Multiattack","entries":["The
+    gargoyle makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+    one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."]}],"traitTags":["False
+    Appearance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 839331d7a9781cfcf97f8212b652ee40

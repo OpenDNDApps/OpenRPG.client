@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: smokepowder
+  m_EditorClassIdentifier: 
+  Title: Smokepowder
+  AsJson: '{"name":"Smokepowder","source":"WDH","page":192,"rarity":"uncommon","wondrous":true,"entries":["Smokepowder
+    is a magical explosive chiefly used to propel a bullet out of the barrel of a
+    firearm. It is stored in airtight wooden kegs or tiny, waterproof leather packets.
+    A packet contains enough smokepowder for five shots, and a keg holds enough smokepowder
+    for five hundred shots.","If smokepowder is set on fire, dropped, or otherwise
+    handled roughly, it explodes and deals fire damage to each creature or object
+    within 20 feet of it: {@dice 1d6} for a packet, {@dice 9d6} for a keg. A successful
+    DC 12 Dexterity saving throw halves the damage.","Casting {@spell dispel magic}
+    on smokepowder renders it permanently inert."]}'
+  DataHash: 5d71042a3e7765b26a22d95636a1c084

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: invisibility
+  m_EditorClassIdentifier: 
+  Title: Invisibility
+  AsJson: '{"name":"Invisibility","source":"PHB","page":254,"srd":true,"basicRules":true,"level":2,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"an
+    eyelash encased in gum arabic"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["A
+    creature you touch becomes {@condition invisible} until the spell ends. Anything
+    the target is wearing or carrying is {@condition invisible} as long as it is
+    on the target''s person. The spell ends for a target that attacks or casts a
+    spell."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 3rd level or higher, you can target
+    one additional creature for each slot level above 2nd."]}],"conditionInflict":["invisible"],"areaTags":["ST"]}'
+  DataHash: d1a1632e463a2ca0f56843094b9465af

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: speaking-stone
+  m_EditorClassIdentifier: 
+  Title: Speaking Stone
+  AsJson: '{"name":"Speaking Stone","source":"ERLW","page":279,"rarity":"very rare","wondrous":true,"entries":["The
+    key to long-distance, virtually instantaneous communication across Khorvaire
+    is House Sivis''s network of message stations. Each station contains at least
+    one speaking stone, which is carved from a Siberys dragonshard and inscribed
+    with arcane symbols that uniquely identify it. If you''re a gnome with the Mark
+    of Scribing, you can touch the stone and use an action to cast the {@spell sending}
+    spell from it. The target is any other speaking stone whose location or unique
+    sequence of symbols you know. A creature within 5 feet of the stone hears the
+    message as if they were the target.","In a Sivis message station, a gnome is
+    always on duty by the speaking stone, listening for messages that might come
+    in and transcribing them for delivery to their intended recipients."],"attachedSpells":["sending"]}'
+  DataHash: 5c9015cf25abee212ec6f554b88d579d

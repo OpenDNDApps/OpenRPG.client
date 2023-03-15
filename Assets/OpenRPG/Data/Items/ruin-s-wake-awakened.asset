@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ruin-s-wake-awakened
+  m_EditorClassIdentifier: 
+  Title: Ruin's Wake (Awakened)
+  AsJson: '{"name":"Ruin''s Wake (Awakened)","source":"EGW","_copy":{"name":"Ruin''s
+    Wake (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["When
+    the spear reaches an awakened state, it gains the following properties:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +2, and the extra piercing
+    damage dealt by the weapon increases to {@dice 2d8}.","When you hurl the spear
+    and speak a command word, it transforms into a bolt of lightning, forming a line
+    5 feet wide that extends out from you to a creature you can see within 120 feet
+    of you. Each creature in the line, excluding you, must make a DC 15 Dexterity
+    saving throw, taking {@damage 8d6} lightning damage on a failed save, or half
+    as much damage on a successful one. Ruin''s Wake then returns to your hand. This
+    property can''t be used again until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+2","hasFluffImages":true}'
+  DataHash: fc7a5bac518f676c913921d9a4362b89

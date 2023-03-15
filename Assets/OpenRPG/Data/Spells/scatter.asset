@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: scatter
+  m_EditorClassIdentifier: 
+  Title: Scatter
+  AsJson: '{"name":"Scatter","source":"XGE","page":164,"level":6,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["The
+    air quivers around up to five creatures of your choice that you can see within
+    range. An unwilling creature must succeed on a Wisdom saving throw to resist
+    this spell. You teleport each affected target to an unoccupied space that you
+    can see within 120 feet of you. That space must be on the ground or on a floor."],"savingThrow":["wisdom"],"miscTags":["SGT","TP"],"areaTags":["MT"]}'
+  DataHash: 997e080ef4d07dfd3267157008219c60

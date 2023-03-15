@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kadroth
+  m_EditorClassIdentifier: 
+  Title: Kadroth
+  AsJson: '{"name":"Kadroth","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":42,"_copy":{"name":"Cult
+    Fanatic","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+    fanatic","with":"Kadroth","flags":"i"}}},"alignment":["L","E"],"senseTags":["D"],"languageTags":["C","I","X"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC","I"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 95e07a818c436b65e8747aa2934d7688

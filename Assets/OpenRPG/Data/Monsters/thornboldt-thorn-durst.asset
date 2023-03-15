@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thornboldt-thorn-durst
+  m_EditorClassIdentifier: 
+  Title: Thornboldt "Thorn" Durst
+  AsJson: '{"name":"Thornboldt \"Thorn\" Durst","isNpc":true,"source":"CoS","page":217,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    ghost","with":"Thorn","flags":"i"},"action":{"mode":"removeArr","names":"Horrifying
+    Visage"}}},"size":["S"],"alignment":["L","G"],"hp":{"average":35,"formula":"10d6"},"languages":["Common"],"cr":"3","languageTags":["C"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: d93ba8f7e96076f71e6936cd520d4055

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: blood-fury-tattoo
+  m_EditorClassIdentifier: 
+  Title: Blood Fury Tattoo
+  AsJson: '{"name":"Blood Fury Tattoo","source":"UA2020SpellsAndMagicTattoos","page":10,"rarity":"legendary","reqAttune":true,"wondrous":true,"tattoo":true,"bonusWeaponCritDamage":"4d6","critThreshold":19,"entries":["This
+    tattoo evokes fury in its form and colors. While this tattoo is on your skin,
+    you gain the following benefits:",{"type":"list","items":["Your attack rolls
+    score a critical hit on a {@dice d20} roll of 19 or 20.","When you score a critical
+    hit against a creature, that target takes an extra {@damage 4d6} necrotic damage,
+    and you gain a number of temporary hit points equal to the necrotic damage dealt.","When
+    a creature you can see damages you, you can use your reaction to make a melee
+    attack against that creature, with advantage on your attack roll."]},{"type":"entries","name":"Tattoo
+    Attunement","entries":["To attune to this item, you hold the needle to your skin
+    where you want the tattoo to appear, pressing the needle there throughout the
+    attunement process. When the attunement is complete, the needle turns into the
+    ink that becomes the tattoo, which appears on the skin. If you have multiple
+    magic tattoos, they count as a single magic item with regard to the number of
+    magic items you can attune to.","If your attunement to the tattoo ends, the tattoo
+    vanishes, and the needle reappears in the closest unoccupied space to you."]}]}'
+  DataHash: 58591f99c54c1b4954244339fd990101

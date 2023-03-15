@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-speed
+  m_EditorClassIdentifier: 
+  Title: Potion of Speed
+  AsJson: '{"name":"Potion of Speed","source":"DMG","page":188,"srd":true,"type":"P","tier":"minor","rarity":"very
+    rare","entries":["When you drink this potion, you gain the effect of the {@spell
+    haste} spell for 1 minute (no concentration required). The potion''s yellow fluid
+    is streaked with black and swirls on its own."],"attachedSpells":["haste"],"lootTables":["Magic
+    Item Table D"]}'
+  DataHash: fe2aad97c69f3945421f83284aef7cac

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: fire-shield
+  m_EditorClassIdentifier: 
+  Title: Fire Shield
+  AsJson: '{"name":"Fire Shield","source":"PHB","page":242,"srd":true,"level":4,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+    bit of phosphorus or a firefly"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"entries":["Thin
+    and wispy flames wreathe your body for the duration, shedding bright light in
+    a 10-foot radius and dim light for an additional 10 feet. You can end the spell
+    early by using an action to dismiss it.","The flames provide you with a warm
+    shield or a chill shield, as you choose. The warm shield grants you resistance
+    to cold damage, and the chill shield grants you resistance to fire damage.","In
+    addition, whenever a creature within 5 feet of you hits you with a melee attack,
+    the shield erupts with flame. The attacker takes {@damage 2d8} fire damage from
+    a warm shield, or {@damage 2d8} cold damage from a cold shield."],"damageResist":["cold","fire"],"damageInflict":["cold","fire"],"miscTags":["LGT"]}'
+  DataHash: cde6f4c4612a8371e336dd950f3f50c0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: regenerating-black-pudding
+  m_EditorClassIdentifier: 
+  Title: Regenerating Black Pudding
+  AsJson: '{"name":"Regenerating Black Pudding","source":"OotA","page":211,"_copy":{"name":"Black
+    Pudding","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Regeneration","entries":["The
+    pudding regains 10 hit points at the start of its turn. If the pudding takes
+    fire damage, this trait doesn''t function at the start of the pudding''s next
+    turn. The pudding dies only if it starts its turn with 0 hit points and doesn''t
+    regenerate."]}}}},"int":6,"cr":"5","traitTags":["Amorphous","Regeneration","Spider
+    Climb"],"hasToken":true}'
+  DataHash: d64a11ec5858693a7b03707ab6f3e0fa

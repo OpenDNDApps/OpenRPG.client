@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: the-bagman
+  m_EditorClassIdentifier: 
+  Title: The Bagman
+  AsJson: '{"name":"The Bagman","source":"VRGR","page":225,"_copy":{"name":"Troll","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"troll","with":"Bagman","flags":"i"},"trait":[{"mode":"appendArr","items":[{"name":"Grappler","entries":["The
+    Bagman has advantage on attack rolls against any creature {@condition grappled}
+    by it."]},{"name":"Amorphous","entries":["The Bagman can move through a space
+    as narrow as 1 inch wide without squeezing."]},{"name":"Alien Mind","entries":["If
+    a creature tries to read the Bagman''s thoughts, that creature must succeed on
+    a {@dc 8} Intelligence saving throw or be {@condition stunned} for 1 minute.
+    The {@condition stunned} creature can repeat the saving throw at the end of each
+    of its turns, ending the effect on itself on a success."]}]}]}},"traitTags":["Amorphous","Keen
+    Senses","Regeneration"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 7d747adaae8b3b15ba30f1bbeb338801

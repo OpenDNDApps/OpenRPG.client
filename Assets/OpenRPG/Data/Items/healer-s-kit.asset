@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: healer-s-kit
+  m_EditorClassIdentifier: 
+  Title: Healer's Kit
+  AsJson: '{"name":"Healer''s Kit","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":3,"value":500,"entries":["This
+    kit is a leather pouch containing bandages, salves, and splints. The kit has
+    ten uses. As an action, you can expend one use of the kit to stabilize a creature
+    that has 0 hit points, without needing to make a Wisdom ({@skill Medicine}) check."],"hasFluffImages":true}'
+  DataHash: 5e40a19f3bf2c58887ebf165eb82f439

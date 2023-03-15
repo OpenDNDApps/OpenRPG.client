@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: squid-ship
+  m_EditorClassIdentifier: 
+  Title: Squid Ship
+  AsJson: '{"name":"Squid Ship","source":"AAG","page":48,"otherSources":[{"source":"SjA"}],"type":"SPC","rarity":"none","value":2500000,"crew":13,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":3.5,"capCargo":20,"entries":["Among
+    the oldest types of spelljamming vessels, squid ships are popular with privateers
+    and are often used as patrol ships. Standard weapons on a squid ship include
+    a forward-mounted mangonel, two aft-mounted ballistae, and a reinforced bow for
+    ramming. The tentacles that extend from the bow account for nearly half the ship''s
+    keel length.","Squid ships can float and sail on water, and they can land on
+    the ground."],"seeAlsoVehicle":["Squid Ship|AAG"]}'
+  DataHash: 1a16db262b4fd080c23f6252c02e38f0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thwad-underbrew
+  m_EditorClassIdentifier: 
+  Title: Thwad Underbrew
+  AsJson: '{"name":"Thwad Underbrew","isNpc":true,"source":"WDMM","page":204,"_copy":{"name":"Champion","source":"VGM","_trait":{"name":"Mountain
+    Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the champion","with":"Thwad","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Thwad
+    makes three attacks with his maul or his shortbow."]}},{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Maul","entries":["{@atk
+    mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning
+    damage, plus 7 ({@damage 2d6}) bludgeoning damage if Thwad has more than half
+    of his total hit points remaining."]}}]}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["C","D","X"],"damageTags":["B","P"],"hasToken":true,"hasFluff":true}'
+  DataHash: 7d332d546a24a3662e057e407f68e68d

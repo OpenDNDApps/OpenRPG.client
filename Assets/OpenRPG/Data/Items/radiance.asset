@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: radiance
+  m_EditorClassIdentifier: 
+  Title: Radiance
+  AsJson: '{"name":"Radiance","source":"CM","page":87,"type":"WD","rarity":"unknown
+    (magic)","reqAttune":"by a spellcaster","reqAttuneTags":[{"spellcasting":true}],"bonusSpellAttack":"+1","entries":["While
+    holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you
+    ignore half cover when making a spell attack. Radiance is in the form of an exquisite
+    golden hand mirror.","While surrounded by darkness, it sheds dim light in a 5-foot
+    radius. A creature that is attuned to Radiance can use a bonus action while holding
+    the mirror to cast the {@spell enhance ability} spell, choosing itself and no
+    other creature as the spell''s target. Once this property of the wand is used,
+    it can''t be used again until the next dawn."],"attachedSpells":["enhance ability"]}'
+  DataHash: 667c1edd7290eb139e3578e4d8803850

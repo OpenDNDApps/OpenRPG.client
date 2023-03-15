@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-spell-storing
+  m_EditorClassIdentifier: 
+  Title: Ring of Spell Storing
+  AsJson: '{"name":"Ring of Spell Storing","source":"DMG","page":192,"srd":true,"type":"RG","tier":"major","rarity":"rare","reqAttune":true,"entries":["This
+    ring stores spells cast into it, holding them until the attuned wearer uses them.
+    The ring can store up to 5 levels worth of spells at a time. When found, it contains
+    {@dice 1d6 - 1} levels of stored spells chosen by the DM.","Any creature can
+    cast a spell of 1st through 5th level into the ring by touching the ring as the
+    spell is cast. The spell has no effect, other than to be stored in the ring.
+    If the ring can''t hold the spell, the spell is expended without effect. The
+    level of the slot used to cast the spell determines how much space it uses.","While
+    wearing this ring, you can cast any spell stored in it. The spell uses the slot
+    level, spell save DC, spell attack bonus, and spellcasting ability of the original
+    caster, but is otherwise treated as if you cast the spell. The spell cast from
+    the ring is no longer stored in it, freeing up space."],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: 987fc3e95b88ab2861b4cd2b28d57b23

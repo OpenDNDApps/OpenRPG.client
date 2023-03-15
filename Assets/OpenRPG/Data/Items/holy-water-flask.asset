@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: holy-water-flask
+  m_EditorClassIdentifier: 
+  Title: Holy Water (flask)
+  AsJson: '{"name":"Holy Water (flask)","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2500,"entries":["As
+    an action, you can splash the contents of this flask onto a creature within 5
+    feet of you or throw it up to 20 feet, shattering it on impact. In either case,
+    make a ranged attack against a target creature, treating the holy water as an
+    improvised weapon. If the target is a fiend or undead, it takes {@damage 2d6}
+    radiant damage.","A cleric or paladin may create holy water by performing a special
+    ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver,
+    and requires the caster to expend a 1st-level spell slot."]}'
+  DataHash: b8d2f7edca0889eb5306013abd8b1758

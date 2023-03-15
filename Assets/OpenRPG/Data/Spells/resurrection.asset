@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: resurrection
+  m_EditorClassIdentifier: 
+  Title: Resurrection
+  AsJson: "{\"name\":\"Resurrection\",\"source\":\"PHB\",\"page\":272,\"srd\":true,\"basicRules\":true,\"level\":7,\"school\":\"N\",\"time\":[{\"number\":1,\"unit\":\"hour\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"touch\"}},\"components\":{\"v\":true,\"s\":true,\"m\":{\"text\":\"a
+    diamond worth at least 1,000 gp, which the spell consumes\",\"cost\":100000,\"consume\":true}},\"duration\":[{\"type\":\"instant\"}],\"entries\":[\"You
+    touch a dead creature that has been dead for no more than a century, that didn't
+    die of old age, and that isn't undead. If its soul is free and willing, the target
+    returns to life with all its hit points.\",\"This spell neutralizes any poisons
+    and cures normal diseases afflicting the creature when it died. It doesn't, however,
+    remove magical diseases, curses, and the like; if such effects aren't removed
+    prior to casting the spell, they afflict the target on its return to life.\",\"This
+    spell closes all mortal wounds and restores any missing body parts.\",\"Coming
+    back from the dead is an ordeal. The target takes a \u22124 penalty to all attack
+    rolls, saving throws, and ability checks. Every time the target finishes a long
+    rest, the penalty is reduced by 1 until it disappears.\",\"Casting this spell
+    to restore life to a creature that has been dead for one year or longer taxes
+    you greatly. Until you finish a long rest, you can't cast spells again, and you
+    have disadvantage on all attack rolls, ability checks, and saving throws.\"],\"affectsCreatureType\":[\"undead\"],\"miscTags\":[\"HL\"]}"
+  DataHash: d1ce40f5a8ead1074bfdcc9b43952e1a

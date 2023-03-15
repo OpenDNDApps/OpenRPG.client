@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: heartstone
+  m_EditorClassIdentifier: 
+  Title: Heartstone
+  AsJson: '{"name":"Heartstone","source":"MM","page":179,"type":"OTH","rarity":"very
+    rare","entries":["This lustrous black gem allows a {@creature night hag} to become
+    ethereal while it is in her possession. The touch of a heartstone also cures
+    any disease. Crafting a heartstone takes 30 days."]}'
+  DataHash: 6997d7b1e190d7a30ddb97675f346004

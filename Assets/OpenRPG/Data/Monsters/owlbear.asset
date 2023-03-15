@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: owlbear
+  m_EditorClassIdentifier: 
+  Title: Owlbear
+  AsJson: '{"name":"Owlbear","source":"MM","page":249,"srd":true,"basicRules":true,"otherSources":[{"source":"LMoP"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"SDW"},{"source":"RMBRE"},{"source":"IMR"},{"source":"EGW"},{"source":"IDRotF"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"DoSI"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":40},"str":20,"dex":12,"con":17,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"cr":"3","trait":[{"name":"Keen Sight and Smell","entries":["The
+    owlbear has advantage on Wisdom ({@skill Perception}) checks that rely on sight
+    or smell."]}],"action":[{"name":"Multiattack","entries":["The owlbear makes two
+    attacks: one with its beak and one with its claws."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}10 ({@damage 1d10 + 5}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}14 ({@damage 2d8 + 5}) slashing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/owlbear.mp3"},"altArt":[{"name":"Owlbear","source":"RMBRE"}],"traitTags":["Keen
+    Senses"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f668f43cea24be465300ed5d27ad512c

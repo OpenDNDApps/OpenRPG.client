@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: diderius
+  m_EditorClassIdentifier: 
+  Title: Diderius
+  AsJson: '{"name":"Diderius","isNpc":true,"isNamedCreature":true,"source":"RoT","page":40,"otherSources":[{"source":"ToD","page":131}],"_copy":{"name":"Mummy
+    Lord","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mummy lord","with":"Diderius","flags":"i"}}},"int":18,"spellcasting":[{"name":"Spellcasting","headerEntries":["Diderius
+    is a 10th-level spellcaster. His spellcasting ability is Intelligence (spell
+    save {@dc 17}, {@hit 9} to hit with spell attacks). He has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell minor illusion}","{@spell
+    ray of frost}"]},"1":{"slots":4,"spells":["{@spell charm person}","{@spell detect
+    magic}","{@spell shield}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+    cloud of daggers}","{@spell hold person}","{@spell see invisibility}"]},"3":{"slots":3,"spells":["{@spell
+    animate dead}","{@spell dispel magic}"]},"4":{"slots":3,"spells":["{@spell fire
+    shield}","{@spell greater invisibility}"]},"5":{"slots":2,"spells":["{@spell
+    cloudkill}","{@spell wall of stone}"]}},"ability":"int"}],"hasToken":true}'
+  DataHash: 52a409aa07eecb44c1468fd1112b902c

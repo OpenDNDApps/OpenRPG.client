@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dust-of-corrosion
+  m_EditorClassIdentifier: 
+  Title: Dust of Corrosion
+  AsJson: '{"name":"Dust of Corrosion","source":"WBtW","page":209,"rarity":"uncommon","wondrous":true,"entries":["As
+    an action, you can throw this dust into the air, filling a 10-foot cube that
+    extends out from you. Surfaces and objects made of nonmagical ferrous metal in
+    the area instantly corrode and turn to dust, becoming useless and unsalvageable.
+    Any creature in the area that is made wholly or partly out of ferrous metal must
+    make a DC 13 Constitution saving throw, taking {@damage 4d8} necrotic damage
+    on a failed save, or half as much damage on a successful one.","Found in a small
+    packet, this dust is made from finely ground rust monster antennae. There is
+    enough dust in each packet for one use."]}'
+  DataHash: b45e8bed543a777b013566bbd0fd3a42

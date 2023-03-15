@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: calm-emotions
+  m_EditorClassIdentifier: 
+  Title: Calm Emotions
+  AsJson: '{"name":"Calm Emotions","source":"PHB","page":221,"srd":true,"level":2,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    attempt to suppress strong emotions in a group of people. Each humanoid in a
+    20-foot-radius sphere centered on a point you choose within range must make a
+    Charisma saving throw; a creature can choose to fail this saving throw if it
+    wishes. If a creature fails its saving throw, choose one of the following two
+    effects.","You can suppress any effect causing a target to be {@condition charmed}
+    or {@condition frightened}. When this spell ends, any suppressed effect resumes,
+    provided that its duration has not expired in the meantime.","Alternatively,
+    you can make a target indifferent about creatures of your choice that it is hostile
+    toward. This indifference ends if the target is attacked or harmed by a spell
+    or if it witnesses any of its friends being harmed. When the spell ends, the
+    creature becomes hostile again, unless the DM rules otherwise."],"savingThrow":["charisma"],"affectsCreatureType":["humanoid"],"areaTags":["S"]}'
+  DataHash: e09c877aa115bf29e655ddf9344b757c

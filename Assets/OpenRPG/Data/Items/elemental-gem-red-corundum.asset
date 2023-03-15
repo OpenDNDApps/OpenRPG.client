@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: elemental-gem-red-corundum
+  m_EditorClassIdentifier: 
+  Title: Elemental Gem, Red Corundum
+  AsJson: '{"name":"Elemental Gem, Red Corundum","source":"DMG","page":167,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["This
+    gem contains a mote of elemental energy. When you use an action to break the
+    gem, a {@creature fire elemental} is summoned as if you had cast the {@spell
+    conjure elemental} spell, and the gem''s magic is lost."],"attachedSpells":["conjure
+    elemental"]}'
+  DataHash: c93fc504fdecad96b27403e29160dc65

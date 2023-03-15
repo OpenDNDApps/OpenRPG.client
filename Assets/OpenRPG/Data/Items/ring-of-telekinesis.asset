@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-telekinesis
+  m_EditorClassIdentifier: 
+  Title: Ring of Telekinesis
+  AsJson: '{"name":"Ring of Telekinesis","source":"DMG","page":193,"srd":true,"type":"RG","tier":"major","rarity":"very
+    rare","reqAttune":true,"entries":["While wearing this ring, you can cast the
+    {@spell telekinesis} spell at will, but you can target only objects that aren''t
+    being worn or carried."],"attachedSpells":["telekinesis"],"lootTables":["Magic
+    Item Table H"],"hasFluffImages":true}'
+  DataHash: 66f985f93c9655b575ed2c519a9c8b11

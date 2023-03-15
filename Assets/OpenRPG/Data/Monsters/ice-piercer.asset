@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ice-piercer
+  m_EditorClassIdentifier: 
+  Title: Ice Piercer
+  AsJson: '{"name":"Ice Piercer","source":"IDRotF","page":226,"_copy":{"name":"Piercer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"piercer","with":"ice
+    piercer"},"action":{"mode":"replaceArr","replace":"Drop","items":{"name":"Drop","entries":["{@atk
+    mw} {@hit 3} to hit, one creature directly underneath the piercer. {@h}10 ({@damage
+    3d6}) piercing damage plus 10 ({@damage 3d6}) cold damage. Miss: The piercer
+    takes half the normal falling damage for the distance fallen."]}}}},"immune":["cold"],"hasToken":true,"hasFluff":true}'
+  DataHash: c13c15489c7baf129b725ce28161e218

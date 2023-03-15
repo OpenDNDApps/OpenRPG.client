@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: frostbite
+  m_EditorClassIdentifier: 
+  Title: Frostbite
+  AsJson: '{"name":"Frostbite","source":"XGE","page":156,"otherSources":[{"source":"EEPC","page":18}],"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    cause numbing frost to form on one creature that you can see within range. The
+    target must make a Constitution saving throw. On a failed save, the target takes
+    {@damage 1d6} cold damage, and it has disadvantage on the next weapon attack
+    roll it makes before the end of its next turn.","The spell''s damage increases
+    by {@dice 1d6} when you reach 5th level ({@damage 2d6}), 11th level ({@damage
+    3d6}), and 17th level ({@damage 4d6})."],"scalingLevelDice":{"label":"cold damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["cold"],"savingThrow":["constitution"],"miscTags":["SCL","SGT"],"areaTags":["ST"]}'
+  DataHash: c996884a6c920e5b1d3adaba5f63520b

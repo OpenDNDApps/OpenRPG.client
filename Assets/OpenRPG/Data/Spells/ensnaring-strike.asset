@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ensnaring-strike
+  m_EditorClassIdentifier: 
+  Title: Ensnaring Strike
+  AsJson: '{"name":"Ensnaring Strike","source":"PHB","page":237,"level":1,"school":"C","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+    next time you hit a creature with a weapon attack before this spell ends, a writhing
+    mass of thorny vines appears at the point of impact, and the target must succeed
+    on a Strength saving throw or be {@condition restrained} by the magical vines
+    until the spell ends. A Large or larger creature has advantage on this saving
+    throw. If the target succeeds on the save, the vines shrivel away.","While {@condition
+    restrained} by this spell, the target takes {@damage 1d6} piercing damage at
+    the start of each of its turns. A creature {@condition restrained} by the vines
+    or one that can touch the creature can use its action to make a Strength check
+    against your spell save DC. On a success, the target is freed."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["If you cast this spell using a spell slot of 2nd level
+    or higher, the damage increases by {@scaledamage 1d6|1-9|1d6} for each slot level
+    above 1st."]}],"damageInflict":["piercing"],"conditionInflict":["restrained"],"savingThrow":["strength"],"abilityCheck":["strength"]}'
+  DataHash: 00f0869c92ef41878c4f03eae67fbcd2

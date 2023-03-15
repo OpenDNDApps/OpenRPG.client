@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: arcanaloth
+  m_EditorClassIdentifier: 
+  Title: Arcanaloth
+  AsJson: '{"name":"Arcanaloth","source":"MM","page":313,"otherSources":[{"source":"CoS"},{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"TCE"},{"source":"KftGV"}],"size":["M"],"type":{"type":"fiend","tags":["yugoloth"]},"alignment":["N","E"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":104,"formula":"16d8 + 32"},"speed":{"walk":30,"fly":30},"str":17,"dex":12,"con":14,"int":20,"wis":16,"cha":17,"save":{"dex":"+5","int":"+9","wis":"+7","cha":"+7"},"skill":{"arcana":"+13","deception":"+11","insight":"+11","perception":"+7"},"senses":["truesight
+    120 ft."],"passive":17,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["acid","poison"],"conditionImmune":["charmed","poisoned"],"languages":["all","telepathy
+    120 ft."],"cr":"12","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    arcanaloth''s innate spellcasting ability is Charisma (spell save {@dc 15}).
+    The arcanaloth can innately cast the following spells, requiring no material
+    components:"],"will":["{@spell alter self}","{@spell darkness}","{@spell heat
+    metal}","{@spell invisibility} (self only)","{@spell magic missile}"],"ability":"cha"},{"name":"Spellcasting","headerEntries":["The
+    arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence
+    (spell save {@dc 17}, {@hit 9} to hit with spell attacks). The arcanaloth has
+    the following wizard spells prepared:"],"spells":{"0":{"spells":["{@spell fire
+    bolt}","{@spell mage hand}","{@spell minor illusion}","{@spell prestidigitation}"]},"1":{"slots":4,"spells":["{@spell
+    detect magic}","{@spell identify}","{@spell shield}","{@spell Tenser''s floating
+    disk}"]},"2":{"slots":3,"spells":["{@spell detect thoughts}","{@spell mirror
+    image}","{@spell phantasmal force}","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell
+    counterspell}","{@spell fear}","{@spell fireball}"]},"4":{"slots":3,"spells":["{@spell
+    banishment}","{@spell dimension door}"]},"5":{"slots":2,"spells":["{@spell contact
+    other plane}","{@spell hold monster}"]},"6":{"slots":1,"spells":["{@spell chain
+    lightning}"]},"7":{"slots":1,"spells":["{@spell finger of death}"]},"8":{"slots":1,"spells":["{@spell
+    mind blank}"]}},"ability":"int"}],"trait":[{"name":"Magic Resistance","entries":["The
+    arcanaloth has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+    Weapons","entries":["The arcanaloth''s weapon attacks are magical."]}],"action":[{"name":"Claws","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) slashing
+    damage. The target must make a {@dc 14} Constitution saving throw, taking 10
+    ({@damage 3d6}) poison damage on a failed save, or half as much damage on a successful
+    one."]},{"name":"Teleport","entries":["The arcanaloth magically teleports, along
+    with any equipment it is wearing or carrying, up to 60 feet to an unoccupied
+    space it can see."]}],"variant":[{"type":"variant","name":"Yugoloth Summoning","entries":["Some
+    yugoloths have an action option that allows them to summon other yugoloths.",{"name":"Summon
+    Yugoloth (1/Day)","type":"entries","entries":["The yugoloth attempts a magical
+    summoning.","An arcanaloth has a {@chance 40|40 percent|40% summoning chance}
+    chance of summoning one arcanaloth.","A summoned yugoloth appears in an unoccupied
+    space within 60 feet of its summoner, does as it pleases, and can''t summon other
+    yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner
+    dies, or until its summoner takes a bonus action to dismiss it."]}],"_version":{"name":"Arcanaloth
+    (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/arcanaloth.mp3"},"traitTags":["Magic
+    Resistance","Magic Weapons"],"senseTags":["U"],"actionTags":["Teleport"],"languageTags":["TP","XX"],"damageTags":["I","S"],"damageTagsSpell":["B","F","L","N","O","P","S","Y"],"spellcastingTags":["CW","I"],"miscTags":["MW"],"conditionInflictSpell":["frightened","incapacitated","invisible","paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f2c4daf2152b304b0aab3bf22e493538

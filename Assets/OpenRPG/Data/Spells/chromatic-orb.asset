@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: chromatic-orb
+  m_EditorClassIdentifier: 
+  Title: Chromatic Orb
+  AsJson: '{"name":"Chromatic Orb","source":"PHB","page":221,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":{"text":"a
+    diamond worth at least 50 gp","cost":5000}},"duration":[{"type":"instant"}],"entries":["You
+    hurl a 4-inch-diameter sphere of energy at a creature that you can see within
+    range. You choose acid, cold, fire, lightning, poison, or thunder for the type
+    of orb you create, and then make a ranged spell attack against the target. If
+    the attack hits, the creature takes {@damage 3d8} damage of the type you chose."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the damage increases by {@scaledamage 3d8|1-9|1d8} for each
+    slot level above 1st."]}],"damageInflict":["acid","cold","fire","lightning","poison","thunder"],"spellAttack":["R"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 5409dfc6b31280934fcb3eb648cf7140

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: melf-s-minute-meteors
+  m_EditorClassIdentifier: 
+  Title: Melf's Minute Meteors
+  AsJson: "{\"name\":\"Melf's Minute Meteors\",\"source\":\"XGE\",\"page\":161,\"otherSources\":[{\"source\":\"EEPC\",\"page\":20}],\"level\":3,\"school\":\"V\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"self\"}},\"components\":{\"v\":true,\"s\":true,\"m\":\"niter,
+    sulfur, and pine tar formed into a bead\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"minute\",\"amount\":10},\"concentration\":true}],\"entries\":[\"You
+    create six tiny meteors in your space. They float in the air and orbit you for
+    the spell's duration. When you cast the spell\u2014and as a bonus action on each
+    of your turns thereafter\u2014you can expend one or two of the meteors, sending
+    them streaking toward a point or points you choose within 120 feet of you. Once
+    a meteor reaches its destination or impacts against a solid surface, the meteor
+    explodes. Each creature within 5 feet of the point where the meteor explodes
+    must make a Dexterity saving throw. A creature takes {@damage 2d6} fire damage
+    on a failed save, or half as much damage on a successful one.\"],\"entriesHigherLevel\":[{\"type\":\"entries\",\"name\":\"At
+    Higher Levels\",\"entries\":[\"When you cast this spell using a spell slot of
+    4th level or higher, the number of meteors created increases by two for each
+    slot level above 3rd.\"]}],\"damageInflict\":[\"fire\"],\"savingThrow\":[\"dexterity\"],\"miscTags\":[\"UBA\"],\"areaTags\":[\"S\"]}"
+  DataHash: 4e7ee2003b084916274f97d95aff87f8

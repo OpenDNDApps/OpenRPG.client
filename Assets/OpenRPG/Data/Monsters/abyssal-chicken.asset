@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: abyssal-chicken
+  m_EditorClassIdentifier: 
+  Title: Abyssal Chicken
+  AsJson: '{"name":"Abyssal Chicken","source":"BGDIA","page":97,"size":["T"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":10,"formula":"3d4 + 3"},"speed":{"walk":30,"fly":{"number":30,"condition":"(see
+    bad flier below)"}},"str":6,"dex":14,"con":13,"int":4,"wis":9,"cha":5,"senses":["blindsight
+    30 ft. (blind beyond this radius)"],"passive":9,"resist":["cold","fire","lightning"],"immune":["poison"],"conditionImmune":["blinded","poisoned"],"languages":["understands
+    Abyssal but can''t speak"],"cr":"1/4","trait":[{"name":"Bad Flier","entries":["The
+    abyssal chicken falls at the end of a turn if it''s airborne and the only thing
+    holding it aloft is its flying speed."]}],"action":[{"name":"Multiattack","entries":["The
+    abyssal chicken makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+    one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."]}],"familiar":true,"senseTags":["B"],"actionTags":["Multiattack"],"languageTags":["AB","CS"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f0af58cb9ed570c8943811289c9a3652

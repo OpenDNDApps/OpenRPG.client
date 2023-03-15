@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sharwyn-hucrele
+  m_EditorClassIdentifier: 
+  Title: Sharwyn Hucrele
+  AsJson: '{"name":"Sharwyn Hucrele","isNpc":true,"source":"TftYP","page":242,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":16,"from":["Barkskin
+    trait"]}],"hp":{"average":13,"formula":"2d8 + 4"},"speed":{"walk":30},"str":11,"dex":13,"con":14,"int":16,"wis":14,"cha":9,"skill":{"arcana":"+5","insight":"+4","persuasion":"+1"},"passive":12,"languages":["Common","Draconic","Goblin"],"cr":"1/2","spellcasting":[{"name":"Spellcasting","headerEntries":["Sharwyn
+    is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save
+    {@dc 13}, {@hit 5} to hit with spell attacks). She has the following wizard spells
+    prepared:"],"spells":{"0":{"spells":["{@spell light}","{@spell prestidigitation}","{@spell
+    ray of frost}"]},"1":{"slots":2,"spells":["{@spell color spray}","{@spell magic
+    missile}","{@spell shield}","{@spell sleep}"]}},"ability":"int"}],"trait":[{"name":"Barkskin","entries":["Sharwyn''s
+    AC can''t be lower than 16."]},{"name":"Special Equipment","entries":["Sharwyn
+    has a {@item spellbook|phb} that contains the spells listed in her Spellcasting
+    trait, plus {@spell detect magic} and {@spell silent image}."]},{"name":"Tree
+    Thrall","entries":["If the Gulthias Tree dies, Sharwyn dies 24 hours later."]}],"action":[{"name":"Dagger","entries":["{@atk
+    mw} {@hit 4}, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."]}],"languageTags":["C","DR","GO"],"damageTags":["P"],"damageTagsSpell":["C","O"],"spellcastingTags":["CW"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: ec207abad0d81763561d03a8e8e66905

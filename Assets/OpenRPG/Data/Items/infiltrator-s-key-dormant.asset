@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: infiltrator-s-key-dormant
+  m_EditorClassIdentifier: 
+  Title: Infiltrator's Key (Dormant)
+  AsJson: '{"name":"Infiltrator''s Key (Dormant)","source":"EGW","page":272,"rarity":"legendary","reqAttune":true,"wondrous":true,"grantsProficiency":true,"bonusWeapon":"+1","entries":["This
+    mithral skeleton key was forged using the blood of twelve master thieves executed
+    for trying to steal magic items during the Age of Arcanum.",{"type":"entries","name":"Dormant","entries":["The
+    Infiltrator''s Key grants the following benefits in its dormant state:",{"type":"list","items":["The
+    key can be used as {@item thieves'' tools|phb} for the purpose of opening locks.
+    When using the key, you are considered proficient in {@item thieves'' tools|PHB}
+    and you have advantage on ability checks made to open locks.","While holding
+    the key, your steps are muffled, giving you advantage on Dexterity ({@skill Stealth})
+    checks made to move silently."]}]}],"hasFluffImages":true}'
+  DataHash: e194a4dd5566c6f59bfd298c5b76b033

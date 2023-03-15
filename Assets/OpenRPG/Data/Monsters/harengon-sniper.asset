@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: harengon-sniper
+  m_EditorClassIdentifier: 
+  Title: Harengon Sniper
+  AsJson: '{"name":"Harengon Sniper","source":"WBtW","page":235,"size":["M"],"type":"humanoid","alignment":["A"],"ac":[{"ac":14,"from":["{@item
+    leather armor|PHB}"]}],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":30},"str":10,"dex":17,"con":11,"int":10,"wis":13,"cha":10,"save":{"dex":"+5"},"skill":{"athletics":"+2","perception":"+5","stealth":"+5"},"passive":15,"languages":["Common","Sylvan"],"cr":"1/4","trait":[{"name":"Standing
+    Leap","entries":["The harengon''s long jump is up to 20 feet and its high jump
+    is up to 10 feet, with or without a running start."]}],"action":[{"name":"Club","entries":["{@atk
+    mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+    damage."]},{"name":"Light Crossbow","entries":["{@atk rw} {@hit 5} to hit (the
+    target gains no benefit from less than total cover), range 320 ft., one target.
+    {@h}7 ({@damage 1d8 + 3}) piercing damage. Hit or Miss: Immediately after making
+    this attack, the harengon can use the Hide action."]}],"languageTags":["C","S"],"damageTags":["B","P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 5b62b8141dfaf805dc67eb226d7d55e8

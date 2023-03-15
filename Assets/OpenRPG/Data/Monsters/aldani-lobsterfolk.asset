@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: aldani-lobsterfolk
+  m_EditorClassIdentifier: 
+  Title: Aldani (Lobsterfolk)
+  AsJson: '{"name":"Aldani (Lobsterfolk)","source":"ToA","page":210,"size":["M"],"type":"monstrosity","alignment":["L","N"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":49,"formula":"9d8 + 9"},"speed":{"walk":20,"swim":30},"str":13,"dex":8,"con":12,"int":10,"wis":14,"cha":10,"skill":{"perception":"+4","survival":"+4"},"senses":["darkvision
+    60 ft."],"passive":14,"languages":["Common"],"cr":"1","trait":[{"name":"Amphibious","entries":["The
+    aldani can breathe air and water."]}],"action":[{"name":"Multiattack","entries":["The
+    aldani makes two attacks with its claws."]},{"name":"Claw","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing
+    damage, and the target is {@condition grappled} (escape {@dc 11}). The aldani
+    has two claws, each of which can grapple only one target."]}],"traitTags":["Amphibious"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: b63dc51cd9475eb8343a20ea1b5dfc97

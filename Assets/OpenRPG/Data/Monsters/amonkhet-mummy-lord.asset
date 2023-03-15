@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: amonkhet-mummy-lord
+  m_EditorClassIdentifier: 
+  Title: Amonkhet Mummy Lord
+  AsJson: '{"name":"Amonkhet Mummy Lord","source":"PSA","page":34,"_copy":{"name":"Mummy
+    Lord","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d44a5aba5ea227199ebc2118e40cc505

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kobold
+  m_EditorClassIdentifier: 
+  Title: Kobold
+  AsJson: '{"name":"Kobold","source":"MM","page":195,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"RoT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"EGW"},{"source":"DoSI"}],"size":["S"],"type":{"type":"humanoid","tags":["kobold"]},"alignment":["L","E"],"ac":[12],"hp":{"average":5,"formula":"2d6
+    - 2"},"speed":{"walk":30},"str":7,"dex":15,"con":9,"int":8,"wis":7,"cha":8,"senses":["darkvision
+    60 ft."],"passive":8,"languages":["Common","Draconic"],"cr":"1/8","trait":[{"name":"Sunlight
+    Sensitivity","entries":["While in sunlight, the kobold has disadvantage on attack
+    rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."]},{"name":"Pack
+    Tactics","entries":["The kobold has advantage on an attack roll against a creature
+    if at least one of the kobold''s allies is within 5 feet of the creature and
+    the ally isn''t {@condition incapacitated}."]}],"action":[{"name":"Dagger","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]},{"name":"Sling","entries":["{@atk rw} {@hit 4} to hit, range 30/120
+    ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."]}],"environment":["forest","swamp","hill","urban","desert","coastal","arctic","mountain","underdark"],"soundClip":{"type":"internal","path":"bestiary/kobold.mp3"},"traitTags":["Pack
+    Tactics","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","DR"],"damageTags":["B","P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 69f33498a498a0ce2ce86cd2cf500d92

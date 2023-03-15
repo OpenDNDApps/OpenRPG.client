@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: tome-of-the-stilled-tongue
+  m_EditorClassIdentifier: 
+  Title: Tome of the Stilled Tongue
+  AsJson: '{"name":"Tome of the Stilled Tongue","source":"DMG","page":208,"tier":"major","rarity":"legendary","reqAttune":"by
+    a wizard","reqAttuneTags":[{"class":"wizard"}],"wondrous":true,"weight":5,"focus":["Wizard"],"entries":["This
+    thick leather-bound volume has a desiccated tongue pinned to the front cover.
+    Five of these tomes exist, and it''s unknown which one is the original. The grisly
+    cover decoration on the first tome of the stilled tongue once belonged to a treacherous
+    former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to
+    the covers of the four copies came from other spellcasters who crossed Vecna.
+    The first few pages of each tome are filled with indecipherable scrawls. The
+    remaining pages are blank and pristine.","If you can attune to this item, you
+    can use it as a spellbook and an arcane focus. In addition, while holding the
+    tome, you can use a bonus action to cast a spell you have written in this tome,
+    without expending a spell slot or using any verbal or somatic component. Once
+    used, this property of the tome can''t be used again until the next dawn.","While
+    attuned to the book, you can remove the tongue from the book''s cover. If you
+    do so, all spells written in the book are permanently erased.","Vecna watches
+    anyone using this tome. He can also write cryptic messages in the book. These
+    messages appear at midnight and fade away after they are read."],"lootTables":["Magic
+    Item Table I"]}'
+  DataHash: 674158fe4c8bbc8d5e4e5f3b30759341

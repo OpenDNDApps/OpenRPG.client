@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ghazrim-duloc
+  m_EditorClassIdentifier: 
+  Title: Ghazrim DuLoc
+  AsJson: '{"name":"Ghazrim DuLoc","isNpc":true,"source":"OotA","page":141,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    noble","with":"Ghazrim","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true,"hasFluffImages":true}'
+  DataHash: 5bee8a4b1d4388fad9acaac1645c030c

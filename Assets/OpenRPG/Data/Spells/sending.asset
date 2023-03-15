@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sending
+  m_EditorClassIdentifier: 
+  Title: Sending
+  AsJson: '{"name":"Sending","source":"PHB","page":274,"srd":true,"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"unlimited"}},"components":{"v":true,"s":true,"m":"a
+    short piece of fine copper wire"},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+    send a short message of twenty-five words or less to a creature with which you
+    are familiar. The creature hears the message in its mind, recognizes you as the
+    sender if it knows you, and can answer in a like manner immediately. The spell
+    enables creatures with Intelligence scores of at least 1 to understand the meaning
+    of your message.","You can send the message across any distance and even to other
+    planes of existence, but if the target is on a different plane than you, there
+    is a {@chance 5|||Message lost!|Message arrives} chance that the message doesn''t
+    arrive."]}'
+  DataHash: ca8ae1f0112c03be3348d46a1ce5cd90

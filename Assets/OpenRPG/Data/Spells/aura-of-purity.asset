@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: aura-of-purity
+  m_EditorClassIdentifier: 
+  Title: Aura of Purity
+  AsJson: '{"name":"Aura of Purity","source":"PHB","page":216,"level":4,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Purifying
+    energy radiates from you in an aura with a 30-foot radius. Until the spell ends,
+    the aura moves with you, centered on you. Each nonhostile creature in the aura
+    (including you) can''t become diseased, has resistance to poison damage, and
+    has advantage on saving throws against effects that cause any of the following
+    conditions: {@condition blinded}, {@condition charmed}, {@condition deafened},
+    {@condition frightened}, {@condition paralyzed}, {@condition poisoned}, and {@condition
+    stunned}."],"damageResist":["poison"],"areaTags":["S"]}'
+  DataHash: f609848f8522a473f80e222423c9cfa1

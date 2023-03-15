@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-regeneration
+  m_EditorClassIdentifier: 
+  Title: Ring of Regeneration
+  AsJson: '{"name":"Ring of Regeneration","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"very
+    rare","reqAttune":true,"entries":["While wearing this ring, you regain {@dice
+    1d6} hit points every 10 minutes, provided that you have at least 1 hit point.
+    If you lose a body part, the ring causes the missing part to regrow and return
+    to full functionality after {@dice 1d6 + 1} days if you have at least 1 hit point
+    the whole time."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+  DataHash: c603a85593ceb396105d57704abcb0ec

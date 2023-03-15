@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: the-bloody-end-exalted
+  m_EditorClassIdentifier: 
+  Title: The Bloody End (Exalted)
+  AsJson: '{"name":"The Bloody End (Exalted)","source":"EGW","_copy":{"name":"The
+    Bloody End (Awakened)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted","entries":["When
+    the morningstar reaches an exalted state, it gains the following properties:",{"type":"list","items":["The
+    weapon''s bonus to attack and damage rolls increases to +3.","Add {@spell dominate
+    monster} to the list of spells that can be cast from the morningstar.","The saving
+    throw DC for spells cast from the morningstar, as well as for creatures to avoid
+    being {@condition frightened} by it, increases to 17.","When you use your reaction
+    to deal psychic damage to a creature that hits you with a melee attack, the amount
+    of psychic damage increases to {@dice 2d6}."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+3"}'
+  DataHash: 2ee9979e0104f46d68d32f340916d095

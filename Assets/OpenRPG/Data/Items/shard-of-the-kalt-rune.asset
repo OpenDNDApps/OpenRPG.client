@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: shard-of-the-kalt-rune
+  m_EditorClassIdentifier: 
+  Title: Shard of the Kalt Rune
+  AsJson: "{\"name\":\"Shard of the Kalt Rune\",\"source\":\"UAPrestigeClassesRunMagic\",\"page\":6,\"type\":\"MR\",\"resist\":[\"fire\"],\"rarity\":\"rare\",\"reqAttune\":true,\"entries\":[\"This
+    long, slender shard of ice is roughly the size of a dagger. The kalt rune\u2014the
+    rune of ice\u2014glows within the shard. When first grasped, the shard emits
+    a painful cold that leaves your hand and arm numb. That feeling passes after
+    a moment, allowing the shard to be handled normally.\",{\"type\":\"entries\",\"name\":\"Frigid
+    Touch (Simple Property)\",\"entries\":[\"As an action, you scribe the kalt rune
+    on the surface of  any volume of water. The water freezes in a 10-foot radius
+    around the spot where you scribed the rune.\"]},{\"type\":\"entries\",\"name\":\"Frost
+    Friend (Simple Property)\",\"entries\":[\"While you are attuned to this rune,
+    you have resistance to fire damage.\"]},{\"type\":\"entries\",\"name\":\"Icy
+    Mantle (Simple Property)\",\"entries\":[\"As an action, you scribe the kalt rune
+    using water onto yourself or another creature. The water instantly freezes into
+    a mantle of protective ice that does not hinder movement or action. The next
+    time the creature takes bludgeoning, slashing, or piercing damage, that damage
+    is reduced to zero and the icy mantle is destroyed.\"]},{\"type\":\"entries\",\"name\":\"Freezing
+    Bolt (Complex Property)\",\"entries\":[\"As an action, you scribe this rune using
+    water onto a creature within your reach as you expend a spell slot. The rune
+    freezes in place, and the creature must make a Constitution saving throw (DC
+    12 + the level of the expended spell slot). On a failure, the creature takes
+    {@damage 2d8} cold damage plus {@damage 1d8} cold damage per level of the expended
+    spell slot, and its speed is reduced to 0 until the end of your next turn. On
+    a successful saving throw, the creature takes half as much damage and its speed
+    is not affected.\"]},{\"type\":\"entries\",\"name\":\"Ice Brand (Complex Property)\",\"entries\":[\"Over
+    the course of a short rest, you inscribe this rune using water onto a melee or
+    ranged weapon, or onto up to 20 pieces of ammunition. The weapon or ammunition
+    gains a ghostly white aura and deals cold damage instead of piercing, slashing,
+    or bludgeoning damage.\",\"In addition, you can expend a spell slot while using
+    this property to grant the weapon or ammunition a bonus to attack rolls and damage
+    rolls equal to the spell slot's level divided by three.\",\"These effects last
+    for 24 hours or until you use this property again.\"]},{\"type\":\"entries\",\"name\":\"Winter's
+    Howl (Complex Property)\",\"entries\":[\"While you are attuned to this rune,
+    you can cast {@spell sleet storm} as an action. You regain this ability after
+    a short or long rest.\"]}]}"
+  DataHash: 2053e38f00ee0ef4b71bb4ccc7ff17d1

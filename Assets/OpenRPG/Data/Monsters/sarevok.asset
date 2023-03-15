@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sarevok
+  m_EditorClassIdentifier: 
+  Title: Sarevok
+  AsJson: '{"name":"Sarevok","isNamedCreature":true,"source":"MaBJoV","page":124,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":21,"from":["plate
+    armor of Bhaal"]}],"hp":{"average":119,"formula":"14d8 + 56"},"speed":{"walk":30},"str":20,"dex":10,"con":18,"int":11,"wis":16,"cha":14,"save":{"con":"+9","wis":"+8"},"skill":{"history":"+5","intimidation":"+12","religion":"+5"},"senses":["darkvision
+    60 ft."],"passive":13,"immune":["poison"],"conditionImmune":["charmed","frightened","poisoned"],"languages":["Abyssal","Common","Infernal"],"cr":"15","spellcasting":[{"name":"Spellcasting","headerEntries":["Sarevok
+    is a 12th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc
+    16}, {@hit 8} to hit with spell attacks). Sarevok has the following cleric spells
+    prepared:"],"spells":{"0":{"spells":["{@spell sacred flame}","{@spell thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell
+    command}","{@spell guiding bolt}","{@spell shield of faith}"]},"2":{"slots":3,"spells":["{@spell
+    hold person}","{@spell silence}","{@spell spiritual weapon}"]},"3":{"slots":3,"spells":["{@spell
+    animate dead}","{@spell dispel magic}"]},"4":{"slots":3,"spells":["{@spell divination}","{@spell
+    guardian of faith}"]},"5":{"slots":2,"spells":["{@spell contagion}","{@spell
+    insect plague}"]},"6":{"slots":1,"spells":["{@spell harm}"]}},"ability":"wis"}],"trait":[{"name":"Magic
+    Resistance","entries":["Sarevok has advantage on saving throws against spells
+    and other magical effects."]},{"name":"Rejuvenation","entries":["If Sarevok is
+    killed he gains a new body in 24 hours, regaining all his hit points and becoming
+    active again. The new body appears on the altar of the temple of Bhaal beneath
+    Baldur''s Gate. This ability ceases to function if a cleric of good alignment
+    casts the spell hallow on the altar in the temple of Bhaal."]}],"action":[{"name":"Multiattack","entries":["Sarevok
+    can cast a spell and make one attack with his long sword."]},{"name":"Long Sword","entries":["{@atk
+    mw} {@hit 10} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing
+    damage or 10 ({@dice 1d10 + 5}) if wielded in two hands. If the target is a creature,
+    it must succeed on a {@dc 16} Constitution saving throw or be cursed by Bhaal.
+    The cursed target can''t regain hit points. The curse lasts until removed by
+    the {@spell remove curse} spell or other magic."]},{"name":"Assassin''s Strike","entries":["Sarevok
+    makes an attack with his long sword. If he hits the target and has advantage
+    on the attack roll, then he deals an additional 21 ({@damage 6d6}) slashing damage.
+    If the target is a creature, it must succeed on a {@dc 16} Constitution saving
+    throw or be {@condition poisoned} for 10 minutes."]}],"legendary":[{"name":"Attack","entries":["Sarevok
+    makes one attack with his long sword."]},{"name":"Cast Cantrip","entries":["Sarevok
+    casts a cantrip from his spell list."]},{"name":"Channel Bhaal''s Hate (Costs
+    2 Actions)","entries":["Sarevok unleashes","Bhaal''s power. Creatures within
+    30 feet of Sarevok, including ones behind barriers and around corners, can''t
+    regain hit points until the end of Sarevok''s next turn."]}],"traitTags":["Magic
+    Resistance","Rejuvenation"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C","I"],"damageTags":["S"],"damageTagsSpell":["N","O","P","R"],"spellcastingTags":["CC"],"miscTags":["MW"],"conditionInflict":["poisoned"],"conditionInflictSpell":["blinded","deafened","paralyzed","poisoned","prone","stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 14b7475832a848f287bb7a45116ac367

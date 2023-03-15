@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: maccath-the-crimson
+  m_EditorClassIdentifier: 
+  Title: Maccath the Crimson
+  AsJson: '{"name":"Maccath the Crimson","isNpc":true,"source":"RoT","page":33,"otherSources":[{"source":"ToD","page":111}],"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"trait":{"mode":"prependArr","items":{"name":"5etools
+    Note","entries":["Maccath the Crimson is presented in {@adventure The Rise of
+    Tiamat|RoT} as a female tiefling sorcerer and member of the Arcane Brotherhood.
+    The {@creature mage} stat block, modified with tiefling racial traits, has been
+    provided here for ease of use."]}}}},"senseTags":["D"],"languageTags":["I","X"],"spellcastingTags":["CW","I"],"hasToken":true}'
+  DataHash: ea230b748ee59faf27732c6df9514d7d

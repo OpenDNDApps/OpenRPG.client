@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: basilisk
+  m_EditorClassIdentifier: 
+  Title: Basilisk
+  AsJson: '{"name":"Basilisk","source":"MM","page":24,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"MOT"},{"source":"IDRotF"}],"size":["M"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":52,"formula":"8d8 + 16"},"speed":{"walk":20},"str":16,"dex":8,"con":15,"int":2,"wis":8,"cha":7,"senses":["darkvision
+    60 ft."],"passive":9,"cr":"3","trait":[{"name":"Petrifying Gaze","entries":["If
+    a creature starts its turn within 30 feet of the basilisk and the two of them
+    can see each other, the basilisk can force the creature to make a {@dc 12} Constitution
+    saving throw if the basilisk isn''t {@condition incapacitated}. On a failed save,
+    the creature magically begins to turn to stone and is {@condition restrained}.
+    It must repeat the saving throw at the end of its next turn. On a success, the
+    effect ends. On a failure, the creature is {@condition petrified} until freed
+    by the  {@spell greater restoration} spell or other magic.","A creature that
+    isn''t {@quickref Surprise|PHB|3|0|surprised} can avert its eyes to avoid the
+    saving throw at the start of its turn. If it does so, it can''t see the basilisk
+    until the start of its next turn, when it can avert its eyes again. If it looks
+    at the basilisk in the meantime, it must immediately make the save.","If the
+    basilisk sees its reflection within 30 feet of it in bright light, it mistakes
+    itself for a rival and targets itself with its gaze."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing
+    damage plus 7 ({@damage 2d6}) poison damage."]}],"environment":["mountain"],"soundClip":{"type":"internal","path":"bestiary/basilisk.mp3"},"senseTags":["D"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["petrified","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: e63d6156c2c921ccdf413d90de6ee218

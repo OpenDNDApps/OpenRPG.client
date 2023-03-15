@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: elder-cartographer-s-glossography
+  m_EditorClassIdentifier: 
+  Title: Elder Cartographer's Glossography
+  AsJson: '{"name":"Elder Cartographer''s Glossography","source":"AI","page":20,"rarity":"uncommon","wondrous":true,"entries":["When
+    you attain rank 4, you gain a small tome that is an uncommon magic item. The
+    elder cartographer''s glossography grants advantage on Intelligence or Wisdom
+    checks related to geographical features or locations."]}'
+  DataHash: a7e2da834e4b8972da20f1904a50abe5

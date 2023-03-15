@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: demiplane
+  m_EditorClassIdentifier: 
+  Title: Demiplane
+  AsJson: '{"name":"Demiplane","source":"PHB","page":231,"srd":true,"level":8,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+    create a shadowy door on a flat solid surface that you can see within range.
+    The door is large enough to allow Medium creatures to pass through unhindered.
+    When opened, the door leads to a demiplane that appears to be an empty room 30
+    feet in each dimension, made of wood or stone. When the spell ends, the door
+    disappears, and any creatures or objects inside the demiplane remain trapped
+    there, as the door also disappears from the other side.","Each time you cast
+    this spell, you can create a new demiplane, or have the shadowy door connect
+    to a demiplane you created with a previous casting of this spell. Additionally,
+    if you know the nature and contents of a demiplane created by a casting of this
+    spell by another creature, you can have the shadowy door connect to its demiplane
+    instead."],"miscTags":["OBJ","PRM","SGT"]}'
+  DataHash: a24a809048200f7a0e28223a657dd2d8

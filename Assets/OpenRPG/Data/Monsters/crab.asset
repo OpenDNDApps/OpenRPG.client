@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: crab
+  m_EditorClassIdentifier: 
+  Title: Crab
+  AsJson: '{"name":"Crab","source":"MM","page":320,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"GoS"},{"source":"BGDIA"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":20,"swim":20},"str":2,"dex":11,"con":10,"int":1,"wis":8,"cha":2,"skill":{"stealth":"+2"},"senses":["blindsight
+    30 ft."],"passive":9,"cr":"0","trait":[{"name":"Amphibious","entries":["The crab
+    can breathe air and water."]}],"action":[{"name":"Claw","entries":["{@atk mw}
+    {@hit 0} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."]}],"environment":["coastal"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/crab.mp3"},"traitTags":["Amphibious"],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 5f8de679d83ecd16731aa0a428fe9d19

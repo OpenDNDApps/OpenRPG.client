@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: skywrite
+  m_EditorClassIdentifier: 
+  Title: Skywrite
+  AsJson: '{"name":"Skywrite","source":"XGE","page":165,"otherSources":[{"source":"EEPC","page":22}],"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"sight"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"ritual":true},"entries":["You
+    cause up to ten words to form in a part of the sky you can see. The words appear
+    to be made of cloud and remain in place for the spell''s duration. The words
+    dissipate when the spell ends. A strong wind can disperse the clouds and end
+    the spell early."],"miscTags":["SGT"]}'
+  DataHash: a99a53f9c5ce2a3d6db9ef6386f0e2fa

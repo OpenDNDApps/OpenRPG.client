@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-octopus
+  m_EditorClassIdentifier: 
+  Title: Giant Octopus
+  AsJson: '{"name":"Giant Octopus","source":"MM","page":326,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"RoT"},{"source":"GoS"},{"source":"EGW"},{"source":"MOT"},{"source":"TCE"},{"source":"CRCotN"},{"source":"DSotDQ"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[11],"hp":{"average":52,"formula":"8d10
+    + 8"},"speed":{"walk":10,"swim":60},"str":17,"dex":13,"con":13,"int":4,"wis":10,"cha":4,"skill":{"perception":"+4","stealth":"+5"},"senses":["darkvision
+    60 ft."],"passive":14,"cr":"1","trait":[{"name":"Hold Breath","entries":["While
+    out of water, the octopus can hold its breath for 1 hour."]},{"name":"Underwater
+    Camouflage","entries":["The octopus has advantage on Dexterity ({@skill Stealth})
+    checks made while underwater."]},{"name":"Water Breathing","entries":["The octopus
+    can breathe only underwater."]}],"action":[{"name":"Tentacles","entries":["{@atk
+    mw} {@hit 5} to hit, reach 15 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning
+    damage. If the target is a creature, it is {@condition grappled} (escape {@dc
+    16}). Until this grapple ends, the target is {@condition restrained}, and the
+    octopus can''t use its tentacles on another target."]},{"name":"Ink Cloud (Recharges
+    after a Short or Long Rest)","entries":["A 20-foot-radius cloud of ink extends
+    all around the octopus if it is underwater. The area is heavily obscured for
+    1 minute, although a significant current can disperse the ink. After releasing
+    the ink, the octopus can use the Dash action as a bonus action."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/giant-octopus.mp3"},"traitTags":["Hold
+    Breath","Water Breathing"],"senseTags":["D"],"actionTags":["Tentacles"],"damageTags":["B"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 02dad5f2d80b4a598b666b831fde3755

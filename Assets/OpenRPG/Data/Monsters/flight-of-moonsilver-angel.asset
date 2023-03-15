@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: flight-of-moonsilver-angel
+  m_EditorClassIdentifier: 
+  Title: Flight of Moonsilver Angel
+  AsJson: '{"name":"Flight of Moonsilver Angel","source":"PSI","page":26,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"deva","with":"angel"},"trait":{"mode":"appendArr","items":{"name":"Moonsilver
+    Spear","entries":["An angel of the Flight of Moonsilver wields a spear made from
+    a shard of the Helvault. Hit points lost to this weapon''s damage can be regained
+    only through a short or long rest, rather than by regeneration, magic, or any
+    other means. Once per turn, when the angel hits a creature with an attack using
+    this weapon, it can wound the target. At the start of each of the wounded creature''s
+    turns, it takes 1d4 necrotic damage for each time the angel has wounded it, and
+    it can then make a DC 15 Constitution saving throw, ending the effect of all
+    such wounds on itself on a success. Alternatively, the wounded creature, or a
+    creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine)
+    check, ending the effect of such wounds on it on a success."]}}}},"damageTags":["B","N","R"],"hasToken":true}'
+  DataHash: d70070e7956542313e8f87138cadecb7

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: divination
+  m_EditorClassIdentifier: 
+  Title: Divination
+  AsJson: '{"name":"Divination","source":"PHB","page":234,"srd":true,"basicRules":true,"level":4,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":{"text":"incense
+    and a sacrificial offering appropriate to your religion, together worth at least
+    25 gp, which the spell consumes","cost":2500,"consume":true}},"duration":[{"type":"instant"}],"meta":{"ritual":true},"entries":["Your
+    magic and an offering put you in contact with a god or a god''s servants. You
+    ask a single question concerning a specific goal, event, or activity to occur
+    within 7 days. The DM offers a truthful reply. The reply might be a short phrase,
+    a cryptic rhyme, or an omen.","The spell doesn''t take into account any possible
+    circumstances that might change the outcome, such as the casting of additional
+    spells or the loss or gain of a companion.","If you cast the spell two or more
+    times before finishing your next long rest, there is a cumulative {@chance 25|||Random
+    reading!|Regular reading} chance for each casting after the first that you get
+    a random reading. The DM makes this roll in secret."]}'
+  DataHash: f8ff923da492d520704756bda1d6226f

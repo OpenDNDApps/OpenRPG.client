@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: air-bubble
+  m_EditorClassIdentifier: 
+  Title: Air Bubble
+  AsJson: '{"name":"Air Bubble","source":"AAG","page":22,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"entries":["You
+    create a spectral globe around the head of a willing creature you can see within
+    range. The globe is filled with fresh air that lasts until the spell ends. If
+    the creature has more than one head, the globe of air appears around only one
+    of its heads (which is all the creature needs to avoid suffocation, assuming
+    that all its heads share the same respiratory system)."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, you can create two additional globes of fresh air for each slot
+    level above 2nd."]}],"miscTags":["SGT"],"hasFluffImages":true}'
+  DataHash: 7fca5b92e9c1b1fb7dcdf5e744be381a

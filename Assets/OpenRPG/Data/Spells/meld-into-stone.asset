@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: meld-into-stone
+  m_EditorClassIdentifier: 
+  Title: Meld into Stone
+  AsJson: '{"name":"Meld into Stone","source":"PHB","page":259,"srd":true,"level":3,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"meta":{"ritual":true},"entries":["You
+    step into a stone object or surface large enough to fully contain your body,
+    melding yourself and all the equipment you carry with the stone for the duration.
+    Using your movement, you step into the stone at a point you can touch. Nothing
+    of your presence remains visible or otherwise detectable by nonmagical senses.","While
+    merged with the stone, you can''t see what occurs outside it, and any Wisdom
+    ({@skill Perception}) checks you make to hear sounds outside it are made with
+    disadvantage. You remain aware of the passage of time and can cast spells on
+    yourself while merged in the stone. You can use your movement to leave the stone
+    where you entered it, which ends the spell. You otherwise can''t move.","Minor
+    physical damage to the stone doesn''t harm you, but its partial destruction or
+    a change in its shape (to the extent that you no longer fit within it) expels
+    you and deals {@damage 6d6} bludgeoning damage to you. The stone''s complete
+    destruction (or transmutation into a different substance) expels you and deals
+    50 bludgeoning damage to you. If expelled, you fall {@condition prone} in an
+    unoccupied space closest to where you first entered."],"damageInflict":["bludgeoning"],"conditionInflict":["prone"]}'
+  DataHash: 3e84ff2ae579fd9514b23757a9f2e6c8

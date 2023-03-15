@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: peregrine-mask
+  m_EditorClassIdentifier: 
+  Title: Peregrine Mask
+  AsJson: '{"name":"Peregrine Mask","source":"GGR","page":180,"rarity":"very rare","reqAttune":true,"wondrous":true,"modifySpeed":{"static":{"fly":60}},"entries":["While
+    wearing this winged helm, you have a flying speed of 60 feet. In addition, you
+    have advantage on initiative rolls."],"hasFluffImages":true}'
+  DataHash: 70a2ad1b42549bb1de95038be2820fe0

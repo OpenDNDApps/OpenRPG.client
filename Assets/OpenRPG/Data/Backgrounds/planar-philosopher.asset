@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145cbde14b1e5354080d2bffef1204ae, type: 3}
+  m_Name: planar-philosopher
+  m_EditorClassIdentifier: 
+  Title: Planar Philosopher
+  AsJson: '{"name":"Planar Philosopher","source":"UA2022WondersOfTheMultiverse","page":3,"feats":[{"scion
+    of the outer planes|ua2022wondersofthemultiverse":true}],"skillProficiencies":[{"arcana":true,"persuasion":true}],"languageProficiencies":[{"anyStandard":2}],"startingEquipment":[{"_":["common
+    clothes|phb",{"item":"pouch|phb","containsValue":1000}]}],"fromFeature":{"feats":true},"entries":[{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Skill
+    Proficiencies:","entry":"{@skill Arcana}, {@skill Persuasion}"},{"type":"item","name":"Languages:","entry":"Two
+    of your choice"},{"type":"item","name":"Equipment:","entry":"A set of {@item
+    common clothes|phb}, and a {@item pouch|phb} containing 10 gp comprised of coins
+    from different worlds and planes"}]},{"type":"entries","name":"Feature: Conviction","entries":["You
+    gain the {@feat Scion of the Outer Planes|UA2022WondersOfTheMultiverse} feat.
+    In addition, members of organization provide you free, modest lodging and food
+    at any of their holding or the homes of other faction members."],"data":{"isFeature":true}},{"type":"entries","name":"Building
+    a Planar Philosopher Character","entries":["Some groups of planar philosophers
+    might have preferences for or against certain types of characters, but by and
+    large any character that upholds and furthers the beliefs of the group is welcome
+    within its ranks.",{"type":"entries","name":"Suggested Characteristics","entries":["Adventurers
+    who dedicate themselves to a particular philosophy toward the multiverse are
+    welcomed among the faction that embraces those beliefs. The Planar Philosopher
+    Personality Traits table suggests various traits you might adopt for your character,
+    and which factions would welcome adventurers with those traits.",{"type":"table","caption":"Planar
+    Philosopher Personality Traits","colLabels":["d6","Personality Trait"],"colStyles":["col-1
+    text-center","col-11"],"rows":[["1","I don''t venerate any gods; we can be as
+    powerful or greater than them."],["2","Experience is everything, live in the
+    moment."],["3","When things crumble, I find meaning in the ashes."],["4","Life
+    thrives through order; I won''t tolerate disruptions."],["5","When others make
+    plans, the multiverse laughs and so do I."],["6","I know what''s right, and no
+    one will stand in my way."]]}]},{"type":"entries","name":"Planar Philosopher
+    Trinkets","entries":["When you make your character, you can roll once on the
+    Planar Philosopher Trinkets table, instead of on the Trinkets table in the Player''s
+    Handbook, for your starting trinket.",{"type":"table","caption":"Planar Philosopher
+    Trinkets","colLabels":["d6","Trinket"],"colStyles":["col-1 text-center","col-11"],"rows":[["1","A
+    locket with a picture of my mentor and an inscription I can''t read"],["2","A
+    bleached rat skull with colored glass beads in its eye sockets"],["3","A torn
+    parchment with half a rebus puzzle painted on it"],["4","A bracelet of twisted
+    razorvine stems"],["5","A fragment of verdigris-coated bronze blade"],["6","A
+    smooth river stone covered in tiny, carved holy symbols"]]}]}]}],"hasFluff":true}'
+  DataHash: a419cd6f9ef985b38081f097f2c12602

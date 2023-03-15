@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: tiger
+  m_EditorClassIdentifier: 
+  Title: Tiger
+  AsJson: '{"name":"Tiger","source":"MM","page":339,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"GoS"},{"source":"MOT"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":37,"formula":"5d10
+    + 10"},"speed":{"walk":40},"str":17,"dex":15,"con":14,"int":3,"wis":12,"cha":8,"skill":{"perception":"+3","stealth":"+6"},"senses":["darkvision
+    60 ft."],"passive":13,"cr":"1","trait":[{"name":"Keen Smell","entries":["The
+    tiger has advantage on Wisdom ({@skill Perception}) checks that rely on smell."]},{"name":"Pounce","entries":["If
+    the tiger moves at least 20 feet straight toward a creature and then hits it
+    with a claw attack on the same turn, that target must succeed on a {@dc 13} Strength
+    saving throw or be knocked {@condition prone}. If the target is {@condition prone},
+    the tiger can make one bite attack against it as a bonus action."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing
+    damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft.,
+    one target. {@h}7 ({@damage 1d8 + 3}) slashing damage."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/tiger.mp3"},"traitTags":["Keen
+    Senses","Pounce"],"senseTags":["D"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: 8632a593a35475d0e166bc57aaaf08e6

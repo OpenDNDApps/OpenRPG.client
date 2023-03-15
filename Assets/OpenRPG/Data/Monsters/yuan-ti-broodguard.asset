@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: yuan-ti-broodguard
+  m_EditorClassIdentifier: 
+  Title: Yuan-ti Broodguard
+  AsJson: '{"name":"Yuan-ti Broodguard","source":"VGM","page":203,"otherSources":[{"source":"ToA"}],"reprintedAs":["Yuan-ti
+    Broodguard|MPMM"],"size":["M"],"type":{"type":"humanoid","tags":["yuan-ti"]},"alignment":["N","E"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":30},"str":15,"dex":14,"con":14,"int":6,"wis":11,"cha":4,"save":{"str":"+4","dex":"+4","wis":"+2"},"skill":{"perception":"+2"},"senses":["darkvision
+    60 ft."],"passive":12,"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common","Draconic"],"cr":"2","trait":[{"name":"Mental
+    Resistance","entries":["The broodguard has advantage on saving throws against
+    being {@condition charmed}, and magic can''t paralyze it."]},{"name":"Reckless","entries":["At
+    the start of its turn, the broodguard can gain advantage on all melee weapon
+    attack rolls it makes during that turn, but attack rolls against it have advantage
+    until the start of its next turn."]}],"action":[{"name":"Multiattack","entries":["The
+    broodguard makes three attacks: one with its bite and two with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+    one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."]}],"variant":[{"type":"variant","name":"Chameleon
+    Skin","entries":["The yuan-ti has advantage on Dexterity (Stealth) checks made
+    to hide."],"_version":{"name":"Yuan-ti Broodguard (Chameleon Skin)","addAs":"trait"}},{"type":"variant","name":"Shed
+    Skin (1/Day)","entries":["The yuan-ti can shed its skin as a bonus action to
+    free itself from a grapple, shackles, or other restraints. If the yuan-ti spends
+    1 minute eating its shed skin, it regains hit points equal to half its hit point
+    maximum."],"_version":{"name":"Yuan-ti Broodguard (Shed Skin)","addAs":"bonus"}}],"environment":["underdark","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/yuan-ti-broodguard.mp3"},"traitTags":["Reckless"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C","DR"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: e049e7fc9b35d584e9bd077b3f9fba72

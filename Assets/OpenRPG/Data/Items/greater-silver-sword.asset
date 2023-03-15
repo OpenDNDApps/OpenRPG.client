@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: greater-silver-sword
+  m_EditorClassIdentifier: 
+  Title: Greater Silver Sword
+  AsJson: '{"name":"Greater Silver Sword","source":"MTF","page":89,"baseItem":"greatsword|phb","type":"M","resist":["psychic"],"rarity":"legendary","reqAttune":"by
+    a creature that has psionic ability","reqAttuneTags":[{"psionics":true}],"weight":6,"weaponCategory":"martial","property":["H","2H"],"dmg1":"2d6","dmgType":"S","bonusWeapon":"+3","entries":["This
+    magic weapon grants a +3 bonus to attack and damage rolls made with it. While
+    you hold the sword, you have advantage on Intelligence, Wisdom, and Charisma
+    saving throws, you are immune to being {@condition charmed}, and you have resistance
+    to psychic damage. In addition, if you score a critical hit with it against a
+    creature''s astral body, you can cut the silvery cord that tethers the target
+    to its material body, instead of dealing damage."],"hasFluffImages":true}'
+  DataHash: 5d1aede688c99c691c93e6fbb78e74a0

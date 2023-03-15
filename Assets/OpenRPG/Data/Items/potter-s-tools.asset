@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potter-s-tools
+  m_EditorClassIdentifier: 
+  Title: Potter's Tools
+  AsJson: '{"name":"Potter''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":84}],"type":"AT","rarity":"none","weight":3,"value":1000,"additionalEntries":["Potter''s
+    tools are used to create a variety of ceramic objects, most typically pots and
+    similar vessels.",{"type":"entries","name":"Components","entries":["Potter''s
+    tools include potter''s needles, ribs, scrapers, a knife, and calipers."]},{"type":"entries","name":"History","entries":["Your
+    expertise aids you in identifying ceramic objects, including when they were created
+    and their likely place or culture of origin."]},{"type":"entries","name":"Investigation,
+    Perception","entries":["You gain additional insight when inspecting ceramics,
+    uncovering clues others would overlook by spotting minor irregularities."]},{"type":"entries","name":"Reconstruction","entries":["By
+    examining pottery shards, you can determine an object''s original, intact form
+    and its likely purpose."]},{"type":"table","caption":"Potter''s Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2
+    text-center"],"rows":[["Determine what a vessel once held","10"],["Create a serviceable
+    pot","15"],["Find a weak point in a ceramic object","20"]]}]}'
+  DataHash: a8c4f09062df449ab91988dfaea083ff

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: runara
+  m_EditorClassIdentifier: 
+  Title: Runara
+  AsJson: '{"name":"Runara","isNpc":true,"isNamedCreature":true,"source":"DoSI","page":40,"_copy":{"name":"Adult
+    Bronze Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    dragon","with":"Runara","flags":"i"},"action":[{"mode":"removeArr","names":"Tail"},{"mode":"replaceArr","replace":"Change
+    Shape","items":{"name":"Change Shape","type":"entries","entries":["Runara magically
+    transforms into a Humanoid or Beast that is Medium or Small, while retaining
+    her game statistics (other than her size). This transformation ends if Runara
+    is reduced to 0 hit points or uses a bonus action to end it."]}}]}},"cr":"13","legendary":null,"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 0f113cacfc4e2957fa3d43ee166dcb0b

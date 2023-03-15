@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kasimir-velikov
+  m_EditorClassIdentifier: 
+  Title: Kasimir Velikov
+  AsJson: '{"name":"Kasimir Velikov","isNpc":true,"source":"CoS","page":233,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    mage","with":"Kasimir","flags":"i"},"trait":{"mode":"appendArr","items":[{"name":"Fey
+    Ancestry","entries":["Kasimir has advantage on saving throws against being {@condition
+    charmed}, and magic can''t put the him to sleep."]},{"name":"Special Equipment","entries":["Kasimir
+    wears a {@item ring of warmth} and carries a spellbook containing all the spells
+    he has prepared plus the following spells: {@spell arcane lock}, {@spell comprehend
+    languages}, {@spell hold person}, {@spell identify}, {@spell locate object},
+    {@spell nondetection}, {@spell polymorph}, {@spell protection from evil and good},
+    and {@spell wall of stone}."]}]}}},"type":{"type":"humanoid","tags":[{"tag":"elf","prefix":"Dusk"}]},"alignment":["N"],"senses":["darkvision
+    60 ft."],"spellcasting":[{"name":"Spellcasting","headerEntries":["Kasimir is
+    a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save
+    {@dc 14}, {@hit 6} to hit with spell attacks). Kasimir has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell fire bolt}","{@spell light}","{@spell
+    mage hand}","{@spell prestidigitation}"]},"1":{"slots":4,"spells":["{@spell detect
+    magic}","{@spell mage armor}","{@spell magic missile}","{@spell shield}"]},"2":{"slots":3,"spells":["{@spell
+    misty step}","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell counterspell}","{@spell
+    fireball}","{@spell fly}"]},"4":{"slots":3,"spells":["{@spell greater invisibility}","{@spell
+    ice storm}"]},"5":{"slots":1,"spells":["{@spell cone of cold}"]}},"ability":"int"}],"traitTags":["Fey
+    Ancestry"],"senseTags":["D"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 5147fc4aa56fc18c4a505b3e74c60bf6

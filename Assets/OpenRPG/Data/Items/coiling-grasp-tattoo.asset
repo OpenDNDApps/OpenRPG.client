@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: coiling-grasp-tattoo
+  m_EditorClassIdentifier: 
+  Title: Coiling Grasp Tattoo
+  AsJson: '{"name":"Coiling Grasp Tattoo","source":"UA2020SpellsAndMagicTattoos","page":9,"rarity":"uncommon","reqAttune":true,"wondrous":true,"tattoo":true,"entries":["This
+    tattoo has long intertwining designs. While the tattoo is on your skin, you can,
+    as an action, cause the tattoo to extrude into inky tendrils, which reach for
+    a creature you can see within 15 feet of you. The creature must succeed on a
+    DC 14 Strength saving throw or take {@damage 3d6} force damage and be {@condition
+    grappled} by you. As an action, the creature can escape the grapple by succeeding
+    on a DC 14 Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check.
+    The grapple also ends if you halt it (no action required), if the creature is
+    ever more than 15 feet away from you, or if you use this tattoo on a different
+    creature.",{"type":"entries","name":"Tattoo Attunement","entries":["To attune
+    to this item, you hold the needle to your skin where you want the tattoo to appear,
+    pressing the needle there throughout the attunement process. When the attunement
+    is complete, the needle turns into the ink that becomes the tattoo, which appears
+    on the skin. If you have multiple magic tattoos, they count as a single magic
+    item with regard to the number of magic items you can attune to.","If your attunement
+    to the tattoo ends, the tattoo vanishes, and the needle reappears in the closest
+    unoccupied space to you."]}]}'
+  DataHash: a1917b048861e91cc0f8a8b60cdb0a5d

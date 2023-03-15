@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: black-earth-guard
+  m_EditorClassIdentifier: 
+  Title: Black Earth Guard
+  AsJson: '{"name":"Black Earth Guard","source":"PotA","page":195,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":39,"formula":"6d8 + 12"},"speed":{"walk":30},"str":17,"dex":11,"con":14,"int":10,"wis":10,"cha":9,"skill":{"intimidation":"+1","perception":"+2"},"passive":12,"languages":["Common"],"cr":"2","action":[{"name":"Multiattack","entries":["The
+    guard makes two melee attacks."]},{"name":"Morningstar","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing
+    damage."]}],"reaction":[{"name":"Unyielding","entries":["When the guard is subjected
+    to an effect that would move it, knock it {@condition prone}, or both, it can
+    use its reaction to be neither moved nor knocked {@condition prone}."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: cb6a45b8a753888da0c4b173713de6cd

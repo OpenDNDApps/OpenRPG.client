@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: girallon-zombie
+  m_EditorClassIdentifier: 
+  Title: Girallon Zombie
+  AsJson: '{"name":"Girallon Zombie","source":"ToA","page":240,"size":["L"],"type":"undead","alignment":["C","E"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":30,"climb":30},"str":18,"dex":12,"con":16,"int":3,"wis":7,"cha":5,"senses":["darkvision
+    60 ft."],"passive":8,"immune":["poison"],"conditionImmune":["poisoned"],"cr":"3","trait":[{"name":"Aggressive","entries":["As
+    a bonus action, the zombie can move up to its speed toward a hostile creature
+    that it can see."]},{"name":"Undead Fortitude","entries":["If damage reduces
+    the zombie to 0 hit points, it must make a Constitution saving throw with a DC
+    of 5+the damage taken, unless the damage is radiant or from a critical hit. On
+    a success, the zombie drops to 1 hit point instead."]}],"action":[{"name":"Multiattack","entries":["The
+    zombie makes five attacks: one with its bite and four with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing
+    damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+    one target. {@h}6 ({@damage 1d4 + 4}) slashing damage."]}],"traitTags":["Aggressive","Undead
+    Fortitude"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 9b05a5f65a0b7583ac3386b77e76ba92

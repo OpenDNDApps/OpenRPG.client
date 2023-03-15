@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: minsc-and-boo
+  m_EditorClassIdentifier: 
+  Title: Minsc and Boo!
+  AsJson: '{"name":"Minsc and Boo!","isNamedCreature":true,"source":"MaBJoV","page":68,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[{"ac":13,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":136,"formula":"16d8
+    + 64"},"speed":{"walk":30},"str":20,"dex":12,"con":18,"int":10,"wis":10,"cha":10,"save":{"str":"+9","con":"+8"},"skill":{"athletics":"+9","perception":"+4","survival":"+8"},"passive":14,"languages":["Common","Sylvan"],"cr":"10","trait":[{"name":"Reckless","entries":["At
+    the start of his turn, Minsc can gain advantage on all melee weapon attack rolls
+    during that turn, but attack rolls against him have advantage until the start
+    of his next turn."]},{"name":"Favored Enemy","entries":["Minsc''s favored enemy
+    is evil. When he hits an evil creature with a melee attack he deals an additional
+    {@damage 1d6} slashing damage."]},{"name":"Go for the eyes Boo","entries":["Boo
+    is a miniature giant space hamster and has the statistics of a {@creature rat}.
+    As a bonus action, Minsc can talk to Boo and gain the inspiration to go into
+    a berserker fury. While in this berserking fury Minsc gains the following advantages:",{"type":"list","items":["Minsc
+    has advantage on Strength checks and Strength saving throws.","Minsc gains a
+    +4 bonus to the damage rolls when using a melee weapon.","Minsc has resistance
+    to bludgeoning, piercing, and slashing damage.","Minsc can make a single melee
+    weapon attack as a bonus","Minsc can''t be {@condition charmed} or {@condition
+    frightened} while raging. If Minsc is {@condition charmed} or {@condition frightened}
+    when he enters his berserking fury, the effect is suspended for the duration
+    of the rage","If Minsc drops to 0 hit points while in a berserking fury and doesn''t
+    die outright, he can make a {@dc 10} Constitution saving throw. If he succeeds,
+    he drops to 1 hit point instead. Each time he uses this feature after the first,
+    the DC increases by 5. After 24 hours, the DC resets to 10."]}]},{"name":"Boo,
+    The Miniature Giant Space Hamster","entries":["Boo is Minsc''s animal companion.
+    Boo is a miniature giant space hamster and has the statistics of a {@creature
+    rat}."]}],"action":[{"name":"Multiattack","entries":["Minsc makes two melee attacks."]},{"name":"Great
+    Sword","entries":["{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12
+    ({@damage 2d6 + 5}) slashing damage"]}],"reaction":[{"name":"Run, Boo, run!","entries":["If
+    Boo takes damage, Minsc can choose to take the damage instead."]}],"traitTags":["Reckless"],"actionTags":["Multiattack"],"languageTags":["C","S"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 33fb45a04dd315266bb6ac3f8c52b920

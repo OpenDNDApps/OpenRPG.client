@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sildar-hallwinter
+  m_EditorClassIdentifier: 
+  Title: Sildar Hallwinter
+  AsJson: '{"name":"Sildar Hallwinter","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":61,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[{"ac":16,"from":["{@item
+    chain mail|phb}"]}],"hp":{"average":27,"formula":"5d8 + 5"},"speed":{"walk":30},"str":13,"dex":10,"con":12,"int":10,"wis":11,"cha":10,"save":{"str":"+3","con":"+3"},"skill":{"perception":"+2"},"passive":12,"languages":["Common"],"cr":"1","action":[{"name":"Multiattack","entries":["Sildar
+    makes two melee attacks."]},{"name":"Longsword","entries":["{@atk mw} {@hit 3}
+    to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage."]},{"name":"Heavy
+    Crossbow","entries":["{@atk rw} {@hit 2} to hit, range 100/400 ft., one target.
+    {@h}5 ({@damage 1d10}) piercing damage."]}],"reaction":[{"name":"Parry","entries":["When
+    an attacker hits Sildar with a melee attack and Sildar can see the attacker,
+    he can roll {@dice 1d6} and add the number rolled to his AC against the triggering
+    attack, provided that he''s wielding a melee weapon."]}],"actionTags":["Multiattack","Parry"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 308b5f7c46a84b83e51683e30c84d679

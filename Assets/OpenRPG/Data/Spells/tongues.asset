@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: tongues
+  m_EditorClassIdentifier: 
+  Title: Tongues
+  AsJson: '{"name":"Tongues","source":"PHB","page":283,"srd":true,"level":3,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"m":"a
+    small clay model of a ziggurat"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["This
+    spell grants the creature you touch the ability to understand any spoken language
+    it hears. Moreover, when the target speaks, any creature that knows at least
+    one language and can hear the target understands what it says."],"areaTags":["ST"]}'
+  DataHash: 11f3c4b0e16dc13800460fa6f839cc60

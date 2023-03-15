@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: koris
+  m_EditorClassIdentifier: 
+  Title: Koris
+  AsJson: '{"name":"Koris","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":106,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+    assassin","with":"Koris","flags":"i"}}},"size":["M"],"alignment":["L","N"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true}'
+  DataHash: b16b7f95166d9be64cec9d5e1c1c1f87

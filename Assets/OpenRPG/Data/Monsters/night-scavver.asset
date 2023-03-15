@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: night-scavver
+  m_EditorClassIdentifier: 
+  Title: Night Scavver
+  AsJson: '{"name":"Night Scavver","source":"BAM","page":49,"size":["H"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":114,"formula":"12d12 + 36"},"speed":{"walk":0,"fly":40},"str":20,"dex":15,"con":17,"int":1,"wis":10,"cha":1,"skill":{"perception":"+6","stealth":"+8"},"senses":["darkvision
+    120 ft."],"passive":16,"cr":"5","trait":[{"name":"Unusual Nature","entries":["The
+    scavver doesn''t require air."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 8} to hit (with advantage if the target is a creature that is missing
+    any hit points), reach 10 ft., one target. {@h}27 ({@damage 4d10 + 5}) piercing
+    damage."]}],"traitTags":["Unusual Nature"],"senseTags":["SD"],"damageTags":["P"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 172fc89b8faf2307159da6da6d7d6e2e

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hill-giant-blorbo
+  m_EditorClassIdentifier: 
+  Title: Hill Giant, Blorbo
+  AsJson: '{"name":"Hill Giant, Blorbo","isNpc":true,"isNamedCreature":true,"source":"AWM","page":34,"size":["H"],"type":"giant","alignment":["C","E"],"ac":[13],"hp":{"special":"105"},"speed":{"walk":40},"str":21,"dex":8,"con":19,"int":5,"wis":9,"cha":6,"passive":0,"cr":"4","action":[{"name":"Multiattack","entries":["The
+    giant makes two greatclub attacks."]},{"name":"Greatclub","entries":["{@atk mw}
+    {@hit 8} to hit, one target. {@h}18 ({@damage 3d8 + 5}) bludgeoning damage."]},{"name":"Rock","entries":["{@atk
+    rw} {@hit 8} to hit, one target. {@h}21 ({@damage 3d10 + 5}) bludgeoning damage."]}],"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c5da569a175caa593811b8e00975c8a7

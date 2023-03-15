@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lizard
+  m_EditorClassIdentifier: 
+  Title: Lizard
+  AsJson: '{"name":"Lizard","source":"MM","page":332,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"JttRC"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":20,"climb":20},"str":2,"dex":11,"con":10,"int":1,"wis":8,"cha":3,"senses":["darkvision
+    30 ft."],"passive":9,"cr":"0","action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 0} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/lizard.mp3"},"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 2c7e847057f8ddda9d0e08846981b8e0

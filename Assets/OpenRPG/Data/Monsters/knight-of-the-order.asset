@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: knight-of-the-order
+  m_EditorClassIdentifier: 
+  Title: Knight of the Order
+  AsJson: '{"name":"Knight of the Order","source":"CoS","page":139,"_copy":{"name":"Revenant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"revenant","with":"knight"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+    knight makes two longsword attacks or two fist attacks."]}},{"mode":"insertArr","index":1,"items":{"name":"Longsword","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}15 ({@damage 2d10 + 4}) slashing
+    damage. If the target is a creature against which the knight has sworn vengeance,
+    the target takes an extra 14 ({@damage 4d6}) slashing damage."]}}]}},"alignment":["L","E"],"ac":[{"ac":13,"from":["broken
+    chainmail"]}],"damageTags":["B","S"],"hasToken":true}'
+  DataHash: ec9e5dee735d1d6f9c1e476a9920328d

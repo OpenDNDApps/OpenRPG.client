@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hippogriff
+  m_EditorClassIdentifier: 
+  Title: Hippogriff
+  AsJson: '{"name":"Hippogriff","source":"MM","page":184,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"WDH"},{"source":"ERLW"},{"source":"EGW"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[11],"hp":{"average":19,"formula":"3d10
+    + 3"},"speed":{"walk":40,"fly":60},"str":17,"dex":13,"con":13,"int":2,"wis":12,"cha":8,"skill":{"perception":"+5"},"passive":15,"cr":"1","trait":[{"name":"Keen
+    Sight","entries":["The hippogriff has advantage on Wisdom ({@skill Perception})
+    checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The
+    hippogriff makes two attacks: one with its beak and one with its claws."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft.,
+    one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."]}],"environment":["mountain","grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/hippogriff.mp3"},"traitTags":["Keen
+    Senses"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 9dbae341ffe4d10153ed684cfb201b4e

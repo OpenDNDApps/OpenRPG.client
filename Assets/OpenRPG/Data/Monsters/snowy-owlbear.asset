@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: snowy-owlbear
+  m_EditorClassIdentifier: 
+  Title: Snowy Owlbear
+  AsJson: '{"name":"Snowy Owlbear","source":"IDRotF","page":309,"_copy":{"name":"Owlbear","source":"MM"},"speed":{"walk":40,"swim":30},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: af489d9bdaa1d30c2000d50b206aab0c

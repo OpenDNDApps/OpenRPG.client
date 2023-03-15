@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: conjure-hezrou-ua
+  m_EditorClassIdentifier: 
+  Title: Conjure Hezrou (UA)
+  AsJson: '{"name":"Conjure Hezrou (UA)","source":"UAThatOldBlackMagic","page":2,"level":7,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"food
+    worth at least 100 gp, which the spell consumes","cost":10000,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    summon a {@creature hezrou} that appears in an unoccupied space you can see within
+    range. The {@creature hezrou} disappears when it drops to 0 hit points or when
+    the spell ends.","The {@creature hezrou}''s attitude depends on the value of
+    the food used as a material component for this spell. Roll initiative for the
+    {@creature hezrou}, which has its own turns. At the start of the {@creature hezrou}''s
+    turn, the DM makes a secret Charisma check on your behalf, with a bonus equal
+    to the food''s value divided by 20. The check DC starts at 10 and increases by
+    2 each round. You can issue orders to the {@creature hezrou} and have it obey
+    you as long as you succeed on the Charisma check.","If the check fails, the spell
+    no longer requires concentration and the demon is no longer under your control.
+    The {@creature hezrou} then focuses on devouring any corpses it can see. If there
+    are no such meals at hand, it attacks the nearest creatures and eats anything
+    it kills. If its hit points are reduced to below half its hit point maximum,
+    it returns to the Abyss.","As part of casting the spell, you can scribe a circle
+    on the ground using the blood of an intelligent humanoid slain within the past
+    24 hours. The circle is large enough to encompass your space. The summoned {@creature
+    hezrou} cannot cross the circle or target anyone in it while the spell lasts."],"abilityCheck":["charisma"],"miscTags":["SGT","SMN"]}'
+  DataHash: 0a5f2ca6cebd7f47a67ff8486e016407

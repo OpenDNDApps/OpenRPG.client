@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sequester
+  m_EditorClassIdentifier: 
+  Title: Sequester
+  AsJson: '{"name":"Sequester","source":"PHB","page":274,"srd":true,"level":7,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"a
+    powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000
+    gp, which the spell consumes","cost":500000,"consume":true}},"duration":[{"type":"permanent","ends":["dispel"]}],"entries":["By
+    means of this spell, a willing creature or an object can be hidden away, safe
+    from detection for the duration. When you cast the spell and touch the target,
+    it becomes {@condition invisible} and can''t be targeted by {@filter divination
+    spells|spells|school=D} or perceived through scrying sensors created by divination
+    spells.","If the target is a creature, it falls into a state of suspended animation.
+    Time ceases to flow for it, and it doesn''t grow older.","You can set a condition
+    for the spell to end early. The condition can be anything you choose, but it
+    must occur or be visible within 1 mile of the target. Examples include \"after
+    1,000 years\" or \"when the {@creature tarrasque} awakens.\" This spell also
+    ends if the target takes any damage."],"conditionInflict":["invisible"],"miscTags":["OBJ"],"areaTags":["ST"]}'
+  DataHash: 7e76042fa9f1b1324d7bc28e2a3c0e2b

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: werebear
+  m_EditorClassIdentifier: 
+  Title: Werebear
+  AsJson: '{"name":"Werebear","group":["Lycanthropes"],"source":"MM","page":208,"srd":true,"otherSources":[{"source":"GoS"},{"source":"EGW"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["human","shapechanger"]},"alignment":["N","G"],"ac":[{"ac":10,"condition":"in
+    humanoid form"},{"ac":11,"from":["natural armor"],"condition":"in bear or hybrid
+    form"}],"hp":{"average":135,"formula":"18d8 + 54"},"speed":{"walk":{"number":30,"condition":"(40
+    ft., climb 30 ft. in bear or hybrid form)"}},"str":19,"dex":10,"con":17,"int":11,"wis":12,"cha":12,"skill":{"perception":"+7"},"passive":17,"immune":[{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t silvered","cond":true}],"languages":["Common
+    (can''t speak in bear form)"],"cr":"5","trait":[{"name":"Shapechanger","entries":["The
+    werebear can use its action to polymorph into a Large bear-humanoid hybrid or
+    into a Large bear, or back into its true form, which is humanoid. Its statistics,
+    other than its size and AC, are the same in each form. Any equipment it is wearing
+    or carrying isn''t transformed. It reverts to its true form if it dies."]},{"name":"Keen
+    Smell","entries":["The werebear has advantage on Wisdom ({@skill Perception})
+    checks that rely on smell."]}],"action":[{"name":"Multiattack","entries":["In
+    bear form, the werebear makes two claw attacks. In humanoid form, it makes two
+    greataxe attacks. In hybrid form, it can attack like a bear or a humanoid."]},{"name":"Bite
+    (Bear or Hybrid Form Only)","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}15 ({@damage 2d10 + 4}) piercing damage. If the target is a humanoid,
+    it must succeed on a {@dc 14} Constitution saving throw or be cursed with werebear
+    lycanthropy."]},{"name":"Claw (Bear or Hybrid Form Only)","entries":["{@atk mw}
+    {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing
+    damage."]},{"name":"Greataxe (Humanoid or Hybrid Form Only)","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d12 + 4}) slashing
+    damage."]}],"variant":[{"type":"variant","name":"Nonhuman Lycanthropes","entries":["The
+    statistics presented in this section assume a base creature of human. However,
+    you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude
+    by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial
+    traits. For example, an elf werewolf might have the Fey Ancestry trait."]}],"environment":["forest","hill","arctic"],"soundClip":{"type":"internal","path":"bestiary/werebear.mp3"},"traitTags":["Keen
+    Senses","Shapechanger"],"actionTags":["Multiattack"],"languageTags":["C","CS"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: ce65387bc1cd5124a689297457e978b6

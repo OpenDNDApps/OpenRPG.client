@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: nedylene
+  m_EditorClassIdentifier: 
+  Title: Nedylene
+  AsJson: '{"name":"Nedylene","isNpc":true,"source":"TftYP","page":209,"_copy":{"name":"Drow
+    Priestess of Lolth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    drow","with":"Nedylene","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+    Equipment","entries":["Nedylene carries a {@item staff of swarming insects}."]}},"action":{"mode":"replaceArr","replace":"Scourge","items":{"name":"Scourge
+    +2","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 ({@damage
+    1d6 + 4}) piercing damage plus 17 ({@damage 5d6}) poison damage."]}}}},"hasToken":true}'
+  DataHash: 3aad6320235b93e7c96a67cad14067ea

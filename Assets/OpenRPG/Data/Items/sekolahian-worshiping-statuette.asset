@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: sekolahian-worshiping-statuette
+  m_EditorClassIdentifier: 
+  Title: Sekolahian Worshiping Statuette
+  AsJson: '{"name":"Sekolahian Worshiping Statuette","source":"GoS","page":229,"rarity":"common","wondrous":true,"entries":["Skillfully
+    carved from sandstone, this 1-foot-tall statuette depicts a shark twisting through
+    the water with its mouth open. If any Tiny sea-dwelling animal is within 1 inch
+    of the statuette''s mouth, the shark flashes to life and deals 1 piercing damage
+    to it. The shark can deal damage in this way no more than once per hour."]}'
+  DataHash: 0c3bbfc50c5440baf681b37e443c48e6

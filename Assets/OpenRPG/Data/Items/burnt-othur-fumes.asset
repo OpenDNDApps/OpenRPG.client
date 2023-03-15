@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: burnt-othur-fumes
+  m_EditorClassIdentifier: 
+  Title: Burnt Othur Fumes
+  AsJson: '{"name":"Burnt Othur Fumes","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":50000,"poison":true,"entries":["A
+    creature subjected to this poison must succeed on a DC 13 Constitution saving
+    throw or take 10 ({@damage 3d6}) poison damage, and must repeat the saving throw
+    at the start of each of its turns. On each successive failed save, the character
+    takes 3 ({@damage 1d6}) poison damage. After three successful saves, the poison
+    ends."],"poisonTypes":["inhaled"]}'
+  DataHash: 4b84373aded8c2f156af9f9256ac6243

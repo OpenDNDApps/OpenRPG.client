@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fog-giant
+  m_EditorClassIdentifier: 
+  Title: Fog Giant
+  AsJson: '{"name":"Fog Giant","source":"MFF","page":10,"size":["H"],"type":"giant","alignment":["N","E"],"ac":[{"ac":16,"from":["{@item
+    chain mail|phb}"]}],"hp":{"average":200,"formula":"16d12 + 96"},"speed":{"walk":40},"str":27,"dex":10,"con":22,"int":12,"wis":16,"cha":16,"save":{"con":"+10","wis":"+7","cha":"+7"},"skill":{"insight":"+7","perception":"+7","persuasion":"+7"},"passive":17,"languages":["Common","Giant"],"cr":"11","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The giant''s innate spellcasting ability is Charisma.
+    It can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    detect magic}","{@spell fog cloud}","{@spell light}"],"daily":{"3e":["{@spell
+    feather fall}","{@spell misty step}"]},"ability":"cha"}],"trait":[{"name":"Denizen
+    of the Mist","entries":["During its turn, the fog giant ignores the effects of
+    {@spell fog cloud} spells cast by it or other allied fog giants."]},{"name":"Keen
+    Smell","entries":["The giant has advantage on Wisdom (Perception) checks that
+    rely on smell."]}],"action":[{"name":"Multiattack","entries":["The giant makes
+    two greatsword attacks and casts {@spell fog cloud}."]},{"name":"Greatsword","entries":["{@atk
+    mw} {@hit 12} to hit, reach 10 ft., one target. {@h}29 ({@damage 6d6 + 8}) slashing
+    damage."]},{"name":"Rock","entries":["{@atk rw} {@hit 12} to hit, range 60/240
+    ft., one target. {@h}30 ({@damage 4d10 + 8}) bludgeoning damage."]},{"name":"Petty
+    Tyrant {@recharge}","entries":["The fog giant shouts bloodcurdling threats at
+    the creatures that serve it. Each medium or smaller ally of the giant within
+    120 feet of it that can see or hear it can use its reaction to make a melee attack."]}],"traitTags":["Keen
+    Senses"],"actionTags":["Multiattack"],"languageTags":["C","GI"],"damageTags":["B","S"],"spellcastingTags":["I"],"miscTags":["MW","RCH","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3c0cb8614a8bc9b6d41d9eb9ae67999e

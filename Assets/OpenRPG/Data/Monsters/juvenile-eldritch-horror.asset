@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: juvenile-eldritch-horror
+  m_EditorClassIdentifier: 
+  Title: Juvenile Eldritch Horror
+  AsJson: '{"name":"Juvenile Eldritch Horror","source":"KftGV","page":24,"_copy":{"name":"Behir","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"behir","with":"eldritch
+    horror"}}},"int":18,"languages":null,"spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    eldritch horror casts one of the following spells, requiring no components and
+    using Intelligence as the spellcasting ability (save {@dc 14}):"],"daily":{"1":["{@spell
+    project image}"],"2e":["{@spell blindness/deafness}","{@spell blur}"]},"ability":"int","displayAs":"action"}],"hasToken":true}'
+  DataHash: 95143f1ff361ad15aa95f3eab0aa6970

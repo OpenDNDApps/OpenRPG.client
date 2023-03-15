@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: heal
+  m_EditorClassIdentifier: 
+  Title: Heal
+  AsJson: '{"name":"Heal","source":"PHB","page":250,"srd":true,"basicRules":true,"level":6,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Choose
+    a creature that you can see within range. A surge of positive energy washes through
+    the creature, causing it to regain 70 hit points. This spell also ends {@condition
+    blinded||blindness}, {@condition deafened||deafness}, and any diseases affecting
+    the target. This spell has no effect on constructs or undead."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 7th
+    level or higher, the amount of healing increases by 10 for each slot level above
+    6th."]}],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL","SGT"],"areaTags":["ST"]}'
+  DataHash: 59940a89f305cd10f04316742e4a15cf

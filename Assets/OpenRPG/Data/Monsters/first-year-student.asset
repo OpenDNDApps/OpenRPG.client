@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: first-year-student
+  m_EditorClassIdentifier: 
+  Title: First-Year Student
+  AsJson: '{"name":"First-Year Student","source":"SCC","page":191,"size":["S","M"],"type":{"type":"humanoid","tags":["wizard"]},"alignment":["A"],"ac":[11],"hp":{"average":33,"formula":"6d8
+    + 6"},"speed":{"walk":30},"str":8,"dex":12,"con":13,"int":12,"wis":10,"cha":11,"passive":10,"languages":["Common
+    plus any two languages"],"cr":"1/2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    student casts one of the following spells, using Intelligence as the spellcasting
+    ability (spell save {@dc 11}):"],"will":["{@spell mage hand}","{@spell prestidigitation}"],"daily":{"1":["{@spell
+    detect magic}"]},"ability":"int","displayAs":"action"}],"trait":[{"name":"Excited
+    to Be Here","entries":["The student has advantage on initiative rolls."]}],"action":[{"name":"Magic
+    Flare","entries":["{@atk ms,rs} {@hit 3} to hit, reach 5 ft. or range 60 ft.,
+    one target. {@h}7 ({@damage 1d12 + 1}) force damage."]}],"reaction":[{"name":"Beginner''s
+    Luck (2/Day)","entries":["When the student fails a saving throw, it can reroll
+    the {@dice d20}. It must use the new roll."]}],"languageTags":["C","X"],"damageTags":["O"],"spellcastingTags":["O"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 30d3a16f165b4d0b81018b973aa02fe1

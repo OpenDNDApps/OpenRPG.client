@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: quetzalcoatlus
+  m_EditorClassIdentifier: 
+  Title: Quetzalcoatlus
+  AsJson: '{"name":"Quetzalcoatlus","group":["Dinosaurs"],"source":"VGM","page":140,"otherSources":[{"source":"ToA"}],"reprintedAs":["Quetzalcoatlus|MPMM"],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":30,"formula":"4d12 + 4"},"speed":{"walk":10,"fly":80},"str":15,"dex":13,"con":13,"int":2,"wis":10,"cha":5,"skill":{"perception":"+2"},"passive":12,"cr":"2","trait":[{"name":"Dive
+    Attack","entries":["If the quetzalcoatlus is flying and dives at least 30 feet
+    toward a target and then hits with a bite attack, the attack deals an extra 10
+    ({@dice 3d6}) damage to the target."]},{"name":"Flyby","entries":["The quetzalcoatlus
+    doesn''t provoke an opportunity attack when it flies out of an enemy''s reach."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 10 ft., one creature. {@h}12 ({@damage 3d6 + 2}) piercing
+    damage."]}],"environment":["mountain","hill","coastal"],"soundClip":{"type":"internal","path":"bestiary/quetzalcoatlus.mp3"},"traitTags":["Flyby"],"damageTags":["P"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true}'
+  DataHash: a14fd951612a53a3d9836d4de3033587

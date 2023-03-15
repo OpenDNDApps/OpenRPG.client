@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: wyvern
+  m_EditorClassIdentifier: 
+  Title: Wyvern
+  AsJson: '{"name":"Wyvern","source":"MM","page":303,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"PotA"},{"source":"SKT"},{"source":"WDMM"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"CM"},{"source":"JttRC"}],"size":["L"],"type":"dragon","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":110,"formula":"13d10 + 39"},"speed":{"walk":20,"fly":80},"str":19,"dex":10,"con":16,"int":5,"wis":12,"cha":6,"skill":{"perception":"+4"},"senses":["darkvision
+    60 ft."],"passive":14,"cr":"6","action":[{"name":"Multiattack","entries":["The
+    wyvern makes two attacks: one with its bite and one with its stinger. While flying,
+    it can use its claws in place of one other attack."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 10 ft., one creature. {@h}11 ({@damage 2d6 + 4}) piercing
+    damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}13 ({@damage 2d8 + 4}) slashing damage."]},{"name":"Stinger","entries":["{@atk
+    mw} {@hit 7} to hit, reach 10 ft., one creature. {@h}11 ({@damage 2d6 + 4}) piercing
+    damage. The target must make a {@dc 15} Constitution saving throw, taking 24
+    ({@damage 7d6}) poison damage on a failed save, or half as much damage on a successful
+    one."]}],"environment":["mountain","hill"],"soundClip":{"type":"internal","path":"bestiary/wyvern.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["I","P","S"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: afab2a34c78a3d048dc981d1b8632752

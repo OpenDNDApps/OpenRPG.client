@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: freedom-of-movement
+  m_EditorClassIdentifier: 
+  Title: Freedom of Movement
+  AsJson: '{"name":"Freedom of Movement","source":"PHB","page":244,"srd":true,"basicRules":true,"level":4,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+    leather strap, bound around the arm or a similar appendage"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+    touch a willing creature. For the duration, the target''s movement is unaffected
+    by {@quickref difficult terrain||3}, and spells and other magical effects can
+    neither reduce the target''s speed nor cause the target to be {@condition paralyzed}
+    or {@condition restrained}.","The target can also spend 5 feet of movement to
+    automatically escape from nonmagical restraints, such as manacles or a creature
+    that has it {@condition grappled}. Finally, being underwater imposes no penalties
+    on the target''s movement or attacks."],"conditionImmune":["paralyzed","restrained"],"areaTags":["ST"]}'
+  DataHash: 4062f04fe03380c95213b855bab01dff

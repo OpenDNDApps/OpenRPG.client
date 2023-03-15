@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: danoth-s-visor-exalted
+  m_EditorClassIdentifier: 
+  Title: Danoth's Visor (Exalted)
+  AsJson: '{"name":"Danoth''s Visor (Exalted)","source":"EGW","_copy":{"name":"Danoth''s
+    Visor (Awakened)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted","entries":["When
+    Danoth''s Visor reaches an exalted state, it gains the following properties:",{"type":"list","items":["You
+    automatically detect illusions you can see and automatically succeed on saving
+    throws against them. In addition, you see a bright aura around any creature that
+    isn''t in its true form.","As an action, you can cast the {@spell antimagic field}
+    spell from the visor. This property can''t be used again until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"attachedSpells":["antimagic
+    field"],"hasFluffImages":true}'
+  DataHash: ee210323aa616d0fe70b63396d515c1e

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: lyre-of-building
+  m_EditorClassIdentifier: 
+  Title: Lyre of Building
+  AsJson: '{"name":"Lyre of Building","source":"TCE","page":131,"type":"INS","rarity":"rare","reqAttune":"by
+    a bard","reqAttuneTags":[{"class":"bard"}],"wondrous":true,"weight":2,"grantsProficiency":true,"entries":["While
+    holding this {@item lyre|PHB}, you can cast {@spell mending} as an action. You
+    can also play the {@item lyre|PHB} as a reaction when an object or a structure
+    you can see within 300 feet of you takes damage, causing it to be immune to that
+    damage and any further damage of the same type until the start of your next turn.","In
+    addition, you can play the {@item lyre|PHB} as an action to cast {@spell fabricate},
+    {@spell move earth}, {@spell passwall}, or {@spell summon construct|TCE}, and
+    that spell can''t be cast from it again until the next dawn."],"attachedSpells":["fabricate","mending","move
+    earth","passwall","summon construct|tce"]}'
+  DataHash: 239921e5972a406457ac1e309397b1a0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: madam-kulp
+  m_EditorClassIdentifier: 
+  Title: Madam Kulp
+  AsJson: '{"name":"Madam Kulp","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":27,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Rock
+    Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the noble","with":"Madam
+    Kulp","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+  DataHash: 3a28e43f707a37e832898eb395f0b93b

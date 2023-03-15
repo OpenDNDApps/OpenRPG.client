@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: remote-access-ua
+  m_EditorClassIdentifier: 
+  Title: Remote Access (UA)
+  AsJson: '{"name":"Remote Access (UA)","source":"UAModernMagic","page":8,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"meta":{"technomagic":true},"entries":["You
+    can use any electronic device within range as if it were in your hands. This
+    is not a telekinesis effect. Rather, this spell allows you to simulate a device''s
+    mechanical functions electronically. You are able to access only functions that
+    a person using the device manually would be able to access. You can use remote
+    access with only one device at a time."]}'
+  DataHash: 0dc257f57e54ede75f4c48ff176d54f9

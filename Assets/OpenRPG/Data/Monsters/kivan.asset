@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kivan
+  m_EditorClassIdentifier: 
+  Title: Kivan
+  AsJson: '{"name":"Kivan","isNamedCreature":true,"source":"MaBJoV","page":48,"size":["M"],"type":{"type":"humanoid","tags":["elf"]},"alignment":["C","G"],"ac":[{"ac":16,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":66,"formula":"12d8
+    + 12"},"speed":{"walk":30},"str":16,"dex":18,"con":12,"int":11,"wis":14,"cha":11,"save":{"dex":"+7","wis":"+5"},"skill":{"nature":"+6","perception":"+8","stealth":"+10","survival":"+8"},"passive":18,"languages":["Common","Elvish","Sylvan"],"cr":"7","trait":[{"name":"Keen
+    Hearing and Sight","entries":["Kivan has advantage on Wisdom (Perception) checks
+    that rely on hearing or sight."]},{"name":"Fey Ancestry","entries":["Kivan has
+    advantage on saving throws against being {@condition charmed}, and magic can''t
+    put Kivan to sleep."]}],"action":[{"name":"Multiattack","entries":["Kivan makes
+    two melee attacks or two ranged attacks."]},{"name":"Long Sword","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+    damage or 8 ({@damage 1d10 + 3}) slashing damage if wielded with two hands."]},{"name":"Longbow","entries":["{@atk
+    rw} {@hit 7} to hit, ranged 150/600 ft., one target. {@h}8 ({@damage 1d8 + 4})
+    piercing damage."]},{"name":"Volley","entries":["Kivan can use his action to
+    make a ranged attack against any number of creatures with 10 feet of a point
+    he can see within the range of his weapon. He must make a separate attack roll
+    for each target."]}],"traitTags":["Fey Ancestry","Keen Senses"],"actionTags":["Multiattack"],"languageTags":["C","E","S"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 881eed2a6cc7569a0f5b67ab05b7d6a2

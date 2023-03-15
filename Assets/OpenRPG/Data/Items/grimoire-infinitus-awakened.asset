@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: grimoire-infinitus-awakened
+  m_EditorClassIdentifier: 
+  Title: Grimoire Infinitus (Awakened)
+  AsJson: '{"name":"Grimoire Infinitus (Awakened)","source":"EGW","_copy":{"name":"Grimoire
+    Infinitus (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["When
+    the Grimoire Infinitus reaches an awakened state, it gains the following properties:",{"type":"list","items":["While
+    you carry the spellbook, you have advantage on saving throws against spells and
+    magical effects.","When you prepare wizard spells using the grimoire as your
+    spellbook, the number of spells you can prepare increases by 1 again."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"hasFluffImages":true}'
+  DataHash: 1424bbe6828937a7a282e45a61c5a0ae

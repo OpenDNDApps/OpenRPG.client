@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: nature-s-mantle
+  m_EditorClassIdentifier: 
+  Title: Nature's Mantle
+  AsJson: '{"name":"Nature''s Mantle","source":"TCE","page":133,"rarity":"uncommon","reqAttune":"by
+    a druid or ranger","reqAttuneTags":[{"class":"druid"},{"class":"ranger"}],"wondrous":true,"weight":2,"focus":["Druid","Ranger"],"entries":["This
+    cloak shifts color and texture to blend with the terrain surrounding you. While
+    wearing the cloak, you can use it as a spellcasting focus for your druid and
+    ranger spells.","While you are in an area that is lightly obscured, you can {@action
+    Hide} as a bonus action even if you are being directly observed."],"hasFluffImages":true}'
+  DataHash: 787d1a680ed138d9a4b29f9df586ff5e

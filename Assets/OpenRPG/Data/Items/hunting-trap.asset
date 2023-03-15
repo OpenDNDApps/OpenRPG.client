@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: hunting-trap
+  m_EditorClassIdentifier: 
+  Title: Hunting Trap
+  AsJson: '{"name":"Hunting Trap","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":25,"value":500,"entries":["When
+    you use your action to set it, this trap forms a saw-toothed steel ring that
+    snaps shut when a creature steps on a pressure plate in the center. The trap
+    is affixed by a heavy chain to an immobile object, such as a tree or a spike
+    driven into the ground. A creature that steps on the plate must succeed on a
+    DC 13 Dexterity saving throw or take {@damage 1d4} piercing damage and stop moving.
+    Thereafter, until the creature breaks free of the trap, its movement is limited
+    by the length of the chain (typically 3 feet long). A creature can use its action
+    to make a DC 13 Strength check, freeing itself or another creature within its
+    reach on a success. Each failed check deals 1 piercing damage to the trapped
+    creature."]}'
+  DataHash: a76cb4bf278fc7602828af64e34b3704

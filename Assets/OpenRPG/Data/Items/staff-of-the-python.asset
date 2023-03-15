@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-the-python
+  m_EditorClassIdentifier: 
+  Title: Staff of the Python
+  AsJson: '{"name":"Staff of the Python","source":"DMG","page":204,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":"by
+    a cleric, druid, or warlock","reqAttuneTags":[{"class":"cleric"},{"class":"druid"},{"class":"warlock"}],"weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","staff":true,"entries":["You
+    can use an action to speak this staff''s command word and throw the staff on
+    the ground within 10 feet of you. The staff becomes a {@creature giant constrictor
+    snake} under your control and acts on its own initiative count. By using a bonus
+    action to speak the command word again, you return the staff to its normal form
+    in a space formerly occupied by the snake.","On your turn, you can mentally command
+    the snake if it is within 60 feet of you and you aren''t {@condition incapacitated}.
+    You decide what action the snake takes and where it moves during its next turn,
+    or you can issue it a general command, such as to attack your enemies or guard
+    a location.","If the snake is reduced to 0 hit points, it dies and reverts to
+    its staff form. The staff then shatters and is destroyed. If the snake reverts
+    to staff form before losing all its hit points, it regains all of them."],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 6ff0c157d463370b44069b252b8a21a6

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: warship
+  m_EditorClassIdentifier: 
+  Title: Warship
+  AsJson: '{"name":"Warship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":2500000,"crew":60,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":2.5,"capPassenger":60,"capCargo":200,"seeAlsoVehicle":["Warship"]}'
+  DataHash: 9d56c3546752921db47ccedc47a19da6

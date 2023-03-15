@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pride-silk
+  m_EditorClassIdentifier: 
+  Title: Pride Silk
+  AsJson: '{"name":"Pride Silk","source":"EGW","page":103,"type":"G","rarity":"none","weight":1,"value":10000,"entries":["The
+    hearty silk unique to the region has long been a point of pride with the locals.
+    When processed and woven properly, the resulting cloth is pride silk: an extremely
+    flexible material with the durability of tanned leather. Pride silk has become
+    a favorite cloth for use on military ship sails, war banners, and other utilitarian
+    applications, but has also gained popularity in affluent circles. High-end clothing
+    made from pride silk is both fashionable and protective, leading many nobles
+    and wealthy merchants to seek full outfits and formal gowns made with it. The
+    tailors skilled enough to create such outfits are few and far between, so while
+    pride silk might be expensive as a raw material, outfits made of the cloth are
+    prohibitively expensive for most common folk."]}'
+  DataHash: e5ba40dfa7a5324d54a17fc786a42de1
