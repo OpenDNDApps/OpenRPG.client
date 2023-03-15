@@ -4,111 +4,18 @@ using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using UnityEngine;
-using VGDevs;
 
 namespace OpenRPG
 {
-    public class ScriptableData : BaseScriptableObject
+    public class ScriptableData : OrcScriptableObject
     {
         public string Title;
         public string AsJson;
         public string DataHash;
         
-        public const string kBaseScriptableDataPath = "OpenRPG/";
-        
         public virtual void ParseSource(string source) {
             Debug.Log("Parsed: " + source);
         }
-        
-        #if UNITY_EDITOR
-        public static void ParseSourceFile<T>(string filePath, string idKey, string rootKey, string creationPath, ref List<T> existingData) where T : ScriptableData
-        {
-            if (!File.Exists(filePath))
-            {
-                Debug.LogError($"File not found: '{filePath}'");
-                return;
-            }
-            
-            JObject root = JsonConvert.DeserializeObject<JObject>(File.ReadAllText(filePath));
-            JArray books = (JArray) root?[rootKey];
-            
-            if (books == null)
-                return;
-
-            int skipped = 0;
-            int created = 0;
-            int added = 0;
-            foreach (JToken bookToken in books)
-            {
-                var book = (JObject) bookToken;
-
-                string title = book.Value<string>("name");
-                string id = book.Value<string>(idKey).AsSlug();
-                if (string.IsNullOrEmpty(title))
-                {
-                    Debug.Log($"Skipped: '{title.AsSlug()}'");
-                    continue;
-                }
-
-                string asJson = book.ToString(Formatting.None);
-                string hash = asJson.AsMD5Hash();
-
-                T newObject = null;
-                bool shouldCreateNewFile = false;
-                T found = existingData.Find(item => item.name.Equals(id)) as T;
-                if (found != null)
-                {
-                    if (found.DataHash.Equals(hash))
-                    {
-                        skipped++;
-                        continue;
-                    }
-
-                    newObject = found;
-                    newObject.AsJson = asJson;
-                    newObject.DataHash = hash;
-                    Debug.Log($"<color=orange><b>Updated:</b> '{title.AsSlug()}'</color>");
-                }
-                else
-                {
-                    shouldCreateNewFile = true;
-                    newObject = CreateInstance<T>();
-                    newObject.name = id;
-                    newObject.AsJson = asJson;
-                    newObject.DataHash = hash;
-                }
-
-                if (shouldCreateNewFile)
-                {
-                    created++;
-                    UnityEditor.AssetDatabase.CreateAsset(newObject, $"{creationPath}/{id}.asset");
-                }
-                
-                newObject.ParseSource(asJson);
-                
-                if (existingData.AddUnique(newObject))
-                {
-                    added++;
-                }
-
-                UnityEditor.EditorUtility.SetDirty(newObject);
-            }
-
-            if (skipped > 0)
-            {
-                Debug.Log($"<color=yellow><b>{skipped} Skipped:</b></color>");
-            }
-
-            if (created > 0)
-            {
-                Debug.Log($"<color=green><b>{created} Created:</b></color>");
-            }
-            if (added > 0)
-            {
-                Debug.Log($"<color=green><b>{added} Added:</b></color>");
-            }
-        }
-        #endif
     }
 
     [Flags]
@@ -136,6 +43,13 @@ namespace OpenRPG
         Colossal = 1 << 8
     }
     
+    public static class ScriptableDataExtensions
+    {
+        public static T GetByID<T>(this List<T> list, string id) where T : ScriptableData
+        {
+            return list.Find(item => item.name.Equals(id));
+        }
+    }
 }
 
 #if UNITY_EDITOR

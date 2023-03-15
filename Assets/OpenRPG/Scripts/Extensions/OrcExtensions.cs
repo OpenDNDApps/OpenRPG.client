@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace OpenRPG
 {
-    public static class RPGExtensions
+    public static class OrcExtensions
     {
         #region Alignment
         private static readonly Dictionary<string, Alignment> AlignmentsPair = new Dictionary<string, Alignment>(StringComparer.OrdinalIgnoreCase)

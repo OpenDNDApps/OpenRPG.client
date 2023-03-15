@@ -1,12 +1,9 @@
-using System;
-using System.Collections.Generic;
-using PlayFab;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using static VGDevs.GameResources;
+using VGDevs;
 
-namespace VGDevs
+namespace OpenRPG
 {
     public class UIMainMenu : UIWindow
     {

@@ -30,7 +30,7 @@ namespace OpenRPG
             if(source.StartsWith("ua"))
                 source = "ua";
 
-            var found = GameResources.RPGData.SourceBooks.Find(item => item.name.Equals(source.AsSlug()));
+            var found = GameResources.OrcData.SourceBooks.Find(item => item.name.Equals(source.AsSlug()));
             if (found == null || string.IsNullOrEmpty(page) || string.IsNullOrEmpty(source))
                 return;
             
@@ -140,7 +140,7 @@ namespace OpenRPG
         }
     }
 
-    public partial class RPGDataCollection
+    public partial class OrcDataCollection
     {
         
     }

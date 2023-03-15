@@ -12,18 +12,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c8953d27582765499cdcdf0730ce55f, type: 3}
   m_Name: RPGData
   m_EditorClassIdentifier: 
-  Title: 
-  AsJson: 
-  DataHash: 
   SourceFiles:
-  - Title: Feats
-    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/feats.json
-    TargetFolderPath: Assets/OpenRPG/Data/Feats
-    ParsingMethodName: ParseFeats
+  - Title: Backgrounds
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/backgrounds.json
+    TargetFolderPath: Assets/OpenRPG/Data/Backgrounds
+    ParsingMethodName: ParseBackgrounds
   - Title: Source Books
     FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/books.json
     TargetFolderPath: Assets/OpenRPG/Data/Books
     ParsingMethodName: ParseBooks
+  - Title: Classes
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/classes.json
+    TargetFolderPath: Assets/OpenRPG/Data/Classes
+    ParsingMethodName: ParseClasses
+  - Title: Feats
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/feats.json
+    TargetFolderPath: Assets/OpenRPG/Data/Feats
+    ParsingMethodName: ParseFeats
+  - Title: Items
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/items.json
+    TargetFolderPath: Assets/OpenRPG/Data/Items
+    ParsingMethodName: ParseItems
+  - Title: Languages
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/languages.json
+    TargetFolderPath: Assets/OpenRPG/Data/Languages
+    ParsingMethodName: ParseLanguages
+  - Title: Monsters
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/monsters.json
+    TargetFolderPath: Assets/OpenRPG/Data/Monsters
+    ParsingMethodName: ParseMonsters
+  - Title: Races
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/races.json
+    TargetFolderPath: Assets/OpenRPG/Data/Races
+    ParsingMethodName: ParseRaces
+  - Title: Skills
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/skills.json
+    TargetFolderPath: Assets/OpenRPG/Data/Skills
+    ParsingMethodName: ParseSkills
+  - Title: Spells
+    FilePath: Assets/StreamingAssets/DataFiles/d&d_5e/spells.json
+    TargetFolderPath: Assets/OpenRPG/Data/Spells
+    ParsingMethodName: ParseSpells
+  Backgrounds: []
   SourceBooks:
   - {fileID: 11400000, guid: 156bf368f32d07c4aa79cfcd63aa82c2, type: 2}
   - {fileID: 11400000, guid: 90356e4e1b3715e4a921b56a4c31d987, type: 2}
@@ -63,6 +93,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   - {fileID: 11400000, guid: 9d6b5d3a5d1a6b345b6e757d819bba1a, type: 2}
   - {fileID: 11400000, guid: 253e76f7e581bdc4092643f29efad308, type: 2}
+  Classes: []
   Feats:
   - {fileID: 11400000, guid: a1166e41c198b7744955325a99fffdff, type: 2}
   - {fileID: 11400000, guid: 5b877767e1bb3454cadea13ea4a577ef, type: 2}
@@ -235,3 +266,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 18ccb3b03a444ee42a3f82766e5969a2, type: 2}
   - {fileID: 11400000, guid: 13163c61b46f92b4f83931b765480308, type: 2}
   - {fileID: 11400000, guid: 7bb64699a53d1a5469f21c7578813dc4, type: 2}
+  Items: []
+  Languages: []
+  Monsters: []
+  Races: []
+  Skills: []
+  Spells: []

@@ -6,7 +6,9 @@ namespace VGDevs
     {
         public static GameRuntime Runtime => GameRuntime.Instance;
         
-        public const string kPluginName = "VGDevs";
+        // TODO: Do not merge this to VGDevs.
+        public const string kPluginName = "ORC";
+        
         public const string kCreateMenuPrefixNameResources = kPluginName + "/Base Collections/";
         public const string kCreateMenuPrefixModules = kPluginName + "/Modules/";
 

@@ -1,13 +1,12 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using Cinemachine;
 using UnityEngine;
 using VGDevs;
 
 namespace OpenRPG
 {
-    public class MonoORC : BaseBehaviour
+    public class OrcScriptableObject : BaseScriptableObject
     {
+        public const string kBaseScriptableDataPath = "ORC/";
     }
 }

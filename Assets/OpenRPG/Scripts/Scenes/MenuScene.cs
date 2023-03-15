@@ -2,10 +2,11 @@ using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using VGDevs;
 
-namespace VGDevs
+namespace OpenRPG
 {
-    public class MenuScene : MonoBehaviour
+    public class MenuScene : OrcMono
     {
         private UIMainMenu m_uiMainMenu = null;
         
