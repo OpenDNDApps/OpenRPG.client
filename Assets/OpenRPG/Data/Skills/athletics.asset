@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
+  m_Name: athletics
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Athletics","source":"PHB","page":175,"srd":true,"basicRules":true,"entries":["Your
+    Strength (Athletics) check covers difficult situations you encounter while climbing,
+    jumping, or swimming. Examples include the following activities:",{"type":"list","items":["You
+    attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall,
+    or cling to a surface while something is trying to knock you off.","You try to
+    jump an unusually long distance or pull off a stunt mid jump.","You struggle
+    to swim or stay afloat in treacherous currents, storm-tossed waves, or areas
+    of thick seaweed. Or another creature tries to push or pull you underwater or
+    otherwise interfere with your swimming."]}]}'
+  DataHash: 2c7741ec74d95182f641ca74a4976925

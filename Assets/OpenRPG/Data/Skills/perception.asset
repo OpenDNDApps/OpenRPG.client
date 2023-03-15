@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
+  m_Name: perception
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Perception","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
+    Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence
+    of something. It measures your general awareness of your surroundings and the
+    keenness of your senses.","For example, you might try to hear a conversation
+    through a closed door, eavesdrop under an open window, or hear monsters moving
+    stealthily in the forest. Or you might try to spot things that are obscured or
+    easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in
+    the shadows of an alley, or candlelight under a closed secret door."]}'
+  DataHash: 082ea7342fb66bdb68c6b136069b1884

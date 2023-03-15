@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
+  m_Name: investigation
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Investigation","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["When
+    you look around for clues and make deductions based on those clues, you make
+    an Intelligence (Investigation) check. You might deduce the location of a hidden
+    object, discern from the appearance of a wound what kind of weapon dealt it,
+    or determine the weakest point in a tunnel that could cause it to collapse. Poring
+    through ancient scrolls in search of a hidden fragment of knowledge might also
+    call for an Intelligence (Investigation) check."]}'
+  DataHash: 9ae31f028f3f4abf5f070ffa9b53026b
