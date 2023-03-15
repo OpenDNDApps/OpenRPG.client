@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: poisoner
+  m_EditorClassIdentifier: 
+  Title: Poisoner
+  AsJson: '{"name":"Poisoner","source":"UA2020Feats","page":2,"toolProficiencies":[{"poisoner''s
+    kit":true}],"entries":["You can prepare and deliver deadly poisons, gaining the
+    following benefits:",{"type":"list","items":["When you make a damage roll, you
+    ignore resistance to poison damage.","You can coat a weapon in poison as a bonus
+    action, instead of an action.","You gain proficiency with the {@item poisoner''s
+    kit|phb} if you don''t already have it. With one hour of work using a {@item
+    poisoner''s kit|PHB} and expending 50 gp worth of materials, you can create a
+    number of doses of potent poison equal to your proficiency bonus. Once applied,
+    the poison retains potency for 1 minute, or until you hit with the weapon. When
+    a weapon coated in this poison deals damage to a creature, that creature must
+    succeed on a DC 14 Constitution saving throw or take {@damage 2d8} poison damage
+    and become {@condition poisoned} until the end of your next turn."]}]}'
+  DataHash: e98afa47a9f7cf787a2c843b693ad08c
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

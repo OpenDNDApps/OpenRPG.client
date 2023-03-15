@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: resilient
+  m_EditorClassIdentifier: 
+  Title: Resilient
+  AsJson: '{"name":"Resilient","source":"PHB","page":168,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1,"entry":"Increase
+    the chosen ability score by 1, to a maximum of 20."}}],"savingThrowProficiencies":[{"choose":{"from":["str","dex","con","int","wis","cha"]}}],"entries":["Choose
+    one ability score. You gain the following benefits:",{"type":"list","items":["You
+    gain proficiency in saving throws using the chosen ability."]}]}'
+  DataHash: 82d66c0bc79c2ce70e64b77230d99bf0
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 168
+  Prerequisites: []

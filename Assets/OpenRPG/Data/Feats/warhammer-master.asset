@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: warhammer-master
+  m_EditorClassIdentifier: 
+  Title: Warhammer Master
+  AsJson: '{"name":"Warhammer Master","source":"UAFeats","page":2,"entries":["{@note
+    This feat is presented as an illustrative example of a poorly-designed feat,
+    and is not intended to be used in play. The {@feat Fell Handed|UAFeats} feat
+    is presented as a well-designed implementation of the same ideas, and should
+    be used instead.}","When you hit a creature with a {@item warhammer|phb}, the 
+    creature must succeed on a Strength saving  throw (DC 8 + your proficiency bonus
+    + your  Strength modifier) or be knocked {@condition prone}.","In addition, you
+    can use your warhammer to  knock away a foe''s shield. If you hit a creature 
+    that''s using a shield, you can have the attack deal  no damage and force the
+    creature to drop its  shield."]}'
+  DataHash: 379088a5161894dba608efca53ab605b
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: ps-x
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Plane Shift: Ixalan","id":"PS-X","source":"PSX","group":"supplement-alt","coverUrl":"img/covers/PSX.png","published":"2018-01-09","author":"Wizards
+    RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Ixalan","headers":["Sun
+    Empire","River Heralds","Legion of Dusk","Brazen Coalition"]},{"name":"Races
+    of Ixalan"},{"name":"Land of the Great River","headers":["Ancient Sites","Treasure"]},{"name":"An
+    Ixalan Bestiary","headers":["Appendix: The Colors of Magic"]}]}'
+  DataHash: d3ee415c81a2234c2a2a54496c313122
+  CoverURL: 
+  Published: 
+  Author: 

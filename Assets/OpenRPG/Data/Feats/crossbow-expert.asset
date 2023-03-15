@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: crossbow-expert
+  m_EditorClassIdentifier: 
+  Title: Crossbow Expert
+  AsJson: '{"name":"Crossbow Expert","source":"PHB","page":165,"entries":["Thanks
+    to extensive practice with the crossbow, you gain the following benefits:",{"type":"list","items":["You
+    ignore the loading quality of crossbows with which you are proficient.","Being
+    within 5 feet of a hostile creature doesn''t impose disadvantage on your ranged
+    attack rolls.","When you use the {@action Attack} action and attack with a one-handed
+    weapon, you can use a bonus action to attack with a {@item hand crossbow|phb}
+    you are holding."]}]}'
+  DataHash: 948d8197a40f4c7e847463d643486f88
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 165
+  Prerequisites: []

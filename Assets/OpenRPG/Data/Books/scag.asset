@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: scag
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: "{\"name\":\"Sword Coast Adventurer's Guide\",\"id\":\"SCAG\",\"source\":\"SCAG\",\"group\":\"setting\",\"coverUrl\":\"img/covers/SCAG.png\",\"published\":\"2015-11-03\",\"author\":\"Wizards
+    RPG Team\",\"contents\":[{\"name\":\"Preface\"},{\"name\":\"Welcome to the Realms\",\"headers\":[\"The
+    Sword Coast and the North\",\"Toril and Its Lands\",\"Time in the Realms\",\"A
+    Brief History\",\"Magic in the Realms\",\"Religion in the Realms\",\"The Gods
+    of Faer\xFBn\"],\"ordinal\":{\"type\":\"chapter\",\"identifier\":1}},{\"name\":\"The
+    Sword Coast and the North\",\"headers\":[\"Note to the DM: Making the Realms
+    Yours\",\"The Lords' Alliance\",\"Dwarfholds of the North\",\"Island Kingdoms\",\"Independent
+    Realms\",\"The Underdark\"],\"ordinal\":{\"type\":\"chapter\",\"identifier\":2}},{\"name\":\"Races
+    of the Realms\",\"headers\":[\"Dwarves\",\"Elves\",\"Halflings\",\"Humans\",\"Dragonborn\",\"Gnomes\",\"Half-Elves\",\"Half-Orcs\",\"Tieflings\"],\"ordinal\":{\"type\":\"chapter\",\"identifier\":3}},{\"name\":\"Classes\",\"headers\":[\"Barbarians\",\"Primal
+    Paths\",\"Bards\",\"The Harpers\",\"Bardic Colleges\",\"Musical Instruments\",\"Clerics\",\"Divine
+    Domain\",\"Druids\",\"Druid Circles\",\"Fighters\",\"Martial Archetype\",\"Monks\",\"Monastic
+    Orders\",\"Monastic Traditions\",\"Paladins\",\"Paladin Orders\",\"Sacred Oath\",\"Rangers\",\"Rogues\",\"Roguish
+    Archetypes\",\"Sorcerers\",\"Sorcerous Origin\",\"Warlocks\",\"Otherworldly Patron\",\"Wizards\",\"Wizardly
+    Groups\",\"Arcane Tradition\",\"Cantrips for Sorcerers, Warlocks, and Wizards\"],\"ordinal\":{\"type\":\"chapter\",\"identifier\":4}},{\"name\":\"Backgrounds\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":5}}]}"
+  DataHash: 132c315416129efc1827358f766c1486
+  CoverURL: 
+  Published: 
+  Author: 

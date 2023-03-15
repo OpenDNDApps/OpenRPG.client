@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: lucky
+  m_EditorClassIdentifier: 
+  Title: Lucky
+  AsJson: '{"name":"Lucky","source":"PHB","page":167,"entries":["You have inexplicable
+    luck that seems to kick in at just the right moment.","You have 3 luck points.
+    Whenever you make an attack roll, an ability check, or a saving throw, you can
+    spend one luck point to roll an additional {@dice d20}. You can choose to spend
+    one of your luck points after you roll the die, but before the outcome is determined.
+    You choose which of the {@dice d20}s is used for the attack roll, ability check,
+    or saving throw.","You can also spend one luck point when an attack roll is made
+    against you. Roll a {@dice d20}, and then choose whether the attack uses the
+    attacker''s roll or yours. If more than one creature spends a luck point to influence
+    the outcome of a roll, the points cancel each other out; no additional dice are
+    rolled.","You regain your expended luck points when you finish a long rest."]}'
+  DataHash: 65d49179e1f6bef2faeba19bbde89234
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 167
+  Prerequisites: []

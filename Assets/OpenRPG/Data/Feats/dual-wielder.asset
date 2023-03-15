@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: dual-wielder
+  m_EditorClassIdentifier: 
+  Title: Dual Wielder
+  AsJson: '{"name":"Dual Wielder","source":"PHB","page":165,"entries":["You master
+    fighting with two weapons, gaining the following benefits:",{"type":"list","items":["You
+    gain a +1 bonus to AC while you are wielding a separate melee weapon in each
+    hand.","You can use two-weapon fighting even when the one-handed melee weapons
+    you are wielding aren''t light.","You can draw or stow two one-handed weapons
+    when you would normally be able to draw or stow only one."]}]}'
+  DataHash: adaf44b20f13c8807707f19a758f7401
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 165
+  Prerequisites: []

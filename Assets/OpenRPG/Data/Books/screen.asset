@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: screen
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Dungeon Master''s Screen","id":"Screen","source":"Screen","group":"screen","coverUrl":"img/covers/Screen.png","published":"2015-01-20","contents":[{"name":"Tables"}]}'
+  DataHash: f80eb55ace85a6debd1f1763d38627d3
+  CoverURL: 
+  Published: 
+  Author: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: scc
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Strixhaven: A Curriculum of Chaos","id":"SCC","source":"SCC","group":"setting","coverUrl":"img/covers/SCC.png","published":"2021-12-07","author":"Wizards
+    RPG Team","contents":[{"name":"Welcome to Strixhaven","headers":["About This
+    Book","Orientation","Strixhaven''s World"]},{"name":"Life at Strixhaven","headers":["Magical
+    Study","Campus Overview","Lorehold College","Prismari College","Quandrix College","Silverquill
+    College","Witherbloom College"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Character
+    Options","headers":["Race Option","Choosing a College","Strixhaven Backgrounds","Feats","Spells","Magic
+    Items"],"ordinal":{"type":"chapter","identifier":2}},{"name":"School Is in Session","headers":["Running
+    the Adventures","Strixhaven Tracking Sheet","Extracurriculars","Jobs","Exams","Relationships","Session
+    Zero","Using These Rules","Making Friends and Rivals","Fellow Students"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Campus
+    Kerfuffle","ordinal":{"type":"chapter","identifier":3}},{"name":"Hunt for Mage
+    Tower","ordinal":{"type":"chapter","identifier":4}},{"name":"The Magister''s
+    Masquerade","ordinal":{"type":"chapter","identifier":5}},{"name":"A Reckoning
+    in Ruins","ordinal":{"type":"chapter","identifier":6}},{"name":"Friends and Foes","headers":["Using
+    a Stat Block"],"ordinal":{"type":"chapter","identifier":7}},{"name":"Campus Map","ordinal":{"type":"appendix"}}]}'
+  DataHash: e0312ae7ca6777a7bccbe44b98f1e495
+  CoverURL: 
+  Published: 
+  Author: 

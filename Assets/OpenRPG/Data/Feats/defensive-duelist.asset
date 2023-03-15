@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: defensive-duelist
+  m_EditorClassIdentifier: 
+  Title: Defensive Duelist
+  AsJson: '{"name":"Defensive Duelist","source":"PHB","page":165,"prerequisite":[{"ability":[{"dex":13}]}],"entries":["When
+    you are wielding a finesse weapon with which you are proficient and another creature
+    hits you with a melee attack, you can use your reaction to add your proficiency
+    bonus to your AC for that attack, potentially causing the attack to miss you."]}'
+  DataHash: d44864feacee54f4e736bc62c5faed5d
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 165
+  Prerequisites: []

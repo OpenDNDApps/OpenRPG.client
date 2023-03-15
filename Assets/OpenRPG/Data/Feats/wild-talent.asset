@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: wild-talent
+  m_EditorClassIdentifier: 
+  Title: Wild Talent
+  AsJson: '{"name":"Wild Talent","source":"UA2020PsionicOptionsRevisited","page":9,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1},"hidden":true}],"entries":["You
+    awaken to your psionic potential, which enhances your mind or body. Increase
+    one ability score of your choice by 1, to a maximum of 20, to represent this
+    enhancement.","You also harbor a wellspring of psionic power within yourself,
+    an energy that ebbs and flows as you channel it in various ways. This power is
+    represented by your Psionic Talent die, the starting size of which is a {@dice
+    d6}.",{"type":"entries","name":"Psionic Talent Options","entries":["You can use
+    your Psionic Talent die in the following ways:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Psi-Boosted
+    Ability","entry":"When you make an ability check with the ability increased by
+    this feat, you can roll your Psionic Talent die and add the number rolled to
+    the check. You can choose to do so before or after rolling the {@dice d20}, but
+    before you know whether the check succeeded or failed."},{"type":"item","name":"Psi-Guided
+    Strike","entry":"Once on each of your turns when you hit with an attack roll
+    that uses the ability increased by this feat, you can roll your Psionic Talent
+    die after you make the damage roll and then replace one of the damage dice with
+    the number rolled on the Psionic Talent die."}]}]},{"type":"entries","name":"Changing
+    the Die''s Size","entries":["If you roll the highest number on your Psionic Talent
+    die, it decreases by one die size after the roll. This represents you burning
+    through your psionic energy. For example, if the die is a {@dice d6} and you
+    roll a 6, it becomes a {@dice d4}. If it''s a {@dice d4} and you roll a 4, it
+    becomes unusable until you finish a long rest.","Conversely, if you roll a 1
+    on your Psionic Talent die, it increases by one die size after the roll, up to
+    its starting size. This represents you conserving psionic energy for later use.
+    For example, if you roll a 1 on a {@dice d4}, the die then becomes a {@dice d6}.","Whenever
+    you finish a long rest, your Psionic Talent die resets to its starting size.
+    When you reach certain levels, the starting size of your Psionic Talent die increases:
+    at 5th level ({@dice d8}), 11th level ({@dice d10}), and 17th level ({@dice d12}).
+    If you have a Psionic Talent die from another source, such as a class feature,
+    you don''t get more than one die; use only the one with the largest starting
+    size."]},{"type":"entries","name":"Psi Replenishment","entries":["As a bonus
+    action, you can calm your mind for a moment and restore your Psionic Talent die
+    to its starting size. You then can''t use Psi Replenishment again until you finish
+    a long rest."]}]}'
+  DataHash: 67975c0e5e7589faea4fc4a0ed00e10a
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 9
+  Prerequisites: []

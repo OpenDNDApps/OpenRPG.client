@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: phb
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Player''s Handbook","id":"PHB","source":"PHB","group":"core","coverUrl":"img/covers/PHB.png","published":"2014-08-19","author":"Wizards
+    RPG Team","contents":[{"name":"Introduction","headers":["Worlds of Adventure","Using
+    This Book","How to Play","Adventures"]},{"name":"Step-by-Step Characters","headers":["1.
+    Choose a Race","2. Choose a Class","3. Determine Ability Scores","4. Describe
+    Your Character","5. Choose Equipment","6. Come Together","Beyond 1st Level"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Races","headers":["Choosing
+    a Race"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Classes","ordinal":{"type":"chapter","identifier":3}},{"name":"Personality
+    and Background","headers":["Character Details","Personal Characteristics","Alignment","Languages","Inspiration","Backgrounds"],"ordinal":{"type":"chapter","identifier":4}},{"name":"Equipment","headers":["Starting
+    Equipment","Wealth","Armor and Shields","Weapons","Adventuring Gear","Tools","Mounts
+    and Vehicles",{"index":1,"header":"Trade Goods"},"Expenses","Trinkets"],"ordinal":{"type":"chapter","identifier":5}},{"name":"Customization
+    Options","headers":["Multiclassing","Feats"],"ordinal":{"type":"chapter","identifier":6}},{"name":"Using
+    Ability Scores","headers":["Ability Scores and Modifiers","Advantage and Disadvantage","Proficiency
+    Bonus","Ability Checks","Using Each Ability","Saving Throws"],"ordinal":{"type":"chapter","identifier":7}},{"name":"Adventuring","headers":["Time","Movement","The
+    Environment","Social Interaction","Resting","Between Adventures"],"ordinal":{"type":"chapter","identifier":8}},{"name":"Combat","headers":["The
+    Order of Combat","Movement and Position","Actions in Combat","Making an Attack","Cover","Damage
+    and Healing","Mounted Combat","Underwater Combat"],"ordinal":{"type":"chapter","identifier":9}},{"name":"Spellcasting","headers":["What
+    Is a Spell?","Casting a Spell"],"ordinal":{"type":"chapter","identifier":10}},{"name":"Spells","ordinal":{"type":"chapter","identifier":11}},{"name":"Conditions","ordinal":{"type":"appendix","identifier":"A"}},{"name":"Gods
+    of the Multiverse","ordinal":{"type":"appendix","identifier":"B"}},{"name":"The
+    Planes of Existence","headers":["The Material Plane","Beyond the Material"],"ordinal":{"type":"appendix","identifier":"C"}}]}'
+  DataHash: f88f4ce9084d2f4e8bac86f46a813547
+  CoverURL: 
+  Published: 
+  Author: 

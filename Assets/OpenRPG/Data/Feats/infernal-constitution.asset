@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: infernal-constitution
+  m_EditorClassIdentifier: 
+  Title: Infernal Constitution
+  AsJson: '{"name":"Infernal Constitution","source":"XGE","page":75,"prerequisite":[{"race":[{"name":"tiefling"}]}],"ability":[{"con":1}],"entries":["Fiendish
+    blood runs strong in you, unlocking a resilience akin to that possessed by some
+    fiends. You gain the following benefits:",{"type":"list","items":["You have resistance
+    to cold and poison damage.","You have advantage on saving throws against being
+    {@condition poisoned}."]}]}'
+  DataHash: cc4f20eb69b5683bf5507eef7389df7c
+  Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
+  SourcePages: 75
+  Prerequisites:
+  - Type: 3
+    Value: tiefling

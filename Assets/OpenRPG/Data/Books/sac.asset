@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: sac
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Sage Advice Compendium","id":"SAC","source":"SAC","group":"other","coverUrl":"img/covers/SAC.png","published":"2019-01-31","contents":[{"name":"Sage
+    Advice Compendium","headers":["Rules References","Compiled Answers","The Role
+    of Rules","Character Creation","Racial Traits","Class Features","Backgrounds","Equipment","Multiclassing","Feats","Ability
+    Checks","Adventuring","Combat","Spellcasting","Monsters","Magic Items"]}]}'
+  DataHash: fcc4fe55b08cb69df0ea6ece1e20ab68
+  CoverURL: 
+  Published: 
+  Author: 

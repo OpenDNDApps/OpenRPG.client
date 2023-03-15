@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: telepathic
+  m_EditorClassIdentifier: 
+  Title: Telepathic
+  AsJson: '{"name":"Telepathic","source":"UAFighterRogueWizard","page":8,"ability":[{"int":1}],"skillProficiencies":[{"choose":{"from":["insight","deception","intimidation","persuasion"]}}],"entries":["You
+    awaken the ability to mentally connect with others. You gain the following benefits:",{"type":"list","items":["You
+    gain proficiency in one skill of your choice from the following list: {@skill
+    Deception}, {@skill Insight}, {@skill Intimidation}, or {@skill Persuasion}.","You
+    can communicate telepathically with any creature you can see within 30 feet of
+    you. If it understands at least one language, it can respond to you telepathically."]}]}'
+  DataHash: be283a262c8faa456b5c71845b0c0d12
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 8
+  Prerequisites: []

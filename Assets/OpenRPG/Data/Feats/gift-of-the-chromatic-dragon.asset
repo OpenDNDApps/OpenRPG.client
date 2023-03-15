@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: gift-of-the-chromatic-dragon
+  m_EditorClassIdentifier: 
+  Title: Gift of the Chromatic Dragon
+  AsJson: '{"name":"Gift of the Chromatic Dragon","source":"UA2021DraconicOptions","page":4,"entries":["You''ve
+    manifested some of the power of chromatic dragons, granting you the following
+    benefits:",{"type":"list","items":["As a bonus action, you can touch a {@filter
+    simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple
+    weapon} and infuse it with one of the following damage types: acid, cold, fire,
+    lightning, or poison. For the next minute, the weapon deals an extra {@dice 1d4}
+    damage of the chosen type when it hits. After you use this ability, you can''t
+    do so again until you finish a long rest.","When you take acid, cold, fire, lightning,
+    or poison damage, you can use your reaction to give yourself resistance to that
+    instance of damage. You can use this reaction a number of times equal to your
+    proficiency bonus, and you regain all expended uses when you finish a long rest."]}]}'
+  DataHash: 5ffc2c053f43ca12dedcf8efc2307c02
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 4
+  Prerequisites: []

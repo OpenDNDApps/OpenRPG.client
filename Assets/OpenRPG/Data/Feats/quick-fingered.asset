@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: quick-fingered
+  m_EditorClassIdentifier: 
+  Title: Quick-Fingered
+  AsJson: '{"name":"Quick-Fingered","source":"UAFeatsForSkills","page":3,"ability":[{"dex":1}],"skillProficiencies":[{"sleight
+    of hand":true}],"entries":["Your nimble fingers and agility let you perform sleight
+    of hand. You gain the following benefits:",{"type":"list","items":["You gain
+    proficiency in the {@skill Sleight of Hand} skill. If you are already proficient
+    in the skill, you add double your proficiency bonus to checks you make with it.","As
+    a bonus action, you can make a Dexterity ({@skill Sleight of Hand}) check to
+    plant something on someone else, conceal an object on a creature, lift a purse,
+    or take something from a pocket."]}]}'
+  DataHash: 191265d932457232ffb8211ec8be9d56
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 3
+  Prerequisites: []

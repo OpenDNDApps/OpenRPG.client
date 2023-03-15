@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: strike-of-the-giants
+  m_EditorClassIdentifier: 
+  Title: Strike Of The Giants
+  AsJson: '{"name":"Strike Of The Giants","source":"UA2022WondersOfTheMultiverse","page":9,"entries":["You
+    have absorbed primeval magic that gives you an echo of the might of giants. Choose
+    one of the kinds of giants listed below. As a bonus action, you can call on the
+    power of your giant magic to imbue your attacks with additional power. The next
+    time you hit a target with a melee or thrown weapon attack within the next minute,
+    the attack has an additional effect depending on the origin of your giant magic:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Hill
+    Giant","entries":["The target takes an extra {@damage 1d6} damage of the weapon''s
+    type. If the target is a creature, it must succeed on a Strength saving throw
+    or be knocked {@condition prone}."]},{"type":"item","name":"Stone Giant","entries":["The
+    target takes an extra {@damage 1d6} force damage. If the target is a creature,
+    it must succeed on a Strength saving throw or be pushed 10 feet away from you
+    in a straight line."]},{"type":"item","name":"Frost Giant","entries":["The target
+    takes an extra {@damage 1d6} cold damage. If the target is a creature, it must
+    succeed on a Constitution saving throw, or its speed is reduced to 0 until the
+    start of your next turn."]},{"type":"item","name":"Fire Giant","entries":["The
+    target takes an extra {@damage 1d8} fire damage."]},{"type":"item","name":"Cloud
+    Giant","entries":["The target takes an extra {@damage 1d4} thunder damage. If
+    the target is a creature, it must succeed on a Wisdom saving throw, or you become
+    {@condition invisible} to it until the start of your next turn."]},{"type":"item","name":"Storm
+    Giant","entries":["The target takes an extra {@damage 1d6} lightning damage.
+    If the target is a creature, it must succeed on a Constitution saving throw,
+    or it has disadvantage on attack rolls until the start of your next turn."]}]},"The
+    saving throw DC for these effects equals 8 + your proficiency bonus + your Strength
+    or Constitution modifier.","You can use this bonus action a number of times equal
+    to your proficiency bonus, and you regain all expended uses when you finish a
+    long rest."]}'
+  DataHash: fe0e4a30f9ade1007bed0d6721084d25
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 9
+  Prerequisites: []

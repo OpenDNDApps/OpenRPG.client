@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: revenant-blade
+  m_EditorClassIdentifier: 
+  Title: Revenant Blade
+  AsJson: '{"name":"Revenant Blade","source":"ERLW","page":22,"otherSources":[{"source":"UAWGE","page":74}],"prerequisite":[{"race":[{"name":"elf"}]}],"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"entries":["You
+    are descended from a master of the {@item double-bladed scimitar|ERLW}, and some
+    of that mastery has passed on to you. You gain the following benefits:",{"type":"list","items":["While
+    you are holding a double-bladed scimitar with two hands, you gain a +1 bonus
+    to Armor Class.","A double-bladed scimitar has the finesse property when you
+    wield it."]}]}'
+  DataHash: 819e80f5d008db86f08c0477f327cbb5
+  Sources: {fileID: 11400000, guid: 88cc82196d7941243ac772b606622504, type: 2}
+  SourcePages: 22
+  Prerequisites:
+  - Type: 3
+    Value: elf

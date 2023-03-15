@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: animal-handler
+  m_EditorClassIdentifier: 
+  Title: Animal Handler
+  AsJson: '{"name":"Animal Handler","source":"UAFeatsForSkills","page":1,"ability":[{"wis":1}],"skillProficiencies":[{"animal
+    handling":true}],"entries":["You master the techniques needed to train and handle
+    animals. You gain the following benefits:",{"type":"list","items":["You gain
+    proficiency in the {@skill Animal Handling} skill. If you are already proficient
+    in the skill, you add double your proficiency bonus to checks you make with it.","You
+    can use a bonus action on your turn to command one friendly beast within 60 feet
+    of you that can hear you and that isn''t currently following the command of someone
+    else. You decide now what action the beast will take and where it will move during
+    its next turn, or you issue a general command that lasts for 1 minute, such as
+    to guard a particular area."]}]}'
+  DataHash: 69b63231eda4edbf5aa314bd877e3cc0
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 1
+  Prerequisites: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: aag
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Astral Adventurer''s Guide","alias":["Spelljammer: Astral Adventurer''s
+    Guide"],"id":"AAG","source":"AAG","group":"supplement","coverUrl":"img/covers/SAiS.png","published":"2022-08-16","contents":[{"name":"Introduction:
+    Vast Oceans of Adventure","headers":["Terminology","Using This Book","Astral
+    Campaigns"]},{"name":"Character Options","ordinal":{"type":"chapter","identifier":1},"headers":["Backgrounds","Races","Astral
+    Elf","Autognome","Giff","Hadozee","Plasmoid","Thri-kreen"]},{"name":"Astral Adventuring","ordinal":{"type":"chapter","identifier":2},"headers":["How
+    Spelljamming Works","Gravity Planes","The Astral Plane","Magic","Spelljamming
+    Ships","Spelljammer Vessels"]},{"name":"The Rock of Bral","ordinal":{"type":"chapter","identifier":3},"headers":["Past
+    and Present","Life on the Rock","Who''s Who","Getting Your Bearings"]},{"name":"Additional
+    Spelljammer Tables"},{"name":"Poster Map"}]}'
+  DataHash: 1f752a7ab5d1befeaafd728e352af791
+  CoverURL: 
+  Published: 
+  Author: 

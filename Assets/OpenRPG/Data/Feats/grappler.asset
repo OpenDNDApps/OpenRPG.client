@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: grappler
+  m_EditorClassIdentifier: 
+  Title: Grappler
+  AsJson: '{"name":"Grappler","source":"PHB","page":167,"srd":true,"prerequisite":[{"ability":[{"str":13}]}],"entries":["You''ve
+    developed the skills necessary to hold your own in close-quarters grappling.
+    You gain the following benefits:",{"type":"list","items":["You have advantage
+    on attack rolls against a creature you are grappling.","You can use your action
+    to try to pin a creature {@condition grappled} by you. To do so, make another
+    grapple check. If you succeed, you and the creature are both {@condition restrained}
+    until the grapple ends."]}]}'
+  DataHash: db7d25d03bb654cd56e57bd4bc706f8d
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 167
+  Prerequisites: []

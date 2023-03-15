@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: elemental-adept
+  m_EditorClassIdentifier: 
+  Title: Elemental Adept
+  AsJson: '{"name":"Elemental Adept","source":"PHB","page":166,"prerequisite":[{"spellcasting":true}],"entries":["When
+    you gain this feat, choose one of the following damage types: acid, cold, fire,
+    lightning, or thunder.","Spells you cast ignore resistance to damage of the chosen
+    type. In addition, when you roll damage for a spell you cast that deals damage
+    of that type, you can treat any 1 on a damage die as a 2.","You can select this
+    feat multiple times. Each time you do so, you must choose a different damage
+    type."]}'
+  DataHash: b2157524d317da81ae86247908a59923
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 166
+  Prerequisites: []

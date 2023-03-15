@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: screenspelljammer
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Dungeon Master''s Screen: Spelljammer","id":"ScreenSpelljammer","source":"ScreenSpelljammer","group":"screen","coverUrl":"img/covers/ScreenSpelljammer.png","published":"2022-08-16","contents":[{"name":"Screen"}]}'
+  DataHash: 30d19165517ff51c66c4eab879c31887
+  CoverURL: 
+  Published: 
+  Author: 

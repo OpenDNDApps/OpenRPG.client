@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: dungeon-delver
+  m_EditorClassIdentifier: 
+  Title: Dungeon Delver
+  AsJson: '{"name":"Dungeon Delver","source":"PHB","page":166,"entries":["Alert to
+    the hidden traps and secret doors found in many dungeons, you gain the following
+    benefits:",{"type":"list","items":["You have advantage on Wisdom ({@skill Perception})
+    and Intelligence ({@skill Investigation}) checks made to detect the presence
+    of secret doors.","You have advantage on saving throws made to avoid or resist
+    traps.","You have resistance to the damage dealt by traps.","Traveling at a fast
+    pace doesn''t impose the normal -5 penalty on your passive Wisdom ({@skill Perception})
+    score."]}]}'
+  DataHash: 80b1cdfc84cd2e336dd491408456d384
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 166
+  Prerequisites: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: vigor-of-the-hill-giant
+  m_EditorClassIdentifier: 
+  Title: Vigor Of The Hill Giant
+  AsJson: '{"name":"Vigor Of The Hill Giant","source":"UA2022WondersOfTheMultiverse","page":10,"prerequisite":[{"level":4,"feat":["strike
+    of the giants|ua2022wondersofthemultiverse|strike of the giants (hill giant)"]}],"ability":[{"con":1}],"entries":["You''ve
+    manifested the resilience emblematic of hill giants, granting you the following
+    benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Bulwark","entries":["When
+    you are subjected to an effect that would move you at least 5 feet or knock you
+    {@condition prone}, you can use your reaction to steady yourself. You are then
+    neither moved nor knocked {@condition prone}."]},{"type":"item","name":"Iron
+    Stomach","entries":["Whenever you eat food as part of a short rest and spend
+    one or more Hit Dice to regain hit points, you regain additional hit points equal
+    to your Constitution modifier + your proficiency bonus."]}]}]}'
+  DataHash: b682a6685eb086917ab7fa352f7d4403
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 10
+  Prerequisites:
+  - Type: 0
+    Value: 4

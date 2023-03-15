@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: martial-adept
+  m_EditorClassIdentifier: 
+  Title: Martial Adept
+  AsJson: '{"name":"Martial Adept","source":"PHB","page":168,"optionalfeatureProgression":[{"name":"Maneuvers","featureType":["MV:B"],"progression":{"*":2}}],"entries":["You
+    have martial training that allows you to perform special combat maneuvers. You
+    gain the following benefits:",{"type":"list","items":["You learn two {@filter
+    maneuvers|optionalfeatures|feature type=MV:B} of your choice from among those
+    available to the {@class fighter|phb|Battle Master|Battle Master|phb|2-0} archetype
+    in the fighter class. If a maneuver you use requires your target to make a saving
+    throw to resist the maneuver''s effects, the saving throw DC equals 8 + your
+    proficiency bonus + your Strength or Dexterity modifier (your choice).","You
+    gain one superiority die, which is a {@dice d6} (this die is added to any superiority
+    dice you have from another source). This die is used to fuel your maneuvers.
+    A superiority die is expended when you use it. You regain your expended superiority
+    dice when you finish a short or long rest."]}]}'
+  DataHash: 233fc7f926a0c4e091071f99f711ec17
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 168
+  Prerequisites: []

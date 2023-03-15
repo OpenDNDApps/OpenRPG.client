@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: outlands-envoy
+  m_EditorClassIdentifier: 
+  Title: Outlands Envoy
+  AsJson: '{"name":"Outlands Envoy","source":"UA2022WondersOfTheMultiverse","page":7,"prerequisite":[{"level":4,"feat":["scion
+    of the outer planes|ua2022wondersofthemultiverse"]}],"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1}}],"additionalSpells":[{"innate":{"_":{"daily":{"1e":["misty
+    step","tongues"]}}},"ability":"inherit"}],"entries":["You have spent significant
+    time in Sigil or elsewhere in the Outlands, the crossroads of the multiverse.
+    Being steeped in converging planar energies grants you these benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Crossroads
+    Emissary","entries":["You learn the {@spell misty step} and {@spell tongues}
+    spells. You can cast each spell once using this feat without a spell slot, and
+    you must finish a long rest before you can cast that spell in this way again.
+    When you cast tongues using this feat, you require no material components. You
+    can also cast these spells using spell slots you have of the appropriate level.
+    The spell''s spellcasting ability is the one chosen when you gained the Scion
+    of the Outer Planes feat."]}]}]}'
+  DataHash: d0ee186c8595ec3659855f4585923831
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 7
+  Prerequisites:
+  - Type: 0
+    Value: 4

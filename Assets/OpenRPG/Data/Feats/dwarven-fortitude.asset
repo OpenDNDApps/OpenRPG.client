@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: dwarven-fortitude
+  m_EditorClassIdentifier: 
+  Title: Dwarven Fortitude
+  AsJson: '{"name":"Dwarven Fortitude","source":"XGE","page":74,"prerequisite":[{"race":[{"name":"dwarf"}]}],"ability":[{"con":1}],"entries":["You
+    have the blood of dwarf heroes flowing through your veins. You gain the following
+    benefits:",{"type":"list","items":["Whenever you take the {@action Dodge} action
+    in combat, you can spend one Hit Die to heal yourself. Roll the die, add your
+    Constitution modifier, and regain a number of hit points equal to the total (minimum
+    of 1)."]}]}'
+  DataHash: 4f1abd1d8c8f80d34a4e6aaa9088a401
+  Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
+  SourcePages: 74
+  Prerequisites:
+  - Type: 3
+    Value: dwarf

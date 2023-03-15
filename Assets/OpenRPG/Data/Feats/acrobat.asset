@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: acrobat
+  m_EditorClassIdentifier: 
+  Title: Acrobat
+  AsJson: '{"name":"Acrobat","source":"UAFeatsForSkills","page":1,"ability":[{"dex":1}],"skillProficiencies":[{"acrobatics":true}],"entries":["You
+    become more nimble, gaining the following benefits:",{"type":"list","items":["You
+    gain proficiency in the {@skill Acrobatics} skill. If you are already proficient
+    in the skill, you add double your proficiency bonus to checks you make with it.","As
+    a bonus action, you can make a DC 15 Dexterity ({@skill Acrobatics}) check. If
+    you succeed, {@quickref difficult terrain||3} doesn''t cost you extra movement
+    until the end of the current turn."]}]}'
+  DataHash: 9ad18d7cf6a582532947c1a07da29627
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 1
+  Prerequisites: []

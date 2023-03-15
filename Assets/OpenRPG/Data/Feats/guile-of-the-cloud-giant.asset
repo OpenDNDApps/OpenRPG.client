@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: guile-of-the-cloud-giant
+  m_EditorClassIdentifier: 
+  Title: Guile Of The Cloud Giant
+  AsJson: '{"name":"Guile Of The Cloud Giant","source":"UA2022WondersOfTheMultiverse","page":7,"prerequisite":[{"level":4,"feat":["strike
+    of the giants|ua2022wondersofthemultiverse|strike of the giants (cloud giant)"]}],"ability":[{"choose":{"from":["dex","con","cha"],"amount":1}}],"entries":["You''ve
+    manifested the airy speech and magic emblematic of cloud giants, granting you
+    the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Cloudy
+    Escape","entries":["When a creature you can see hits you with an attack roll,
+    you can use your reaction to give yourself resistance to that attack''s damage.
+    You then teleport to an unoccupied space that you can see within 30 feet of yourself.
+    You can use this reaction a number of times equal to half your proficiency bonus
+    (rounded up), and you regain all expended uses when you finish a long rest."]}]}]}'
+  DataHash: 019c80fcc0a6fd35d1091e94183cec23
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 7
+  Prerequisites:
+  - Type: 0
+    Value: 4

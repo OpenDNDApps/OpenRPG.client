@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: screendungeonkit
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Dungeon Master''s Screen: Dungeon Kit","id":"ScreenDungeonKit","source":"ScreenDungeonKit","group":"screen","coverUrl":"img/covers/ScreenDungeonKit.webp","published":"2020-09-21","contents":[{"name":"Screen","headers":["Long
+    Jump","High Jump","Suffocating","Concentration","Exhaustion","Conditions","State
+    of Ruin","Dungeon Encounters","Dungeon Chambers"]},{"name":"Included Accessories","headers":["Condition
+    and Hazard Cards","Initiative Cards","Geomorph Cards"]}]}'
+  DataHash: 39636e0faaed6c025750e681fe129d7b
+  CoverURL: 
+  Published: 
+  Author: 

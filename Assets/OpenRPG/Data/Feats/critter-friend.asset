@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: critter-friend
+  m_EditorClassIdentifier: 
+  Title: Critter Friend
+  AsJson: '{"name":"Critter Friend","source":"UAFeatsForRaces","page":1,"prerequisite":[{"race":[{"name":"gnome","subrace":"forest"}]}],"skillProficiencies":[{"animal
+    handling":true}],"additionalSpells":[{"ability":"int","innate":{"_":{"will":["speak
+    with animals"],"daily":{"1":["animal friendship"]}}}}],"entries":["Your friendship
+    with animals mystically deepens. You gain the following benefits:",{"type":"list","items":["You
+    gain proficiency in the {@skill Animal Handling} skill. If you are already proficient
+    in the skill, you add double your proficiency bonus to checks you make with it.","You
+    learn the {@spell speak with animals} spell and can cast it at will, without
+    expending a spell slot. You also learn the {@spell animal friendship} spell,
+    and you can cast it once with this feat, without expending a spell slot. You
+    regain the ability to cast it in this way when you finish a long rest. Intelligence
+    is your spellcasting ability for these spells."]}]}'
+  DataHash: 38f90da0f7370ff6f9ea2abd8160e7f4
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 1
+  Prerequisites:
+  - Type: 3
+    Value: gnome
+  - Type: 3
+    Value: forest

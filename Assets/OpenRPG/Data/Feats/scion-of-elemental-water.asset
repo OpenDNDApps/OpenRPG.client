@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: scion-of-elemental-water
+  m_EditorClassIdentifier: 
+  Title: Scion Of Elemental Water
+  AsJson: '{"name":"Scion Of Elemental Water","source":"UA2022WondersOfTheMultiverse","page":9,"additionalSpells":[{"known":{"_":["thaumaturgy#c"]}}],"entries":["You''ve
+    been exposed to the primordial magic of the Elemental Plane of Water, granting
+    you the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Elemental
+    Magic","entries":["You learn the thaumaturgy cantrip, using Intelligence, Wisdom,
+    or Charisma as the spellcasting ability (choose when you select this feat)."]},{"type":"item","name":"Wave
+    Surge","entries":["You can use a bonus action to create a forceful surge of water
+    directed at a creature within 15 feet of you that you can see. The target must
+    make a Strength saving throw; the DC for this save is equal to 8 + your proficiency
+    bonus + the spellcasting ability modifier chosen for this feat, and a creature
+    can choose to fail this saving throw. On a failure, the target is pushed up to
+    10 feet away from you or pulled up to 10 feet toward you (your choice). The water
+    vanishes immediately after the creature succeeds or fails. You can create this
+    effect a number of times equal to your proficiency bonus, and you regain all
+    expended uses when you finish a long rest."]}]}]}'
+  DataHash: 9dbfdc30c4100c6d1f9505d5c0d9cb84
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 9
+  Prerequisites: []

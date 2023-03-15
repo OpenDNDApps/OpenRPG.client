@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: actor
+  m_EditorClassIdentifier: 
+  Title: Actor
+  AsJson: '{"name":"Actor","source":"PHB","page":165,"ability":[{"cha":1}],"entries":["Skilled
+    at mimicry and dramatics, you gain the following benefits:",{"type":"list","items":["You
+    have advantage on Charisma ({@skill Deception}) and Charisma ({@skill Performance})
+    checks when trying to pass yourself off as a different person.","You can mimic
+    the speech of another person or the sounds made by other creatures. You must
+    have heard the person speaking, or heard the creature make the sound, for at
+    least 1 minute. A successful Wisdom ({@skill Insight}) check contested by your
+    Charisma ({@skill Deception}) check allows a listener to determine that the effect
+    is faked."]}]}'
+  DataHash: dc2ba63ae0919c96f319571f8cde822d
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 165
+  Prerequisites: []

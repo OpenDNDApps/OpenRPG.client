@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: tce
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Tasha''s Cauldron of Everything","id":"TCE","source":"TCE","group":"supplement","coverUrl":"img/covers/TCE.png","published":"2020-11-17","author":"Wizards
+    RPG Team","contents":[{"name":"Using This Book","headers":["What You''ll Find
+    Within","It''s All Optional","Ten Rules to Remember"]},{"name":"Character Options","headers":["Customizing
+    Your Origin","Changing a Skill","Changing Your Subclass","Artificer",{"depth":1,"header":"Artificers
+    in Many Worlds"},"Barbarian","Bard","Cleric","Druid","Fighter",{"depth":1,"header":"Battle
+    Master Builds"},"Monk","Paladin","Ranger","Rogue","Sorcerer","Warlock","Wizard","Feats"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Group
+    Patrons","headers":["How Patrons Work","Example Patrons","Being Your Own Patron"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Magical
+    Miscellany","headers":["Spells","Personalizing Spells","Magic Items","Magic Tattoos","Magic
+    Item Descriptions"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Dungeon
+    Master''s Tools","headers":["Session Zero","Sidekicks","Parleying with Monsters","Environmental
+    Hazards","Puzzles",{"depth":1,"header":"Why Use Puzzles?"},{"depth":1,"header":"Creature
+    Paintings"},{"depth":1,"header":"Reckless Steps"},{"depth":1,"header":"Skeleton
+    Keys"},{"depth":1,"header":"All That Glitters"},{"depth":1,"header":"Eye of the
+    Beholder"},{"depth":1,"header":"Four by Four"},{"depth":1,"header":"Illusive
+    Island"},{"depth":1,"header":"Material Components"},{"depth":1,"header":"Members
+    Only"},{"depth":1,"header":"Exact Change"},{"depth":1,"header":"Four Elements"},{"depth":1,"header":"Haunted
+    Hallway"},{"depth":1,"header":"What''s on the Menu"},{"depth":1,"header":"Puzzle
+    Handouts"}],"ordinal":{"type":"chapter","identifier":4}}]}'
+  DataHash: 8886782d10090e53ab6bd741b3b368db
+  CoverURL: 
+  Published: 
+  Author: 

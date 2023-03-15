@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: fighting-initiate
+  m_EditorClassIdentifier: 
+  Title: Fighting Initiate
+  AsJson: '{"name":"Fighting Initiate","source":"UA2020Feats","page":2,"prerequisite":[{"proficiency":[{"weapon":"martial"}]}],"entries":["Your
+    martial training has helped you develop a particular style of fighting. As a
+    result, you learn one {@filter Fighting Style|optionalfeatures|Feature Type=FS:F}
+    option of your choice from the fighter class. If you already have a style, the
+    one you choose must be different.","Whenever you gain a level, you can replace
+    this feat''s fighting style with another one from the fighter class that you
+    don''t have."]}'
+  DataHash: 5fa86438bc44d5e3676044dc60d08e27
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

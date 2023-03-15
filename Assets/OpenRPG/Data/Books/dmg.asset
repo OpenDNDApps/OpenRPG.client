@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: dmg
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Dungeon Master''s Guide","id":"DMG","source":"DMG","group":"core","coverUrl":"img/covers/DMG.png","published":"2014-12-09","author":"Wizards
+    RPG Team","contents":[{"name":"Introduction","headers":["The Dungeon Master","How
+    to Use This Book","Know Your Players"]},{"name":"A World of Your Own","headers":["The
+    Big Picture","Gods of Your World","Mapping Your Campaign","Settlements","Languages
+    and Dialects","Factions and Organizations","Magic in Your World","Creating a
+    Campaign","Campaign Events","Play Style","Tiers of Play","Flavors of Fantasy"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Creating
+    a Multiverse","headers":["The Planes","Planar Travel","Astral Plane","Ethereal
+    Plane","Feywild","Shadowfell","Inner Planes","Outer Planes","Other Planes","Known
+    Worlds of the Material Plane"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Creating
+    Adventures","headers":["Elements of a Great Adventure","Published Adventures","Adventure
+    Structure","Adventure Types","Complications","Creating Encounters","Random Encounters"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Creating
+    Nonplayer Characters","headers":["Designing NPCs","NPC Party Members","Contacts","Hirelings","Extras","Villains","Villainous
+    Class Options"],"ordinal":{"type":"chapter","identifier":4}},{"name":"Adventure
+    Environments","headers":["Dungeons","Mapping a Dungeon","Wilderness","Mapping
+    a Wilderness","Wilderness Survival","Settlement","Mapping a Settlement","Urban
+    Encounters","Unusual Environments","Traps"],"ordinal":{"type":"chapter","identifier":5}},{"name":"Between
+    Adventures","headers":["Linking Adventures","Campaign Tracking","Recurring Expenses","Downtime
+    Activities"],"ordinal":{"type":"chapter","identifier":6}},{"name":"Treasure","headers":["Types
+    of Treasure","Random Treasure",{"header":"Magic Items","index":1},"Sentient Magic
+    Items","Artifacts","Other Rewards"],"ordinal":{"type":"chapter","identifier":7}},{"name":"Running
+    the Game","headers":["Table Rules","The Role of Dice","Using Ability Scores","Exploration","Social
+    Interaction","Objects","Combat","Chases","Siege Equipment","Diseases","Poisons","Madness","Experience
+    Points"],"ordinal":{"type":"chapter","identifier":8}},{"name":"Dungeon Master''s
+    Workshop","headers":["Ability Options","Adventuring Options","Combat Options","Creating
+    a Monster","Creating a Spell","Creating a Magic Item","Creating New Character
+    Options"],"ordinal":{"type":"chapter","identifier":9}},{"name":"Random Dungeons","headers":["Starting
+    Area","Passages","Doors","Chambers","Stairs","Connecting Areas","Stocking a Dungeon"],"ordinal":{"type":"appendix","identifier":"A"}},{"name":"Monster
+    Lists","ordinal":{"type":"appendix","identifier":"B"}},{"name":"Maps","ordinal":{"type":"appendix","identifier":"C"}},{"name":"Dungeon
+    Master Inspiration","ordinal":{"type":"appendix","identifier":"D"}}]}'
+  DataHash: b686474cfd789dacccd6749a1cf7654d
+  CoverURL: 
+  Published: 
+  Author: 

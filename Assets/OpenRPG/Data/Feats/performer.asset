@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: performer
+  m_EditorClassIdentifier: 
+  Title: Performer
+  AsJson: '{"name":"Performer","source":"UAFeatsForSkills","page":3,"ability":[{"cha":1}],"skillProficiencies":[{"performance":true}],"entries":["You
+    master performance so that you can command any stage. You gain the following
+    benefits:",{"type":"list","items":["You gain proficiency in the {@skill Performance}
+    skill. If you are already proficient in the skill, you add double your proficiency
+    bonus to checks you make with it.","While performing, you can try to distract
+    one humanoid you can see who can see and hear you. Make a Charisma ({@skill Performance})
+    check contested by the humanoid''s Wisdom ({@skill Insight}) check. If your check
+    succeeds, you grab the humanoid''s attention enough that it makes Wisdom ({@skill
+    Perception}) and Intelligence ({@skill Investigation}) checks with disadvantage
+    until you stop performing."]}]}'
+  DataHash: 0f1e114cc858cc30cd98c5b67d46cb33
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 3
+  Prerequisites: []

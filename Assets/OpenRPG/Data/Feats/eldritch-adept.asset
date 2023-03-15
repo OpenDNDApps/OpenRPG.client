@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: eldritch-adept
+  m_EditorClassIdentifier: 
+  Title: Eldritch Adept
+  AsJson: '{"name":"Eldritch Adept","source":"UA2020Feats","page":1,"prerequisite":[{"spellcasting2020":true}],"entries":["Studying
+    occult lore, you have unlocked eldritch power within yourself: you learn one
+    {@filter Eldritch Invocation|optionalfeatures|Feature Type=EI} option of your
+    choice from the warlock class. If the invocation has a prerequisite, you can
+    choose that invocation only if you''re a warlock and only if you meet the prerequisite.","Whenever
+    you gain a level, you can replace the invocation with another one from the warlock
+    class."]}'
+  DataHash: 38db1029e584d0bb48e1b416fa71a0f1
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 1
+  Prerequisites: []

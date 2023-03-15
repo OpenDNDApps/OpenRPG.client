@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: elemental-touched
+  m_EditorClassIdentifier: 
+  Title: Elemental Touched
+  AsJson: '{"name":"Elemental Touched","source":"UA2022GiantOptions","page":4,"entries":["You''ve
+    been exposed to the primordial magic of the Elemental Planes, granting you a
+    measure of control over the natural world around you. You learn the either the
+    druidcraft or {@spell thaumaturgy} cantrip, using Intelligence, Wisdom, or Charisma
+    as the spellcasting ability (choose when you gain this feat).","Whenever you
+    finish a long rest, you can choose which element you are attuned to: Air, Earth,
+    Fire, or Water. Depending on your choice, you can use a bonus action to cause
+    one of the following effects:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Air","entries":["You
+    gain a fly speed equal to your walking speed until the end of your turn. If you
+    are airborne at the end of your turn after using this movement and aren''t held
+    aloft by other means, you fall."]},{"type":"item","name":"Earth","entries":["You
+    cause the ground within 30 feet of you to become {@quickref difficult terrain||3}
+    for 1 minute or until you create this effect again. During that time, you can
+    move across ground that is {@quickref difficult terrain||3} without spending
+    extra movement."]},{"type":"item","name":"Fire","entries":["You surround yourself
+    in a cloud of ash and smoke. Until the end of your turn, your movement doesn''t
+    provoke opportunity attacks."]},{"type":"item","name":"Water","entries":["You
+    can create a forceful surge of water directed at a creature within 15 feet of
+    you that you can see. The creature must succeed on a Strength saving throw (which
+    it can choose to fail) against a DC equal to 8 + your spellcasting ability modifier
+    + your proficiency bonus or be pushed up to 10 feet away from you. The water
+    vanishes immediately after the creature succeeds or fails."]}]},"You can create
+    this effect a number of times equal to your proficiency bonus, and you regain
+    all expended uses when you finish a long rest."]}'
+  DataHash: fd6e121a606ffb93a581c408790aa816
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 4
+  Prerequisites: []

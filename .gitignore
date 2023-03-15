@@ -76,4 +76,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ll]ocal[Ee]xperiments/*
 !/[Aa]ssets/[Ll]ocal[Ee]xperiments/.gitkeep
 /[Aa]ssets/[Pp]lugins/CodeRespawn/*
-![Aa]ssets/[Pp]lugins/CodeRespawn/.gitkeep
+!/[Aa]ssets/[Pp]lugins/CodeRespawn/.gitkeep
+
+/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/d&d_5e/*
+!/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/d&d_5e/.gitkeep
+/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/pf_1e*
+!/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/pf_1e.gitkeep
+/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/pf_2e*
+!/[Aa]ssets/[Ss]treaming[Aa]ssets/DataFiles/pf_2e.gitkeep

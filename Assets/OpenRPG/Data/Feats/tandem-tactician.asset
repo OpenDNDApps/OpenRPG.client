@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: tandem-tactician
+  m_EditorClassIdentifier: 
+  Title: Tandem Tactician
+  AsJson: '{"name":"Tandem Tactician","source":"UA2020Feats","page":3,"entries":["Your
+    presence in a scrap tends to elevate your comrades. You gain the following benefits:",{"type":"list","items":["You
+    can use the {@action Help} action as a bonus action.","When you use the {@action
+    Help} action to aid an ally in attacking a creature, increase the range of the
+    {@action Help} action by 10 feet. Additionally, you can help two allies targeting
+    the same creature within range when you use the {@action Help} action this way."]}]}'
+  DataHash: 7582eb0a06cce2df0d105e884a770870
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 3
+  Prerequisites: []

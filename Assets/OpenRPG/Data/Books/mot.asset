@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: mot
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Mythic Odysseys of Theros","id":"MOT","source":"MOT","group":"setting","coverUrl":"img/covers/MOT.png","published":"2020-06-02","contents":[{"name":"Welcome
+    to Theros","headers":["Dreams of Divinity","History and Myth","Languages"]},{"name":"Character
+    Creation","headers":["Heroic Drive","Supernatural Gifts","Races","Subclass Options","Background"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Gods
+    of Theros","headers":["Divine Characteristics","Worship","Clerics and Champions","Piety","The
+    Gods"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Realms of Gods and
+    Mortals","headers":["The Mortal Realm","Akros","Meletis","Setessa","Oreskos","Phoberos
+    and Skophos","Realms of the Returned","The Siren Sea","Skola Vale","The Katachthon
+    Mountains","The Oraniad Mountains","Realms of the Gods"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Creating
+    Theros Adventures","headers":["God-Based Adventures","Divine Assistance","Athreos","Ephara","Erebos","Heliod","Iroas","Karametra","Keranos","Klothys","Kruphix","Mogis","Nylea","Pharika","Phenax","Purphoros","Thassa","Nautical
+    Adventures","Underworld Adventures","No Silent Secret"],"ordinal":{"type":"chapter","identifier":4}},{"name":"Treasures","headers":["Magic
+    Items","Magic Item Descriptions","Artifacts","Artifact Descriptions"],"ordinal":{"type":"chapter","identifier":5}},{"name":"Friends
+    and Foes","headers":["Nyxborn Creatures","Classic Monsters","Bestiary","Mythic
+    Monsters"],"ordinal":{"type":"chapter","identifier":6}}]}'
+  DataHash: 3a33a8990d6dcb17c6a2b5a264e5c3d6
+  CoverURL: 
+  Published: 
+  Author: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: grudge-bearer
+  m_EditorClassIdentifier: 
+  Title: Grudge-Bearer
+  AsJson: '{"name":"Grudge-Bearer","source":"UAFeatsForRaces","page":3,"prerequisite":[{"race":[{"name":"dwarf"}]}],"ability":[{"choose":{"from":["str","con","wis"],"amount":1}}],"entries":["You
+    have a deep hatred for a particular kind of creature. Choose your foes, a type
+    of creature to bear the burden of your wrath: aberrations, beasts, celestials,
+    constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants,
+    or undead. Alternatively, you can choose two races of humanoid (such as gnolls
+    and orcs). You gain the following benefits:",{"type":"list","items":["During
+    the first round of any combat against your chosen foes, your attack rolls against
+    any of them have advantage.","When any of your chosen foes makes an opportunity
+    attack against you, it makes the attack roll with disadvantage.","Whenever you
+    make an Intelligence ({@skill Arcana}, {@skill History}, {@skill Nature}, or
+    {@skill Religion}) check to recall information about your chosen foes, you add
+    double your proficiency bonus to the check, even if you''re not normally proficient."]}]}'
+  DataHash: 7f1c0ef356cf379df08e02c31a88e775
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 3
+  Prerequisites:
+  - Type: 3
+    Value: dwarf

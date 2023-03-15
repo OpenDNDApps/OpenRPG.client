@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: mobile
+  m_EditorClassIdentifier: 
+  Title: Mobile
+  AsJson: '{"name":"Mobile","source":"PHB","page":168,"entries":["You are exceptionally
+    speedy and agile. You gain the following benefits:",{"type":"list","items":["Your
+    speed increases by 10 feet.","When you use the {@action Dash} action, {@quickref
+    difficult terrain||3} doesn''t cost you extra movement on that turn.","When you
+    make a melee attack against a creature, you don''t provoke opportunity attacks
+    from that creature for the rest of the turn, whether you hit or not."]}]}'
+  DataHash: fb9bcd4cb83495287aed02e3562af480
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 168
+  Prerequisites: []

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: egw
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Explorer''s Guide to Wildemount","id":"EGW","source":"EGW","group":"setting","coverUrl":"img/covers/EGW.png","published":"2020-03-17","contents":[{"name":"Preface"},{"name":"Welcome
+    to Wildemount","headers":["A New D&D Setting","Nations of Wildemount","What''s
+    in This Book?","War!","Calendar and Time","Moons of Exandria","Daily Life in
+    Wildemount"]},{"name":"Story of Wildemount","headers":["History of Wildemount","Wildemount
+    after the Calamity","Pantheon of Exandria","Prime Deities","Betrayer Gods","Lesser
+    Idols"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Factions and Societies","headers":["Dwendalian
+    Empire","Kryn Dynasty","Cerberus Assembly","Clovis Concord","The Myriad","Children
+    of Malice","Diarchy of Uthodurn","Tribes of Shadycreek Run","Library of the Cobalt
+    Soul","Scars of Scale and Tooth","Claret Orders","Golden Grin","The Revelry"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Wildemount
+    Gazetteer","headers":["Regions","Menagerie Coast",{"depth":1,"header":"Areas
+    (A-C)"},{"depth":1,"header":"Areas (D-F)"},{"depth":1,"header":"Areas (G-O)"},{"depth":1,"header":"Areas
+    (P-R)"},{"depth":1,"header":"Areas (S-Z)"},"Marrow Valley",{"depth":1,"header":"Areas
+    (A-C)"},{"depth":1,"header":"Areas (D-K)"},{"depth":1,"header":"Areas (L-Z)"},"Zemni
+    Fields",{"depth":1,"header":"Areas (A-K)"},{"depth":1,"header":"Areas (N-R)"},{"depth":1,"header":"Areas
+    (S-Z)"},"Greying Wildlands",{"depth":1,"header":"Areas (A-M)"},{"depth":1,"header":"Areas
+    (P-Z)"},"Eiselcross",{"depth":1,"header":"Encounters in Eiselcross"},{"depth":1,"header":"Islands
+    of Eiselcross"},{"depth":1,"header":"Wildfolk of Eiselcross"},{"depth":1,"header":"Areas
+    (A-M)"},{"depth":1,"header":"Areas (R-Z)"},"Wastes of Xhorhas",{"depth":1,"header":"Areas
+    (A-D)"},{"depth":1,"header":"Areas (F-R)"},{"depth":1,"header":"Areas (S-Z)"},"Blightshore","Distant
+    Lands of Exandria"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Character
+    Options","headers":["Races",{"depth":1,"header":"Dwarves"},{"depth":1,"header":"Elves"},{"depth":1,"header":"Halflings"},{"depth":1,"header":"Humans"},{"depth":1,"header":"Aarakocra"},{"depth":1,"header":"Aasimar"},{"depth":1,"header":"Dragonborn"},{"depth":1,"header":"Firbolgs"},{"depth":1,"header":"Genasi"},{"depth":1,"header":"Gnomes"},{"depth":1,"header":"Goblinkin"},{"depth":1,"header":"Goliaths"},{"depth":1,"header":"Half-Elves"},{"depth":1,"header":"Kenku"},{"depth":1,"header":"Orcs
+    and Half-Orcs"},{"depth":1,"header":"Tabaxi"},{"depth":1,"header":"Tieflings"},{"depth":1,"header":"Tortles"},{"depth":1,"header":"Hollow
+    One"},"Subclasses",{"depth":1,"header":"Dunamis and Dunamancy"},{"depth":1,"header":"Fighter"},{"depth":1,"header":"Wizard"},"Dunamancy
+    Spells","Spell Descriptions","Heroic Chronicle","Backgrounds"],"ordinal":{"type":"chapter","identifier":4}},{"name":"Adventures
+    in Wildemount","headers":["Using These Adventures"],"ordinal":{"type":"chapter","identifier":5}},{"name":"Wildemount
+    Treasures","headers":["Magic Items of Wildemount","Vestiges of Divergence","Arms
+    of the Betrayers","Artifact Descriptions"],"ordinal":{"type":"chapter","identifier":6}},{"name":"Wildemount
+    Bestiary"},{"name":"Glossary"},{"name":"Maps"}]}'
+  DataHash: abb2c379dc97d15db07b52b1a6a3f1bd
+  CoverURL: 
+  Published: 
+  Author: 

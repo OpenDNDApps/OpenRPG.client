@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: soul-of-the-storm-giant
+  m_EditorClassIdentifier: 
+  Title: Soul Of The Storm Giant
+  AsJson: '{"name":"Soul Of The Storm Giant","source":"UA2022WondersOfTheMultiverse","page":9,"prerequisite":[{"level":4,"feat":["strike
+    of the giants|ua2022wondersofthemultiverse|strike of the giants (storm giant)"]}],"ability":[{"choose":{"from":["int","wis","cha"],"amount":1}}],"entries":["You''ve
+    manifested divination abilities and tempest magic emblematic of storm giants,
+    granting you the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Maelstrom
+    Aura","entries":["As a bonus action, you surround yourself in an aura of magical
+    wind and lightning that extends 10 feet from you in every direction but not through
+    total cover. The aura lasts until the start of your next turn or until you are
+    {@condition incapacitated}. While the aura is active, attack rolls against you
+    have disadvantage, and whenever a creature starts its turn within the aura, you
+    can force the creature to make a Strength saving throw (DC equals 8 + your proficiency
+    bonus + the ability modifier of the score increased by this feat). On a failed
+    save, the creature''s speed is halved until the start of its next turn. You can
+    use this bonus action a number of times equal to your proficiency bonus, and
+    you regain all expended uses when you finish a long rest."]}]}]}'
+  DataHash: bccb0a8bf4cdc8d613db2a13b8876f74
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 9
+  Prerequisites:
+  - Type: 0
+    Value: 4

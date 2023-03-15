@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: ftd
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Fizban''s Treasury of Dragons","id":"FTD","source":"FTD","group":"supplement","coverUrl":"img/covers/FTD.png","published":"2021-10-26","author":"Wizards
+    RPG Team","contents":[{"name":"Elegy for the First World","headers":["A Treasury
+    of Dragons","The First World"]},{"name":"Character Creation","headers":["Draconic
+    Races","Subclass Options","Heroes of the Dragon","Draconic Feats"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Dragon
+    Magic","headers":["Spells","Magic Items","Hoard Magic Items","Draconic Gifts"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Dragons
+    in Play","headers":["Roleplaying Dragons","Followers","Dragon Encounters","Dragon
+    Adventures","Dragon Campaigns"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Lairs
+    and Hoards","headers":["Dragon Lairs","Dragon Hoards","What''s in a Hoard?"],"ordinal":{"type":"chapter","identifier":4}},{"name":"Draconomicon","headers":["Using
+    the Entries","Amethyst Dragons","Black Dragons","Blue Dragons","Brass Dragons","Bronze
+    Dragons","Copper Dragons","Crystal Dragons","Deep Dragons","Dragon Turtles","Emerald
+    Dragons","Faerie Dragons","Gold Dragons","Green Dragons","Moonstone Dragons","Red
+    Dragons","Sapphire Dragons","Shadow Dragons","Silver Dragons","Topaz Dragons","White
+    Dragons"],"ordinal":{"type":"chapter","identifier":5}},{"name":"Bestiary","ordinal":{"type":"chapter","identifier":6}},{"name":"Creature
+    Lists","headers":["Challenge Ratings","Creature Types"]}]}'
+  DataHash: ef99bf810cfaeaef4366a637f9450602
+  CoverURL: 
+  Published: 
+  Author: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: fell-handed
+  m_EditorClassIdentifier: 
+  Title: Fell Handed
+  AsJson: '{"name":"Fell Handed","source":"UAFeats","page":2,"entries":["You master
+    the {@item handaxe|phb}, {@item battleaxe|phb}, {@item greataxe|phb}, {@item
+    warhammer|phb}, and {@item maul|phb}. You gain the following benefits when using
+    any of them:",{"type":"list","items":["You gain a +1 bonus to attack rolls you
+    make with the weapon.","Whenever you have advantage on a melee attack roll you
+    make with the weapon and hit, you can knock the target {@condition prone} if
+    the lower of the two {@dice d20} rolls would also hit the target.","Whenever
+    you have disadvantage on a melee attack roll you make with the weapon, the target
+    takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the
+    attack misses but the higher of the two {@dice d20} rolls would have hit.","If
+    you use the {@action Help} action to aid an ally''s melee attack while you''re
+    wielding the weapon, you knock the target''s shield aside momentarily. In addition
+    to the ally gaining advantage on the attack roll, the ally gains a +2 bonus to
+    the roll if the target is using a shield."]}]}'
+  DataHash: 207054543f4f89744af83067ea07e1ee
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

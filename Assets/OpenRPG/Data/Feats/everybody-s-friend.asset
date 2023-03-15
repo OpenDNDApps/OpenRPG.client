@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: everybody-s-friend
+  m_EditorClassIdentifier: 
+  Title: Everybody's Friend
+  AsJson: '{"name":"Everybody''s Friend","source":"UAFeatsForRaces","page":2,"prerequisite":[{"race":[{"name":"half-elf"}]}],"ability":[{"cha":1}],"skillProficiencies":[{"deception":true,"persuasion":true}],"entries":["You
+    develop your magnetic personality to ease your way through the world. You gain
+    the following benefits:",{"type":"list","items":["You gain proficiency in the
+    {@skill Deception} and {@skill Persuasion} skills. If you''re already proficient
+    in either skill, your proficiency bonus is doubled for any check you make with
+    that skill."]}]}'
+  DataHash: 499834e09976d9a8aef8743eb0eecd60
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites:
+  - Type: 3
+    Value: half-elf

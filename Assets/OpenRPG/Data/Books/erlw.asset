@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
+  m_Name: erlw
+  m_EditorClassIdentifier: 
+  Title: 
+  AsJson: '{"name":"Eberron: Rising from the Last War","id":"ERLW","source":"ERLW","group":"setting","coverUrl":"img/covers/ERLW.png","published":"2019-11-19","contents":[{"name":"Welcome
+    to Eberron","headers":["Using This Book","Seven Things to Know","History of Eberron","Life
+    in Khorvaire","Pulp Adventure","Noir Intrigue","A Magical World","The Last War","The
+    Draconic Prophecy"]},{"name":"Character Creation","ordinal":{"type":"chapter","identifier":1},"headers":["Races","Changelings","Dragonborn","Dwarves","Elves","Gnomes","Goblinoids","Half-Elves","Halflings","Humans","Kalashtar","Orcs
+    and Half-Orcs","Shifters","Tieflings","Warforged"]},{"name":"Character Creation
+    - Dragonmarks","ordinal":{"type":"chapter","identifier":1},"headers":["Dragonmarks","The
+    Mark of Detection","The Mark of Finding","The Mark of Handling","The Mark of
+    Healing","The Mark of Hospitality","The Mark of Making","The Mark of Passage","The
+    Mark of Scribing","The Mark of Sentinel","The Mark of Shadow","The Mark of Storm","The
+    Mark of Warding","Aberrant Dragonmarks","Background"]},{"name":"Character Creation
+    - Artificer","ordinal":{"type":"chapter","identifier":1},"headers":["Class: Artificer","Class
+    Features","Artificer Specialists","Artificer Infusions"]},{"name":"Character
+    Creation - Group Patrons","ordinal":{"type":"chapter","identifier":1},"headers":["How
+    Patrons Work","Patrons in Eberron","Adventurers'' Guild","Crime Syndicate","Dragonmarked
+    House","Espionage Agency","Head of State","Immortal Being","Inquisitive Agency","Military
+    Force","Newspaper","Religious Order","University"]},{"name":"Khorvaire Gazetteer","ordinal":{"type":"chapter","identifier":2},"headers":["Nations
+    of Khorvaire","Aundair","Breland","Cyre (The Mournland)","Darguun","Demon Wastes","Droaam","Eldeen
+    Reaches","Karrnath","Lhazaar Principalities","Mror Holds","Q''barra","Shadow
+    Marches","Talenta Plains","Thrane","Thronehold","Valenar","Zilargo"]},{"name":"Khorvaire
+    Gazeteer - Distant Lands","ordinal":{"type":"chapter","identifier":2},"headers":["Aerenal","Argonnessen","Khyber","North
+    and South Poles","Sarlona","Xen''drik"]},{"name":"Khorvaire Gazeteer - Faiths
+    of Khorvaire","ordinal":{"type":"chapter","identifier":2},"headers":["Deities
+    of Eberron","Sovereign Host","Dark Six","Church of the Silver Flame","Blood of
+    Vol","Cults of the Dragon Below","Path of Light","Spirits of the Past","Undying
+    Court","Druids of Khorvaire"]},{"name":"Sharn, City of Towers","ordinal":{"type":"chapter","identifier":3},"headers":["The
+    Shape of Sharn","Guide to the City","Wards of Sharn","Central Plateau","Dura","Menthis
+    Plateau","Northedge","Tavick''s Landing","Above and Below","Dungeons of Sharn","Criminal
+    Activities","Forces of the Law"]},{"name":"Building Eberron Adventures","ordinal":{"type":"chapter","identifier":4},"headers":["Adventure
+    Themes","The Aurum","Cults of the Dragon Below","Dragonmarked Houses","Dragons","The
+    Dreaming Dark","Droaam","Gatekeepers","Goblinoids (Heirs of Dhakaan)"]},{"name":"Building
+    Eberron Adventures","ordinal":{"type":"chapter","identifier":4},"headers":["The
+    Last War","Lord of Blades","The Lords of Dust","The Mournland","Order of the
+    Emerald Claw","Planes of Existence","Tour of the Planes","Eberron and the Multiverse","Gods,
+    Celestials, and Fiends","Travel"]},{"name":"Building Eberron Adventures - Sharn","ordinal":{"type":"chapter","identifier":4},"headers":["Adventures
+    in Sharn","Crime in Sharn","The Boromar Clan","Daask","House Tarkanan","The Tyrants","Sharn
+    Watch"]},{"name":"Treasures","headers":["Dragonshards","Magic Items","Eldritch
+    Machines","Everyday Magic Items"]},{"name":"Friends and Foes","headers":["Daelkyr","Living
+    Spells"]}]}'
+  DataHash: cf61adf94ae308312500198cc9422efa
+  CoverURL: 
+  Published: 
+  Author: 

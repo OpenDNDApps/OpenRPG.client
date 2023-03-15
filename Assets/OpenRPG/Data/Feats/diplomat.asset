@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: diplomat
+  m_EditorClassIdentifier: 
+  Title: Diplomat
+  AsJson: '{"name":"Diplomat","source":"UAFeatsForSkills","page":2,"ability":[{"cha":1}],"skillProficiencies":[{"persuasion":true}],"entries":["You
+    master the arts of diplomacy, gaining the following benefits:",{"type":"list","items":["You
+    gain proficiency in the {@skill Persuasion} skill. If you are already proficient
+    in the skill, you add double your proficiency bonus to checks you make with it.","If
+    you spend 1 minute talking to someone who can understand what you say, you can
+    make a Charisma ({@skill Persuasion}) check contested by the creature''s Wisdom
+    ({@skill Insight}) check. If you or your companions are fighting the creature,
+    your check automatically fails. If your check succeeds, the target is {@condition
+    charmed} by you as long as it remains within 60 feet of you and for 1 minute
+    thereafter."]}]}'
+  DataHash: 9bb6eb4f8499a1802aea1882b79993e0
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: master-of-disguise
+  m_EditorClassIdentifier: 
+  Title: Master of Disguise
+  AsJson: '{"name":"Master of Disguise","source":"UAFeats","page":4,"ability":[{"cha":1}],"toolProficiencies":[{"disguise
+    kit":true}],"entries":["You have honed your ability to shape your personality
+    and to read the personalities of others. You gain the following benefits:",{"type":"list","items":["You
+    gain proficiency with the {@item disguise kit|phb}. If you are already proficient
+    with it, you add double your proficiency bonus to checks you make with it.","If
+    you spend 1 hour observing a creature, you can then spend 8 hours crafting a
+    disguise you can quickly don to mimic that creature. Making the disguise requires
+    a {@item disguise kit|PHB}. You must make checks as normal to disguise yourself,
+    but you can assume the disguise as an action."]}]}'
+  DataHash: 63c38b5d7f42f517ddb8a32f403cf6d0
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 4
+  Prerequisites: []

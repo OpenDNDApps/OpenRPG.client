@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: great-weapon-master
+  m_EditorClassIdentifier: 
+  Title: Great Weapon Master
+  AsJson: '{"name":"Great Weapon Master","source":"PHB","page":167,"entries":["You''ve
+    learned to put the weight of a weapon to your advantage, letting its momentum
+    empower your strikes. You gain the following benefits:",{"type":"list","items":["On
+    your turn, when you score a critical hit with a melee weapon or reduce a creature
+    to 0 hit points with one, you can make one melee weapon attack as a bonus action.","Before
+    you make a melee attack with a heavy weapon that you are proficient with, you
+    can choose to take a -5 penalty to the attack roll. If the attack hits, you add
+    +10 to the attack''s damage."]}]}'
+  DataHash: 19efff990c488b512be13549cf7085f4
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 167
+  Prerequisites: []

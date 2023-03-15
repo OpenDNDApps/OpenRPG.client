@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: piercer
+  m_EditorClassIdentifier: 
+  Title: Piercer
+  AsJson: '{"name":"Piercer","source":"UA2020Feats","page":2,"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"entries":["You
+    have achieved a penetrating precision in combat, granting you the following benefits:",{"type":"list","items":["Once
+    per turn, when you hit a creature with an attack that deals piercing damage,
+    you can reroll one of the attack''s damage dice, and you must use the new roll.","When
+    you score a critical hit that deals piercing damage to a creature, you can roll
+    one additional damage die when determining the extra piercing damage the target
+    takes."]}]}'
+  DataHash: 2318910d132699c02a4c0b224fc3dce6
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 2
+  Prerequisites: []

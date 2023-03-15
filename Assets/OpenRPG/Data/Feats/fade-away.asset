@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: fade-away
+  m_EditorClassIdentifier: 
+  Title: Fade Away
+  AsJson: '{"name":"Fade Away","source":"XGE","page":74,"prerequisite":[{"race":[{"name":"gnome"}]}],"ability":[{"choose":{"from":["dex","int"],"amount":1}}],"entries":["Your
+    people are clever, with a knack for illusion magic. You have learned a magical
+    trick for fading away when you suffer harm. You gain the following benefits:",{"type":"list","items":["Immediately
+    after you take damage, you can use a reaction to magically become {@condition
+    invisible} until the end of your next turn or until you attack, deal damage,
+    or force someone to make a saving throw. Once you use this ability, you can''t
+    do so again until you finish a short or long rest."]}]}'
+  DataHash: 15462b37353d1f30cf482a23609310ef
+  Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
+  SourcePages: 74
+  Prerequisites:
+  - Type: 3
+    Value: gnome

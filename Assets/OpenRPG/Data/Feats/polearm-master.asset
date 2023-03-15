@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: polearm-master
+  m_EditorClassIdentifier: 
+  Title: Polearm Master
+  AsJson: '{"name":"Polearm Master","source":"PHB","page":168,"entries":["You can
+    keep your enemies at bay with reach weapons. You gain the following benefits:",{"type":"list","items":["When
+    you take the {@action Attack} action and attack with only a {@item glaive|phb},
+    {@item halberd|phb}, {@item quarterstaff|phb}, or {@item spear|phb}, you can
+    use a bonus action to make a melee attack with the opposite end of the weapon;
+    this attack uses the same ability modifier as the primary attack. The weapon''s
+    damage die for this attack is a {@dice d4}, and the attack deals bludgeoning
+    damage.","While you are wielding a {@item glaive|phb}, {@item halberd|phb}, {@item
+    pike|phb}, {@item quarterstaff|phb}, or {@item spear|phb}, other creatures provoke
+    an opportunity attack from you when they enter the reach you have with that weapon."]}]}'
+  DataHash: d609b0b7ac617c2672a26dd54f6d7f3c
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 168
+  Prerequisites: []

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: dragonmark-of-healing
+  m_EditorClassIdentifier: 
+  Title: Dragonmark of Healing
+  AsJson: '{"name":"Dragonmark of Healing","source":"UAEberron","page":5,"prerequisite":[{"race":[{"name":"halfling"}]}],"additionalSpells":[{"innate":{"5":{"daily":{"1":["lesser
+    restoration"]}},"9":{"daily":{"1":["revivify"]}},"_":{"daily":{"1":["cure wounds"]}}},"ability":"wis","known":{"_":["spare
+    the dying#c"]}}],"entries":["You have the magical mark of Healing, the dragonmark
+    of House Jorasco, and are a member of that house.","You gain the ability to innately
+    cast spells and cantrips, using Wisdom as your spellcasting ability. You cast
+    each spell at its lowest level. Once you cast a given spell this way, you must
+    finish a long rest before you can cast it innately again. You must still expend
+    any material components. Your dragonmark confers the following benefits:",{"type":"entries","name":"Least
+    Dragonmark","entries":["When you first take this feat, you gain the least dragonmark.
+    You learn the following spells: {@spell cure wounds}, {@spell spare the dying}"]},{"type":"entries","name":"Lesser
+    Dragonmark","entries":["At 5th level and higher, your mark becomes more potent,
+    improving to lesser dragonmark. You learn the following spell: {@spell lesser
+    restoration}"]},{"type":"entries","name":"Greater Dragonmark","entries":["At
+    9th level and higher, your mark''s power increases again, becoming a greater
+    dragonmark. You learn the following spell: {@spell revivify}"]}]}'
+  DataHash: 4213439519aa77c77cb73a491a78adb1
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 5
+  Prerequisites:
+  - Type: 3
+    Value: halfling

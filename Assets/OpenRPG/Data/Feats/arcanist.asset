@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: arcanist
+  m_EditorClassIdentifier: 
+  Title: Arcanist
+  AsJson: '{"name":"Arcanist","source":"UAFeatsForSkills","page":1,"ability":[{"int":1}],"skillProficiencies":[{"arcana":true}],"additionalSpells":[{"innate":{"_":{"daily":{"1":["detect
+    magic"]}}},"known":{"_":["prestidigitation#c"]}}],"entries":["You study the arcane
+    arts, gaining the following benefits:",{"type":"list","items":["You gain proficiency
+    in the {@skill Arcana} skill. If you are already proficient in the skill, you
+    add double your proficiency bonus to checks you make with it.","You learn the
+    {@spell prestidigitation} and {@spell detect magic} spells. You can cast {@spell
+    detect magic} once without expending a spell slot, and you regain the ability
+    to do so when you finish a long rest."]}]}'
+  DataHash: 6c0d7f6cc99917de8d4c802724b4fe24
+  Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
+  SourcePages: 1
+  Prerequisites: []

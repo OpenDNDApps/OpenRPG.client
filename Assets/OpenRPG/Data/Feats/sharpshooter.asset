@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: sharpshooter
+  m_EditorClassIdentifier: 
+  Title: Sharpshooter
+  AsJson: '{"name":"Sharpshooter","source":"PHB","page":170,"entries":["You have
+    mastered ranged weapons and can make shots that others find impossible. You gain
+    the following benefits:",{"type":"list","items":["Attacking at long range doesn''t
+    impose disadvantage on your ranged weapon attack rolls.","Your ranged weapon
+    attacks ignore half cover and three-quarters cover.","Before you make an attack
+    with a ranged weapon that you are proficient with, you can choose to take a -5
+    penalty to the attack roll. If the attack hits, you add +10 to the attack''s
+    damage."]}]}'
+  DataHash: ffd772637e0c94ca20049890e6d96747
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 170
+  Prerequisites: []

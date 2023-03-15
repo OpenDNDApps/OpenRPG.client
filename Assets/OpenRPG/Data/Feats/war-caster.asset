@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: war-caster
+  m_EditorClassIdentifier: 
+  Title: War Caster
+  AsJson: '{"name":"War Caster","source":"PHB","page":170,"prerequisite":[{"spellcasting":true}],"entries":["You
+    have practiced casting spells in the midst of combat, learning techniques that
+    grant you the following benefits:",{"type":"list","items":["You have advantage
+    on Constitution saving throws that you make to maintain your concentration on
+    a spell when you take damage.","You can perform the somatic components of spells
+    even when you have weapons or a {@item shield|phb} in one or both hands.","When
+    a hostile creature''s movement provokes an opportunity attack from you, you can
+    use your reaction to cast a spell at the creature, rather than making an opportunity
+    attack. The spell must have a casting time of 1 action and must target only that
+    creature."]}]}'
+  DataHash: a961fd61ecbae613927113f23ba4bb45
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 170
+  Prerequisites: []

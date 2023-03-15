@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
+  m_Name: mounted-combatant
+  m_EditorClassIdentifier: 
+  Title: Mounted Combatant
+  AsJson: '{"name":"Mounted Combatant","source":"PHB","page":168,"entries":["You
+    are a dangerous foe to face while mounted. While you are mounted and aren''t
+    {@condition incapacitated}, you gain the following benefits:",{"type":"list","items":["You
+    have advantage on melee attack rolls against any unmounted creature that is smaller
+    than your mount.","You can force an attack targeted at your mount to target you
+    instead.","If your mount is subjected to an effect that allows it to make a Dexterity
+    saving throw to take only half damage, it instead takes no damage if it succeeds
+    on the saving throw, and only half damage if it fails."]}]}'
+  DataHash: ccd15c780067eb5af25df59d8a5e6700
+  Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
+  SourcePages: 168
+  Prerequisites: []
