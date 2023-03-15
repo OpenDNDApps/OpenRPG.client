@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: aerisi-kalinoth
+  m_EditorClassIdentifier: 
+  Title: Aerisi Kalinoth
+  AsJson: '{"name":"Aerisi Kalinoth","isNpc":true,"source":"PotA","page":192,"size":["M"],"type":{"type":"humanoid","tags":["elf"]},"alignment":["N","E"],"ac":[13,{"ac":16,"condition":"with
+    {@spell mage armor}","braces":true}],"hp":{"average":66,"formula":"12d8 + 12"},"speed":{"walk":30},"str":8,"dex":16,"con":12,"int":17,"wis":10,"cha":16,"skill":{"arcana":"+6","history":"+6","perception":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"resist":["lightning"],"languages":["Auran","Common","Elvish"],"cr":"7","spellcasting":[{"name":"Spellcasting","headerEntries":["Aerisi
+    is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell
+    save {@dc 14}, {@hit 6} to hit with spell attacks). Aerisi has the following
+    wizard spells prepared:"],"spells":{"0":{"spells":["{@spell gust|xge}","{@spell
+    mage hand}","{@spell message}","{@spell prestidigitation}","{@spell ray of frost}","{@spell
+    shocking grasp}"]},"1":{"slots":4,"spells":["{@spell charm person}","{@spell
+    feather fall}","{@spell mage armor}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+    dust devil|xge}","{@spell gust of wind}","{@spell invisibility}"]},"3":{"slots":3,"spells":["{@spell
+    fly}","{@spell gaseous form}","{@spell lightning bolt}"]},"4":{"slots":3,"spells":["{@spell
+    ice storm}","{@spell storm sphere|xge}"]},"5":{"slots":2,"spells":["{@spell cloudkill}","{@spell
+    seeming} (cast each day)"]},"6":{"slots":1,"spells":["{@spell chain lightning}"]}},"ability":"int"}],"trait":[{"name":"Fey
+    Ancestry","entries":["Aerisi has advantage on saving throws against being {@condition
+    charmed}, and magic can''t put her to sleep."]},{"name":"Howling Defeat","entries":["When
+    Aerisi drops to 0 hit points, her body disappears in a howling whirlwind that
+    disperses quickly and harmlessly. Anything she is wearing or carrying is left
+    behind."]},{"name":"Legendary Resistance (2/Day)","entries":["If Aerisi fails
+    a saving throw, she can choose to succeed instead."]}],"action":[{"name":"Windvane","entries":["{@atk
+    mw,rw} {@hit 9} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}9 ({@damage
+    1d6 + 6}) piercing damage, or 10 ({@damage 1d8 + 6}) piercing damage if used
+    with two hands to make a melee attack, plus 3 ({@damage 1d6}) lightning damage."]}],"legendaryGroup":{"name":"Aerisi
+    Kalinoth","source":"PotA"},"traitTags":["Fey Ancestry","Legendary Resistances"],"senseTags":["D"],"languageTags":["AU","C","E"],"damageTags":["L","P"],"damageTagsSpell":["B","C","I","L","T"],"spellcastingTags":["CW"],"miscTags":["MW","RW"],"conditionInflictSpell":["charmed","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 472bb5f2c168b00415bc541d53bd1745

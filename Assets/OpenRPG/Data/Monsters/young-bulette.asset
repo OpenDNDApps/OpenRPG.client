@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: young-bulette
+  m_EditorClassIdentifier: 
+  Title: Young Bulette
+  AsJson: '{"name":"Young Bulette","source":"PotA","page":139,"_copy":{"name":"Rhinoceros","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"rhinoceros","with":"bulette"}}},"hp":{"average":45,"formula":"6d10
+    + 12"},"action":[{"name":"Bite","entries":["{@atk mw} {@hit 7} to hit, reach
+    5 ft., one target. {@h}14 ({@damage 2d8 + 5}) piercing damage."]}],"damageTags":["B","P"],"hasToken":true}'
+  DataHash: 987b7723b55e8a606eef26a2a26e21a6

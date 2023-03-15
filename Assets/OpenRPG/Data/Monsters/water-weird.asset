@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: water-weird
+  m_EditorClassIdentifier: 
+  Title: Water Weird
+  AsJson: '{"name":"Water Weird","source":"MM","page":299,"otherSources":[{"source":"PotA"},{"source":"TftYP"},{"source":"DIP"},{"source":"SLW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"JttRC"},{"source":"DSotDQ"}],"size":["L"],"type":"elemental","alignment":["N"],"ac":[13],"hp":{"average":58,"formula":"9d10
+    + 9"},"speed":{"walk":0,"swim":60},"str":17,"dex":16,"con":13,"int":11,"wis":10,"cha":10,"senses":["blindsight
+    30 ft."],"passive":10,"resist":["fire",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["exhaustion","grappled","paralyzed","poisoned","restrained","prone","unconscious"],"languages":["understands
+    Aquan but doesn''t speak"],"cr":"3","trait":[{"name":"Invisible in Water","entries":["The
+    water weird is {@condition invisible} while fully immersed in water."]},{"name":"Water
+    Bound","entries":["The water weird dies if it leaves the water to which it is
+    bound or if that water is destroyed."]}],"action":[{"name":"Constrict","entries":["{@atk
+    mw} {@hit 5} to hit, reach 10 ft., one creature. {@h}13 ({@damage 3d6 + 3}) bludgeoning
+    damage. If the target is Medium or smaller, it is {@condition grappled} (escape
+    {@dc 13}) and pulled 5 feet toward the water weird. Until this grapple ends,
+    the target is {@condition restrained}, the water weird tries to drown it, and
+    the water weird can''t constrict another target."]}],"environment":["underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/water-weird.mp3"},"senseTags":["B"],"languageTags":["AQ"],"damageTags":["B"],"miscTags":["MW","RCH"],"conditionInflict":["grappled","invisible","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c8bad0329ab80a1aa58ba0235ffa7bfd

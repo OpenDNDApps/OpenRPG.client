@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lyzandra-lyzzie-calderos
+  m_EditorClassIdentifier: 
+  Title: Lyzandra "Lyzzie" Calderos
+  AsJson: '{"name":"Lyzandra \"Lyzzie\" Calderos","isNpc":true,"source":"PotA","page":110,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    mage","with":"Lyzandra","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"spellcasting":[{"name":"Spellcasting","headerEntries":["Lyzandra
+    is a 9th-level spellcaster. Her spellcasting ability is Intelligence (spell save
+    {@dc 14}, {@hit 6} to hit with spell attacks). Lyzandra has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell fire bolt}","{@spell light}","{@spell
+    mage hand}","{@spell prestidigitation}"]},"1":{"slots":4,"spells":["{@spell detect
+    magic}","{@spell mage armor}","{@spell magic missile}","{@spell shield}"]},"2":{"slots":3,"spells":["{@spell
+    misty step}","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell counterspell}","{@spell
+    fireball}","{@spell fly}"]},"4":{"slots":3,"spells":["{@spell greater invisibility}","{@spell
+    wall of fire}"]},"5":{"slots":1,"spells":["{@spell immolation|xge}"]}},"ability":"int"}],"damageTagsSpell":["F","O"],"hasToken":true}'
+  DataHash: af2892b8fd27fbb894d182693a40ba9c

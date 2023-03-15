@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: akroan-hoplite
+  m_EditorClassIdentifier: 
+  Title: Akroan Hoplite
+  AsJson: '{"name":"Akroan Hoplite","source":"MOT","page":228,"size":["M"],"type":"humanoid","alignment":["A"],"ac":[{"ac":18,"from":["{@item
+    breastplate|PHB}","{@item shield|PHB}"]}],"hp":{"average":52,"formula":"8d8 +
+    16"},"speed":{"walk":30},"str":16,"dex":16,"con":14,"int":11,"wis":14,"cha":13,"save":{"str":"+5","dex":"+5"},"passive":12,"languages":["Common"],"cr":"3","trait":[{"name":"Hold
+    the Line","entries":["While the hoplite is holding a spear, other creatures provoke
+    an opportunity attack from the hoplite when they move within 5 feet of it. When
+    the hoplite hits a creature with an opportunity attack using its spear, the creature
+    takes an extra 4 ({@damage 1d8}) piercing damage, and the creature''s speed becomes
+    0 for the rest of the turn."]}],"action":[{"name":"Multiattack","entries":["The
+    hoplite makes three melee attacks or two ranged attacks."]},{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 5} to hit, reach 5 ft., or range 20/60 ft., one target. {@h}6 ({@damage
+    1d6 + 3}) piercing damage, or 7 ({@damage 1d8 + 3}) piercing damage if used with
+    two hands to make a melee attack."]},{"name":"Shield Bash","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d4 + 3}) bludgeoning
+    damage. If the target is a Medium or smaller creature, it must succeed on a {@dc
+    13} Strength saving throw or be knocked {@condition prone}."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true}'
+  DataHash: 9d1d4badc21538d379fdee53fe52bcf3

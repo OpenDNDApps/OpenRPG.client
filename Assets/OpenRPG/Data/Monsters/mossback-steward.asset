@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mossback-steward
+  m_EditorClassIdentifier: 
+  Title: Mossback Steward
+  AsJson: '{"name":"Mossback Steward","isNpc":true,"source":"EGW","page":256,"_copy":{"name":"Horizonback
+    Tortoise","source":"EGW","_mod":{"*":{"mode":"replaceTxt","replace":"the tortoise","with":"Mossback
+    Steward","flags":"i"}}},"int":12,"wis":17,"skill":{"arcana":"+5","insight":"+7","nature":"+5","perception":"+7","persuasion":"+5"},"languages":["telepathy
+    120 ft","understands Goblin, Common, and Primordial but can''t speak"],"spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["Mossback Steward''s innate spellcasting ability
+    is Wisdom (spell save {@dc 15}). It can innately cast the following spells, requiring
+    no material components."],"will":["{@spell friends}"],"rest":{"1":["{@spell suggestion}","{@spell
+    divination}"]}}],"languageTags":["C","GO","P","TP"],"spellcastingTags":["I"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 7b8a1add9397c9c0adc76989aa637a62

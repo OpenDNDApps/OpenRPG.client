@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dermot-wurder-tier-2
+  m_EditorClassIdentifier: 
+  Title: Dermot Wurder (Tier 2)
+  AsJson: '{"name":"Dermot Wurder (Tier 2)","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":191,"size":["S"],"type":{"type":"humanoid","tags":["cleric","goblin","goblinoid"]},"alignment":["L","G"],"ac":[{"ac":19,"from":["splint
+    mail","{@item shield|PHB}"]}],"hp":{"average":82,"formula":"15d6 + 30"},"speed":{"walk":30},"str":18,"dex":12,"con":14,"int":10,"wis":18,"cha":10,"save":{"wis":"+7","cha":"+3"},"skill":{"medicine":"+7","religion":"+3","survival":"+7"},"senses":["darkvision
+    60 ft."],"passive":14,"languages":["Common","Goblin","Orc"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["Dermot
+    casts one of the following spells, using Wisdom as the spellcasting ability (spell
+    save {@dc 15}):"],"will":["{@spell guidance}","{@spell light}","{@spell spare
+    the dying}"],"daily":{"1":["{@spell revivify}"],"2e":["{@spell bless} (at 2nd
+    level)","{@spell cure wounds} (at 3rd level)"]},"ability":"wis","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["Dermot
+    makes one Warhammer attack and one Searing Wrath attack."]},{"name":"Warhammer","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) bludgeoning
+    damage, or 9 ({@damage 1d10 + 4}) bludgeoning damage when used with two hands."]},{"name":"Searing
+    Wrath","entries":["{@atk rs} {@hit 7} to hit, range 60 ft., one creature. {@h}18
+    ({@damage 4d8}) radiant damage, and the target is {@condition blinded} until
+    the end of its next turn."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","GO","O"],"damageTags":["B","R"],"spellcastingTags":["O"],"miscTags":["MW"],"conditionInflict":["blinded"],"hasToken":true,"hasFluff":true}'
+  DataHash: 18611e69c109d75567ace92a07db0c49

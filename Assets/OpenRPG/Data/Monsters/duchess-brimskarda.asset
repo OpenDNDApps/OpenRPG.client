@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: duchess-brimskarda
+  m_EditorClassIdentifier: 
+  Title: Duchess Brimskarda
+  AsJson: '{"name":"Duchess Brimskarda","isNpc":true,"source":"SKT","page":185,"_copy":{"name":"Fire
+    Giant","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Special
+    Equipment","entries":["Brimskarda carries a {@item potion of invisibility}, which
+    she quaffs on her first turn in combat."]}},"action":{"mode":"replaceArr","replace":"Rock","items":{"name":"Iron
+    Cauldron","entries":["{@atk rw} {@hit 11} to hit, range 60/240 ft., one target.
+    {@h}29 ({@damage 4d10 + 7}) bludgeoning damage."]}}}},"ac":[{"ac":16,"from":["dragon-scale
+    dress"]}],"int":14,"languages":["Common","Giant","Goblin"],"languageTags":["C","GI","GO"],"hasToken":true}'
+  DataHash: 8d3bda2bd8379185add5b53ec84936bf

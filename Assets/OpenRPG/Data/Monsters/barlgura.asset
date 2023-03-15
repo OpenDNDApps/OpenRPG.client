@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: barlgura
+  m_EditorClassIdentifier: 
+  Title: Barlgura
+  AsJson: '{"name":"Barlgura","source":"MM","page":56,"otherSources":[{"source":"PotA"},{"source":"WDH"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"IMR"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":68,"formula":"8d10 + 24"},"speed":{"walk":40,"climb":40},"str":18,"dex":15,"con":16,"int":7,"wis":14,"cha":9,"save":{"dex":"+5","con":"+6"},"skill":{"perception":"+5","stealth":"+5"},"senses":["blindsight
+    30 ft.","darkvision 120 ft."],"passive":15,"resist":["cold","fire","lightning"],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+    120 ft."],"cr":"5","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    barlgura''s spellcasting ability is Wisdom (spell save {@dc 13}). The barlgura
+    can innately cast the following spells, requiring no material components:"],"daily":{"1e":["{@spell
+    entangle}","{@spell phantasmal force}"],"2e":["{@spell disguise self}","{@spell
+    invisibility} (self only)"]},"ability":"wis"}],"trait":[{"name":"Reckless","entries":["At
+    the start of its turn, the barlgura can gain advantage on all melee weapon attack
+    rolls it makes during that turn, but attack rolls against it have advantage until
+    the start of its next turn."]},{"name":"Running Leap","entries":["The barlgura''s
+    long jump is up to 40 feet and its high jump is up to 20 feet when it has a running
+    start."]}],"action":[{"name":"Multiattack","entries":["The barlgura makes three
+    attacks: one with its bite and two with its fists."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing
+    damage."]},{"name":"Fist","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+    one target. {@h}9 ({@damage 1d10 + 4}) bludgeoning damage."]}],"variant":[{"type":"variant","name":"Summon
+    Demon (1/Day)","entries":["The demon chooses what to summon and attempts a magical
+    summoning.","A barlgura has a {@chance 30|30 percent|30% summoning chance} chance
+    of summoning one barlgura.","A summoned demon appears in an unoccupied space
+    within 60 feet of its summoner, acts as an ally of its summoner, and can''t summon
+    other demons. It remains for 1 minute, until it or its summoner dies, or until
+    its summoner dismisses it as an action."],"_version":{"name":"Barlgura (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/barlgura.mp3"},"traitTags":["Reckless"],"senseTags":["B","SD"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["B","P"],"damageTagsSpell":["Y"],"spellcastingTags":["I"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 47793794c8c781fe2a50f59b1bd4c2f3

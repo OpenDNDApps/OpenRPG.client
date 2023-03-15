@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ice-spider
+  m_EditorClassIdentifier: 
+  Title: Ice Spider
+  AsJson: '{"name":"Ice Spider","source":"SKT","page":127,"_copy":{"name":"Giant
+    Spider","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Web {@recharge
+    5}","items":{"name":"Icy Web {@recharge 5}","entries":["{@atk rw} {@hit 5} to
+    hit, range 30/60 ft., one creature. {@h}The target is {@condition restrained}
+    by webbing, and takes 1 cold damage at the start of each of its turns. As an
+    action, the {@condition restrained} target can make a DC 12 Strength check, bursting
+    the webbing on a success. The webbing can also be attacked and destroyed (AC
+    10; hp 5; vulnerability to fire damage; immunity to poison, and psychic damage)."]}}}},"resist":["cold"],"damageTags":["C","I","P"],"hasToken":true}'
+  DataHash: f3adb8b90bfe2f561e1dcfd8c39b84b1

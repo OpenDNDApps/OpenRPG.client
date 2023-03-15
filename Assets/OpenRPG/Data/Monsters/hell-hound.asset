@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hell-hound
+  m_EditorClassIdentifier: 
+  Title: Hell Hound
+  AsJson: '{"name":"Hell Hound","source":"MM","page":182,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"SLW"},{"source":"BGDIA"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"CM"},{"source":"KftGV"}],"size":["M"],"type":"fiend","alignment":["L","E"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":50},"str":17,"dex":12,"con":14,"int":6,"wis":13,"cha":6,"skill":{"perception":"+5"},"senses":["darkvision
+    60 ft."],"passive":15,"immune":["fire"],"languages":["understands Infernal but
+    can''t speak it"],"cr":"3","trait":[{"name":"Keen Hearing and Smell","entries":["The
+    hound has advantage on Wisdom ({@skill Perception}) checks that rely on hearing
+    or smell."]},{"name":"Pack Tactics","entries":["The hound has advantage on an
+    attack roll against a creature if at least one of the hound''s allies is within
+    5 feet of the creature and the ally isn''t {@condition incapacitated}."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing
+    damage plus 7 ({@damage 2d6}) fire damage."]},{"name":"Fire Breath {@recharge
+    5}","entries":["The hound exhales fire in a 15-foot cone. Each creature in that
+    area must make a {@dc 12} Dexterity saving throw, taking 21 ({@damage 6d6}) fire
+    damage on a failed save, or half as much damage on a successful one."]}],"environment":["underdark","mountain"],"soundClip":{"type":"internal","path":"bestiary/hell-hound.mp3"},"traitTags":["Keen
+    Senses","Pack Tactics"],"senseTags":["D"],"actionTags":["Breath Weapon"],"languageTags":["CS","I"],"damageTags":["F","P"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 82eadeeda923a0b908d5e7836d89fe3e

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: remorhaz
+  m_EditorClassIdentifier: 
+  Title: Remorhaz
+  AsJson: '{"name":"Remorhaz","source":"MM","page":258,"srd":true,"otherSources":[{"source":"SKT"},{"source":"TftYP"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"IMR"},{"source":"EGW"},{"source":"IDRotF"},{"source":"LoX"}],"size":["H"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":17,"from":["natural
+    armor"]}],"hp":{"average":195,"formula":"17d12 + 85"},"speed":{"walk":30,"burrow":20},"str":24,"dex":13,"con":21,"int":4,"wis":10,"cha":5,"senses":["darkvision
+    60 ft.","tremorsense 60 ft."],"passive":10,"immune":["cold","fire"],"cr":"11","trait":[{"name":"Heated
+    Body","entries":["A creature that touches the remorhaz or hits it with a melee
+    attack while within 5 feet of it takes 10 ({@damage 3d6}) fire damage."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 11} to hit, reach 10 ft., one target. {@h}40 ({@damage 6d10 + 7}) piercing
+    damage plus 10 ({@damage 3d6}) fire damage. If the target is a creature, it is
+    {@condition grappled} (escape {@dc 17}). Until this grapple ends, the target
+    is {@condition restrained}, and the remorhaz can''t bite another target."]},{"name":"Swallow","entries":["The
+    remorhaz makes one bite attack against a Medium or smaller creature it is grappling.
+    If the attack hits, that creature takes the bite''s damage and is swallowed,
+    and the grapple ends. While swallowed, the creature is {@condition blinded} and
+    {@condition restrained}, it has total cover against attacks and other effects
+    outside the remorhaz, and it takes 21 ({@damage 6d6}) acid damage at the start
+    of each of the remorhaz''s turns.","If the remorhaz takes 30 damage or more on
+    a single turn from a creature inside it, the remorhaz must succeed on a {@dc
+    15} Constitution saving throw at the end of that turn or regurgitate all swallowed
+    creatures, which fall {@condition prone} in a space within 10 feet of the remorhaz.
+    If the remorhaz dies, a swallowed creature is no longer {@condition restrained}
+    by it and can escape from the corpse using 15 feet of movement, exiting {@condition
+    prone}."]}],"environment":["arctic"],"soundClip":{"type":"internal","path":"bestiary/remorhaz.mp3"},"senseTags":["D","T"],"actionTags":["Swallow"],"damageTags":["A","F","P"],"miscTags":["MW","RCH"],"conditionInflict":["blinded","grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 87a5a5924d83d3f2312a536d2fc51719

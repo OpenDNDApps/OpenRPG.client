@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: boontu-monkey
+  m_EditorClassIdentifier: 
+  Title: Boontu Monkey
+  AsJson: "{\"name\":\"Boontu Monkey\",\"source\":\"AWM\",\"page\":30,\"size\":[\"M\"],\"type\":\"beast\",\"alignment\":[\"U\"],\"ac\":[12],\"hp\":{\"special\":\"3\"},\"speed\":{\"walk\":20,\"climb\":20},\"str\":8,\"dex\":14,\"con\":11,\"int\":5,\"wis\":12,\"cha\":6,\"passive\":0,\"cr\":\"0\",\"trait\":[{\"name\":\"Pack
+    Tactics\",\"entries\":[\"The Boontu monkey has advantage on an attack roll against
+    a creature if at least one of the boontu monkey's allies is within 5 feet of
+    the creature and the ally isn't {@condition incapacitated}.\"]}],\"action\":[{\"name\":\"Bite\",\"entries\":[\"{@atk
+    mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 \u20121}) piercing
+    damage.\"]}],\"traitTags\":[\"Pack Tactics\"],\"miscTags\":[\"MW\"],\"hasToken\":true,\"hasFluff\":true}"
+  DataHash: 8613121ab2ae835afe4469ef9b54f7a0

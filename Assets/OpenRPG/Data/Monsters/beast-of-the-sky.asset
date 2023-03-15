@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: beast-of-the-sky
+  m_EditorClassIdentifier: 
+  Title: Beast of the Sky
+  AsJson: '{"name":"Beast of the Sky","source":"TCE","page":61,"summonedByClass":"Ranger|PHB","size":["S"],"type":"beast","alignment":["N"],"ac":[{"special":"13
+    + PB (natural armor)"}],"hp":{"special":"4 + four times your ranger level (the
+    beast has a number of Hit Dice [d6s] equal to your ranger level)"},"speed":{"walk":10,"fly":60},"str":6,"dex":16,"con":13,"int":8,"wis":14,"cha":11,"senses":["darkvision
+    60 ft."],"passive":12,"languages":["understands the languages you speak"],"pbNote":"equals
+    your bonus","trait":[{"name":"Flyby","entries":["The beast doesn''t provoke opportunity
+    attacks when it flies out of an enemy''s reach."]},{"name":"Primal Bond","entries":["You
+    can add your proficiency bonus to any ability check or saving throw that the
+    beast makes."]}],"action":[{"name":"Shred","entries":["{@atk mw} {@hitYourSpellAttack}
+    to hit, reach 5 ft., one target. {@h}{@damage 1d4 + 3 + PB} slashing damage"]}],"traitTags":["Flyby"],"senseTags":["D"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: e343c2274cfcbdd672cbc6a9c29f2bec

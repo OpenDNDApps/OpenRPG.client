@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: death-dog
+  m_EditorClassIdentifier: 
+  Title: Death Dog
+  AsJson: '{"name":"Death Dog","source":"MM","page":321,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"WDH"},{"source":"WDMM"},{"source":"MOT"},{"source":"LoX"}],"size":["M"],"type":"monstrosity","alignment":["N","E"],"ac":[12],"hp":{"average":39,"formula":"6d8
+    + 12"},"speed":{"walk":40},"str":15,"dex":14,"con":14,"int":3,"wis":13,"cha":6,"skill":{"perception":"+5","stealth":"+4"},"senses":["darkvision
+    120 ft."],"passive":15,"cr":"1","trait":[{"name":"Two-Headed","entries":["The
+    dog has advantage on Wisdom ({@skill Perception}) checks and on saving throws
+    against being {@condition blinded}, {@condition charmed}, {@condition deafened},
+    {@condition frightened}, {@condition stunned}, or knocked {@condition unconscious}."]}],"action":[{"name":"Multiattack","entries":["The
+    dog makes two bite attacks."]},{"name":"Bite","entries":["{@atk mw} {@hit 4}
+    to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage. If
+    the target is a creature, it must succeed on a {@dc 12} Constitution saving throw
+    against disease or become {@condition poisoned} until the disease is cured. Every
+    24 hours that elapse, the creature must repeat the saving throw, reducing its
+    hit point maximum by 5 ({@dice 1d10}) on a failure. This reduction lasts until
+    the disease is cured. The creature dies if the disease reduces its hit point
+    maximum to 0."]}],"environment":["desert"],"soundClip":{"type":"internal","path":"bestiary/death-dog.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d15c2c5d6edd493751b459549570d357

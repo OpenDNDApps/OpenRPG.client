@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: maggie-keeneyes-tier-2
+  m_EditorClassIdentifier: 
+  Title: Maggie Keeneyes (Tier 2)
+  AsJson: '{"name":"Maggie Keeneyes (Tier 2)","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":191,"size":["L"],"type":{"type":"giant","tags":["ogre"]},"alignment":["L","N"],"ac":[{"ac":15,"from":["{@item
+    chain shirt|phb}"]}],"hp":{"average":114,"formula":"12d10 + 48"},"speed":{"walk":30,"swim":30},"str":18,"dex":14,"con":18,"int":14,"wis":16,"cha":8,"save":{"str":"+7","con":"+7"},"skill":{"athletics":"+7","insight":"+6","perception":"+6","persuasion":"+5"},"senses":["darkvision
+    60 ft."],"passive":16,"conditionImmune":["frightened"],"languages":["Common","Giant"],"cr":"5","trait":[{"name":"Push","entries":["Once
+    during each of her turns, after hitting a creature with an attack, Maggie can
+    force the target to make a {@dc 15} Strength saving throw; on a failed save,
+    the target is pushed up to 10 feet horizontally away from Maggie and knocked
+    {@condition prone}."]},{"name":"Tactical Readiness","entries":["Maggie and allies
+    within 30 feet of her have advantage on initiative rolls, as long as Maggie isn''t
+    {@condition incapacitated}."]}],"action":[{"name":"Multiattack","entries":["Maggie
+    makes two Giant Maul or Hammer Toss attacks."]},{"name":"Giant Maul","entries":["{@atk
+    mw} {@hit 7} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning
+    damage."]},{"name":"Hammer Toss","entries":["{@atk rw} {@hit 7} to hit, range
+    20/60 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning damage."]}],"bonus":[{"name":"Rally
+    (1/Day)","entries":["Maggie targets one creature she can see within 30 feet of
+    herself and bolsters it with words of encouragement. The target gains 15 temporary
+    hit points if it can see or hear Maggie."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","GI"],"damageTags":["B"],"miscTags":["MW","RCH","RW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true}'
+  DataHash: 0aad419e7c1ed054b31b9f1b9c302404

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dragon-army-soldier
+  m_EditorClassIdentifier: 
+  Title: Dragon Army Soldier
+  AsJson: '{"name":"Dragon Army Soldier","source":"DSotDQ","page":200,"size":["M"],"type":"humanoid","alignment":["L","E"],"alignmentPrefix":"typically
+    ","ac":[{"ac":17,"from":["{@item scale mail|PHB}","{@item shield|PHB}"]}],"hp":{"average":22,"formula":"4d8
+    + 4"},"speed":{"walk":30},"str":15,"dex":12,"con":12,"int":10,"wis":10,"cha":10,"skill":{"athletics":"+4","perception":"+2"},"passive":12,"languages":["Common","Draconic"],"cr":"1","trait":[{"name":"Draconic
+    Devotion","entries":["While the soldier can see a Dragon that isn''t hostile
+    to it, the soldier has advantage on attack rolls."]}],"action":[{"name":"Multiattack","entries":["The
+    soldier makes two Longsword or Javelin attacks."]},{"name":"Longsword","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing
+    damage, or 7 ({@damage 1d10 + 2}) slashing damage if used with two hands, plus
+    2 ({@damage 1d4}) fire damage."]},{"name":"Javelin","entries":["{@atk mw,rw}
+    {@hit 4} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}5 ({@damage
+    1d6 + 2}) piercing damage plus 2 ({@damage 1d4}) fire damage."]}],"actionTags":["Multiattack"],"languageTags":["C","DR"],"damageTags":["F","P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f3555c49988ac79e0ec15687b49d925f

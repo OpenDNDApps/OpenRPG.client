@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: pirate-bosun
+  m_EditorClassIdentifier: 
+  Title: Pirate Bosun
+  AsJson: '{"name":"Pirate Bosun","source":"GoS","page":247,"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["A"],"ac":[{"ac":12,"from":["{@item studded leather armor|phb|studded
+    leather}"]}],"hp":{"average":27,"formula":"5d8 + 5"},"speed":{"walk":30},"str":16,"dex":11,"con":13,"int":11,"wis":10,"cha":13,"skill":{"athletics":"+5","intimidation":"+3"},"passive":10,"languages":["any
+    one language (usually Common)"],"cr":"1/2","trait":[{"name":"Cargo Hauler","entries":["The
+    bosun has advantage on Strength checks."]},{"name":"Sea Legs","entries":["The
+    bosun has advantage on ability checks and saving throws to resist being knocked
+    {@condition prone}."]}],"action":[{"name":"Light Hammer","entries":["{@atk mw,rw}
+    {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage
+    1d4 + 3}) bludgeoning damage."]},{"name":"Hook","entries":["{@atk mw} {@hit 5}
+    to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage, and
+    the target is {@condition grappled} (escape {@dc 13})."]}],"languageTags":["C","X"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true}'
+  DataHash: b27824ba5a7b87169dcc66fa1e9d1eb9

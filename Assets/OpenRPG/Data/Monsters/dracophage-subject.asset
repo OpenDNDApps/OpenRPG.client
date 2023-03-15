@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dracophage-subject
+  m_EditorClassIdentifier: 
+  Title: Dracophage Subject
+  AsJson: "{\"name\":\"Dracophage Subject\",\"source\":\"DSotDQ\",\"page\":118,\"_copy\":{\"name\":\"Kapak
+    Draconian\",\"source\":\"DSotDQ\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"draconian\",\"with\":\"subject\"}}},\"action\":[{\"name\":\"Claw\",\"entries\":[\"{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing
+    damage plus 7 ({@damage 2d6}) poison damage. If the target is a Humanoid, it
+    must succeed on a {@dc 12} Constitution saving throw or be infected with a disease\u2014a
+    minuscule slaad egg.\",\"A Humanoid host can carry only one slaad egg at a time.
+    Over three months, the egg moves to the chest cavity, gestates, and forms a slaad
+    tadpole. In the 24-hour period before the tadpole is born, the host feels unwell;
+    its speed is halved; and it has disadvantage on attack rolls, ability checks,
+    and saving throws. At birth, the tadpole chews its way through vital organs and
+    out of the host's chest in 1 round, killing the host in the process.\",\"If the
+    disease is cured before the tadpole's emergence, the tadpole disintegrates.\"]}],\"damageTags\":[\"A\",\"I\",\"P\"],\"miscTags\":[\"AOE\",\"MW\"],\"hasToken\":true,\"hasFluff\":true}"
+  DataHash: 097c3ab24ac68069ccafda985c4a862e

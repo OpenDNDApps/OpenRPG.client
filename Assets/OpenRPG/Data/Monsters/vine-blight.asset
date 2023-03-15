@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: vine-blight
+  m_EditorClassIdentifier: 
+  Title: Vine Blight
+  AsJson: '{"name":"Vine Blight","source":"MM","page":32,"otherSources":[{"source":"CoS"},{"source":"GoS"},{"source":"EGW"}],"size":["M"],"type":"plant","alignment":["N","E"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":26,"formula":"4d8 + 4"},"speed":{"walk":10},"str":15,"dex":8,"con":14,"int":5,"wis":10,"cha":3,"skill":{"stealth":"+1"},"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"passive":10,"conditionImmune":["blinded","deafened"],"languages":["Common"],"cr":"1/2","trait":[{"name":"False
+    Appearance","entries":["While the blight remains motionless, it is indistinguishable
+    from a tangle of vines."]}],"action":[{"name":"Constrict","entries":["{@atk mw}
+    {@hit 4} to hit, reach 10 ft., one target. {@h}9 ({@damage 2d6 + 2}) bludgeoning
+    damage, and a Large or smaller target is {@condition grappled} (escape {@dc 12}).
+    Until this grapple ends, the target is {@condition restrained}, and the blight
+    can''t constrict another target."]},{"name":"Entangling Plants {@recharge 5}","entries":["Grasping
+    roots and vines sprout in a 15-foot radius centered on the blight, withering
+    away after 1 minute. For the duration, that area is {@quickref difficult terrain||3}
+    for nonplant creatures. In addition, each creature of the blight''s choice in
+    that area when the plants appear must succeed on a {@dc 12} Strength saving throw
+    or become {@condition restrained}. A creature can use its action to make a {@dc
+    12} Strength check, freeing itself or another entangled creature within reach
+    on a success."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/vine-blight.mp3"},"altArt":[{"name":"Vine
+    Blight","source":"DIP"}],"traitTags":["False Appearance"],"senseTags":["B"],"languageTags":["C"],"damageTags":["B"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 78d5cbc4068b25c671cce6c88b527e02

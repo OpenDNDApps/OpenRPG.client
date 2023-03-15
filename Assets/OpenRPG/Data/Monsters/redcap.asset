@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: redcap
+  m_EditorClassIdentifier: 
+  Title: Redcap
+  AsJson: '{"name":"Redcap","source":"VGM","page":188,"otherSources":[{"source":"ToA"},{"source":"BGDIA"},{"source":"IMR"},{"source":"WBtW"}],"reprintedAs":["Redcap|MPMM"],"size":["S"],"type":"fey","alignment":["C","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":45,"formula":"6d6 + 24"},"speed":{"walk":25},"str":18,"dex":13,"con":18,"int":10,"wis":12,"cha":9,"skill":{"athletics":"+6","perception":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"languages":["Common","Sylvan"],"cr":"3","trait":[{"name":"Iron
+    Boots","entries":["While moving, the redcap has disadvantage on Dexterity ({@skill
+    Stealth}) checks."]},{"name":"Outsize Strength","entries":["While grappling,
+    the redcap is considered to be Medium. Also, wielding a heavy weapon doesn''t
+    impose disadvantage on its attack rolls."]}],"action":[{"name":"Multiattack","entries":["The
+    redcap makes three attacks with its wicked sickle."]},{"name":"Wicked Sickle","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) slashing
+    damage."]},{"name":"Ironbound Pursuit","entries":["The redcap moves up to its
+    speed to a creature it can see and kicks with its iron boots. The target must
+    succeed on a {@dc 14} Dexterity saving throw or take 20 ({@damage 3d10 + 4})
+    bludgeoning damage and be knocked {@condition prone}."]}],"variant":[{"type":"variant","name":"Madcap","entries":["A
+    madcap is a redcap that soaks its hat in demon ichor instead of blood. Contact
+    with demon ichor makes the creature even more psychotic, causing it to brood
+    over irrational hatreds. A group of madcaps will sometimes band together over
+    a shared hatred of something, such as music, creatures with curly hair, the word
+    \"cool,\" or the color blue.","When a madcap drops to 0 hit points, its hateful
+    existence comes to an end in spectacular fashion as it bursts into flames, reducing
+    itself, its ichor-soaked hat, and its pants to ashes instantly while leaving
+    behind its weapon and smoldering iron boots."],"_version":{"name":"Madcap","addAs":"trait"},"source":"BGDIA","page":240}],"environment":["forest","swamp","hill"],"soundClip":{"type":"internal","path":"bestiary/redcap.mp3"},"altArt":[{"name":"Madcap","source":"BGDIA"}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","S"],"damageTags":["B","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3eced396e2641cf054b02ccc8940c648

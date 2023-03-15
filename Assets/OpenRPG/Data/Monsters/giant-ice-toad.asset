@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-ice-toad
+  m_EditorClassIdentifier: 
+  Title: Giant Ice Toad
+  AsJson: '{"name":"Giant Ice Toad","source":"TftYP","page":235,"size":["L"],"type":"monstrosity","alignment":["N"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":52,"formula":"7d10 + 14"},"speed":{"walk":30},"str":16,"dex":13,"con":14,"int":8,"wis":10,"cha":6,"senses":["darkvision
+    60 ft."],"passive":10,"immune":["cold"],"languages":["Ice Toad"],"cr":"3","trait":[{"name":"Amphibious","entries":["The
+    toad can breathe air and water."]},{"name":"Cold Aura","entries":["Any creature
+    that starts its turn within 10 feet of the toad takes 5 ({@damage 1d10}) cold
+    damage."]},{"name":"Standing Leap","entries":["The toad''s long jump is up to
+    20 feet and its high jump is up to 10 feet, with or without a running start."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing
+    damage, and the target is {@condition grappled} (escape {@dc 13}). Until this
+    grapple ends, the target is {@condition restrained}, and the toad can''t bite
+    another target."]},{"name":"Swallow","entries":["{@atk mw} {@hit 5} to hit, reach
+    5 ft., one Medium or smaller creature the toad is grappling. {@h}10 ({@damage
+    2d6 + 3}) piercing damage, the target is swallowed, and the grapple ends. The
+    swallowed target is {@condition blinded} and {@condition restrained}, it has
+    total cover against attacks and other effects outside the toad, and it takes
+    10 ({@damage 3d6}) acid damage and 11 ({@damage 2d10}) cold damage at the start
+    of each of the toad''s turns. The toad can have only one target swallowed at
+    a time.","If the toad dies, a swallowed creature is no longer {@condition restrained}
+    by it and can escape from the corpse using 5 feet of movement, exiting {@condition
+    prone}."]}],"traitTags":["Amphibious"],"senseTags":["D"],"actionTags":["Swallow"],"languageTags":["OTH"],"damageTags":["A","C","P"],"miscTags":["MW"],"conditionInflict":["blinded","grappled","restrained"],"hasToken":true,"hasFluff":true}'
+  DataHash: 3f51bbb5a80c838011c36fdcab166779

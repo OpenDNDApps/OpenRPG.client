@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: metal-wasp
+  m_EditorClassIdentifier: 
+  Title: Metal Wasp
+  AsJson: '{"name":"Metal Wasp","source":"WDMM","page":174,"_copy":{"name":"Giant
+    Wasp","source":"MM"},"type":"construct","ac":[{"ac":16,"from":["natural armor"]}],"senses":["darkvision
+    60 ft."],"immune":["poison","psychic"],"conditionImmune":["charmed","frightened","paralyzed","petrified","poisoned"],"senseTags":["D"],"hasToken":true}'
+  DataHash: 740e70b7b6495e13e1cd9b73cc7172b5

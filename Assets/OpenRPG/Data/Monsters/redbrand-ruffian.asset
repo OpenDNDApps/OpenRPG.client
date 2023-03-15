@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: redbrand-ruffian
+  m_EditorClassIdentifier: 
+  Title: Redbrand Ruffian
+  AsJson: '{"name":"Redbrand Ruffian","source":"LMoP","page":61,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":14,"from":["{@item
+    studded leather armor|phb|studded leather}"]}],"hp":{"average":16,"formula":"3d8
+    + 3"},"speed":{"walk":30},"str":11,"dex":14,"con":12,"int":9,"wis":9,"cha":11,"skill":{"intimidation":"+2"},"passive":9,"languages":["Common"],"cr":"1/2","action":[{"name":"Multiattack","entries":["The
+    ruffian makes two melee attacks."]},{"name":"Shortsword","entries":["{@atk mw}
+    {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+    damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: a952dd01fe266eb7f0389cb3fd40cbf2

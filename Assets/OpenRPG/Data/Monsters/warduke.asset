@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: warduke
+  m_EditorClassIdentifier: 
+  Title: Warduke
+  AsJson: '{"name":"Warduke","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":221,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"ac":[{"ac":17,"from":["{@item
+    half plate armor|PHB|half plate}","{@item shield|PHB}"]}],"hp":{"average":78,"formula":"12d8
+    + 24"},"speed":{"walk":30},"str":16,"dex":11,"con":14,"int":9,"wis":11,"cha":11,"save":{"str":"+6","con":"+5"},"skill":{"athletics":"+6","intimidation":"+3"},"passive":10,"languages":["Common"],"cr":"5","trait":[{"name":"Special
+    Equipment","entries":["Warduke wears a dread helm (see appendix A) and wields
+    a flame tongue longsword."]}],"action":[{"name":"Multiattack","entries":["Warduke
+    makes three Flame Tongue or Dagger attacks."]},{"name":"Flame Tongue","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+    damage, or 8 ({@damage 1d10 + 3}) slashing damage when used with two hands, plus
+    7 ({@damage 2d6}) fire damage if the weapon is aflame."]},{"name":"Dagger","entries":["{@atk
+    mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage
+    1d4 + 3}) piercing damage."]}],"bonus":[{"name":"Flaming Blade","entries":["Warduke
+    ignites or extinguishes his flame tongue longsword. While aflame, it sheds bright
+    light in a 40-foot radius and dim light for an additional 40 feet."]},{"name":"Second
+    Wind (Recharges after a Short or Long Rest)","entries":["Warduke regains 13 hit
+    points."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["F","P","S"],"miscTags":["AOE","MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 9d634321978d5dc3ce54c8ee6fe7a00e

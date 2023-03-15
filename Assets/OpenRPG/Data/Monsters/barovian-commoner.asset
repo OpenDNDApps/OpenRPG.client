@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: barovian-commoner
+  m_EditorClassIdentifier: 
+  Title: Barovian Commoner
+  AsJson: '{"name":"Barovian Commoner","source":"CoS","page":29,"_copy":{"name":"Commoner","source":"MM"},"action":[{"name":"Pitchfork","entries":["{@atk
+    mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) piercing
+    damage."]}],"damageTags":["P"],"hasToken":true}'
+  DataHash: c2cb80e53bae33ea4a42cb217cb8d66e

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: isarr-kronenstrom
+  m_EditorClassIdentifier: 
+  Title: Isarr Kronenstrom
+  AsJson: '{"name":"Isarr Kronenstrom","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":307,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["{@item
+    hide armor|PHB}"]}],"hp":{"average":117,"formula":"18d8 + 36"},"speed":{"walk":30},"str":16,"dex":16,"con":15,"int":14,"wis":15,"cha":16,"skill":{"athletics":"+6","intimidation":"+6","perception":"+5","stealth":"+6","survival":"+5"},"senses":["darkvision
+    60 ft."],"passive":15,"languages":["Common"],"cr":"8","trait":[{"name":"Blood
+    Frenzy","entries":["Isarr has advantage on melee attack rolls against any creature
+    that doesn''t have all its hit points."]},{"name":"Indomitable (3/Day)","entries":["Isarr
+    can reroll a saving throw he fails. He must use the new roll."]},{"name":"Keen
+    Hearing and Smell","entries":["Isarr has advantage on Wisdom (Perception) checks
+    that rely on hearing or smell."]}],"action":[{"name":"Multiattack","entries":["Isarr
+    makes three melee attacks."]},{"name":"Sickle","entries":["{@atk mw} {@hit 6}
+    to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage, plus
+    13 ({@damage 2d12}) piercing damage if the target has no allies it can see within
+    10 feet of it."]},{"name":"Heavy Crossbow","entries":["{@atk rw} {@hit 6} to
+    hit, range 100/400 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing damage."]}],"traitTags":["Keen
+    Senses"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: ea1b7267beabf61324b272f8328f2bb5

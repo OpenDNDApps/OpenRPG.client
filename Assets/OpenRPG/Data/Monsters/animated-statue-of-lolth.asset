@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: animated-statue-of-lolth
+  m_EditorClassIdentifier: 
+  Title: Animated Statue of Lolth
+  AsJson: '{"name":"Animated Statue of Lolth","source":"WDMM","page":142,"_copy":{"name":"Stone
+    Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue"},"trait":{"mode":"appendArr","items":{"name":"Spider
+    Climb","entries":["The statue can climb difficult surfaces, including upside
+    down on ceilings, without needing to make an ability check."]}}}},"size":["H"],"hp":{"average":230,"formula":"20d12
+    + 100"},"languages":["understands Abyssal but can''t speak"],"cr":"11","traitTags":["Immutable
+    Form","Magic Resistance","Magic Weapons","Spider Climb"],"languageTags":["AB","CS"],"hasToken":true}'
+  DataHash: bdd481627077c27bd6998b5d37376768

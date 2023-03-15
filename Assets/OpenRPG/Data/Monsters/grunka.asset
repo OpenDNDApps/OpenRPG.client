@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: grunka
+  m_EditorClassIdentifier: 
+  Title: Grunka
+  AsJson: '{"name":"Grunka","isNpc":true,"isNamedCreature":true,"source":"OoW","page":115,"_copy":{"name":"Hobgoblin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    hobgoblin","with":"Grunka","flags":"i"},"action":{"mode":"appendArr","items":{"name":"Acid
+    Spray Gun {@recharge 5}","entries":["The hobgoblin sprays acid in a 10-foot cone.
+    Each creature in the area must make a DC 10 Dexterity saving throw, taking 7
+    ({@damage 2d6}) acid damage on a failed save, or half as much damage on a successful
+    one.","The spray gun has a tank that can be filled with ten standard vials of
+    acid mixed with water, allowing it to be used five times."]}}}},"damageTags":["A","P","S"],"miscTags":["AOE","MW","RNG","RW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: b3f2203aae5fc747f197214ffc560dcb

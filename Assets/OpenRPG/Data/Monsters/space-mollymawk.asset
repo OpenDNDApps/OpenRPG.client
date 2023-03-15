@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: space-mollymawk
+  m_EditorClassIdentifier: 
+  Title: Space Mollymawk
+  AsJson: '{"name":"Space Mollymawk","source":"BAM","page":57,"size":["S"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":10,"fly":50},"str":6,"dex":14,"con":11,"int":3,"wis":12,"cha":3,"skill":{"perception":"+5"},"passive":15,"cr":"0","trait":[{"name":"Flyby","entries":["The
+    mollymawk doesn''t provoke opportunity attacks when it flies out of an enemy''s
+    reach."]},{"name":"Hold Breath","entries":["The mollymawk can hold its breath
+    for 15 minutes."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 4} to
+    hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."]}],"traitTags":["Flyby","Hold
+    Breath"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 42176e5c17d5c8c1018d4205dd02dbf5

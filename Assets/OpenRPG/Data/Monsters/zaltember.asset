@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: zaltember
+  m_EditorClassIdentifier: 
+  Title: Zaltember
+  AsJson: '{"name":"Zaltember","isNpc":true,"source":"SKT","page":180,"size":["L"],"type":"giant","alignment":["L","E"],"ac":[{"ac":13,"from":["{@item
+    chain shirt|phb}"]}],"hp":{"average":30,"formula":"4d10 + 8"},"speed":{"walk":30},"str":17,"dex":10,"con":14,"int":10,"wis":10,"cha":10,"passive":10,"immune":["fire"],"languages":["Common","Giant"],"cr":"1","action":[{"name":"Battleaxe","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) slashing
+    damage, or 14 ({@damage 2d10 + 3}) slashing damage if used with two hands."]},{"name":"Javelin","entries":["{@atk
+    mw,rw} {@hit 5} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}10 ({@damage
+    2d6 + 3}) piercing damage."]}],"languageTags":["C","GI"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true}'
+  DataHash: 37b666bc6a7b4420fcde4073212a60b6

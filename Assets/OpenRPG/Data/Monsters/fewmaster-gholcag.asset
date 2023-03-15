@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fewmaster-gholcag
+  m_EditorClassIdentifier: 
+  Title: Fewmaster Gholcag
+  AsJson: '{"name":"Fewmaster Gholcag","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":74,"size":["L"],"type":"giant","alignment":["C","E"],"ac":[{"ac":14,"from":["{@item
+    scale mail|PHB}"]}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":40},"str":19,"dex":8,"con":16,"int":5,"wis":7,"cha":7,"senses":["darkvision
+    60 ft."],"passive":8,"languages":["Common","Giant"],"cr":"2","action":[{"name":"Greatclub","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning
+    damage."]},{"name":"Javelin","entries":["{@atk mw,rw} {@hit 6} to hit, reach
+    5 ft. or range 30/120 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage."]}],"senseTags":["D"],"languageTags":["C","GI"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 421c90a3629cddd54218b1b810e5936c

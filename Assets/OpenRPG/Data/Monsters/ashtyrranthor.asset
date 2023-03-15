@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ashtyrranthor
+  m_EditorClassIdentifier: 
+  Title: Ashtyrranthor
+  AsJson: '{"name":"Ashtyrranthor","isNpc":true,"isNamedCreature":true,"source":"WDMM","page":210,"_copy":{"name":"Adult
+    Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Ashtyrranthor","flags":"i"}}},"spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["Ashtyrranthor''s spellcasting ability is Charisma.
+    She can innately cast the following spells, requiring no material components:"],"daily":{"1e":["{@spell
+    alarm}","{@spell detect magic}","{@spell gaseous form}","{@spell misty step}","{@spell
+    passwall}","{@spell see invisibility}"]},"ability":"cha"}],"damageTagsLegendary":[],"spellcastingTags":["I"],"hasToken":true}'
+  DataHash: b70c9d037dda9c36f2bc5db2f7dab2d9

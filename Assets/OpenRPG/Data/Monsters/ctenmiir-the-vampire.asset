@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ctenmiir-the-vampire
+  m_EditorClassIdentifier: 
+  Title: Ctenmiir the Vampire
+  AsJson: '{"name":"Ctenmiir the Vampire","isNpc":true,"isNamedCreature":true,"source":"LLK","page":4,"_copy":{"name":"Vampire","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    vampire","with":"Ctenmiir","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Coffin
+    Imprisonment","entries":["Ctenmiir is imprisoned within a magical iron coffin
+    mounted atop animated golem legs. Ctenmiir''s coffin has a speed of 30 feet and
+    a climbing speed of 10 feet, and protects the vampire from sunlight even as it
+    prevents him from escaping his servitude."]}}}},"alignment":["L","E"],"speed":{"walk":30,"climb":10},"hasToken":true,"hasFluffImages":true}'
+  DataHash: 2e91406ca5c09a16999d7e5c53bd6270

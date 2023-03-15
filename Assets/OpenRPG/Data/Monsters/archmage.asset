@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: archmage
+  m_EditorClassIdentifier: 
+  Title: Archmage
+  AsJson: '{"name":"Archmage","source":"MM","page":342,"srd":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"JttRC"},{"source":"LoX"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+    race"]},"alignment":["A"],"ac":[12,{"ac":15,"condition":"with {@spell mage armor}","braces":true}],"hp":{"average":99,"formula":"18d8
+    + 18"},"speed":{"walk":30},"str":10,"dex":14,"con":12,"int":20,"wis":15,"cha":16,"save":{"int":"+9","wis":"+6"},"skill":{"arcana":"+13","history":"+13"},"passive":12,"resist":[{"special":"damage
+    from spells"},{"resist":["bludgeoning","piercing","slashing"],"note":"(from stoneskin)","cond":true,"preNote":"nonmagical"}],"languages":["any
+    six languages"],"cr":"12","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence
+    (spell save {@dc 17}, {@hit 9} to hit with spell attacks). The archmage can cast
+    {@spell disguise self} and {@spell invisibility} at will and has the following
+    wizard spells prepared:"],"will":["{@spell disguise self}","{@spell invisibility}"],"spells":{"0":{"spells":["{@spell
+    fire bolt}","{@spell light}","{@spell mage hand}","{@spell prestidigitation}","{@spell
+    shocking grasp}"]},"1":{"slots":4,"spells":["{@spell detect magic}","{@spell
+    identify}","{@spell mage armor}*","{@spell magic missile}"]},"2":{"slots":3,"spells":["{@spell
+    detect thoughts}","{@spell mirror image}","{@spell misty step}"]},"3":{"slots":3,"spells":["{@spell
+    counterspell}","{@spell fly}","{@spell lightning bolt}"]},"4":{"slots":3,"spells":["{@spell
+    banishment}","{@spell fire shield}","{@spell stoneskin}*"]},"5":{"slots":3,"spells":["{@spell
+    cone of cold}","{@spell scrying}","{@spell wall of force}"]},"6":{"slots":1,"spells":["{@spell
+    globe of invulnerability}"]},"7":{"slots":1,"spells":["{@spell teleport}"]},"8":{"slots":1,"spells":["{@spell
+    mind blank}*"]},"9":{"slots":1,"spells":["{@spell time stop}"]}},"footerEntries":["*The
+    archmage casts these spells on itself before combat."],"ability":"int","hidden":["will"]}],"trait":[{"name":"Magic
+    Resistance","entries":["The archmage has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Dagger","entries":["{@atk mw,rw}
+    {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) piercing damage."]}],"variant":[{"type":"variant","name":"Familiars","entries":["Any
+    spellcaster that can cast the {@spell find familiar} spell (such as an archmage
+    or mage) is likely to have a familiar. The familiar can be one of the creatures
+    described in the spell or some other Tiny monster, such as a {@creature crawling
+    claw}, {@creature imp}, {@creature pseudodragon}, or {@creature quasit}."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/archmage.mp3"},"traitTags":["Magic
+    Resistance"],"languageTags":["X"],"damageTags":["P"],"damageTagsSpell":["C","F","L","O"],"spellcastingTags":["CW"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true,"_versions":[{"name":"Archmage
+    (Familiar)","source":"MM","_mod":{"_":{"mode":"addSpells","spells":{"1":{"spells":["{@spell
+    find familiar} (one of the creatures described in the spell or some other Tiny
+    monster, such as a {@creature crawling claw}, {@creature imp}, {@creature pseudodragon},
+    or {@creature quasit})"]}}}},"variant":null}]}'
+  DataHash: 2fa381a866e41f0c82d168d702a62550

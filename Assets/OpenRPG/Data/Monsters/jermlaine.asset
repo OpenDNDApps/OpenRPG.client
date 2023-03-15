@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: jermlaine
+  m_EditorClassIdentifier: 
+  Title: Jermlaine
+  AsJson: '{"name":"Jermlaine","source":"MFF","page":11,"size":["T"],"type":{"type":"humanoid","tags":["jermlaine"]},"alignment":["N","E"],"ac":[11],"hp":{"average":3,"formula":"1d4
+    + 1"},"speed":{"walk":30},"str":4,"dex":12,"con":13,"int":10,"wis":11,"cha":7,"skill":{"stealth":"+5"},"senses":["darkvision
+    30 ft."],"passive":10,"languages":["Undercommon"],"cr":"1/8","trait":[{"name":"Lurkers
+    in Shadow","entries":["Jermlaine are {@condition invisible} to darkvision."]},{"name":"Magic
+    Resistance","entries":["The jermlaine has advantage on saving throws against
+    spells and other magical effects."]},{"name":"Vermin Friend","entries":["The
+    jermlaine can speak to and understand rats and giant rats."]},{"name":"Swarming
+    Rush","entries":["A jermlaine adds {@dice 1d4} to its weapon damage rolls while
+    within 5 feet of another, conscious jermlaine."]}],"action":[{"name":"Club","entries":["{@atk
+    mw} {@hit -1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 3}) bludgeoning
+    damage."]},{"name":"Dart","entries":["{@atk rw} {@hit 3} to hit, range 20/60
+    ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage."]}],"traitTags":["Magic
+    Resistance"],"senseTags":["D"],"languageTags":["U"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: fed88a4e22a56b9f82f4f583b721a42a

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: eternal-flame-guardian
+  m_EditorClassIdentifier: 
+  Title: Eternal Flame Guardian
+  AsJson: '{"name":"Eternal Flame Guardian","source":"PotA","page":200,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"ac":[{"ac":17,"from":["{@item
+    breastplate|phb}","{@item shield|phb}"]},{"ac":15,"condition":"while using a
+    crossbow"}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":30},"str":15,"dex":13,"con":14,"int":8,"wis":11,"cha":13,"skill":{"intimidation":"+3","perception":"+2"},"passive":12,"resist":["fire"],"languages":["Common"],"cr":"2","trait":[{"name":"Flaming
+    Weapon (Recharges after a Short or Long Rest)","entries":["As a bonus action,
+    the guard can wreath one melee weapon it is wielding in flame. The guard is unharmed
+    by this fire, which lasts until the end of the guard''s next turn. While wreathed
+    in flame, the weapon deals an extra 3 ({@damage 1d6}) fire damage on a hit."]}],"action":[{"name":"Multiattack","entries":["The
+    guard makes two melee attacks."]},{"name":"Longsword","entries":["{@atk mw} {@hit
+    4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage."]},{"name":"Heavy
+    Crossbow","entries":["{@atk rw} {@hit 3} to hit, range 100/400 ft., one target.
+    {@h}6 ({@damage 1d10 + 1}) piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["F","P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true}'
+  DataHash: bd98dadf1e9f0d972bfdec890e54d43e

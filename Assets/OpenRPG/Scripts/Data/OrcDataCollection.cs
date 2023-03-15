@@ -133,6 +133,8 @@ namespace OpenRPG
 
             foreach (string filePath in filePaths)
             {
+                if(!filePath.EndsWith(".json"))
+                    continue;
                 ParseSourceFile(filePath, idKey, rootKey, creationPath, ref existingData);
             }
         }

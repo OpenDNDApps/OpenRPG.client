@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dragon-blessed
+  m_EditorClassIdentifier: 
+  Title: Dragon Blessed
+  AsJson: '{"name":"Dragon Blessed","source":"FTD","page":188,"size":["M"],"type":"humanoid","alignment":["A"],"ac":[{"ac":14,"from":["{@item
+    scale mail|PHB}"]}],"hp":{"average":75,"formula":"10d8 + 30"},"speed":{"walk":30},"str":12,"dex":10,"con":16,"int":14,"wis":17,"cha":10,"save":{"con":"+6","wis":"+6"},"skill":{"medicine":"+6","religion":"+5"},"passive":13,"conditionImmune":["frightened"],"languages":["Common","Draconic","and
+    any two languages"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    blessed casts one of the following spells, using Wisdom as the spellcasting ability
+    (spell save {@dc 14}):"],"will":["{@spell light}","{@spell thaumaturgy}"],"daily":{"1e":["{@spell
+    enhance ability}","{@spell flame strike}","{@spell mass cure wounds}","{@spell
+    revivify}","{@spell tongues}"]},"ability":"wis","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    blessed makes two Mace or Radiant Bolt attacks."]},{"name":"Mace","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning
+    damage plus 18 ({@damage 4d8}) radiant damage."]},{"name":"Radiant Bolt","entries":["{@atk
+    rs} {@hit 6} to hit, range 120 ft., one target. {@h}22 ({@damage 5d8}) radiant
+    damage, and the blessed regains 5 ({@dice 1d10}) hit points."]}],"actionTags":["Multiattack"],"languageTags":["C","DR","X"],"damageTags":["B","R"],"damageTagsSpell":["F","R"],"spellcastingTags":["O"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 47e2394d40d0b2e1fea444deee85070a

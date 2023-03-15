@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kuo-toa
+  m_EditorClassIdentifier: 
+  Title: Kuo-toa
+  AsJson: '{"name":"Kuo-toa","source":"MM","page":199,"otherSources":[{"source":"PotA"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"EGW"}],"size":["M"],"type":{"type":"humanoid","tags":["kuo-toa"]},"alignment":["N","E"],"ac":[{"ac":13,"from":["natural
+    armor","{@item shield|phb}"]}],"hp":{"average":18,"formula":"4d8"},"speed":{"walk":30,"swim":30},"str":13,"dex":10,"con":11,"int":11,"wis":10,"cha":8,"skill":{"perception":"+4"},"senses":["darkvision
+    120 ft."],"passive":14,"languages":["Undercommon"],"cr":"1/4","trait":[{"name":"Amphibious","entries":["The
+    kuo-toa can breathe air and water."]},{"name":"Otherworldly Perception","entries":["The
+    kuo-toa can sense the presence of any creature within 30 feet of it that is {@condition
+    invisible} or on the Ethereal Plane. It can pinpoint such a creature that is
+    moving."]},{"name":"Slippery","entries":["The kuo-toa has advantage on ability
+    checks and saving throws made to escape a grapple."]},{"name":"Sunlight Sensitivity","entries":["While
+    in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom
+    ({@skill Perception}) checks that rely on sight."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
+    damage."]},{"name":"Spear","entries":["{@atk mw,rw} {@hit 3} to hit, reach 5
+    ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage,
+    or 5 ({@damage 1d8 + 1}) piercing damage if used with two hands to make a melee
+    attack."]},{"name":"Net","entries":["{@atk rw} {@hit 3} to hit, range 5/15 ft.,
+    one Large or smaller creature. {@h}The target is {@condition restrained}. A creature
+    can use its action to make a {@dc 10} Strength check to free itself or another
+    creature in a net, ending the effect on a success. Dealing 5 slashing damage
+    to the net (AC 10) frees the target without harming it and destroys the net."]}],"reaction":[{"name":"Sticky
+    Shield","entries":["When a creature misses the kuo-toa with a melee weapon attack,
+    the kuo-toa uses its sticky shield to catch the weapon. The attacker must succeed
+    on a {@dc 11} Strength saving throw, or the weapon becomes stuck to the kuo-toa''s
+    shield. If the weapon''s wielder can''t or won''t let go of the weapon, the wielder
+    is {@condition grappled} while the weapon is stuck. While stuck, the weapon can''t
+    be used. A creature can pull the weapon free by taking an action to make a {@dc
+    11} Strength check and succeeding."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/kuo-toa.mp3"},"traitTags":["Amphibious","Sunlight
+    Sensitivity"],"senseTags":["SD"],"languageTags":["U"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f189842ccfb38efd9ec26c644de18b1c

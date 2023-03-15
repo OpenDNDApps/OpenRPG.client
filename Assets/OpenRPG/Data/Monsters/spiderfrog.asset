@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: spiderfrog
+  m_EditorClassIdentifier: 
+  Title: Spiderfrog
+  AsJson: '{"name":"Spiderfrog","source":"MGELFT","page":33,"size":["S"],"type":"beast","alignment":[{"special":"chaotic
+    sticky"}],"ac":[13],"hp":{"formula":"2d8 + 4","average":13},"speed":{"walk":30,"climb":30},"str":10,"dex":16,"con":14,"int":3,"wis":12,"cha":4,"skill":{"perception":"+3","stealth":"+7"},"senses":["blindsight
+    10 ft.","darkvision 60 ft."],"passive":13,"cr":"1/4","trait":[{"name":"Amphibious","entries":["The
+    spiderfrog can breathe air and water."]},{"name":"Spider Climb","entries":["The
+    spiderfrog can climb difficult surfaces, including upside down on ceilings, without
+    needing to make an ability check."]},{"name":"Standing Leap","entries":["Spiderfrog''s
+    long jump is up to 20 feet and its high jump is up to 10 feet, with or without
+    a running start."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 2}
+    to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage. Target
+    is {@condition grappled} (escape {@dc 11}). Until this grapple ends, the target
+    is {@condition restrained}, and spiderfrog can''t bite another target."]}],"traitTags":["Amphibious","Spider
+    Climb"],"senseTags":["B","D"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 4892d0e1d8e8b827164a4ca33ab1bda9

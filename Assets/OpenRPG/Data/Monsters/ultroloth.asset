@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ultroloth
+  m_EditorClassIdentifier: 
+  Title: Ultroloth
+  AsJson: '{"name":"Ultroloth","source":"MM","page":314,"otherSources":[{"source":"WDMM"},{"source":"BGDIA"},{"source":"EGW"},{"source":"JttRC"}],"size":["M"],"type":{"type":"fiend","tags":["yugoloth"]},"alignment":["N","E"],"ac":[{"ac":19,"from":["natural
+    armor"]}],"hp":{"average":153,"formula":"18d8 + 72"},"speed":{"walk":30,"fly":60},"str":16,"dex":16,"con":18,"int":18,"wis":15,"cha":19,"skill":{"intimidation":"+9","perception":"+7","stealth":"+8"},"senses":["truesight
+    120 ft."],"passive":17,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["acid","poison"],"conditionImmune":["charmed","frightened","poisoned"],"languages":["Abyssal","Infernal","telepathy
+    120 ft."],"cr":"13","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    ultroloth''s innate spellcasting ability is Charisma (spell save {@dc 17}). The
+    ultroloth can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    alter self}","{@spell clairvoyance}","{@spell darkness}","{@spell detect magic}","{@spell
+    detect thoughts}","{@spell dispel magic}","{@spell invisibility} (self only)","{@spell
+    suggestion}"],"daily":{"3e":["{@spell dimension door}","{@spell fear}","{@spell
+    wall of fire}"],"1e":["{@spell fire storm}","{@spell mass suggestion}"]},"ability":"cha"}],"trait":[{"name":"Magic
+    Resistance","entries":["The ultroloth has advantage on saving throws against
+    spells and other magical effects."]},{"name":"Magic Weapons","entries":["The
+    ultroloth''s weapon attacks are magical."]}],"action":[{"name":"Multiattack","entries":["The
+    ultroloth can use its Hypnotic Gaze and makes three melee attacks."]},{"name":"Longsword","entries":["{@atk
+    mw} {@hit 8} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+    damage, or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands."]},{"name":"Hypnotic
+    Gaze","entries":["The ultroloth''s eyes sparkle with opalescent light as it targets
+    one creature it can see within 30 feet of it. If the target can see the ultroloth,
+    the target must succeed on a {@dc 17} Wisdom saving throw against this magic
+    or be {@condition charmed} until the end of the ultroloth''s next turn. The {@condition
+    charmed} target is {@condition stunned}. If the target''s saving throw is successful,
+    the target is immune to the ultroloth''s gaze for the next 24 hours."]},{"name":"Teleport","entries":["The
+    ultroloth magically teleports, along with any equipment it is wearing or carrying,
+    up to 60 feet to an unoccupied space it can see."]}],"variant":[{"type":"variant","name":"Yugoloth
+    Summoning","entries":["Some yugoloths have an action option that allows them
+    to summon other yugoloths.",{"name":"Summon Yugoloth (1/Day)","type":"entries","entries":["The
+    yugoloth chooses what to summon and attempts a magical summoning.","An ultroloth
+    has a {@chance 50|50 percent|50% summoning chance} chance of summoning {@dice
+    1d6} {@creature mezzoloth||mezzoloths}, {@dice 1d4} {@creature nycaloth||nycaloths},
+    or one ultroloth.","A summoned yugoloth appears in an unoccupied space within
+    60 feet of its summoner, acts as an ally of its summoner, and can''t summon other
+    yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner
+    dies, or until its summoner takes a bonus action to dismiss it."]}],"_version":{"name":"Ultroloth
+    (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/ultroloth.mp3"},"traitTags":["Magic
+    Resistance","Magic Weapons"],"senseTags":["U"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","I","TP"],"damageTags":["S"],"damageTagsSpell":["B","F","O","P","S"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflict":["charmed","stunned"],"conditionInflictSpell":["charmed","frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d4a36815c061e2df8d9aa66d2f01b22e

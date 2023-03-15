@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kingsport
+  m_EditorClassIdentifier: 
+  Title: Kingsport
+  AsJson: '{"name":"Kingsport","isNpc":true,"source":"IDRotF","page":243,"size":["M"],"type":"beast","alignment":["U"],"ac":[11],"hp":{"average":5,"formula":"1d8
+    + 1"},"speed":{"walk":20,"swim":40},"str":6,"dex":12,"con":12,"int":10,"wis":10,"cha":4,"senses":["blindsight
+    30 ft. (blind beyond this radius)"],"passive":10,"languages":["Common"],"cr":"0","trait":[{"name":"Hold
+    Breath","entries":["Kingsport can hold its breath for 20 minutes."]}],"action":[{"name":"Beak","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
+    damage."]}],"traitTags":["Hold Breath"],"senseTags":["B"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: cc3b9b528a04f1747e2908b80527ff9d

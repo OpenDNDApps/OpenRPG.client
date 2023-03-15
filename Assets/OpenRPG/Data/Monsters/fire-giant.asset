@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fire-giant
+  m_EditorClassIdentifier: 
+  Title: Fire Giant
+  AsJson: '{"name":"Fire Giant","source":"MM","page":154,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"JttRC"}],"size":["H"],"type":"giant","alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":162,"formula":"13d12 + 78"},"speed":{"walk":30},"str":25,"dex":9,"con":23,"int":10,"wis":14,"cha":13,"save":{"dex":"+3","con":"+10","cha":"+5"},"skill":{"athletics":"+11","perception":"+6"},"passive":16,"immune":["fire"],"languages":["Giant"],"cr":"9","action":[{"name":"Multiattack","entries":["The
+    giant makes two greatsword attacks."]},{"name":"Greatsword","entries":["{@atk
+    mw} {@hit 11} to hit, reach 10 ft., one target. {@h}28 ({@damage 6d6 + 7}) slashing
+    damage."]},{"name":"Rock","entries":["{@atk rw} {@hit 11} to hit, range 60/240
+    ft., one target. {@h}29 ({@damage 4d10 + 7}) bludgeoning damage."]}],"variant":[{"type":"variant","name":"New
+    Giant Options","entries":["Some adult fire giants are trained to lay siege to
+    strongholds and break through enemy lines. These abilities are represented by
+    the following traits.",{"type":"entries","name":"Siege Monster","entries":["The
+    giant deals double damage to objects and structures."]},{"type":"entries","name":"Tackle","entries":["When
+    the giant enters any enemy''s space for the first time on a turn, the enemy must
+    succeed on a {@dc 19} Strength saving throw or be knocked {@condition prone}."]}],"_version":{"name":"Fire
+    Giant (Optional Actions)","addHeadersAs":"action"},"source":"SKT","page":245}],"environment":["underdark","mountain"],"soundClip":{"type":"internal","path":"bestiary/fire-giant.mp3"},"actionTags":["Multiattack"],"languageTags":["GI"],"damageTags":["B","S"],"miscTags":["MW","RCH","RW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: e985f230eeee53b52d78b1c18d83b742

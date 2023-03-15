@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: scorpion
+  m_EditorClassIdentifier: 
+  Title: Scorpion
+  AsJson: '{"name":"Scorpion","source":"MM","page":337,"srd":true,"basicRules":true,"otherSources":[{"source":"WDMM"},{"source":"PSX"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":1,"formula":"1d4 - 1"},"speed":{"walk":10},"str":2,"dex":11,"con":8,"int":1,"wis":8,"cha":2,"senses":["blindsight
+    10 ft."],"passive":9,"cr":"0","action":[{"name":"Sting","entries":["{@atk mw}
+    {@hit 2} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and the target
+    must make a {@dc 9} Constitution saving throw, taking 4 ({@damage 1d8}) poison
+    damage on a failed save, or half as much damage on a successful one."]}],"environment":["desert"],"soundClip":{"type":"internal","path":"bestiary/scorpion.mp3"},"senseTags":["B"],"damageTags":["I","P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: ca3557141dcc26e51aa0f3baba1f780c

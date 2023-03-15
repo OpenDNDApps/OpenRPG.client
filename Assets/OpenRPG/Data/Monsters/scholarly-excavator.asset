@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: scholarly-excavator
+  m_EditorClassIdentifier: 
+  Title: Scholarly Excavator
+  AsJson: '{"name":"Scholarly Excavator","source":"CRCotN","page":206,"size":["S","M"],"type":"humanoid","alignment":["A"],"ac":[{"ac":16,"from":["{@item
+    breastplate|PHB}"]}],"hp":{"average":67,"formula":"9d8 + 27"},"speed":{"walk":30},"str":15,"dex":14,"con":16,"int":14,"wis":14,"cha":12,"save":{"con":"+5","int":"+4"},"skill":{"arcana":"+4","athletics":"+4","history":"+4"},"passive":12,"languages":["Common
+    plus two other languages"],"cr":"3","trait":[{"name":"Siege Expert","entries":["The
+    excavator deals double damage to objects and structures."]}],"action":[{"name":"Multiattack","entries":["The
+    excavator makes three Thunderous Warhammer attacks."]},{"name":"Thunderous Warhammer","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) thunder
+    damage."]}],"bonus":[{"name":"Telekinetic Toss {@recharge 5}","entries":["The
+    excavator targets one Medium or smaller creature or an object weighing 300 pounds
+    or less that isn''t being worn or carried. The target, which must be within 30
+    feet of the excavator and visible to it, is magically pushed up to 20 feet horizontally
+    in a direction of the excavator''s choice. If the target is a creature, it can
+    make a {@dc 13} Strength saving throw to resist the effect and is not pushed
+    on a successful save."]}],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["T"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 09ec348b8674764d343f7a5ee0b4af3d

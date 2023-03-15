@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: east-wind
+  m_EditorClassIdentifier: 
+  Title: East Wind
+  AsJson: '{"name":"East Wind","isNpc":true,"isNamedCreature":true,"source":"LLK","page":14,"_copy":{"name":"Martial
+    Arts Adept","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the adept","with":"East
+    Wind","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special Equipment","entries":["East
+    Wind is armed with a longsword that is a {@item polymorph blade|LLK}."]}},"action":{"mode":"appendArr","items":{"name":"Polymorph
+    Blade","entries":["{@atk mw,rw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7
+    ({@damage 1d8 + 3}) piercing damage. If East Wind rolls a 20 on the attack roll,
+    the target must succeed on a {@dc 15} Wisdom saving throw or suffer the effects
+    of a {@spell polymorph} spell."]}}}},"hasToken":true}'
+  DataHash: c6e627dd63becfba7aa784baa152a7fc

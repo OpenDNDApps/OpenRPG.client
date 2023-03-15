@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: jackal
+  m_EditorClassIdentifier: 
+  Title: Jackal
+  AsJson: '{"name":"Jackal","source":"MM","page":331,"srd":true,"basicRules":true,"otherSources":[{"source":"GoS"}],"size":["S"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":40},"str":8,"dex":15,"con":11,"int":3,"wis":12,"cha":6,"skill":{"perception":"+3"},"passive":13,"cr":"0","trait":[{"name":"Keen
+    Hearing and Smell","entries":["The jackal has advantage on Wisdom ({@skill Perception})
+    checks that rely on hearing or smell."]},{"name":"Pack Tactics","entries":["The
+    jackal has advantage on an attack roll against a creature if at least one of
+    the jackal''s allies is within 5 feet of the creature and the ally isn''t {@condition
+    incapacitated}."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 1} to
+    hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing damage."]}],"environment":["grassland","desert"],"soundClip":{"type":"internal","path":"bestiary/jackal.mp3"},"traitTags":["Keen
+    Senses","Pack Tactics"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: e7facbdd865e34068e640b7904189cee

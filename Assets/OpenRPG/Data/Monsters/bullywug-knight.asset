@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: bullywug-knight
+  m_EditorClassIdentifier: 
+  Title: Bullywug Knight
+  AsJson: '{"name":"Bullywug Knight","source":"WBtW","page":231,"size":["M"],"type":"humanoid","alignment":["L","G"],"alignmentPrefix":"typically
+    ","ac":[{"ac":18,"from":["{@item plate armor|PHB|plate}"]}],"hp":{"average":66,"formula":"12d8
+    + 12"},"speed":{"walk":30,"swim":30},"str":16,"dex":12,"con":13,"int":9,"wis":11,"cha":14,"save":{"con":"+3","wis":"+2"},"passive":10,"languages":["Bullywug","Common"],"cr":"3","trait":[{"name":"Amphibious","entries":["The
+    knight can breathe air and water."]},{"name":"Speak with Frogs and Toads","entries":["The
+    knight can communicate simple concepts to frogs and toads when it speaks in Bullywug."]},{"name":"Standing
+    Leap","entries":["The knight''s long jump is up to 20 feet and its high jump
+    is up to 10 feet, with or without a running start."]}],"action":[{"name":"Multiattack","entries":["The
+    knight makes two Glaive attacks."]},{"name":"Glaive","entries":["{@atk mw} {@hit
+    5} to hit, reach 10 ft., one target. {@h}8 ({@damage 1d10 + 3}) slashing damage."]}],"bonus":[{"name":"Croak
+    of Charming (Recharges after a Short or Long Rest)","entries":["The knight makes
+    a loud croak while targeting one creature it can see within 30 feet of it. The
+    target must succeed on a {@dc 12} Wisdom saving throw or be {@condition charmed}
+    until the end of its next turn."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"languageTags":["C","OTH"],"damageTags":["S"],"miscTags":["MW","RCH"],"conditionInflict":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f97a9b38f281138470c6d405c12166d2

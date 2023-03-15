@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: derro-savant
+  m_EditorClassIdentifier: 
+  Title: Derro Savant
+  AsJson: '{"name":"Derro Savant","source":"OotA","page":224,"reprintedAs":["Derro
+    Savant|MTF"],"_copy":{"name":"Derro","source":"OotA"},"hp":{"average":49,"formula":"11d6
+    + 11"},"cha":14,"cr":"3","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    derro savant is a 5th-level spellcaster. Its spellcasting ability is Charisma
+    (spell save {@dc 12}, {@hit 4} to hit with spell attacks). The derro knows the
+    following sorcerer spells:"],"spells":{"0":{"spells":["{@spell acid splash}","{@spell
+    mage hand}","{@spell message}","{@spell ray of frost}"]},"1":{"slots":4,"spells":["{@spell
+    burning hands}","{@spell chromatic orb}","{@spell sleep}"]},"2":{"slots":3,"spells":["{@spell
+    invisibility}","{@spell spider climb}"]},"3":{"slots":2,"spells":["{@spell blink}","{@spell
+    lightning bolt}"]}},"ability":"cha"}],"spellcastingTags":["CS"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 682af57737ad4ce157681b7dbccd6b40

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: reduced-threat-otyugh
+  m_EditorClassIdentifier: 
+  Title: Reduced-Threat Otyugh
+  AsJson: '{"name":"Reduced-Threat Otyugh","source":"TftYP","page":113,"_copy":{"name":"Otyugh","source":"MM","_trait":{"name":"Reduced
+    Threat","source":"TftYP"},"_mod":{"action":[{"mode":"removeArr","names":["Tentacle
+    Slam"]},{"mode":"replaceArr","replace":"Tentacle","items":{"name":"Tentacle","entries":["{@atk
+    mw} {@hit 6} to hit, reach 10 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning
+    damage plus 4 ({@damage 1d8}) piercing damage."]}}]}},"conditionInflict":["poisoned"],"hasToken":true}'
+  DataHash: cbc8fa376cd29c77e10e0f7d015b6d45

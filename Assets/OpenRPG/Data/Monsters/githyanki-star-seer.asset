@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: githyanki-star-seer
+  m_EditorClassIdentifier: 
+  Title: Githyanki Star Seer
+  AsJson: '{"name":"Githyanki Star Seer","source":"BAM","page":27,"size":["M"],"type":{"type":"humanoid","tags":["gith","warlock"]},"alignment":["A"],"ac":[{"ac":13,"from":["{@spell
+    mage armor}"]}],"hp":{"average":110,"formula":"17d8 + 34"},"speed":{"walk":30},"str":11,"dex":11,"con":14,"int":19,"wis":16,"cha":14,"save":{"con":"+5","int":"+7","wis":"+6"},"skill":{"arcana":"+10","history":"+10"},"passive":13,"resist":["radiant"],"languages":["Common","Gith"],"cr":"7","spellcasting":[{"name":"Spellcasting
+    (Psionics)","headerEntries":["The githyanki casts one of the following spells,
+    requiring no spell components and using Intelligence as the spellcasting ability
+    (spell save {@dc 15}):"],"will":["{@spell light}","{@spell mage hand} (the hand
+    is invisible)"],"daily":{"2e":["{@spell detect magic}","{@spell invisibility}
+    (self only)","{@spell mage armor} (self only)","{@spell tongues}"],"1e":["{@spell
+    contact other plane} (as an action)","{@spell plane shift}","{@spell telekinesis}"]},"ability":"int","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    githyanki makes three Astral Bolt attacks."]},{"name":"Astral Bolt","entries":["{@atk
+    ms,rs} {@hit 7} to hit, reach 5 ft. or range 60 ft., one target. {@h}20 ({@damage
+    3d10 + 4}) radiant damage."]}],"bonus":[{"name":"Astral Step {@recharge 4}","entries":["The
+    githyanki teleports, along with any equipment it is wearing or carrying, up to
+    30 feet to an unoccupied space it can see."]}],"actionTags":["Multiattack"],"languageTags":["C","GTH"],"damageTags":["R"],"damageTagsSpell":["Y"],"spellcastingTags":["P"],"conditionInflictSpell":["invisible","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 19c1a396be3d1dbb2cc6fb3f7ded6dcd

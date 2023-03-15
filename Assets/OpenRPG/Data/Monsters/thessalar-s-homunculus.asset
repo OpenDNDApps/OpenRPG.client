@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: thessalar-s-homunculus
+  m_EditorClassIdentifier: 
+  Title: Thessalar's Homunculus
+  AsJson: '{"name":"Thessalar''s Homunculus","isNpc":true,"source":"IMR","page":35,"_copy":{"name":"Homunculus","source":"MM","_mod":{"action":{"mode":"appendArr","items":{"name":"Acidic
+    Spittle","entries":["{@atk rw} {@hit 4} to hit, range 30 ft., one target. {@h}5
+    ({@damage 1d6 + 2}) acid damage."]}}}},"damageTags":["A","P"],"miscTags":["MW","RW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 5f89702347e3ab07fc854fc0b06fb960

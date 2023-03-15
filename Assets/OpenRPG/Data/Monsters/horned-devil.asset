@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: horned-devil
+  m_EditorClassIdentifier: 
+  Title: Horned Devil
+  AsJson: '{"name":"Horned Devil","source":"MM","page":74,"srd":true,"otherSources":[{"source":"ToA"},{"source":"BGDIA"}],"size":["L"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":18,"from":["natural
+    armor"]}],"hp":{"average":178,"formula":"17d10 + 85"},"speed":{"walk":20,"fly":60},"str":22,"dex":17,"con":21,"int":12,"wis":16,"cha":17,"save":{"str":"+10","dex":"+7","wis":"+7","cha":"+7"},"senses":["darkvision
+    120 ft."],"passive":13,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t silvered","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Infernal","telepathy
+    120 ft."],"cr":"11","trait":[{"name":"Devil''s Sight","entries":["Magical darkness
+    doesn''t impede the devil''s darkvision."]},{"name":"Magic Resistance","entries":["The
+    devil has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    devil makes three melee attacks: two with its fork and one with its tail. It
+    can use Hurl Flame in place of any melee attack."]},{"name":"Fork","entries":["{@atk
+    mw} {@hit 10} to hit, reach 10 ft., one target. {@h}15 ({@damage 2d8 + 6}) piercing
+    damage."]},{"name":"Tail","entries":["{@atk mw} {@hit 10} to hit, reach 10 ft.,
+    one target. {@h}10 ({@damage 1d8 + 6}) piercing damage. If the target is a creature
+    other than an undead or a construct, it must succeed on a {@dc 17} Constitution
+    saving throw or lose 10 ({@dice 3d6}) hit points at the start of each of its
+    turns due to an infernal wound. Each time the devil hits the wounded target with
+    this attack, the damage dealt by the wound increases by 10 ({@dice 3d6}). Any
+    creature can take an action to stanch the wound with a successful {@dc 12} Wisdom
+    (Medicine) check. The wound also closes if the target receives magical healing."]},{"name":"Hurl
+    Flame","entries":["{@atk rs} {@hit 7} to hit, range 150 ft., one target. {@h}14
+    ({@damage 4d6}) fire damage. If the target is a flammable object that isn''t
+    being worn or carried, it also catches fire."]}],"soundClip":{"type":"internal","path":"bestiary/horned-devil.mp3"},"traitTags":["Devil''s
+    Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["F","P"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: fe0b83f68aa40ec0e5dee41578b25a6c

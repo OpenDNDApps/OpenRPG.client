@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: star-spawn-mangler
+  m_EditorClassIdentifier: 
+  Title: Star Spawn Mangler
+  AsJson: '{"name":"Star Spawn Mangler","source":"MTF","page":236,"otherSources":[{"source":"DC"},{"source":"DIP"},{"source":"SLW"}],"reprintedAs":["Star
+    Spawn Mangler|MPMM"],"size":["M"],"type":"aberration","alignment":["C","E"],"ac":[14],"hp":{"average":71,"formula":"13d8
+    + 13"},"speed":{"walk":40,"climb":40},"str":8,"dex":18,"con":12,"int":11,"wis":12,"cha":7,"save":{"dex":"+7","con":"+4"},"skill":{"stealth":"+7"},"senses":["darkvision
+    60 ft."],"passive":11,"resist":["cold"],"immune":["psychic"],"conditionImmune":["charmed","frightened","prone"],"languages":["Deep
+    Speech"],"cr":"5","trait":[{"name":"Ambusher","entries":["On the first round
+    of each combat, the mangler has advantage on attack rolls against a creature
+    that hasn''t taken a turn yet."]},{"name":"Shadow Stealth","entries":["While
+    in dim light or darkness, the mangler can take the Hide action as a bonus action."]}],"action":[{"name":"Multiattack","entries":["The
+    mangler makes two claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit
+    7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage.
+    If the attack roll has advantage, the target also takes 7 ({@damage 2d6}) psychic
+    damage."]},{"name":"Flurry of Claws {@recharge 4}","entries":["The mangler makes
+    six claw attacks against one target. Either before or after these attacks, it
+    can move up to its speed as a bonus action without provoking opportunity attacks."]}],"soundClip":{"type":"internal","path":"bestiary/star-spawn-mangler.mp3"},"traitTags":["Ambusher"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["DS"],"damageTags":["S","Y"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 5e8ebb6dbc4f46aeefeac48b9472e7c7

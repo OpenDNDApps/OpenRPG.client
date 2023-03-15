@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ice-toad
+  m_EditorClassIdentifier: 
+  Title: Ice Toad
+  AsJson: '{"name":"Ice Toad","source":"RoT","page":90,"otherSources":[{"source":"ToD","page":185}],"size":["M"],"type":"monstrosity","alignment":["N"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":32,"formula":"5d8 + 10"},"speed":{"walk":30,"swim":30},"str":13,"dex":10,"con":14,"int":8,"wis":10,"cha":6,"skill":{"perception":"+2"},"senses":["darkvision
+    60 ft."],"passive":12,"immune":["cold"],"languages":["Ice Toad"],"cr":"1","trait":[{"name":"Amphibious","entries":["The
+    toad can breathe air or water."]},{"name":"Cold Aura","entries":["Any creature
+    that starts its turn within 5 feet of the toad takes 3 ({@damage 1d6}) cold damage."]},{"name":"Standing
+    Leap","entries":["The toad''s long jump is up to 20 feet and its high jump is
+    up to 10 feet, with or without a running start."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d8}) cold damage.
+    If the target is a Medium or smaller creature it is {@condition grappled} (escape
+    {@dc 11}). Until this grapple ends, the toad can''t bite another target."]}],"traitTags":["Amphibious"],"senseTags":["D"],"languageTags":["OTH"],"damageTags":["C"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true}'
+  DataHash: 122241d4f82fded020697f4e4b7f35d1

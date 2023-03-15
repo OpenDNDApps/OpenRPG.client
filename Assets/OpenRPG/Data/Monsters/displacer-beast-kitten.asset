@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: displacer-beast-kitten
+  m_EditorClassIdentifier: 
+  Title: Displacer Beast Kitten
+  AsJson: '{"name":"Displacer Beast Kitten","source":"WBtW","page":108,"size":["S"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":9,"formula":"2d6 + 2"},"speed":{"walk":30},"str":12,"dex":13,"con":12,"int":4,"wis":10,"cha":6,"senses":["darkvision
+    60 ft."],"passive":10,"cr":"1/8","trait":[{"name":"Displacement","entries":["The
+    displacer beast projects a magical illusion that makes it appear to be standing
+    near its actual location, causing attack rolls against it to have disadvantage.
+    If it is hit by an attack, this trait is disrupted until the end of its next
+    turn. This trait is also disrupted while the displacer beast is {@condition incapacitated}
+    or has a speed of 0."]}],"action":[{"name":"Tentacles","entries":["{@atk mw}
+    {@hit 3} to hit, reach 5 ft., one target. {@h}2 bludgeoning damage plus 2 piercing
+    damage."]}],"senseTags":["D"],"actionTags":["Tentacles"],"damageTags":["B","P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 0a0f2b752b1e8b6f4c454e6c2ad2363c

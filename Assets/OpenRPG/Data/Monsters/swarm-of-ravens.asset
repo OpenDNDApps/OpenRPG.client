@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: swarm-of-ravens
+  m_EditorClassIdentifier: 
+  Title: Swarm of Ravens
+  AsJson: '{"name":"Swarm of Ravens","source":"MM","page":339,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"RoT"},{"source":"DIP"},{"source":"SDW"},{"source":"EGW"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"}],"size":["M"],"type":{"type":"beast","swarmSize":"T"},"alignment":["U"],"ac":[12],"hp":{"average":24,"formula":"7d8
+    - 7"},"speed":{"walk":10,"fly":50},"str":6,"dex":14,"con":8,"int":3,"wis":12,"cha":6,"skill":{"perception":"+5"},"passive":15,"resist":["bludgeoning","piercing","slashing"],"conditionImmune":["charmed","frightened","grappled","paralyzed","petrified","prone","restrained","stunned"],"cr":"1/4","trait":[{"name":"Swarm","entries":["The
+    swarm can occupy another creature''s space and vice versa, and the swarm can
+    move through any opening large enough for a Tiny raven. The swarm can''t regain
+    hit points or gain temporary hit points."]}],"action":[{"name":"Beaks","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target in the swarm''s space. {@h}7 ({@damage
+    2d6}) piercing damage, or 3 ({@damage 1d6}) piercing damage if the swarm has
+    half of its hit points or fewer."]}],"environment":["forest","swamp","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/swarm-of-ravens.mp3"},"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 27a507fa0f536bb6e66c492e6a021e9e

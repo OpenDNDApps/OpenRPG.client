@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-canary
+  m_EditorClassIdentifier: 
+  Title: Giant Canary
+  AsJson: '{"name":"Giant Canary","source":"FTD","page":23,"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":26,"formula":"4d10
+    + 4"},"speed":{"walk":30,"fly":60},"str":10,"dex":14,"con":12,"int":2,"wis":10,"cha":6,"passive":10,"cr":"1/2","action":[{"name":"Peck","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) piercing
+    damage."]}],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 2d5b019d7d94eab8d84b1a5fc0d0093b

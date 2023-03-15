@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: warlock-of-the-archfey
+  m_EditorClassIdentifier: 
+  Title: Warlock of the Archfey
+  AsJson: '{"name":"Warlock of the Archfey","source":"VGM","page":219,"reprintedAs":["Warlock
+    of the Archfey|MPMM"],"size":["M"],"type":{"type":"humanoid","tags":["any race"]},"alignment":["A"],"ac":[11,{"ac":14,"condition":"with
+    {@spell mage armor}","braces":true}],"hp":{"average":49,"formula":"11d8"},"speed":{"walk":30},"str":9,"dex":13,"con":11,"int":11,"wis":12,"cha":18,"save":{"wis":"+3","cha":"+6"},"skill":{"arcana":"+2","deception":"+6","nature":"+2","persuasion":"+6"},"passive":11,"conditionImmune":["charmed"],"languages":["any
+    two languages (usually Sylvan)"],"cr":"4","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    warlock''s innate spellcasting ability is Charisma. It can innately cast the
+    following spells (spell save {@dc 15}), requiring no material components:"],"will":["{@spell
+    disguise self}","{@spell mage armor} (self only)","{@spell silent image}","{@spell
+    speak with animals}"],"daily":{"1":["{@spell conjure fey}"]},"ability":"cha"},{"name":"Spellcasting","headerEntries":["The
+    warlock is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell
+    save {@dc 14}, {@hit 6} to hit with spell attacks). It regains its expended spell
+    slots when it finishes a short or long rest. It knows the following warlock spells:"],"spells":{"0":{"spells":["{@spell
+    dancing lights}","{@spell eldritch blast}","{@spell friends}","{@spell mage hand}","{@spell
+    minor illusion}","{@spell prestidigitation}","{@spell vicious mockery}"]},"5":{"lower":1,"slots":3,"spells":["{@spell
+    blink}","{@spell charm person}","{@spell dimension door}","{@spell dominate beast}","{@spell
+    faerie fire}","{@spell fear}","{@spell hold monster}","{@spell misty step}","{@spell
+    phantasmal force}","{@spell seeming}","{@spell sleep}"]}},"ability":"cha"}],"action":[{"name":"Dagger","entries":["{@atk
+    mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) piercing damage."]}],"reaction":[{"name":"Misty Escape (Recharges after
+    a Short or Long Rest)","entries":["In response to taking damage, the warlock
+    turns {@condition invisible} and teleports up to 60 feet to an unoccupied space
+    it can see. It remains {@condition invisible} until the start of its next turn
+    or until it attacks, makes a damage roll, or casts a spell."]}],"environment":["arctic","forest","mountain","swamp","urban"],"soundClip":{"type":"internal","path":"bestiary/warlock-of-the-archfey.mp3"},"languageTags":["S","X"],"damageTags":["P"],"damageTagsSpell":["O","Y"],"spellcastingTags":["CL","I"],"miscTags":["MW","RW","THW"],"conditionInflictSpell":["charmed","frightened","paralyzed","unconscious"],"hasToken":true,"hasFluff":true}'
+  DataHash: 44476c3a3f41d7b24f1fd63a7b83c6c6

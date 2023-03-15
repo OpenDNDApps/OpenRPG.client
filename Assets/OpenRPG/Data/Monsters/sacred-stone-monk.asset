@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sacred-stone-monk
+  m_EditorClassIdentifier: 
+  Title: Sacred Stone Monk
+  AsJson: '{"name":"Sacred Stone Monk","source":"PotA","page":196,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[14],"hp":{"average":22,"formula":"4d8
+    + 4"},"speed":{"walk":40},"str":13,"dex":15,"con":12,"int":10,"wis":14,"cha":9,"skill":{"acrobatics":"+4","athletics":"+3","perception":"+4"},"senses":["tremorsense
+    10 ft."],"passive":14,"languages":["Common"],"cr":"1/2","trait":[{"name":"Unarmored
+    Defense","entries":["While the monk is wearing no armor and wielding no shield,
+    its AC includes its Wisdom modifier."]},{"name":"Unarmored Movement","entries":["While
+    the monk is wearing no armor and wielding no shield, its walking speed increases
+    by 10 feet (included in its speed)."]}],"action":[{"name":"Multiattack","entries":["The
+    monk makes two melee attacks."]},{"name":"Unarmed Strike","entries":["{@atk mw}
+    {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning
+    damage."]}],"reaction":[{"name":"Parry","entries":["The monk adds 2 to its AC
+    against one melee or ranged weapon attack that would hit it. To do so, the monk
+    must see the attacker."]}],"senseTags":["T"],"actionTags":["Multiattack","Parry"],"languageTags":["C"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 0f16d4549bcdf0f5c4eef9fd8160bf01

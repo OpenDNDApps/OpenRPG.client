@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: gomazoa
+  m_EditorClassIdentifier: 
+  Title: Gomazoa
+  AsJson: '{"name":"Gomazoa","source":"PSZ","page":26,"_copy":{"name":"Roper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"roper","with":"gomazoa"}}},"speed":{"fly":10},"hasToken":true}'
+  DataHash: 633031f0e0a19c0d8def400c3dfc91f0

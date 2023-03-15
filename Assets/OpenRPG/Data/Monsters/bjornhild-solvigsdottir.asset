@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: bjornhild-solvigsdottir
+  m_EditorClassIdentifier: 
+  Title: Bjornhild Solvigsdottir
+  AsJson: '{"name":"Bjornhild Solvigsdottir","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":306,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":12,"from":["{@item
+    hide armor|PHB}"]}],"hp":{"average":102,"formula":"12d8 + 48"},"speed":{"walk":30},"str":18,"dex":11,"con":18,"int":14,"wis":11,"cha":14,"skill":{"athletics":"+7","intimidation":"+5","survival":"+3"},"passive":10,"languages":["Common","Yeti"],"cr":"5","trait":[{"name":"Auril''s
+    Blessing (3/Day)","entries":["When Bjornhild hits a creature with a weapon attack,
+    the attack deals an extra 11 ({@damage 2d10}) cold damage."]}],"action":[{"name":"Multiattack","entries":["Bjornhild
+    makes two melee attacks."]},{"name":"Greataxe","entries":["{@atk mw} {@hit 7}
+    to hit, reach 5 ft., one target. {@h}10 ({@damage 1d12 + 4}) slashing damage,
+    plus 11 ({@damage 2d10}) cold damage if Bjornhild uses Auril''s Blessing."]},{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}7 ({@damage
+    1d6 + 4}) piercing damage, or 8 ({@damage 1d8 + 4}) piercing damage if used with
+    two hands to make a melee attack, plus 11 ({@damage 2d10}) cold damage if Bjornhild
+    uses Auril''s Blessing."]}],"actionTags":["Multiattack"],"languageTags":["C","OTH"],"damageTags":["C","P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 7e535da7c290102ad1eb1513a90f7089

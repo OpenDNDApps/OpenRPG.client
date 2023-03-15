@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: avi
+  m_EditorClassIdentifier: 
+  Title: Avi
+  AsJson: '{"name":"Avi","isNpc":true,"source":"WDH","page":32,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    priest","with":"Avi","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Control
+    Water","entries":["At will, Avi can control the flow and shape of water in a
+    5-foot cube, or cause the water to freeze for up to 1 hour."]}}}},"type":{"type":"humanoid","tags":[{"tag":"genasi","prefix":"Water"}]},"alignment":["N","G"],"speed":{"walk":25,"swim":30},"resist":["acid"],"languages":["Common","Primordial"],"languageTags":["C","P"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 0be921b11ffd71dd347ff5862728e18f

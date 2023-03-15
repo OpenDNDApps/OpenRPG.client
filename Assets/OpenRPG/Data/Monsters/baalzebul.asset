@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: baalzebul
+  m_EditorClassIdentifier: 
+  Title: Baalzebul
+  AsJson: '{"name":"Baalzebul","isNamedCreature":true,"source":"MaBJoV","page":91,"size":["H"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":19,"from":["natural
+    armor"]}],"hp":{"average":540,"formula":"40d12 + 280"},"speed":{"walk":20,"burrow":20,"climb":20},"str":28,"dex":15,"con":25,"int":24,"wis":24,"cha":26,"save":{"str":"+17","con":"+15","int":"+15","cha":"+16"},"skill":{"athletics":"+17","deception":"+24","insight":"+15","intimidation":"+16","persuasion":"+16"},"senses":["darkvision
+    120 ft.","tremorsense 10 ft."],"passive":17,"resist":["acid","cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["fire","poison"],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"languages":["all","telepathy
+    100 ft."],"cr":"26","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["Baalzebul''s
+    innate spellcasting ability is Charisma (spell save {@dc 24}, {@hit 16} to hit
+    with spell attacks). He can innately cast the following spells, requiring no
+    material components:"],"will":["{@spell animate dead}","{@spell detect evil and
+    good}","{@spell detect magic}","{@spell fireball}","{@spell hallow}","{@spell
+    hold monster}","{@spell suggestion}","{@spell teleport}","{@spell true seeing}"],"daily":{"3e":["{@spell
+    dispel evil and good}","{@spell symbol} (pain or insanity)"],"1e":["{@spell wish}"]},"ability":"cha"}],"trait":[{"name":"Devil''s
+    Sight","entries":["Magical darkness doesn''t impede Baalzebul''s darkvision."]},{"name":"Decipher
+    Weakness","entries":["Baalzebul scores a critical hit on a roll of 19 or 20."]},{"name":"Legendary
+    Resistance (3/Day)","entries":["If Baalzebul fails a saving throw, he can choose
+    to succeed instead."]},{"name":"Lord of Flies","entries":["Insects do not attack
+    Baalzebul and as a bonus action he can command any number of them within 50 feet
+    to take move or action attacks."]},{"name":"Magic Resistance","entries":["Baalzebul
+    has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+    Weapons","entries":["Baalzebul''s slam attacks are magical."]},{"name":"Regeneration","entries":["Baalzebul
+    regains 20 hit points at the start of his turn. If he takes radiant damage, this
+    trait doesn''t function at the start of his next turn. Baalzebul dies only if
+    he starts his turn with 0 hit points and is unable to regenerate."]},{"name":"Stench
+    of the Slug","entries":["Any creature that starts its turn within 10 feet of
+    Baalzebul must succeed on a {@dc 21} Constitution saving throw or be {@condition
+    poisoned} until the start of the creature''s next turn. On a successful saving
+    throw, the creature is immune to this stench for 1 hour."]},{"name":"Undead Mastery","entries":["When
+    casting animate dead, Baalzebul can summon 10 additional zombies or skeletons
+    as long as sufficient corpses are available."]}],"action":[{"name":"Multiattack","entries":["Baalzebul
+    uses his Fear and Weakness gaze (if available) and then makes two slam attacks."]},{"name":"Slam","entries":["{@atk
+    mw} {@hit 17} to hit, reach 10 ft., one target. {@h}14 ({@damage 1d10 + 9}) bludgeoning
+    damage. Baalzebul''s attacks wither the limbs of opponents he strikes. Any creature
+    hit by Baalzebul''s slam attack must make a {@dc 21} Constitution saving throw.
+    Failure means the target loses the use of their legs (stuck in the {@condition
+    prone} position) or their arms (unable to cast spells or engage in attacks; lose
+    any AC bonus from shields). Baalzebul decides whether he targets arms or legs
+    before making the attack roll. This withering effect lasts for one minute but
+    at the end of each of their turns the afflicted creature may repeat the saving
+    throw."]},{"name":"Fear and Weakness Gaze {@recharge 5}","entries":["Baalzebul
+    activates a gaze attack and triggers two effects on everyone within 50 feet of
+    him. The first requires a {@dc 21} Charisma saving throw; failure means the target
+    is {@condition frightened} of Baalzebul as per the {@spell fear} spell. The second
+    effect requires another {@dc 21} Charisma saving throw. Failure means the target
+    suffers the effects of the {@spell ray of enfeeblement} spell. Both effects last
+    one minute."]},{"name":"Teleport","entries":["Baalzebul magically teleports,
+    along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied
+    space he can see."]},{"name":"Summon Allies (1/Day)","entries":["Baalzebul summons
+    {@dice 1d6} {@creature horned devil||horned devils}, {@dice 1d4} {@creature ice
+    devil||ice devils}, or 1 {@creature pit fiend}."]}],"legendary":[{"name":"Teleport","entries":["Baalzebul
+    uses his Teleport action."]},{"name":"Insect Gorge (Costs 2 Actions)","entries":["Baalzebul
+    disgorges a swarm of biting flies (otherwise same as insect plague) that deals
+    44 ({@damage 8d10}) piercing damage and does not require concentration."]}],"legendaryGroup":{"name":"Baalzebul","source":"MaBJoV"},"traitTags":["Devil''s
+    Sight","Legendary Resistances","Magic Resistance","Magic Weapons","Regeneration"],"senseTags":["SD","T"],"actionTags":["Multiattack","Teleport"],"languageTags":["TP","XX"],"damageTags":["B","P"],"damageTagsSpell":["F","N"],"spellcastingTags":["I"],"miscTags":["MW","RCH"],"conditionInflict":["frightened","poisoned"],"conditionInflictSpell":["frightened","incapacitated","paralyzed","stunned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 840d3a401cbe3f2724e7b28ec173e391

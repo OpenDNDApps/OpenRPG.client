@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: art-elemental-mascot
+  m_EditorClassIdentifier: 
+  Title: Art Elemental Mascot
+  AsJson: '{"name":"Art Elemental Mascot","source":"SCC","page":185,"size":["S"],"type":"elemental","alignment":["N"],"alignmentPrefix":"typically
+    ","ac":[11],"hp":{"average":18,"formula":"4d6 + 4"},"speed":{"walk":30},"str":6,"dex":13,"con":12,"int":8,"wis":11,"cha":15,"skill":{"performance":"+4"},"passive":10,"resist":["cold","fire"],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["understands
+    the languages of its creator but can''t speak"],"cr":"1/4","trait":[{"name":"Death
+    Burst","entries":["When the elemental dies, it explodes in a burst of colored
+    light. Each creature within 5 feet of the elemental must succeed on a {@dc 11}
+    Constitution saving throw or be {@condition blinded} for 1 minute. A {@condition
+    blinded} creature can repeat the save at the end of each of its turns, ending
+    the effect on itself on a success."]}],"action":[{"name":"Joyful Flare","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) fire
+    damage."]},{"name":"Melancholic Bolt","entries":["{@atk rw} {@hit 3} to hit,
+    range 30 ft., one target. {@h}6 ({@damage 2d4 + 1}) cold damage."]},{"name":"Captivating
+    Artistry (1/Day)","entries":["The elemental targets one creature it can see within
+    30 feet of itself. The target must succeed on a {@dc 12} Charisma saving throw
+    or be {@condition charmed} for 1 minute. The {@condition charmed} target can
+    repeat the save at the end of each of its turns, ending the effect on itself
+    on a success."]}],"familiar":true,"traitTags":["Death Burst"],"languageTags":["CS"],"damageTags":["C","F"],"miscTags":["AOE","MW","RW"],"conditionInflict":["blinded","charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2c57e87482a156cb0979ad2ad4a2b9c8

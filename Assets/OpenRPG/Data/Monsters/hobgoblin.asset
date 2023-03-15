@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hobgoblin
+  m_EditorClassIdentifier: 
+  Title: Hobgoblin
+  AsJson: '{"name":"Hobgoblin","source":"MM","page":186,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"LMoP"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"RMBRE"},{"source":"EGW"},{"source":"WBtW"},{"source":"DSotDQ"}],"size":["M"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+    chain mail|phb}","{@item shield|phb}"]}],"hp":{"average":11,"formula":"2d8 +
+    2"},"speed":{"walk":30},"str":13,"dex":12,"con":12,"int":10,"wis":10,"cha":9,"senses":["darkvision
+    60 ft."],"passive":10,"languages":["Common","Goblin"],"cr":"1/2","trait":[{"name":"Martial
+    Advantage","entries":["Once per turn, the hobgoblin can deal an extra 7 ({@dice
+    2d6}) damage to a creature it hits with a weapon attack if that creature is within
+    5 feet of an ally of the hobgoblin that isn''t {@condition incapacitated}."]}],"action":[{"name":"Longsword","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing
+    damage, or 6 ({@damage 1d10 + 1}) slashing damage if used with two hands."]},{"name":"Longbow","entries":["{@atk
+    rw} {@hit 3} to hit, range 150/600 ft., one target. {@h}5 ({@damage 1d8 + 1})
+    piercing damage."]}],"environment":["underdark","grassland","forest","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/hobgoblin.mp3"},"senseTags":["D"],"languageTags":["C","GO"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 86b252397dd931ac3c57617945b27e38

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: pixie
+  m_EditorClassIdentifier: 
+  Title: Pixie
+  AsJson: '{"name":"Pixie","source":"MM","page":253,"otherSources":[{"source":"GoS"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"WBtW"},{"source":"KftGV"}],"size":["T"],"type":"fey","alignment":["N","G"],"ac":[15],"hp":{"average":1,"formula":"1d4
+    - 1"},"speed":{"walk":10,"fly":30},"str":2,"dex":20,"con":8,"int":10,"wis":14,"cha":15,"skill":{"perception":"+4","stealth":"+7"},"passive":14,"languages":["Sylvan"],"cr":"1/4","spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["The pixie''s innate spellcasting ability is Charisma
+    (spell save {@dc 12}). It can innately cast the following spells, requiring only
+    its pixie dust as a component:"],"will":["{@spell druidcraft}"],"daily":{"1e":["{@spell
+    confusion}","{@spell dancing lights}","{@spell detect evil and good}","{@spell
+    detect thoughts}","{@spell dispel magic}","{@spell entangle}","{@spell fly}","{@spell
+    phantasmal force}","{@spell polymorph}","{@spell sleep}"]},"ability":"cha"}],"trait":[{"name":"Magic
+    Resistance","entries":["The pixie has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Superior Invisibility","entries":["The
+    pixie magically turns {@condition invisible} until its concentration ends (as
+    if concentrating on a spell). Any equipment the pixie wears or carries is {@condition
+    invisible} with it."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/pixie.mp3"},"traitTags":["Magic
+    Resistance"],"languageTags":["S"],"damageTagsSpell":["Y"],"spellcastingTags":["I"],"conditionInflict":["invisible"],"conditionInflictSpell":["restrained","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: dd041a5b9b2920e2f4b1d4b98b395e56

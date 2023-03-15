@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: halaster-puppet
+  m_EditorClassIdentifier: 
+  Title: Halaster Puppet
+  AsJson: '{"name":"Halaster Puppet","isNpc":true,"source":"WDMM","page":31,"size":["M"],"type":"construct","alignment":["N"],"ac":[10],"hp":{"special":"8"},"speed":{"walk":20},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"immune":["poison","psychic"],"conditionImmune":["frightened","exhaustion"],"languages":["Common"],"trait":[{"name":"Antimagic
+    Susceptibility","entries":["The puppet is destroyed if a successful {@spell dispel
+    magic} spell ({@dc 15}) is cast on it"]}],"traitTags":["Antimagic Susceptibility"],"languageTags":["C"],"hasToken":true}'
+  DataHash: b516f25a329704c2c8a1a7d858772576

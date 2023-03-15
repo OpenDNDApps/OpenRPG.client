@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: camel
+  m_EditorClassIdentifier: 
+  Title: Camel
+  AsJson: '{"name":"Camel","source":"MM","page":320,"srd":true,"basicRules":true,"otherSources":[{"source":"GoS"},{"source":"CM"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[9],"hp":{"average":15,"formula":"2d10
+    + 4"},"speed":{"walk":50},"str":16,"dex":8,"con":14,"int":2,"wis":8,"cha":5,"passive":9,"cr":"1/8","action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+    damage."]}],"environment":["desert"],"soundClip":{"type":"internal","path":"bestiary/camel.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 6da4540eecc536b58c19b97336fc60c9

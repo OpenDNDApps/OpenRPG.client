@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: darz-helgar
+  m_EditorClassIdentifier: 
+  Title: Darz Helgar
+  AsJson: '{"name":"Darz Helgar","isNpc":true,"source":"SKT","page":253,"size":["M"],"type":{"type":"humanoid","tags":[{"tag":"human","prefix":"Illuskan"}]},"alignment":["N"],"ac":[12],"hp":{"average":27,"formula":"5d8
+    + 5"},"speed":{"walk":30},"str":15,"dex":15,"con":12,"int":10,"wis":11,"cha":11,"skill":{"intimidation":"+2","sleight
+    of hand":"+4","stealth":"+4"},"passive":10,"languages":["Common"],"trait":[{"name":"Sneak
+    Attack (1/Turn)","entries":["Darz deals an extra 7 ({@dice 2d6}) damage when
+    he hits a target with a weapon attack and has advantage on the attack roll, or
+    when the target is within 5 feet of an ally of Darz that isn''t {@condition incapacitated}
+    and Darz doesn''t have disadvantage on the attack roll."]},{"name":"Roleplaying
+    Information","entries":["In his youth, Darz was a member of the Xanathar Thieves''
+    Guild in Waterdeep. After serving ten years in prison for his crimes, he cut
+    all ties to the city and moved north to be a campground caretaker.","Ideal: \"You
+    can run from your past, but you can''t hide from it.\"","Bond: \"I''ve made a
+    new life in Triboar. I''m not gonna run away this time. \"","Flaw: \"I have no
+    regrets. I do whatever it takes to survive.\""]}],"action":[{"name":"Shortsword","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+    damage."]},{"name":"Sling","entries":["{@atk rw} {@hit 4} to hit, range 30/120
+    ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Darz carries twenty
+    sling stones."]}],"traitTags":["Sneak Attack"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 557506d72dc67077a9b8d30208bcabb2

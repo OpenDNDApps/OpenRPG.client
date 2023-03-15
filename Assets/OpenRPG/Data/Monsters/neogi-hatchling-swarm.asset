@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: neogi-hatchling-swarm
+  m_EditorClassIdentifier: 
+  Title: Neogi Hatchling Swarm
+  AsJson: '{"name":"Neogi Hatchling Swarm","source":"BAM","page":40,"size":["M"],"type":{"type":"aberration","swarmSize":"T"},"alignment":["L","E"],"alignmentPrefix":"typically
+    ","ac":[11],"hp":{"average":52,"formula":"8d8 + 16"},"speed":{"walk":20,"climb":20},"str":12,"dex":13,"con":14,"int":6,"wis":10,"cha":9,"senses":["darkvision
+    60 ft."],"passive":10,"resist":["bludgeoning","piercing","slashing"],"conditionImmune":["charmed","frightened","grappled","paralyzed","petrified","prone","restrained","stunned"],"cr":"3","trait":[{"name":"Spider
+    Climb","entries":["The swarm can climb difficult surfaces, including upside down
+    on ceilings, without needing to make an ability check."]},{"name":"Swarm","entries":["The
+    swarm can occupy another creature''s space and vice versa, and the swarm can
+    move through any opening large enough for a Tiny neogi hatchling. The swarm can''t
+    regain hit points or gain temporary hit points."]}],"action":[{"name":"Swarm
+    of Bites","entries":["{@atk mw} {@hit 3} to hit, reach 5 ft., one creature. {@h}22
+    ({@damage 6d6 + 1}) poison damage, or 11 ({@damage 3d6 + 1}) poison damage if
+    the swarm has half of its hit points or fewer, and the target must succeed on
+    a {@dc 12} Constitution saving throw or become {@condition poisoned} for 1 minute.
+    A target can repeat the saving throw at the end of each of its turns, ending
+    the effect on itself on a success."]}],"traitTags":["Spider Climb"],"senseTags":["D"],"damageTags":["I"],"miscTags":["MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true}'
+  DataHash: b9768533fcf9e6ab07838379942ad706

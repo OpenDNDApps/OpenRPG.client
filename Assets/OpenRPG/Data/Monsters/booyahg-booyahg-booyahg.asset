@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: booyahg-booyahg-booyahg
+  m_EditorClassIdentifier: 
+  Title: Booyahg Booyahg Booyahg
+  AsJson: '{"name":"Booyahg Booyahg Booyahg","shortName":"Goblin","source":"VGM","page":43,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Goblin","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"(^|
+    )mage","with":"$1goblin"},"trait":{"mode":"appendArr","items":{"name":"Wild Magic","entries":["Each
+    time the goblin casts a spell (including cantrips), there is an accompanying
+    surge of wild magic; roll on the {@table Wild Magic Surge|PHB} table in the {@book
+    Player''s Handbook|PHB} to determine the wild magic effect."]}}}},"hasToken":true,"hasFluff":true}'
+  DataHash: 2e926932090a783961bd5a6d06ffef2d

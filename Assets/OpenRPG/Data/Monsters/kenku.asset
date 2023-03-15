@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kenku
+  m_EditorClassIdentifier: 
+  Title: Kenku
+  AsJson: '{"name":"Kenku","source":"MM","page":194,"otherSources":[{"source":"PotA"},{"source":"WDH"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"CM"},{"source":"JttRC"}],"size":["M"],"type":{"type":"humanoid","tags":["kenku"]},"alignment":["C","N"],"ac":[13],"hp":{"average":13,"formula":"3d8"},"speed":{"walk":30},"str":10,"dex":16,"con":10,"int":11,"wis":10,"cha":10,"skill":{"deception":"+4","perception":"+2","stealth":"+5"},"passive":12,"languages":["understands
+    Auran and Common but speaks only through the use of its Mimicry trait"],"cr":"1/4","trait":[{"name":"Ambusher","entries":["In
+    the first round of a combat, the kenku has advantage on attack rolls against
+    any creature it {@quickref Surprise|PHB|3|0|surprised}."]},{"name":"Mimicry","entries":["The
+    kenku can mimic any sounds it has heard, including voices. A creature that hears
+    the sounds can tell they are imitations with a successful {@dc 14} Wisdom (Insight)
+    check."]}],"action":[{"name":"Shortsword","entries":["{@atk mw} {@hit 5} to hit,
+    reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."]},{"name":"Shortbow","entries":["{@atk
+    rw} {@hit 5} to hit, range 80/320 ft., one target. {@h}6 ({@damage 1d6 + 3})
+    piercing damage."]}],"environment":["forest","urban"],"soundClip":{"type":"internal","path":"bestiary/kenku.mp3"},"traitTags":["Ambusher"],"languageTags":["AU","C"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 4dd12149a727269b587aa24cfd17718f

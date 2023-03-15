@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lemure
+  m_EditorClassIdentifier: 
+  Title: Lemure
+  AsJson: '{"name":"Lemure","source":"MM","page":76,"srd":true,"otherSources":[{"source":"WDH"},{"source":"BGDIA"}],"size":["M"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[7],"hp":{"average":13,"formula":"3d8"},"speed":{"walk":15},"str":10,"dex":5,"con":11,"int":1,"wis":11,"cha":3,"senses":["darkvision
+    120 ft."],"passive":10,"resist":["cold"],"immune":["fire","poison"],"conditionImmune":["charmed","frightened","poisoned"],"languages":["understands
+    Infernal but can''t speak"],"cr":"0","trait":[{"name":"Devil''s Sight","entries":["Magical
+    darkness doesn''t impede the lemure''s darkvision."]},{"name":"Hellish Rejuvenation","entries":["A
+    lemure that dies in the Nine Hells comes back to life with all its hit points
+    in {@dice 1d10} days unless it is killed by a good-aligned creature with a {@spell
+    bless} spell cast on that creature or its remains are sprinkled with holy water."]}],"action":[{"name":"Fist","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+    damage"]}],"soundClip":{"type":"internal","path":"bestiary/lemure.mp3"},"traitTags":["Devil''s
+    Sight"],"senseTags":["SD"],"languageTags":["CS","I"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bd88696b35028ab85f9c7a87cdeffe80

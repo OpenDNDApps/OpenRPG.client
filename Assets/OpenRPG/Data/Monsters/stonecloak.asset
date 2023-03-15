@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: stonecloak
+  m_EditorClassIdentifier: 
+  Title: Stonecloak
+  AsJson: '{"name":"Stonecloak","source":"WDMM","page":253,"_copy":{"name":"Stone
+    Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"stonecloak","flags":"i"}}},"int":9,"cha":9,"languages":["understands
+    Abyssal","Celestial","Common","Draconic","Dwarvish","Elvish","Infernal","and
+    Undercommon but can''t speak"],"languageTags":["AB","C","CE","CS","D","DR","E","I","U"],"hasToken":true,"hasFluff":true}'
+  DataHash: dc851fd7bb7bc6f96a6bb3587c85a855

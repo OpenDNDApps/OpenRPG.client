@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: timbermaw
+  m_EditorClassIdentifier: 
+  Title: Timbermaw
+  AsJson: '{"name":"Timbermaw","source":"PSZ","page":34,"_copy":{"name":"Grick","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"grick","with":"timbermaw"}}},"hasToken":true}'
+  DataHash: e45e6d8eb14ad0371b8851ae4bfed10d

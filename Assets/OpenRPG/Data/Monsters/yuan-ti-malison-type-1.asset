@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: yuan-ti-malison-type-1
+  m_EditorClassIdentifier: 
+  Title: Yuan-ti Malison (Type 1)
+  AsJson: '{"name":"Yuan-ti Malison (Type 1)","source":"MM","page":309,"otherSources":[{"source":"HotDQ"},{"source":"RoT"},{"source":"SKT"},{"source":"ToA"},{"source":"CM"}],"size":["M"],"type":{"type":"monstrosity","tags":["shapechanger","yuan-ti"]},"alignment":["N","E"],"ac":[12],"hp":{"average":66,"formula":"12d8
+    + 12"},"speed":{"walk":30},"str":16,"dex":14,"con":13,"int":14,"wis":12,"cha":16,"skill":{"deception":"+5","stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":11,"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common","Draconic"],"cr":"3","spellcasting":[{"name":"Innate
+    Spellcasting (Yuan-ti Form Only)","headerEntries":["The yuan-ti''s innate spellcasting
+    ability is Charisma (spell save {@dc 13}). The yuan-ti can innately cast the
+    following spells, requiring no material components:"],"will":["{@spell animal
+    friendship} (snakes only)"],"daily":{"3":["{@spell suggestion}"]},"ability":"cha"}],"trait":[{"name":"Shapechanger","entries":["The
+    yuan-ti can use its action to polymorph into a Medium snake, or back into its
+    true form. Its statistics are the same in each form. Any equipment it is wearing
+    or carrying isn''t transformed. It doesn''t change form if it dies."]},{"name":"Magic
+    Resistance","entries":["The yuan-ti has advantage on saving throws against spells
+    and other magical effects."]},{"name":"Malison Type","entries":["The yuan-ti
+    has one of the following types:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Type
+    1:","entry":"Human body with snake head"},{"type":"item","name":"Type 2:","entry":"Human
+    head and body with snakes for arms"},{"type":"item","name":"Type 3:","entry":"Human
+    head and upper body with a serpentine lower body instead of legs"}]}]}],"action":[{"name":"Multiattack
+    (Yuan-ti Form Only)","entries":["The yuan-ti makes two ranged attacks or two
+    melee attacks, but can use its bite only once."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d4 + 3}) piercing
+    damage plus 7 ({@damage 2d6}) poison damage."]},{"name":"Scimitar (Yuan-ti Form
+    Only)","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6
+    ({@damage 1d6 + 3}) slashing damage."]},{"name":"Longbow (Yuan-ti Form Only)","entries":["{@atk
+    rw} {@hit 4} to hit, range 150/600 ft., one target. {@h}6 ({@damage 1d8 + 2})
+    piercing damage plus 7 ({@damage 2d6}) poison damage."]}],"environment":["forest","swamp","desert"],"soundClip":{"type":"internal","path":"bestiary/yuan-ti-malison.mp3"},"traitTags":["Magic
+    Resistance","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C","DR"],"damageTags":["I","P","S"],"spellcastingTags":["F","I"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bfd90d3bb57a7979946ee7161c3a1e49

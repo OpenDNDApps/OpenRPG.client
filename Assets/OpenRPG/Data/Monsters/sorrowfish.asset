@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sorrowfish
+  m_EditorClassIdentifier: 
+  Title: Sorrowfish
+  AsJson: '{"name":"Sorrowfish","source":"CRCotN","page":210,"size":["T"],"type":"aberration","alignment":["U"],"ac":[13],"hp":{"average":1,"formula":"1d4
+    - 1"},"speed":{"walk":0,"swim":40},"str":2,"dex":16,"con":9,"int":1,"wis":7,"cha":2,"senses":["darkvision
+    60 ft."],"passive":8,"immune":["psychic"],"cr":"0","trait":[{"name":"Blood Frenzy","entries":["The
+    sorrowfish has advantage on melee attack rolls against any creature that doesn''t
+    have all its hit points."]},{"name":"Water Breathing","entries":["The Sorrowfish
+    can breathe only underwater."]}],"action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"traitTags":["Water
+    Breathing"],"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: bedcadf449164a1397f3b10a62a75b65

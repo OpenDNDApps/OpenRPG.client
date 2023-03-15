@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hybrid-flier
+  m_EditorClassIdentifier: 
+  Title: Hybrid Flier
+  AsJson: '{"name":"Hybrid Flier","source":"GGR","page":217,"size":["M"],"type":{"type":"humanoid","tags":["Simic
+    hybrid"]},"alignment":["N","G"],"ac":[13],"hp":{"average":39,"formula":"6d8 +
+    12"},"speed":{"walk":30,"fly":40},"str":12,"dex":16,"con":14,"int":11,"wis":10,"cha":11,"passive":10,"resist":["acid"],"languages":["Common
+    plus any one language"],"cr":"2","action":[{"name":"Multiattack","entries":["The
+    hybrid makes two javelin attacks. It can replace one javelin attack with Spit
+    Acid."]},{"name":"Javelin","entries":["{@atk mw,rw} {@hit 5} to hit, reach 5
+    ft. or range 30/120 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."]},{"name":"Spit
+    Acid","entries":["{@atk rw} {@hit 5} to hit, range 20/60 ft., one target. {@h}10
+    ({@damage 4d4}) acid damage."]}],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["A","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 6ba5675a137a61ef69b5ef1f5434ef75

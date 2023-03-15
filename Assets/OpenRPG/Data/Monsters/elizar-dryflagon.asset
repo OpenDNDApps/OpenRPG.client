@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: elizar-dryflagon
+  m_EditorClassIdentifier: 
+  Title: Elizar Dryflagon
+  AsJson: '{"name":"Elizar Dryflagon","isNpc":true,"source":"PotA","page":202,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":14,"from":["{@item
+    hide armor|phb}"]}],"hp":{"average":71,"formula":"11d8 + 22"},"speed":{"walk":30},"str":13,"dex":15,"con":14,"int":11,"wis":18,"cha":10,"skill":{"arcana":"+3","deception":"+3"},"passive":14,"languages":["Common","Druidic"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["Elizar
+    is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc
+    15}, {@hit 7} to hit with spell attacks). Elizar has the following druid spells
+    prepared:"],"spells":{"0":{"spells":["{@spell druidcraft}","{@spell guidance}","{@spell
+    poison spray}","{@spell produce flame}"]},"1":{"slots":4,"spells":["{@spell animal
+    friendship}","{@spell faerie fire}","{@spell healing word}","{@spell jump}","{@spell
+    thunderwave}"]},"2":{"slots":3,"spells":["{@spell flame blade}","{@spell spike
+    growth}"]},"3":{"slots":3,"spells":["{@spell dispel magic}","{@spell stinking
+    cloud}"]},"4":{"slots":2,"spells":["{@spell blight}","{@spell wall of fire}"]}},"ability":"wis"}],"trait":[{"name":"Summon
+    Mephits (Recharges after a Long Rest)","entries":["By puffing on his pipe, Elizar
+    can use an action to cast {@spell conjure minor elementals}. If he does so, he
+    summons four smoke mephits."]}],"action":[{"name":"Dagger +1","entries":["{@atk
+    mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage
+    1d4 + 3}) piercing damage."]}],"languageTags":["C","DU"],"damageTags":["P"],"damageTagsSpell":["F","I","N","P","T"],"spellcastingTags":["CD"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 96670f316a794ae674dff69d12a8fadc

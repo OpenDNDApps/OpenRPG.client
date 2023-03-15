@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: edwin-odesseiron
+  m_EditorClassIdentifier: 
+  Title: Edwin Odesseiron
+  AsJson: '{"name":"Edwin Odesseiron","isNamedCreature":true,"source":"MaBJoV","page":114,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[15],"hp":{"average":117,"formula":"18d8
+    + 36"},"speed":{"walk":30},"str":10,"dex":16,"con":14,"int":20,"wis":15,"cha":16,"save":{"int":"+10","wis":"+7"},"skill":{"arcana":"+15","history":"+15"},"passive":12,"languages":["Abyssal","Aquan","Auran","Common","Ignan","Infernal","Terran"],"cr":"15","spellcasting":[{"name":"Spellcasting","headerEntries":["Edwin
+    is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell
+    save {@dc 18}, {@hit 12} to hit with spell attacks). Edwin has the following
+    wizard spells prepared:"],"spells":{"0":{"spells":["{@spell acid splash}*","{@spell
+    fire bolt}","{@spell mage hand}*","{@spell poison spray}*"]},"1":{"slots":4,"spells":["{@spell
+    mage armor}","{@spell shield}","{@spell unseen servant}*"]},"2":{"slots":3,"spells":["{@spell
+    cloud of daggers}*","{@spell mirror image}","{@spell misty step}*"]},"3":{"slots":3,"spells":["{@spell
+    counterspell}","{@spell dispel magic}","{@spell fireball}","{@spell stinking
+    cloud}"]},"4":{"slots":3,"spells":["{@spell conjure minor elementals}","{@spell
+    evard''s black tentacles}*"]},"5":{"slots":3,"spells":["{@spell cloudkill}*","{@spell
+    conjure elemental}*","{@spell scrying}"]},"6":{"slots":1,"spells":["{@spell arcane
+    gate}*","{@spell contingency}"]},"7":{"slots":1,"spells":["{@spell simulacrum}","{@spell
+    teleport}*"]},"8":{"slots":1,"spells":["{@spell clone}","{@spell maze}"]},"9":{"slots":1,"spells":["{@spell
+    meteor swarm}"]}},"footerEntries":["* Conjuration spell of 1st level or higher."],"ability":"int"}],"trait":[{"name":"Focused
+    Conjuration","entries":["While Edwin is concentrating on a conjuration spell,
+    his concentration cannot be broken as a result of taking damage."]},{"name":"Staff
+    of Power","entries":["A magic quarterstaff that grants a +2 bonus to attack and
+    damage rolls made with it. While held it grants a +2 bonus to armor class, saving
+    throws, and spell attack rolls (all factored into Edwin''s statistics). The staff
+    has 20 charges for the following properties. The staff regains {@dice 2d8 + 4}
+    expended charges daily at dawn.","While holding this staff, Edwin can use an
+    action to expend 1 or more of its Charges to cast one of the following Spells
+    from it, using his spell save DC and spell attack bonus: {@spell cone of cold}
+    (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe
+    of invulnerability} (6 charges), {@spell hold monster} (5 charges), {@spell levitate}
+    (2 charges), {@spell lightning bolt} (5th-level version, 5 charges), {@spell
+    magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell
+    wall of force} (5 charges)."]},{"name":"Contingency","entries":["Edwin has a
+    {@spell contingency} spell trigger if he is {@condition incapacitated}, {@condition
+    paralyzed} or {@condition stunned}. When this occurs, a 6th level {@spell dispel
+    magic} targets himself. He also has a clone body stored in a cavern one mile
+    beneath the city of Baldur''s Gate."]},{"name":"Simulacrum","entries":["Edwin
+    is always accompanied by a simulacrum of himself. The copy is identical to him
+    in all respects except that it has 58 HP, does not have the staff of power and
+    does not have a 7th level spell slot."]}],"action":[{"name":"Staff of Power","entries":["{@atk
+    mw} {@hit 7} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning
+    damage or 6 ({@damage 1d8 + 2}) bludgeoning damage if wielded with two hands.
+    Edwin can expend one of the staff''s charges to deal an extra 3 ({@damage 1d6})
+    force damage on a hit."]},{"name":"Summon Hell Hounds","entries":["Edwin magically
+    summons three {@creature hell hound||hell hounds}. The summoned hell hounds appear
+    in an unoccupied space within 60 feet of its summoner, and act as allies of their
+    summoner. They remain for 10 minutes, until they or their summoner dies, or until
+    their summoner dismisses them as an action."]}],"languageTags":["AB","AQ","AU","C","I","IG","T"],"damageTags":["B","O"],"damageTagsSpell":["A","B","F","I","S"],"spellcastingTags":["CW"],"miscTags":["MW"],"conditionInflictSpell":["restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2ef52499699784acea87dfe9d92635a5

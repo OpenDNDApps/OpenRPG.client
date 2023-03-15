@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: preeta-kreepa
+  m_EditorClassIdentifier: 
+  Title: Preeta Kreepa
+  AsJson: '{"name":"Preeta Kreepa","isNpc":true,"source":"WDMM","page":56,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    mage","with":"Preeta","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"senses":["darkvision
+    120 ft."],"languages":["Common","Dwarvish","Goblin","Undercommon"],"reaction":[{"name":"Eye
+    Rays","entries":["As a bonus action or a reaction, Preeta can shoot one of the
+    following eye rays at one target she can see within 120 feet of her:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Fear
+    Ray","entry":"The target must succeed on a {@dc 15} Wisdom saving throw or be
+    {@condition frightened} for 1 minute. The target can repeat the saving throw
+    at the end of each of its turns, ending the effect on itself on a success."},{"type":"item","name":"Paralyzing
+    Ray","entry":"The target must succeed on a {@dc 15} Constitution saving throw
+    or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw
+    at the end of each of its turns, ending the effect on itself on a success."}]}]}],"senseTags":["SD"],"languageTags":["C","D","GO","U"],"conditionInflict":["frightened","paralyzed"],"hasToken":true,"hasFluff":true}'
+  DataHash: a68d459a687a2fd80e067e5bcdeff254

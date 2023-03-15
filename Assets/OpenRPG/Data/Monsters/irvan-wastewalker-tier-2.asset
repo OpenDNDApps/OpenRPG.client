@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: irvan-wastewalker-tier-2
+  m_EditorClassIdentifier: 
+  Title: Irvan Wastewalker (Tier 2)
+  AsJson: '{"name":"Irvan Wastewalker (Tier 2)","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":191,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"ac":[{"ac":15,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":99,"formula":"18d8
+    + 18"},"speed":{"walk":40},"str":10,"dex":16,"con":12,"int":14,"wis":14,"cha":14,"save":{"dex":"+6","con":"+4"},"skill":{"acrobatics":"+6","deception":"+5","stealth":"+9","survival":"+5"},"passive":12,"languages":["Common","Goblin"],"cr":"5","trait":[{"name":"Fortitude
+    (Recharges after a Short or Long Rest)","entries":["If damage reduces Irvan to
+    0 hit points, he can make a Constitution saving throw with a DC equal to 5 +
+    the damage taken. On a successful save, Irvan drops to 1 hit point instead."]}],"action":[{"name":"Multiattack","entries":["Irvan
+    makes two Dagger attacks."]},{"name":"Dagger","entries":["{@atk mw,rw} {@hit
+    6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 +
+    3}) piercing damage plus 14 ({@damage 4d6}) poison damage."]}],"actionTags":["Multiattack"],"languageTags":["C","GO"],"damageTags":["I","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 388aa251650ecfcec7dd534be055d0a9

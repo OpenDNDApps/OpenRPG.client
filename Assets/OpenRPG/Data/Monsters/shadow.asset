@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: shadow
+  m_EditorClassIdentifier: 
+  Title: Shadow
+  AsJson: '{"name":"Shadow","source":"MM","page":269,"srd":true,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"IMR"},{"source":"MOT"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"SjA"}],"size":["M"],"type":"undead","alignment":["C","E"],"ac":[12],"hp":{"average":16,"formula":"3d8
+    + 3"},"speed":{"walk":40},"str":6,"dex":14,"con":13,"int":6,"wis":10,"cha":8,"skill":{"stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":10,"resist":["acid","cold","fire","lightning","thunder",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["necrotic","poison"],"vulnerable":["radiant"],"conditionImmune":["exhaustion","frightened","grappled","paralyzed","petrified","poisoned","prone","restrained"],"cr":"1/2","trait":[{"name":"Amorphous","entries":["The
+    shadow can move through a space as narrow as 1 inch wide without squeezing."]},{"name":"Shadow
+    Stealth","entries":["While in dim light or darkness, the shadow can take the
+    Hide action as a bonus action. Its stealth bonus is also improved to +6."]},{"name":"Sunlight
+    Weakness","entries":["While in sunlight, the shadow has disadvantage on attack
+    rolls, ability checks, and saving throws."]}],"action":[{"name":"Strength Drain","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}9 ({@damage 2d6 + 2}) necrotic
+    damage, and the target''s Strength score is reduced by {@dice 1d4}. The target
+    dies if this reduces its Strength to 0. Otherwise, the reduction lasts until
+    the target finishes a short or long rest.","If a non-evil humanoid dies from
+    this attack, a new shadow rises from the corpse {@dice 1d4} hours later."]}],"environment":["underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/shadow.mp3"},"traitTags":["Amorphous"],"senseTags":["D"],"damageTags":["N"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: f98941eb912f3fbc0be9568981a75968

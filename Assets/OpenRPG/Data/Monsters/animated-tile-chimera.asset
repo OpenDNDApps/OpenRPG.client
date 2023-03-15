@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: animated-tile-chimera
+  m_EditorClassIdentifier: 
+  Title: Animated Tile Chimera
+  AsJson: '{"name":"Animated Tile Chimera","source":"RoT","page":42,"otherSources":[{"source":"ToD","page":128}],"_copy":{"name":"Chimera","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Rejuvenation","entries":["If
+    destroyed, the tile creature regains all its hit points and becomes active again
+    in 24 hours unless at least half its tiles are collected and kept separate from
+    the rest of the creature''s tiles."]}},"reaction":{"mode":"appendArr","items":{"name":"Narrow
+    Dodge","entries":["When targeted by a melee attack, the tile creature can take
+    a reaction to turn its narrowest aspect toward the attacker. The attacker has
+    disadvantage on the attack roll."]}}}},"resist":["piercing"],"immune":["poison","psychic"],"conditionImmune":["charmed","frightened","paralyzed","petrified","poisoned"],"traitTags":["Rejuvenation"],"hasToken":true}'
+  DataHash: 4bf31f2158df4d913904f581c142bcef

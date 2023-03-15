@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: feyr
+  m_EditorClassIdentifier: 
+  Title: Feyr
+  AsJson: '{"name":"Feyr","source":"BAM","page":22,"size":["L"],"type":"aberration","alignment":["C","E"],"alignmentPrefix":"typically
+    ","ac":[{"ac":16,"from":["natural armor"]}],"hp":{"average":88,"formula":"16d10"},"speed":{"walk":0,"fly":{"number":50,"condition":"(hover)"},"canHover":true},"str":16,"dex":16,"con":11,"int":14,"wis":14,"cha":11,"save":{"int":"+5","wis":"+5"},"skill":{"perception":"+5","stealth":"+9"},"senses":["darkvision
+    120 ft."],"passive":15,"conditionImmune":["frightened"],"cr":"5","trait":[{"name":"Unusual
+    Nature","entries":["The feyr doesn''t require air."]}],"action":[{"name":"Multiattack","entries":["The
+    feyr makes one Frightful Bite attack and one Tentacle attack."]},{"name":"Frightful
+    Bite","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft., one creature. {@h}8
+    ({@damage 1d10 + 3}) piercing damage, and each creature within 10 feet of the
+    feyr that can see it must succeed on a {@dc 13} Wisdom saving throw or be {@condition
+    frightened} of the feyr until the end of the feyr''s next turn."]},{"name":"Tentacle","entries":["{@atk
+    mw} {@hit 6} to hit, reach 10 ft., one creature. {@h}17 ({@damage 4d6 + 3}) psychic
+    damage, and the target is {@condition grappled} (escape {@dc 13}). Until this
+    grapple ends, the feyr can''t use this tentacle against other targets. The feyr
+    has two tentacles, each of which can grapple one creature."]},{"name":"Invisibility","entries":["The
+    feyr becomes {@condition invisible} until it attacks, uses Nightmare Fuel, or
+    uses a bonus action to become visible."]},{"name":"Nightmare Fuel (1/Day)","entries":["The
+    feyr targets one {@condition unconscious} creature it can see within 10 feet
+    of itself. The target must succeed on a {@dc 13} Wisdom saving throw or take
+    27 ({@damage 5d10}) psychic damage, and the feyr gains temporary hit points equal
+    to the damage dealt."]}],"traitTags":["Unusual Nature"],"senseTags":["SD"],"actionTags":["Multiattack","Tentacles"],"damageTags":["P","Y"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["frightened","grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 67c5750d6b637293b9034de37d320609

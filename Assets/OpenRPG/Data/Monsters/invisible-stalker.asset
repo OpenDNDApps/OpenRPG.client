@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: invisible-stalker
+  m_EditorClassIdentifier: 
+  Title: Invisible Stalker
+  AsJson: '{"name":"Invisible Stalker","source":"MM","page":192,"srd":true,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["M"],"type":"elemental","alignment":["N"],"ac":[14],"hp":{"average":104,"formula":"16d8
+    + 32"},"speed":{"walk":50,"fly":{"number":50,"condition":"(hover)"},"canHover":true},"str":16,"dex":19,"con":14,"int":10,"wis":15,"cha":11,"skill":{"perception":"+8","stealth":"+10"},"senses":["darkvision
+    60 ft."],"passive":18,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["exhaustion","grappled","paralyzed","petrified","poisoned","prone","restrained","unconscious"],"languages":["Auran","understands
+    Common but doesn''t speak it"],"cr":"6","trait":[{"name":"Invisibility","entries":["The
+    stalker is {@condition invisible}."]},{"name":"Faultless Tracker","entries":["The
+    stalker is given a quarry by its summoner. The stalker knows the direction and
+    distance to its quarry as long as the two of them are on the same plane of existence.
+    The stalker also knows the location of its summoner."]}],"action":[{"name":"Multiattack","entries":["The
+    stalker makes two slam attacks."]},{"name":"Slam","entries":["{@atk mw} {@hit
+    6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/invisible-stalker.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AU","C"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 1a6899ee2e61d766128d14983a524a8c

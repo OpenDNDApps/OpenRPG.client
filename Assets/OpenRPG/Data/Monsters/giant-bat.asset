@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-bat
+  m_EditorClassIdentifier: 
+  Title: Giant Bat
+  AsJson: '{"name":"Giant Bat","source":"MM","page":323,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"WDMM"},{"source":"MOT"},{"source":"TCE"},{"source":"PSX"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":22,"formula":"4d10"},"speed":{"walk":10,"fly":60},"str":15,"dex":16,"con":11,"int":2,"wis":12,"cha":6,"senses":["blindsight
+    60 ft."],"passive":11,"cr":"1/4","trait":[{"name":"Echolocation","entries":["The
+    bat can''t use its blindsight while {@condition deafened}."]},{"name":"Keen Hearing","entries":["The
+    bat has advantage on Wisdom ({@skill Perception}) checks that rely on hearing."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) piercing
+    damage."]}],"environment":["underdark","forest"],"soundClip":{"type":"internal","path":"bestiary/giant-bat.mp3"},"traitTags":["Keen
+    Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 135c6c5fc0785631cc4da8317b5343e5

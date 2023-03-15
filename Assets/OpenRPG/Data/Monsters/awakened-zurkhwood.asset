@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: awakened-zurkhwood
+  m_EditorClassIdentifier: 
+  Title: Awakened Zurkhwood
+  AsJson: '{"name":"Awakened Zurkhwood","source":"OotA","page":230,"size":["H"],"type":"plant","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":59,"formula":"7d12 + 14"},"speed":{"walk":20},"str":19,"dex":6,"con":15,"int":10,"wis":10,"cha":7,"senses":["darkvision
+    120 ft."],"passive":10,"resist":["bludgeoning","piercing"],"vulnerable":["fire"],"languages":["one
+    language known by its creator"],"cr":"2","trait":[{"name":"False Appearance","entries":["While
+    the tree remains motionless, it is indistinguishable from a normal zurkhwood
+    mushroom."]},{"name":"Mute","entries":["If the awakened zurkhwood was created
+    by a myconid sovereign, it can''t speak."]}],"action":[{"name":"Slam","entries":["{@atk
+    mw} {@hit 6} to hit, reach 10 ft., one target. {@h}14 ({@damage 3d6 + 4}) bludgeoning
+    damage."]}],"traitTags":["False Appearance"],"senseTags":["SD"],"damageTags":["B"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true}'
+  DataHash: 092796c63c285cea675c266025e33ff5

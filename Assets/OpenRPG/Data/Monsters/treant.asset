@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: treant
+  m_EditorClassIdentifier: 
+  Title: Treant
+  AsJson: '{"name":"Treant","source":"MM","page":289,"srd":true,"otherSources":[{"source":"RoT"},{"source":"SKT"},{"source":"WDH"},{"source":"GoS"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"JttRC"},{"source":"LoX"},{"source":"DSotDQ"}],"size":["H"],"type":"plant","alignment":["C","G"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":138,"formula":"12d12 + 60"},"speed":{"walk":30},"str":23,"dex":8,"con":21,"int":12,"wis":16,"cha":12,"passive":13,"resist":["bludgeoning","piercing"],"vulnerable":["fire"],"languages":["Common","Druidic","Elvish","Sylvan"],"cr":"9","trait":[{"name":"False
+    Appearance","entries":["While the treant remains motionless, it is indistinguishable
+    from a normal tree."]},{"name":"Siege Monster","entries":["The treant deals double
+    damage to objects and structures."]}],"action":[{"name":"Multiattack","entries":["The
+    treant makes two slam attacks."]},{"name":"Slam","entries":["{@atk mw} {@hit
+    10} to hit, reach 5 ft., one target. {@h}16 ({@damage 3d6 + 6}) bludgeoning damage."]},{"name":"Rock","entries":["{@atk
+    rw} {@hit 10} to hit, range 60/180 ft., one target. {@h}28 ({@damage 4d10 + 6})
+    bludgeoning damage."]},{"name":"Animate Trees (1/Day)","entries":["The treant
+    magically animates one or two trees it can see within 60 feet of it. These trees
+    have the same statistics as a {@creature treant}, except they have Intelligence
+    and Charisma scores of 1, they can''t speak, and they have only the Slam action
+    option. An animated tree acts as an ally of the treant. The tree remains animate
+    for 1 day or until it dies; until the treant dies or is more than 120 feet from
+    the tree; or until the treant takes a bonus action to turn it back into an inanimate
+    tree. The tree then takes root if possible."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/treant.mp3"},"traitTags":["False
+    Appearance","Siege Monster"],"actionTags":["Multiattack"],"languageTags":["C","DU","E","S"],"damageTags":["B"],"miscTags":["MW","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 7829adf2d357cd2d170665d1d53da64a

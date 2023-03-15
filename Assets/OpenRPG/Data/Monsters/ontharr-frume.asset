@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ontharr-frume
+  m_EditorClassIdentifier: 
+  Title: Ontharr Frume
+  AsJson: '{"name":"Ontharr Frume","isNpc":true,"source":"HotDQ","page":28,"otherSources":[{"source":"ToD","page":15}],"_copy":{"name":"War
+    Priest","source":"VGM","_mod":{"trait":{"mode":"prependArr","items":{"name":"5etools
+    Note","entries":["Ontharr Frume is presented in {@adventure Hoard of the Dragon
+    Queen|HotDQ} and The {@adventure Rise of Tiamat|RoT} as a lawful good, human
+    paladin of Torm. The {@creature war priest|vgm} stat block from {@book Volo''s
+    Guide to Monsters|VGM} has been provided here for ease of use."]}}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+  DataHash: 81a65288ee058409001d1b62039bd524

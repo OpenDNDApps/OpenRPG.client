@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ettercap
+  m_EditorClassIdentifier: 
+  Title: Ettercap
+  AsJson: '{"name":"Ettercap","source":"MM","page":131,"srd":true,"otherSources":[{"source":"HotDQ"},{"source":"RoT"},{"source":"SKT"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"EGW"},{"source":"CM"},{"source":"WBtW"}],"size":["M"],"type":"monstrosity","alignment":["N","E"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":44,"formula":"8d8 + 8"},"speed":{"walk":30,"climb":30},"str":14,"dex":15,"con":13,"int":7,"wis":12,"cha":8,"skill":{"perception":"+3","stealth":"+4","survival":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"cr":"2","trait":[{"name":"Spider Climb","entries":["The
+    ettercap can climb difficult surfaces, including upside down on ceilings, without
+    needing to make an ability check."]},{"name":"Web Sense","entries":["While in
+    contact with a web, the ettercap knows the exact location of any other creature
+    in contact with the same web."]},{"name":"Web Walker","entries":["The ettercap
+    ignores movement restrictions caused by webbing."]}],"action":[{"name":"Multiattack","entries":["The
+    ettercap makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d8 + 2}) piercing
+    damage plus 4 ({@damage 1d8}) poison damage. The target must succeed on a {@dc
+    11} Constitution saving throw or be {@condition poisoned} for 1 minute. The creature
+    can repeat the saving throw at the end of each of its turns, ending the effect
+    on itself on a success."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to
+    hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) slashing damage."]},{"name":"Web
+    {@recharge 5}","entries":["{@atk rw} {@hit 4} to hit, range 30/60 ft., one Large
+    or smaller creature. {@h}The creature is {@condition restrained} by webbing.
+    As an action, the {@condition restrained} creature can make a {@dc 11} Strength
+    check, escaping from the webbing on a success. The effect ends if the webbing
+    is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage
+    and immune to bludgeoning, poison and psychic damage."]}],"variant":[{"type":"variant","name":"Web
+    Garrote","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one Medium or Small
+    creature against which the ettercap has advantage on the attack roll. {@h}4 ({@damage
+    1d4 + 2}) bludgeoning damage, and the target is {@condition grappled} (escape
+    {@dc 12}). Until this grapple ends, the target can''t breathe, and the ettercap
+    has advantage on attack rolls against it."],"_version":{"name":"Ettercap (Web
+    Garrote)","addAs":"action"}}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/ettercap.mp3"},"traitTags":["Spider
+    Climb","Web Sense","Web Walker"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["B","I","P","S"],"miscTags":["MW","RW"],"conditionInflict":["grappled","poisoned","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 10bfe3c5174866d6dba387c0f6e87eeb

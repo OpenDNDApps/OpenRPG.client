@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dwarf
+  m_EditorClassIdentifier: 
+  Title: Dwarf
+  AsJson: '{"name":"Dwarf","source":"AWM","page":32,"size":["M"],"type":{"type":"humanoid","tags":["Dwarf"]},"alignment":["L","G"],"ac":[10],"hp":{"special":"30"},"speed":{"walk":25},"str":16,"dex":13,"con":14,"int":10,"wis":11,"cha":10,"passive":0,"cr":"1/4","trait":[{"name":"Dwarven
+    Resilience","entries":["They have advantage on saving throws against poison,
+    and they have resistance to poison damage."]}],"action":[{"name":"Shortbow","entries":["{@atk
+    mw} {@hit 3} to hit, one target. {@h}4 ({@damage 1d6 + 1}) slashing damage."]}],"damageTags":["S"],"miscTags":["MW","RNG"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 5dd08b185b45086c51cdac5d94ae1c73

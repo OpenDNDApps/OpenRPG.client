@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: splugoth-the-returned
+  m_EditorClassIdentifier: 
+  Title: Splugoth the Returned
+  AsJson: '{"name":"Splugoth the Returned","source":"AI","page":213,"size":["S"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["N","E"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":27,"formula":"6d6 + 6"},"speed":{"walk":30},"str":10,"dex":14,"con":12,"int":14,"wis":11,"cha":10,"save":{"int":"+4","wis":"+2"},"skill":{"stealth":"+6"},"senses":["darkvision
+    60 ft."],"passive":10,"languages":["Common","Draconic","Elvish","Goblin"],"cr":"2","trait":[{"name":"Defensive
+    Advantage","entries":["As long as two or more of Splugoth''s allies are within
+    5 feet of him and are not {@condition incapacitated}, attack rolls against him
+    are made with disadvantage."]},{"name":"Nimble Escape","entries":["Splugoth can
+    take the Disengage or Hide action as a bonus action on each of his turns."]},{"name":"Touch
+    of Madness","entries":["Splugoth has advantage on saving throws against being
+    {@condition charmed} or {@condition frightened}."]}],"action":[{"name":"Multiattack","entries":["Splugoth
+    makes two attacks with his dagger."]},{"name":"Dagger","entries":["{@atk mw}
+    {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) slashing
+    damage."]},{"name":"Word From Beyond (1/Day)","entries":["Splugoth remembers
+    and repeats aloud a few words from a place he entered while walking back from
+    the next world to this one. Each creature of his choice within 30 feet of him
+    that can hear him must succeed on a {@dc 12} Wisdom saving throw or be {@condition
+    stunned} until the end of its next turn."]}],"reaction":[{"name":"Absorb Attack","entries":["When
+    a creature Splugoth can see hits him with a melee weapon attack, the weapon snags
+    on a pocket of residual resurrectional energy and is caught fast. The attack
+    is negated and the weapon cannot be used until the creature succeeds on a {@dc
+    12} Strength (Athletics) check as an action to pull it out of Splugoth. Natural
+    weapons can have their attacks negated by this feature, but can then be retracted
+    automatically at the end of the attacking creature''s turn."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","DR","E","GO"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 750f1b4522ba61cf2e67a47f3435ac68

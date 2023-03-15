@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: glass-pegasus
+  m_EditorClassIdentifier: 
+  Title: Glass Pegasus
+  AsJson: '{"name":"Glass Pegasus","source":"WBtW","page":181,"size":["L"],"type":"construct","alignment":["C","G"],"ac":[{"ac":15,"condition":"while
+    animated and 13 otherwise"}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":60,"fly":90},"str":18,"dex":15,"con":16,"int":10,"wis":15,"cha":13,"save":{"dex":"+4","wis":"+4","cha":"+3"},"skill":{"perception":"+6"},"passive":16,"conditionImmune":["charmed","exhaustion","frightened","paralyzed","petrified"],"languages":["Celestial","Common","Elvish
+    and Sylvan but can''t speak"],"cr":"2","action":[{"name":"Hooves","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+    damage."]}],"languageTags":["C","CE","CS","E","S"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 1a79feb0c7b41ca66279f9cbd1019fcc

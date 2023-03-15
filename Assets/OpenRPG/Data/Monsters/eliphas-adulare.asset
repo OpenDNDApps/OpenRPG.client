@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: eliphas-adulare
+  m_EditorClassIdentifier: 
+  Title: Eliphas Adulare
+  AsJson: '{"name":"Eliphas Adulare","isNpc":true,"isNamedCreature":true,"source":"KftGV","page":188,"_copy":{"name":"Werebear","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"the
+    werebear","with":"Eliphas","flags":"i"}]}},"int":18,"spellcasting":[{"name":"Spellcasting
+    (Humanoid or Hybrid Form Only)","headerEntries":["Eliphas casts one of the following
+    spells, using Intelligence as the spellcasting ability (save {@dc 15}):"],"will":["{@spell
+    light}","{@spell minor illusion}","{@spell prestidigitation}"],"daily":{"2e":["{@spell
+    detect magic}","{@spell fog cloud}"],"1e":["{@spell phantasmal force}","{@spell
+    shatter}"]},"ability":"int","displayAs":"action"}],"hasFluff":true}'
+  DataHash: 8f60cf4d823a06f80fbd4dbc04a0d541

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sergeant
+  m_EditorClassIdentifier: 
+  Title: Sergeant
+  AsJson: '{"name":"Sergeant","source":"WDH","page":197,"_copy":{"name":"Guard","source":"MM"},"hasToken":true}'
+  DataHash: ae3bb8474a1b5cab9542f67b901abe8f

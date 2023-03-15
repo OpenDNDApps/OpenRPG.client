@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: master-of-cruelties
+  m_EditorClassIdentifier: 
+  Title: Master of Cruelties
+  AsJson: '{"name":"Master of Cruelties","source":"GGR","page":196,"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":127,"formula":"15d10 + 45"},"speed":{"walk":30},"str":18,"dex":17,"con":16,"int":19,"wis":16,"cha":21,"save":{"con":"+7","int":"+8","wis":"+7","cha":"+9"},"skill":{"deception":"+9","intimidation":"+9","performance":"+9","persuasion":"+9"},"senses":["truesight
+    120 ft."],"passive":13,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common","telepathy
+    120 ft."],"cr":"9","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    master''s innate spellcasting ability is Charisma (spell save {@dc 17}). The
+    master can innately cast the following spells, requiring no material components:"],"will":["{@spell
+    charm person} (as a 3rd-level spell)","{@spell crown of madness}"],"daily":{"1":["{@spell
+    dominate person}"]},"ability":"cha"}],"trait":[{"name":"Aura of Blood Lust","entries":["When
+    any other creature starts its turn within 30 feet of the master, that creature
+    must succeed on a {@dc 17} Wisdom saving throw, or it must immediately take the
+    Attack action, making one melee attack against a random creature within reach.
+    If no creatures are within reach, it makes a ranged attack against a random creature
+    within range, throwing its weapon if necessary."]},{"name":"Feed on the Crowd","entries":["Whenever
+    a creature within 60 feet of the master dies, the master gains 15 temporary hit
+    points and has advantage on all attack rolls, ability checks, and saving throws
+    until the end of its next turn."]},{"name":"Magic Resistance","entries":["The
+    master has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    master makes two melee attacks with its spear."]},{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 8} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}11 ({@damage
+    2d6 + 4}) piercing damage, or 13 ({@damage 2d8 + 4}) piercing damage if used
+    with two hands to make a melee attack, plus 13 ({@damage 3d8}) psychic damage."]},{"name":"Captivating
+    Presence {@recharge}","entries":["Each creature within 120 feet of the master
+    must succeed on a {@dc 17} Wisdom saving throw or be {@condition charmed} by
+    the master for 1 hour. While {@condition charmed} in this way, a creature''s
+    speed is 0. If the {@condition charmed} creature takes damage, it can repeat
+    the saving throw, ending the effect on itself on a success. A target that succeeds
+    on the saving throw is immune to the Captivating Presence of all masters of cruelties
+    for the next 24 hours."]}],"traitTags":["Magic Resistance"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["AB","C","TP"],"damageTags":["P","Y"],"spellcastingTags":["I"],"miscTags":["MW","RW","THW"],"conditionInflict":["charmed"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d677d1e2da20318e03befd6ff656282a

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: grimzod-gargenhale
+  m_EditorClassIdentifier: 
+  Title: Grimzod Gargenhale
+  AsJson: '{"name":"Grimzod Gargenhale","isNpc":true,"isNamedCreature":true,"source":"LoX","page":32,"_copy":{"name":"Vampirate
+    Captain","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Grimzod","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+  DataHash: 1de0ccddbf2380b36ca4ca134933811b

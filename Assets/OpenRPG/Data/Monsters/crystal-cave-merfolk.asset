@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: crystal-cave-merfolk
+  m_EditorClassIdentifier: 
+  Title: Crystal Cave Merfolk
+  AsJson: '{"name":"Crystal Cave Merfolk","source":"AWM","page":31,"size":["M"],"type":{"type":"humanoid","tags":["merfolk"]},"alignment":["N"],"ac":[11],"hp":{"special":"11"},"speed":{"walk":10,"swim":40},"str":10,"dex":13,"con":12,"int":11,"wis":11,"cha":12,"passive":0,"cr":"1/8","trait":[{"name":"Amphibious","entries":["The
+    merfolk can breathe air and water."]},{"name":"Siren Song","entries":["Lovely
+    singing voices charm every humanoid or giant within 300 feet. The targets must
+    succeed on a {@dc 11} Wisdom saving throw or be {@condition charmed} until the
+    song ends."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 2} to hit,
+    one target. {@h}3 ({@damage 1d6}) piercing damage."]}],"traitTags":["Amphibious"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: d450c6ebd4c780069b481d2977636ca2

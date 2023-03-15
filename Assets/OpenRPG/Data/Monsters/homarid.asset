@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: homarid
+  m_EditorClassIdentifier: 
+  Title: Homarid
+  AsJson: '{"name":"Homarid","source":"PSD","page":15,"size":["M"],"type":"monstrosity","alignment":["C","E"],"ac":[{"ac":14,"from":["natural
+    armor"]}],"hp":{"average":44,"formula":"8d8 + 8"},"speed":{"walk":20,"swim":30},"str":13,"dex":8,"con":13,"int":9,"wis":14,"cha":10,"skill":{"perception":"+4","stealth":"+3"},"senses":["darkvision
+    60 ft."],"passive":14,"languages":["Homarid"],"cr":"1","trait":[{"name":"Amphibious","entries":["The
+    homarid can breathe air and water."]}],"action":[{"name":"Multiattack","entries":["The
+    homarid makes two claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit
+    3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage,
+    and the target is {@condition grappled} (escape {@dc 11}). The homarid has two
+    claws, each of which can grapple only one target."]}],"traitTags":["Amphibious"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["OTH"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true}'
+  DataHash: 6940e530ed348873674a5deca3e12995

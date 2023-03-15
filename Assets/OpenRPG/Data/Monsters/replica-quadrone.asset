@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: replica-quadrone
+  m_EditorClassIdentifier: 
+  Title: Replica Quadrone
+  AsJson: '{"name":"Replica Quadrone","source":"OoW","page":132,"_copy":{"name":"Quadrone","source":"MM","_mod":{"trait":{"mode":"replaceArr","replace":"Disintegration","items":{"name":"Dismantlable","entries":["If
+    the replica quadrone dies, its body falls into a pile of parts (gears, plates,
+    screws, and wires), leaving behind its weapons and anything else it was carrying."]}}}},"speed":{"walk":30},"senses":["darkvision
+    60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
+    responses"],"languageTags":["C","OTH"],"hasToken":true}'
+  DataHash: a1c621c707a05e00d918838081146f41

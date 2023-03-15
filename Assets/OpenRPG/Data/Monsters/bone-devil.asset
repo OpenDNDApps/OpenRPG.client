@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: bone-devil
+  m_EditorClassIdentifier: 
+  Title: Bone Devil
+  AsJson: '{"name":"Bone Devil","source":"MM","page":71,"srd":true,"otherSources":[{"source":"RoT"},{"source":"ToA"},{"source":"WDMM"},{"source":"DC"},{"source":"DIP"},{"source":"BGDIA"},{"source":"EGW"},{"source":"DSotDQ"}],"size":["L"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":19,"from":["natural
+    armor"]}],"hp":{"average":142,"formula":"15d10 + 60"},"speed":{"walk":40,"fly":40},"str":18,"dex":16,"con":18,"int":13,"wis":14,"cha":16,"save":{"int":"+5","wis":"+6","cha":"+7"},"skill":{"deception":"+7","insight":"+6"},"senses":["darkvision
+    120 ft."],"passive":12,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t silvered","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Infernal","telepathy
+    120 ft."],"cr":"9","trait":[{"name":"Devil''s Sight","entries":["Magical darkness
+    doesn''t impede the devil''s darkvision."]},{"name":"Magic Resistance","entries":["The
+    devil has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    devil makes three attacks: two with its claws and one with its sting."]},{"name":"Claw","entries":["{@atk
+    mw} {@hit 8} to hit, reach 10 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing
+    damage."]},{"name":"Sting","entries":["{@atk mw} {@hit 8} to hit, reach 10 ft.,
+    one target. {@h}13 ({@damage 2d8 + 4}) piercing damage plus 17 ({@damage 5d6})
+    poison damage, and the target must succeed on a {@dc 14} Constitution saving
+    throw or become {@condition poisoned} for 1 minute. The target can repeat the
+    saving throw at the end of each of its turns, ending the effect on itself on
+    a success."]}],"variant":[{"type":"variant","name":"Bone Devil Polearm","entries":["Some
+    bone devils have the following action options.",{"name":"Multiattack","type":"entries","entries":["The
+    devil makes two attacks: one with its hooked polearm and one with its sting."]},{"name":"Hooked
+    Polearm","type":"entries","entries":["{@atk mw} {@hit 8} to hit, reach 10 ft.,
+    one target. {@h}17 ({@damage 2d12 + 4}) piercing damage. If the target is a Huge
+    or smaller creature, it is {@condition grappled} (escape {@dc 14}). Until this
+    grapple ends, the devil can''t use its polearm on another target."]}],"_version":{"name":"Bone
+    Devil (Polearm)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/bone-devil.mp3"},"traitTags":["Devil''s
+    Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["I","P","S"],"miscTags":["MW","RCH"],"conditionInflict":["grappled","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: d5cfc6d87b457a85f2e6faa0d722a606

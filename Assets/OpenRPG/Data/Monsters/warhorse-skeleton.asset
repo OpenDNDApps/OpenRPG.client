@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: warhorse-skeleton
+  m_EditorClassIdentifier: 
+  Title: Warhorse Skeleton
+  AsJson: '{"name":"Warhorse Skeleton","source":"MM","page":273,"srd":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"CM"},{"source":"DSotDQ"}],"size":["L"],"type":"undead","alignment":["L","E"],"ac":[{"ac":13,"from":["barding
+    scraps"]}],"hp":{"average":22,"formula":"3d10 + 6"},"speed":{"walk":60},"str":18,"dex":12,"con":15,"int":2,"wis":8,"cha":5,"senses":["darkvision
+    60 ft."],"passive":9,"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"cr":"1/2","action":[{"name":"Hooves","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+    damage."]}],"soundClip":{"type":"internal","path":"bestiary/warhorse-skeleton.mp3"},"senseTags":["D"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: fb5d33f99c6d8c725dec822321930fbe

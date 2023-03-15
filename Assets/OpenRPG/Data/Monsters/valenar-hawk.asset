@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: valenar-hawk
+  m_EditorClassIdentifier: 
+  Title: Valenar Hawk
+  AsJson: '{"name":"Valenar Hawk","source":"ERLW","page":312,"size":["T"],"type":"fey","alignment":["N"],"ac":[14],"hp":{"average":10,"formula":"4d4"},"speed":{"walk":10,"fly":60},"str":8,"dex":18,"con":10,"int":9,"wis":16,"cha":11,"skill":{"perception":"+5"},"passive":15,"languages":["understands
+    Common","Elvish","and Sylvan but can''t speak"],"cr":"1/8","trait":[{"name":"Bonding","entries":["The
+    hawk can magically bond with one creature it can see, immediately after spending
+    at least 1 hour observing that creature while within 30 feet of it. The bond
+    lasts until the hawk bonds with a different creature or until the bonded creature
+    dies. While bonded, the hawk and the bonded creature can communicate telepathically
+    with each other at a distance of up to 100 feet."]},{"name":"Keen Sight","entries":["The
+    hawk has advantage on Wisdom (Perception) checks that rely on sight."]}],"action":[{"name":"Talons","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d4 + 4}) slashing
+    damage."]}],"traitTags":["Keen Senses"],"languageTags":["C","CS","E","S"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 411518eae04059bf5c59e7c6746ced41

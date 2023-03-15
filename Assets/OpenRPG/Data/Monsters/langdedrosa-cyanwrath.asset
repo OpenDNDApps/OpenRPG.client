@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: langdedrosa-cyanwrath
+  m_EditorClassIdentifier: 
+  Title: Langdedrosa Cyanwrath
+  AsJson: '{"name":"Langdedrosa Cyanwrath","isNpc":true,"source":"HotDQ","page":91,"otherSources":[{"source":"ToD","page":186}],"size":["M"],"type":{"type":"humanoid","tags":["half-dragon"]},"alignment":["L","E"],"ac":[{"ac":17,"from":["{@item
+    splint armor|phb}"]}],"hp":{"average":57,"formula":"6d12 + 18"},"speed":{"walk":30},"str":19,"dex":13,"con":16,"int":10,"wis":14,"cha":12,"save":{"str":"+6","con":"+5"},"skill":{"athletics":"+6","intimidation":"+3","perception":"+4"},"senses":["blindsight
+    10 ft.","darkvision 60 ft."],"passive":14,"resist":["lightning"],"languages":["Common","Draconic"],"cr":"4","trait":[{"name":"Action
+    Surge (Recharges on a Short or Long Rest)","entries":["On his turn, Langdedrosa
+    can take one additional action."]},{"name":"Improved Critical","entries":["Langdedrosa''s
+    weapon attacks score a critical hit on a roll of 19 or 20."]}],"action":[{"name":"Multiattack","entries":["Langdedrosa
+    attacks twice, either with his greatsword or spear."]},{"name":"Greatsword","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing
+    damage."]},{"name":"Spear","entries":["{@atk mw,rw} {@hit 6} to hit, reach 5
+    ft. or ranged 20/60 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."]},{"name":"Lightning
+    Breath {@recharge 5}","entries":["Langdedrosa breathes lightning in a 30-foot
+    line that is 5 feet wide. Each creature in the line must make a {@dc 13} Dexterity
+    saving throw, taking 22 ({@damage 4d10}) lightning damage on a failed save, or
+    half as much damage on a successful one."]}],"senseTags":["B","D"],"actionTags":["Breath
+    Weapon","Multiattack"],"languageTags":["C","DR"],"damageTags":["L","P","S"],"miscTags":["AOE","MW","RW","THW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 40cc2b02a153657e551a6c9122bec68c

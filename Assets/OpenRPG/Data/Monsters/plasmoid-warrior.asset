@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: plasmoid-warrior
+  m_EditorClassIdentifier: 
+  Title: Plasmoid Warrior
+  AsJson: '{"name":"Plasmoid Warrior","source":"BAM","page":43,"size":["M"],"type":"ooze","alignment":["A"],"ac":[{"ac":16,"from":["natural
+    armor","{@item shield|PHB}"]}],"hp":{"average":71,"formula":"11d8 + 22"},"speed":{"walk":30},"str":16,"dex":14,"con":14,"int":10,"wis":11,"cha":10,"skill":{"athletics":"+5","stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":14,"resist":["acid","poison"],"languages":["Common"],"cr":"3","trait":[{"name":"Amorphous","entries":["The
+    plasmoid can squeeze through a space as narrow as 1 inch wide, provided it is
+    wearing and carrying nothing. It has advantage on ability checks it makes to
+    initiate or escape a grapple."]},{"name":"Hold Breath","entries":["The plasmoid
+    can hold its breath for 1 hour."]}],"action":[{"name":"Multiattack","entries":["The
+    plasmoid makes three Pseudopod attacks. It can replace one of those attacks with
+    a Spear or Pistol attack."]},{"name":"Pseudopod","entries":["{@atk mw} {@hit
+    5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage."]},{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@dice
+    1d6 + 3}) piercing damage, or 7 ({@damage 1d8 + 3}) piercing damage when used
+    with two hands to make a melee attack."]},{"name":"Pistol","entries":["{@atk
+    rw} {@hit 4} to hit, range 30/90 ft., one target. {@h}7 ({@damage 1d10 + 2})
+    piercing damage."]}],"traitTags":["Amorphous","Hold Breath"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 099eb2632b636f6d910594b5f30c3819

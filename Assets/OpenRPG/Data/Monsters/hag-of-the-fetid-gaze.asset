@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hag-of-the-fetid-gaze
+  m_EditorClassIdentifier: 
+  Title: Hag of the Fetid Gaze
+  AsJson: '{"name":"Hag of the Fetid Gaze","source":"CM","page":76,"_copy":{"name":"Green
+    Hag","source":"MM","_mod":{"spellcasting":{"mode":"appendArr","items":{"name":"Shared
+    Spellcasting (Coven Only)","headerEntries":["While all three members of a hag
+    coven are within 30 feet of one another, they can each cast the following spells
+    from the wizard''s spell list but must share the spell slots among themselves:"],"spells":{"1":{"slots":4,"spells":["{@spell
+    charm person}","{@spell witch bolt}"]},"2":{"slots":3,"spells":["{@spell alter
+    self}","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell dispel magic}","{@spell
+    glyph of warding}","{@spell slow}"]},"4":{"slots":3,"spells":["{@spell blight}","{@spell
+    polymorph}"]},"5":{"slots":2,"spells":["{@spell dominate person}","{@spell seeming}"]},"6":{"slots":1,"spells":["{@spell
+    Otto''s irresistible dance}"]}},"footerEntries":["For casting these spells, each
+    hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability.
+    The spell save DC is 12 + the hag''s Intelligence modifier, and the spell attack
+    bonus is 4 + the hag''s Intelligence modifier."]}}}},"damageTagsSpell":["A","B","C","F","L","N","P","S","T","Y"],"spellcastingTags":["CW","I","S"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 6c118eb36196c0c4745821f49ed6bae6

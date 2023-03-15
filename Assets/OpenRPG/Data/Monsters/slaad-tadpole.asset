@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: slaad-tadpole
+  m_EditorClassIdentifier: 
+  Title: Slaad Tadpole
+  AsJson: '{"name":"Slaad Tadpole","source":"MM","page":276,"otherSources":[{"source":"EGW"},{"source":"IDRotF"},{"source":"CM"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["T"],"type":"aberration","alignment":["C","N"],"ac":[12],"hp":{"average":10,"formula":"4d4"},"speed":{"walk":30},"str":7,"dex":15,"con":10,"int":3,"wis":5,"cha":3,"skill":{"stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":7,"resist":["acid","cold","fire","lightning","thunder"],"languages":["understands
+    Slaad but can''t speak"],"cr":"1/8","trait":[{"name":"Magic Resistance","entries":["The
+    slaad has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]}],"soundClip":{"type":"internal","path":"bestiary/slaad-tadpole.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["D"],"languageTags":["CS","OTH"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2fb22779032def590cb7aea7b42f286a

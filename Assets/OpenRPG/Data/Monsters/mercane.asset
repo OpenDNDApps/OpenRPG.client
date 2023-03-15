@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mercane
+  m_EditorClassIdentifier: 
+  Title: Mercane
+  AsJson: '{"name":"Mercane","source":"BAM","page":37,"otherSources":[{"source":"LoX"}],"size":["L"],"type":"celestial","alignment":["L","N"],"alignmentPrefix":"typically
+    ","ac":[{"ac":13,"from":["{@spell mage armor}"]}],"hp":{"average":75,"formula":"10d10
+    + 20"},"speed":{"walk":30},"str":16,"dex":10,"con":15,"int":18,"wis":16,"cha":15,"save":{"int":"+7","wis":"+6","cha":"+5"},"skill":{"insight":"+9","perception":"+6","persuasion":"+5"},"passive":16,"languages":["Common","Giant","telepathy
+    60 ft. (see also Mercane telepathy)"],"cr":"5","spellcasting":[{"name":"Spellcasting
+    (Psionics)","headerEntries":["The mercane casts one of the following spells,
+    requiring no spell components and using Intelligence as the spellcasting ability
+    (spell save {@dc 15}):"],"will":["{@spell detect magic}","{@spell light}"],"daily":{"1e":["{@spell
+    dimension door}","{@spell invisibility}","{@spell mage armor} (self only)"]},"ability":"int","displayAs":"action"}],"trait":[{"name":"Mercane
+    Telepathy","entries":["The mercane can communicate telepathically with any other
+    mercane it knows, regardless of the distance between them."]}],"action":[{"name":"Multiattack","entries":["The
+    mercane makes three Psi-Imbued Blade attacks."]},{"name":"Psi-Imbued Blade","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing
+    damage, and if the target is a creature, it must succeed on a {@dc 15} Wisdom
+    saving throw or be {@condition frightened} of the mercane until the end of the
+    target''s next turn."]}],"actionTags":["Multiattack"],"languageTags":["C","GI","TP"],"damageTags":["S"],"damageTagsSpell":["O"],"spellcastingTags":["P"],"miscTags":["MW"],"conditionInflict":["frightened"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: a31665768e065bb921430dd9e704db9e

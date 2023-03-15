@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: ayo-jabe-tier-2
+  m_EditorClassIdentifier: 
+  Title: Ayo Jabe (Tier 2)
+  AsJson: '{"name":"Ayo Jabe (Tier 2)","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":190,"size":["M"],"type":{"type":"humanoid","tags":["ranger",{"tag":"genasi","prefix":"Water"}]},"alignment":["C","G"],"ac":[{"ac":15,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":97,"formula":"15d8
+    + 30"},"speed":{"walk":30,"swim":30},"str":14,"dex":16,"con":14,"int":10,"wis":14,"cha":12,"save":{"str":"+5","dex":"+6"},"skill":{"athletics":"+5","perception":"+5","survival":"+5"},"passive":15,"resist":["acid"],"languages":["Common","Goblin","Orc"],"cr":"5","spellcasting":[{"name":"Spellcasting","headerEntries":["Ayo
+    casts one of the following spells, using Wisdom as the spellcasting ability (spell
+    save {@dc 13}):"],"daily":{"1e":["{@spell animal friendship}","{@spell goodberry}","{@spell
+    pass without trace}"]},"ability":"wis","displayAs":"action"}],"trait":[{"name":"Amphibious","entries":["Ayo
+    can breathe air and water."]}],"action":[{"name":"Multiattack","entries":["Ayo
+    makes three Harpoon or Longbow attacks."]},{"name":"Harpoon","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) piercing
+    damage."]},{"name":"Longbow","entries":["{@atk rw} {@hit 6} to hit, range 150/600
+    ft., one target. {@h}12 ({@damage 2d8 + 3}) piercing damage."]}],"bonus":[{"name":"Reposition","entries":["Ayo
+    issues orders to one ally she can see within 30 feet of herself. If the target
+    can see or hear Ayo, it can spend its reaction to move up to its speed. This
+    movement doesn''t provoke opportunity attacks."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"languageTags":["C","GO","O"],"damageTags":["P"],"spellcastingTags":["O"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true}'
+  DataHash: 09ce1820fe84252cec573a5f7fa5f96e

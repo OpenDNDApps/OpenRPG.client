@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: host-of-herons-angel
+  m_EditorClassIdentifier: 
+  Title: Host of Herons Angel
+  AsJson: '{"name":"Host of Herons Angel","source":"PSI","page":26,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"deva","with":"angel"},"trait":{"mode":"appendArr","items":{"name":"Heron
+    Protection","entries":["Whenever an angel of the Host of Herons or a friendly
+    creature within 10 feet of it makes a saving throw, the creature gains a bonus
+    to the saving throw equal to the angel''s Charisma modifier. The angel must be
+    conscious to receive or grant this bonus."]}}}},"hasToken":true}'
+  DataHash: 45f431827cf3c5fcc6e6a7c284358cab

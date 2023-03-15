@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: warrior-spirit
+  m_EditorClassIdentifier: 
+  Title: Warrior Spirit
+  AsJson: '{"name":"Warrior Spirit","source":"UA2022WondersOfTheMultiverse","page":11,"size":["M"],"type":"undead","ac":[{"special":"13
+    + the level of the spell +2 (Fighter only)"}],"hp":{"special":"30 (Barbarian
+    and Fighter only) or 20 (Monk only) + 10 for each spell level above 3rd"},"speed":{"walk":30,"alternate":{"walk":[{"number":40,"condition":"(monk
+    only)"}]}},"str":16,"dex":16,"con":14,"int":10,"wis":16,"cha":9,"save":{"str":"+3","dex":"+3"},"passive":13,"resist":["poison"],"conditionImmune":["charmed","poisoned"],"languages":["Common","understands
+    the languages you speak"],"pbNote":"equals your bonus","action":[{"name":"Multiattack","entries":["The
+    warrior makes a number of attacks equal to half this spell''s level (rounded
+    down)."]},{"name":"Reckless Strike (Barbarian Only)","entries":["{@atk mw} your
+    spell attack modifier to hit (with advantage), reach 5 ft., one target. {@h}{@damage
+    1d12 + 3} + the spell''s level slashing damage, and attacks made against the
+    warrior until the start of its next turn are made with advantage."]},{"name":"Rallying
+    Strike (Fighter Only)","entries":["{@atk mw,rw} your spell attack modifier to
+    hit, reach 5 ft., or range 20/60 ft., one target. {@h}{@damage 1d6 + 3} + the
+    spell''s level piercing damage, and the warrior can choose another creature it
+    can see within 20 feet of itself. The chosen creature gains {@dice 1d6} temporary
+    hit points."]},{"name":"Unarmed Strike (Monk Only)","entries":["{@atk mw} your
+    spell attack modifier to hit, reach 5 ft., one target. {@h}{@damage 1d4 + 3}
+    + the spell''s level bludgeoning damage, and the target must succeed on a Strength
+    saving throw against your spell save DC or be knocked {@condition prone}."]}],"bonus":[{"name":"Flurry
+    of Blows (Monk Only)","entries":["The monk makes one Unarmed Strike attack."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["B","P","S"],"miscTags":["MW","RW"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: bc68cc2022c95383b9e8dc3c6a2211fa

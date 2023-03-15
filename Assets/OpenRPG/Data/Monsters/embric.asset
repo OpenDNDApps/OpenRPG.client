@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: embric
+  m_EditorClassIdentifier: 
+  Title: Embric
+  AsJson: '{"name":"Embric","isNpc":true,"source":"WDH","page":32,"_copy":{"name":"Bandit
+    Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Embric","flags":"i"}}},"type":{"type":"humanoid","tags":[{"tag":"genasi","prefix":"Fire"}]},"alignment":["N","G"],"senses":["darkvision
+    60 ft."],"languages":["Common","Primordial"],"spellcasting":[{"name":"Innate
+    Spellcasting","headerEntries":["Embric''s spellcasting ability is Constitution
+    ({@hit 4} to hit with spell attacks). He can innately cast the following spells,
+    requiring no material components:"],"will":["{@spell produce flame}"],"ability":"con"}],"senseTags":["D"],"languageTags":["C","P"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true,"hasFluff":true}'
+  DataHash: 3f2686c13f18109bcf9c67558b47f95e

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: killer-whale
+  m_EditorClassIdentifier: 
+  Title: Killer Whale
+  AsJson: '{"name":"Killer Whale","source":"MM","page":331,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"GoS"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":90,"formula":"12d12 + 12"},"speed":{"swim":60},"str":19,"dex":10,"con":13,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3"},"senses":["blindsight
+    120 ft."],"passive":13,"cr":"3","trait":[{"name":"Echolocation","entries":["The
+    whale can''t use its blindsight while {@condition deafened}."]},{"name":"Hold
+    Breath","entries":["The whale can hold its breath for 30 minutes."]},{"name":"Keen
+    Hearing","entries":["The whale has advantage on Wisdom ({@skill Perception})
+    checks that rely on hearing."]}],"action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 6} to hit, reach 5 ft., one target. {@h}21 ({@damage 5d6 + 4}) piercing
+    damage."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/killer-whale.mp3"},"traitTags":["Hold
+    Breath","Keen Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 7bb1e27bbbc217ab3d0922b1d3f854d2

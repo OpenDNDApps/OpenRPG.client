@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: quandrix-pledgemage
+  m_EditorClassIdentifier: 
+  Title: Quandrix Pledgemage
+  AsJson: '{"name":"Quandrix Pledgemage","source":"SCC","page":208,"size":["S","M"],"type":{"type":"humanoid","tags":["wizard"]},"alignment":["A"],"ac":[12],"hp":{"average":66,"formula":"12d8
+    + 12"},"speed":{"walk":30},"str":10,"dex":14,"con":13,"int":17,"wis":14,"cha":11,"save":{"int":"+5","wis":"+4"},"skill":{"arcana":"+7","investigation":"+7","nature":"+5"},"passive":12,"languages":["Common
+    plus any two languages"],"cr":"4","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    pledgemage casts one of the following spells, requiring no material components
+    and using Intelligence as the spellcasting ability (spell save {@dc 13}):"],"will":["{@spell
+    guidance}","{@spell mage hand}"],"daily":{"1e":["{@spell dimension door}","{@spell
+    enlarge/reduce}","{@spell mage armor}","{@spell plant growth}"]},"ability":"int","displayAs":"action"}],"action":[{"name":"Multiattack","entries":["The
+    pledgemage makes two Exponential Lash attacks."]},{"name":"Exponential Lash","entries":["{@atk
+    ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}6 ({@damage
+    1d6 + 3}) force damage, and the pledgemage can cause one creature it can see
+    within 30 feet of the target to take 10 ({@damage 2d6 + 3}) force damage."]}],"bonus":[{"name":"Vortex
+    Calculus {@recharge 4}","entries":["The pledgemage teleports, along with any
+    equipment it is wearing or carrying, to an unoccupied space it can see within
+    60 feet of itself. Immediately after it teleports, each creature within 20 feet
+    of the space it left must make a {@dc 13} Constitution saving throw. On a failed
+    save, a creature takes 7 ({@damage 2d6}) force damage and is moved 10 feet in
+    a random horizontal direction. On a successful save, a creature takes half as
+    much damage and isn''t moved."]}],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["O"],"damageTagsSpell":["O"],"spellcastingTags":["O"],"miscTags":["AOE"],"hasToken":true,"hasFluff":true}'
+  DataHash: 67eced1d48686266092c64f79f294e48

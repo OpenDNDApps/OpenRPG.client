@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: howling-hatred-initiate
+  m_EditorClassIdentifier: 
+  Title: Howling Hatred Initiate
+  AsJson: '{"name":"Howling Hatred Initiate","source":"PotA","page":190,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[{"ac":13,"from":["{@item
+    leather armor|phb}"]}],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":30},"str":10,"dex":15,"con":10,"int":10,"wis":9,"cha":11,"skill":{"deception":"+2","religion":"+2","stealth":"+4"},"passive":9,"languages":["Common"],"cr":"1/8","trait":[{"name":"Guiding
+    Wind (Recharges after a Short or Long Rest)","entries":["As a bonus action, the
+    initiate gains advantage on the next ranged attack roll it makes before the end
+    of its next turn."]},{"name":"Hold Breath","entries":["The initiate can hold
+    its breath for 30 minutes."]}],"action":[{"name":"Dagger","entries":["{@atk mw,rw}
+    {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+    1d4 + 2}) piercing damage."]}],"traitTags":["Hold Breath"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
+  DataHash: a072a330452e0aec9f4a87a4a9065780

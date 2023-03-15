@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kobold-commoner
+  m_EditorClassIdentifier: 
+  Title: Kobold Commoner
+  AsJson: '{"name":"Kobold Commoner","source":"TftYP","page":18,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Kobold","source":"DMG"}},"hp":{"average":3,"formula":"1d6"},"action":[{"name":"Club","entries":["{@atk
+    mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) bludgeoning
+    damage."]}],"traitTags":["Pack Tactics","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","DR","X"],"hasToken":true}'
+  DataHash: 284cc9929d631c12eb236a776cd0cabe

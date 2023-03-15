@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: dancing-item
+  m_EditorClassIdentifier: 
+  Title: Dancing Item
+  AsJson: '{"name":"Dancing Item","source":"UA2020SubclassesPt2","page":2,"size":["L"],"sizeNote":"or
+    smaller","type":"construct","alignment":["N"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"special":"equal the dancing item''s Constitution modifier +
+    your Charisma modifier + five times your level in this class"},"speed":{"walk":40},"str":18,"dex":14,"con":16,"int":4,"wis":10,"cha":6,"senses":["darkvision
+    60 ft."],"passive":10,"immune":["poison"],"conditionImmune":["charmed","exhaustion","poisoned","frightened"],"languages":["understands
+    the languages you speak"],"trait":[{"name":"Endless Waltz","entries":["Immediately
+    after the item makes a slam attack, it can take the Dodge action as a bonus action."]},{"name":"Immutable
+    Form","entries":["The item is immune to any spell or effect that would alter
+    its form."]}],"actionNote":"Requires Your Bonus Action","action":[{"name":"Force-Empowered
+    Slam","entries":["{@atk mw} your spell attack modifier to hit, reach 5 ft., one
+    target you can see. {@h}{@damage 1d10} + your Charisma modifier force damage."]}],"traitTags":["Immutable
+    Form"],"senseTags":["D"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 2d9a2d67393e514f0f92da80510d71ab

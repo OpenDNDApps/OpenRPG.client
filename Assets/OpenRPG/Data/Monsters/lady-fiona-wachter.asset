@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: lady-fiona-wachter
+  m_EditorClassIdentifier: 
+  Title: Lady Fiona Wachter
+  AsJson: '{"name":"Lady Fiona Wachter","isNpc":true,"source":"CoS","page":110,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    priest","with":"Fiona","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"ac":[10],"spellcasting":[{"name":"Spellcasting","headerEntries":["Fiona
+    is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save {@dc
+    13}, {@hit 5} to hit with spell attacks). Fiona has the following cleric spells
+    prepared:"],"spells":{"0":{"spells":["{@spell light}","{@spell mending}","{@spell
+    thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell command}","{@spell purify food
+    and drink}","{@spell sanctuary}"]},"2":{"slots":3,"spells":["{@spell augury}","{@spell
+    gentle repose}","{@spell hold person}"]},"3":{"slots":2,"spells":["{@spell animate
+    dead}","{@spell create food and water}"]}},"ability":"wis"}],"damageTagsSpell":[],"hasToken":true}'
+  DataHash: 8e30283ba92fbebb79e63d7184652bc3

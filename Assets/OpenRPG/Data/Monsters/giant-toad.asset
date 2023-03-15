@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-toad
+  m_EditorClassIdentifier: 
+  Title: Giant Toad
+  AsJson: '{"name":"Giant Toad","source":"MM","page":329,"srd":true,"basicRules":true,"otherSources":[{"source":"WDMM"},{"source":"GoS"},{"source":"EGW"},{"source":"TCE"},{"source":"WBtW"},{"source":"KftGV"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[11],"hp":{"average":39,"formula":"6d10
+    + 6"},"speed":{"walk":20,"swim":40},"str":15,"dex":13,"con":13,"int":2,"wis":10,"cha":3,"senses":["darkvision
+    30 ft."],"passive":10,"cr":"1","trait":[{"name":"Amphibious","entries":["The
+    toad can breathe air and water."]},{"name":"Standing Leap","entries":["The toad''s
+    long jump is up to 20 feet and its high jump is up to 10 feet, with or without
+    a running start."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 4}
+    to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) piercing damage plus
+    5 ({@damage 1d10}) poison damage, and the target is {@condition grappled} (escape
+    {@dc 13}). Until this grapple ends, the target is {@condition restrained}, and
+    the toad can''t bite another target."]},{"name":"Swallow","entries":["The toad
+    makes one bite attack against a Medium or smaller target it is grappling. If
+    the attack hits, the target is swallowed, and the grapple ends. The swallowed
+    target is {@condition blinded} and {@condition restrained}, it has total cover
+    against attacks and other effects outside the toad, and it takes 10 ({@damage
+    3d6}) acid damage at the start of each of the toad''s turns. The toad can have
+    only one target swallowed at a time.","If the toad dies, a swallowed creature
+    is no longer {@condition restrained} by it and can escape from the corpse using
+    5 feet of movement, exiting {@condition prone}."]}],"environment":["underdark","forest","swamp","desert","coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-toad.mp3"},"traitTags":["Amphibious"],"senseTags":["D"],"actionTags":["Swallow"],"damageTags":["A","I","P"],"miscTags":["MW"],"conditionInflict":["blinded","grappled","restrained"],"hasToken":true}'
+  DataHash: 60a422bc41d322fb64040d0b6c109620

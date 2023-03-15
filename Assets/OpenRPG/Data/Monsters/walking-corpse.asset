@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: walking-corpse
+  m_EditorClassIdentifier: 
+  Title: Walking Corpse
+  AsJson: '{"name":"Walking Corpse","source":"CoS","page":165,"_copy":{"name":"Commoner","source":"MM","_mod":{"trait":{"mode":"appendArr","items":[{"name":"Violent
+    Death","entries":["When a corpse is reduced to 0 hit points, it splits open,
+    disgorging a {@creature swarm of poisonous snakes}. The snakes are hungry and
+    fight until slain."]}]}}},"speed":{"walk":20},"conditionImmune":["charmed","frightened"],"hasToken":true}'
+  DataHash: 7076a4dd595d9fa341f37330ccec5802

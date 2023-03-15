@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sylvira-savikas
+  m_EditorClassIdentifier: 
+  Title: Sylvira Savikas
+  AsJson: '{"name":"Sylvira Savikas","isNpc":true,"source":"BGDIA","page":46,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+    archmage","with":"Sylvira","flags":"i"},"_":[{"mode":"addSkills","skills":{"investigation":2}}]}},"alignment":["L","N"],"languages":["Abyssal","Celestial","Common","Draconic","Infernal","Primordial"],"languageTags":["AB","C","CE","DR","I","P"],"spellcastingTags":["CW","I"],"hasToken":true}'
+  DataHash: c2c8ce1fb73067c8a41d55534b8b9a04

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: jalynvyr-nir-thinn
+  m_EditorClassIdentifier: 
+  Title: Jalynvyr Nir'Thinn
+  AsJson: '{"name":"Jalynvyr Nir''Thinn","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Smoke
+    Mephit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mephit","with":"Jalynvyr
+    Nir''Thinn","flags":"i"}}},"languages":["Common","Elvish"]}'
+  DataHash: 5cf73f2af7ba50e414d05f935dd74b02

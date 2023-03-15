@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: erinyes
+  m_EditorClassIdentifier: 
+  Title: Erinyes
+  AsJson: '{"name":"Erinyes","source":"MM","page":73,"srd":true,"otherSources":[{"source":"ToA"},{"source":"BGDIA"},{"source":"EGW"},{"source":"KftGV"}],"size":["M"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":153,"formula":"18d8 + 72"},"speed":{"walk":30,"fly":60},"str":18,"dex":16,"con":18,"int":14,"wis":14,"cha":18,"save":{"dex":"+7","con":"+8","wis":"+6","cha":"+8"},"senses":["truesight
+    120 ft."],"passive":12,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t silvered","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Infernal","telepathy
+    120 ft."],"cr":"12","trait":[{"name":"Hellish Weapons","entries":["The erinyes''s
+    weapon attacks are magical and deal an extra 13 ({@damage 3d8}) poison damage
+    on a hit (included in the attacks)."]},{"name":"Magic Resistance","entries":["The
+    erinyes has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    erinyes makes three attacks."]},{"name":"Longsword","entries":["{@atk mw} {@hit
+    8} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage,
+    or 9 ({@damage 1d10 + 4}) slashing damage if used with two hands, plus 13 ({@damage
+    3d8}) poison damage."]},{"name":"Longbow","entries":["{@atk rw} {@hit 7} to hit,
+    range 150/600 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage plus
+    13 ({@damage 3d8}) poison damage, and the target must succeed on a {@dc 14} Constitution
+    saving throw or be {@condition poisoned}. The poison lasts until it is removed
+    by the {@spell lesser restoration} spell or similar magic."]}],"reaction":[{"name":"Parry","entries":["The
+    erinyes adds 4 to its AC against one melee attack that would hit it. To do so,
+    the erinyes must see the attacker and be wielding a melee weapon."]}],"variant":[{"type":"variant","name":"Rope
+    of Entanglement","entries":["Some erinyes carry a {@item rope of entanglement}
+    (detailed in the Dungeon Master''s Guide). When such an erinyes uses its Multiattack,
+    the erinyes can use the rope in place of two of the attacks."]}],"soundClip":{"type":"internal","path":"bestiary/erinyes.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["U"],"actionTags":["Multiattack","Parry"],"languageTags":["I","TP"],"damageTags":["I","P","S"],"miscTags":["MW","RNG","RW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true,"_versions":[{"name":"Erinyes
+    (Rope of Entanglement)","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Special
+    Equipment","entries":["The erinyes carries a {@item rope of entanglement}."]}},"action":{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+    erinyes makes three attacks. It can use its {@item rope of entanglement} in place
+    of two of the attacks."]}}},"variant":null}]}'
+  DataHash: 577b903cfbaffb47dff74c87ef835805

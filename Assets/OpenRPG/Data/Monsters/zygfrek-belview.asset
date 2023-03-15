@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: zygfrek-belview
+  m_EditorClassIdentifier: 
+  Title: Zygfrek Belview
+  AsJson: '{"name":"Zygfrek Belview","isNpc":true,"source":"CoS","page":148,"_copy":{"name":"Mongrelfolk","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    mongrelfolk","with":"Zygfrek","flags":"i"},"trait":{"mode":"replaceArr","replace":"Extraordinary
+    Feature","items":{"name":"Darkvision","entries":["The mongrelfolk has darkvision
+    out to a range of 60 feet."]}}}},"senses":["darkvision 60 ft."],"senseTags":["D"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: ac2a2a47fa7bd9533b5a7dcdb8b79e83

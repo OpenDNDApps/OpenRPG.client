@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: rock-gnome-recluse
+  m_EditorClassIdentifier: 
+  Title: Rock Gnome Recluse
+  AsJson: '{"name":"Rock Gnome Recluse","source":"DIP","page":62,"size":["S"],"type":{"type":"humanoid","tags":["gnome"]},"alignment":["C","N"],"ac":[10,{"ac":13,"condition":"with
+    {@spell mage armor}","braces":true}],"hp":{"average":7,"formula":"2d6"},"speed":{"walk":25},"str":6,"dex":11,"con":10,"int":15,"wis":10,"cha":13,"skill":{"arcana":"+4","history":"+4"},"senses":["darkvision
+    60 ft."],"passive":10,"languages":["Common","Gnomish"],"cr":"1/4","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    gnome is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell
+    save {@dc 12}, {@hit 4} to hit with spell attacks). It has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell mage hand}","{@spell prestidigitation}","{@spell
+    ray of frost} (see \"Actions\" below)"]},"1":{"slots":3,"spells":["{@spell detect
+    magic}","{@spell mage armor}","{@spell magic missile} (see \"Actions\" below)","{@spell
+    shield}"]}},"ability":"int"}],"trait":[{"name":"Gnome Cunning","entries":["The
+    gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against
+    magic."]}],"action":[{"name":"Magic Missile (Expends a 1st-Level Spell Slot)","entries":["The
+    gnome creates three magical darts. Each dart hits a creature the gnome chooses
+    within 120 feet of it and deals 3 ({@damage 1d4 + 1}) force damage."]},{"name":"Ray
+    of Frost","entries":["{@atk rs} {@hit 4} to hit, range 60 ft., one creature.
+    {@h}4 ({@damage 1d8}) cold damage, and the target''s speed is reduced by 10 feet
+    until the start of the gnome''s next turn."]}],"senseTags":["D"],"languageTags":["C","G"],"damageTags":["C","O"],"damageTagsSpell":["C","O"],"spellcastingTags":["CW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 0657836e60cd41497f227ed2c4c348ea

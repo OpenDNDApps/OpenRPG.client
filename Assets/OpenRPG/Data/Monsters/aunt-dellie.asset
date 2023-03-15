@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: aunt-dellie
+  m_EditorClassIdentifier: 
+  Title: Aunt Dellie
+  AsJson: '{"name":"Aunt Dellie","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":36,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    commoner","with":"Aunt Dellie","flags":"i"}}},"hasToken":true}'
+  DataHash: 97af1a5cccde7ff93b2a3c4eb55c9b4d

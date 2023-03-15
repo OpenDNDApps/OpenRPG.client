@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: vrock
+  m_EditorClassIdentifier: 
+  Title: Vrock
+  AsJson: '{"name":"Vrock","source":"MM","page":64,"srd":true,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"BGDIA"},{"source":"TCE"},{"source":"CM"},{"source":"CRCotN"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":104,"formula":"11d10 + 44"},"speed":{"walk":40,"fly":60},"str":17,"dex":15,"con":18,"int":8,"wis":13,"cha":8,"save":{"dex":"+5","wis":"+4","cha":"+2"},"senses":["darkvision
+    120 ft."],"passive":11,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+    120 ft."],"cr":"6","trait":[{"name":"Magic Resistance","entries":["The vrock
+    has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    vrock makes two attacks: one with its beak and one with its talons."]},{"name":"Beak","entries":["{@atk
+    mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing
+    damage."]},{"name":"Talons","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+    one target. {@h}14 ({@damage 2d10 + 3}) slashing damage."]},{"name":"Spores {@recharge}","entries":["A
+    15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread
+    around corners. Each creature in that area must succeed on a {@dc 14} Constitution
+    saving throw or become {@condition poisoned}. While {@condition poisoned} in
+    this way, a target takes 5 ({@damage 1d10}) poison damage at the start of each
+    of its turns. A target can repeat the saving throw at the end of each of its
+    turns, ending the effect on itself on a success. Emptying a vial of holy water
+    on the target also ends the effect on it."]},{"name":"Stunning Screech (1/Day)","entries":["The
+    vrock emits a horrific screech. Each creature within 20 feet of it that can hear
+    it and that isn''t a demon must succeed on a {@dc 14} Constitution saving throw
+    or be {@condition stunned} until the end of the vrock''s next turn."]}],"variant":[{"type":"variant","name":"Summon
+    Demon (1/Day)","entries":["The demon chooses what to summon and attempts a magical
+    summoning.","A vrock has a {@chance 30|30 percent|30% summoning chance} chance
+    of summoning {@dice 2d4} {@creature dretch||dretches} or one vrock.","A summoned
+    demon appears in an unoccupied space within 60 feet of its summoner, acts as
+    an ally of its summoner, and can''t summon other demons. It remains for 1 minute,
+    until it or its summoner dies, or until its summoner dismisses it as an action."],"_version":{"name":"Vrock
+    (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/vrock.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["I","P","S"],"miscTags":["AOE","MW"],"conditionInflict":["poisoned","stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: c2035d90df151ea09d1216e629178c2f

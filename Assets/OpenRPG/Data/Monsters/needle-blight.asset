@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: needle-blight
+  m_EditorClassIdentifier: 
+  Title: Needle Blight
+  AsJson: '{"name":"Needle Blight","source":"MM","page":32,"otherSources":[{"source":"CoS"},{"source":"GoS"},{"source":"IDRotF"}],"size":["M"],"type":"plant","alignment":["N","E"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":11,"formula":"2d8 + 2"},"speed":{"walk":30},"str":12,"dex":12,"con":13,"int":4,"wis":8,"cha":3,"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"passive":9,"conditionImmune":["blinded","deafened"],"languages":["understands
+    Common but can''t speak"],"cr":"1/4","action":[{"name":"Claws","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) piercing
+    damage."]},{"name":"Needles","entries":["{@atk rw} {@hit 3} to hit, range 30/60
+    ft., one target. {@h}8 ({@damage 2d6 + 1}) piercing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/needle-blight.mp3"},"altArt":[{"name":"Needle
+    Blight","source":"DIP"}],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["P"],"miscTags":["MW","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 80e4559a279124f5194adfea34d83023

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kol-daan
+  m_EditorClassIdentifier: 
+  Title: Kol'daan
+  AsJson: '{"name":"Kol''daan","isNpc":true,"source":"WDMM","page":155,"_copy":{"name":"Troglodyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    troglodyte","with":"Kol''daan","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Kol''daan
+    makes three attacks: one with its bite and two with its claws or sparring sword."]}},{"mode":"appendArr","items":{"name":"Sparring
+    Sword","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6
+    ({@damage 1d4 + 2}) bludgeoning damage."]}}]}},"hp":{"average":20,"formula":"2d8
+    + 4"},"damageTags":["B","P","S"],"hasToken":true}'
+  DataHash: 5d9e4e7da84039aaea4b622d60646c0a

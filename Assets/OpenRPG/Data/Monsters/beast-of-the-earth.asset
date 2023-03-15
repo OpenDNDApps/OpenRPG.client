@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: beast-of-the-earth
+  m_EditorClassIdentifier: 
+  Title: Beast of the Earth
+  AsJson: '{"name":"Beast of the Earth","source":"UAClassFeatureVariants","page":9,"summonedByClass":"Ranger|PHB","size":["M"],"type":"beast","alignment":["N"],"ac":[12],"hp":{"special":"equal
+    the beast''s Constitution modifier + your Wisdom modifier + five times your ranger
+    level (the beast has a number of Hit Dice [d8s] equal to your ranger level)"},"speed":{"walk":40,"choose":{"from":["climb","swim"],"amount":40,"note":"(your
+    choice when you bond with the beast)"}},"str":14,"dex":14,"con":15,"int":8,"wis":14,"cha":11,"save":{"dex":"+4","con":"+4","wis":"+4"},"skill":{"perception":"+4","stealth":"+4"},"senses":["darkvision
+    60 ft."],"passive":14,"languages":["understands the languages you speak"],"trait":[{"name":"Charge","entries":["If
+    the beast moves at least 20 feet straight toward a target and then hits it with
+    a maul attack on the same turn, the target takes an extra {@dice 1d6} slashing
+    damage. The DC equals your spell save DC. If the target is a creature, it must
+    succeed on a Strength saving throw against your spell save DC or be knocked {@condition
+    prone}."]},{"name":"Primal Rebirth","entries":["If the beast has died within
+    the last hour, you can use your action to touch it and expend a spell slot of
+    1st level or higher. The beast returns to life after 1 minute with all its hit
+    points restored."]},{"name":"Ready Companion","entries":["As a bonus action,
+    you can command the beast to make its maul attack or to Hide."]}],"action":[{"name":"Maul","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}{@damage 1d6 + 2} slashing
+    damage."]}],"traitTags":["Charge"],"senseTags":["D"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+  DataHash: 5943e4db6cd88a33e0c243a654784c78

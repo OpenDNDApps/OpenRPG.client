@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: belephaion
+  m_EditorClassIdentifier: 
+  Title: Belephaion
+  AsJson: '{"name":"Belephaion","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":157,"_copy":{"name":"Young
+    Blue Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Belephaion","flags":"i"},"action":{"mode":"appendArr","items":{"name":"Alter
+    Shape","entries":["Belephaion magically transforms into an {@creature eagle}
+    or a {@creature priest}, while retaining his alignment, damage immunities, hit
+    points, Hit Dice, and Intelligence, Wisdom, and Charisma scores. This transformation
+    ends if he is reduced to 0 hit points or uses a bonus action to end it."]}}}},"hasToken":true}'
+  DataHash: 0ec3cd06ce19b3a2d4cb67f2fd93a19b

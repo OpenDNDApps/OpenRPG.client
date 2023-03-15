@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: haungharassk
+  m_EditorClassIdentifier: 
+  Title: Haungharassk
+  AsJson: '{"name":"Haungharassk","isNpc":true,"source":"WDMM","page":258,"size":["H"],"type":"beast","alignment":["U"],"ac":[6],"hp":{"average":52,"formula":"7d12
+    + 7"},"speed":{"walk":10,"climb":10},"str":20,"dex":3,"con":13,"int":3,"wis":10,"cha":3,"passive":10,"cr":"0","trait":[{"name":"Salt
+    Sensitivity","entries":["A pound of salt thrown onto the snail''s skin deals
+    {@dice 1d6} acid damage to the creature."]},{"name":"Magical Properties","entries":["A
+    creature that uses an action to touch the living snail gains 6 temporary hit
+    points that last for 24 hours. Any creature or object that touches the living
+    snail also gains the benefit of a {@spell remove curse} spell. The snail loses
+    these magical properties if it dies."]},{"name":"Spider Climb","entries":["The
+    snail can climb difficult surfaces, including upside down on ceilings, without
+    needing to make an ability check."]}],"traitTags":["Spider Climb"],"hasToken":true,"hasFluff":true}'
+  DataHash: ee8aba6a412cb3007192e7c7e9e4edee

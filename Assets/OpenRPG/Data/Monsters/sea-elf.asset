@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: sea-elf
+  m_EditorClassIdentifier: 
+  Title: Sea Elf
+  AsJson: '{"name":"Sea Elf","source":"SKT","page":70,"_copy":{"name":"Merfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"merfolk","with":"sea
+    elf","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Fey Ancestry","entries":["The
+    sea elf has advantage on saving throws against being {@condition charmed}, and
+    magic can''t put the sea elf to sleep."]}}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["C","G"],"senses":["darkvision
+    60 ft."],"languages":["Common","Elvish"],"traitTags":["Amphibious","Fey Ancestry"],"senseTags":["D"],"languageTags":["C","E"],"hasToken":true}'
+  DataHash: 32031a1d8e9bb09f9efa637fcdb0b6f8

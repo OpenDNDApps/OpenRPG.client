@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: emerald-enclave-scout
+  m_EditorClassIdentifier: 
+  Title: Emerald Enclave Scout
+  AsJson: '{"name":"Emerald Enclave Scout","source":"OotA","page":130,"size":["M"],"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["L","N"],"ac":[{"ac":16,"from":["{@item
+    breastplate|phb}"]}],"hp":{"average":19,"formula":"3d8 + 6"},"speed":{"walk":25},"str":11,"dex":14,"con":14,"int":11,"wis":13,"cha":11,"skill":{"nature":"+4","perception":"+5","stealth":"+6","survival":"+5"},"senses":["darkvision
+    60 ft."],"passive":15,"resist":["poison"],"languages":["Common","Dwarvish"],"cr":"1/2","trait":[{"name":"Dwarven
+    Resilience","entries":["The scout has advantage on saving throws against poison."]},{"name":"Keen
+    Hearing and Sight","entries":["The scout has advantage on Wisdom ({@skill Perception})
+    checks that rely on hearing or sight."]}],"action":[{"name":"Multiattack","entries":["The
+    scout makes two melee attacks."]},{"name":"War Pick","entries":["{@atk mw} {@hit
+    4} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage."]},{"name":"Heavy
+    Crossbow","entries":["{@atk rw} {@hit 3} to hit, range 100/400 ft., one target.
+    {@h}5 ({@damage 1d10}) piercing damage."]}],"traitTags":["Keen Senses"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","D"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true}'
+  DataHash: 7f7b5f7be7b438457852e6ca04693023

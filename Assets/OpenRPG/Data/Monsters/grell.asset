@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: grell
+  m_EditorClassIdentifier: 
+  Title: Grell
+  AsJson: '{"name":"Grell","source":"MM","page":172,"otherSources":[{"source":"PotA"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"IMR"},{"source":"IDRotF"},{"source":"CM"},{"source":"KftGV"}],"size":["M"],"type":"aberration","alignment":["N","E"],"ac":[12],"hp":{"average":55,"formula":"10d8
+    + 10"},"speed":{"walk":10,"fly":{"number":30,"condition":"(hover)"},"canHover":true},"str":15,"dex":14,"con":13,"int":12,"wis":11,"cha":9,"skill":{"perception":"+4","stealth":"+6"},"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"passive":14,"immune":["lightning"],"conditionImmune":["blinded","prone"],"languages":["Grell"],"cr":"3","action":[{"name":"Multiattack","entries":["The
+    grell makes two attacks: one with its tentacles and one with its beak."]},{"name":"Tentacles","entries":["{@atk
+    mw} {@hit 4} to hit, reach 10 ft., one creature. {@h}7 ({@damage 1d10 + 2}) piercing
+    damage, and the target must succeed on a {@dc 11} Constitution saving throw or
+    be {@condition poisoned} for 1 minute. The {@condition poisoned} target is {@condition
+    paralyzed}, and it can repeat the saving throw at the end of each of its turns,
+    ending the effect on a success.","The target is also {@condition grappled} (escape
+    {@dc 15}). If the target is Medium or smaller, it is also {@condition restrained}
+    until this grapple ends. While grappling the target, the grell has advantage
+    on attack rolls against it and can ''t use this attack against other targets.
+    When the grell moves, any Medium or smaller target it is grappling moves with
+    it."]},{"name":"Beak","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one
+    target. {@h}7 ({@damage 2d4 + 2}) piercing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/grell.mp3"},"senseTags":["B"],"actionTags":["Multiattack","Tentacles"],"languageTags":["OTH"],"damageTags":["P"],"miscTags":["MW","RCH"],"conditionInflict":["grappled","paralyzed","poisoned","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: be8cff30464b34b0fcf62dbf5c9458dd

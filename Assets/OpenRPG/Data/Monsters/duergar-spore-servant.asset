@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: duergar-spore-servant
+  m_EditorClassIdentifier: 
+  Title: Duergar Spore Servant
+  AsJson: '{"name":"Duergar Spore Servant","source":"OotA","page":229,"size":["M"],"type":"plant","alignment":["U"],"ac":[{"ac":16,"from":["{@item
+    scale mail|phb}","{@item shield|phb}"]}],"hp":{"average":26,"formula":"4d8 +
+    8"},"speed":{"walk":15},"str":14,"dex":11,"con":14,"int":2,"wis":6,"cha":1,"senses":["blindsight
+    30 ft. (blind beyond this radius)"],"passive":8,"resist":["poison"],"conditionImmune":["blinded","charmed","frightened","paralyzed"],"cr":"1/2","action":[{"name":"War
+    Pick","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage
+    1d8 + 2}) piercing damage."]}],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 4a8cf2064fd50352bb728c619868b2c9

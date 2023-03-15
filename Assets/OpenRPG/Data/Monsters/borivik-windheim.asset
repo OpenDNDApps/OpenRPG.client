@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: borivik-windheim
+  m_EditorClassIdentifier: 
+  Title: Borivik Windheim
+  AsJson: '{"name":"Borivik Windheim","isNamedCreature":true,"source":"MaBJoV","page":56,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[{"ac":17,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":91,"formula":"14d8
+    + 28"},"speed":{"walk":30},"str":11,"dex":20,"con":14,"int":11,"wis":16,"cha":11,"save":{"dex":"+9","wis":"+7"},"skill":{"nature":"+8","perception":"+11","stealth":"+13","survival":"+11"},"passive":21,"languages":["Common","Elvish","Sylvan"],"cr":"10","spellcasting":[{"name":"Spellcasting","headerEntries":["Borivik
+    is a 11th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc
+    15}, {@hit 7} to hit with spell attacks). Borivik has the following ranger spells
+    prepared:"],"spells":{"1":{"slots":4,"spells":["{@spell absorb elements|XGE}","{@spell
+    ensnaring strike}","{@spell speak with animals}"]},"2":{"slots":3,"spells":["{@spell
+    cordon of arrows}","{@spell lesser restoration}","{@spell pass without trace}"]},"3":{"slots":3,"spells":["{@spell
+    daylight}","{@spell nondetection}"]}},"ability":"wis","displayAs":"action"}],"trait":[{"name":"Bolts
+    of Undead Slaying","entries":["Borivik has a half-dozen bolts of undead slaying.
+    If he strikes an undead with one of these bolts, it must make a {@dc 17} Constitution
+    saving throw, taking an extra {@damage 6d10} piercing damage on a failed save,
+    or half as much extra damage on a successful one."]},{"name":"Crossbow Expert","entries":["As
+    a bonus action, Borivik can add {@dice 1d10} to his next attack or damage roll
+    with a crossbow."]},{"name":"Nimble Escape","entries":["Borivik can take the
+    Disengage or Hide action as a bonus action on each of his turns."]}],"action":[{"name":"Multiattack","entries":["Borivik
+    makes two melee attacks or two ranged attacks."]},{"name":"Shortsword","entries":["{@atk
+    mw} {@hit 9} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) piercing
+    damage."]},{"name":"Heavy Crossbow","entries":["{@atk rw} {@hit 9} to hit, ranged
+    100/400 ft., one target. {@h}10 ({@damage 1d10 + 5}) piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C","E","S"],"damageTags":["P"],"damageTagsSpell":["P"],"spellcastingTags":["CR"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: b0d7da361ce7b8cd5e0a1e233c832a70

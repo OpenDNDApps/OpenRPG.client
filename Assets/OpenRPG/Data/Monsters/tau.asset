@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: tau
+  m_EditorClassIdentifier: 
+  Title: Tau
+  AsJson: '{"name":"Tau","isNpc":true,"source":"SKT","page":103,"_copy":{"name":"Cult
+    Fanatic","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the fanatic","with":"Tau","flags":"i"},"action":[{"mode":"replaceArr","replace":"Dagger","items":{"name":"Club","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) bludgeoning
+    damage."]}}]}},"type":{"type":"humanoid","tags":[{"tag":"human","prefix":"Shou"}]},"alignment":["N","E"],"ac":[{"ac":16,"from":["{@item
+    breastplate|phb}"]}],"languages":["Common","Terran"],"languageTags":["C","T"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 692adc8828b693e0048a45209d1a3a95

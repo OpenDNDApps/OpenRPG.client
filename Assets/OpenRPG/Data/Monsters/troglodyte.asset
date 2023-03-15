@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: troglodyte
+  m_EditorClassIdentifier: 
+  Title: Troglodyte
+  AsJson: '{"name":"Troglodyte","source":"MM","page":290,"otherSources":[{"source":"HotDQ"},{"source":"PotA"},{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"}],"size":["M"],"type":{"type":"humanoid","tags":["troglodyte"]},"alignment":["C","E"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":13,"formula":"2d8 + 4"},"speed":{"walk":30},"str":14,"dex":10,"con":14,"int":6,"wis":10,"cha":6,"skill":{"stealth":"+2"},"senses":["darkvision
+    60 ft."],"passive":10,"languages":["Troglodyte"],"cr":"1/4","trait":[{"name":"Chameleon
+    Skin","entries":["The troglodyte has advantage on Dexterity (Stealth) checks
+    made to hide."]},{"name":"Stench","entries":["Any creature other than a troglodyte
+    that starts its turn within 5 feet of the troglodyte must succeed on a {@dc 12}
+    Constitution saving throw or be {@condition poisoned} until the start of the
+    creature''s next turn. On a successful saving throw, the creature is immune to
+    the stench of all troglodytes for 1 hour."]},{"name":"Sunlight Sensitivity","entries":["While
+    in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom
+    ({@skill Perception}) checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The
+    troglodyte makes three attacks: one with its bite and two with its claws."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+    one target. {@h}4 ({@damage 1d4 + 2}) slashing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/troglodyte.mp3"},"altArt":[{"name":"Warren
+    Troglodyte","source":"WDMM"},{"name":"Troglodyte","source":"HftT"}],"traitTags":["Sunlight
+    Sensitivity"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["OTH"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 082892ecc3704a83220fddfdacf70426

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: turlang
+  m_EditorClassIdentifier: 
+  Title: Turlang
+  AsJson: '{"name":"Turlang","isNpc":true,"source":"SKT","page":107,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    treant","with":"Turlang"}}},"hp":{"average":200,"formula":"12d12 + 60"},"spellcasting":[{"name":"Spellcasting","headerEntries":["Turlang
+    casts one of the following spells, requiring no material spell components and
+    using Wisdom as the spellcasting ability (spell save {@dc 15}):"],"will":["{@spell
+    druidcraft}","{@spell guidance}","{@spell resistance}","{@spell speak with plants}"],"daily":{"2e":["{@spell
+    animal messenger}","{@spell detect magic}","{@spell entangle}","{@spell goodberry}","{@spell
+    gust of wind}","{@spell pass without trace}","{@spell speak with animals}"],"1e":["{@spell
+    commune with nature} (cast as 1 action)","{@spell conjure woodland beings}","{@spell
+    hallucinatory terrain} (cast as 1 action)"]},"ability":"wis","displayAs":"action"}],"spellcastingTags":["O"],"hasToken":true}'
+  DataHash: a4dff055eef25713e213d95279967ebc

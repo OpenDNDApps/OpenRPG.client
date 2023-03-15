@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: kender-skirmisher
+  m_EditorClassIdentifier: 
+  Title: Kender Skirmisher
+  AsJson: '{"name":"Kender Skirmisher","source":"DSotDQ","page":204,"size":["S"],"type":"humanoid","alignment":["A"],"ac":[{"ac":14,"from":["{@item
+    leather armor|PHB}"]}],"hp":{"average":14,"formula":"4d6"},"speed":{"walk":30},"str":8,"dex":16,"con":10,"int":12,"wis":8,"cha":14,"skill":{"perception":"+3","sleight
+    of hand":"+7","stealth":"+5"},"passive":13,"conditionImmune":["frightened"],"languages":["Common","Kenderspeak"],"cr":"1/4","action":[{"name":"Hoopak","entries":["{@atk
+    mw,rw} {@hit 5} to hit, reach 5 ft. or range 40/160 ft., one target. {@h}6 ({@damage
+    1d6 + 3}) piercing damage, or 5 ({@damage 1d4 + 3}) bludgeoning damage if the
+    kender used the hoopak''s sling to make a ranged attack."]},{"name":"Taunt","entries":["The
+    kender launches a barrage of insults at a creature it can see within 60 feet
+    of itself. If the target can hear the kender, the target must succeed on a {@dc
+    12} Wisdom saving throw or have disadvantage on attack rolls until the end of
+    its next turn."]}],"bonus":[{"name":"Elusive","entries":["The kender takes the
+    Disengage or Hide action."]}],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3055c219268c78ce2dfb80f293eaeac2

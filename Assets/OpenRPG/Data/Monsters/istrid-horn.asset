@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: istrid-horn
+  m_EditorClassIdentifier: 
+  Title: Istrid Horn
+  AsJson: '{"name":"Istrid Horn","isNpc":true,"source":"WDH","page":199,"size":["M"],"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+    plate armor|phb}"]}],"hp":{"average":117,"formula":"18d8 + 36"},"speed":{"walk":25},"str":12,"dex":10,"con":14,"int":11,"wis":17,"cha":13,"save":{"con":"+5","wis":"+6"},"skill":{"intimidation":"+4","religion":"+3"},"senses":["darkvision
+    60 ft."],"passive":13,"resist":["poison"],"languages":["Common","Dwarvish"],"cr":"8","spellcasting":[{"name":"Spellcasting","headerEntries":["Istrid
+    is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save {@dc
+    14}, {@hit 6} to hit with spell attacks) She has the following cleric spells
+    prepared:"],"spells":{"0":{"spells":["{@spell light}","{@spell mending}","{@spell
+    sacred flame}","{@spell spare the dying}"]},"1":{"slots":4,"spells":["{@spell
+    divine favor}","{@spell guiding bolt}","{@spell healing word}","{@spell shield
+    of faith}"]},"2":{"slots":3,"spells":["{@spell lesser restoration}","{@spell
+    magic weapon}","{@spell hold person}","{@spell silence}","{@spell spiritual weapon}"]},"3":{"slots":3,"spells":["{@spell
+    beacon of hope}","{@spell crusader''s mantle}","{@spell dispel magic}","{@spell
+    revivify}","{@spell spirit guardians}","{@spell water walk}"]},"4":{"slots":3,"spells":["{@spell
+    banishment}","{@spell freedom of movement}","{@spell guardian of faith}","{@spell
+    stoneskin}"]},"5":{"slots":1,"spells":["{@spell flame strike}","{@spell mass
+    cure wounds}","{@spell hold monster}"]}},"ability":"wis"}],"trait":[{"name":"Dwarven
+    Resilience","entries":["Istrid has advantage on saving throws against being {@condition
+    poisoned}."]}],"action":[{"name":"Multiattack","entries":["Istrid makes two melee
+    attacks."]},{"name":"Maul","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+    one target. {@h}8 ({@damage 2d6 + 1}) bludgeoning damage."]},{"name":"Treasure
+    Sense (3/Day)","entries":["Istrid magically pinpoints precious metals and stones,
+    such as coins and gems, within 60 feet of her."]}],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","D"],"damageTags":["B"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC"],"miscTags":["MW"],"conditionInflictSpell":["deafened","incapacitated","paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 531c7bfeab855a361f1c4edd11e9a0bd

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: two-headed-plesiosaurus
+  m_EditorClassIdentifier: 
+  Title: Two-Headed Plesiosaurus
+  AsJson: '{"name":"Two-Headed Plesiosaurus","source":"TTP","page":18,"_copy":{"name":"Plesiosaurus","source":"MM","_mod":{"trait":[{"mode":"prependArr","items":{"name":"Two
+    Heads","entries":["The two-headed plesiosaurus has advantage on Wisdom ({@skill
+    Perception}) checks and on saving throws against being {@condition blinded},
+    {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition
+    stunned}, and knocked {@condition unconscious}."]}}],"action":[{"mode":"prependArr","items":{"name":"Multiattack","entries":["The
+    two-headed plesiosaurus makes two bite attacks."]}}]}},"hp":{"average":100,"formula":"8d10
+    + 24"},"cr":"4","actionTags":["Multiattack"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 669b026c4a56d66ecb93f6a3a78620a8

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: saemon-havarian
+  m_EditorClassIdentifier: 
+  Title: Saemon Havarian
+  AsJson: '{"name":"Saemon Havarian","isNamedCreature":true,"source":"MaBJoV","page":122,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"ac":[14],"hp":{"average":91,"formula":"14d8
+    + 28"},"speed":{"walk":30},"str":19,"dex":18,"con":14,"int":18,"wis":11,"cha":14,"save":{"str":"+8","dex":"+8","wis":"+4"},"skill":{"athletics":"+8","deception":"+6","intimidation":"+6"},"passive":10,"languages":["Common","Infernal","Undercommon"],"cr":"10","spellcasting":[{"name":"Spellcasting","headerEntries":["Saemon
+    is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save
+    {@dc 16}, {@hit 8} to hit with spell attacks). Saemon has the following wizard
+    spells prepared:"],"spells":{"0":{"spells":["{@spell fire bolt}","{@spell light}","{@spell
+    mage hand}","{@spell prestidigitation}"]},"1":{"slots":4,"spells":["{@spell detect
+    magic}","{@spell mage armor}","{@spell magic missile}","{@spell shield}"]},"2":{"slots":3,"spells":["{@spell
+    misty step}","{@spell suggestion}"]},"3":{"slots":3,"spells":["{@spell counterspell}","{@spell
+    fireball}","{@spell fly}"]},"4":{"slots":3,"spells":["{@spell greater invisibility}","{@spell
+    ice storm}"]},"5":{"slots":1,"spells":["{@spell animate objects}"]}},"ability":"int"}],"trait":[{"name":"Magical
+    Equipment","entries":["Saemon wears a quiver of ehlonna."]}],"action":[{"name":"Multiattack","entries":["Saemon
+    makes three melee or ranged attacks."]},{"name":"Handaxe","entries":["{@atk mw,rw}
+    {@hit 8} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}7 ({@damage
+    1d6 + 4}) slashing damage."]}],"reaction":[{"name":"Parry","entries":["Saemon
+    adds 4 to his AC against one melee attack that would hit him. To do so Saemon
+    must see the attacker and be wielding a weapon."]}],"legendary":[{"name":"Weapon
+    Attack","entries":["Saemon makes a weapon attack."]},{"name":"Cantrip","entries":["Saemon
+    casts a cantrip from his spell list."]},{"name":"Animate Objects (Costs 3 Actions)","entries":["Saemon
+    casts the spell animate objects, targeting hand axes that he has hurled at enemies
+    up to a total of 10. If there are not enough hand axes to equal 10, then he provides
+    the remaining hand axes from his quiver of ehlonna. The hand axes are considered
+    tiny objects."]}],"actionTags":["Multiattack","Parry"],"languageTags":["C","I","U"],"damageTags":["S"],"damageTagsSpell":["B","C","F","O","P","S"],"spellcastingTags":["CW"],"miscTags":["MW","RW","THW"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: dfd8b7b228e08bd42b2e5b4cd70c19d1

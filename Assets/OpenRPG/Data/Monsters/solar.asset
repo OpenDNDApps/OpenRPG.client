@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: solar
+  m_EditorClassIdentifier: 
+  Title: Solar
+  AsJson: '{"name":"Solar","group":["Angels"],"source":"MM","page":18,"srd":true,"otherSources":[{"source":"BGDIA"},{"source":"CM"},{"source":"CRCotN"},{"source":"JttRC"}],"size":["L"],"type":"celestial","alignment":["L","G"],"ac":[{"ac":21,"from":["natural
+    armor"]}],"hp":{"average":243,"formula":"18d10 + 144"},"speed":{"walk":50,"fly":150},"str":26,"dex":22,"con":26,"int":25,"wis":25,"cha":30,"save":{"int":"+14","wis":"+14","cha":"+17"},"skill":{"perception":"+14"},"senses":["truesight
+    120 ft."],"passive":24,"resist":["radiant",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["necrotic","poison"],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"languages":["all","telepathy
+    120 ft."],"cr":"21","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+    solar''s spellcasting ability is Charisma (spell save {@dc 25}). It can innately
+    cast the following spells, requiring no material components:"],"will":["{@spell
+    detect evil and good}","{@spell invisibility} (self only)"],"daily":{"3e":["{@spell
+    blade barrier}","{@spell dispel evil and good}","{@spell resurrection}"],"1e":["{@spell
+    commune}","{@spell control weather}"]},"ability":"cha"}],"trait":[{"name":"Angelic
+    Weapons","entries":["The solar''s weapon attacks are magical. When the solar
+    hits with any weapon, the weapon deals an extra {@dice 6d8} radiant damage (included
+    in the attack)."]},{"name":"Divine Awareness","entries":["The solar knows if
+    it hears a lie."]},{"name":"Magic Resistance","entries":["The solar has advantage
+    on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+    solar makes two greatsword attacks."]},{"name":"Greatsword","entries":["{@atk
+    mw} {@hit 15} to hit, reach 5 ft., one target. {@h}22 ({@damage 4d6 + 8}) slashing
+    damage plus 27 ({@damage 6d8}) radiant damage."]},{"name":"Slaying Longbow","entries":["{@atk
+    rw} {@hit 13} to hit, range 150/600 ft., one target. {@h}15 ({@damage 2d8 + 6})
+    piercing damage plus 27 ({@damage 6d8}) radiant damage. If the target is a creature
+    that has 100 hit points or fewer, it must succeed on a {@dc 15} Constitution
+    saving throw or die."]},{"name":"Flying Sword","entries":["The solar releases
+    its greatsword to hover magically in an unoccupied space within 5 feet of it.
+    If the solar can see the sword, the solar can mentally command it as a bonus
+    action to fly up to 50 feet and either make one attack against a target or return
+    to the solar''s hands. If the hovering sword is targeted by any effect, the solar
+    is considered to be holding it. The hovering sword falls if the solar dies."]},{"name":"Healing
+    Touch (4/Day)","entries":["The solar touches another creature. The target magically
+    regains 40 ({@dice 8d8 + 4}) hit points and is freed from any curse, disease,
+    poison, blindness, or deafness."]}],"legendary":[{"name":"Teleport","entries":["The
+    solar magically teleports, along with any equipment it is wearing or carrying,
+    up to 120 feet to an unoccupied space it can see."]},{"name":"Searing Burst (Costs
+    2 Actions)","entries":["The solar emits magical, divine energy. Each creature
+    of its choice in a 10-foot radius must make a {@dc 23} Dexterity saving throw,
+    taking 14 ({@damage 4d6}) fire damage plus 14 ({@damage 4d6}) radiant damage
+    on a failed save, or half as much damage on a successful one."]},{"name":"Blinding
+    Gaze (Costs 3 Actions)","entries":["The solar targets one creature it can see
+    within 30 feet of it. If the target can see it, the target must succeed on a
+    {@dc 15} Constitution saving throw or be {@condition blinded} until magic such
+    as the {@spell lesser restoration} spell removes the blindness."]}],"soundClip":{"type":"internal","path":"bestiary/solar.mp3"},"traitTags":["Magic
+    Resistance"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["TP","XX"],"damageTags":["F","P","R","S"],"damageTagsSpell":["S"],"spellcastingTags":["I"],"miscTags":["AOE","MW","RNG","RW"],"conditionInflict":["blinded"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: a121a61a7995c5f29447a735ad2a9dc7

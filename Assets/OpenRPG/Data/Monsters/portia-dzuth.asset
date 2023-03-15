@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: portia-dzuth
+  m_EditorClassIdentifier: 
+  Title: Portia Dzuth
+  AsJson: '{"name":"Portia Dzuth","isNpc":true,"source":"WDMM","page":239,"_copy":{"name":"Champion","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    champion","with":"Portia","flags":"i"},"trait":[{"mode":"appendArr","items":{"name":"Shadowfell
+    Despair","entries":["Portia suffers from Shadowfell despair manifesting as unshakable
+    dread. Until the despair ends, she has disadvantage on all saving throws and
+    gains the following flaw: \"I''m convinced that I''m going to die in Vanrakdoom.\"
+    Portia can attempt to end her despair each time she finishes a long rest, doing
+    so with a successful DC 15 Wisdom saving throw. A {@spell calm emotions} spell
+    also ends her despair, as does any spell or other magical effect that removes
+    a curse."]}}]}},"alignment":["L","N"],"languages":["Common"],"languageTags":["C"],"hasToken":true}'
+  DataHash: 70e2dd297142411a7a0e54305a839192

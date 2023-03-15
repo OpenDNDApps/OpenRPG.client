@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: vertrand-shadowdusk
+  m_EditorClassIdentifier: 
+  Title: Vertrand Shadowdusk
+  AsJson: '{"name":"Vertrand Shadowdusk","isNpc":true,"source":"WDMM","page":282,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    archmage","with":"Vertrand","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
+    banishment}","with":"{@spell confusion}"}]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"senses":["blindsight
+    60 ft. (blind beyond this radius)"],"languages":["Abyssal","Common","Deep Speech","Undercommon"],"senseTags":["B"],"languageTags":["AB","C","DS","U"],"hasToken":true}'
+  DataHash: efd982c8b89e48c5977c27e5f0076a30

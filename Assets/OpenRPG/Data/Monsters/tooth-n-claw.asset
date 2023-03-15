@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: tooth-n-claw
+  m_EditorClassIdentifier: 
+  Title: Tooth-N-Claw
+  AsJson: '{"name":"Tooth-N-Claw","isNpc":true,"source":"SLW","size":["M"],"type":"fiend","alignment":["L","E"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":45,"formula":"7d8 + 14"},"speed":{"walk":50},"str":17,"dex":12,"con":14,"int":6,"wis":13,"cha":6,"skill":{"perception":"+5"},"senses":["darkvision
+    60 ft."],"passive":15,"immune":["cold"],"languages":["understands Infernal but
+    can''t speak it"],"cr":"3","trait":[{"name":"Keen Hearing and Smell","entries":["Tooth-N-Claw
+    has advantage on Wisdom (Perception) checks that rely on hearing or smell."]},{"name":"Pack
+    Tactics","entries":["Tooth-N-Claw has advantage on an attack roll against a creature
+    if at least one of its allies is within 5 feet of the creature and the ally isn''t
+    {@condition incapacitated}."]}],"action":[{"name":"Bite","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing
+    damage plus 7 ({@damage 2d6}) cold damage."]},{"name":"Freezing Breath {@recharge
+    5}","entries":["Tooth-N-Claw exhales an icy blast in a 15-foot cone. Each creature
+    in that area must make a {@dc 12} Dexterity saving throw, taking 21 ({@damage
+    6d6}) cold damage on a failed save, or half as much damage on a successful one."]}],"traitTags":["Keen
+    Senses","Pack Tactics"],"senseTags":["D"],"actionTags":["Breath Weapon"],"languageTags":["CS","I"],"damageTags":["C","P"],"miscTags":["AOE","MW"],"hasToken":true}'
+  DataHash: 9b945fb85d2e4c07b7cf455baa4dcad2

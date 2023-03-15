@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: exethanter
+  m_EditorClassIdentifier: 
+  Title: Exethanter
+  AsJson: '{"name":"Exethanter","isNpc":true,"source":"CoS","page":189,"_copy":{"name":"Lich","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    lich","with":"Exethanter","flags":"i"}}},"hp":{"average":99,"formula":"18d8 +
+    54"},"cr":"10","spellcasting":[{"name":"Spellcasting","headerEntries":["The lich
+    is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell
+    save {@dc 20}, {@hit 12} to hit with spell attacks). The lich has the following
+    wizard spells prepared:"],"spells":{"0":{"spells":["{@spell mage hand}","{@spell
+    prestidigitation}","{@spell ray of frost}"]}},"ability":"int"}],"damageTagsLegendary":[],"damageTagsSpell":["C"],"hasToken":true}'
+  DataHash: b63b3887299feaaeba0f8e0ae9be60f9

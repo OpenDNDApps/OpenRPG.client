@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: relic-sloth
+  m_EditorClassIdentifier: 
+  Title: Relic Sloth
+  AsJson: '{"name":"Relic Sloth","source":"SCC","page":210,"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+    armor"]}],"hp":{"average":76,"formula":"8d12 + 24"},"speed":{"walk":20,"climb":20},"str":20,"dex":9,"con":17,"int":2,"wis":12,"cha":8,"skill":{"perception":"+3"},"passive":13,"cr":"2","action":[{"name":"Claws","entries":["{@atk
+    mw} {@hit 7} to hit, reach 10 ft., one target. {@h}14 ({@damage 2d8 + 5}) slashing
+    damage, and the target is {@condition grappled} (escape {@dc 15}). The relic
+    sloth can grapple no more than two targets at a time."]}],"reaction":[{"name":"Slow
+    but Sturdy","entries":["When the relic sloth is subjected to an effect that would
+    move it out of its current space or knock it {@condition prone}, it is neither
+    moved nor knocked {@condition prone}."]}],"damageTags":["S"],"miscTags":["MW","RCH"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bcc90ec0ae8575620944b4e472468dbb

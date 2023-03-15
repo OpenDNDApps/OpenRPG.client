@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: curran-corvalin
+  m_EditorClassIdentifier: 
+  Title: Curran Corvalin
+  AsJson: '{"name":"Curran Corvalin","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Stout
+    Halfling","source":"PHB"}},"languageTags":["C","H","X"],"hasToken":true}'
+  DataHash: 5419534ba7671e9fa2b3b207cf524565

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-hyena
+  m_EditorClassIdentifier: 
+  Title: Giant Hyena
+  AsJson: '{"name":"Giant Hyena","source":"MM","page":326,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"GoS"},{"source":"BGDIA"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":45,"formula":"6d10
+    + 12"},"speed":{"walk":50},"str":16,"dex":14,"con":14,"int":2,"wis":12,"cha":7,"skill":{"perception":"+3"},"passive":13,"cr":"1","trait":[{"name":"Rampage","entries":["When
+    the hyena reduces a creature to 0 hit points with a melee attack on its turn,
+    the hyena can take a bonus action to move up to half its speed and make a bite
+    attack."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 5} to hit, reach
+    5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage."]}],"environment":["grassland","forest","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/giant-hyena.mp3"},"traitTags":["Rampage"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 4ed16ba76e037561f036e9240a89ead8

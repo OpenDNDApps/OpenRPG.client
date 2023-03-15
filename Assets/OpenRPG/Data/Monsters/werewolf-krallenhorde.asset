@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: werewolf-krallenhorde
+  m_EditorClassIdentifier: 
+  Title: Werewolf (Krallenhorde)
+  AsJson: '{"name":"Werewolf (Krallenhorde)","source":"PSI","page":15,"size":["M"],"type":{"type":"humanoid","tags":["human","shapechanger"]},"alignment":["C","E"],"ac":[{"ac":11,"condition":"in
+    humanoid form"},{"ac":12,"from":["natural armor"],"condition":"in canid form"}],"hp":{"average":58,"formula":"9d8
+    + 18"},"speed":{"walk":{"number":30,"condition":"(40 ft. in canid form)"}},"str":15,"dex":13,"con":14,"int":10,"wis":11,"cha":10,"skill":{"perception":"+4","stealth":"+3"},"passive":14,"immune":[{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks not made with silvered weapons","cond":true}],"languages":["Common
+    (can''t speak in canid form)"],"cr":"3","trait":[{"name":"Shapechanger","entries":["The
+    werewolf polymorphs into a wolf-humanoid canid form, or back into its true human
+    form. This change is dictated by the moon, but can also be induced by trauma
+    or strong emotion. Its statistics, other than its AC, are the same in each form.
+    Any equipment it is wearing or carrying isn''t transformed. It reverts to its
+    true form if it dies."]},{"name":"Keen Hearing and Smell","entries":["The werewolf
+    has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or
+    smell."]},{"name":"Howlpack: Vildin","entries":["Vildin Rampage (Canid Form Only).
+    When the werewolf reduces a creature to 0 hit points with a melee attack on its
+    turn, it can take a bonus action to move up to half its speed and make a bite
+    attack."]}],"action":[{"name":"Multiattack (Canid Form Only)","entries":["The
+    werewolf makes two attacks: one with its bite and one with its claws or spear."]},{"name":"Bite
+    (Canid Form Only)","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft., one target.
+    {@h}6 ({@damage 1d8 + 2}) piercing damage."]},{"name":"Claws (Canid Form Only)","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) slashing
+    damage."]},{"name":"Spear (Human Form Only)","entries":["{@atk mw,rw} {@hit 4}
+    to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d6 + 2})
+    piercing damage, or 6 ({@damage 1d8 + 2}) piercing damage if used with two hands
+    to make a melee attack."]}],"variant":[{"type":"variant","name":"Howlpack","entries":["The
+    basic werewolf statistics represent a member of the Krallenhorde, Innistrad''s
+    largest howlpack. Werewolves of other packs might have additional abilities such
+    as the following."]},{"type":"variant","name":"Mondronen","entries":["Mondronen
+    Wounded Fury. While it has 10 hit points or fewer, the werewolf has advantage
+    on attack rolls. In addition, it deals an extra 7 ({@dice 2d6}) damage to any
+    target it hits with a melee attack."]},{"type":"variant","name":"Leeraug","entries":["Leeraug
+    Blood Frenzy. The werewolf has advantage on melee attack rolls against any creature
+    that doesn''t have all its hit points."]}],"traitTags":["Keen Senses","Shapechanger"],"actionTags":["Multiattack"],"languageTags":["C","CS"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true}'
+  DataHash: ddac81042be7fe871b1e7e53388425a9

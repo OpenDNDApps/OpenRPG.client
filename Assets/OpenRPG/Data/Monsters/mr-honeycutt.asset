@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: mr-honeycutt
+  m_EditorClassIdentifier: 
+  Title: Mr. Honeycutt
+  AsJson: '{"name":"Mr. Honeycutt","isNpc":true,"isNamedCreature":true,"source":"NRH-TCMC","page":10,"otherSources":[{"source":"NRH-AVitW","page":9},{"source":"NRH-ASS","page":9},{"source":"NRH-CoI","page":10},{"source":"NRH-TLT","page":9},{"source":"NRH-AWoL","page":7},{"source":"NRH-AT","page":12}],"_copy":{"name":"Wererat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+    wererat","with":"Mr. Honeycutt","flags":"i"}}},"hasToken":true}'
+  DataHash: a75e37418d85889561dd01a4b29e5988

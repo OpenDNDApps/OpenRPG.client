@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: reduced-threat-gray-ooze
+  m_EditorClassIdentifier: 
+  Title: Reduced-Threat Gray Ooze
+  AsJson: '{"name":"Reduced-Threat Gray Ooze","source":"TftYP","page":113,"_copy":{"name":"Gray
+    Ooze","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"damageTags":["A","B"],"hasToken":true}'
+  DataHash: 7d9a19d986f62c0685883be9d8895a6e

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: shield-dwarf-noble
+  m_EditorClassIdentifier: 
+  Title: Shield Dwarf Noble
+  AsJson: '{"name":"Shield Dwarf Noble","source":"SKT","page":78,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Mountain
+    Dwarf","source":"PHB"}},"alignment":["L","G"],"action":[{"name":"Warhammer","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) bludgeoning
+    damage, or 6 ({@damage 1d10 + 1}) bludgeoning damage if used with two hands."]}],"senseTags":["D"],"languageTags":["C","D","X"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: a928cfa1e9cac4a0b81fe7292a46aa8f

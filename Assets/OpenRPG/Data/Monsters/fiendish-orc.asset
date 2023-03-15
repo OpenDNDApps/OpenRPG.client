@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: fiendish-orc
+  m_EditorClassIdentifier: 
+  Title: Fiendish Orc
+  AsJson: '{"name":"Fiendish Orc","source":"CRCotN","page":71,"_copy":{"name":"Orc","source":"MM"},"type":{"type":"fiend","tags":["orc"]},"immune":["fire","poison"],"languages":["Abyssal","Common","Orc"],"hasToken":true}'
+  DataHash: 9857d1eebfea7fe8ff4cb43828f843fa

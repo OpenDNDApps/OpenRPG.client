@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: red-ruin
+  m_EditorClassIdentifier: 
+  Title: Red Ruin
+  AsJson: '{"name":"Red Ruin","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":208,"size":["M"],"type":"humanoid","alignment":["L","E"],"ac":[{"ac":20,"from":["{@item
+    plate armor|PHB|plate}","{@item shield|PHB}"]}],"hp":{"average":150,"formula":"20d8
+    + 60"},"speed":{"walk":30},"str":19,"dex":12,"con":17,"int":13,"wis":14,"cha":15,"save":{"str":"+8","dex":"+5"},"skill":{"athletics":"+8","perception":"+6"},"passive":16,"resist":["fire"],"languages":["Common","Draconic"],"cr":"10","trait":[{"name":"Draconic
+    Devotion","entries":["While Red Ruin can see a Dragon that isn''t hostile to
+    her, she has advantage on attack rolls."]},{"name":"Mounted Combat Master","entries":["When
+    Red Ruin is mounted and a creature targets her mount with an attack, Red Ruin
+    can cause the attack to target her instead."]},{"name":"Mounted Evasion","entries":["When
+    Red Ruin or her mount makes a Dexterity saving throw to take half damage from
+    an effect, they take no damage on a success and half damage on a failure."]}],"action":[{"name":"Multiattack","entries":["Red
+    Ruin makes three Ember Lance attacks."]},{"name":"Ember Lance","entries":["{@atk
+    mw} {@hit 8} to hit, reach 10 ft., one target. {@h}10 ({@damage 1d12 + 4}) piercing
+    damage plus 7 ({@damage 2d6}) fire damage. If the target is a Medium or smaller
+    creature, it must succeed on a {@dc 16} Strength saving throw or fall {@condition
+    prone}."]},{"name":"Explosive Hand Crossbow {@recharge 5}","entries":["Red Ruin
+    fires an explosive crossbow bolt at a point she can see within 120 feet of herself.
+    When the bolt reaches that point, or if it hits an object early, it detonates
+    in a 20-foot-radius sphere. Each creature in that area must make a {@dc 15} Dexterity
+    saving throw, taking 35 ({@damage 10d6}) fire damage on a failed save, or half
+    as much damage on a successful one."]}],"actionTags":["Multiattack"],"languageTags":["C","DR"],"damageTags":["F","P"],"miscTags":["AOE","MW","RCH","RNG"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: de8a54e2e0b424deef86213aa2459abe

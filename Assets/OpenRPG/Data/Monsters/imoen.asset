@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: imoen
+  m_EditorClassIdentifier: 
+  Title: Imoen
+  AsJson: '{"name":"Imoen","isNamedCreature":true,"source":"MaBJoV","page":88,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[{"ac":16,"from":["{@item
+    studded leather armor|PHB|studded leather}"]}],"hp":{"average":78,"formula":"12d8
+    + 24"},"speed":{"walk":30},"str":11,"dex":18,"con":14,"int":14,"wis":10,"cha":14,"save":{"dex":"+7","int":"+5"},"skill":{"acrobatics":"+7","deception":"+5","perception":"+3","stealth":"+10"},"senses":["darkvision
+    60 ft."],"passive":13,"resist":["necrotic","poison"],"languages":["Common","Thieves''
+    cant","Undercommon"],"cr":"8","trait":[{"name":"Evasion","entries":["If Imoen
+    is subjected to an effect that allows her to make a Dexterity saving throw to
+    take only half damage, Imoen instead takes no damage if she succeeds on the saving
+    throw, and only half damage if she fails."]},{"name":"Sneak Attack (1/Turn)","entries":["Imoen
+    deals an extra 14 ({@damage 4d6}) damage when she hits a target with a weapon
+    attack and has advantage on the attack roll, or when the target is within 5 ft.
+    of an ally of Imoen that isn''t {@condition incapacitated} and Imoen doesn''t
+    have disadvantage on the attack roll."]},{"name":"Spider Climb","entries":["Imoen
+    can climb difficult surfaces, including upside down on ceilings, without needing
+    to make an ability check."]},{"name":"Sunlight Sensitivity","entries":["While
+    in sunlight, Imoen has disadvantage on attack rolls, as well as on Wisdom (Perception)
+    checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["Imoen
+    makes two shortsword attacks."]},{"name":"Shortsword","entries":["{@atk mw} {@hit
+    7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."]}],"traitTags":["Sneak
+    Attack","Spider Climb","Sunlight Sensitivity"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","TC","U"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3559f67a9b5def27bad4ed6f3d43445c

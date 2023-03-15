@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: pharblex-spattergoo
+  m_EditorClassIdentifier: 
+  Title: Pharblex Spattergoo
+  AsJson: '{"name":"Pharblex Spattergoo","isNpc":true,"source":"HotDQ","page":91,"otherSources":[{"source":"ToD","page":187}],"size":["M"],"type":{"type":"humanoid","tags":["bullywug"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["{@item
+    studded leather armor|phb|studded leather}","{@item shield|phb}"]}],"hp":{"average":59,"formula":"7d8
+    + 28"},"speed":{"walk":20,"swim":40},"str":15,"dex":12,"con":18,"int":11,"wis":16,"cha":7,"save":{"str":"+4","con":"+6"},"skill":{"perception":"+5","religion":"+2","stealth":"+3"},"passive":15,"languages":["Common","Bullywug"],"cr":"3","spellcasting":[{"name":"Spellcasting","headerEntries":["Pharblex
+    is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell
+    save {@dc 13}, {@hit 5} to hit with spell attacks). Pharblex has the following
+    spells prepared from the druid spell list:"],"spells":{"0":{"spells":["{@spell
+    druidcraft}","{@spell guidance}","{@spell poison spray}"]},"1":{"slots":4,"spells":["{@spell
+    cure wounds}","{@spell entangle}","{@spell healing word}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+    barkskin}","{@spell beast sense}","{@spell spike growth}"]},"3":{"slots":3,"spells":["{@spell
+    plant growth}","{@spell water walk}"]}},"ability":"wis"}],"trait":[{"name":"Amphibious","entries":["Pharblex
+    can breathe air and water."]},{"name":"Poison Strike (3/Day)","entries":["Once
+    per turn, when Pharblex hits with a melee attack, he can expend a use of this
+    trait to deal an extra 9 ({@damage 2d8}) poison damage."]},{"name":"Standing
+    Leap","entries":["As part of his movement and without a running start, Pharblex
+    can long jump up to 20 feet and high jump up to 10 feet."]},{"name":"Swamp Camouflage","entries":["Pharblex
+    has advantage on Dexterity ({@skill Stealth}) checks made to hide in swampy terrain."]}],"action":[{"name":"Multiattack","entries":["Pharblex
+    attacks twice. Once with his bite and once with his spear."]},{"name":"Bite","entries":["{@atk
+    mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+    damage."]},{"name":"Spear","entries":["{@atk mw,rw} {@hit 5} to hit. reach 5
+    ft. or ranged 20/60 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"languageTags":["C","OTH"],"damageTags":["I","P"],"damageTagsSpell":["I","P","T"],"spellcastingTags":["CD"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluffImages":true}'
+  DataHash: 646afe9644effe3a88ca9d575eeae4ad

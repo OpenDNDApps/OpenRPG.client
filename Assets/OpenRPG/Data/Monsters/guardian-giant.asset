@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: guardian-giant
+  m_EditorClassIdentifier: 
+  Title: Guardian Giant
+  AsJson: '{"name":"Guardian Giant","source":"GGR","page":201,"size":["H"],"type":"giant","alignment":["L","N"],"ac":[{"ac":19,"from":["{@item
+    half plate armor|phb}","{@item shield|phb}"]}],"hp":{"average":137,"formula":"11d12
+    + 66"},"speed":{"walk":40},"str":24,"dex":17,"con":22,"int":10,"wis":18,"cha":12,"save":{"dex":"+6","wis":"+7"},"skill":{"insight":"+7","perception":"+10"},"passive":20,"languages":["Common","Giant"],"cr":"8","trait":[{"name":"Vigilant","entries":["The
+    giant can''t be {@quickref Surprise|PHB|3|0|surprised}."]}],"action":[{"name":"Multiattack","entries":["The
+    giant makes three spear attacks."]},{"name":"Spear","entries":["{@atk mw,rw}
+    {@hit 10} to hit, reach 10 ft. or range 60/240 ft., one target. {@h}17 ({@damage
+    3d6 + 7}) piercing damage, or 20 ({@damage 3d8 + 7}) piercing damage if used
+    with two hands to make a melee attack."]}],"reaction":[{"name":"Protection","entries":["When
+    an attacker the giant can see makes an attack roll against a creature within
+    10 feet of the giant, the giant can impose disadvantage on the attack roll."]}],"actionTags":["Multiattack"],"languageTags":["C","GI"],"damageTags":["P"],"miscTags":["MW","RCH","RW","THW"],"hasToken":true,"hasFluff":true}'
+  DataHash: b4352dc10a74509cbae9cda7028599e2

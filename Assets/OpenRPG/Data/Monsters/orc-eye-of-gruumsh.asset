@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: orc-eye-of-gruumsh
+  m_EditorClassIdentifier: 
+  Title: Orc Eye of Gruumsh
+  AsJson: '{"name":"Orc Eye of Gruumsh","source":"MM","page":247,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"EGW"},{"source":"IDRotF"}],"size":["M"],"type":{"type":"humanoid","tags":["orc"]},"alignment":["C","E"],"ac":[{"ac":16,"from":["{@item
+    ring mail|phb}","{@item shield|phb}"]}],"hp":{"average":45,"formula":"6d8 + 18"},"speed":{"walk":30},"str":16,"dex":12,"con":17,"int":9,"wis":13,"cha":12,"skill":{"intimidation":"+3","religion":"+1"},"senses":["darkvision
+    60 ft."],"passive":11,"languages":["Common","Orc"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+    orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save
+    {@dc 11}, {@hit 3} to hit with spell attacks). The orc has the following cleric
+    spells prepared:"],"spells":{"0":{"spells":["{@spell guidance}","{@spell resistance}","{@spell
+    thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell bless}","{@spell command}"]},"2":{"slots":2,"spells":["{@spell
+    augury}","{@spell spiritual weapon} (spear)"]}},"ability":"wis"}],"trait":[{"name":"Aggressive","entries":["As
+    a bonus action, the orc can move up to its speed toward a hostile creature that
+    it can see."]},{"name":"Gruumsh''s Fury","entries":["The orc deals an extra 4
+    ({@dice 1d8}) damage when it hits with a weapon attack (included in the attacks)."]}],"action":[{"name":"Spear","entries":["{@atk
+    mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}11 ({@dice
+    1d6 + 3} plus {@dice 1d8}) piercing damage, or 12 ({@damage 2d8 + 3}) piercing
+    damage if used with two hands to make a melee attack."]}],"environment":["underdark","mountain","grassland","forest","swamp","hill","arctic"],"soundClip":{"type":"internal","path":"bestiary/orc-eye-of-gruumsh.mp3"},"traitTags":["Aggressive"],"senseTags":["D"],"languageTags":["C","O"],"damageTags":["P"],"damageTagsSpell":["O"],"spellcastingTags":["CC"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3ea45fc84471b9916f29717e0642220b

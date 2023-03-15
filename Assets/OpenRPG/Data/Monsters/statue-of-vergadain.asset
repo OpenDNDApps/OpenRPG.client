@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: statue-of-vergadain
+  m_EditorClassIdentifier: 
+  Title: Statue of Vergadain
+  AsJson: '{"name":"Statue of Vergadain","source":"WDMM","page":202,"_copy":{"name":"Stone
+    Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Magic
+    Theft","entries":["As a bonus action, the golem targets one creature it can see
+    within 30 feet of it. The target must succeed on a DC 17 Charisma saving throw,
+    or all magic items in its possession are teleported to the bottom of the pit
+    in {@adventure area 31|WDMM|15|31. Hall of Embers}."]}}}},"hasToken":true}'
+  DataHash: e33a06a95df08a1efda6e716f52d6e42

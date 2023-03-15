@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: hadrosaurus
+  m_EditorClassIdentifier: 
+  Title: Hadrosaurus
+  AsJson: '{"name":"Hadrosaurus","group":["Dinosaurs"],"source":"VGM","page":140,"otherSources":[{"source":"ToA"}],"reprintedAs":["Hadrosaurus|MPMM"],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+    armor"]}],"hp":{"average":19,"formula":"3d10 + 3"},"speed":{"walk":40},"str":15,"dex":10,"con":13,"int":2,"wis":10,"cha":5,"skill":{"perception":"+2"},"passive":12,"cr":"1/4","action":[{"name":"Tail","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) bludgeoning
+    damage."]}],"environment":["grassland","swamp"],"soundClip":{"type":"internal","path":"bestiary/hadrosaurus.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+  DataHash: 9af84649376e26f3cfa1e32c8192c523

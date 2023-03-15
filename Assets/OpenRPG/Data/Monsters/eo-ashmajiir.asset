@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: eo-ashmajiir
+  m_EditorClassIdentifier: 
+  Title: Eo Ashmajiir
+  AsJson: '{"name":"Eo Ashmajiir","isNamedCreature":true,"source":"MaBJoV","page":116,"size":["M"],"type":{"type":"humanoid","tags":["tiefling"]},"alignment":["C","N"],"ac":[{"ac":16,"from":["natural
+    armor"]}],"hp":{"average":81,"formula":"18d8"},"speed":{"walk":30,"fly":30},"str":10,"dex":16,"con":10,"int":12,"wis":14,"cha":20,"save":{"con":"+4","cha":"+9"},"skill":{"arcana":"+9","deception":"+9","persuasion":"+9"},"passive":12,"resist":["lightning"],"languages":["Abyssal","Celestial","Common","Draconic","Infernal","Undercommon"],"cr":"11","spellcasting":[{"name":"Spellcasting","headerEntries":["Eo
+    Ashmajiir is an 18th-level spellcaster. Her spellcasting ability is Charisma
+    (spell save {@dc 17}, {@hit 9} to hit with spell attacks). Eo can cast the following
+    spells:"],"spells":{"0":{"spells":["{@spell fire bolt}","{@spell light}","{@spell
+    mage hand}","{@spell prestidigitation}","{@spell shocking grasp}"]},"1":{"slots":4,"spells":["{@spell
+    chromatic orb}*","{@spell detect magic}","{@spell magic missile}","{@spell shield}"]},"2":{"slots":3,"spells":["{@spell
+    detect thoughts}","{@spell mirror image}","{@spell misty step}"]},"3":{"slots":3,"spells":["{@spell
+    counterspell}","{@spell fireball}","{@spell lightning bolt}"]},"4":{"slots":3,"spells":["{@spell
+    banishment}*","{@spell greater invisibility}*","{@spell polymorph}*"]},"5":{"slots":3,"spells":["{@spell
+    dominate person}*","{@spell scrying}","{@spell wall of force}"]},"6":{"slots":1,"spells":["{@spell
+    chain lightning}","{@spell disintegrate}*"]},"7":{"slots":1,"spells":["{@spell
+    finger of death}*","{@spell teleport}"]},"8":{"slots":1,"spells":["{@spell power
+    word stun}*"]},"9":{"slots":1,"spells":["{@spell wish}*"]}},"footerEntries":["*
+    Eo can cast these spells with the Twinned Spell action.","** Eo uses Wish to
+    ensure she has a simulacrum of herself at all times."],"ability":"cha"}],"trait":[{"name":"Lightning
+    Affinity","entries":["When Eo Ashmajiir casts a spell that deals lightning damage,
+    that spell deals an additional 5 damage. When Eo casts a spell that deals a type
+    of damage from the following list, she can change that damage type to lightning:
+    acid, cold, fire, poison, thunder."]}],"action":[{"name":"Dagger","entries":["{@atk
+    mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage
+    1d4 + 3}) piercing damage."]},{"name":"Twinned Spell","entries":["Eo Ashmajiir
+    casts a spell from her spell list that targets only one creature and doesn''t
+    have a range of self. This spell targets a second creature in range. Eo cannot
+    use this action in conjunction with her Lightning Affinity ability."]}],"languageTags":["AB","C","CE","DR","I","U"],"damageTags":["P"],"damageTagsSpell":["A","C","F","I","L","N","O","T"],"spellcastingTags":["O"],"miscTags":["MW","RW","THW"],"conditionInflictSpell":["charmed","incapacitated","invisible","stunned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2fafe5edb6655ebb2268b6fae97cd9e1

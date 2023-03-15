@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: giant-scorpion
+  m_EditorClassIdentifier: 
+  Title: Giant Scorpion
+  AsJson: '{"name":"Giant Scorpion","source":"MM","page":327,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"BGDIA"},{"source":"EGW"},{"source":"CM"},{"source":"JttRC"},{"source":"DSotDQ"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":52,"formula":"7d10 + 14"},"speed":{"walk":40},"str":15,"dex":13,"con":15,"int":1,"wis":9,"cha":3,"senses":["blindsight
+    60 ft."],"passive":9,"cr":"3","action":[{"name":"Multiattack","entries":["The
+    scorpion makes three attacks: two with its claws and one with its sting."]},{"name":"Claw","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning
+    damage, and the target is {@condition grappled} (escape {@dc 12}). The scorpion
+    has two claws, each of which can grapple only one target."]},{"name":"Sting","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d10 + 2}) piercing
+    damage, and the target must make a {@dc 12} Constitution saving throw, taking
+    22 ({@damage 4d10}) poison damage on a failed save, or half as much damage on
+    a successful one."]}],"environment":["desert"],"soundClip":{"type":"internal","path":"bestiary/giant-scorpion.mp3"},"senseTags":["B"],"actionTags":["Multiattack"],"damageTags":["B","I","P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true}'
+  DataHash: 03af52a5201ddc7040862d7a60d3bdf0

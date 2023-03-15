@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: animated-broom
+  m_EditorClassIdentifier: 
+  Title: Animated Broom
+  AsJson: '{"name":"Animated Broom","source":"CM","page":20,"size":["S"],"type":"construct","ac":[{"ac":15,"from":["natural
+    armor"]}],"hp":{"average":17,"formula":"5d6"},"speed":{"walk":0,"fly":{"number":50,"condition":"(hover)"},"canHover":true},"str":10,"dex":17,"con":10,"int":1,"wis":5,"cha":1,"senses":["blindsight
+    120 ft. (blind beyond this radius)"],"passive":7,"immune":["poison","psychic"],"conditionImmune":["blinded","charmed","deafened","exhaustion","frightened","paralyzed","petrified","poisoned","prone"],"cr":"1/4","trait":[{"name":"False
+    Object","entries":["If the broom is motionless at the start of combat, it has
+    advantage on its initiative roll. Moreover, if a creature hasn''t observed the
+    broom move or act, that creature must succeed on a {@dc 15} Wisdom (Perception)
+    check to discern that the broom is animate."]},{"name":"Flyby","entries":["The
+    broom doesn''t provoke opportunity attacks when it flies out of an enemy''s reach."]}],"action":[{"name":"Multiattack","entries":["The
+    broom makes two melee attacks."]},{"name":"Broomstick","entries":["{@atk mw}
+    {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) bludgeoning
+    damage."]}],"traitTags":["Flyby"],"senseTags":["B"],"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 16174156b98b40f191d9ff9620cfc2dd

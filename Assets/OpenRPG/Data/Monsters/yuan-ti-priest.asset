@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: yuan-ti-priest
+  m_EditorClassIdentifier: 
+  Title: Yuan-ti Priest
+  AsJson: '{"name":"Yuan-ti Priest","source":"ToA","page":118,"_copy":{"name":"Yuan-ti
+    Malison (Type 3)","source":"MM","_mod":{"action":{"mode":"removeArr","names":"Longbow
+    (Yuan-ti Form Only)"}}},"spellcasting":[{"name":"Innate Spellcasting (Yuan-ti
+    Form Only)","headerEntries":["The yuan-ti''s innate spellcasting ability is Charisma
+    (spell save {@dc 13}, {@hit 5} to hit with spell attacks). The yuan-ti can innately
+    cast the following spells, requiring no material components:"],"will":["{@spell
+    animal friendship} (snakes only)","{@spell eldritch blast} (2 beams)","{@spell
+    minor illusion}","{@spell poison spray}"],"daily":{"3":["{@spell suggestion}"]},"ability":"cha"}],"damageTagsSpell":["I","O"],"miscTags":["MW"],"hasToken":true}'
+  DataHash: 51eb07c1056cbbe25e75a8e22b679e79

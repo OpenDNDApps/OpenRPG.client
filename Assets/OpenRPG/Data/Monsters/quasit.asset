@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: quasit
+  m_EditorClassIdentifier: 
+  Title: Quasit
+  AsJson: '{"name":"Quasit","source":"MM","page":63,"srd":true,"otherSources":[{"source":"CoS"},{"source":"TftYP"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"EGW"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["T"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[13],"hp":{"average":7,"formula":"3d4"},"speed":{"walk":40},"str":5,"dex":17,"con":10,"int":7,"wis":10,"cha":10,"skill":{"stealth":"+5"},"senses":["darkvision
+    120 ft."],"passive":10,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common"],"cr":"1","trait":[{"name":"Shapechanger","entries":["The
+    quasit can use its action to polymorph into a beast form that resembles a bat
+    (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40
+    ft., swim 40 ft.), or back into its true form. Its statistics are the same in
+    each form, except for the speed changes noted. Any equipment it is wearing or
+    carrying isn''t transformed. It reverts to its true form if it dies."]},{"name":"Magic
+    Resistance","entries":["The quasit has advantage on saving throws against spells
+    and other magical effects."]}],"action":[{"name":"Claw (Bite in Beast Form)","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing
+    damage, and the target must succeed on a {@dc 10} Constitution saving throw or
+    take 5 ({@damage 2d4}) poison damage and become {@condition poisoned} for 1 minute.
+    The target can repeat the saving throw at the end of each of its turns, ending
+    the effect on itself on a success."]},{"name":"Scare (1/Day)","entries":["One
+    creature of the quasit''s choice within 20 feet of it must succeed on a {@dc
+    10} Wisdom saving throw or be {@condition frightened} for 1 minute. The target
+    can repeat the saving throw at the end of each of its turns, with disadvantage
+    if the quasit is within line of sight, ending the effect on itself on a success."]},{"name":"Invisibility","entries":["The
+    quasit magically turns {@condition invisible} until it attacks or uses Scare,
+    or until its concentration ends (as if concentrating on a spell). Any equipment
+    the quasit wears or carries is {@condition invisible} with it."]}],"variant":[{"type":"variant","name":"Quasit
+    Familiar","entries":["Mortal spellcasters interested in extraplanar familiars
+    find quasits easy to summon and eager to serve. The quasit plays the part of
+    the obsequious servant. It serves its master well, but it goads the mortal to
+    greater and greater acts of chaos and evil. Such quasits have the following trait.",{"name":"Familiar","type":"entries","entries":["The
+    quasit can serve another creature as a familiar, forming a telepathic bond with
+    its willing master. While the two are bonded, the master can sense what the quasit
+    senses as long as they are within 1 mile of each other. While the quasit is within
+    10 feet of its master, the master shares the quasit''s Magic Resistance trait.
+    At any time and for any reason, the quasit can end its service as a familiar,
+    ending the telepathic bond."]}],"_version":{"addHeadersAs":"trait"}}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/quasit.mp3"},"traitTags":["Magic
+    Resistance","Shapechanger"],"senseTags":["SD"],"languageTags":["AB","C"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["frightened","invisible","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 3ff2af2edd571b443483924ba4413c49

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: elise
+  m_EditorClassIdentifier: 
+  Title: Elise
+  AsJson: '{"name":"Elise","isNamedCreature":true,"source":"VRGR","page":143,"size":["M"],"type":"construct","alignment":["N"],"ac":[9],"hp":{"average":93,"formula":"11d8
+    + 44"},"speed":{"walk":30},"str":19,"dex":9,"con":18,"int":6,"wis":10,"cha":5,"senses":["darkvision
+    60 ft."],"passive":10,"immune":["cold","lightning","poison",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks that aren''t adamantine","cond":true}],"conditionImmune":["charmed","exhaustion","frightened","paralyzed","petrified","poisoned"],"languages":["understands
+    the languages of its creator but can''t speak"],"cr":"5","trait":[{"name":"Immutable
+    Form","entries":["Elise is immune to any spell or effect that would alter her
+    form."]},{"name":"Lightning Absorption","entries":["Whenever Elise is subjected
+    to lightning damage, she takes no damage and instead regains a number of hit
+    points equal to the lightning damage dealt."]},{"name":"Magic Resistance","entries":["Elise
+    has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+    Weapons","entries":["Elise''s weapon attacks are magical."]}],"action":[{"name":"Multiattack","entries":["Elise
+    makes two slam attacks."]},{"name":"Slam","entries":["{@atk mw} {@hit 7} to hit,
+    reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage."]}],"traitTags":["Damage
+    Absorption","Immutable Form","Magic Resistance","Magic Weapons"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["CS"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: bfb753da0372aedda60eefbcfa17dc66

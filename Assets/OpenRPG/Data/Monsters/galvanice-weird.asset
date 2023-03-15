@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: galvanice-weird
+  m_EditorClassIdentifier: 
+  Title: Galvanice Weird
+  AsJson: '{"name":"Galvanice Weird","source":"GGR","page":209,"size":["M"],"type":"elemental","alignment":["C","N"],"ac":[{"ac":12,"from":["natural
+    armor"]}],"hp":{"average":22,"formula":"3d8 + 9"},"speed":{"walk":30},"str":14,"dex":10,"con":17,"int":3,"wis":10,"cha":5,"senses":["darkvision
+    60 ft."],"passive":10,"resist":["cold","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+    nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["exhaustion","grappled","paralyzed","petrified","poisoned","prone","restrained","unconscious"],"cr":"1","trait":[{"name":"Death
+    Burst","entries":["When the galvanice weird dies, it explodes in a burst of ice
+    and lightning. Each creature within 10 feet of the exploding weird must make
+    a {@dc 13} Dexterity saving throw, taking 7 ({@damage 2d6}) lightning damage
+    on a failed save, or half as much damage on a successful one."]}],"action":[{"name":"Slam","entries":["{@atk
+    mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning
+    damage plus 5 ({@damage 2d4}) lightning damage. If the target is a creature,
+    it must succeed on a {@dc 13} Constitution saving throw or lose the ability to
+    use reactions until the start of the weird''s next turn."]}],"traitTags":["Death
+    Burst"],"senseTags":["D"],"damageTags":["B","L"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 416d0702d51eb5eb14abb77e495ed7a4

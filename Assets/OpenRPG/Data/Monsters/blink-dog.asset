@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070f19b6c9e94fb08527853af4bb0a63, type: 3}
+  m_Name: blink-dog
+  m_EditorClassIdentifier: 
+  Title: Blink Dog
+  AsJson: '{"name":"Blink Dog","source":"MM","page":318,"srd":true,"basicRules":true,"otherSources":[{"source":"WDMM"},{"source":"GoS"},{"source":"ERLW"},{"source":"MOT"},{"source":"TCE"},{"source":"WBtW"}],"size":["M"],"type":"fey","alignment":["L","G"],"ac":[13],"hp":{"average":22,"formula":"4d8
+    + 4"},"speed":{"walk":40},"str":12,"dex":17,"con":12,"int":10,"wis":13,"cha":11,"skill":{"perception":"+3","stealth":"+5"},"passive":13,"languages":["Blink
+    Dog","understands Sylvan but can''t speak it"],"cr":"1/4","trait":[{"name":"Keen
+    Hearing and Smell","entries":["The dog has advantage on Wisdom ({@skill Perception})
+    checks that rely on hearing or smell."]}],"action":[{"name":"Bite","entries":["{@atk
+    mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing
+    damage."]},{"name":"Teleport {@recharge 4}","entries":["The dog magically teleports,
+    along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied
+    space it can see. Before or after teleporting, the dog can make one bite attack."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/blink-dog.mp3"},"traitTags":["Keen
+    Senses"],"actionTags":["Teleport"],"languageTags":["CS","OTH","S"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+  DataHash: 2f98995e457d8029e438c5ebd76a75a5
