@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: compulsion
+  m_EditorClassIdentifier: 
+  Title: Compulsion
+  AsJson: '{"name":"Compulsion","source":"PHB","page":224,"srd":true,"level":4,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Creatures
+    of your choice that you can see within range and that can hear you must make
+    a Wisdom saving throw. A target automatically succeeds on this saving throw if
+    it can''t be {@condition charmed}. On a failed save, a target is affected by
+    this spell. Until the spell ends, you can use a bonus action on each of your
+    turns to designate a direction that is horizontal to you. Each affected target
+    must use as much of its movement as possible to move in that direction on its
+    next turn. It can take its action before it moves. After moving in this way,
+    it can make another Wisdom saving throw to try to end the effect.","A target
+    isn''t compelled to move into an obviously deadly hazard, such as a fire or pit,
+    but it will provoke opportunity attacks to move in the designated direction."],"savingThrow":["wisdom"],"miscTags":["SGT","UBA"],"areaTags":["MT"]}'
+  DataHash: 321972ea61c77767fe616a16ee19078d

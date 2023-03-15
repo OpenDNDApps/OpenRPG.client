@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: protection-from-ballistics-ua
+  m_EditorClassIdentifier: 
+  Title: Protection from Ballistics (UA)
+  AsJson: '{"name":"Protection from Ballistics (UA)","source":"UAModernMagic","page":8,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+    shell casing"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["This
+    spell enchants the flesh of the target against the impact of bullets. Until the
+    spell ends, the target has resistance to nonmagical ballistic damage."]}'
+  DataHash: 2eea2183c558c6e8bacaaa63ba69d7ee

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: silent-image
+  m_EditorClassIdentifier: 
+  Title: Silent Image
+  AsJson: '{"name":"Silent Image","source":"PHB","page":276,"srd":true,"basicRules":true,"level":1,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    bit of fleece"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    create the image of an object, a creature, or some other visible phenomenon that
+    is no larger than a 15-foot cube. The image appears at a spot within range and
+    lasts for the duration. The image is purely visual; it isn''t accompanied by
+    sound, smell, or other sensory effects.","You can use your action to cause the
+    image to move to any spot within range. As the image changes location, you can
+    alter its appearance so that its movements appear natural for the image. For
+    example, if you create an image of a creature and move it, you can alter the
+    image so that it appears to be walking.","Physical interaction with the image
+    reveals it to be an illusion, because things can pass through it. A creature
+    that uses its action to examine the image can determine that it is an illusion
+    with a successful Intelligence ({@skill Investigation}) check against your spell
+    save DC. If a creature discerns the illusion for what it is, the creature can
+    see through the image."],"abilityCheck":["intelligence"]}'
+  DataHash: 29036bb3f7fa2d6086f08272ada22d2d

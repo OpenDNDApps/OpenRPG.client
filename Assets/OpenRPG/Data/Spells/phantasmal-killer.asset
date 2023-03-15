@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: phantasmal-killer
+  m_EditorClassIdentifier: 
+  Title: Phantasmal Killer
+  AsJson: '{"name":"Phantasmal Killer","source":"PHB","page":265,"srd":true,"level":4,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    tap into the nightmares of a creature you can see within range and create an
+    illusory manifestation of its deepest fears, visible only to that creature. The
+    target must make a Wisdom saving throw. On a failed save, the target becomes
+    {@condition frightened} for the duration. At the end of each of the target''s
+    turns before the spell ends, the target must succeed on a Wisdom saving throw
+    or take {@damage 4d10} psychic damage. On a successful save, the spell ends."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 5th
+    level or higher, the damage increases by {@scaledamage 4d10|4-9|1d10} for each
+    slot level above 4th."]}],"damageInflict":["psychic"],"conditionInflict":["frightened"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 974089a2decc6cd00acb728fbf6e647c

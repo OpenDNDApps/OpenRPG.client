@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: spirit-shroud
+  m_EditorClassIdentifier: 
+  Title: Spirit Shroud
+  AsJson: '{"name":"Spirit Shroud","source":"UA2020SpellsAndMagicTattoos","page":2,"level":3,"school":"N","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    call forth spirits of the dead, which flit around you for the spell''s duration.
+    The spirits are intangible and invulnerable, and they are good or evil (your
+    choice).","Until the spell ends, any attack you make deals {@damage 1d8} extra
+    damage when you hit a creature within 10 feet of you. This damage is radiant
+    if the spirits are good and necrotic if they are evil. Any creature that takes
+    this damage can''t regain hit points until the start of your next turn.","In
+    addition, any creature of your choice that you can see that starts its turn within
+    10 feet of you has its speed reduced by 10 feet until the start of your next
+    turn."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 4th level or higher, the extra damage
+    increases by {@scaledamage 1d8|3-9|1d8} for each slot level above 3rd."]}],"damageInflict":["radiant","necrotic","cold"],"miscTags":["SGT"]}'
+  DataHash: e3412b14fb2598027ac4ecb380b3ab9c

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: blinding-smite
+  m_EditorClassIdentifier: 
+  Title: Blinding Smite
+  AsJson: '{"name":"Blinding Smite","source":"PHB","page":219,"level":3,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+    next time you hit a creature with a melee weapon attack during this spell''s
+    duration, your weapon flares with bright light, and the attack deals an extra
+    {@damage 3d8} radiant damage to the target. Additionally, the target must succeed
+    on a Constitution saving throw or be {@condition blinded} until the spell ends.","A
+    creature {@condition blinded} by this spell makes another Constitution saving
+    throw at the end of each of its turns. On a successful save, it is no longer
+    {@condition blinded}."],"damageInflict":["radiant"],"conditionInflict":["blinded"],"savingThrow":["constitution"],"miscTags":["AAD"]}'
+  DataHash: 6ff99de0e08730eb5897dc0499b73623

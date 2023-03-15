@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: toll-the-dead-ua
+  m_EditorClassIdentifier: 
+  Title: Toll the Dead (UA)
+  AsJson: '{"name":"Toll the Dead (UA)","source":"UAStarterSpells","page":4,"level":0,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    point at one creature you can see within range, and the sound of a dolorous bell
+    fills the air around it for a moment. The target must succeed on a Wisdom saving
+    throw or take {@damage 1d8} necrotic damage. If the target is missing any of
+    its hit points, it instead takes {@damage 1d12} necrotic damage.","The spell''s
+    damage increases by one die when you reach 5th level ({@damage 2d8} or {@damage
+    2d12}), 11th level ({@damage 3d8} or {@damage 3d12}), and 17th level ({@damage
+    4d8} or {@damage 4d12})."],"scalingLevelDice":[{"label":"necrotic damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},{"label":"necrotic
+    damage to wounded creature","scaling":{"1":"1d12","5":"2d12","11":"3d12","17":"4d12"}}],"damageInflict":["necrotic"],"savingThrow":["wisdom"],"miscTags":["SCL","SGT"],"areaTags":["ST"]}'
+  DataHash: 253df2272f65e009c811d6804933de59

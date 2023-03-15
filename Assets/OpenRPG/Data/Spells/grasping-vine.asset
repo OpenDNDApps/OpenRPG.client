@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: grasping-vine
+  m_EditorClassIdentifier: 
+  Title: Grasping Vine
+  AsJson: '{"name":"Grasping Vine","source":"PHB","page":246,"level":4,"school":"C","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    conjure a vine that sprouts from the ground in an unoccupied space of your choice
+    that you can see within range. When you cast this spell, you can direct the vine
+    to lash out at a creature within 30 feet of it that you can see. That creature
+    must succeed on a Dexterity saving throw or be pulled 20 feet directly toward
+    the vine.","Until the spell ends, you can direct the vine to lash out at the
+    same creature or another one as a bonus action on each of your turns."],"savingThrow":["dexterity"],"miscTags":["FMV","SGT","UBA"],"areaTags":["ST"]}'
+  DataHash: c7bf809ea412785db22ee357e68b5b51

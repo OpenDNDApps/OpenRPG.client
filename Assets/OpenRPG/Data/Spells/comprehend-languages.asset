@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: comprehend-languages
+  m_EditorClassIdentifier: 
+  Title: Comprehend Languages
+  AsJson: '{"name":"Comprehend Languages","source":"PHB","page":224,"srd":true,"basicRules":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+    pinch of soot and salt"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"meta":{"ritual":true},"entries":["For
+    the duration, you understand the literal meaning of any spoken language that
+    you hear. You also understand any written language that you see, but you must
+    be touching the surface on which the words are written. It takes about 1 minute
+    to read one page of text.","This spell doesn''t decode secret messages in a text
+    or a glyph, such as an arcane sigil, that isn''t part of a written language."]}'
+  DataHash: 06fceb388a4c186607a47d658b9127f7

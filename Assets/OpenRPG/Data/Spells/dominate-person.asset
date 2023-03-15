@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: dominate-person
+  m_EditorClassIdentifier: 
+  Title: Dominate Person
+  AsJson: '{"name":"Dominate Person","source":"PHB","page":235,"srd":true,"basicRules":true,"level":5,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    attempt to beguile a humanoid that you can see within range. It must succeed
+    on a Wisdom saving throw or be {@condition charmed} by you for the duration.
+    If you or creatures that are friendly to you are fighting it, it has advantage
+    on the saving throw.","While the target is {@condition charmed}, you have a telepathic
+    link with it as long as the two of you are on the same plane of existence. You
+    can use this telepathic link to issue commands to the creature while you are
+    conscious (no action required), which it does its best to obey. You can specify
+    a simple and general course of action, such as \"Attack that creature,\" \"Run
+    over there,\" or \"Fetch that object.\" If the creature completes the order and
+    doesn''t receive further direction from you, it defends and preserves itself
+    to the best of its ability.","You can use your action to take total and precise
+    control of the target. Until the end of your next turn, the creature takes only
+    the actions you choose, and doesn''t do anything that you don''t allow it to
+    do. During this time you can also cause the creature to use a reaction, but this
+    requires you to use your own reaction as well.","Each time the target takes damage,
+    it makes a new Wisdom saving throw against the spell. If the saving throw succeeds,
+    the spell ends."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a 6th-level spell slot, the duration is concentration,
+    up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration,
+    up to 1 hour. When you use a spell slot of 8th level or higher, the duration
+    is concentration, up to 8 hours."]}],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"affectsCreatureType":["humanoid"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 43e1c90884c4cbd716765a5e3c68008a

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: conjure-vrock-ua
+  m_EditorClassIdentifier: 
+  Title: Conjure Vrock (UA)
+  AsJson: '{"name":"Conjure Vrock (UA)","source":"UAThatOldBlackMagic","page":3,"level":5,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"a
+    gem worth at least 100 gp, which the spell consumes","cost":10000,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    summon a {@creature vrock} that appears in an unoccupied space you can see within
+    range. The {@creature vrock} disappears when it drops to 0 hit points or when
+    the spell ends.","The {@creature vrock}''s attitude depends on the value of the
+    gem used as a material component for this spell. Roll initiative for the {@creature
+    vrock}, which has its own turns. At the start of the {@creature vrock}''s turn,
+    the DM makes a secret Charisma check on your behalf, with a bonus equal to the
+    gem''s value divided by 20. The check DC starts at 10 and increases by 2 each
+    round. You can issue orders to the {@creature vrock} and have it obey you as
+    long as you succeed on the Charisma check.","If the check fails, the spell no
+    longer requires concentration and the {@creature vrock} is no longer under your
+    control. The {@creature vrock} takes no actions on its next turn and uses its
+    telepathy to tell any creature it can see that it will fight in exchange for
+    treasure. The creature that gives the {@creature vrock} the most expensive gem
+    can command it for the next {@dice 1d6} rounds. At the end of that time, it offers
+    the bargain again. If no one offers the {@creature vrock} treasure before its
+    next turn begins, it attacks the nearest creatures for {@dice 1d6} rounds before
+    returning to the Abyss.","As part of casting the spell, you can scribe a circle
+    on the ground using the blood of an intelligent humanoid slain within the past
+    24 hours. The circle is large enough to encompass your space. The summoned {@creature
+    vrock} cannot cross the circle or target anyone in it while the spell lasts."],"abilityCheck":["charisma"],"miscTags":["SGT","SMN"]}'
+  DataHash: 5f4d34a525614db5d875ab65e09803af

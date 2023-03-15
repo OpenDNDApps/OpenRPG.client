@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ray-of-enfeeblement
+  m_EditorClassIdentifier: 
+  Title: Ray of Enfeeblement
+  AsJson: '{"name":"Ray of Enfeeblement","source":"PHB","page":271,"srd":true,"level":2,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    black beam of enervating energy springs from your finger toward a creature within
+    range. Make a ranged spell attack against the target. On a hit, the target deals
+    only half damage with weapon attacks that use Strength until the spell ends.","At
+    the end of each of the target''s turns, it can make a Constitution saving throw
+    against the spell. On a success, the spell ends."],"spellAttack":["R"],"savingThrow":["constitution"],"areaTags":["ST"]}'
+  DataHash: b72f3c951a73b52588e7cc16ff40e21b

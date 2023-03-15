@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: frost-fingers
+  m_EditorClassIdentifier: 
+  Title: Frost Fingers
+  AsJson: '{"name":"Frost Fingers","source":"IDRotF","page":318,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":15}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Freezing
+    cold blasts from your fingertips in a 15-foot cone. Each creature in that area
+    must make a Constitution saving throw, taking {@damage 2d8} cold damage on a
+    failed save, or half as much damage on a successful one.","The cold freezes nonmagical
+    liquids in the area that aren''t being worn or carried."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the damage increases by {@dice 1d8} for each slot level above
+    1st."]}],"damageInflict":["cold"],"savingThrow":["constitution"],"areaTags":["N"]}'
+  DataHash: 27f60379096abb78749c7ada4f3e0db3

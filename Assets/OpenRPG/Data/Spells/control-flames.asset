@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: control-flames
+  m_EditorClassIdentifier: 
+  Title: Control Flames
+  AsJson: "{\"name\":\"Control Flames\",\"source\":\"XGE\",\"page\":152,\"otherSources\":[{\"source\":\"EEPC\",\"page\":16}],\"level\":0,\"school\":\"T\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"feet\",\"amount\":60}},\"components\":{\"s\":true},\"duration\":[{\"type\":\"instant\"},{\"type\":\"timed\",\"duration\":{\"type\":\"hour\",\"amount\":1}}],\"entries\":[\"You
+    choose nonmagical flame that you can see within range and that fits within a
+    5-foot cube. You affect it in one of the following ways:\",{\"type\":\"list\",\"items\":[\"You
+    instantaneously expand the flame 5 feet in one direction, provided that wood
+    or other fuel is present in the new location.\",\"You instantaneously extinguish
+    the flames within the cube.\",\"You double or halve the area of bright light
+    and dim light cast by the flame, change its color, or both. The change lasts
+    for 1 hour.\",\"You cause simple shapes\u2014such as the vague form of a creature,
+    an inanimate object, or a location\u2014to appear within the flames and animate
+    as you like. The shapes last for 1 hour.\"]},\"If you cast this spell multiple
+    times, you can have up to three non-instantaneous effects created by it active
+    at a time, and you can dismiss such an effect as an action.\"],\"miscTags\":[\"SGT\"],\"areaTags\":[\"C\"],\"hasFluffImages\":true}"
+  DataHash: f7454cb7a6550d2d8e743d0997bee9fc

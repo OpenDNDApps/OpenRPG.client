@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: psionic-blast
+  m_EditorClassIdentifier: 
+  Title: Psionic Blast
+  AsJson: '{"name":"Psionic Blast","source":"UAFighterRogueWizard","page":8,"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+    unleash a destructive wave of mental power in a 30-foot cone. Each creature in
+    the area must make a Dexterity saving throw. On a failed save, a target takes
+    {@damage 5d8} force damage, is pushed 20 feet directly away from you, and is
+    knocked {@condition prone}. On a successful save, a target takes half as much
+    damage and isn''t pushed or knocked prone."],"entriesHigherLevel":[{"name":"At
+    Higher Levels","type":"entries","entries":["When you cast this spell using a
+    spell slot of 4th level or higher, the damage increases by {@dice 1d8} for each
+    slot level above 3rd."]}],"damageInflict":["force"],"conditionInflict":["prone"],"savingThrow":["dexterity"],"miscTags":["FMV"],"areaTags":["N"]}'
+  DataHash: df26819ecf5b8e23a74867ac494efc34

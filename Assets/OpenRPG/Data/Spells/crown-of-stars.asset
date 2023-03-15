@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: crown-of-stars
+  m_EditorClassIdentifier: 
+  Title: Crown of Stars
+  AsJson: '{"name":"Crown of Stars","source":"XGE","page":152,"level":7,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["Seven
+    star-like motes of light appear and orbit your head until the spell ends. You
+    can use a bonus action to send one of the motes streaking toward one creature
+    or object within 120 feet of you. When you do so, make a ranged spell attack.
+    On a hit, the target takes {@damage 4d12} radiant damage. Whether you hit or
+    miss, the mote is expended. The spell ends early if you expend the last mote.","If
+    you have four or more motes remaining, they shed bright light in a 30-foot radius
+    and dim light for an additional 30 feet. If you have one to three motes remaining,
+    they shed dim light in a 30-foot radius."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 8th
+    level or higher, the number of motes created increases by two for each slot level
+    above 7th."]}],"damageInflict":["radiant"],"spellAttack":["R"],"miscTags":["LGT","OBJ","UBA"],"areaTags":["ST"]}'
+  DataHash: 733b91f43d681ec26127e6ca69a4274e

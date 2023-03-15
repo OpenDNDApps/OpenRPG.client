@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: magic-stone
+  m_EditorClassIdentifier: 
+  Title: Magic Stone
+  AsJson: '{"name":"Magic Stone","source":"XGE","page":160,"otherSources":[{"source":"EEPC","page":20}],"level":0,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+    touch one to three pebbles and imbue them with magic. You or someone else can
+    make a ranged spell attack with one of the pebbles by throwing it or hurling
+    it with a {@item sling|phb}. If thrown, a pebble has a range of 60 feet. If someone
+    else attacks with a pebble, that attacker adds your spellcasting ability modifier,
+    not the attacker''s, to the attack roll. On a hit, the target takes bludgeoning
+    damage equal to {@damage 1d6} + your spellcasting ability modifier. Whether the
+    attack hits or misses, the spell then ends on the stone.","If you cast this spell
+    again, the spell ends on any pebbles still affected by your previous casting."],"damageInflict":["bludgeoning"],"spellAttack":["R"],"areaTags":["ST"]}'
+  DataHash: 5b1cf09ca6dc9aecf4af99c73d4aeb34

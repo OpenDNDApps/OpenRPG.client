@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ceremony-ua
+  m_EditorClassIdentifier: 
+  Title: Ceremony (UA)
+  AsJson: '{"name":"Ceremony (UA)","source":"UAStarterSpells","page":2,"level":1,"school":"V","time":[{"number":1,"unit":"hour"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"25
+    gp worth of powdered silver","cost":2500}},"duration":[{"type":"instant","condition":"see
+    text"}],"meta":{"ritual":true},"entries":["You perform one of several religious
+    ceremonies. When you cast the spell, choose one of the following ceremonies,
+    the target of which must be within 10 feet of you throughout the casting.",{"type":"entries","name":"Atonement","entries":["You
+    touch one willing creature whose alignment has changed, and you make a DC 20
+    Wisdom ({@skill Insight}) check. On a success, you restore the target to its
+    original alignment."]},{"type":"entries","name":"Bless Water","entries":["You
+    touch one {@item vial|phb} of water and cause it to become {@item Holy Water
+    (flask)|phb|holy water}."]},{"type":"entries","name":"Coming of Age","entries":["You
+    touch one humanoid old enough to be a young adult. For the next 24 hours, whenever
+    the target makes an ability check, it can roll a {@dice d4} and add the number
+    rolled to the ability check. A creature can benefit from this ceremony just once."]},{"type":"entries","name":"Dedication","entries":["You
+    touch one humanoid who would willingly convert to your religion or who wishes
+    to be dedicated to your god''s service. For the next 24 hours, whenever the target
+    makes a saving throw, it can roll a {@dice d4} and add the number rolled to the
+    save. A creature can benefit from this ceremony just once."]},{"type":"entries","name":"Funeral
+    Rite","entries":["You bless one corpse within 5 feet of you. For the next 24
+    hours, the target can''t become undead by any means short of a {@spell wish}
+    spell."]},{"type":"entries","name":"Investiture","entries":["You touch one willing
+    humanoid. Choose one 1st-level spell you have prepared and expend a spell slot
+    and any material components as if you were casting that spell. The spell has
+    no effect. Instead, the target can cast this spell once without having to expend
+    a spell slot or use material components. If the target doesn''t cast the spell
+    within 1 hour, the invested spell is lost."]},{"type":"entries","name":"Marriage","entries":["You
+    touch adult humanoids willing to be bonded together in marriage. For the next
+    24 hours, each target gains a +2 bonus to AC and saving throws while they are
+    within 30 feet of each other. A creature can benefit from this ceremony just
+    once."]}],"affectsCreatureType":["humanoid"],"miscTags":["MAC"],"areaTags":["ST"]}'
+  DataHash: 680bf26ea333c5b675306a3c8f196196

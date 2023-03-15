@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: time-stop
+  m_EditorClassIdentifier: 
+  Title: Time Stop
+  AsJson: '{"name":"Time Stop","source":"PHB","page":283,"srd":true,"basicRules":true,"level":9,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+    briefly stop the flow of time for everyone but yourself. No time passes for other
+    creatures, while you take {@dice 1d4 + 1} turns in a row, during which you can
+    use actions and move as normal.","This spell ends if one of the actions you use
+    during this period, or any effects that you create during this period, affects
+    a creature other than you or an object being worn or carried by someone other
+    than you. In addition, the spell ends if you move to a place more than 1,000
+    feet from the location where you cast it."]}'
+  DataHash: 27b3b79752ff93b1d7d810d473c38582

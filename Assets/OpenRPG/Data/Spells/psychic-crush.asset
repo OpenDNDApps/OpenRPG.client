@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: psychic-crush
+  m_EditorClassIdentifier: 
+  Title: Psychic Crush
+  AsJson: '{"name":"Psychic Crush","source":"UAFighterRogueWizard","page":8,"level":6,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+    overload the mind of one creature you can see within range, filling its psyche
+    with discordant emotions. The target must make an Intelligence saving throw.
+    On a failed save, the target takes {@damage 12d6} psychic damage and is {@condition
+    stunned} for 1 minute. On a successful save, the target takes half as much damage
+    and isn''t stunned.","The stunned target can make an Intelligence saving throw
+    at the end of each of its turns. On a successful save, the spell ends on the
+    target."],"damageInflict":["psychic"],"conditionInflict":["stunned"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 14508cf3baa5fa2fd3942e4fa83b6bbd

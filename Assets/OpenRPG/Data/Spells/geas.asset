@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: geas
+  m_EditorClassIdentifier: 
+  Title: Geas
+  AsJson: '{"name":"Geas","source":"PHB","page":244,"srd":true,"level":5,"school":"E","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"day","amount":30}}],"entries":["You
+    place a magical command on a creature that you can see within range, forcing
+    it to carry out some service or refrain from some action or course of activity
+    as you decide. If the creature can understand you, it must succeed on a Wisdom
+    saving throw or become {@condition charmed} by you for the duration. While the
+    creature is {@condition charmed} by you, it takes {@damage 5d10} psychic damage
+    each time it acts in a manner directly counter to your instructions, but no more
+    than once each day. A creature that can''t understand you is unaffected by the
+    spell.","You can issue any command you choose, short of an activity that would
+    result in certain death. Should you issue a suicidal command, the spell ends.","You
+    can end the spell early by using an action to dismiss it. A {@spell remove curse},
+    {@spell greater restoration}, or {@spell wish} spell also ends it."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 7th
+    or 8th level, the duration is 1 year. When you cast this spell using a spell
+    slot of 9th level, the spell lasts until it is ended by one of the spells mentioned
+    above."]}],"damageInflict":["psychic"],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: bc47263c674dd810cee56017aa787c30

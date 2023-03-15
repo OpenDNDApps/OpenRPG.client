@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: wristpocket
+  m_EditorClassIdentifier: 
+  Title: Wristpocket
+  AsJson: '{"name":"Wristpocket","source":"EGW","page":190,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"ritual":true},"entries":["You
+    flick your wrist, causing one object in your hand to vanish. The object, which
+    only you can be holding and can weigh no more than 5 pounds, is transported to
+    an extradimensional space, where it remains for the duration.","Until the spell
+    ends, you can use your action to summon the object to your free hand, and you
+    can use your action to return the object to the extradimensional space. An object
+    still in the pocket plane when the spell ends appears in your space, at your
+    feet."],"areaTags":["ST"]}'
+  DataHash: efd8ef6facf30798bdc9740b50024c72

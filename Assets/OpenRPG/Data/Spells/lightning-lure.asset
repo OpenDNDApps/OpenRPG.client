@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: lightning-lure
+  m_EditorClassIdentifier: 
+  Title: Lightning Lure
+  AsJson: '{"name":"Lightning Lure","source":"TCE","page":107,"otherSources":[{"source":"SCAG","page":143}],"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":15}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+    create a lash of lightning energy that strikes at one creature of your choice
+    that you can see within 15 feet of you. The target must succeed on a Strength
+    saving throw or be pulled up to 10 feet in a straight line toward you and then
+    take {@damage 1d8} lightning damage if it is within 5 feet of you.","This spell''s
+    damage increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}), 11th
+    level ({@damage 3d8}), and 17th level ({@damage 4d8})."],"scalingLevelDice":{"label":"lightning
+    damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},"damageInflict":["lightning"],"savingThrow":["strength"],"miscTags":["FMV","SCL","SGT"],"areaTags":["ST"]}'
+  DataHash: 788852c54668091c34290874a4968681

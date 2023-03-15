@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: thorn-whip
+  m_EditorClassIdentifier: 
+  Title: Thorn Whip
+  AsJson: '{"name":"Thorn Whip","source":"PHB","page":282,"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"the
+    stem of a plant with thorns"},"duration":[{"type":"instant"}],"entries":["You
+    create a long, vine-like whip covered in thorns that lashes out at your command
+    toward a creature in range. Make a melee spell attack against the target. If
+    the attack hits, the creature takes {@damage 1d6} piercing damage, and if the
+    creature is Large or smaller, you pull the creature up to 10 feet closer to you.","This
+    spell''s damage increases by {@dice 1d6} when you reach 5th level ({@damage 2d6}),
+    11th level ({@damage 3d6}), and 17th level ({@damage 4d6})."],"scalingLevelDice":{"label":"piercing
+    damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["piercing"],"spellAttack":["M"],"miscTags":["FMV","SCL"],"areaTags":["ST"]}'
+  DataHash: 30789da1749870917862e19ed99fb1b4

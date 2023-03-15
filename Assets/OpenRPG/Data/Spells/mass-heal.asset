@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: mass-heal
+  m_EditorClassIdentifier: 
+  Title: Mass Heal
+  AsJson: '{"name":"Mass Heal","source":"PHB","page":258,"srd":true,"basicRules":true,"level":9,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["A
+    flood of healing energy flows from you into injured creatures around you. You
+    restore up to 700 hit points, divided as you choose among any number of creatures
+    that you can see within range. Creatures healed by this spell are also cured
+    of all diseases and any effect making them {@condition blinded} or {@condition
+    deafened}. This spell has no effect on undead or constructs."],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL","SGT"],"areaTags":["MT"]}'
+  DataHash: 3bd6b88f774694762228bb8c181f86d6

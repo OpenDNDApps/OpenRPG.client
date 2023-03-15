@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: conjure-celestial
+  m_EditorClassIdentifier: 
+  Title: Conjure Celestial
+  AsJson: '{"name":"Conjure Celestial","source":"PHB","page":225,"srd":true,"level":7,"school":"C","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    summon a {@filter celestial of challenge rating 4 or lower|bestiary|challenge
+    rating=[&0;&4]|type=celestial|miscellaneous=!swarm}, which appears in an unoccupied
+    space that you can see within range. The celestial disappears when it drops to
+    0 hit points or when the spell ends.","The celestial is friendly to you and your
+    companions for the duration. Roll initiative for the celestial, which has its
+    own turns. It obeys any verbal commands that you issue to it (no action required
+    by you), as long as they don''t violate its alignment. If you don''t issue any
+    commands to the celestial, it defends itself from hostile creatures but otherwise
+    takes no actions.","The DM has {@creature couatl||the celestial}''s statistics."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a 9th-level spell slot,
+    you summon a {@filter celestial of challenge rating 5 or lower|bestiary|challenge
+    rating=[&0;&5]|type=celestial|miscellaneous=!swarm}."]}],"miscTags":["SGT","SMN"]}'
+  DataHash: 62d9e3a508f7f31fee551ff41a5c5392

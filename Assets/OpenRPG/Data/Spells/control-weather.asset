@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: control-weather
+  m_EditorClassIdentifier: 
+  Title: Control Weather
+  AsJson: "{\"name\":\"Control Weather\",\"source\":\"PHB\",\"page\":228,\"srd\":true,\"level\":8,\"school\":\"T\",\"time\":[{\"number\":10,\"unit\":\"minute\"}],\"range\":{\"type\":\"radius\",\"distance\":{\"type\":\"miles\",\"amount\":5}},\"components\":{\"v\":true,\"s\":true,\"m\":\"burning
+    incense and bits of earth and wood mixed in water\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"hour\",\"amount\":8},\"concentration\":true}],\"entries\":[\"You
+    take control of the weather within 5 miles of you for the duration. You must
+    be outdoors to cast this spell. Moving to a place where you don't have a clear
+    path to the sky ends the spell early.\",\"When you cast the spell, you change
+    the current weather conditions, which are determined by the DM based on the climate
+    and season. You can change precipitation, temperature, and wind. It takes {@dice
+    1d4 \xD7 10} minutes for the new conditions to take effect. Once they do so,
+    you can change the conditions again. When the spell ends, the weather gradually
+    returns to normal.\",\"When you change the weather conditions, find a current
+    condition on the following tables and change its stage by one, up or down. When
+    changing the wind, you can change its direction.\",{\"type\":\"table\",\"caption\":\"Precipitation\",\"colLabels\":[\"Stage\",\"Condition\"],\"colStyles\":[\"col-1
+    text-center\",\"col-11\"],\"rows\":[[\"1\",\"Clear\"],[\"2\",\"Light clouds\"],[\"3\",\"Overcast
+    or ground fog\"],[\"4\",\"Rain, hail, or snow\"],[\"5\",\"Torrential rain, driving
+    hail, or blizzard\"]]},{\"type\":\"table\",\"caption\":\"Temperature\",\"colLabels\":[\"Stage\",\"Condition\"],\"colStyles\":[\"col-1
+    text-center\",\"col-11\"],\"rows\":[[\"1\",\"Unbearable heat\"],[\"2\",\"Hot\"],[\"3\",\"Warm\"],[\"4\",\"Cool\"],[\"5\",\"Cold\"],[\"6\",\"Arctic
+    cold\"]]},{\"type\":\"table\",\"caption\":\"Wind\",\"colLabels\":[\"Stage\",\"Condition\"],\"colStyles\":[\"col-1
+    text-center\",\"col-11\"],\"rows\":[[\"1\",\"Calm\"],[\"2\",\"Moderate wind\"],[\"3\",\"Strong
+    wind\"],[\"4\",\"Gale\"],[\"5\",\"Storm\"]]}]}"
+  DataHash: 8d4513a4cee5eb3e2804d076463d7237

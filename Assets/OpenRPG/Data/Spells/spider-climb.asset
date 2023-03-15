@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: spider-climb
+  m_EditorClassIdentifier: 
+  Title: Spider Climb
+  AsJson: '{"name":"Spider Climb","source":"PHB","page":277,"srd":true,"basicRules":true,"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+    drop of bitumen and a spider"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["Until
+    the spell ends, one willing creature you touch gains the ability to move up,
+    down, and across vertical surfaces and upside down along ceilings, while leaving
+    its hands free. The target also gains a climbing speed equal to its walking speed."]}'
+  DataHash: 74fe5e68a9ccf2c28b5b1748e39aa8a0

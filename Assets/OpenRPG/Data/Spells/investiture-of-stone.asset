@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: investiture-of-stone
+  m_EditorClassIdentifier: 
+  Title: Investiture of Stone
+  AsJson: '{"name":"Investiture of Stone","source":"XGE","page":159,"otherSources":[{"source":"EEPC","page":19}],"level":6,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Until
+    the spell ends, bits of rock spread across your body, and you gain the following
+    benefits:",{"type":"list","items":["You have resistance to bludgeoning, piercing,
+    and slashing damage from nonmagical attacks.","You can use your action to create
+    a small earthquake on the ground in a 15-foot radius centered on you. Other creatures
+    on that ground must succeed on a Dexterity saving throw or be knocked {@condition
+    prone}.","You can move across {@quickref difficult terrain||3} made of earth
+    or stone without spending extra movement. You can move through solid earth or
+    stone as if it was air and without destabilizing it, but you can''t end your
+    movement there. If you do so, you are ejected to the nearest unoccupied space,
+    this spell ends, and you are {@condition stunned} until the end of your next
+    turn."]}],"damageResist":["bludgeoning","piercing","slashing"],"conditionInflict":["prone","stunned"],"savingThrow":["dexterity"],"areaTags":["S"]}'
+  DataHash: 0459da88f0307fc0b0ba77f9c54e6b25

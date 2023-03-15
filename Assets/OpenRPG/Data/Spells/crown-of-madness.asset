@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: crown-of-madness
+  m_EditorClassIdentifier: 
+  Title: Crown of Madness
+  AsJson: '{"name":"Crown of Madness","source":"PHB","page":229,"level":2,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["One
+    humanoid of your choice that you can see within range must succeed on a Wisdom
+    saving throw or become {@condition charmed} by you for the duration. While the
+    target is {@condition charmed} in this way, a twisted crown of jagged iron appears
+    on its head, and a madness glows in its eyes.","The {@condition charmed} target
+    must use its action before moving on each of its turns to make a melee attack
+    against a creature other than itself that you mentally choose. The target can
+    act normally on its turn if you choose no creature or if none are within its
+    reach.","On your subsequent turns, you must use your action to maintain control
+    over the target, or the spell ends. Also, the target can make a Wisdom saving
+    throw at the end of each of its turns. On a success, the spell ends."],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"affectsCreatureType":["humanoid"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: b181208e0ce81bf93ab483b1e6901ce9

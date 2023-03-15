@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: clairvoyance
+  m_EditorClassIdentifier: 
+  Title: Clairvoyance
+  AsJson: '{"name":"Clairvoyance","source":"PHB","page":222,"srd":true,"level":3,"school":"D","time":[{"number":10,"unit":"minute"}],"range":{"type":"point","distance":{"type":"miles","amount":1}},"components":{"v":true,"s":true,"m":{"text":"a
+    focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye
+    for seeing","cost":10000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    create an invisible sensor within range in a location familiar to you (a place
+    you have visited or seen before) or in an obvious location that is unfamiliar
+    to you (such as behind a door, around a corner, or in a grove of trees). The
+    sensor remains in place for the duration, and it can''t be attacked or otherwise
+    interacted with.","When you cast the spell, you choose seeing or hearing. You
+    can use the chosen sense through the sensor as if you were in its space. As your
+    action, you can switch between seeing and hearing.","A creature that can see
+    the sensor (such as a creature benefiting from {@spell see invisibility} or {@sense
+    truesight}) sees a luminous, intangible orb about the size of your fist."]}'
+  DataHash: 81c40faf4bd447cf763fddd6fc1b0372

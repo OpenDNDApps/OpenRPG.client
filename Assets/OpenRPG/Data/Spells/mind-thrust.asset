@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: mind-thrust
+  m_EditorClassIdentifier: 
+  Title: Mind Thrust
+  AsJson: '{"name":"Mind Thrust","source":"UAFighterRogueWizard","page":7,"level":2,"school":"E","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+    propel a lance of psionic disruption into the mind of one creature you can see
+    within range. The target must make an Intelligence saving throw. On a failed
+    save, the target takes {@damage 3d6} psychic damage, and it can use its action
+    only to {@action Dash} or {@action Disengage} on its next turn. On a successful
+    save, the target takes half as much damage, and this spell doesn''t limit its
+    action options."],"entriesHigherLevel":[{"name":"At Higher Levels","type":"entries","entries":["When
+    you cast this spell using a spell slot of 3rd level or higher, you can target
+    one additional creature for each slot level above 2nd. The creatures must be
+    within 30 feet of each other when you target them."]}],"damageInflict":["psychic"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST","MT"]}'
+  DataHash: f35a028048d52873d99306a7ec60cdf0

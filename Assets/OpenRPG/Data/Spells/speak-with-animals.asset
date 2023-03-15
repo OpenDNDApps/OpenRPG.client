@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: speak-with-animals
+  m_EditorClassIdentifier: 
+  Title: Speak with Animals
+  AsJson: '{"name":"Speak with Animals","source":"PHB","page":277,"srd":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"meta":{"ritual":true},"entries":["You
+    gain the ability to comprehend and verbally communicate with beasts for the duration.
+    The knowledge and awareness of many beasts is limited by their intelligence,
+    but at minimum, beasts can give you information about nearby locations and monsters,
+    including whatever they can perceive or have perceived within the past day. You
+    might be able to persuade a beast to perform a small favor for you, at the DM''s
+    discretion."],"affectsCreatureType":["beast"]}'
+  DataHash: 056cbccd58bbd1bfec35de05562f0d33

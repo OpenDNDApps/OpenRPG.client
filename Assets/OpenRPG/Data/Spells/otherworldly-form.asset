@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: otherworldly-form
+  m_EditorClassIdentifier: 
+  Title: Otherworldly Form
+  AsJson: '{"name":"Otherworldly Form","source":"UA2020SpellsAndMagicTattoos","page":2,"level":6,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":{"text":"an
+    object engraved with a symbol of the Outer Planes, worth at least 500 gp","cost":50000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Uttering
+    an incantation, you draw on the magic of the Lower Planes or Upper Planes (your
+    choice) to transform yourself. You gain the following benefits until the spell
+    ends:",{"type":"list","items":["You are immune to fire and poison damage (Lower
+    Planes) or radiant and necrotic damage (Upper Planes).","You are immune to the
+    {@condition poisoned} condition (Lower Planes) or the {@condition charmed} condition
+    (Upper Planes).","Spectral wings appear on your back, giving you a flying speed
+    of 40 feet.","You have a +2 bonus to AC.","All your weapon attacks are magical,
+    and when you make a weapon attack, you can use your spellcasting ability modifier,
+    instead of Strength or Dexterity, for the attack and damage rolls.","You can
+    attack twice, instead of once, when you take the Attack action on your turn.
+    You ignore this benefit if you already have a feature, like Extra Attack, that
+    gives you extra attacks."]}],"damageImmune":["fire","poison","radiant","necrotic"],"conditionImmune":["poisoned","charmed"],"miscTags":["MAC"],"areaTags":["ST"]}'
+  DataHash: 0132e2fa6ec919657dc85f5b7662afb5

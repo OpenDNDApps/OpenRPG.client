@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: blur
+  m_EditorClassIdentifier: 
+  Title: Blur
+  AsJson: '{"name":"Blur","source":"PHB","page":219,"srd":true,"basicRules":true,"level":2,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Your
+    body becomes blurred, shifting and wavering to all who can see you. For the duration,
+    any creature has disadvantage on attack rolls against you. An attacker is immune
+    to this effect if it doesn''t rely on sight, as with blindsight, or can see through
+    illusions, as with {@sense truesight}."]}'
+  DataHash: 6e06b77155a96f7350af3afafb1b3c7a

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: aura-of-vitality
+  m_EditorClassIdentifier: 
+  Title: Aura of Vitality
+  AsJson: '{"name":"Aura of Vitality","source":"PHB","page":216,"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Healing
+    energy radiates from you in an aura with a 30-foot radius. Until the spell ends,
+    the aura moves with you, centered on you. You can use a bonus action to cause
+    one creature in the aura (including you) to regain {@dice 2d6} hit points."],"miscTags":["HL","UBA"],"areaTags":["S"]}'
+  DataHash: 28c4ca1e5c40947184de32630a6add25

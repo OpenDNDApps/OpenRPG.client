@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: beast-bond
+  m_EditorClassIdentifier: 
+  Title: Beast Bond
+  AsJson: '{"name":"Beast Bond","source":"XGE","page":150,"otherSources":[{"source":"EEPC","page":15}],"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+    bit of fur wrapped in a cloth"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    establish a telepathic link with one beast you touch that is friendly to you
+    or {@condition charmed} by you. The spell fails if the beast''s Intelligence
+    score is 4 or higher. Until the spell ends, the link is active while you and
+    the beast are within line of sight of each other. Through the link, the beast
+    can understand your telepathic messages to it, and it can telepathically communicate
+    simple emotions and concepts back to you. While the link is active, the beast
+    gains advantage on attack rolls against any creature within 5 feet of you that
+    you can see."],"conditionInflict":["charmed"],"affectsCreatureType":["beast"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: b415a435b1afb80312a015b60bb55f04

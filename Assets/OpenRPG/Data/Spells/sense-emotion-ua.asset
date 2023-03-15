@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sense-emotion-ua
+  m_EditorClassIdentifier: 
+  Title: Sense Emotion (UA)
+  AsJson: '{"name":"Sense Emotion (UA)","source":"UAStarterSpells","page":4,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    attune your senses to pick up the emotions of others for the duration. When you
+    cast the spell, and as your action on each turn until the spell ends, you can
+    focus your senses on one humanoid you can see within 30 feet of you. You instantly
+    learn the target''s prevailing emotion, whether it''s love, anger, pain, fear,
+    calm, or something else. If the target isn''t actually humanoid or it is immune
+    to being {@condition charmed}, you sense that it is calm."],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 405491961eaf646f64c3e5aa4bc556d9

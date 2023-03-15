@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: wither-and-bloom
+  m_EditorClassIdentifier: 
+  Title: Wither and Bloom
+  AsJson: '{"name":"Wither and Bloom","source":"SCC","page":38,"level":2,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    withered vine twisted into a loop"},"duration":[{"type":"instant"}],"entries":["You
+    invoke both death and life upon a 10-foot-radius sphere centered on a point within
+    range. Each creature of your choice in that area must make a Constitution saving
+    throw, taking {@damage 2d6} necrotic damage on a failed save, or half as much
+    damage on a successful one. Nonmagical vegetation in that area withers.","In
+    addition, one creature of your choice in that area can spend and roll one of
+    its unspent Hit Dice and regain a number of hit points equal to the roll plus
+    your spellcasting ability modifier."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, the damage increases by {@scaledamage 2d6|2-9|1d6} for each
+    slot above the 2nd, and the number of Hit Dice that can be spent and added to
+    the healing roll increases by one for each slot above 2nd."]}],"damageInflict":["necrotic"],"savingThrow":["constitution"],"miscTags":["HL"]}'
+  DataHash: ab4e870168fa3a2902fb589c3b2ca3f2

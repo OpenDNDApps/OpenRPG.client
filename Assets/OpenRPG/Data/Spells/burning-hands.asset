@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: burning-hands
+  m_EditorClassIdentifier: 
+  Title: Burning Hands
+  AsJson: '{"name":"Burning Hands","source":"PHB","page":220,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":15}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["As
+    you hold your hands with thumbs touching and fingers spread, a thin sheet of
+    flames shoots forth from your outstretched fingertips. Each creature in a 15-foot
+    cone must make a Dexterity saving throw. A creature takes {@damage 3d6} fire
+    damage on a failed save, or half as much damage on a successful one.","The fire
+    ignites any flammable objects in the area that aren''t being worn or carried."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+    level or higher, the damage increases by {@scaledamage 3d6|1-9|1d6} for each
+    slot level above 1st."]}],"damageInflict":["fire"],"savingThrow":["dexterity"],"miscTags":["OBJ"],"areaTags":["N"],"hasFluffImages":true}'
+  DataHash: 2d96ee81f1d20a925849328695384f13

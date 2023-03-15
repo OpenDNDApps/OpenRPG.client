@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: mind-spike
+  m_EditorClassIdentifier: 
+  Title: Mind Spike
+  AsJson: '{"name":"Mind Spike","source":"XGE","page":162,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    reach into the mind of one creature you can see within range. The target must
+    make a Wisdom saving throw, taking {@damage 3d8} psychic damage on a failed save,
+    or half as much damage on a successful one. On a failed save, you also always
+    know the target''s location until the spell ends, but only while the two of you
+    are on the same plane of existence. While you have this knowledge, the target
+    can''t become hidden from you, and if it''s {@condition invisible}, it gains
+    no benefit from that condition against you."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each
+    slot level above 2nd."]}],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 1aaa92646f37a78816eaadeb7a44c67d

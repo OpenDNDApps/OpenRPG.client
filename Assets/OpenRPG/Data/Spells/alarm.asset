@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: alarm
+  m_EditorClassIdentifier: 
+  Title: Alarm
+  AsJson: '{"name":"Alarm","source":"PHB","page":211,"srd":true,"level":1,"school":"A","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    tiny bell and a piece of fine silver wire"},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"meta":{"ritual":true},"entries":["You
+    set an alarm against unwanted intrusion. Choose a door, a window, or an area
+    within range that is no larger than a 20-foot cube. Until the spell ends, an
+    alarm alerts you whenever a Tiny or larger creature touches or enters the warded
+    area. When you cast the spell, you can designate creatures that won''t set off
+    the alarm. You also choose whether the alarm is mental or audible.","A mental
+    alarm alerts you with a ping in your mind if you are within 1 mile of the warded
+    area. This ping awakens you if you are sleeping.","An audible alarm produces
+    the sound of a hand bell for 10 seconds within 60 feet."],"areaTags":["C"]}'
+  DataHash: 60b14f2fb1434193e5b5e0fde53636eb

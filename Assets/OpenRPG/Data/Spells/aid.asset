@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: aid
+  m_EditorClassIdentifier: 
+  Title: Aid
+  AsJson: '{"name":"Aid","source":"PHB","page":211,"srd":true,"basicRules":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    tiny strip of white cloth"},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["Your
+    spell bolsters your allies with toughness and resolve. Choose up to three creatures
+    within range. Each target''s hit point maximum and current hit points increase
+    by 5 for the duration."],"entriesHigherLevel":[{"type":"entries","name":"At Higher
+    Levels","entries":["When you cast this spell using a spell slot of 3rd level
+    or higher, a target''s hit points increase by an additional 5 for each slot level
+    above 2nd."]}],"miscTags":["HL"],"areaTags":["MT"]}'
+  DataHash: c917d9f79c9d35988fc5209bd184bfde

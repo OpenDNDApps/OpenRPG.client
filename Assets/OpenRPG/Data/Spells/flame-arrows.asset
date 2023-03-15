@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: flame-arrows
+  m_EditorClassIdentifier: 
+  Title: Flame Arrows
+  AsJson: '{"name":"Flame Arrows","source":"XGE","page":156,"otherSources":[{"source":"EEPC","page":18}],"level":3,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon
+    attack using a piece of ammunition drawn from the quiver, the target takes an
+    extra {@damage 1d6} fire damage. The spell''s magic ends on a piece of ammunition
+    when it hits or misses, and the spell ends when twelve pieces of ammunition have
+    been drawn from the quiver."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+    level or higher, the number of pieces of ammunition you can affect with this
+    spell increases by two for each slot level above 3rd."]}],"damageInflict":["fire"],"miscTags":["AAD"]}'
+  DataHash: caf31630f8d66b79eefb0357ff2c3604

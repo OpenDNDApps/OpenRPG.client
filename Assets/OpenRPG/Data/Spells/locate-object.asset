@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: locate-object
+  m_EditorClassIdentifier: 
+  Title: Locate Object
+  AsJson: "{\"name\":\"Locate Object\",\"source\":\"PHB\",\"page\":256,\"srd\":true,\"level\":2,\"school\":\"D\",\"time\":[{\"number\":1,\"unit\":\"action\"}],\"range\":{\"type\":\"point\",\"distance\":{\"type\":\"self\"}},\"components\":{\"v\":true,\"s\":true,\"m\":\"a
+    forked twig\"},\"duration\":[{\"type\":\"timed\",\"duration\":{\"type\":\"minute\",\"amount\":10},\"concentration\":true}],\"entries\":[\"Describe
+    or name an object that is familiar to you. You sense the direction to the object's
+    location, as long as that object is within 1,000 feet of you. If the object is
+    in motion, you know the direction of its movement.\",\"The spell can locate a
+    specific object known to you, as long as you have seen it up close\u2014within
+    30 feet\u2014at least once. Alternatively, the spell can locate the nearest object
+    of a particular kind, such as a certain kind of apparel, jewelry, furniture,
+    tool, or weapon.\",\"This spell can't locate an object if any thickness of lead,
+    even a thin sheet, blocks a direct path between you and the object.\"],\"miscTags\":[\"OBJ\"]}"
+  DataHash: a82d2bb269804357b0ec3b0ad36e62f4

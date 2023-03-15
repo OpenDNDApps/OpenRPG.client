@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: maze
+  m_EditorClassIdentifier: 
+  Title: Maze
+  AsJson: '{"name":"Maze","source":"PHB","page":258,"srd":true,"basicRules":true,"level":8,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    banish a creature that you can see within range into a labyrinthine demiplane.
+    The target remains there for the duration or until it escapes the maze.","The
+    target can use its action to attempt to escape. When it does so, it makes a DC
+    20 Intelligence check. If it succeeds, it escapes, and the spell ends (a {@creature
+    minotaur} or {@creature goristro} demon automatically succeeds).","When the spell
+    ends, the target reappears in the space it left or, if that space is occupied,
+    in the nearest unoccupied space."],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: d5197b92dadedc99022aaa985ae84a32

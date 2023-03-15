@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sleet-storm
+  m_EditorClassIdentifier: 
+  Title: Sleet Storm
+  AsJson: '{"name":"Sleet Storm","source":"PHB","page":276,"srd":true,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":150}},"components":{"v":true,"s":true,"m":"a
+    pinch of dust and a few drops of water"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Until
+    the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with
+    a 40-foot radius centered on a point you choose within range. The area is {@quickref
+    Vision and Light|PHB|2||heavily obscured}, and exposed flames in the area are
+    doused.","The ground in the area is covered with slick ice, making it {@quickref
+    difficult terrain||3}. When a creature enters the spell''s area for the first
+    time on a turn or starts its turn there, it must make a Dexterity saving throw.
+    On a failed save, it falls {@condition prone}.","If a creature starts its turn
+    in the spell''s area and is concentrating on a spell, the creature must make
+    a successful Constitution saving throw against your spell save DC or lose concentration."],"conditionInflict":["prone"],"savingThrow":["dexterity","constitution"],"miscTags":["OBS"],"areaTags":["Y"]}'
+  DataHash: e36817c3792d8c31bc0c51371b61bcaf

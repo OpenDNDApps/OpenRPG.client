@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: antilife-shell
+  m_EditorClassIdentifier: 
+  Title: Antilife Shell
+  AsJson: '{"name":"Antilife Shell","source":"PHB","page":213,"srd":true,"level":5,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["A
+    shimmering barrier extends out from you in a 10-foot radius and moves with you,
+    remaining centered on you and hedging out creatures other than undead and constructs.
+    The barrier lasts for the duration.","The barrier prevents an affected creature
+    from passing or reaching through. An affected creature can cast spells or make
+    attacks with ranged or reach weapons through the barrier.","If you move so that
+    an affected creature is forced to pass through the barrier, the spell ends."],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"areaTags":["S"]}'
+  DataHash: 72ff5ab65e011f0471d0f5f34aabd34f

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: intellect-fortress
+  m_EditorClassIdentifier: 
+  Title: Intellect Fortress
+  AsJson: '{"name":"Intellect Fortress","source":"UAFighterRogueWizard","page":7,"level":5,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    create a faintly shimmering barrier of protective psychic power around you. For
+    the duration, you have advantage on all saving throws.","When another creature
+    that you can see within 30 feet of you fails a saving throw, you can use your
+    reaction to allow them to reroll the save. They must use the new roll."],"miscTags":["SGT"]}'
+  DataHash: d79d98f9bb100659b02646ef635cab07

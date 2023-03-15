@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: puppet-ua
+  m_EditorClassIdentifier: 
+  Title: Puppet (UA)
+  AsJson: '{"name":"Puppet (UA)","source":"UAStarterSpells","page":3,"level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["Your
+    gesture forces one humanoid you can see within range to make a Constitution saving
+    throw. On a failed save, the target must move up to its speed in a direction
+    you choose. In addition, you can cause the target to drop whatever it is holding.
+    This spell has no effect on a humanoid that is immune to being {@condition charmed}."],"savingThrow":["constitution"],"affectsCreatureType":["aberration","beast","celestial","construct","dragon","elemental","fey","fiend","giant","monstrosity","ooze","plant","undead"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: facd9542c47393d0e0adf035000b4ba4

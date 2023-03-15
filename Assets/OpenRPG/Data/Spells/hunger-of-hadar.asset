@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: hunger-of-hadar
+  m_EditorClassIdentifier: 
+  Title: Hunger of Hadar
+  AsJson: '{"name":"Hunger of Hadar","source":"PHB","page":251,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":150}},"components":{"v":true,"s":true,"m":"a
+    pickled octopus tentacle"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    open a gateway to the dark between the stars, a region infested with unknown
+    horrors. A 20-foot-radius sphere of blackness and bitter cold appears, centered
+    on a point within range and lasting for the duration. This void is filled with
+    a cacophony of soft whispers and slurping noises that can be heard up to 30 feet
+    away. No light, magical or otherwise, can illuminate the area, and creatures
+    fully within the area are {@condition blinded}.","The void creates a warp in
+    the fabric of space, and the area is {@quickref difficult terrain||3}. Any creature
+    that starts its turn in the area takes {@damage 2d6} cold damage. Any creature
+    that ends its turn in the area must succeed on a Dexterity saving throw or take
+    {@damage 2d6} acid damage as milky, otherworldly tentacles rub against it."],"damageInflict":["acid","cold"],"conditionInflict":["blinded"],"savingThrow":["dexterity"],"miscTags":["DFT"],"areaTags":["S"]}'
+  DataHash: 1e5bd00e8c0a5114836203de88147c88

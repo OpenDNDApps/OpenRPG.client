@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: create-bonfire
+  m_EditorClassIdentifier: 
+  Title: Create Bonfire
+  AsJson: '{"name":"Create Bonfire","source":"XGE","page":152,"otherSources":[{"source":"EEPC","page":16}],"level":0,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    create a bonfire on ground that you can see within range. Until the spell ends,
+    the magic bonfire fills a 5-foot cube. Any creature in the bonfire''s space when
+    you cast the spell must succeed on a Dexterity saving throw or take {@damage
+    1d8} fire damage. A creature must also make the saving throw when it moves into
+    the bonfire''s space for the first time on a turn or ends its turn there.","The
+    bonfire ignites flammable objects in its area that aren''t being worn or carried.","The
+    spell''s damage increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}),
+    11th level ({@damage 3d8}), and 17th level ({@damage 4d8})."],"scalingLevelDice":{"label":"fire
+    damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},"damageInflict":["fire"],"savingThrow":["dexterity"],"miscTags":["OBJ","SCL","SGT"],"areaTags":["C"]}'
+  DataHash: 7eb46018ee5acbee52227ad58b180ced

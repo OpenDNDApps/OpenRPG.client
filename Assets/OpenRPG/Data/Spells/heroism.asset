@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: heroism
+  m_EditorClassIdentifier: 
+  Title: Heroism
+  AsJson: '{"name":"Heroism","source":"PHB","page":250,"srd":true,"level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    willing creature you touch is imbued with bravery. Until the spell ends, the
+    creature is immune to being {@condition frightened} and gains temporary hit points
+    equal to your spellcasting ability modifier at the start of each of its turns.
+    When the spell ends, the target loses any remaining temporary hit points from
+    this spell."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+    you cast this spell using a spell slot of 2nd level or higher, you can target
+    one additional creature for each slot level above 1st."]}],"conditionImmune":["frightened"],"miscTags":["THP"],"areaTags":["ST"]}'
+  DataHash: 29a16dec837ae9e801ef9900b26f4bee

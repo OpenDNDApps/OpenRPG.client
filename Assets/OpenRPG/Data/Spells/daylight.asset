@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: daylight
+  m_EditorClassIdentifier: 
+  Title: Daylight
+  AsJson: '{"name":"Daylight","source":"PHB","page":230,"srd":true,"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["A
+    60-foot-radius sphere of light spreads out from a point you choose within range.
+    The sphere is bright light and sheds dim light for an additional 60 feet.","If
+    you chose a point on an object you are holding or one that isn''t being worn
+    or carried, the light shines from the object and moves with it. Completely covering
+    the affected object with an opaque object, such as a bowl or a helm, blocks the
+    light.","If any of this spell''s area overlaps with an area of darkness created
+    by a spell of 3rd level or lower, the spell that created the darkness is dispelled."],"miscTags":["LGT","OBJ"],"areaTags":["S"]}'
+  DataHash: b564d7e880f91a0a724d9f6a5f2de3bd

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: moonbeam
+  m_EditorClassIdentifier: 
+  Title: Moonbeam
+  AsJson: '{"name":"Moonbeam","source":"PHB","page":261,"srd":true,"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true,"m":"several
+    seeds of any moonseed plant and a piece of opalescent feldspar"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder
+    centered on a point within range. Until the spell ends, dim light fills the cylinder.","When
+    a creature enters the spell''s area for the first time on a turn or starts its
+    turn there, it is engulfed in ghostly flames that cause searing pain, and it
+    must make a Constitution saving throw. It takes {@damage 2d10} radiant damage
+    on a failed save, or half as much damage on a successful one.","A shapechanger
+    makes its saving throw with disadvantage. If it fails, it also instantly reverts
+    to its original form and can''t assume a different form until it leaves the spell''s
+    light.","On each of your turns after you cast this spell, you can use an action
+    to move the beam up to 60 feet in any direction."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, the damage increases by {@scaledamage 2d10|2-9|1d10} for each
+    slot level above 2nd."]}],"damageInflict":["radiant"],"savingThrow":["constitution"],"miscTags":["LGT"],"areaTags":["Y"]}'
+  DataHash: 33453bccf5d00f6c6e0ec3bfd5052100

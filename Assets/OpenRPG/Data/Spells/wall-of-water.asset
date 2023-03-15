@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: wall-of-water
+  m_EditorClassIdentifier: 
+  Title: Wall of Water
+  AsJson: '{"name":"Wall of Water","source":"XGE","page":170,"otherSources":[{"source":"EEPC","page":23},{"source":"VGM","page":116},{"source":"MOT","page":0}],"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+    drop of water"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    create a wall of water on the ground at a point you can see within range. You
+    can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you
+    can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick.
+    The wall vanishes when the spell ends. The wall''s space is {@quickref difficult
+    terrain||3}.","Any ranged weapon attack that enters the wall''s space has disadvantage
+    on the attack roll, and fire damage is halved if the fire effect passes through
+    the wall to reach its target. Spells that deal cold damage that pass through
+    the wall cause the area of the wall they pass through to freeze solid (at least
+    a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC
+    5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When
+    a section is destroyed, the wall''s water doesn''t fill it."],"miscTags":["DFT","SGT"],"areaTags":["W"]}'
+  DataHash: 9e0eeede7022b5fa895fa418497b94f2

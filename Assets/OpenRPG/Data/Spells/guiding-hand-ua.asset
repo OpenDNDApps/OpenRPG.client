@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: guiding-hand-ua
+  m_EditorClassIdentifier: 
+  Title: Guiding Hand (UA)
+  AsJson: '{"name":"Guiding Hand (UA)","source":"UAStarterSpells","page":3,"level":1,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":5}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8},"concentration":true}],"meta":{"ritual":true},"entries":["You
+    create a Tiny incorporeal hand of shimmering light in an unoccupied space you
+    can see within range. The hand exists for the duration, but it disappears if
+    you teleport or you travel to a different plane of existence.","When the hand
+    appears, you name one major landmark, such as a city, mountain, castle, or battlefield
+    on the same plane of existence as you. Someone in history must have visited the
+    site and mapped it. If the landmark appears on no map in existence, the spell
+    fails. Otherwise, whenever you move toward the hand, it moves away from you at
+    the same speed you moved, and it moves in the direction of the landmark, always
+    remaining 5 feet away from you.","If you don''t move toward the hand, it remains
+    in place until you do and beckons for you to follow once every {@dice 1d4} minutes."],"miscTags":["SGT"]}'
+  DataHash: 8a7e1d2e10f24eb2fc3056388ffd20ef

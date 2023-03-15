@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: entangle
+  m_EditorClassIdentifier: 
+  Title: Entangle
+  AsJson: '{"name":"Entangle","source":"PHB","page":238,"srd":true,"level":1,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Grasping
+    weeds and vines sprout from the ground in a 20-foot square starting from a point
+    within range. For the duration, these plants turn the ground in the area into
+    {@quickref difficult terrain||3}.","A creature in the area when you cast the
+    spell must succeed on a Strength saving throw or be {@condition restrained} by
+    the entangling plants until the spell ends. A creature {@condition restrained}
+    by the plants can use its action to make a Strength check against your spell
+    save DC. On a success, it frees itself.","When the spell ends, the conjured plants
+    wilt away."],"conditionInflict":["restrained"],"savingThrow":["strength"],"abilityCheck":["strength"],"areaTags":["Q"]}'
+  DataHash: f53a9ff2aa715e6edfca653cff68a701

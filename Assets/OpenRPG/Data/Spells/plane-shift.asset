@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: plane-shift
+  m_EditorClassIdentifier: 
+  Title: Plane Shift
+  AsJson: '{"name":"Plane Shift","source":"PHB","page":266,"srd":true,"level":7,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"a
+    forked, metal rod worth at least 250 gp, attuned to a particular plane of existence","cost":25000}},"duration":[{"type":"instant"}],"entries":["You
+    and up to eight willing creatures who link hands in a circle are transported
+    to a different plane of existence. You can specify a target destination in general
+    terms, such as the City of Brass on the Elemental Plane of Fire or the palace
+    of Dispater on the second level of the Nine Hells, and you appear in or near
+    that destination. If you are trying to reach the City of Brass, for example,
+    you might arrive in its Street of Steel, before its Gate of Ashes, or looking
+    at the city from across the Sea of Fire, at the DM''s discretion.","Alternatively,
+    if you know the sigil sequence of a teleportation circle on another plane of
+    existence, this spell can take you to that circle. If the teleportation circle
+    is too small to hold all the creatures you transported, they appear in the closest
+    unoccupied spaces next to the circle.","You can use this spell to banish an unwilling
+    creature to another plane. Choose a creature within your reach and make a melee
+    spell attack against it. On a hit, the creature must make a Charisma saving throw.
+    If the creature fails this save, it is transported to a random location on the
+    plane of existence you specify. A creature so transported must find its own way
+    back to your current plane of existence."],"spellAttack":["M"],"savingThrow":["charisma"],"miscTags":["PS","TP"],"areaTags":["ST","MT"]}'
+  DataHash: 684ebc3d5fc8532ab1466b101cdc1b5d

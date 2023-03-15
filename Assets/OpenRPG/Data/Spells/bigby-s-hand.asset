@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: bigby-s-hand
+  m_EditorClassIdentifier: 
+  Title: Bigby's Hand
+  AsJson: '{"name":"Bigby''s Hand","source":"PHB","page":218,"srd":"Arcane Hand","level":5,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true,"m":"an
+    eggshell and a snakeskin glove"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+    create a Large hand of shimmering, translucent force in an unoccupied space that
+    you can see within range. The hand lasts for the spell''s duration, and it moves
+    at your command, mimicking the movements of your own hand.","The hand is an object
+    that has AC 20 and hit points equal to your hit point maximum. If it drops to
+    0 hit points, the spell ends. It has a Strength of 26 ({@d20 8}) and a Dexterity
+    of 10 ({@d20 0}). The hand doesn''t fill its space.","When you cast the spell
+    and as a bonus action on your subsequent turns, you can move the hand up to 60
+    feet and then cause one of the following effects with it.",{"type":"entries","name":"Clenched
+    Fist","entries":["The hand strikes one creature or object within 5 feet of it.
+    Make a melee spell attack for the hand using your game statistics. On a hit,
+    the target takes {@damage 4d8} force damage."]},{"type":"entries","name":"Forceful
+    Hand","entries":["The hand attempts to push a creature within 5 feet of it in
+    a direction you choose. Make a check with the hand''s Strength contested by the
+    Strength ({@skill Athletics}) check of the target. If the target is Medium or
+    smaller, you have advantage on the check. If you succeed, the hand pushes the
+    target up to 5 feet plus a number of feet equal to five times your spellcasting
+    ability modifier. The hand moves with the target to remain within 5 feet of it."]},{"type":"entries","name":"Grasping
+    Hand","entries":["The hand attempts to grapple a Huge or smaller creature within
+    5 feet of it. You use the hand''s Strength score to resolve the grapple. If the
+    target is Medium or smaller, you have advantage on the check. While the hand
+    is grappling the target, you can use a bonus action to have the hand crush it.
+    When you do so, the target takes bludgeoning damage equal to {@damage 2d6} +
+    your spellcasting ability modifier."]},{"type":"entries","name":"Interposing
+    Hand","entries":["The hand interposes itself between you and a creature you choose
+    until you give the hand a different command. The hand moves to stay between you
+    and the target, providing you with half cover against the target. The target
+    can''t move through the hand''s space if its Strength score is less than or equal
+    to the hand''s Strength score. If its Strength score is higher than the hand''s
+    Strength score, the target can move toward you through the hand''s space, but
+    that space is {@quickref difficult terrain||3} for the target."]}],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 6th
+    level or higher, the damage from the clenched fist option increases by {@scaledamage
+    4d8|5-9|2d8} and the damage from the grasping hand increases by {@scaledamage
+    2d6|5-9|2d6} for each slot level above 5th."]}],"damageInflict":["bludgeoning","force"],"spellAttack":["M"],"abilityCheck":["strength"],"miscTags":["DFT","FMV","OBJ","SGT","UBA"]}'
+  DataHash: 060b91ff022b277c1c368c9a15d418e6

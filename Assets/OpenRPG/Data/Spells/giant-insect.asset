@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: giant-insect
+  m_EditorClassIdentifier: 
+  Title: Giant Insect
+  AsJson: '{"name":"Giant Insect","source":"PHB","page":245,"srd":true,"level":4,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+    transform up to ten centipedes, three spiders, five wasps, or one scorpion within
+    range into giant versions of their natural forms for the duration. A centipede
+    becomes a {@creature giant centipede}, a spider becomes a {@creature giant spider},
+    a wasp becomes a {@creature giant wasp}, and a scorpion becomes a {@creature
+    giant scorpion}.","Each creature obeys your verbal commands, and in combat, they
+    act on your turn each round. The DM has the statistics for these creatures and
+    resolves their actions and movement.","A creature remains in its giant size for
+    the duration, until it drops to 0 hit points, or until you use an action to dismiss
+    the effect on it.","The DM might allow you to choose different targets. For example,
+    if you transform a bee, its giant version might have the same statistics as a
+    {@creature giant wasp}."],"miscTags":["SMN"],"areaTags":["MT"]}'
+  DataHash: 995e7541c7049bd0dd92e4edeb43b434

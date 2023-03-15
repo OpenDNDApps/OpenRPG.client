@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: tasha-s-hideous-laughter
+  m_EditorClassIdentifier: 
+  Title: Tasha's Hideous Laughter
+  AsJson: '{"name":"Tasha''s Hideous Laughter","source":"PHB","page":280,"srd":"Hideous
+    Laughter","level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"tiny
+    tarts and a feather that is waved in the air"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+    creature of your choice that you can see within range perceives everything as
+    hilariously funny and falls into fits of laughter if this spell affects it. The
+    target must succeed on a Wisdom saving throw or fall {@condition prone}, becoming
+    {@condition incapacitated} and unable to stand up for the duration. A creature
+    with an Intelligence score of 4 or less isn''t affected.","At the end of each
+    of its turns, and each time it takes damage, the target can make another Wisdom
+    saving throw. The target has advantage on the saving throw if it''s triggered
+    by damage. On a success, the spell ends."],"conditionInflict":["incapacitated","prone"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+  DataHash: 30fe56d3413a33ba0eec51a3eaf55e15

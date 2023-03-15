@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: snare-ua
+  m_EditorClassIdentifier: 
+  Title: Snare (UA)
+  AsJson: '{"name":"Snare (UA)","source":"UAStarterSpells","page":4,"level":1,"school":"A","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"30
+    feet of cord or rope, which is consumed by the spell","consume":true}},"duration":[{"type":"permanent","ends":["dispel","trigger"]}],"entries":["While
+    you cast this spell, you use the cord or rope to create a circle with a 5-foot
+    radius on a flat surface within your reach. When you finish casting, the cord
+    or rope disappears to become a magical trap.","The trap is nearly invisible and
+    requires a successful Intelligence ({@skill Investigation}) check against your
+    spell save DC to be found. The trap triggers when a Small creature or larger
+    moves into the area protected by the spell.","The triggering creature must succeed
+    on a Dexterity saving throw or fall {@condition prone} and be hoisted into the
+    air until it hangs upside down 3 feet above the protected surface, where it is
+    {@condition restrained}.","The {@condition restrained} creature can make a Dexterity
+    saving throw with disadvantage at the end of each of its turns and ends the {@condition
+    restrained} effect on a success. Alternatively, another creature that can reach
+    the {@condition restrained} creature can use an action to make an Intelligence
+    ({@skill Arcana}) check against your spell save DC. On a success, the {@condition
+    restrained} effect also ends."],"conditionInflict":["prone","restrained"],"savingThrow":["dexterity"],"abilityCheck":["intelligence"],"areaTags":["ST"]}'
+  DataHash: 5c78b0ba3ecc3d3b8218f326a33b8556

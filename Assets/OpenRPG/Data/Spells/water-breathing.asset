@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: water-breathing
+  m_EditorClassIdentifier: 
+  Title: Water Breathing
+  AsJson: '{"name":"Water Breathing","source":"PHB","page":287,"srd":true,"level":3,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    short reed or piece of straw"},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"meta":{"ritual":true},"entries":["This
+    spell grants up to ten willing creatures you can see within range the ability
+    to breathe underwater until the spell ends. Affected creatures also retain their
+    normal mode of respiration."],"miscTags":["SGT"],"areaTags":["MT"]}'
+  DataHash: a85e3e0be646504689b05ba9831eaa41

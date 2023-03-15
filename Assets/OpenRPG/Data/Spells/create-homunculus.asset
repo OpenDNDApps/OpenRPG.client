@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: create-homunculus
+  m_EditorClassIdentifier: 
+  Title: Create Homunculus
+  AsJson: '{"name":"Create Homunculus","source":"XGE","page":152,"level":6,"school":"T","time":[{"number":1,"unit":"hour"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"clay,
+    ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted
+    dagger worth at least 1,000 gp","cost":100000,"consume":true}},"duration":[{"type":"instant"}],"entries":["While
+    speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger,
+    taking {@damage 2d4} piercing damage that can''t be reduced in any way. You then
+    drip your blood on the spell''s other components and touch them, transforming
+    them into a special construct called a {@creature homunculus}.","The statistics
+    of the {@creature homunculus} are in the Monster Manual. It is your faithful
+    companion, and it dies if you die. Whenever you finish a long rest, you can spend
+    up to half your Hit Dice if the homunculus is on the same plane of existence
+    as you. When you do so, roll each die and add your Constitution modifier to it.
+    Your hit point maximum is reduced by the total, and the homunculus''s hit point
+    maximum and current hit points are both increased by it. This process can reduce
+    you to no lower than 1 hit point, and the change to your and the homunculus''s
+    hit points ends when you finish your next long rest. The reduction to your hit
+    point maximum can''t be removed by any means before then, except by the homunculus''s
+    death.","You can have only one homunculus at a time. If you cast this spell while
+    your homunculus lives, the spell fails."],"miscTags":["PRM"]}'
+  DataHash: 666484f47348c0fb522774c2e27c4307

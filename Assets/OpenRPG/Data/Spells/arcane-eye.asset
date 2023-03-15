@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: arcane-eye
+  m_EditorClassIdentifier: 
+  Title: Arcane Eye
+  AsJson: '{"name":"Arcane Eye","source":"PHB","page":214,"srd":true,"basicRules":true,"level":4,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+    bit of bat fur"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    create an invisible, magical eye within range that hovers in the air for the
+    duration.","You mentally receive visual information from the eye, which has normal
+    vision and {@sense darkvision} out to 30 feet. The eye can look in every direction.","As
+    an action, you can move the eye up to 30 feet in any direction. There is no limit
+    to how far away from you the eye can move, but it can''t enter another plane
+    of existence. A solid barrier blocks the eye''s movement, but the eye can pass
+    through an opening as small as 1 inch in diameter."]}'
+  DataHash: 068fa14e83cf295c610701a9f9d4211f

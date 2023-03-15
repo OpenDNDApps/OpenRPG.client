@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: chaos-bolt
+  m_EditorClassIdentifier: 
+  Title: Chaos Bolt
+  AsJson: '{"name":"Chaos Bolt","source":"XGE","page":151,"otherSources":[{"source":"GGR"}],"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    hurl an undulating, warbling mass of chaotic energy at one creature in range.
+    Make a ranged spell attack against the target. On a hit, the target takes {@damage
+    2d8 + 1d6} damage. Choose one of the {@dice d8}s. The number rolled on that die
+    determines the attack''s damage type, as shown below.",{"type":"table","caption":"Chaos
+    Bolt","colLabels":["{@dice d8}","Damage Type"],"colStyles":["col-2 text-center","col-10"],"rows":[[{"type":"cell","roll":{"exact":1}},"Acid"],[{"type":"cell","roll":{"exact":2}},"Cold"],[{"type":"cell","roll":{"exact":3}},"Fire"],[{"type":"cell","roll":{"exact":4}},"Force"],[{"type":"cell","roll":{"exact":5}},"Lightning"],[{"type":"cell","roll":{"exact":6}},"Poison"],[{"type":"cell","roll":{"exact":7}},"Psychic"],[{"type":"cell","roll":{"exact":8}},"Thunder"]]},"If
+    you roll the same number on both {@dice d8}s, the chaotic energy leaps from the
+    target to a different creature of your choice within 30 feet of it. Make a new
+    attack roll against the new target, and make a new damage roll, which could cause
+    the chaotic energy to leap again.","A creature can be targeted only once by each
+    casting of this spell."],"entriesHigherLevel":[{"type":"entries","name":"At Higher
+    Levels","entries":["When you cast this spell using a spell slot of 2nd level
+    or higher, each target takes {@scaledamage 2d8 + 1d6|1-9|1d6} extra damage of
+    the type rolled for each slot level above 1st."]}],"damageInflict":["acid","cold","fire","force","lightning","poison","psychic","thunder"],"spellAttack":["R"],"miscTags":["RO"],"areaTags":["ST"]}'
+  DataHash: e5d3bb2c0e6829312121779bf6b4cf09

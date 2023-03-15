@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: true-resurrection
+  m_EditorClassIdentifier: 
+  Title: True Resurrection
+  AsJson: '{"name":"True Resurrection","source":"PHB","page":284,"srd":true,"basicRules":true,"level":9,"school":"N","time":[{"number":1,"unit":"hour"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"a
+    sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell
+    consumes","cost":2500000,"consume":true}},"duration":[{"type":"instant"}],"entries":["You
+    touch a creature that has been dead for no longer than 200 years and that died
+    for any reason except old age. If the creature''s soul is free and willing, the
+    creature is restored to life with all its hit points.","This spell closes all
+    wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting
+    the creature when it died. The spell replaces damaged or missing organs and limbs.
+    If the creature was undead, it is restored to its non-undead form.","The spell
+    can even provide a new body if the original no longer exists, in which case you
+    must speak the creature''s name. The creature then appears in an unoccupied space
+    you choose within 10 feet of you."],"miscTags":["HL"],"areaTags":["ST"]}'
+  DataHash: 922453aba3704a3d015b96636321606e

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: sapping-sting
+  m_EditorClassIdentifier: 
+  Title: Sapping Sting
+  AsJson: '{"name":"Sapping Sting","source":"EGW","page":189,"level":0,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    sap the vitality of one creature you can see in range. The target must succeed
+    on a Constitution saving throw or take {@damage 1d4} necrotic damage and fall
+    {@condition prone}.","This spell''s damage increases by {@dice 1d4} when you
+    reach 5th level ({@dice 2d4}), 11th level ({@dice 3d4}), and 17th level ({@dice
+    4d4})."],"scalingLevelDice":{"label":"necrotic damage","scaling":{"1":"1d4","5":"2d4","11":"3d4","17":"4d4"}},"damageInflict":["necrotic"],"conditionInflict":["prone"],"savingThrow":["constitution"],"miscTags":["SCL","SGT"],"areaTags":["ST"]}'
+  DataHash: 524c84c2fefa137056a148e52c5ad068

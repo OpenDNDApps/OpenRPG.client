@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: ray-of-frost
+  m_EditorClassIdentifier: 
+  Title: Ray of Frost
+  AsJson: '{"name":"Ray of Frost","source":"PHB","page":271,"srd":true,"basicRules":true,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["A
+    frigid beam of blue-white light streaks toward a creature within range. Make
+    a ranged spell attack against the target. On a hit, it takes {@damage 1d8} cold
+    damage, and its speed is reduced by 10 feet until the start of your next turn.","The
+    spell''s damage increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}),
+    11th level ({@damage 3d8}), and 17th level ({@damage 4d8})."],"scalingLevelDice":{"label":"cold
+    damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},"damageInflict":["cold"],"spellAttack":["R"],"miscTags":["SCL"],"areaTags":["ST"]}'
+  DataHash: 49b5a4cfc194eeef4b4d1f69dd3feba4

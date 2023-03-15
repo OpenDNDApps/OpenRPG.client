@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: word-of-radiance
+  m_EditorClassIdentifier: 
+  Title: Word of Radiance
+  AsJson: '{"name":"Word of Radiance","source":"XGE","page":171,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":5}},"components":{"v":true,"m":"a
+    holy symbol"},"duration":[{"type":"instant"}],"entries":["You utter a divine
+    word, and burning radiance erupts from you. Each creature of your choice that
+    you can see within range must succeed on a Constitution saving throw or take
+    {@damage 1d6} radiant damage.","The spell''s damage increases by {@dice 1d6}
+    when you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}), and 17th
+    level ({@damage 4d6})."],"scalingLevelDice":{"label":"radiant damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["radiant"],"savingThrow":["constitution"],"miscTags":["SCL","SGT"],"areaTags":["MT"]}'
+  DataHash: d488d74705ea2d2f18fb656d33114e43

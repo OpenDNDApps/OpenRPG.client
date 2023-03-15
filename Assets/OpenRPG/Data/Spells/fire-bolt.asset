@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: fire-bolt
+  m_EditorClassIdentifier: 
+  Title: Fire Bolt
+  AsJson: '{"name":"Fire Bolt","source":"PHB","page":242,"srd":true,"basicRules":true,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    hurl a mote of fire at a creature or object within range. Make a ranged spell
+    attack against the target. On a hit, the target takes {@damage 1d10} fire damage.
+    A flammable object hit by this spell ignites if it isn''t being worn or carried.","This
+    spell''s damage increases by {@dice 1d10} when you reach 5th level ({@damage
+    2d10}), 11th level ({@damage 3d10}), and 17th level ({@damage 4d10})."],"scalingLevelDice":{"label":"fire
+    damage","scaling":{"1":"1d10","5":"2d10","11":"3d10","17":"4d10"}},"damageInflict":["fire"],"spellAttack":["R"],"miscTags":["OBJ","SCL"],"areaTags":["ST"]}'
+  DataHash: c054af14a9ddbdd3e44f531cc5a4f39d

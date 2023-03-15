@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: lesser-restoration
+  m_EditorClassIdentifier: 
+  Title: Lesser Restoration
+  AsJson: '{"name":"Lesser Restoration","source":"PHB","page":255,"srd":true,"basicRules":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+    touch a creature and can end either one disease or one condition afflicting it.
+    The condition can be {@condition blinded}, {@condition deafened}, {@condition
+    paralyzed}, or {@condition poisoned}."],"areaTags":["ST"]}'
+  DataHash: ac3925215bb75e8930d0664941b6ac4d

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: thunderclap
+  m_EditorClassIdentifier: 
+  Title: Thunderclap
+  AsJson: '{"name":"Thunderclap","source":"XGE","page":168,"otherSources":[{"source":"EEPC","page":22}],"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":5}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["You
+    create a burst of thunderous sound that can be heard up to 100 feet away. Each
+    creature within range, other than you, must make a Constitution saving throw
+    or take {@damage 1d6} thunder damage.","The spell''s damage increases by {@dice
+    1d6} when you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}), and
+    17th level ({@damage 4d6})."],"scalingLevelDice":{"label":"thunder damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["thunder"],"savingThrow":["constitution"],"miscTags":["SCL"],"areaTags":["S"]}'
+  DataHash: e5068b0c89a2deed2234b57ba4482502

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: arcane-hacking-ua
+  m_EditorClassIdentifier: 
+  Title: Arcane Hacking (UA)
+  AsJson: '{"name":"Arcane Hacking (UA)","source":"UAModernMagic","page":5,"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"hacking
+    tools"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["You
+    gain advantage on all Intelligence checks using hacking tools to break software
+    encryption or online security when using a foreign system. This spell also allows
+    you to break 2nd-level and lower protective spells such as arcane lock or glyph
+    of warding by making an Intelligence check using hacking tools against the spell
+    save DC of the spell''s caster."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+    level or higher, you can attempt to counteract a spell set to secure the foreign
+    system if the spell''s level is equal to or less than the level of the spell
+    slot you used."]}],"abilityCheck":["intelligence"]}'
+  DataHash: 31b712905bc41db4c559f80a863641b0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: summon-shadow-spirit
+  m_EditorClassIdentifier: 
+  Title: Summon Shadow Spirit
+  AsJson: '{"name":"Summon Shadow Spirit","source":"UA2020SpellsAndMagicTattoos","page":7,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":{"text":"tears
+    inside a crystal vial worth at least 300 gp","cost":30000}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+    call forth a shadowy spirit from the Shadowfell. The spirit manifests physically
+    in an unoccupied space that you can see within range. This corporeal form uses
+    the {@creature Shadow Spirit|UA2020SpellsAndMagicTattoos} stat block. When you
+    cast the spell, choose an emotion: Fury, Despair, or Fear. The creature physically
+    resembles a misshapen humanoid marked by the chosen emotion, which also determines
+    some of the traits in its stat block. The creature disappears when it drops to
+    0 hit points or when the spell ends.","The creature is friendly to you and your
+    companions for the spell''s duration. In combat, the creature shares your initiative
+    count, but it takes its turn immediately after yours. It obeys verbal commands
+    that you issue to it (no action required by you). If you don''t issue any, it
+    defends itself but otherwise takes no action."],"entriesHigherLevel":[{"type":"entries","name":"At
+    Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+    level or higher, the creature assumes the higher level for that casting wherever
+    it uses the spell''s level in its stat block."]}],"miscTags":["SGT","SMN"]}'
+  DataHash: 07e3f354ca79c35f536cc1187e6b6084

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: rary-s-telepathic-bond
+  m_EditorClassIdentifier: 
+  Title: Rary's Telepathic Bond
+  AsJson: '{"name":"Rary''s Telepathic Bond","source":"PHB","page":270,"srd":"Telepathic
+    Bond","level":5,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"pieces
+    of eggshell from two different kinds of creatures"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"meta":{"ritual":true},"entries":["You
+    forge a telepathic link among up to eight willing creatures of your choice within
+    range, psychically linking each creature to all the others for the duration.
+    Creatures with Intelligence scores of 2 or less aren''t affected by this spell.","Until
+    the spell ends, the targets can communicate telepathically through the bond whether
+    or not they have a common language. The communication is possible over any distance,
+    though it can''t extend to other planes of existence."],"areaTags":["MT"]}'
+  DataHash: e17f011d39db9b151557efdae592658e

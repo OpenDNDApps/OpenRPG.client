@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: word-of-recall
+  m_EditorClassIdentifier: 
+  Title: Word of Recall
+  AsJson: '{"name":"Word of Recall","source":"PHB","page":289,"srd":true,"level":6,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":5}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+    and up to five willing creatures within 5 feet of you instantly teleport to a
+    previously designated sanctuary. You and any creatures that teleport with you
+    appear in the nearest unoccupied space to the spot you designated when you prepared
+    your sanctuary (see below). If you cast this spell without first preparing a
+    sanctuary, the spell has no effect.","You must designate a sanctuary by casting
+    this spell within a location, such as a temple, dedicated to or strongly linked
+    to your deity. If you attempt to cast the spell in this manner in an area that
+    isn''t dedicated to your deity, the spell has no effect."],"miscTags":["PS","TP"]}'
+  DataHash: a171ea9f9e780d5ea70e13208f8a623a

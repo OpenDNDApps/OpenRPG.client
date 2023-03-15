@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: beast-sense
+  m_EditorClassIdentifier: 
+  Title: Beast Sense
+  AsJson: '{"name":"Beast Sense","source":"PHB","page":217,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"ritual":true},"entries":["You
+    touch a willing beast. For the duration of the spell, you can use your action
+    to see through the beast''s eyes and hear what it hears, and continue to do so
+    until you use your action to return to your normal senses. While perceiving through
+    the beast''s senses, you gain the benefits of any special senses possessed by
+    that creature, though you are {@condition blinded} and {@condition deafened}
+    to your own surroundings."],"areaTags":["ST"]}'
+  DataHash: 5995383155036e62a4522a1ee4464117

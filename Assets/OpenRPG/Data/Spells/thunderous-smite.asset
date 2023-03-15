@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: thunderous-smite
+  m_EditorClassIdentifier: 
+  Title: Thunderous Smite
+  AsJson: '{"name":"Thunderous Smite","source":"PHB","page":282,"level":1,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+    first time you hit with a melee weapon attack during this spell''s duration,
+    your weapon rings with thunder that is audible within 300 feet of you, and the
+    attack deals an extra {@damage 2d6} thunder damage to the target. Additionally,
+    if the target is a creature, it must succeed on a Strength saving throw or be
+    pushed 10 feet away from you and knocked {@condition prone}."],"damageInflict":["thunder"],"conditionInflict":["prone"],"savingThrow":["strength"],"miscTags":["AAD","FMV"]}'
+  DataHash: 47227c6dac2073fbef388bd4f8f8f0b7

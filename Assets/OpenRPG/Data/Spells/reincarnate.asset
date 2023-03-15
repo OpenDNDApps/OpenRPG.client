@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: reincarnate
+  m_EditorClassIdentifier: 
+  Title: Reincarnate
+  AsJson: '{"name":"Reincarnate","source":"PHB","page":271,"srd":true,"level":5,"school":"T","time":[{"number":1,"unit":"hour"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"rare
+    oils and unguents worth at least 1,000 gp, which the spell consumes","cost":100000,"consume":true}},"duration":[{"type":"instant"}],"entries":["You
+    touch a dead humanoid or a piece of a dead humanoid. Provided that the creature
+    has been dead no longer than 10 days, the spell forms a new adult body for it
+    and then calls the soul to enter that body. If the target''s soul isn''t free
+    or willing to do so, the spell fails.","The magic fashions a new body for the
+    creature to inhabit, which likely causes the creature''s race to change. The
+    DM rolls a {@dice d100} and consults the following table to determine what form
+    the creature takes when restored to life, or the DM chooses a form.",{"type":"table","caption":"Reincarnate
+    Races","colLabels":["{@dice d100}","Race"],"colStyles":["col-1 text-center no-wrap","col-11"],"rows":[[{"type":"cell","roll":{"min":1,"max":4,"pad":true}},"{@race
+    Dragonborn}"],[{"type":"cell","roll":{"min":5,"max":13,"pad":true}},"{@race dwarf
+    (hill)||Dwarf, hill}"],[{"type":"cell","roll":{"min":14,"max":21}},"{@race dwarf
+    (mountain)||Dwarf, mountain}"],[{"type":"cell","roll":{"min":22,"max":25}},"{@race
+    elf (drow)||Elf, dark}"],[{"type":"cell","roll":{"min":26,"max":34}},"{@race
+    elf (high)||Elf, high}"],[{"type":"cell","roll":{"min":35,"max":42}},"{@race
+    elf (wood)||Elf, wood}"],[{"type":"cell","roll":{"min":43,"max":46}},"{@race
+    gnome (forest)||Gnome, forest}"],[{"type":"cell","roll":{"min":47,"max":52}},"{@race
+    gnome (rock)||Gnome, rock}"],[{"type":"cell","roll":{"min":53,"max":56}},"{@race
+    Half-elf}"],[{"type":"cell","roll":{"min":57,"max":60}},"{@race Half-orc}"],[{"type":"cell","roll":{"min":61,"max":68}},"{@race
+    halfling (lightfoot)||Halfling, lightfoot}"],[{"type":"cell","roll":{"min":69,"max":76}},"{@race
+    halfling (stout)||Halfling, stout}"],[{"type":"cell","roll":{"min":77,"max":96}},"{@race
+    Human}"],[{"type":"cell","roll":{"min":97,"max":0,"pad":true}},"{@race Tiefling}"]]},"The
+    reincarnated creature recalls its former life and experiences. It retains the
+    capabilities it had in its original form, except it exchanges its original race
+    for the new one and changes its racial traits accordingly."],"affectsCreatureType":["humanoid"],"miscTags":["HL","RO"]}'
+  DataHash: 9e3bf4c795b0cc9ad6d9891a914caf20

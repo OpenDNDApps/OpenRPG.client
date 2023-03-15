@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: purify-food-and-drink
+  m_EditorClassIdentifier: 
+  Title: Purify Food and Drink
+  AsJson: '{"name":"Purify Food and Drink","source":"PHB","page":270,"srd":true,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"meta":{"ritual":true},"entries":["All
+    nonmagical food and drink within a 5-foot-radius sphere centered on a point of
+    your choice within range is purified and rendered free of poison and disease."],"areaTags":["S"]}'
+  DataHash: 9453694d0f8dd80bbec323626949b0ef

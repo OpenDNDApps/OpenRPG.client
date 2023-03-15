@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: warding-wind
+  m_EditorClassIdentifier: 
+  Title: Warding Wind
+  AsJson: '{"name":"Warding Wind","source":"XGE","page":170,"otherSources":[{"source":"EEPC","page":23}],"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["A
+    strong wind (20 miles per hour) blows around you in a 10-foot radius and moves
+    with you, remaining centered on you. The wind lasts for the spell''s duration.","The
+    wind has the following effects:",{"type":"list","items":["It {@condition deafened||deafens}
+    you and other creatures in its area.","It extinguishes unprotected flames in
+    its area that are torch-sized or smaller.","It hedges out vapor, gas, and fog
+    that can be dispersed by strong wind.","The area is {@quickref difficult terrain||3}
+    for creatures other than you.","The attack rolls of ranged weapon attacks have
+    disadvantage if the attacks pass in or out of the wind."]}],"conditionInflict":["deafened"],"miscTags":["DFT"]}'
+  DataHash: f0a62ebca27792ea62ed12fc1c4f805a

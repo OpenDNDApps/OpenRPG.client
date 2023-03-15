@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55482244d74e044bb407913a673295d, type: 3}
+  m_Name: gift-of-alacrity
+  m_EditorClassIdentifier: 
+  Title: Gift of Alacrity
+  AsJson: '{"name":"Gift of Alacrity","source":"EGW","page":186,"level":1,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+    touch a willing creature. For the duration, the target can add {@dice 1d8} to
+    its initiative rolls."],"areaTags":["ST"]}'
+  DataHash: 1481a1937a4fe7b17a838c949557ade1
