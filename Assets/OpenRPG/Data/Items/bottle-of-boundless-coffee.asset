@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bottle-of-boundless-coffee
+  m_EditorClassIdentifier: 
+  Title: Bottle of Boundless Coffee
+  AsJson: '{"name":"Bottle of Boundless Coffee","source":"SCC","page":38,"rarity":"common","wondrous":true,"entries":["This
+    metal bottle carries delicious, warm coffee. The bottle comes with a stopper,
+    which is attached to the bottle by a little chain. Even when open, the bottle
+    won''t accept any liquid other than the coffee it produces. The coffee inside
+    is always comfortably warm, and none of the heat can be felt through the bottle.","Each
+    time you drink the coffee, roll a {@dice d20}. On a 1, the bottle refuses to
+    dispense coffee for the next hour. If you pour coffee from the bottle, rather
+    than drinking from it, the coffee vanishes the moment it leaves the bottle."]}'
+  DataHash: e4a191292157acfb9ed6776226656141

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: robe-of-stars
+  m_EditorClassIdentifier: 
+  Title: Robe of Stars
+  AsJson: '{"name":"Robe of Stars","source":"DMG","page":194,"srd":true,"tier":"major","rarity":"very
+    rare","reqAttune":true,"wondrous":true,"bonusSavingThrow":"+1","entries":["This
+    black or dark blue robe is embroidered with small white or silver stars. You
+    gain a +1 bonus to saving throws while you wear it.","Six stars, located on the
+    robe''s upper front portion, are particularly large. While wearing this robe,
+    you can use an action to pull off one of the stars and use it to cast {@spell
+    magic missile} as a 5th-level spell. Daily at dusk, {@dice 1d6} removed stars
+    reappear on the robe.","While you wear the robe, you can use an action to enter
+    the Astral Plane along with everything you are wearing and carrying. You remain
+    there until you use an action to return to the plane you were on. You reappear
+    in the last space you occupied, or if that space is occupied, the nearest unoccupied
+    space."],"attachedSpells":["magic missile"],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+  DataHash: 7a2898b42d289290f9b4c7d6d6298a67

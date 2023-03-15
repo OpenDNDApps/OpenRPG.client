@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: needle-of-mending
+  m_EditorClassIdentifier: 
+  Title: Needle of Mending
+  AsJson: '{"name":"Needle of Mending","source":"EGW","page":268,"baseItem":"dagger|PHB","type":"M","rarity":"rare","reqAttune":true,"weight":1,"weaponCategory":"simple","property":["F","L","T"],"range":"20/60","dmg1":"1d4","dmgType":"P","bonusWeapon":"+1","weapon":true,"entries":["This
+    weapon is a magic dagger disguised as a sewing needle. When you hold it and use
+    a bonus action to speak its command word, it transforms into a dagger or back
+    into a needle.","You gain a +1 bonus to attack and damage rolls made with the
+    dagger. While holding it, you can use an action to cast the {@spell mending}
+    cantrip from it."],"attachedSpells":["mending"]}'
+  DataHash: e9a1dc0177554dda8e71ad81a65cc491

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: fishing-tackle
+  m_EditorClassIdentifier: 
+  Title: Fishing Tackle
+  AsJson: '{"name":"Fishing Tackle","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":100,"entries":["This
+    kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers,
+    velvet lures, and narrow netting."]}'
+  DataHash: c09e5dc2568a084e0fd418e50b9a9e76

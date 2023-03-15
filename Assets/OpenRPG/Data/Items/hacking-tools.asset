@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: hacking-tools
+  m_EditorClassIdentifier: 
+  Title: Hacking Tools
+  AsJson: '{"name":"Hacking Tools","source":"UAModernMagic","page":4,"type":"T","rarity":"none","age":"modern","entries":["This
+    kit contains the hardware and software necessary to allow access into most computer
+    systems and electronic devices. Proficiency with hacking tools lets you add your
+    proficiency bonus to any Intelligence checks you make to connect to or make use
+    of a computer system or electronic device. The kit fits snugly in a backpack
+    or toolbox. "]}'
+  DataHash: d271d3bee3a1a2daf7a635f919dfa0c7

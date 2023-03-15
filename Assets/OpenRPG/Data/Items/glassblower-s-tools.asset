@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: glassblower-s-tools
+  m_EditorClassIdentifier: 
+  Title: Glassblower's Tools
+  AsJson: '{"name":"Glassblower''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":82}],"type":"AT","rarity":"none","weight":5,"value":3000,"additionalEntries":["Someone
+    who is proficient with glassblower''s tools has not only the ability to shape
+    glass, but also specialized knowledge of the methods used to produce glass objects.",{"type":"entries","name":"Components","entries":["The
+    tools include a blowpipe, a small marver, blocks, and tweezers. You need a source
+    of heat to work glass."]},{"type":"entries","name":"Arcana, History","entries":["Your
+    knowledge of glassmaking techniques aids you when you examine glass objects,
+    such as potion bottles or glass items found in a treasure hoard. For instance,
+    you can study how a glass potion bottle has been changed by its contents to help
+    determine a potion''s effects. (A potion might leave behind a residue, deform
+    the glass, or stain it.)"]},{"type":"entries","name":"Investigation","entries":["When
+    you study an area, your knowledge can aid you if the clues include broken glass
+    or glass objects."]},{"type":"entries","name":"Identify Weakness","entries":["With
+    1 minute of study, you can identify the weak points in a glass object. Any damage
+    dealt to the object by striking a weak spot is doubled."]},{"type":"table","caption":"Glassblower''s
+    Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Identify
+    source of glass","10"],["Determine what a glass object once held","20"]]}]}'
+  DataHash: 8e7b2e98544cef1d8e3991f63f56810d

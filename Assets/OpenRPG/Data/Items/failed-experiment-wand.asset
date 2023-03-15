@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: failed-experiment-wand
+  m_EditorClassIdentifier: 
+  Title: Failed Experiment Wand
+  AsJson: '{"name":"Failed Experiment Wand","source":"AI","page":162,"type":"WD","rarity":"rare","reqAttune":"by
+    a spellcaster","reqAttuneTags":[{"spellcasting":true}],"weight":1,"recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 1}","charges":2,"entries":["This wand has 2 charges. While holding it,
+    you can use an action to expend 1 or more of its charges to cast either a green-flamed
+    {@spell fireball} or a blue {@spell lightning bolt} at random from it (save DC
+    15).","For 1 charge, you cast the 3rd-level version of the spell. You can increase
+    the spell slot level by one for each additional charge you expend.","The wand
+    regains {@dice 1d6 + 1} expended charges daily at dawn. If you expend the wand''s
+    last charge, roll a {@dice d20}. On a 1, the wand crumbles into ashes and is
+    destroyed."],"attachedSpells":["fireball","lightning bolt"]}'
+  DataHash: 286318170f6fd32da4789f8f7dab3ef2

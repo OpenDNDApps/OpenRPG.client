@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wand-sheath
+  m_EditorClassIdentifier: 
+  Title: Wand Sheath
+  AsJson: '{"name":"Wand Sheath","source":"ERLW","page":279,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","reqAttune":"by
+    a warforged","reqAttuneTags":[{"race":"warforged|erlw"}],"wondrous":true,"entries":["A
+    wand sheath clamps onto your arm and imparts the following benefits:",{"type":"list","items":["The
+    wand sheath can''t be removed from you while you''re attuned to it.","You can
+    insert a wand into the sheath as an action. The sheath can hold only one wand
+    at a time.","You can retract or extend a wand from the sheath as a bonus action.
+    While the wand is extended, you can use it as if you were holding it, but your
+    hand remains free."]},"If a sheathed wand requires attunement, you must attune
+    to the wand before you can use it. However, the wand sheath and the attached
+    wand count as a single magic item with regard to the number of magic items you
+    can attune to. If you remove the wand from the sheath, your attunement to the
+    wand ends."]}'
+  DataHash: eb231d25c2f4decc8ecf63e6dc4fbffb

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: horn-of-blasting
+  m_EditorClassIdentifier: 
+  Title: Horn of Blasting
+  AsJson: '{"name":"Horn of Blasting","source":"DMG","page":174,"srd":true,"tier":"major","rarity":"rare","wondrous":true,"weight":2,"entries":["You
+    can use an action to speak the horn''s command word and then blow the horn, which
+    emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each
+    creature in the cone must make a DC 15 Constitution saving throw. On a failed
+    save, a creature takes {@damage 5d6} thunder damage and is {@condition deafened}
+    for 1 minute. On a successful save, a creature takes half as much damage and
+    isn''t {@condition deafened}. Creatures and objects made of glass or crystal
+    have disadvantage on the saving throw and take {@damage 10d6} thunder damage
+    instead of {@dice 5d6}.","Each use of the horn''s magic has a {@chance 20} chance
+    of causing the horn to explode. The explosion deals {@damage 10d6} fire damage
+    to the blower and destroys the horn."],"optionalfeatures":["replicate magic item|tce","replicate
+    magic item|uaartificerrevisited"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+  DataHash: 7352b2c2a1c0a50631b97976b4af2ac2

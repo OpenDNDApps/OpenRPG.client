@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: amulet-of-proof-against-detection-and-location
+  m_EditorClassIdentifier: 
+  Title: Amulet of Proof against Detection and Location
+  AsJson: '{"name":"Amulet of Proof against Detection and Location","source":"DMG","page":150,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"weight":1,"entries":["While
+    wearing this amulet, you are hidden from {@filter divination|spells|school=D}
+    magic. You can''t be targeted by such magic or perceived through magical scrying
+    sensors."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+  DataHash: 73fd7b50e5c33390471d9ee648b36710

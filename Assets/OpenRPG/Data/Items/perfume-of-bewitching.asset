@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: perfume-of-bewitching
+  m_EditorClassIdentifier: 
+  Title: Perfume of Bewitching
+  AsJson: '{"name":"Perfume of Bewitching","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+    tiny vial contains magic perfume, enough for one use. You can use an action to
+    apply the perfume to yourself, and its effect lasts 1 hour. For the duration,
+    you have advantage on all Charisma checks directed at humanoids of challenge
+    rating 1 or lower. Those subjected to the perfume''s effect are not aware that
+    they''ve been influenced by magic."]}'
+  DataHash: 3f3343d72f75fd38f67c3236a171bd7c

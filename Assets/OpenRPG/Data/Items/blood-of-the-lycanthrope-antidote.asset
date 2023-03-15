@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: blood-of-the-lycanthrope-antidote
+  m_EditorClassIdentifier: 
+  Title: Blood of the Lycanthrope Antidote
+  AsJson: '{"name":"Blood of the Lycanthrope Antidote","source":"IMR","page":94,"type":"P","rarity":"uncommon","entries":["This
+    clear potion has dark red flecks within, resembling clotted blood. When you drink
+    this potion, it removes the curse of lycanthropy from you if that curse was imposed
+    by a lycanthrope''s bite or similar effect."]}'
+  DataHash: 0eae3b92cd8bdb09e73354a3da816d81

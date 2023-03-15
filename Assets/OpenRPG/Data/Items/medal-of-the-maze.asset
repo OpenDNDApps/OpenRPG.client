@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-the-maze
+  m_EditorClassIdentifier: 
+  Title: Medal of the Maze
+  AsJson: '{"name":"Medal of the Maze","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["When
+    you use an action to trace the maze inscribed on this medal, you gain advantage
+    on Wisdom checks and know the quickest route to the end of any nonmagical path
+    or maze for 1 hour. Once this property has been used, it can''t be used again,
+    and the medal becomes nonmagical."],"hasFluffImages":true}'
+  DataHash: 3995783c5af0f0479a0165dd2d85753e

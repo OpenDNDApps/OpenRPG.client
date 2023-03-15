@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: plate-armor-of-etherealness
+  m_EditorClassIdentifier: 
+  Title: Plate Armor of Etherealness
+  AsJson: '{"name":"Plate Armor of Etherealness","source":"DMG","page":185,"srd":true,"baseItem":"plate
+    armor|phb","type":"HA","tier":"major","rarity":"legendary","reqAttune":true,"weight":65,"ac":18,"strength":"15","stealth":true,"entries":["While
+    you''re wearing this armor, you can speak its command word as an action to gain
+    the effect of the {@spell etherealness} spell, which lasts for 10 minutes or
+    until you remove the armor or use an action to speak the command word again.
+    This property of the armor can''t be used again until the next dawn."],"attachedSpells":["etherealness"],"lootTables":["Magic
+    Item Table I"]}'
+  DataHash: f7bd745c24a5360c06191392a082785d

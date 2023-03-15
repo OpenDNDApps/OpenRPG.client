@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: black-crystal-tablet
+  m_EditorClassIdentifier: 
+  Title: Black Crystal Tablet
+  AsJson: '{"name":"Black Crystal Tablet","source":"WDMM","page":284,"rarity":"legendary","reqAttune":"by
+    a creature that has proficiency in the {@skill Arcana} skill","reqAttuneTags":[{"skillProficiency":"arcana"}],"wondrous":true,"entries":["Any
+    creature that attunes to the tablet must make a DC 20 Wisdom saving throw at
+    the end of its next long rest. On a failed save, the creature becomes afflicted
+    with a random form of long-term madness (see \"{@book Madness|dmg|8|Madness}\"
+    in chapter 8 of the {@book Dungeon Master''s Guide|dmg}).","As an action, a creature
+    attuned to the Black Crystal Tablet can use it to cast {@spell eyebite} or {@spell
+    gate} (the portal created by this spell links to the Far Realm only). After the
+    tablet is used to cast a spell, it cannot be used again until the next dawn."],"attachedSpells":["eyebite","gate"]}'
+  DataHash: 16504bcbc3d7fa86ff5c4386e48c7351

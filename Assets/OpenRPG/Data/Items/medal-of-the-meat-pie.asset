@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-the-meat-pie
+  m_EditorClassIdentifier: 
+  Title: Medal of the Meat Pie
+  AsJson: '{"name":"Medal of the Meat Pie","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["You
+    gain {@dice 2d4 + 2} temporary hit points when you use an action to press this
+    medal to your mouth. Once this property has been used, it can''t be used again,
+    and the medal becomes nonmagical.","While magical, this medal is slightly warm
+    to the touch (as if it''s fresh from the oven) and smells faintly of baked pie
+    crust."]}'
+  DataHash: 0ba8a39a40d8cdc307f59d51014bdbd6

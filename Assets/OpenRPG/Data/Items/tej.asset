@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: tej
+  m_EditorClassIdentifier: 
+  Title: Tej
+  AsJson: '{"name":"Tej","source":"ToA","page":32,"type":"FD","rarity":"none","weight":5,"entries":["Tej
+    is an amber-colored, fermented drink made from honey. It''s more common and popular
+    in Chult than beer or ale. A mug of tej costs 4 cp in Port Nyanzaru or 6 cp in
+    Fort Beluarian. A 1-gallon cask costs 2 sp in the city or 3 sp at the fort."]}'
+  DataHash: ad5d4c1a3e6df90950c63a4af2710e7f

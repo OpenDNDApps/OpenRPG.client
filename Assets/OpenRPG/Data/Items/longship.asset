@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: longship
+  m_EditorClassIdentifier: 
+  Title: Longship
+  AsJson: '{"name":"Longship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":1000000,"crew":40,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":3,"capPassenger":150,"capCargo":10,"seeAlsoVehicle":["Longship"]}'
+  DataHash: 38db65e5e6c9eed0ae484a9147d5519a

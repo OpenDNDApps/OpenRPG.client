@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: waterskin
+  m_EditorClassIdentifier: 
+  Title: Waterskin
+  AsJson: '{"name":"Waterskin","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"weightNote":"(full)","value":20,"entries":["A
+    waterskin can hold up to 4 pints of liquid."]}'
+  DataHash: ae3bb16818e94a32d978efff9065ace0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: illuminator-s-tattoo
+  m_EditorClassIdentifier: 
+  Title: Illuminator's Tattoo
+  AsJson: '{"name":"Illuminator''s Tattoo","source":"UA2020SpellsAndMagicTattoos","page":10,"rarity":"common","reqAttune":true,"wondrous":true,"tattoo":true,"entries":["This
+    tattoo contains beautiful calligraphy, images of writing implements, and the
+    like. While this tattoo is on your skin, you can write with your fingertip as
+    if it were an ink pen that never runs out of ink.","As an action, you can touch
+    a piece of writing up to one page in length and speak a creature''s name. The
+    writing becomes {@condition invisible} to everyone other than you and the named
+    creature for the next 24 hours. Either of you can dismiss the invisibility by
+    touching the script (no action required). Once used, this action can''t be used
+    again until the next dawn.",{"type":"entries","name":"Tattoo Attunement","entries":["To
+    attune to this item, you hold the needle to your skin where you want the tattoo
+    to appear, pressing the needle there throughout the attunement process. When
+    the attunement is complete, the needle turns into the ink that becomes the tattoo,
+    which appears on the skin. If you have multiple magic tattoos, they count as
+    a single magic item with regard to the number of magic items you can attune to.","If
+    your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears
+    in the closest unoccupied space to you."]}]}'
+  DataHash: 946f8255ef9109a0cde963f706ddb3c9

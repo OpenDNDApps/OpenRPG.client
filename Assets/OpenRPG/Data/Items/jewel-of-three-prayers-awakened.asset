@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: jewel-of-three-prayers-awakened
+  m_EditorClassIdentifier: 
+  Title: Jewel of Three Prayers (Awakened)
+  AsJson: '{"name":"Jewel of Three Prayers (Awakened)","source":"CRCotN","_copy":{"name":"Jewel
+    of Three Prayers (Dormant)","source":"CRCotN","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened
+    State","entries":["In this state, the jewel has received the blessing of Avandra
+    the Change Bringer. Three delicate spires unfurl from the jewel''s center, like
+    the buds of flowers opening in the spring. Three lapis lazuli stones rest like
+    dewdrops on these spires.",{"type":"list","items":["The following benefits of
+    the jewel improve:","The bonus that the jewel confers to your AC increases to
+    +2.","Its number of charges increases to 5."]},"The jewel gains the following
+    additional properties, which you can use while wearing or holding it:",{"type":"list","items":["You
+    can expend 1 of the jewel''s charges (no action required) to end one of the following
+    conditions on yourself: {@condition grappled}, {@condition paralyzed}, or {@condition
+    restrained}.","When another creature you can see within 60 feet of you fails
+    a saving throw, you can expend 1 of the jewel''s charges as a reaction to enable
+    that creature to reroll the saving throw, potentially turning a failure into
+    a success. The creature must use the new roll."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusAc":"+2","charges":5,"hasFluffImages":true}'
+  DataHash: 48ca264c13018655b135b336a0fe9360

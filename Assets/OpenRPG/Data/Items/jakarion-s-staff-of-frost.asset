@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: jakarion-s-staff-of-frost
+  m_EditorClassIdentifier: 
+  Title: Jakarion's Staff of Frost
+  AsJson: '{"name":"Jakarion''s Staff of Frost","source":"CoS","page":187,"_copy":{"name":"Staff
+    of Frost","source":"DMG","_mod":{"entries":{"mode":"appendArr","items":"Imprinted
+    on this staff is a fragment of a dead wizard''s personality. The first character
+    who touches the staff gains the following flaw: \"I crave power above all else,
+    and will do anything to obtain more of it.\" This flaw trumps any conflicting
+    personality trait."}}}}'
+  DataHash: b93960ef48e1720a17d8df91a8e9fe0f

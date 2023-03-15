@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: hat-of-wizardry
+  m_EditorClassIdentifier: 
+  Title: Hat of Wizardry
+  AsJson: "{\"name\":\"Hat of Wizardry\",\"source\":\"XGE\",\"page\":137,\"tier\":\"minor\",\"rarity\":\"common\",\"reqAttune\":\"by
+    a wizard\",\"reqAttuneTags\":[{\"class\":\"wizard\"}],\"wondrous\":true,\"focus\":[\"Wizard\"],\"entries\":[\"This
+    antiquated, cone\u2014shaped hat is adorned with gold crescent moons and stars.
+    While you are wearing it, you gain the following benefits:\",{\"type\":\"list\",\"items\":[\"You
+    can use the hat as a spellcasting focus for your wizard spells.\",\"You can try
+    to cast a cantrip that you don't know. The cantrip must be on the wizard spell
+    list, and you must make a DC 10 Intelligence ({@skill Arcana}) check. If the
+    check succeeds, you cast the spell. If the check fails, so does the spell, and
+    the action used to cast the spell is wasted. In either case, you can't use this
+    property again until you finish a long rest.\"]}]}"
+  DataHash: 9f360f44e3bdbac7bcee2b7716d950ee

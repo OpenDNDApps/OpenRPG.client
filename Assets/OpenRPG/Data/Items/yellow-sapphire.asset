@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: yellow-sapphire
+  m_EditorClassIdentifier: 
+  Title: Yellow Sapphire
+  AsJson: '{"name":"Yellow Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+    transparent fiery yellow or yellow-green gemstone."]}'
+  DataHash: a84a480f282709c6589f48d337e840aa

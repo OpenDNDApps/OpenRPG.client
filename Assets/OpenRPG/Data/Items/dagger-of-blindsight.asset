@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dagger-of-blindsight
+  m_EditorClassIdentifier: 
+  Title: Dagger of Blindsight
+  AsJson: '{"name":"Dagger of Blindsight","source":"WDMM","page":86,"baseItem":"dagger|phb","type":"M","rarity":"rare","reqAttune":true,"weight":1,"weaponCategory":"simple","property":["F","L","T"],"range":"20/60","dmg1":"1d4","dmgType":"P","entries":["This
+    rare magic item requires attunement. A creature attuned to it gains {@sense blindsight}
+    out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl
+    nested in its pommel."]}'
+  DataHash: e6135c3c2cc3bce8f80bbfa9c3fc9d89

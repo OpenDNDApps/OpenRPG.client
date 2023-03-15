@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: boots-of-striding-and-springing
+  m_EditorClassIdentifier: 
+  Title: Boots of Striding and Springing
+  AsJson: '{"name":"Boots of Striding and Springing","source":"DMG","page":156,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"modifySpeed":{"static":{"walk":30}},"entries":["While
+    you wear these boots, your walking speed becomes 30 feet, unless your walking
+    speed is higher, and your speed isn''t reduced if you are encumbered or wearing
+    heavy armor. In addition, you can jump three times the normal distance, though
+    you can''t jump farther than your remaining movement would allow."],"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 553ffb7b3b18359451167fe27d8c904d

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cauldron-of-rebirth
+  m_EditorClassIdentifier: 
+  Title: Cauldron of Rebirth
+  AsJson: '{"name":"Cauldron of Rebirth","source":"TCE","page":122,"rarity":"very
+    rare","reqAttune":"by a druid or warlock","reqAttuneTags":[{"class":"druid"},{"class":"warlock"}],"wondrous":true,"entries":["This
+    Tiny pot bears relief scenes of heroes on its cast iron sides. You can use the
+    cauldron as a spellcasting focus for your spells, and it functions as a suitable
+    component for the {@spell scrying} spell. When you finish a long rest, you can
+    use the cauldron to create a {@item potion of greater healing}. The potion lasts
+    for 24 hours, then loses its magic if not consumed.","As an action, you can cause
+    the cauldron to grow large enough for a Medium creature to crouch within. You
+    can revert the cauldron to its normal size as an action, harmlessly shunting
+    anything that can''t fit inside to the nearest unoccupied space.","If you place
+    the corpse of a humanoid into the cauldron and cover the corpse with 200 pounds
+    of salt (which costs 10 gp) for at least 8 hours, the salt is consumed and the
+    creature returns to life as if by {@spell raise dead} at the next dawn. Once
+    used, this property can''t be used again for 7 days."],"attachedSpells":["raise
+    dead","scrying"],"hasFluffImages":true}'
+  DataHash: c6f4dadff9f74ef7d4b8b23087ba6910

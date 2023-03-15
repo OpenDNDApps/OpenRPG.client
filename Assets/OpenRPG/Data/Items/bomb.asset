@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bomb
+  m_EditorClassIdentifier: 
+  Title: Bomb
+  AsJson: '{"name":"Bomb","source":"DMG","page":268,"type":"EXP","rarity":"none","weight":1,"value":15000,"age":"renaissance","entries":["As
+    an action, a character can light this bomb and throw it at a point up to 60 feet
+    away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity
+    saving throw or take {@damage 3d6} fire damage."]}'
+  DataHash: 1a131d6f3d4f03f111b78212f07bc1b2

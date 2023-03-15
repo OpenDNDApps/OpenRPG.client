@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: conch-of-teleportation
+  m_EditorClassIdentifier: 
+  Title: Conch of Teleportation
+  AsJson: "{\"name\":\"Conch of Teleportation\",\"source\":\"SKT\",\"page\":234,\"rarity\":\"very
+    rare\",\"reqAttune\":true,\"wondrous\":true,\"entries\":[\"This item is an ordinary,
+    albeit rather large, conch shell that has been inscribed with the uvar rune.
+    The conch measures 2\xBD feet long and weighs 20 pounds.\",\"As an action, you
+    can cast the {@spell teleport} spell by blowing into the shell. The destination
+    is fixed, and there is no chance of either a mishap or the spell being off target.
+    Anyone teleported by the conch appears in a specific location designated by the
+    item's creator at the time the uvar rune is inscribed on the conch. It doesn't
+    allow teleportation to any other destination. Once its spell is cast, the conch
+    can't be used again until the next dawn.\"],\"attachedSpells\":[\"teleport\"],\"hasFluffImages\":true}"
+  DataHash: 5d64c51f19affd55faadebec68887731

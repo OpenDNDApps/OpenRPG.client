@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: 3-amulet-of-the-devout
+  m_EditorClassIdentifier: 
+  Title: +3 Amulet of the Devout
+  AsJson: '{"name":"+3 Amulet of the Devout","source":"TCE","page":119,"rarity":"very
+    rare","reqAttune":"by a cleric or paladin","reqAttuneTags":[{"class":"cleric"},{"class":"paladin"}],"wondrous":true,"weight":1,"bonusSpellAttack":"+3","bonusSpellSaveDc":"+3","entries":["This
+    amulet bears the symbol of a deity inlaid with precious stones or metals. While
+    you wear the holy symbol, you gain a +3 bonus to spell attack rolls and the saving
+    throw DCs of your spells.","While you wear this amulet, you can use your Channel
+    Divinity feature without expending one of the feature''s uses. Once this property
+    is used, it can''t be used again until the next dawn."]}'
+  DataHash: ee6a02ae3275de824bf66dbdd2c2646e

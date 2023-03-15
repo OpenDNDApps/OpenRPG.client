@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ring-of-x-ray-vision
+  m_EditorClassIdentifier: 
+  Title: Ring of X-ray Vision
+  AsJson: '{"name":"Ring of X-ray Vision","source":"DMG","page":193,"srd":true,"type":"RG","tier":"major","rarity":"rare","reqAttune":true,"entries":["While
+    wearing this ring, you can use an action to speak its command word. When you
+    do so, you can see into and through solid matter for 1 minute. This vision has
+    a radius of 30 feet. To you, solid objects within that radius appear transparent
+    and don''t prevent light from passing through them. The vision can penetrate
+    1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker
+    substances block the vision, as does a thin sheet of lead.","Whenever you use
+    the ring again before taking a long rest, you must succeed on a DC 15 Constitution
+    saving throw or gain one level of {@condition exhaustion}."],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: 171716e691534df1a889ebdc9315c945

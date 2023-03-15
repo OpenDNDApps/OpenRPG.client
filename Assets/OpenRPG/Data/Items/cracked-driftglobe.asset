@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cracked-driftglobe
+  m_EditorClassIdentifier: 
+  Title: Cracked Driftglobe
+  AsJson: '{"name":"Cracked Driftglobe","source":"CM","page":110,"rarity":"uncommon","wondrous":true,"weight":1,"entries":["This
+    small sphere of thick glass weighs 1 pound. If you are within 60 feet of it,
+    you can speak its command word and cause it to emanate the {@spell light} spell."],"attachedSpells":["light"]}'
+  DataHash: 4ce08582e1bc26f8213fecd77c003a14

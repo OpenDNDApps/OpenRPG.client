@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stone-of-controlling-earth-elementals
+  m_EditorClassIdentifier: 
+  Title: Stone of Controlling Earth Elementals
+  AsJson: '{"name":"Stone of Controlling Earth Elementals","source":"DMG","page":205,"srd":true,"tier":"major","rarity":"rare","wondrous":true,"weight":5,"entries":["If
+    the stone is touching the ground, you can use an action to speak its command
+    word and summon an {@creature earth elemental}, as if you had cast the {@spell
+    conjure elemental} spell. The stone can''t be used this way again until the next
+    dawn. The stone weighs 5 pounds."],"attachedSpells":["conjure elemental"],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: bc5434bb4a917b29f2482d275fa67a34

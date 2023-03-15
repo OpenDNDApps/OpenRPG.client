@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: candle-mace
+  m_EditorClassIdentifier: 
+  Title: Candle Mace
+  AsJson: '{"name":"Candle Mace","source":"BGDIA","page":39,"baseItem":"mace|phb","type":"M","rarity":"unknown
+    (magic)","weight":4,"weaponCategory":"simple","dmg1":"1d6","dmgType":"B","bonusWeapon":"+1","weapon":true,"entries":["You
+    have a +1 bonus to attack and damage rolls made with this magic weapon. The head
+    of this mace sheds bright light in a 5-foot-radius and dim light for an additional
+    5 feet. When you wield this mace, you can extinguish or ignite its light as an
+    action."]}'
+  DataHash: a2804f54c762f72114175efc9cc0ee9e

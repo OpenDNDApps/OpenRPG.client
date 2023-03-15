@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: scholar-s-pack
+  m_EditorClassIdentifier: 
+  Title: Scholar's Pack
+  AsJson: '{"name":"Scholar''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":4000,"entries":["Includes:",{"type":"list","items":["a
+    {@item backpack|phb}","a {@item book|phb} of lore","a {@item Ink (1-ounce bottle)|phb|bottle
+    of ink}","an {@item ink pen|phb}","10 {@item Parchment (one sheet)|phb|sheets
+    of parchment}","a little bag of sand","a small knife."]}],"packContents":["backpack|phb","book|phb","ink
+    (1-ounce bottle)|phb","ink pen|phb","parchment (one sheet)|phb",{"special":"little
+    bag of sand"},{"special":"small knife"}]}'
+  DataHash: bf3322234b78720a4733bfe602d2611e

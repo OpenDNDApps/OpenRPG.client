@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: shield-of-expression
+  m_EditorClassIdentifier: 
+  Title: Shield of Expression
+  AsJson: '{"name":"Shield of Expression","source":"XGE","page":139,"type":"S","tier":"minor","rarity":"common","weight":6,"ac":2,"entries":["The
+    front of this shield is shaped in the likeness of a face. While bearing the shield,
+    you can use a bonus action to alter the face''s expression."]}'
+  DataHash: 8047aff581aa10d2c3c64f2ca9903ca1

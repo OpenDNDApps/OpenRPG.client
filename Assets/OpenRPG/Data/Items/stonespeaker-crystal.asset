@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stonespeaker-crystal
+  m_EditorClassIdentifier: 
+  Title: Stonespeaker Crystal
+  AsJson: '{"name":"Stonespeaker Crystal","source":"OotA","page":223,"rarity":"rare","reqAttune":true,"wondrous":true,"recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 4}","charges":10,"entries":["Created by the stone giant librarians of Gravenhollow,
+    this nineteen-inch-long shard of quartz grants you advantage on Intelligence
+    ({@skill Investigation}) checks while it is on your person.","The crystal has
+    10 charges. While holding it, you can use an action to expend some of its charges
+    to cast one of the following spells from it: {@spell speak with animals} (2 charges),
+    {@spell speak with dead} (4 charges), or {@spell speak with plants} (3 charges).","When
+    you cast a {@filter divination|spells|school=D} spell, you can use the crystal
+    in place of one material component that would normally be consumed by the spell,
+    at a cost of 1 charge per level of the spell. The crystal is not consumed when
+    used in this way.","The crystal regains {@dice 1d6 + 4} expended charges daily
+    at dawn. If you expend the crystal''s last charge, roll a {@dice d20}. On a 1,
+    the crystal vanishes, lost forever."],"attachedSpells":["speak with animals","speak
+    with dead","speak with plants"],"hasFluffImages":true}'
+  DataHash: 78467e4778f2fb6423ad337035cbb0f5

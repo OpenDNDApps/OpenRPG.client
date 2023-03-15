@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bonecounter
+  m_EditorClassIdentifier: 
+  Title: Bonecounter
+  AsJson: '{"name":"Bonecounter","source":"SDW","baseItem":"mace|phb","type":"M","rarity":"rare","weight":4,"weaponCategory":"simple","dmg1":"1d6","dmgType":"B","bonusWeapon":"+2","entries":["This
+    weapon is a magical +2 mace called Bonecounter. Whenever this weapon is used
+    to destroy an undead creature, a single silver piece appears in the wielder''s
+    pocket."]}'
+  DataHash: e708a2f0d743dd8a4d6d6a65a0fdb791

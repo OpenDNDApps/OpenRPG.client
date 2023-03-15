@@ -34,7 +34,7 @@ namespace OpenRPG
         public virtual void ParseBackgrounds(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "id", "background", creationFolderPath, ref Backgrounds);
         public virtual void ParseClasses(string filePath, string creationFolderPath) => ParseSourceFolder(filePath, "name", "class", creationFolderPath, ref Classes);
         public virtual void ParseRaces(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "id", "race", creationFolderPath, ref Races);
-        public virtual void ParseItems(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "id", "item", creationFolderPath, ref Items);
+        public virtual void ParseItems(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "item", creationFolderPath, ref Items);
         public virtual void ParseSkills(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "skill", creationFolderPath, ref Skills);
         public virtual void ParseLanguages(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "language", creationFolderPath, ref Languages);
         

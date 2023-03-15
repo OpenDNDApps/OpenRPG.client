@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pearl-of-power
+  m_EditorClassIdentifier: 
+  Title: Pearl of Power
+  AsJson: '{"name":"Pearl of Power","source":"DMG","page":184,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":"by
+    a spellcaster","reqAttuneTags":[{"spellcasting":true}],"wondrous":true,"entries":["While
+    this pearl is on your person, you can use an action to speak its command word
+    and regain one expended spell slot. If the expended slot was of 4th level or
+    higher, the new slot is 3rd level. Once you have used the pearl, it can''t be
+    used again until the next dawn."],"lootTables":["Magic Item Table F"]}'
+  DataHash: 07837b8c087de612787624ffb2fd8bca

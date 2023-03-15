@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: quaal-s-feather-token-tree
+  m_EditorClassIdentifier: 
+  Title: Quaal's Feather Token, Tree
+  AsJson: '{"name":"Quaal''s Feather Token, Tree","source":"DMG","page":188,"srd":"Feather
+    Token, Tree","tier":"minor","rarity":"rare","wondrous":true,"entries":["This
+    tiny object looks like a feather. Different types of feather tokens exist, each
+    with a different single-use effect.",{"name":"Tree","type":"entries","entries":["You
+    must be outdoors to use this token. You can use an action to touch it to an unoccupied
+    space on the ground. The token disappears, and in its place a nonmagical oak
+    tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter
+    trunk, and its branches at the top spread out in a 20-foot radius."]}]}'
+  DataHash: b73b898e170cc76556f07fddc8a0ef39

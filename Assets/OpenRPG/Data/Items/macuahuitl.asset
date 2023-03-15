@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: macuahuitl
+  m_EditorClassIdentifier: 
+  Title: Macuahuitl
+  AsJson: '{"name":"Macuahuitl","source":"TftYP","page":70,"baseItem":"longsword|phb","type":"M","rarity":"unknown
+    (magic)","weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+1","sword":true,"weapon":true,"entries":["You
+    have a +1 bonus to attack and damage rolls made with this longsword, which is
+    made of laminated wood, and inset with jagged teeth of obsidian. It deals an
+    extra {@damage 2d6} damage to any creature of the plant type."]}'
+  DataHash: a9efa86bdc8e143bdd4cabb0ac7d3684

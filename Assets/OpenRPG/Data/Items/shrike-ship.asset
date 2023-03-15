@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: shrike-ship
+  m_EditorClassIdentifier: 
+  Title: Shrike Ship
+  AsJson: "{\"name\":\"Shrike Ship\",\"source\":\"AAG\",\"page\":44,\"type\":\"SPC\",\"rarity\":\"none\",\"value\":2000000,\"crew\":11,\"vehAc\":15,\"vehHp\":250,\"vehDmgThresh\":15,\"vehSpeed\":8,\"capCargo\":20,\"entries\":[\"This
+    swift vessel is a relatively recent design, quickly gaining popularity with merchants
+    and pirates. A shrike ship's legs enable it to land safely on the ground. The
+    ship can float but isn't built for traveling on water and sinks quickly in rough
+    seas.\",\"Standard weaponry on a shrike ship includes three ballistae\u2014one
+    on the forecastle, one in the middle of the top deck, and one on the sterncastle.
+    In a desperate situation, the ship's reinforced bow can be used as a piercing
+    ram.\"],\"seeAlsoVehicle\":[\"Shrike Ship|AAG\"]}"
+  DataHash: 49106bea3b5e2eaf9721ac522d8c37a9

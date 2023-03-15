@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-maximum-power
+  m_EditorClassIdentifier: 
+  Title: Potion of Maximum Power
+  AsJson: '{"name":"Potion of Maximum Power","source":"EGW","page":268,"type":"P","rarity":"rare","entries":["The
+    first time you cast a damage-dealing spell of 4th level or lower within 1 minute
+    after drinking the potion, instead of rolling dice to determine the damage dealt,
+    you can instead use the highest number possible for each die.","This glowing
+    purple liquid smells of sugar and plum, but it has a muddy taste."]}'
+  DataHash: 9f7daed3ee7c31c567b0dbf5402cf68a

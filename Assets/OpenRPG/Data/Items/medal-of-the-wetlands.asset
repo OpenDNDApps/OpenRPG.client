@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-the-wetlands
+  m_EditorClassIdentifier: 
+  Title: Medal of the Wetlands
+  AsJson: '{"name":"Medal of the Wetlands","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["When
+    you use an action to trace the edge of this medal, {@quickref difficult terrain||3}
+    doesn''t cost you extra movement for 1 hour. Once this property has been used,
+    it can''t be used again, and the medal becomes nonmagical."]}'
+  DataHash: 33fe8cfad35fb96788532d0cf2307b3a

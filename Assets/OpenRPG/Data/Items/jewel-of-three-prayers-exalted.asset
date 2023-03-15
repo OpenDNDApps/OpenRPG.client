@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: jewel-of-three-prayers-exalted
+  m_EditorClassIdentifier: 
+  Title: Jewel of Three Prayers (Exalted)
+  AsJson: '{"name":"Jewel of Three Prayers (Exalted)","source":"CRCotN","_copy":{"name":"Jewel
+    of Three Prayers (Awakened)","source":"CRCotN","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Exalted
+    State","entries":["In this state, the jewel has received the blessing of Corellon
+    the Arch Heart. A gleaming emerald surrounded by a halo of gold appears on the
+    jewel.","The following benefits of the jewel improve:",{"type":"list","items":["The
+    bonus that the jewel confers to your AC increases to +3.","Its number of charges
+    increases to 7."]},"The jewel gains the following additional properties, which
+    you can use while wearing or holding it:",{"type":"list","items":["You gain the
+    ability to breathe water, and you gain a swimming speed equal to your walking
+    speed.","Each of your allies within 30 feet of you gains the ability to breathe
+    water and gains a swimming speed equal to its walking speed.","As a bonus action,
+    you can expend 1 of the jewel''s charges to target yourself or one willing creature
+    you can see within 15 feet of yourself. The target teleports to an unoccupied
+    space of your choice within 15 feet of yourself, along with any equipment the
+    target is wearing or carrying. The target appears in a flash of golden radiance,
+    and each creature of your choice within 5 feet of the target''s new location
+    must make a DC 18 Constitution saving throw. On a failed save, the creature takes
+    {@damage 4d10} radiant damage and is {@condition blinded} until the start of
+    your next turn. On a successful save, the creature takes half as much damage
+    and isn''t {@condition blinded}."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusAc":"+3","modifySpeed":{"equal":{"swim":"walk"}},"charges":7,"hasFluffImages":true}'
+  DataHash: ec6e0571081c2c78bbae0b40ca6d9865

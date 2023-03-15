@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: charlatan-s-die
+  m_EditorClassIdentifier: 
+  Title: Charlatan's Die
+  AsJson: '{"name":"Charlatan''s Die","source":"XGE","page":136,"tier":"minor","rarity":"common","reqAttune":true,"wondrous":true,"entries":["Whenever
+    you roll this six-sided die, you can control which number it rolls."]}'
+  DataHash: f518be5650490a27b17633d70f347226

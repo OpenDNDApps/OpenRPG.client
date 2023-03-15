@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: spellwrought-tattoo-2nd-level
+  m_EditorClassIdentifier: 
+  Title: Spellwrought Tattoo (2nd Level)
+  AsJson: '{"name":"Spellwrought Tattoo (2nd Level)","source":"UA2020SpellsAndMagicTattoos","page":11,"rarity":"uncommon","wondrous":true,"tattoo":true,"entries":["This
+    tattoo contains a single spell, wrought on your skin by a magic needle. To use
+    the tattoo, you must hold the needle against your skin where you want the tattoo
+    to appear and speak the command word. The needle turns into the ink that becomes
+    the tattoo, which appears on your skin. Once the tattoo is on your skin, you
+    can cast its spell, requiring no material components. The tattoo glows faintly
+    while you cast the spell and for the spell''s duration. Once the spell ends,
+    the tattoo vanishes from your skin.","A spell cast from this tattoo has a spellcasting
+    ability modifier of +3, a save DC of 13 and an attack bonus of +5."]}'
+  DataHash: ce5ee504b9421add97154d9424248045

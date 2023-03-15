@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: arrow-catching-shield
+  m_EditorClassIdentifier: 
+  Title: Arrow-Catching Shield
+  AsJson: '{"name":"Arrow-Catching Shield","source":"DMG","page":152,"srd":true,"type":"S","tier":"major","rarity":"rare","reqAttune":true,"weight":6,"ac":2,"bonusAc":"+2","entries":["You
+    gain a +2 bonus to AC against ranged attacks while you wield this shield. This
+    bonus is in addition to the shield''s normal bonus to AC. In addition, whenever
+    an attacker makes a ranged attack against a target within 5 feet of you, you
+    can use your reaction to become the target of the attack instead."],"lootTables":["Magic
+    Item Table G"]}'
+  DataHash: dd32c100636acb85bde193e830d2af88

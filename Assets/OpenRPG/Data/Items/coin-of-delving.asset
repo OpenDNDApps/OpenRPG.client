@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: coin-of-delving
+  m_EditorClassIdentifier: 
+  Title: Coin of Delving
+  AsJson: '{"name":"Coin of Delving","source":"EGW","page":266,"rarity":"common","wondrous":true,"entries":["This
+    scintillating copper coin sheds dim light in a 5-foot radius. If dropped a distance
+    greater than 5 feet, the coin issues a melodious ringing sound when it hits a
+    surface. Any creature that can hear the chime can determine the distance the
+    coin dropped based on the tone."]}'
+  DataHash: 9ffb6bc33b5a8daa1f8a0540c7020b87

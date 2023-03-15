@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: entertainer-s-pack
+  m_EditorClassIdentifier: 
+  Title: Entertainer's Pack
+  AsJson: '{"name":"Entertainer''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":38,"value":4000,"entries":["Includes:",{"type":"list","items":["a
+    {@item backpack|phb}","a {@item bedroll|phb}","2 {@item Costume Clothes|phb|costumes}","5
+    {@item candle|phb|candles}","5 days of {@item Rations (1 day)|phb|rations}","a
+    {@item waterskin|phb}","a {@item disguise kit|phb}"]}],"packContents":["backpack|phb","bedroll|phb",{"item":"costume
+    clothes|phb","quantity":2},{"item":"candle|phb","quantity":5},{"item":"rations
+    (1 day)|phb","quantity":5},"waterskin|phb","disguise kit|phb"]}'
+  DataHash: 21bd2edd7ce05016c1db3dc05f6246d1

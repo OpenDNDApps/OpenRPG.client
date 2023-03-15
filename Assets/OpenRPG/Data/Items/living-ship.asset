@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: living-ship
+  m_EditorClassIdentifier: 
+  Title: Living Ship
+  AsJson: '{"name":"Living Ship","source":"AAG","page":36,"type":"SPC","rarity":"none","value":2500000,"crew":5,"vehAc":15,"vehHp":250,"vehDmgThresh":15,"vehSpeed":4.5,"capCargo":10,"entries":["Druids,
+    rangers, and clerics devoted to gods of nature are often found aboard living
+    ships, as are Wildspace explorers who don''t want to have to worry about their
+    ship''s air envelope becoming fouled during a long voyage.","This ship''s main
+    distinctive feature is the fully grown {@creature treant} on the aft deck. The
+    treant has a speed of 0 because its roots are woven into the deck; it and the
+    ship are inseparable. If the ship is reduced to 0 hit points, the treant dies
+    of shock. The ship can function if its treant dies, but the treant can never
+    be replaced with another.","When the treant finishes a long rest, it repairs
+    the ship''s hull, enabling the ship to regain {@dice 4d12} hit points, and refreshes
+    the ship''s air envelope (turning deadly air into foul air, or foul air into
+    fresh air).","A living ship can float on water and sail across it, but it can''t
+    land safely on the ground (its keel would cause it to roll on its side). Its
+    standard weaponry is an aft-mounted ballista."],"seeAlsoVehicle":["Living Ship|AAG"]}'
+  DataHash: 42a8b4f03e641bbb314d459812e772ce

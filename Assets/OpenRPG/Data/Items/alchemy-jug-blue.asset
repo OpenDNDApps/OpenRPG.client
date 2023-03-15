@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: alchemy-jug-blue
+  m_EditorClassIdentifier: 
+  Title: Alchemy Jug (Blue)
+  AsJson: '{"name":"Alchemy Jug (Blue)","source":"CM","page":144,"rarity":"uncommon","wondrous":true,"weight":12,"entries":["This
+    ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds
+    whether full or empty. Sloshing sounds can be heard from within the jug when
+    it is shaken, even if the jug is empty.","You can use an action and name one
+    liquid from the table below to cause the jug to produce the chosen liquid. Afterward,
+    you can uncork the jug as an action and pour that liquid out, up to 2 gallons
+    per minute. The maximum amount of liquid the jug can produce depends on the liquid
+    you named.","Once the jug starts producing a liquid, it can''t produce a different
+    one, or more of one that has reached its maximum, until the next dawn.",{"type":"table","colStyles":["col-6
+    text-center","col-6 text-center"],"colLabels":["Liquid","Max Amount"],"rows":[["Beer","4
+    gallons"],["Boiling Hot Tea","1 quart"],["Honey","1 gallon"],["Mayonnaise","2
+    gallons"],["Oil","quart"],["Vinegar","2 gallons"],["Water, fresh","8 gallons"],["Water,
+    salt","12 gallons"],["Wine","1 gallon"]]}],"miscTags":["CF/W"]}'
+  DataHash: de9f45d9ccaab794d09de55b05a9196e

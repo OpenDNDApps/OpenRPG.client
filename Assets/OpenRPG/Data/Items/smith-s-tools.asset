@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: smith-s-tools
+  m_EditorClassIdentifier: 
+  Title: Smith's Tools
+  AsJson: '{"name":"Smith''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":84}],"type":"AT","rarity":"none","weight":8,"value":2000,"additionalEntries":["Smith''s
+    tools allow you to work metal, heating it to alter its shape, repair damage,
+    or work raw ingots into useful items.",{"type":"entries","name":"Components","entries":["Smith''s
+    tools include hammers, tongs, charcoal, rags, and a whetstone."]},{"type":"entries","name":"Arcana
+    and History","entries":["Your expertise lends you additional insight when examining
+    metal objects, such as weapons."]},{"type":"entries","name":"Investigation","entries":["You
+    can spot clues and make deductions that others might overlook when an investigation
+    involves armor, weapons, or other metalwork."]},{"type":"entries","name":"Repair","entries":["With
+    access to your tools and an open flame hot enough to make metal pliable, you
+    can restore 10 hit points to a damaged metal object for each hour of work."]},{"type":"table","caption":"Smith''s
+    Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Sharpen
+    a dull blade","10"],["Repair a suit of armor","15"],["Sunder a nonmagical metal
+    object","15"]]}]}'
+  DataHash: 0e437fdedb252b8bacd9c3ae80fa3918

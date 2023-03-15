@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: vial-of-stardust
+  m_EditorClassIdentifier: 
+  Title: Vial of Stardust
+  AsJson: '{"name":"Vial of Stardust","source":"WDMM","page":251,"type":"OTH","rarity":"unknown","entries":["Any
+    creature that sprinkles the contents of a Vial of Stardust over itself gains
+    the ability to cast the {@spell dream} spell once as an action (spell save DC
+    15), requiring no components."],"attachedSpells":["dream"]}'
+  DataHash: cf9be0836692c461a6d54b979f219f37

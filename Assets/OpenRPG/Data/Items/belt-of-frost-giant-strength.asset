@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: belt-of-frost-giant-strength
+  m_EditorClassIdentifier: 
+  Title: Belt of Frost Giant Strength
+  AsJson: '{"name":"Belt of Frost Giant Strength","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"very
+    rare","reqAttune":true,"wondrous":true,"ability":{"static":{"str":23}},"entries":["While
+    wearing this belt, your Strength score changes to 23. The item has no effect
+    on you if your Strength without the belt is equal to or greater than the belt''s
+    score."],"lootTables":["Magic Item Table H"]}'
+  DataHash: 208a91cdb6934e0c864ae1b8b3e85870

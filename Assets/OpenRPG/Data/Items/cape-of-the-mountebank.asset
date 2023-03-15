@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cape-of-the-mountebank
+  m_EditorClassIdentifier: 
+  Title: Cape of the Mountebank
+  AsJson: '{"name":"Cape of the Mountebank","source":"DMG","page":157,"srd":true,"tier":"major","rarity":"rare","wondrous":true,"entries":["This
+    cape smells faintly of brimstone. While wearing it, you can use it to cast the
+    {@spell dimension door} spell as an action. This property of the cape can''t
+    be used again until the next dawn.","When you disappear, you leave behind a cloud
+    of smoke, and you appear in a similar cloud of smoke at your destination. The
+    smoke lightly obscures the space you left and the space you appear in, and it
+    dissipates at the end of your next turn. A light or stronger wind disperses the
+    smoke."],"attachedSpells":["dimension door"],"lootTables":["Magic Item Table
+    G"],"hasFluffImages":true}'
+  DataHash: 6a44ecc3e5dd623bf141e19c2b95e386

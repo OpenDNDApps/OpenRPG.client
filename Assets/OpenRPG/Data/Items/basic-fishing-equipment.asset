@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: basic-fishing-equipment
+  m_EditorClassIdentifier: 
+  Title: Basic Fishing Equipment
+  AsJson: "{\"name\":\"Basic Fishing Equipment\",\"source\":\"AAG\",\"page\":21,\"type\":\"G\",\"rarity\":\"none\",\"value\":10,\"entries\":[\"Basic
+    Fishing Equipment includes a pole, a line, a hook, and either a lure or some
+    bait.\",\"Fishing is a popular pastime in Wildspace and the Astral Sea, though
+    this activity isn't possible aboard a ship that is moving faster than its flying
+    speed. At the end of each hour spent fishing, a character can make a DC 15 Wisdom
+    ({@skill Survival}) check. A failed check indicates no fish is caught during
+    that hour. On a successful check, roll a {@dice d10} and consult the Fishing
+    table to determine the catch.\",{\"type\":\"table\",\"caption\":\"\",\"colLabels\":[\"d10\",\"Catch\"],\"colStyles\":[\"col-2
+    text-center\",\"col-10\"],\"rows\":[[\"1\u20132\",\"Tiny, inedible fish (a creature
+    that consumes it is poisoned for 1 hour)\"],[\"3\u20135\",\"Tiny, edible fish
+    (feeds one person)\"],[\"6\u20138\",\"Small, edible fish (feeds up to four people)\"],[\"9\",\"Hostile
+    {@creature space eel|BAM} (see {@book Boo's Astral Menagerie|BAM}; feeds up to
+    twelve people)\"],[\"10\",\"Hostile {@creature gray scavver|BAM} (see {@book
+    Boo's Astral Menagerie|BAM}; feeds up to twenty people), some other creature
+    of the DM's choosing, or an Tiny object of the DM's choosing\"]]}]}"
+  DataHash: af7ff85112bcf8262dd738f8e63dccd5

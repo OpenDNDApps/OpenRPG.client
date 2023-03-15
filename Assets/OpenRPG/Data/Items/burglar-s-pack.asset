@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: burglar-s-pack
+  m_EditorClassIdentifier: 
+  Title: Burglar's Pack
+  AsJson: '{"name":"Burglar''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":44.5,"value":1600,"entries":["Includes:",{"type":"list","items":["a
+    {@item backpack|phb}","a {@item Ball Bearings (Bag of 1,000)|phb|bag of 1,000
+    ball bearings}","10 feet of string","a {@item bell|phb}","5 {@item candle|phb|candles}","a
+    {@item crowbar|phb}","a {@item hammer|phb}","10 {@item piton|phb|pitons}","a
+    {@item hooded lantern|phb}","2 {@item Oil (flask)|phb|flasks of oil}","5 days
+    {@item Rations (1 day)|phb|rations}","a {@item tinderbox|phb}","a {@item waterskin|phb}","{@item
+    Hempen Rope (50 feet)|phb|50 feet of hempen rope}"]}],"packContents":["backpack|phb","ball
+    bearings (bag of 1,000)|phb",{"special":"10 feet of string"},"bell|phb",{"item":"candle|phb","quantity":5},"crowbar|phb","hammer|phb",{"item":"piton|phb","quantity":10},"hooded
+    lantern|phb",{"item":"oil (flask)|phb","quantity":2},{"item":"rations (1 day)|phb","quantity":5},"tinderbox|phb","waterskin|phb","hempen
+    rope (50 feet)|phb"]}'
+  DataHash: a6643507831de60df284ee4dac57e1cc

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: reszur
+  m_EditorClassIdentifier: 
+  Title: Reszur
+  AsJson: '{"name":"Reszur","source":"PotA","page":157,"baseItem":"dagger|phb","type":"M","rarity":"uncommon","weight":1,"weaponCategory":"simple","property":["F","L","T"],"range":"20/60","dmg1":"1d4","dmgType":"P","bonusWeapon":"+1","entries":["You
+    have a +1 bonus to attack and damage rolls made with this weapon, which doesn''t
+    make noise when it hits or cuts something.","The name \"Reszur\" is graven on
+    the dagger''s pommel. If the wielder speaks the name, the blade gives off a faint,
+    cold glow, shedding dim light in a 10-foot radius until the wielder speaks the
+    name again."]}'
+  DataHash: c295252a6ad4f85e85ec744b61c65574

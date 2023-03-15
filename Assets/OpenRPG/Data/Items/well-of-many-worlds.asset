@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: well-of-many-worlds
+  m_EditorClassIdentifier: 
+  Title: Well of Many Worlds
+  AsJson: '{"name":"Well of Many Worlds","source":"DMG","page":213,"srd":true,"tier":"major","rarity":"legendary","wondrous":true,"entries":["This
+    fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief.
+    It unfolds into a circular sheet 6 feet in diameter.","You can use an action
+    to unfold and place the well of many worlds on a solid surface, whereupon it
+    creates a two-way portal to another world or plane of existence. Each time the
+    item opens a portal, the DM decides where it leads. You can use an action to
+    close an open portal by taking hold of the edges of the cloth and folding it
+    up. Once well of many worlds has opened a portal, it can''t do so again for {@dice
+    1d8} hours."],"lootTables":["Magic Item Table I"]}'
+  DataHash: 470539ca5e1a0aac9f708416f678e4b4

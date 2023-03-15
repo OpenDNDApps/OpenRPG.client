@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pipe-of-smoke-monsters
+  m_EditorClassIdentifier: 
+  Title: Pipe of Smoke Monsters
+  AsJson: '{"name":"Pipe of Smoke Monsters","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+    smoking this pipe, you can use an action to exhale a puff of smoke that takes
+    the form of a single creature, such as a dragon, a flumph, or a froghemoth. The
+    form must be small enough to fit in a 1-foot cube and loses its shape after a
+    few seconds, becoming an ordinary puff of smoke."],"hasFluffImages":true}'
+  DataHash: c831e2314f2bffb592d28e17b3c66ee4

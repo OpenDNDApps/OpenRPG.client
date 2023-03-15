@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: necklace-of-adaptation
+  m_EditorClassIdentifier: 
+  Title: Necklace of Adaptation
+  AsJson: '{"name":"Necklace of Adaptation","source":"DMG","page":182,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"weight":1,"entries":["While
+    wearing this necklace, you can breathe normally in any environment, and you have
+    advantage on saving throws made against harmful gases and vapors (such as {@spell
+    cloudkill} and {@spell stinking cloud} effects, inhaled poisons, and the breath
+    weapons of some dragons)."],"optionalfeatures":["replicate magic item|tce"],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: ba8cec60111f685081faca4e56df26a5

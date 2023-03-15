@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: finder-s-goggles
+  m_EditorClassIdentifier: 
+  Title: Finder's Goggles
+  AsJson: '{"name":"Finder''s Goggles","source":"ERLW","page":277,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"uncommon","reqAttune":"by
+    a creature with the Mark of Finding","reqAttuneTags":[{"race":"half-orc (variant;
+    mark of finding)|erlw"},{"race":"human (variant; mark of finding)|erlw"}],"wondrous":true,"entries":["The
+    lenses of these garish goggles are carved from Siberys dragonshards. While wearing
+    these lenses, you gain the following benefits:",{"type":"list","items":["When
+    you make a Wisdom ({@skill Insight}) check, you can roll a {@dice d4} and add
+    the number rolled to the check.","As an action, you can use the goggles to examine
+    an object to identify the aura of the last creature that touched it. Make a Wisdom
+    ({@skill Insight}) check against a DC of 13 + the number of days since the last
+    contact occurred. On a success, you learn the creature''s type and can immediately
+    use the goggles to cast {@spell locate creature} to find that creature. This
+    property can''t be used again until the next dawn."]}],"attachedSpells":["locate
+    creature"]}'
+  DataHash: 7296da28c9a35c2c26e4d19da995b588

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-the-conch
+  m_EditorClassIdentifier: 
+  Title: Medal of the Conch
+  AsJson: '{"name":"Medal of the Conch","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"modifySpeed":{"equal":{"swim":"walk"}},"entries":["When
+    you use an action to rub this medal, you gain a swimming speed equal to your
+    walking speed for 1 hour. Once this property has been used, it can''t be used
+    again, and the medal becomes nonmagical."]}'
+  DataHash: 4966146279ca2af17cac78eceef5e8a8

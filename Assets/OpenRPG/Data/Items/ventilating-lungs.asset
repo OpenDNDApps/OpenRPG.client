@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ventilating-lungs
+  m_EditorClassIdentifier: 
+  Title: Ventilating Lungs
+  AsJson: '{"name":"Ventilating Lungs","source":"ERLW","page":279,"rarity":"rare","reqAttune":true,"wondrous":true,"recharge":"dawn","entries":["These
+    metallic nodules were created in response to the poisonous gases used on the
+    battlefields of the Last War. When you attune to these lungs, they replace the
+    lungs in your chest, which disappear. The lungs allow you to breathe normally,
+    even in an antimagic field, and their breathing function can''t be suppressed
+    by magic.","Outside an antimagic field or any other effect that suppresses magic,
+    these lungs allow you to breathe normally in any environment (including a vacuum),
+    and you have advantage on saving throws against harmful gases such as those created
+    by a {@spell cloudkill} spell, a {@spell stinking cloud} spell, inhaled poisons,
+    and gaseous breath weapons.","As an action, you can use these lungs to exhale
+    a gust of wind, as if you had cast the {@spell gust of wind} spell (spell save
+    DC 15) with no components. This property of the lungs can''t be used again until
+    the next dawn.","If your attunement to the lungs ends, your original lungs reappear."],"optionalfeatures":["replicate
+    magic item|tce"],"attachedSpells":["gust of wind"]}'
+  DataHash: f50ab9302098df6d464ee72ba7a5e53c

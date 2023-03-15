@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: rod-of-rulership
+  m_EditorClassIdentifier: 
+  Title: Rod of Rulership
+  AsJson: '{"name":"Rod of Rulership","source":"DMG","page":197,"srd":true,"type":"RD","tier":"major","rarity":"rare","reqAttune":true,"weight":2,"entries":["You
+    can use an action to present the rod and command obedience from each creature
+    of your choice that you can see within 120 feet of you. Each target must succeed
+    on a DC 15 Wisdom saving throw or be {@condition charmed} by you for 8 hours.
+    While {@condition charmed} in this way, the creature regards you as its trusted
+    leader. If harmed by you or your companions, or commanded to do something contrary
+    to its nature, a target ceases to be {@condition charmed} in this way. The rod
+    can''t be used again until the next dawn."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+  DataHash: af09083cffd9172ece4b08d969bb0916

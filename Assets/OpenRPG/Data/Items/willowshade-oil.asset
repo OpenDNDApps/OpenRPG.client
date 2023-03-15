@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: willowshade-oil
+  m_EditorClassIdentifier: 
+  Title: Willowshade Oil
+  AsJson: '{"name":"Willowshade Oil","source":"EGW","page":70,"type":"G","rarity":"none","value":3000,"entries":["A
+    dark blue oil can be extracted from the rare fruit of the willowshade plant.
+    A creature can use its action to apply the oil to another creature that has been
+    {@condition petrified} for less than 1 minute, causing the {@condition petrified}
+    condition on that creature to end at the start of what would be that creature''s
+    next turn."]}'
+  DataHash: 21a66feca269aca2bbc5540744c5e7c3

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: thessaltoxin
+  m_EditorClassIdentifier: 
+  Title: Thessaltoxin
+  AsJson: '{"name":"Thessaltoxin","source":"IMR","page":93,"rarity":"none","poison":true,"entries":["This
+    poison was first created using blood harvested from the artificer Thessalar.
+    A creature subjected to the poison must succeed on a DC 15 Constitution saving
+    throw or take on a new form as if affected by the {@spell polymorph} spell. The
+    creature''s new form is a random beast or a creature it has seen within the last
+    24 hours (as chosen by the DM). This transformation lasts until the end of the
+    target''s next long rest. This effect is not subject to {@spell dispel magic}
+    or {@spell remove curse}, but a {@spell greater restoration} spell restores the
+    creature to its original form."],"poisonTypes":["ingested","injury"],"attachedSpells":["polymorph"]}'
+  DataHash: 6c6dd2a37dff371c5a47bc1033ca0973

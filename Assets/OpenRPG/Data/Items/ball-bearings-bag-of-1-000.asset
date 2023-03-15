@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ball-bearings-bag-of-1-000
+  m_EditorClassIdentifier: 
+  Title: Ball Bearings (bag of 1,000)
+  AsJson: '{"name":"Ball Bearings (bag of 1,000)","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":100,"entries":["As
+    an action, you can spill these tiny metal balls from their pouch to cover a level
+    area 10 feet square. A creature moving across the covered area must succeed on
+    a DC 10 Dexterity saving throw or fall {@condition prone}. A creature moving
+    through the area at half speed doesn''t need to make the saving throw."],"packContents":[{"item":"ball
+    bearing|phb","quantity":1000}],"atomicPackContents":true}'
+  DataHash: eea4029bab12f87d0535c00a12cb643b

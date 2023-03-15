@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: alchemist-s-doom
+  m_EditorClassIdentifier: 
+  Title: Alchemist's Doom
+  AsJson: '{"name":"Alchemist''s Doom","source":"SCC","page":179,"_copy":{"name":"Alchemist''s
+    Fire (flask)","source":"PHB"},"type":"G","rarity":"unknown","value":null,"entries":["This
+    sticky, adhesive fluid ignites when exposed to air. As an action, you can throw
+    this flask up to 20 feet, shattering it on impact. Make a ranged attack against
+    a creature or object, treating the alchemist''s doom as an improvised weapon.
+    On a hit, the target takes 7 ({@dice 2d6}) fire damage at the start of each of
+    its turns. A creature can end this damage by using its action to make a DC 10
+    Dexterity check to extinguish the flames."]}'
+  DataHash: 2f07a710f8c414939cd4d1f3c9b32363

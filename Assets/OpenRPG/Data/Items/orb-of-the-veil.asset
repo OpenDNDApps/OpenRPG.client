@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: orb-of-the-veil
+  m_EditorClassIdentifier: 
+  Title: Orb of the Veil
+  AsJson: '{"name":"Orb of the Veil","source":"EGW","page":268,"rarity":"very rare","reqAttune":true,"wondrous":true,"curse":true,"weight":3,"ability":{"wis":2},"entries":["This
+    onyx sphere bears deep, spiraling grooves and dangles from an iron chain. While
+    the orb is on your person, you gain the following benefits:",{"type":"list","items":["Your
+    Wisdom score increases by 2, as does your maximum for that score.","You gain
+    {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision},
+    the orb increases its range by 60 feet.","You have advantage on Wisdom checks
+    to find hidden doors and paths."]},{"type":"entries","name":"Curse","entries":["The
+    orb is cursed, and becoming attuned to it extends the curse to you. As long as
+    you remain cursed, you are unwilling to part with the orb, keeping it on your
+    person at all times. All nonmagical flames within 30 feet of you automatically
+    extinguish, and fire damage dealt by you is halved."]}]}'
+  DataHash: 846ff7650a50c702a20dfc1da83ac342

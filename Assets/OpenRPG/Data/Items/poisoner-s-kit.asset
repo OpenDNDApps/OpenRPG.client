@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: poisoner-s-kit
+  m_EditorClassIdentifier: 
+  Title: Poisoner's Kit
+  AsJson: '{"name":"Poisoner''s Kit","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":83}],"type":"T","rarity":"none","weight":2,"value":5000,"entries":["A
+    poisoner''s kit includes the vials, chemicals, and other equipment necessary
+    for the creation of poisons. Proficiency with this kit lets you add your proficiency
+    bonus to any ability checks you make to craft or use poisons.","Additionally,
+    the {@book Crafting and Harvesting Poison|dmg|8|Crafting and Harvesting Poison}
+    rules require the use of a poisoner''s kit."],"additionalEntries":["A poisoner''s
+    kit is a favored resource for thieves, assassins, and others who engage in skulduggery.
+    It allows you to apply poisons and create them from various materials. Your knowledge
+    of poisons also helps you treat them.",{"type":"entries","name":"Components","entries":["A
+    poisoner''s kit includes glass vials, a mortar and pestle, chemicals, and a glass
+    stirring rod."]},{"type":"entries","name":"History","entries":["Your training
+    with poisons can help you when you try to recall facts about infamous poisonings."]},{"type":"entries","name":"Investigation,
+    Perception","entries":["Your knowledge of poisons has taught you to handle those
+    substances carefully, giving you an edge when you inspect {@condition poisoned}
+    objects or try to extract clues from events that involve poison."]},{"type":"entries","name":"Medicine","entries":["When
+    you treat the victim of a poison, your knowledge grants you added insight into
+    how to provide the best care to your patient."]},{"type":"entries","name":"Nature,
+    Survival","entries":["Working with poisons enables you to acquire lore about
+    which plants and animals are poisonous."]},{"type":"entries","name":"Handle Poison","entries":["Your
+    proficiency allows you to handle and apply a poison without risk of exposing
+    yourself to its effects."]},{"type":"table","caption":"Poisoner''s Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2
+    text-center"],"rows":[["Spot a {@condition poisoned} object","10"],["Determine
+    the effects of a poison","20"]]}]}'
+  DataHash: f3a99db3b0687dbbfe0ae9acbe78daac

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wukka-nut
+  m_EditorClassIdentifier: 
+  Title: Wukka Nut
+  AsJson: '{"name":"Wukka Nut","source":"ToA","page":205,"type":"G","rarity":"unknown","value":100,"entries":["These
+    fist-sized nuts grow on wukka trees, which are popular haunts for {@creature
+    jaculi|ToA}, {@creature su-monster|ToA|su-monsters}, and {@creature zorbo|ToA|zorbos}.
+    A wukka nut rattles when shaken, causing its shell to shed bright light in a
+    10-foot radius and dim light for an additional 10 feet. This magical light fades
+    after 1 minute, but shaking the nut again causes the light to reappear. If the
+    shell of the nut is cracked open, it loses its magic."]}'
+  DataHash: 777f7ca565e1aa4513ced42fba8228ec

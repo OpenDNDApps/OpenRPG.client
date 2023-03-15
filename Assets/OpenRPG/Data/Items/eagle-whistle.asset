@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: eagle-whistle
+  m_EditorClassIdentifier: 
+  Title: Eagle Whistle
+  AsJson: '{"name":"Eagle Whistle","source":"TftYP","page":228,"rarity":"rare","wondrous":true,"weight":1,"modifySpeed":{"equal":{"fly":"walk"},"multiply":{"fly":2}},"entries":["While
+    you blow an eagle whistle continuously, you can fly twice as fast as your walking
+    speed. You can blow the whistle continuously for a number of rounds equal to
+    5 + five times your Constitution modifier (minimum of 1 round) or until you talk,
+    hold your breath, or start suffocating. A use of the whistle also ends if you
+    land. If you are aloft when you stop blowing the whistle, you fall. The whistle
+    has three uses. It regains expended uses daily at dawn."]}'
+  DataHash: 3bee99c2ed5ac2366508f0108bcb807c

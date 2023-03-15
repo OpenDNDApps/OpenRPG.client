@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: night-caller
+  m_EditorClassIdentifier: 
+  Title: Night Caller
+  AsJson: '{"name":"Night Caller","source":"TftYP","page":228,"rarity":"uncommon","wondrous":true,"weight":1,"entries":["This
+    whistle is carved from transparent crystal, and it resembles a tiny dragon curled
+    up like a snail. The name Night Caller is etched on the whistle in Dwarvish runes.
+    If a character succeeds on a DC 20 Intelligence ({@skill Arcana} or {@skill History})
+    check, the character recalls lore that says the {@creature duergar} made several
+    such whistles for various groups in an age past.","If you blow the whistle in
+    darkness or under the night sky, it allows you to cast the {@spell animate dead}
+    spell. The target can be affected through up to 10 feet of soft earth or similar
+    material, and if it is, it takes 1 minute to claw its way to the surface to serve
+    you. Once the whistle has animated an undead creature, it can''t do so again
+    until 7 days have passed.","Once every 24 hours, you can blow the whistle to
+    reassert control over one or two creatures you animated with it."],"attachedSpells":["animate
+    dead"]}'
+  DataHash: 6bd51d64bba30d2e635404fdd3d178cb

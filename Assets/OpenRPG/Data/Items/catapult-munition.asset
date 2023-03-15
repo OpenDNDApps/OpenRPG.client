@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: catapult-munition
+  m_EditorClassIdentifier: 
+  Title: Catapult Munition
+  AsJson: '{"name":"Catapult Munition","source":"SCC","page":174,"type":"G","rarity":"unknown","entries":["A
+    catapult munition roughly the size and weight of a cannonball.","The munition
+    can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius
+    sphere centered on the point of impact must make a DC 14 Dexterity saving throw,
+    taking 35 ({@damage 10d6}) fire damage on a failed save, or half as much damage
+    on a successful one. In addition, each object in that area that isn''t being
+    worn or carried takes 35 ({@damage 10d6}) fire damage."]}'
+  DataHash: 63fbda39a2c5205dee025670e954d766

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: vanquisher-s-banner
+  m_EditorClassIdentifier: 
+  Title: Vanquisher's Banner
+  AsJson: '{"name":"Vanquisher''s Banner","source":"XMtS","page":19,"rarity":"unknown
+    (magic)","entries":["This battle-worn but unbroken standard bears the insignia
+    of one of the forces of the Legion of Dusk. A creature that holds the vanquisher''s
+    banner can use a bonus action to grant an ally advantage on the ally''s next
+    attack roll, saving throw, or ability check."]}'
+  DataHash: 14785bf6ae0d0ecd090793283aa8dd5a

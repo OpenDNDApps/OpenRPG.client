@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: galley
+  m_EditorClassIdentifier: 
+  Title: Galley
+  AsJson: '{"name":"Galley","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":3000000,"crew":80,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":4,"capCargo":150,"seeAlsoVehicle":["Galley"]}'
+  DataHash: d8a7c702047e5785c4f49193d503c5a1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: animated-shield
+  m_EditorClassIdentifier: 
+  Title: Animated Shield
+  AsJson: '{"name":"Animated Shield","source":"DMG","page":151,"srd":true,"type":"S","tier":"major","rarity":"very
+    rare","reqAttune":true,"weight":6,"ac":2,"entries":["While holding this shield,
+    you can speak its command word as a bonus action to cause it to animate. The
+    shield leaps into the air and hovers in your space to protect you as if you were
+    wielding it, leaving your hands free. The shield remains animated for 1 minute,
+    until you use a bonus action to end this effect, or until you are {@condition
+    incapacitated} or die, at which point the shield falls to the ground or into
+    your hand if you have one free."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+  DataHash: f049bd712a2ea70f52e56f6ad0802b84

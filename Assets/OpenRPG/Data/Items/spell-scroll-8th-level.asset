@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: spell-scroll-8th-level
+  m_EditorClassIdentifier: 
+  Title: Spell Scroll (8th Level)
+  AsJson: '{"name":"Spell Scroll (8th Level)","source":"DMG","page":207,"srd":true,"basicRules":true,"type":"SC","tier":"minor","rarity":"very
+    rare","entries":["A spell scroll bears the words of a single spell, written as
+    a mystical cipher. If the spell is on your class''s spell list, you can read
+    the scroll and cast its spell without providing any material components. Otherwise,
+    the scroll is unintelligible. Casting the spell by reading the scroll requires
+    the spell''s normal casting time. Once the spell is cast, the words on the scroll
+    fade, and it crumbles to dust. If the casting is interrupted, the scroll is not
+    lost.","If the spell is on your class''s spell list but of a higher level than
+    you can normally cast, you must make an ability check using your spellcasting
+    ability to determine whether you cast it successfully. The DC is 18. On a failed
+    check, the spell disappears from the scroll with no other effect.","Once the
+    spell is cast, the words on the scroll fade, and the scroll itself crumbles to
+    dust.","A spell cast from this scroll has a save DC of 18 and an attack bonus
+    of {@hit 10}.","A wizard spell on a spell scroll can be copied just as spells
+    in spellbooks can be copied. When a spell is copied from a spell scroll, the
+    copier must succeed on a DC 18 Intelligence ({@skill Arcana}) check. If the check
+    succeeds, the spell is successfully copied. Whether the check succeeds or fails,
+    the spell scroll is destroyed."],"spellScrollLevel":8,"lootTables":["Magic Item
+    Table D","Magic Item Table E"]}'
+  DataHash: 1849bd4583b052876003f7048956c210

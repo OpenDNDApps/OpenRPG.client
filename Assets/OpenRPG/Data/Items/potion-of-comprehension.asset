@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-comprehension
+  m_EditorClassIdentifier: 
+  Title: Potion of Comprehension
+  AsJson: '{"name":"Potion of Comprehension","source":"WDMM","page":62,"type":"P","rarity":"common","entries":["When
+    you drink this potion, you gain the effect of a {@spell comprehend languages}
+    spell for 1 hour. This liquid is a clear concoction with bits of salt and soot
+    swirling in it."]}'
+  DataHash: a05b87fa2ffcb36845996f3a73d45426

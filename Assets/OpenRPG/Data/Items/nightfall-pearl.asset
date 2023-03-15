@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: nightfall-pearl
+  m_EditorClassIdentifier: 
+  Title: Nightfall Pearl
+  AsJson: '{"name":"Nightfall Pearl","source":"EGW","page":268,"rarity":"legendary","reqAttune":true,"wondrous":true,"entries":["Used
+    to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You
+    can spend 10 minutes to activate it, causing the area within 10 miles of it at
+    the moment of activation to become night even if it is daytime. This night lasts
+    for 24 hours, until you cancel it as an action, or until your attunement to the
+    pearl ends. Once used, the pearl can''t be used again for 24 hours."]}'
+  DataHash: 748a2cccfd9a1adb6e319b45b54efa69

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: survival-mantle
+  m_EditorClassIdentifier: 
+  Title: Survival Mantle
+  AsJson: '{"name":"Survival Mantle","source":"VGM","page":81,"type":"MA","rarity":"unknown","weight":40,"ac":15,"stealth":true,"entries":["This
+    carapace-like augmentation encases portions of the wearer''s shoulders, neck,
+    and chest. A survival mantle is equivalent to a suit of nonmagical half plate
+    armor and takes just as long to don or doff. It can''t be worn with other kinds
+    of armor.","A creature wearing a survival mantle can breathe normally in any
+    environment (including a vacuum) and has advantage on saving throws against harmful
+    gases (such as those created by a {@spell cloudkill} spell, a {@spell stinking
+    cloud} spell, inhaled poisons, and the breath weapons of some dragons)."]}'
+  DataHash: d06abac9e8de1a5de532adebaed31ec2

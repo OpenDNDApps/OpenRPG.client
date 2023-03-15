@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: eversmoking-bottle
+  m_EditorClassIdentifier: 
+  Title: Eversmoking Bottle
+  AsJson: '{"name":"Eversmoking Bottle","source":"DMG","page":168,"srd":true,"tier":"major","rarity":"uncommon","wondrous":true,"weight":1,"entries":["Smoke
+    leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound.
+    When you use an action to remove the stopper, a cloud of thick smoke pours out
+    in a 60-foot radius from the bottle. The cloud''s area is heavily obscured. Each
+    minute the bottle remains open and within the cloud, the radius increases by
+    10 feet until it reaches its maximum radius of 120 feet.","The cloud persists
+    as long as the bottle is open. Closing the bottle requires you to speak its command
+    word as an action. Once the bottle is closed, the cloud disperses after 10 minutes.
+    A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1
+    minute, and a strong wind (21 or more miles per hour) can do so after 1 round."],"lootTables":["Magic
+    Item Table F"],"hasFluffImages":true}'
+  DataHash: 5f199d368101e1862b003dd39519246b

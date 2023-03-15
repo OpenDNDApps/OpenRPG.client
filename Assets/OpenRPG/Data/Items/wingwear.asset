@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wingwear
+  m_EditorClassIdentifier: 
+  Title: Wingwear
+  AsJson: '{"name":"Wingwear","source":"PotA","page":223,"rarity":"uncommon","reqAttune":true,"wondrous":true,"modifySpeed":{"static":{"fly":30}},"charges":3,"entries":["This
+    snug uniform has symbols of air stitched into it and leathery flaps that stretch
+    along the arms, waist, and legs to create wings for gliding. A suit of wingwear
+    has 3 charges. While you wear the suit, you can use a bonus action and expend
+    1 charge to gain a flying speed of 30 feet until you land. At the end of each
+    of your turns, your altitude drops by 5 feet. Your altitude drops instantly to
+    0 feet at the end of your turn if you didn''t fly at least 30 feet horizontally
+    on that turn. When your altitude drops to 0 feet, you land (or fall), and you
+    must expend another charge to use the suit again.","The suit regains all of its
+    expended charges after spending at least 1 hour in an elemental air node."]}'
+  DataHash: 1df7870eef2510205e3921cae596210a

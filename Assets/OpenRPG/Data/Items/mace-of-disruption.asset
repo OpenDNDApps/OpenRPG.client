@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: mace-of-disruption
+  m_EditorClassIdentifier: 
+  Title: Mace of Disruption
+  AsJson: '{"name":"Mace of Disruption","source":"DMG","page":179,"srd":true,"baseItem":"mace|phb","type":"M","tier":"major","rarity":"rare","reqAttune":true,"weight":4,"weaponCategory":"simple","dmg1":"1d6","dmgType":"B","entries":["When
+    you hit a fiend or an undead with this magic weapon, that creature takes an extra
+    {@damage 2d6} radiant damage. If the target has 25 hit points or fewer after
+    taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed.
+    On a successful save, the creature becomes {@condition frightened} of you until
+    the end of your next turn.","While you hold this weapon, it sheds bright light
+    in a 20-foot radius and dim light for an additional 20 feet."],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: acfbed64113d47fcebd57c1fc118b89b

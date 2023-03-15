@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: pipe-of-remembrance
+  m_EditorClassIdentifier: 
+  Title: Pipe of Remembrance
+  AsJson: '{"name":"Pipe of Remembrance","source":"GoS","page":229,"rarity":"common","wondrous":true,"entries":["This
+    long, delicate wooden pipe features a bowl made from smooth river stone. When
+    the pipe is lit, smoke exhaled from it does not dissipate, instead lingering
+    around the bearer. After 10 minutes, the smoke forms moving shapes that reenact
+    the bearer''s most impressive and heroic achievements for 5 minutes. When this
+    realistic performance is complete, the smoke dissipates. The pipe can''t be used
+    this way again until the next dawn."]}'
+  DataHash: 7aef76e669e944ad0d05178df67c60cf

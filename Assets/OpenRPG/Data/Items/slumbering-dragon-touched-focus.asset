@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: slumbering-dragon-touched-focus
+  m_EditorClassIdentifier: 
+  Title: Slumbering Dragon-Touched Focus
+  AsJson: '{"name":"Slumbering Dragon-Touched Focus","source":"FTD","page":26,"rarity":"uncommon","reqAttune":"by
+    a spellcaster","reqAttuneTags":[{"spellcasting":true}],"wondrous":true,"focus":["Artificer","Bard","Cleric","Druid","Paladin","Ranger","Sorcerer","Warlock","Wizard"],"entries":["This
+    wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely
+    crafted object. It typically incorporates imagery of dragons'' wings, claws,
+    teeth, or scales.","You have advantage on initiative rolls. While you are holding
+    the focus, it can function as a spellcasting focus for all your spells."]}'
+  DataHash: 0afbf9674418708161659288d54b4749

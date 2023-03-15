@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: medal-of-the-horizonback
+  m_EditorClassIdentifier: 
+  Title: Medal of the Horizonback
+  AsJson: '{"name":"Medal of the Horizonback","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["When
+    you would be hit by an attack, you can use your reaction to increase your AC
+    by 5 until the start of your next turn, including against the triggering attack.
+    You must be wearing the medal and able to see the creature that made the triggering
+    attack to use this property. Once this property has been used, it can''t be used
+    again, and the medal becomes nonmagical."]}'
+  DataHash: 8c368cb172978bfa1ff5f98b751dbeb0

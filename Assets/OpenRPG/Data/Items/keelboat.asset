@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: keelboat
+  m_EditorClassIdentifier: 
+  Title: Keelboat
+  AsJson: '{"name":"Keelboat","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":300000,"crew":1,"vehAc":15,"vehHp":100,"vehDmgThresh":10,"vehSpeed":1,"capPassenger":6,"capCargo":0.5,"entries":["Keelboats
+    and rowboats are used on lakes and rivers. If going downstream, add the speed
+    of the current (typically 3 miles per hour) to the speed of the vehicle. These
+    vehicles can''t be rowed against any significant current, but they can be pulled
+    upstream by draft animals on the shores."],"seeAlsoVehicle":["Keelboat"]}'
+  DataHash: a8d4e81a68f2b4d1b8847068057d9570

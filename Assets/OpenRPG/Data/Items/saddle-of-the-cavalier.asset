@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: saddle-of-the-cavalier
+  m_EditorClassIdentifier: 
+  Title: Saddle of the Cavalier
+  AsJson: '{"name":"Saddle of the Cavalier","source":"DMG","page":199,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["While
+    in this saddle on a mount, you can''t be dismounted against your will if you''re
+    conscious, and attack rolls against the mount have disadvantage."],"lootTables":["Magic
+    Item Table B"]}'
+  DataHash: 497a5b53b0c070e21c08aeff53a8ca4f

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: hag-eye
+  m_EditorClassIdentifier: 
+  Title: Hag Eye
+  AsJson: '{"name":"Hag Eye","source":"MM","page":177,"type":"OTH","rarity":"unknown
+    (magic)","entries":["A hag coven can craft a magic item called a hag eye, which
+    is made from a real eye coated in varnish and often fitted to a pendant or other
+    wearable item. The hag eye is usually entrusted to a minion for safekeeping and
+    transport. A hag in the coven can take an action to see what the hag eye sees
+    if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit
+    point, and {@sense darkvision} with a radius of 60 feet. If it is destroyed,
+    each coven member takes {@damage 3d10} psychic damage and is {@condition blinded}
+    for 24 hours.","A hag coven can have only one hag eye at a time, and creating
+    a new one requires all three members of the coven to perform a ritual. The ritual
+    takes 1 hour, and the hags can''t perform it while {@condition blinded}. During
+    the ritual, if the hags take any action other than performing the ritual, they
+    must start over."]}'
+  DataHash: ab3dff989cacebc09377811fc12e000d

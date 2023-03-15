@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: space-galleon
+  m_EditorClassIdentifier: 
+  Title: Space Galleon
+  AsJson: '{"name":"Space Galleon","source":"AAG","page":46,"type":"SPC","rarity":"none","value":3000000,"crew":20,"vehAc":15,"vehHp":400,"vehDmgThresh":15,"vehSpeed":4,"capCargo":20,"entries":["The
+    space galleon is a mainstay among the host of vessels that ply Wildspace and
+    the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.
+    Because they can land on water and move across it like their namesakes, they
+    can sail into ports on terrestrial worlds without attracting undue attention.
+    Like an ordinary galleon, a space galleon isn''t built to land on the ground
+    (its keel would cause it to roll on its side). The ship''s standard weaponry
+    includes two forward-mounted ballistae and an aft-mounted mangonel."],"seeAlsoVehicle":["Space
+    Galleon|AAG"]}'
+  DataHash: a8261117e564fb9b80ff654d43836911

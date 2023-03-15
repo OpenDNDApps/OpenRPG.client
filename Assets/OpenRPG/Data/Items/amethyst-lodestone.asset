@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: amethyst-lodestone
+  m_EditorClassIdentifier: 
+  Title: Amethyst Lodestone
+  AsJson: '{"name":"Amethyst Lodestone","source":"FTD","page":22,"rarity":"very rare","reqAttune":true,"wondrous":true,"modifySpeed":{"equal":{"fly":"walk"}},"recharge":"dawn","rechargeAmount":"{@dice
+    1d6}","charges":6,"entries":["This fist-sized chunk of amethyst is infused with
+    an amethyst dragon''s ability to bend gravitational forces. While you are carrying
+    the lodestone, you have advantage on Strength saving throws.","The lodestone
+    has 6 charges for the following properties, which you can use while you are holding
+    the stone. The stone regains {@dice 1d6} expended charges daily at dawn.",{"type":"entries","name":"Flight","entries":["As
+    a bonus action, you can expend 1 charge to gain the power of flight for 10 minutes.
+    For the duration, you gain a flying speed equal to your walking speed, and you
+    can hover."]},{"type":"entries","name":"Gravitational Thrust","entries":["As
+    an action, you can expend 1 charge to focus gravity around a creature you can
+    see within 60 feet of you. The target must succeed on a DC 18 Strength saving
+    throw or be pushed up to 20 feet in a direction of your choice."]},{"type":"entries","name":"Reverse
+    Gravity","entries":["As an action, you can expend 3 charges to cast {@spell reverse
+    gravity} from the stone (save DC 18)."]}],"attachedSpells":["reverse gravity"]}'
+  DataHash: edf796e94be1b9b1812656f70ed77ec0

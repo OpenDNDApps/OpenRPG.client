@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: reincarnation-dust
+  m_EditorClassIdentifier: 
+  Title: Reincarnation Dust
+  AsJson: '{"name":"Reincarnation Dust","source":"EGW","page":268,"rarity":"very
+    rare","wondrous":true,"entries":["When this small pouch of purple dust is sprinkled
+    on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the
+    remains. If willing, the dead creature returns to life with a new body as if
+    the {@spell reincarnate} spell had been cast on the remains."],"attachedSpells":["reincarnate"]}'
+  DataHash: 1b5b24dd0bf3bf4393fe19030bc8e861

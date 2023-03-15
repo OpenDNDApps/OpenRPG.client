@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: 3-bloodwell-vial
+  m_EditorClassIdentifier: 
+  Title: +3 Bloodwell Vial
+  AsJson: '{"name":"+3 Bloodwell Vial","source":"TCE","page":122,"rarity":"very rare","reqAttune":"by
+    a sorcerer","reqAttuneTags":[{"class":"sorcerer"}],"wondrous":true,"bonusSpellAttack":"+3","bonusSpellSaveDc":"+3","focus":["Sorcerer"],"entries":["To
+    attune to this vial, you must place a few drops of your blood into it. The vial
+    can''t be opened while your attunement to it lasts. If your attunement to the
+    vial ends, the contained blood turns to ash. You can use the vial as a spellcasting
+    focus for your spells while wearing or holding it, and you gain a +3 bonus to
+    spell attack rolls and to the saving throw DCs of your sorcerer spells.","In
+    addition, when you roll any Hit Dice to recover hit points while you are carrying
+    the vial, you can regain 5 sorcery points. This property of the vial can''t be
+    used again until the next dawn."]}'
+  DataHash: 113274ecdcc7f01178f708fecb71394c

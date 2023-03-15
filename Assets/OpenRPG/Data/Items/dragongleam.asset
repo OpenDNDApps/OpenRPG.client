@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dragongleam
+  m_EditorClassIdentifier: 
+  Title: Dragongleam
+  AsJson: '{"name":"Dragongleam","source":"HotDQ","page":69,"otherSources":[{"source":"ToD","page":84}],"baseItem":"spear|phb","type":"M","rarity":"unknown
+    (magic)","weight":3,"weaponCategory":"simple","property":["T","V"],"range":"20/60","dmg1":"1d6","dmgType":"P","dmg2":"1d8","charges":10,"weapon":true,"entries":["This
+    spear is enchanted with 10 charges of a {@spell daylight} spell for use in twilight
+    or dark forest underbrush. The command phrase is \"Tiamat''s eyes shine,\" written
+    in Draconic runes on the spear''s crossguard."],"attachedSpells":["daylight"]}'
+  DataHash: c6ef3e31b50b94ab75370f904456a908

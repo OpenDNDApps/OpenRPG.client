@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: conch-of-safe-rest
+  m_EditorClassIdentifier: 
+  Title: Conch of Safe Rest
+  AsJson: '{"name":"Conch of Safe Rest","source":"TTP","page":17,"type":"OTH","rarity":"unknown
+    (magic)","weight":2,"entries":["You can use an action to blow this pearlescent
+    conch like a {@item horn|PHB}, creating an effect identical with that of a {@spell
+    Leomund''s tiny hut} spell. The conch disappears once the spell takes effect.
+    The effect ends if you leave the spell''s area."]}'
+  DataHash: ae1a6296ab9bbe42c991a40b13740ce9

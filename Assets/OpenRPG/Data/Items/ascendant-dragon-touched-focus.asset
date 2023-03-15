@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ascendant-dragon-touched-focus
+  m_EditorClassIdentifier: 
+  Title: Ascendant Dragon-Touched Focus
+  AsJson: '{"name":"Ascendant Dragon-Touched Focus","source":"FTD","_copy":{"name":"Wakened
+    Dragon-Touched Focus","source":"FTD","_preserve":{"page":true}},"rarity":"legendary","entries":["This
+    wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely
+    crafted object. It typically incorporates imagery of dragons'' wings, claws,
+    teeth, or scales.","You have advantage on initiative rolls. While you are holding
+    the focus, it can function as a spellcasting focus for all your spells.","The
+    focus gains an additional property determined by the family of the dragon in
+    whose hoard it became Stirring:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Chromatic","entries":["Whenever
+    you use a spell slot to cast a spell that deals acid, cold, fire, lightning,
+    or poison damage, roll a {@dice d6}, and you gain a bonus equal to the number
+    rolled to one of the spell''s damage rolls."]},{"type":"item","name":"Gem","entries":["Whenever
+    you use a spell slot to cast a spell, you can immediately teleport to an unoccupied
+    space you can see within 15 feet of you."]},{"type":"item","name":"Metallic","entries":["When
+    a creature you can see within 30 feet of you makes a saving throw, you can use
+    your reaction to give that creature advantage on the saving throw."]}]},"While
+    you are holding a Wakened focus, you can use it to cast certain spells. Once
+    the item is used to cast a given spell, it can''t be used to cast that spell
+    again until the next dawn. The spells are determined by the family of the dragon
+    in whose hoard it became Wakened.",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Chromatic","entries":["{@spell
+    Hold monster}, {@spell Rime''s binding ice|FTD}"]},{"type":"item","name":"Gem","entries":["{@spell
+    Rary''s telepathic bond}, {@spell Raulothim''s psychic lance|FTD}"]},{"type":"item","name":"Metallic","entries":["{@spell
+    Fizban''s platinum shield|FTD}, {@spell legend lore}"]}]},"When you cast a spell
+    of 1st level or higher while holding this focus, you can treat the spell as if
+    it were cast using a 9th-level spell slot. Once this property is used, it can''t
+    be used again until the next dawn."]}'
+  DataHash: 4241aa97308ff9da85e78b3b6b3c1fb6

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: amulet-of-the-drunkard
+  m_EditorClassIdentifier: 
+  Title: Amulet of the Drunkard
+  AsJson: '{"name":"Amulet of the Drunkard","source":"EGW","page":265,"rarity":"uncommon","wondrous":true,"entries":["This
+    amulet smells of old, ale-stained wood. While wearing it, you can regain {@dice
+    4d4 + 4} hit points when you drink a pint of beer, ale, mead, or wine. Once the
+    amulet has restored hit points, it can''t do so again until the next dawn."],"hasFluffImages":true}'
+  DataHash: 24ec31b84b4f48b9331cb153d4788b3c

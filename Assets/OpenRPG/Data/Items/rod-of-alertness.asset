@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: rod-of-alertness
+  m_EditorClassIdentifier: 
+  Title: Rod of Alertness
+  AsJson: '{"name":"Rod of Alertness","source":"DMG","page":196,"srd":true,"type":"RD","tier":"major","rarity":"very
+    rare","reqAttune":true,"weight":2,"bonusAc":"+1","bonusSavingThrow":"+1","entries":["This
+    rod has a flanged head and the following properties.",{"name":"Alertness","type":"entries","entries":["While
+    holding the rod, you have advantage on Wisdom ({@skill Perception}) checks and
+    on rolls for initiative."]},{"name":"Spells","type":"entries","entries":["While
+    holding the rod, you can use an action to cast one of the following spells from
+    it: {@spell detect evil and good}, {@spell detect magic}, {@spell detect poison
+    and disease}, or {@spell see invisibility}."]},{"name":"Protective Aura","type":"entries","entries":["As
+    an action, you can plant the haft end of the rod in the ground, whereupon the
+    rod''s head sheds bright light in a 60-foot radius and dim light for an additional
+    60 feet. While in that bright light, you and any creature that is friendly to
+    you gain a +1 bonus to AC and saving throws and can sense the location of any
+    {@condition invisible} hostile creature that is also in the bright light.","The
+    rod''s head stops glowing and the effect ends after 10 minutes, or when a creature
+    uses an action to pull the rod from the ground. This property can''t be used
+    again until the next dawn."]}],"attachedSpells":["detect evil and good","detect
+    magic","detect poison and disease","see invisibility"],"lootTables":["Magic Item
+    Table H"]}'
+  DataHash: ed40c789d10aadb3f16795556baadea2

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: tome-of-understanding
+  m_EditorClassIdentifier: 
+  Title: Tome of Understanding
+  AsJson: '{"name":"Tome of Understanding","source":"DMG","page":209,"srd":true,"tier":"major","rarity":"very
+    rare","wondrous":true,"weight":5,"ability":{"wis":2},"entries":["This book contains
+    intuition and insight exercises, and its words are charged with magic. If you
+    spend 48 hours over a period of 6 days or fewer studying the book''s contents
+    and practicing its guidelines, your Wisdom score increases by 2, as does your
+    maximum for that score. The manual then loses its magic, but regains it in a
+    century."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+  DataHash: a135d128cc85295095bb62810c10a52b

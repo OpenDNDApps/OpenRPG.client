@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: bag-of-bounty
+  m_EditorClassIdentifier: 
+  Title: Bag of Bounty
+  AsJson: '{"name":"Bag of Bounty","source":"UAWGE","page":116,"rarity":"uncommon","wondrous":true,"entries":["This
+    is a sturdy leather sack with tiny Siberys shards embedded into the lining. If
+    you have the Mark of Hospitality you can use an action to cast {@spell create
+    food and water}, drawing a feast from within the bag. You shape this meal with
+    your thoughts. You can create the standard bland fare without requiring any sort
+    of check, but you can attempt to create finer food by making a Charisma check;
+    if you''re proficient with {@item cook''s utensils|PHB}, add your bonus to this
+    check. A failed check results in a sour and squalid meal.",{"type":"table","colLabels":["Food
+    Quality","Difficulty"],"colStyles":["col-6","col-6"],"rows":[["Poor","No roll
+    required"],["Modest",10],["Comfortable",13],["Wealthy",15],["Aristocratic",18]]},"A
+    bag of bounty can be used up to three times over the course of a day. After that,
+    the bag can''t be used again until the next dawn."]}'
+  DataHash: e9edb6f817d9163ec691d75a88a88316

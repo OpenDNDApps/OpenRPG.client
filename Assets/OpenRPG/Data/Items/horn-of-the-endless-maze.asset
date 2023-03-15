@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: horn-of-the-endless-maze
+  m_EditorClassIdentifier: 
+  Title: Horn of the Endless Maze
+  AsJson: '{"name":"Horn of the Endless Maze","source":"WDMM","page":163,"_copy":{"name":"Horn
+    of Valhalla, Brass","source":"DMG"},"entries":["You can use an action to blow
+    this horn. In response, warrior spirits from the Abyss appear within 60 feet
+    of you. These spirits look like minotaurs, and use the {@creature berserker}
+    statistics. They return to Abyss after 1 hour or when they drop to 0 hit points.
+    Once you use the horn, it can''t be used again until 7 days have passed.","The
+    horn summons {@dice 3d4 + 3} {@creature berserker||berserkers}. To use the horn,
+    you must be proficient with all simple weapons.","If you blow the horn without
+    meeting its requirement, the summoned {@creature berserker||berserkers} attack
+    you. If you meet the requirement, they are friendly to you and your companions
+    and follow your commands."]}'
+  DataHash: fe82d968ea4b7830990788e76cc8f560

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-giant-size
+  m_EditorClassIdentifier: 
+  Title: Potion of Giant Size
+  AsJson: '{"name":"Potion of Giant Size","source":"SKT","page":236,"type":"P","rarity":"legendary","entries":["When
+    you drink this potion, you become Huge for 24 hours if you are Medium or smaller,
+    otherwise the potion does nothing. For that duration, your Strength becomes 25,
+    if it isn''t already higher, and your hit point maximum is doubled (your current
+    hit points are doubled when you drink the potion). In addition, the reach of
+    your melee attacks increases by 5 feet.","Everything you are carrying and wearing
+    also increases in size for the duration. When rolling damage for weapons enlarged
+    in this manner, roll three times the normal number of dice; for example, an enlarged
+    longsword would deal {@damage 3d8} slashing damage (instead of {@dice 1d8}),
+    or {@damage 3d10} slashing damage (instead of {@dice 1d10}) when used with two
+    hands.","When the effect ends, any hit points you have above your hit point maximum
+    become temporary hit points. This potion is a pale white liquid made from the
+    tongue of a giant clam, with a pungent aroma akin to that of rotting algae. It
+    tastes sweet, however, when consumed."]}'
+  DataHash: e26ab4d594066b82a5dde953529ba91a

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: aquamarine
+  m_EditorClassIdentifier: 
+  Title: Aquamarine
+  AsJson: '{"name":"Aquamarine","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+    transparent pale blue-green gemstone."]}'
+  DataHash: fb6ecc45a53bec5af93f873a1795321e

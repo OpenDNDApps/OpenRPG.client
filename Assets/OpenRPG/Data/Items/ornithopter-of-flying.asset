@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ornithopter-of-flying
+  m_EditorClassIdentifier: 
+  Title: Ornithopter of Flying
+  AsJson: '{"name":"Ornithopter of Flying","source":"WBtW","page":212,"rarity":"very
+    rare","wondrous":true,"weight":25,"entries":["You can use this contraption to
+    fly, provided your weight (including whatever you are wearing or carrying) doesn''t
+    exceed 300 pounds. The ornithopter has a flying speed of 30 feet, and it moves
+    according to your spoken directions while you are riding it. It can''t hover.
+    If the ornithopter loses its rider while airborne, it falls and can''t fly again
+    for {@dice 1d6 + 4} days.","The ornithopter is 8 feet long, has a 14-foot wingspan,
+    and weighs 25 pounds."],"hasFluffImages":true}'
+  DataHash: d04672f6c452f52f117d72cb8c4c6223

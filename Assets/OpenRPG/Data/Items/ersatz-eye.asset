@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: ersatz-eye
+  m_EditorClassIdentifier: 
+  Title: Ersatz Eye
+  AsJson: '{"name":"Ersatz Eye","source":"XGE","page":137,"otherSources":[{"source":"EGW"}],"tier":"minor","rarity":"common","reqAttune":true,"wondrous":true,"entries":["This
+    artificial eye replaces a real one that was lost or removed. While the ersatz
+    eye is embedded in your eye socket, it can''t be removed by anyone other than
+    you, and you can see through the tiny orb as though it were a normal eye."]}'
+  DataHash: c54843409349b26e7dab7146805ec5a5

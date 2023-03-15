@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: soothsalts
+  m_EditorClassIdentifier: 
+  Title: Soothsalts
+  AsJson: "{\"name\":\"Soothsalts\",\"source\":\"EGW\",\"page\":152,\"type\":\"G\",\"rarity\":\"none\",\"value\":15000,\"entries\":[\"Soothsalts
+    are derived from a naturally occurring crystalline substance discovered throughout
+    the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous
+    veins like those in the mouth of the Miskath Pit and found within smaller geode
+    formations near sites ravaged by the Calamity. Soothsalts are consumed orally
+    in lozenge-sized doses, and frequent users can be identified by the telltale
+    crimson stain around their mouths. A creature subjected to a dose of soothsalts
+    gains advantage on all Intelligence checks for {@dice 1d4} hours.\",\"For each
+    dose of soothsalts consumed, the creature must succeed on a DC 15 Constitution
+    saving throw or gain one level of {@condition exhaustion}\u2014an effect which
+    is cumulative with multiple doses.\"]}"
+  DataHash: 9d00f72b4b4c1f8a7769c0a90d015d45

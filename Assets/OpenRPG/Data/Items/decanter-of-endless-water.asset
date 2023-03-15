@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: decanter-of-endless-water
+  m_EditorClassIdentifier: 
+  Title: Decanter of Endless Water
+  AsJson: '{"name":"Decanter of Endless Water","source":"DMG","page":161,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"weight":2,"entries":["This
+    stoppered flask sloshes when shaken, as if it contains water. The decanter weighs
+    2 pounds.","You can use an action to remove the stopper and speak one of three
+    command words, whereupon an amount of fresh water or salt water (your choice)
+    pours out of the flask. The water stops pouring out at the start of your next
+    turn. Choose from the following options:",{"type":"list","items":["\"Stream\"
+    produces 1 gallon of water.","\"Fountain\" produces 5 gallons of water.","\"Geyser\"
+    produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1
+    foot wide. As a bonus action while holding the decanter, you can aim the geyser
+    at a creature you can see within 30 feet of you. The target must succeed on a
+    DC 13 Strength saving throw or take {@damage 1d4} bludgeoning damage and fall
+    {@condition prone}. Instead of a creature, you can target an object that isn''t
+    being worn or carried and that weighs no more than 200 pounds. The object is
+    either knocked over or pushed up to 15 feet away from you."]}],"lootTables":["Magic
+    Item Table C"],"miscTags":["CF/W"],"hasFluffImages":true}'
+  DataHash: 2d5f67f07879417cbf496fa600bfd7e0

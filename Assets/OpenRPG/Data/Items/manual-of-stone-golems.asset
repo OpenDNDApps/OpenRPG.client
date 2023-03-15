@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: manual-of-stone-golems
+  m_EditorClassIdentifier: 
+  Title: Manual of Stone Golems
+  AsJson: '{"name":"Manual of Stone Golems","source":"DMG","page":180,"srd":true,"tier":"major","rarity":"very
+    rare","wondrous":true,"weight":5,"entries":["This tome contains information and
+    incantations necessary to make a particular type of golem. The DM chooses the
+    type or determines it randomly. To decipher and use the manual, you must be a
+    spellcaster with at least two 5th-level spell slots. A creature that can''t use
+    a manual of golems and attempts to read it takes {@damage 6d6} psychic damage.","To
+    create a {@creature stone golem}, you must spend 90 days, working without interruption
+    with the manual at hand and resting no more than 8 hours per day. You must also
+    pay 80,000 gp to purchase supplies. Once you finish creating the golem, the book
+    is consumed in eldritch flames. The golem becomes animate when the ashes of the
+    manual are sprinkled on it. It is under your control, and it understands and
+    obeys your spoken commands."],"hasFluffImages":true}'
+  DataHash: e2eaec2400988eb24080d932434e9419

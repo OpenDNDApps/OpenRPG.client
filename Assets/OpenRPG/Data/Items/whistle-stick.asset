@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: whistle-stick
+  m_EditorClassIdentifier: 
+  Title: Whistle-Stick
+  AsJson: '{"name":"Whistle-Stick","source":"OGA","page":4,"type":"INS","rarity":"unknown","entries":["The
+    {@race grung|OGA} of {@book One Grung Above|OGA} are trained to use this new
+    musical instrument. This is a hollow tube with holes cut throughout, much like
+    a flute. You can play music with it for entertainment, but the grung also swing
+    it about by a sturdy cord (attached) to create a sound recognizable by other
+    grung, so they know each other''s approximate location. Additionally, grung that
+    know {@language Thieves'' Cant} can use a whistle stick in this manner to communicate
+    over distance."]}'
+  DataHash: 44a5113032eefa8ab8a1ba264912ad59

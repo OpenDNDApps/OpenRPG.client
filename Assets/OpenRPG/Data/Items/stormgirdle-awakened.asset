@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stormgirdle-awakened
+  m_EditorClassIdentifier: 
+  Title: Stormgirdle (Awakened)
+  AsJson: '{"name":"Stormgirdle (Awakened)","source":"EGW","_copy":{"name":"Stormgirdle
+    (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["While
+    wearing the Stormgirdle in its awakened state, you gain the following benefits:",{"type":"list","items":["Your
+    Strength score becomes 23 if it isn''t already 23 or higher.","Your Storm Avatar''s
+    lightning strike deals {@damage 4d6} lightning damage (instead of {@dice 3d6}).","While
+    transformed into a Storm Avatar, you gain a flying speed of 30 feet and can hover."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}}}'
+  DataHash: 2cfabdc1fdbc5b5e308c894162d02992

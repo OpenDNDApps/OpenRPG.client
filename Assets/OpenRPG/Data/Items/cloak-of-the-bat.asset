@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cloak-of-the-bat
+  m_EditorClassIdentifier: 
+  Title: Cloak of the Bat
+  AsJson: '{"name":"Cloak of the Bat","source":"DMG","page":159,"srd":true,"tier":"major","rarity":"rare","reqAttune":true,"wondrous":true,"entries":["While
+    wearing this cloak, you have advantage on Dexterity ({@skill Stealth}) checks.
+    In an area of dim light or darkness, you can grip the edges of the cloak with
+    both hands and use it to fly at a speed of 40 feet. If you ever fail to grip
+    the cloak''s edges while flying in this way, or if you are no longer in dim light
+    or darkness, you lose this flying speed.","While wearing the cloak in an area
+    of dim light or darkness, you can use your action to cast {@spell polymorph}
+    on yourself, transforming into a {@creature bat}. While you are in the form of
+    the {@creature bat}, you retain your Intelligence, Wisdom, and Charisma scores.
+    The cloak can''t be used this way again until the next dawn."],"optionalfeatures":["replicate
+    magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["polymorph"],"lootTables":["Magic
+    Item Table G"]}'
+  DataHash: 81b3cf9ed22bfabc11aad65b1c3ea6d6

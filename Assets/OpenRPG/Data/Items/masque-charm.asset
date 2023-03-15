@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: masque-charm
+  m_EditorClassIdentifier: 
+  Title: Masque Charm
+  AsJson: '{"name":"Masque Charm","source":"SCC","page":127,"rarity":"common","wondrous":true,"entries":["A
+    masque charm is a small silver pin. While wearing this charm, you can use an
+    action to cast the {@spell disguise self} spell (DC 13 to discern the disguise).
+    Once the spell is cast, it can''t be cast from the charm again until the next
+    sunset. When casting the spell, you can have the spell last for its normal 1
+    hour duration or for 6 hours. If you choose the 6-hour duration, the charm becomes
+    nonmagical when the spell ends. In either case, the spell ends if the charm is
+    removed from you."],"attachedSpells":["disguise self"]}'
+  DataHash: 905875cdbef3972b519cf51bcba96169

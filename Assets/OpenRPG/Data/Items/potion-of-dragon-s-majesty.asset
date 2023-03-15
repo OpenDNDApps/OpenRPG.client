@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-dragon-s-majesty
+  m_EditorClassIdentifier: 
+  Title: Potion of Dragon's Majesty
+  AsJson: '{"name":"Potion of Dragon''s Majesty","source":"FTD","page":24,"type":"P","rarity":"legendary","entries":["This
+    potion looks like liquid gold, with a single scale from a {@filter chromatic|bestiary|search=chromatic
+    dragon}, {@filter gem|bestiary|search=gem dragon}, or {@filter metallic|bestiary|search=metallic
+    dragon} dragon suspended in it. When you drink this potion, you transform into
+    an adult dragon of the same kind as the dragon the scale came from. The transformation
+    lasts for 1 hour. Any equipment you are wearing or carrying melds into your new
+    form or falls to the ground (your choice). For the duration, you use the game
+    statistics of the adult dragon instead of your own, but you retain your languages,
+    personality, and memories. You can''t use a dragon''s Change Shape or its legendary
+    or lair actions."]}'
+  DataHash: 8341ac65d3000306e147acc7349eadf8

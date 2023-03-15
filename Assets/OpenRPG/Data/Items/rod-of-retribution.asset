@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: rod-of-retribution
+  m_EditorClassIdentifier: 
+  Title: Rod of Retribution
+  AsJson: '{"name":"Rod of Retribution","source":"EGW","page":269,"type":"RD","rarity":"uncommon","reqAttune":true,"weight":2,"recharge":"dawn","rechargeAmount":3,"charges":3,"entries":["This
+    adamantine rod is tipped with a glowing crystalline eye. The rod has 3 charges
+    and regains all its expended charges daily at dawn.","When a creature you can
+    see within 60 feet of you damages you while you are holding this rod, you can
+    use your reaction to expend 1 of the rod''s charges to force the creature to
+    make a DC 13 Dexterity saving throw. The creature takes {@damage 2d10} lightning
+    damage on a failed save, or half as much damage on a successful one."]}'
+  DataHash: d58edf92815b2dd546372ee8ec32f33c

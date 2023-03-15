@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: far-gear
+  m_EditorClassIdentifier: 
+  Title: Far Gear
+  AsJson: '{"name":"Far Gear","source":"AI","page":221,"rarity":"very rare","reqAttune":true,"wondrous":true,"bonusSavingThrow":"+1","entries":["While
+    attuned to this device, you have a +1 bonus to Charisma saving throws, and you
+    have advantage on Charisma ({@skill Intimidation}) checks.",{"type":"entries","name":"Aberrant
+    Ally","entries":["You can conjure an aberrant creature from the chaos of the
+    multiverse to serve you. This functions as the {@spell conjure celestial} spell
+    (no concentration required), except the creature you summon is an aberration
+    of challenge rating 4 or lower. Once you use this feature of the far gear, it
+    cannot be used again until the next dawn."]},{"type":"entries","name":"Unnatural
+    Bane","entries":["You can cast the {@spell bane} spell (save DC 15), which affects
+    any number of creatures within range for 1 minute. Once you use this feature
+    of the far gear, it cannot be used again until the next dawn."]},{"type":"entries","name":"Part
+    of a Whole","entries":["While this component is not installed in the {@item Orrery
+    of the Wanderer|AI}, its magic might function sporadically or with unpredictable
+    side effects, as determined by the DM."]}],"attachedSpells":["conjure celestial","bane"]}'
+  DataHash: e89a605dec96b43fff8f11e3ec4b1671

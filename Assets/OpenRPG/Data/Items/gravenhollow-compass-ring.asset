@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: gravenhollow-compass-ring
+  m_EditorClassIdentifier: 
+  Title: Gravenhollow Compass Ring
+  AsJson: '{"name":"Gravenhollow Compass Ring","source":"OotA","page":141,"type":"OTH","rarity":"unknown
+    (magic)","entries":["This gold ring is fitted with a star ruby worth 1,000 gp.
+    A {@spell detect magic} spell reveals that the gem radiates a faint aura of divination
+    magic. The gem''s star-shaped core is a magical compass that guides the ring''s
+    wearer along the safest, shortest route to Gravenhollow."]}'
+  DataHash: 30793b3df83392603ae191de0c69ef4e

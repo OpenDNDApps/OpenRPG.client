@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: everbright-lantern
+  m_EditorClassIdentifier: 
+  Title: Everbright Lantern
+  AsJson: '{"name":"Everbright Lantern","source":"ERLW","page":277,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["This
+    bullseye lantern contains an Eberron dragonshard that sheds light comparable
+    to that produced by a {@spell continual flame} spell. An everbright lantern sheds
+    light in a 120-foot cone; the closest 60 feet is bright light, and the farthest
+    60 feet is dim light."]}'
+  DataHash: ed4bf66563b4d4528ac4de14102d7a16

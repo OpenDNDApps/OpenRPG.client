@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: block-and-tackle
+  m_EditorClassIdentifier: 
+  Title: Block and Tackle
+  AsJson: '{"name":"Block and Tackle","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":100,"entries":["A
+    set of pulleys with a cable threaded through them and a hook to attach to objects,
+    a block and tackle allows you to hoist up to four times the weight you can normally
+    lift."]}'
+  DataHash: 776d91bcaf04432c8d8b842b1421311c

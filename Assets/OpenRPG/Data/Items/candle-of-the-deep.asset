@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: candle-of-the-deep
+  m_EditorClassIdentifier: 
+  Title: Candle of the Deep
+  AsJson: '{"name":"Candle of the Deep","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["The
+    flame of this candle is not extinguished when immersed in water. It gives off
+    light and heat like a normal candle."]}'
+  DataHash: a1df883789a1f97b37b1f0cf0cef093f

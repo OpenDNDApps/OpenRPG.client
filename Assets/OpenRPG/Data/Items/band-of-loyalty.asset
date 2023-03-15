@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: band-of-loyalty
+  m_EditorClassIdentifier: 
+  Title: Band of Loyalty
+  AsJson: '{"name":"Band of Loyalty","source":"UAWGE","page":115,"type":"RG","rarity":"common","reqAttune":true,"entries":["If
+    you are reduced to zero hit points while attuned to a band of loyalty, you instantly
+    die. These rings are favored by spies who can''t afford to fall into enemy hands."]}'
+  DataHash: 6318f25c34e9e9eb31805e581becca91

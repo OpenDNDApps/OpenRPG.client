@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: harbor-moon
+  m_EditorClassIdentifier: 
+  Title: Harbor Moon
+  AsJson: '{"name":"Harbor Moon","source":"WDH","page":169,"type":"$","rarity":"none","value":5000,"entries":["Platinum
+    crescent inset with electrum, about three inches long with a hole large enough
+    for a {@item nib|wdh} to fit in (1 harbor moon = 5,000 {@item nib|wdh|nibs})"]}'
+  DataHash: b43baebc876a3b5a1bfc72905a945722

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: alchemist-s-supplies
+  m_EditorClassIdentifier: 
+  Title: Alchemist's Supplies
+  AsJson: '{"name":"Alchemist''s Supplies","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":79}],"type":"AT","rarity":"none","weight":8,"value":5000,"additionalEntries":["Alchemist''s
+    supplies enable a character to produce useful concoctions, such as acid or alchemist''s
+    fire.",{"type":"entries","name":"Components","entries":["Alchemist''s supplies
+    include two glass beakers, a metal frame to hold a beaker in place over an open
+    flame, a glass stirring rod, a small mortar and pestle, and a pouch of common
+    alchemical ingredients, including salt, powdered iron, and purified water."]},{"type":"entries","name":"Arcana","entries":["Proficiency
+    with alchemist''s supplies allows you to unlock more information on {@skill Arcana}
+    checks involving potions and similar materials."]},{"type":"entries","name":"Investigation","entries":["When
+    you inspect an area for clues, proficiency with alchemist''s supplies grants
+    additional insight into any chemicals or other substances that might have been
+    used in the area."]},{"type":"entries","name":"Alchemical Crafting","entries":["You
+    can use this tool proficiency to create alchemical items. A character can spend
+    money to collect raw materials, which weigh 1 pound for every 50 gp spent. The
+    DM can allow a character to make a check using the indicated skill with advantage.
+    As part of a long rest, you can use alchemist''s supplies to make one dose of
+    {@item acid (vial)|phb|acid}, {@item alchemist''s fire (flask)|phb|alchemist''s
+    fire}, {@item antitoxin (vial)|phb|antitoxin}, {@item oil (flask)|phb|oil}, {@item
+    perfume (vial)|phb|perfume}, or {@item soap|phb}. Subtract half the value of
+    the created item from the total gp worth of raw materials you are carrying."]},{"type":"table","caption":"Alchemist''s
+    Supplies","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Create
+    a puff of thick smoke","10"],["Identify a poison","10"],["Identify a substance","15"],["Start
+    a fire","15"],["Neutralize acid","20"]]}]}'
+  DataHash: 79522274ba50c615573224549409dac7

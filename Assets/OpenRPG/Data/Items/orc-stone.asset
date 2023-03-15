@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: orc-stone
+  m_EditorClassIdentifier: 
+  Title: Orc Stone
+  AsJson: '{"name":"Orc Stone","source":"IDRotF","page":264,"rarity":"uncommon","reqAttune":"by
+    a recipient only","wondrous":true,"entries":["I saved the life of an orc, who
+    gave me a stone with the symbol of the Many-Arrows tribe (a humanoid skull pierced
+    by three arrows) carved into it. The stone is an uncommon magic item that requires
+    attunement, and only I can attune to it.","As an action, I can use the stone
+    to summon the spirit of an orc warrior, which appears within 30 feet of me. The
+    spirit uses the {@creature orc war chief} stat block in the Monster Manual and
+    disappears after 10 minutes or when reduced to 0 hit points. The spirit understands
+    any language I speak and obeys my commands.","After the stone is used three times,
+    it turns to dust. (See Appendix B of Icewind Dale: Rime of the Frostmaiden)"]}'
+  DataHash: 8bd458f14669ddd52f2b423c4da65460

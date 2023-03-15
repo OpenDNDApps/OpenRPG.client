@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: potion-of-storm-giant-strength
+  m_EditorClassIdentifier: 
+  Title: Potion of Storm Giant Strength
+  AsJson: '{"name":"Potion of Storm Giant Strength","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"legendary","ability":{"static":{"str":29}},"entries":["When
+    you drink this potion, your Strength score changes to 29 for 1 hour. The potion
+    has no effect on you if your Strength is equal to or greater than that score.","This
+    potion''s transparent liquid has floating in it a sliver of fingernail from a
+    {@creature storm giant}."],"lootTables":["Magic Item Table E"]}'
+  DataHash: 89021b02973d7e9b3e5dbbcfcb31bfff

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: caltrop
+  m_EditorClassIdentifier: 
+  Title: Caltrop
+  AsJson: '{"name":"Caltrop","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":0.1,"value":5,"entries":["As
+    an action, you can spread a single bag of caltrops to cover a 5-foot-square area.
+    Any creature that enters the area must succeed on a DC 15 Dexterity saving throw
+    or stop moving and take 1 piercing damage. Until the creature regains at least
+    1 hit point, its walking speed is reduced by 10 feet. A creature moving through
+    the area at half speed doesn''t need to make the saving throw."]}'
+  DataHash: f3f241898411f2c59771d0a54d31cfc9

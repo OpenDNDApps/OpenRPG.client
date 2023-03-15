@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: 3-rod-of-the-pact-keeper
+  m_EditorClassIdentifier: 
+  Title: +3 Rod of the Pact Keeper
+  AsJson: '{"name":"+3 Rod of the Pact Keeper","source":"DMG","page":197,"type":"RD","tier":"major","rarity":"very
+    rare","reqAttune":"by a warlock","reqAttuneTags":[{"class":"warlock"}],"weight":2,"bonusSpellAttack":"+3","bonusSpellSaveDc":"+3","entries":["While
+    holding this rod, you gain a +3 bonus to spell attack rolls and to the saving
+    throw DCs of your warlock spells.","In addition, you can regain one warlock spell
+    slot as an action while holding the rod. You can''t use this property again until
+    you finish a long rest."],"lootTables":["Magic Item Table H"]}'
+  DataHash: ed3a67f1232bd19a74e3a7ffcded471f

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: philter-of-love
+  m_EditorClassIdentifier: 
+  Title: Philter of Love
+  AsJson: '{"name":"Philter of Love","source":"DMG","page":184,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["The
+    next time you see a creature within 10 minutes after drinking this philter, you
+    become {@condition charmed} by that creature for 1 hour. If the creature is of
+    a species and gender you are normally attracted to, you regard it as your true
+    love while you are {@condition charmed}. This potion''s rose-hued, effervescent
+    liquid contains one easy-to-miss bubble shaped like a heart."],"lootTables":["Magic
+    Item Table B"]}'
+  DataHash: cb5e0d682eff628a3fd3d6c1892fb04e

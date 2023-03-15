@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: dust-of-sneezing-and-choking
+  m_EditorClassIdentifier: 
+  Title: Dust of Sneezing and Choking
+  AsJson: '{"name":"Dust of Sneezing and Choking","source":"DMG","page":166,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["Found
+    in a small container, this powder resembles very fine sand. It appears to be
+    {@item dust of disappearance}, and an {@spell identify} spell reveals it to be
+    such. There is enough of it for one use.","When you use an action to throw a
+    handful of the dust into the air, you and each creature that needs to breathe
+    within 30 feet of you must succeed on a DC 15 Constitution saving throw or become
+    unable to breathe while sneezing uncontrollably. A creature affected in this
+    way is {@condition incapacitated} and suffocating. As long as it is conscious,
+    a creature can repeat the saving throw at the end of each of its turns, ending
+    the effect on it on a success. The {@spell lesser restoration} spell can also
+    end the effect on a creature."],"lootTables":["Magic Item Table B"],"hasFluffImages":true}'
+  DataHash: 058ef4f7c3effa3ab9612523f5351c56

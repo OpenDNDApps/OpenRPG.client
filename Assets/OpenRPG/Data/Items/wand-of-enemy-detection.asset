@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: wand-of-enemy-detection
+  m_EditorClassIdentifier: 
+  Title: Wand of Enemy Detection
+  AsJson: '{"name":"Wand of Enemy Detection","source":"DMG","page":210,"srd":true,"type":"WD","tier":"major","rarity":"rare","reqAttune":true,"weight":1,"recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 1}","charges":7,"entries":["This wand has 7 charges. While holding it,
+    you can use an action and expend 1 charge to speak its command word. For the
+    next minute, you know the direction of the nearest creature hostile to you within
+    60 feet, but not its distance from you. The wand can sense the presence of hostile
+    creatures that are ethereal, {@condition invisible}, disguised, or hidden, as
+    well as those in plain sight. The effect ends if you stop holding the wand.","The
+    wand regains {@dice 1d6 + 1} expended charges daily at dawn. If you expend the
+    wand''s last charge, roll a {@dice d20}. On a 1, the wand crumbles into ashes
+    and is destroyed."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+  DataHash: cc04f2ecf0241fb8d54f0d64f47c375f

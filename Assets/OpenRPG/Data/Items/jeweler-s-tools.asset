@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: jeweler-s-tools
+  m_EditorClassIdentifier: 
+  Title: Jeweler's Tools
+  AsJson: '{"name":"Jeweler''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":82}],"type":"AT","rarity":"none","weight":2,"value":2500,"additionalEntries":["Training
+    with jeweler''s tools includes the basic techniques needed to beautify gems.
+    It also gives you expertise in identifying precious stones.",{"type":"entries","name":"Components","entries":["Jeweler''s
+    tools consist of a small saw and hammer, files, pliers, and tweezers."]},{"type":"entries","name":"Arcana","entries":["Proficiency
+    with jeweler''s tools grants you knowledge about the reputed mystical uses of
+    gems. This insight proves handy when you make {@skill Arcana} checks related
+    to gems or gem-encrusted items."]},{"type":"entries","name":"Investigation","entries":["When
+    you inspect jeweled objects, your proficiency with jeweler''s tools aids you
+    in picking out clues they might hold."]},{"type":"entries","name":"Identify Gems","entries":["You
+    can identify gems and determine their value at a glance."]},{"type":"table","caption":"Jeweler''s
+    Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Modify
+    a gem''s appearance","15"],["Determine a gem''s history","20"]]}]}'
+  DataHash: 78ae1c2ae50c98a7fc719c63354f1864

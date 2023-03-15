@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: robe-of-the-archmagi
+  m_EditorClassIdentifier: 
+  Title: Robe of the Archmagi
+  AsJson: '{"name":"Robe of the Archmagi","source":"DMG","page":194,"srd":true,"tier":"major","rarity":"legendary","reqAttune":"by
+    a sorcerer, warlock, or wizard","reqAttuneTags":[{"class":"sorcerer"},{"class":"warlock"},{"class":"wizard"}],"wondrous":true,"bonusSpellAttack":"+2","bonusSpellSaveDc":"+2","entries":["This
+    elegant garment is made from exquisite cloth of white, gray, or black and adorned
+    with silvery runes. The robe''s color corresponds to the alignment for which
+    the item was created. A white robe was made for good, gray for neutral, and black
+    for evil. You can''t attune to a robe of the archmagi that doesn''t correspond
+    to your alignment.","You gain these benefits while wearing the robe:",{"type":"list","items":["If
+    you aren''t wearing armor, your base Armor Class is 15 + your Dexterity modifier.","You
+    have advantage on saving throws against spell and other magical effects.","Your
+    spell save DC and spell attack bonus each increase by 2."]}],"lootTables":["Magic
+    Item Table I"],"hasFluffImages":true}'
+  DataHash: 78046586629f0d4f79f3870359cc7f25

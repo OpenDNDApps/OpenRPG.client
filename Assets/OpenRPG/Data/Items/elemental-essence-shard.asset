@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: elemental-essence-shard
+  m_EditorClassIdentifier: 
+  Title: Elemental Essence Shard
+  AsJson: '{"name":"Elemental Essence Shard","source":"TCE","page":127,"rarity":"rare","reqAttune":"by
+    a sorcerer","reqAttuneTags":[{"class":"sorcerer"}],"wondrous":true,"weight":1,"entries":["This
+    crackling crystal contains the essence of an elemental plane. As an action, you
+    can attach the shard to a Tiny object (such as a weapon or a piece of jewelry)
+    or detach it. It falls off if your attunement to it ends. You can use the shard
+    as a spellcasting focus while you hold or wear it.","Roll a {@dice d4} and consult
+    the Elemental Essence Shards table to determine the shard''s essence and property.
+    When you use a Metamagic option on a spell while you are holding or wearing the
+    shard, you can use that property.",{"type":"table","caption":"Elemental Essence
+    Shards","colLabels":["d4","Element","Shard"],"colStyles":["col-2 text-center","col-2
+    text-center","col-8"],"rows":[["1","Air","{@item Elemental Essence Shard (Air)|TCE}"],["2","Earth","{@item
+    Elemental Essence Shard (Earth)|TCE}"],["3","Fire","{@item Elemental Essence
+    Shard (Fire)|TCE}"],["4","Water","{@item Elemental Essence Shard (Water)|TCE}"]]}]}'
+  DataHash: bbb29c7de37f6e57883e67b4fff74f62

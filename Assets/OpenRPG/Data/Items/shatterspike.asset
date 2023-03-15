@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: shatterspike
+  m_EditorClassIdentifier: 
+  Title: Shatterspike
+  AsJson: '{"name":"Shatterspike","source":"TftYP","page":229,"baseItem":"longsword|phb","type":"M","rarity":"uncommon","reqAttune":true,"weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+1","entries":["You
+    have a +1 bonus to attack and damage rolls made with this magic weapon. If it
+    hits an object, the hit is automatically a critical hit, and it can deal bludgeoning
+    or slashing damage to the object (your choice). Further, damage from nonmagical
+    sources can''t harm the weapon."]}'
+  DataHash: 4d4e6020a9b55f7ee0857950916af11e

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: shard-solitaire-diamond
+  m_EditorClassIdentifier: 
+  Title: Shard Solitaire (Diamond)
+  AsJson: '{"name":"Shard Solitaire (Diamond)","source":"KftGV","page":193,"rarity":"legendary","reqAttune":true,"wondrous":true,"recharge":"dawn","rechargeAmount":"{@dice
+    1d6}","charges":6,"entries":["This gemstone contains an unstable extradimensional
+    rift. Its facets are ribboned with iridescent veins that seem to move of their
+    own accord. Five types of shard solitaire are known to exist, each one a different
+    type of gemstone, as shown in the Shard Solitaire Types table.",{"type":"entries","name":"Rift
+    Step","entries":["As a bonus action, while wearing or holding the shard solitaire,
+    you can teleport yourself, along with anything you''re wearing or carrying, to
+    an unoccupied space you can see within 30 feet of yourself.","When you use this
+    property, you can tap into the unstable power of the stone''s extradimensional
+    rift to increase the teleport distance by up to 30 feet, but if you teleport
+    more than 30 feet using Rift Step, you must succeed on a DC 16 Constitution saving
+    throw or take {@damage 3d10} force damage immediately after you teleport."]},{"type":"entries","name":"Spellcasting","entries":["The
+    stone has 6 charges and regains {@dice 1d6} expended charges daily at dawn. As
+    an action, you can cast one of the stone''s spells by expending the requisite
+    number of charges, requiring no material components (save DC 16). The diamond
+    shard solitaire can be used to cast the following spells: {@spell banishment}
+    (3 charges; the target is banished to the stone''s extradimensional space for
+    the spell''s duration), {@spell mirror image} (1 charge), {@spell ice storm}
+    (3 charges), {@spell simulacrum} (6 charges; the duplicate created by the spell
+    has the same number of hit points as the creature it imitates)."]}],"attachedSpells":["mirror
+    image","banishment","ice storm","simulacrum"],"hasFluffImages":true}'
+  DataHash: cca1542d2d05b7e360cf552ad2d3c3db

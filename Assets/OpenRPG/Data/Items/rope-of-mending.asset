@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: rope-of-mending
+  m_EditorClassIdentifier: 
+  Title: Rope of Mending
+  AsJson: '{"name":"Rope of Mending","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["You
+    can cut this 50-foot coil of hempen rope into any number of smaller pieces, and
+    then use an action to speak a command word and cause the pieces to knit back
+    together. The pieces must be in contact with each other and not otherwise in
+    use. A rope of mending is forever shortened if a section of it is lost or destroyed."]}'
+  DataHash: 47e93e0ba22d991f60b08e29f2640f18

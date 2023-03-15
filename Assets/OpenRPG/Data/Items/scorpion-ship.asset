@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: scorpion-ship
+  m_EditorClassIdentifier: 
+  Title: Scorpion Ship
+  AsJson: '{"name":"Scorpion Ship","source":"AAG","page":42,"type":"SPC","rarity":"none","value":2500000,"crew":12,"vehAc":19,"vehHp":250,"vehDmgThresh":15,"vehSpeed":3.5,"capCargo":12,"entries":["Scorpion
+    ships are archaic metal warships that have never lost their popularity, largely
+    because of their versatility. Articulated legs enable a scorpion ship to land
+    safely on the ground and move across a solid surface at a walking speed of 30
+    feet. The ship can''t float on water, however. A ballista is mounted on the top
+    deck, and a mangonel is perched on the end of the tail. The ship''s two claws
+    are relatively inefficient in combat, but a claw that grabs a creature can quickly
+    take it out of action."],"seeAlsoVehicle":["Scorpion Ship|AAG"]}'
+  DataHash: 1b80b879d65734a6dce3a7909dec726d

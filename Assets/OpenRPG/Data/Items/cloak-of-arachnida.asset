@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cloak-of-arachnida
+  m_EditorClassIdentifier: 
+  Title: Cloak of Arachnida
+  AsJson: '{"name":"Cloak of Arachnida","source":"DMG","page":158,"srd":true,"resist":["poison"],"tier":"major","rarity":"very
+    rare","reqAttune":true,"wondrous":true,"modifySpeed":{"equal":{"climb":"walk"}},"entries":["This
+    fine garment is made of black silk interwoven with faint silvery threads. While
+    wearing it, you gain the following benefits:",{"type":"list","items":["You have
+    resistance to poison damage.","You have a climbing speed equal to your walking
+    speed.","You can move up, down, and across vertical surfaces and upside down
+    along ceilings, while leaving your hands free.","You can''t be caught in webs
+    of any sort and can move through webs as if they were {@quickref difficult terrain||3}.","You
+    can use an action to cast the {@spell web} spell (save DC 13). The web created
+    by the spell fills twice its normal area. Once used, this property of the cloak
+    can''t be used again until the next dawn."]}],"attachedSpells":["web"],"lootTables":["Magic
+    Item Table H"]}'
+  DataHash: dee4e8b1482f195d14c465012854d49a

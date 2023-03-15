@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: mace-of-smiting
+  m_EditorClassIdentifier: 
+  Title: Mace of Smiting
+  AsJson: '{"name":"Mace of Smiting","source":"DMG","page":179,"srd":true,"baseItem":"mace|phb","type":"M","tier":"major","rarity":"rare","weight":4,"weaponCategory":"simple","dmg1":"1d6","dmgType":"B","bonusWeapon":"+1","entries":["You
+    gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus
+    increases to +3 when you use the mace to attack a construct.","When you roll
+    a 20 on an attack roll made with this weapon, the target takes an extra 7 bludgeoning
+    damage, or an extra 14 bludgeoning damage if it''s a construct. If a construct
+    has 25 hit points or fewer after taking this damage, it is destroyed.","{@note
+    Note: According to the SRD, it is an extra {@dice 2d6} and {@damage 4d6} bludgeoning
+    damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}}."],"lootTables":["Magic
+    Item Table G"],"hasFluffImages":true}'
+  DataHash: 3e1c58cb8ed6327d4b503678d956a501

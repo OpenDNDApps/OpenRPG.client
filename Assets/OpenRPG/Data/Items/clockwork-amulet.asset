@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: clockwork-amulet
+  m_EditorClassIdentifier: 
+  Title: Clockwork Amulet
+  AsJson: '{"name":"Clockwork Amulet","source":"XGE","page":137,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+    copper amulet contains tiny interlocking gears and is powered by magic from Mechanus,
+    a plane of clockwork predictability. A creature that puts an ear to the amulet
+    can hear faint ticking and whirring noises coming from within.","When you make
+    an attack roll while wearing the amulet, you can forgo rolling the {@dice d20}
+    to get a 10 on the die. Once used, this property can''t be used again until the
+    next dawn."]}'
+  DataHash: 6630ae5dbb12b11cd009a694fe8fc4c3

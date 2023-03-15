@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: rings-of-shared-suffering
+  m_EditorClassIdentifier: 
+  Title: Rings of Shared Suffering
+  AsJson: '{"name":"Rings of Shared Suffering","source":"UAWGE","page":117,"type":"RG","rarity":"uncommon","reqAttune":true,"entries":["These
+    rings come in linked pairs. If you possess the Mark of Sentinel, you can use
+    a bonus action to form a link to the creature attuned to the other ring; from
+    then on, whenever that creature suffers damage, they only suffer half of that
+    damage and you take the rest. This effect continues until you end it as a bonus
+    action or until you or the other creature removes their ring. This effect isn''t
+    limited by range. A creature cannot be attuned to more than one ring of shared
+    suffering."]}'
+  DataHash: edfd474f6dfa06e8a5020bf6f3499ca8

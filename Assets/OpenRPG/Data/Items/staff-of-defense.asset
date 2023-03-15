@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-defense
+  m_EditorClassIdentifier: 
+  Title: Staff of Defense
+  AsJson: '{"name":"Staff of Defense","source":"LMoP","page":53,"rarity":"rare","reqAttune":true,"weight":3,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","bonusAc":"+1","recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 4}","charges":10,"staff":true,"entries":["This slender, hollow staff is
+    made of glass yet is as strong as oak. It weighs 3 pounds. You must be attuned
+    to the staff to gain its benefits and cast its spells.","While holding the staff,
+    you have a +1 bonus to your Armor Class.","The staff has 10 charges, which are
+    used to fuel the spells within it. With the staff in hand, you can use your action
+    to cast one of the following spells from the staff if the spell is on your class''s
+    spell list: {@spell mage armor} (1 charge) or {@spell shield} (2 charges). No
+    components are required.","The staff regains {@dice 1d6 + 4} expended charges
+    each day at dawn. If you expend the staff''s last charge, roll a {@dice d20}.
+    On a 1, the staff shatters and is destroyed."],"attachedSpells":["mage armor","shield"]}'
+  DataHash: 9431e5fed0880b35542dd66c2470ff20

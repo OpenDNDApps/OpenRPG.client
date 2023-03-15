@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: cuddly-strixhaven-mascot
+  m_EditorClassIdentifier: 
+  Title: Cuddly Strixhaven Mascot
+  AsJson: '{"name":"Cuddly Strixhaven Mascot","source":"SCC","page":38,"rarity":"common","wondrous":true,"entries":["Representing
+    one of the mascots of Strixhaven, this soft, Tiny, magic toy is perfect for cuddling.
+    If you press it to your arm, shoulder, or leg as an action, the toy stays attached
+    there for 1 hour or until you use an action to remove it.","The toy can also
+    be used to fight off fear. When you make a saving throw to avoid or end the {@condition
+    frightened} condition on yourself, you can give yourself advantage on the roll
+    if the toy is on your person. You must decide to do so before rolling the {@dice
+    d20}. If the save succeeds, you can''t use the toy in this way until you finish
+    a long rest."]}'
+  DataHash: 5b302da5a5fddb7ba065fef3c562bb99

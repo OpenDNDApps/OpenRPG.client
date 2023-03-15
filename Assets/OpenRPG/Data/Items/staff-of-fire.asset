@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: staff-of-fire
+  m_EditorClassIdentifier: 
+  Title: Staff of Fire
+  AsJson: '{"name":"Staff of Fire","source":"DMG","page":201,"srd":true,"resist":["fire"],"tier":"major","rarity":"very
+    rare","reqAttune":"by a druid, sorcerer, warlock, or wizard","reqAttuneTags":[{"class":"druid"},{"class":"sorcerer"},{"class":"warlock"},{"class":"wizard"}],"weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","recharge":"dawn","rechargeAmount":"{@dice
+    1d6 + 4}","charges":10,"staff":true,"entries":["You have resistance to fire damage
+    while you hold this staff.","The staff has 10 charges. While holding it, you
+    can use an action to expend 1 or more of its charges to cast one of the following
+    spells from it, using your spell save DC: {@spell burning hands} (1 charge),
+    {@spell fireball} (3 charges), or {@spell wall of fire} (4 charges).","The staff
+    regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last
+    charge, roll a {@dice d20}. On a 1, the staff blackens, crumbles into cinders,
+    and is destroyed."],"attachedSpells":["burning hands","fireball","wall of fire"],"lootTables":["Magic
+    Item Table H"],"hasFluffImages":true}'
+  DataHash: 7db0f6d18508833f41417ca1bce18ce5

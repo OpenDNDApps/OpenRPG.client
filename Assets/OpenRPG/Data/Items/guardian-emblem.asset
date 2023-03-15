@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: guardian-emblem
+  m_EditorClassIdentifier: 
+  Title: Guardian Emblem
+  AsJson: '{"name":"Guardian Emblem","source":"TCE","page":128,"rarity":"uncommon","reqAttune":"by
+    a cleric or paladin","reqAttuneTags":[{"class":"cleric"},{"class":"paladin"}],"wondrous":true,"recharge":"dawn","rechargeAmount":3,"charges":3,"entries":["This
+    emblem is the symbol of a deity or a spiritual tradition. As an action, you can
+    attach the emblem to a suit of armor or a shield or remove it.","The emblem has
+    3 charges. When you or a creature you can see within 30 feet of you suffers a
+    critical hit while you''re wearing the armor or wielding the shield that bears
+    the emblem, you can use your reaction to expend 1 charge to turn the critical
+    hit into a normal hit instead.","The emblem regains all expended charges daily
+    at dawn."]}'
+  DataHash: b8b28b09d832f1e8db8ce91f3f5af05d

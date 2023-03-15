@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: gloves-of-thievery
+  m_EditorClassIdentifier: 
+  Title: Gloves of Thievery
+  AsJson: '{"name":"Gloves of Thievery","source":"DMG","page":172,"tier":"major","rarity":"uncommon","wondrous":true,"entries":["These
+    gloves are {@condition invisible} while worn. While wearing them, you gain a
+    +5 bonus to Dexterity ({@skill Sleight of Hand}) checks and Dexterity checks
+    made to pick locks."],"optionalfeatures":["replicate magic item|tce","replicate
+    magic item|uaartificerrevisited"],"lootTables":["Magic Item Table F"]}'
+  DataHash: f85cf519f887a059aee2c7eb51eb66c4

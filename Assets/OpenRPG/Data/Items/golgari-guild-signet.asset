@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: golgari-guild-signet
+  m_EditorClassIdentifier: 
+  Title: Golgari Guild Signet
+  AsJson: '{"name":"Golgari Guild Signet","source":"GGR","page":178,"type":"RG","rarity":"uncommon","reqAttune":true,"recharge":"dawn","rechargeAmount":"{@dice
+    1d3}","charges":3,"entries":["This ring, adorned with the symbol of Golgari,
+    allows you to cast {@spell entangle}. A guild signet is sometimes awarded to
+    a guild member whose renown score in that guild is 5 or higher, as a reward for
+    performing special services for the guild. Aside from its magical properties,
+    the ring is also an indicator of Golgari''s recognition and favor.","A signet
+    has 3 charges, and it regains {@dice 1d3} expended charges daily at dawn. While
+    wearing it, you can expend 1 charge to cast the associated spell (save DC 13)."],"attachedSpells":["entangle"],"hasFluffImages":true}'
+  DataHash: f55c3fb7baee07bdbc09a3a720dba700

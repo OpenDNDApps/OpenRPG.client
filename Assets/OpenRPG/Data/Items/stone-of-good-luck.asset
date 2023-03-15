@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: stone-of-good-luck
+  m_EditorClassIdentifier: 
+  Title: Stone of Good Luck
+  AsJson: '{"name":"Stone of Good Luck","source":"DMG","page":205,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"bonusSavingThrow":"+1","bonusAbilityCheck":"+1","entries":["While
+    this polished agate is on your person, you gain a +1 bonus to ability checks
+    and saving throws."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+  DataHash: 4e588e8fb86afe7ccf58d0faa8d8879d

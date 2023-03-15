@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f240f53142df4b2ea47947eddf907c33, type: 3}
+  m_Name: figurine-of-wondrous-power-obsidian-steed
+  m_EditorClassIdentifier: 
+  Title: Figurine of Wondrous Power, Obsidian Steed
+  AsJson: '{"name":"Figurine of Wondrous Power, Obsidian Steed","source":"DMG","page":170,"srd":true,"tier":"major","rarity":"very
+    rare","wondrous":true,"entries":["A figurine of wondrous power is a statuette
+    of a beast small enough to fit in a pocket. If you use an action to speak the
+    command word and throw the figurine to a point on the ground within 60 feet of
+    you, the figurine becomes a living creature. If the space where the creature
+    would appear is occupied by other creatures or objects, or if there isn''t enough
+    space for the creature, the figurine doesn''t become a creature.","The creature
+    is friendly to you and your companions. It understands your languages and obeys
+    your spoken commands. If you issue no commands, the creature defends itself but
+    takes no other actions.","The creature exists for a duration specific to each
+    figurine. At the end of the duration, the creature reverts to its figurine form.
+    It reverts to a figurine early if it drops to 0 hit points or if you use an action
+    to speak the command word again while touching it. When the creature becomes
+    a figurine again, its property can''t be used again until a certain amount of
+    time has passed, as specified in the figurine''s description.","{@creature nightmare||Obsidian
+    Steed}.","This polished obsidian horse can become a {@creature nightmare} for
+    up to 24 hours. The {@creature nightmare} fights only to defend itself. Once
+    it has been used, it can''t be used again until 5 days have passed.","If you
+    have a good alignment, the figurine has a {@chance 10} chance each time you use
+    it to ignore your orders, including a command to revert to figurine form. If
+    you mount the {@creature nightmare} while it is ignoring your orders, you and
+    the {@creature nightmare} are instantly transported to a random location on the
+    plane of Hades, where the {@creature nightmare} reverts to figurine form."],"lootTables":["Magic
+    Item Table H"]}'
+  DataHash: f37042f372cf093c64b526e2b06cf7e3
