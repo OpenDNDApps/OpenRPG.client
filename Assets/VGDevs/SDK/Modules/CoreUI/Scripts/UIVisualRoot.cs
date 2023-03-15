@@ -11,13 +11,11 @@ namespace VGDevs
     public class UIVisualRoot : UIItemBase
     {
         [Header("UIVisualRoot Settings")]
-        [SerializeField] private string m_id = "MainVisualRoot";
         [SerializeField] private CanvasGroup m_canvasGroup;
         
         [Header("UIAnimation Settings")] 
         [SerializeField] private List<WhenAnimationPair> m_animationsInfo = new List<WhenAnimationPair>();
         
-        public string ID => m_id;
         public List<WhenAnimationPair> AnimationsInfo => m_animationsInfo;
 
         protected override void OnInit()
@@ -148,19 +146,6 @@ public static class VisualRootExtensions
                 continue;
             
             toReturn.AddUnique(visualRoot);
-        }
-        return toReturn;
-    }
-    
-    public static List<UIVisualRoot> GetVisualRootsByID(this List<UIVisualRoot> visualRoots, string name)
-    {
-        List<UIVisualRoot> toReturn = new List<UIVisualRoot>();
-        foreach (var visualRoot in visualRoots)
-        {
-            if (visualRoot.ID.Equals(name))
-            {
-                toReturn.Add(visualRoot);
-            }
         }
         return toReturn;
     }

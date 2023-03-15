@@ -7,12 +7,8 @@ using UnityEngine;
 namespace VGDevs
 {
     [CreateAssetMenu(fileName = "UIAnimation_", menuName = GameResources.kPluginName + "/UI/Animation")]
-    public class UIAnimation : ScriptableObject
+    public class UIAnimation : ScriptableAnimation<UIAnimationStep>
     {
-        public List<UIAnimationStep> Steps = new List<UIAnimationStep>();
-
-        public float OverallDuration => GetOverallDuration();
-        
         public virtual void StartAnimation(CanvasGroup target, Action onComplete = null, Animator targetAnimator = null)
         {
             if (Steps.Count == 0)
@@ -76,34 +72,11 @@ namespace VGDevs
             sequence.Play();
         }
 
-        public float GetOverallDuration()
-        {
-            float overallDuration = 0f;
-            float latestLargerAppend = 0f;
-            float latestLargerJoin = 0f;
-
-            foreach (var step in Steps)
-            {
-                float stepDuration = GetDurationByStepType(step);
-                
-                if (step.JoinType.Equals(UIAnimationJoinType.Append))
-                {
-                    overallDuration += Mathf.Max(stepDuration, latestLargerJoin);
-                    latestLargerAppend = stepDuration;
-                    latestLargerJoin = 0f;
-                    continue;
-                }
-
-                latestLargerJoin = Mathf.Max(stepDuration, latestLargerJoin);
-            }
-            overallDuration += latestLargerAppend > latestLargerJoin ? 0f : latestLargerJoin - latestLargerAppend;
-
-            return overallDuration;
-        }
-
-        private static float GetDurationByStepType(UIAnimationStep step)
+        protected override float GetDurationByStepType(BaseAnimationStep baseStep)
         {
             float stepDuration = 0f;
+            var step = (UIAnimationStep)baseStep;
+            
             switch (step.Type)
             {
                 case UIAnimationStepType.Alpha:
@@ -134,68 +107,33 @@ namespace VGDevs
 
             return stepDuration;
         }
+    }
 
-        [Serializable]
-        public enum UIAnimationStepType
-        {
-            None,
-            Alpha,
-            Scaling,
-            Animation,
-            AnchorMin,
-            AnchorPositions,
-            AnchorMax,
-            AnchorPositionX,
-            AnchorPositionY
-        }
-        
-        public enum UIAnimationJoinType
-        {
-            Join,
-            Append
-        }
-        
-        [Serializable]
-        public struct UIAnimationStep
-        {
-            public UIAnimationStepType Type;
-            public UIAnimationJoinType JoinType;
-            public UIAnimationBaseParams<float> Alpha;
-            public UIAnimationBaseParams<Vector3> Scaling;
-            public UIAnimationParamsAnimator Animation;
-            public UIAnimationBaseParams<Vector2> AnchorMin;
-            public UIAnimationBaseParams<Vector2> AnchorMax;
-            public UIAnimationBaseParams<Vector2> AnchorPositions;
-            public UIAnimationBaseParams<float> AnchorPositionX;
-            public UIAnimationBaseParams<float> AnchorPositionY;
-        }
-
-        [Serializable]
-        public class UIAnimationParamsAnimator
-        {
-            public RuntimeAnimatorController Animator;
-            public string MotionKey;
-            public string TriggerKey;
-            public UIAnimationBaseParams<float> Params;
-        }
-
-        [Serializable]
-        public class UIAnimationBaseParams<T>
-        {
-            public float Duration;
-            public float Delay;
-            public T StartValue;
-            public T EndValue;
-            public T TargetValue;
-            public Ease Ease;
-        }
-        
-        public static IEnumerator WaitForAnimationComplete(Animator animator, Action onComplete, int animationLayer = 0)
-        {
-            AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(animationLayer);
-            yield return new WaitForSeconds(stateInfo.length * stateInfo.speed);
-            onComplete?.Invoke();
-        }
+    [Serializable]
+    public enum UIAnimationStepType
+    {
+        None,
+        Alpha,
+        Scaling,
+        Animation,
+        AnchorMin,
+        AnchorPositions,
+        AnchorMax,
+        AnchorPositionX,
+        AnchorPositionY
+    }
+    
+    [Serializable]
+    public class UIAnimationStep : BaseAnimationStep
+    {
+        public AnimationBaseParams<float> Alpha;
+        public AnimationBaseParams<Vector3> Scaling;
+        public UIAnimationParamsAnimator Animation;
+        public AnimationBaseParams<Vector2> AnchorMin;
+        public AnimationBaseParams<Vector2> AnchorMax;
+        public AnimationBaseParams<Vector2> AnchorPositions;
+        public AnimationBaseParams<float> AnchorPositionX;
+        public AnimationBaseParams<float> AnchorPositionY;
     }
 }
 

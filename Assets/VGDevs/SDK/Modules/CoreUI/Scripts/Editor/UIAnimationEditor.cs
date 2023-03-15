@@ -67,7 +67,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.Alpha;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var alphaProp = stepProp.FindPropertyRelative("Alpha");
                 alphaProp.FindPropertyRelative("Duration").floatValue = 1f;
                 alphaProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -81,7 +81,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.Scaling;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var scalingProp = stepProp.FindPropertyRelative("Scaling");
                 scalingProp.FindPropertyRelative("Duration").floatValue = 1f;
                 scalingProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -95,7 +95,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.Animation;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var animationProp = stepProp.FindPropertyRelative("Animation");
                 animationProp.FindPropertyRelative("Animator").objectReferenceValue = null;
                 animationProp.FindPropertyRelative("MotionKey").stringValue = string.Empty;
@@ -111,7 +111,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.AnchorMin;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var anchorProp = stepProp.FindPropertyRelative("AnchorMin");
                 anchorProp.FindPropertyRelative("Duration").floatValue = 1f;
                 anchorProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -125,7 +125,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.AnchorMax;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var anchorProp = stepProp.FindPropertyRelative("AnchorMax");
                 anchorProp.FindPropertyRelative("Duration").floatValue = 1f;
                 anchorProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -139,7 +139,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.AnchorPositions;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var anchorProp = stepProp.FindPropertyRelative("AnchorPositions");
                 anchorProp.FindPropertyRelative("Duration").floatValue = 1f;
                 anchorProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -153,7 +153,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.AnchorPositionX;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var anchorProp = stepProp.FindPropertyRelative("AnchorPositionX");
                 anchorProp.FindPropertyRelative("Duration").floatValue = 1f;
                 anchorProp.FindPropertyRelative("Delay").floatValue = 0f;
@@ -167,7 +167,7 @@ namespace VGDevs
                 stepsProp.InsertArrayElementAtIndex(index);
                 var stepProp = stepsProp.GetArrayElementAtIndex(index);
                 stepProp.FindPropertyRelative("Type").enumValueIndex = (int)UIAnimationStepType.AnchorPositionY;
-                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)UIAnimationJoinType.Join;
+                stepProp.FindPropertyRelative("JoinType").enumValueIndex = (int)ScriptableAnimationJoinType.Join;
                 var anchorProp = stepProp.FindPropertyRelative("AnchorPositionY");
                 anchorProp.FindPropertyRelative("Duration").floatValue = 1f;
                 anchorProp.FindPropertyRelative("Delay").floatValue = 0f;

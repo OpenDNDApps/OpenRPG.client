@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,10 +8,12 @@ namespace VGDevs
     {
         [SerializeField] private Camera m_camera;
         [SerializeField] private CameraController m_mainCameraController;
-
+        
         private SceneManager m_sceneManager;
 
-        public Camera Camera => m_camera == null ? m_camera = Camera.main : m_camera;
+        public static Action<CameraController, CameraController> OnCameraControllerChanged;
+
+        public static Camera Camera => Instance.m_camera == null ? Instance.m_camera = Camera.main : Instance.m_camera;
 
         protected override void OnSingletonAwake()
         {
@@ -28,7 +31,11 @@ namespace VGDevs
         public CameraController MainCameraController
         {
             get => m_mainCameraController;
-            set => m_mainCameraController = value;
+            set
+            {
+                OnCameraControllerChanged?.Invoke(m_mainCameraController, value);
+                m_mainCameraController = value;
+            }
         }
 
         public bool IsReady { get; set; }

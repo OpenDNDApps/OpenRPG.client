@@ -98,6 +98,31 @@ public static class StringExtensions
 		return value.ToLowerInvariant();
 	}
 
+	public static string AsSlug(this string text)
+	{
+		string value = text.Normalize(NormalizationForm.FormD).Trim();
+		StringBuilder builder = new StringBuilder();
+
+		foreach (char c in text.ToCharArray())
+			if (CharUnicodeInfo.GetUnicodeCategory(c) != UnicodeCategory.NonSpacingMark)
+				builder.Append(c);
+
+		value = builder.ToString();
+
+		byte[] bytes = Encoding.GetEncoding("Cyrillic").GetBytes(text);
+
+		value = Regex.Replace(Regex.Replace(Encoding.ASCII.GetString(bytes), @"\s{2,}|[^\w]", " ", RegexOptions.ECMAScript).Trim(), @"\s+", "-");
+
+		return value.ToLowerInvariant();
+	}
+
+	public static string AsMD5Hash(this string text)
+	{
+		System.Security.Cryptography.MD5 md5 = System.Security.Cryptography.MD5.Create();
+		byte[] hashBytes = md5.ComputeHash(Encoding.UTF8.GetBytes(text));
+		return BitConverter.ToString(hashBytes).Replace("-", "").ToLowerInvariant();
+	}
+
 	/// <summary>
 	///  Replaces the format item in a specified System.String with the text equivalent
 	///  of the value of a specified System.Object instance.

@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace VGDevs
 {
-    public class BaseResourcesCollection : ScriptableObject
+    public class BaseResourcesCollection : BaseScriptableObject
     {
         [Header("Base Resources")]
         [SerializeField] protected List<GameObject> m_loadablePrefabs = new List<GameObject>();
