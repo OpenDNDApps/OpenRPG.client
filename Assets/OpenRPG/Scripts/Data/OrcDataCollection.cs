@@ -26,6 +26,8 @@ namespace ORC
         public List<CharacterRaceData> Races = new List<CharacterRaceData>();
         public List<SkillData> Skills = new List<SkillData>();
         public List<SpellData> Spells = new List<SpellData>();
+        
+        #if UNITY_EDITOR
 
         public virtual void ParseFeats(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "feat", creationFolderPath, ref Feats);
         public virtual void ParseBooks(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "id", "book", creationFolderPath, ref SourceBooks);
@@ -38,7 +40,6 @@ namespace ORC
         public virtual void ParseSkills(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "skill", creationFolderPath, ref Skills);
         public virtual void ParseLanguages(string filePath, string creationFolderPath) => ParseSourceFile(filePath, "name", "language", creationFolderPath, ref Languages);
         
-        #if UNITY_EDITOR
         public static void ParseSourceFile<T>(string filePath, string idKey, string rootKey, string creationPath, ref List<T> existingData) where T : ScriptableData
         {
             if (!File.Exists(filePath))
@@ -58,7 +59,7 @@ namespace ORC
             int added = 0;
             foreach (JToken bookToken in books)
             {
-                var book = (JObject) bookToken;
+                JObject book = (JObject) bookToken;
 
                 string title = book.Value<string>("name");
                 string id = book.Value<string>(idKey).AsSlug();
