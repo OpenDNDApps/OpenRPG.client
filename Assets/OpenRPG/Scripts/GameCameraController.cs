@@ -5,7 +5,7 @@ using Cinemachine;
 using UnityEngine;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     public class GameCameraController : CameraController
     {

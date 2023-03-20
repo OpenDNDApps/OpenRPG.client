@@ -2,7 +2,7 @@
 using Newtonsoft.Json.Linq;
 using UnityEngine;
 
-namespace OpenRPG
+namespace ORC
 {
     [CreateAssetMenu(fileName = nameof(MonsterData), menuName = kBaseScriptableDataPath + nameof(MonsterData))]
     public class MonsterData : ScriptableData

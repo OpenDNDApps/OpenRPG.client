@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 using UnityEngine;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     [CreateAssetMenu(fileName = GameResources.kOrcDataFileName, menuName = kBaseScriptableDataPath + GameResources.kOrcDataFileName)]
     public partial class OrcDataCollection : OrcScriptableObject
@@ -153,7 +153,7 @@ namespace OpenRPG
 
 #if UNITY_EDITOR
 
-namespace OpenRPG
+namespace ORC
 {
     using UnityEditor;
     

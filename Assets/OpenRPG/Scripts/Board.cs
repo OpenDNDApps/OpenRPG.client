@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Cinemachine;
 using UnityEngine;
 
-namespace OpenRPG
+namespace ORC
 {
     public static class Board
     {

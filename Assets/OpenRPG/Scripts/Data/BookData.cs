@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace OpenRPG
+namespace ORC
 {
     [CreateAssetMenu(fileName = nameof(BookData), menuName = kBaseScriptableDataPath + nameof(BookData))]
     public class BookData : ScriptableData

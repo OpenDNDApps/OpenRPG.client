@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     public class OrcScriptableObject : BaseScriptableObject
     {

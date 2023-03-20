@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     public class InitScene : OrcMono
     {

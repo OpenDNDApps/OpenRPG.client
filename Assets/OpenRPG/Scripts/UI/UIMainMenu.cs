@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     public class UIMainMenu : UIWindow
     {

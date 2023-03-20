@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 using UnityEngine;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     [CreateAssetMenu(fileName = nameof(FeatData), menuName = kBaseScriptableDataPath + nameof(FeatData))]
     public class SourceBookData : ScriptableData

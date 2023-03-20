@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using VGDevs;
 
-namespace OpenRPG
+namespace ORC
 {
     public class MenuScene : OrcMono
     {

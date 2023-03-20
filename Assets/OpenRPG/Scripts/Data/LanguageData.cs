@@ -2,7 +2,7 @@
 using Newtonsoft.Json.Linq;
 using UnityEngine;
 
-namespace OpenRPG
+namespace ORC
 {
     [CreateAssetMenu(fileName = nameof(LanguageData), menuName = kBaseScriptableDataPath + nameof(LanguageData))]
     public class LanguageData : ScriptableData

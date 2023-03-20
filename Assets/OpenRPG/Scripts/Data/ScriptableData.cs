@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using UnityEngine;
 
-namespace OpenRPG
+namespace ORC
 {
     public class ScriptableData : OrcScriptableObject
     {
@@ -54,7 +54,7 @@ namespace OpenRPG
 
 #if UNITY_EDITOR
     
-namespace OpenRPG
+namespace ORC
 {
     using UnityEditor;
     using System.IO;
