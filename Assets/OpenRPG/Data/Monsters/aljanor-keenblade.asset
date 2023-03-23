@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Aljanor Keenblade","isNpc":true,"source":"OotA","page":149,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     knight","with":"Aljanor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"ac":[10],"hasToken":true,"hasFluffImages":true}'
   DataHash: 5098dcbccd47e4174f865dd1e438ff38
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aljanor Keenblade
+    Content: 
+    AsJson: '{"name":"Aljanor Keenblade","isNpc":true,"source":"OotA","page":149,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      knight","with":"Aljanor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"ac":[10],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 5098dcbccd47e4174f865dd1e438ff38

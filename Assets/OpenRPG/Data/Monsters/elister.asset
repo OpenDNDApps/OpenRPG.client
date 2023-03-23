@@ -23,3 +23,17 @@ MonoBehaviour:
     spiritual weapon}"]},"3":{"slots":2,"spells":["{@spell dispel magic}","{@spell
     create food and water}"]}},"ability":"wis"}],"senseTags":["D"],"languageTags":["G","X"],"damageTagsSpell":["O","R"],"hasToken":true}'
   DataHash: e03e96544edbbb0bb197b25a47161cfe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elister
+    Content: 
+    AsJson: '{"name":"Elister","isNpc":true,"source":"SKT","page":154,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"}},"alignment":["C","N"],"spellcasting":[{"name":"Spellcasting","headerEntries":["Elister
+      is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell save
+      {@dc 13}, {@hit 5} to hit with spell attacks). Elister has the following cleric
+      spells prepared:"],"spells":{"0":{"spells":["{@spell light}","{@spell sacred
+      flame}","{@spell thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell cure wounds}","{@spell
+      guiding bolt}","{@spell sanctuary}"]},"2":{"slots":3,"spells":["{@spell lesser
+      restoration}","{@spell spiritual weapon}"]},"3":{"slots":2,"spells":["{@spell
+      dispel magic}","{@spell create food and water}"]}},"ability":"wis"}],"senseTags":["D"],"languageTags":["G","X"],"damageTagsSpell":["O","R"],"hasToken":true}'
+    DataHash: e03e96544edbbb0bb197b25a47161cfe

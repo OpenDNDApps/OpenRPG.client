@@ -17,3 +17,11 @@ MonoBehaviour:
     Constrictor Snake","source":"MM","_mod":{"action":{"mode":"prependArr","items":{"name":"Multiattack","entries":["The
     amphisbaena makes two attacks, only one of which can be a constrict attack."]}}}},"cr":"3","actionTags":["Multiattack"],"hasToken":true}'
   DataHash: 045badda7d018f05cc6259a98db98d37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amphisbaena
+    Content: 
+    AsJson: '{"name":"Amphisbaena","source":"TftYP","page":84,"_copy":{"name":"Giant
+      Constrictor Snake","source":"MM","_mod":{"action":{"mode":"prependArr","items":{"name":"Multiattack","entries":["The
+      amphisbaena makes two attacks, only one of which can be a constrict attack."]}}}},"cr":"3","actionTags":["Multiattack"],"hasToken":true}'
+    DataHash: 045badda7d018f05cc6259a98db98d37

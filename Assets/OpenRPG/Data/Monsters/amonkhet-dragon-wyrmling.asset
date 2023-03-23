@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amonkhet Dragon Wyrmling","source":"PSA","page":33,"_copy":{"name":"Red
     Dragon Wyrmling","source":"MM"},"int":5,"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: b70aa0554a3abae8990b3fe106c2ba80
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amonkhet Dragon Wyrmling
+    Content: 
+    AsJson: '{"name":"Amonkhet Dragon Wyrmling","source":"PSA","page":33,"_copy":{"name":"Red
+      Dragon Wyrmling","source":"MM"},"int":5,"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: b70aa0554a3abae8990b3fe106c2ba80

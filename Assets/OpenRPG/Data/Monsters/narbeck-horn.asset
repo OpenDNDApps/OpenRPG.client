@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d12 + 3}) slashing
     damage."]}}}},"alignment":["N"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true}'
   DataHash: 9f0df99b8a9aeebe3c41587742bc5658
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Narbeck Horn
+    Content: 
+    AsJson: '{"name":"Narbeck Horn","isNpc":true,"source":"SKT","page":114,"_copy":{"name":"Knight","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the knight","with":"Narbeck","flags":"i"},"action":{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Greataxe","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d12 + 3}) slashing
+      damage."]}}}},"alignment":["N"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true}'
+    DataHash: 9f0df99b8a9aeebe3c41587742bc5658

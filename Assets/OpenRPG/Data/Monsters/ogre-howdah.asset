@@ -24,3 +24,20 @@ MonoBehaviour:
     5 feet of the ogre."]}],"action":[{"name":"Mace","entries":["{@atk mw} {@hit
     6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage."]}],"environment":["grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/ogre-howdah.mp3"},"senseTags":["D"],"languageTags":["C","GI"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 1255b25b12f0ff7802367af1e68b897c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ogre Howdah
+    Content: 
+    AsJson: '{"name":"Ogre Howdah","source":"MTF","page":221,"reprintedAs":["Ogre
+      Howdah|MPMM"],"size":["L"],"type":"giant","alignment":["C","E"],"ac":[{"ac":13,"from":["{@item
+      breastplate|phb}"]}],"hp":{"average":59,"formula":"7d10 + 21"},"speed":{"walk":40},"str":19,"dex":8,"con":16,"int":5,"wis":7,"cha":7,"senses":["darkvision
+      60 ft."],"passive":8,"languages":["Common","Giant"],"cr":"2","trait":[{"name":"Howdah","entries":["The
+      ogre carries a compact fort on its back. Up to four Small creatures can ride
+      in the fort without squeezing. To make a melee attack against a target within
+      5 feet of the ogre, they must use spears or weapons with reach. Creatures in
+      the fort have three-quarters cover against attacks and effects from outside
+      it. If the ogre dies, creatures in the fort are placed in unoccupied spaces
+      within 5 feet of the ogre."]}],"action":[{"name":"Mace","entries":["{@atk mw}
+      {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+      damage."]}],"environment":["grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/ogre-howdah.mp3"},"senseTags":["D"],"languageTags":["C","GI"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 1255b25b12f0ff7802367af1e68b897c

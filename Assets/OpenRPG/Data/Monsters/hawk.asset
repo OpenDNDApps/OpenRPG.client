@@ -20,3 +20,14 @@ MonoBehaviour:
     5} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/hawk.mp3"},"traitTags":["Keen
     Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 446d7b775ca8630d323192280e298cbf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hawk
+    Content: 
+    AsJson: '{"name":"Hawk","source":"MM","page":330,"srd":true,"basicRules":true,"otherSources":[{"source":"WDH"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"JttRC"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":10,"fly":60},"str":5,"dex":16,"con":8,"int":2,"wis":14,"cha":6,"skill":{"perception":"+4"},"passive":14,"cr":"0","trait":[{"name":"Keen
+      Sight","entries":["The hawk has advantage on Wisdom ({@skill Perception}) checks
+      that rely on sight."]}],"action":[{"name":"Talons","entries":["{@atk mw} {@hit
+      5} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/hawk.mp3"},"traitTags":["Keen
+      Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 446d7b775ca8630d323192280e298cbf

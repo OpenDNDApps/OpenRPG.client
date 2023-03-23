@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold jewelry box with platinum filigree (Brazen Coalition)
   AsJson: '{"name":"Gold jewelry box with platinum filigree (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: dc6ae5ebc2ab0f27911aefd7cb8464b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold jewelry box with platinum filigree (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Gold jewelry box with platinum filigree (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: dc6ae5ebc2ab0f27911aefd7cb8464b7

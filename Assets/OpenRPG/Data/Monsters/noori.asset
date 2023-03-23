@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Noori","isNpc":true,"source":"SKT","page":127,"_copy":{"name":"Berserker","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     berserker","with":"Noori","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"skill":{"stealth":"+3","survival":"+2"},"languages":["Bothii","Common"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: f2aec86794f04ae409a0c2b568c28816
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Noori
+    Content: 
+    AsJson: '{"name":"Noori","isNpc":true,"source":"SKT","page":127,"_copy":{"name":"Berserker","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      berserker","with":"Noori","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"skill":{"stealth":"+3","survival":"+2"},"languages":["Bothii","Common"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: f2aec86794f04ae409a0c2b568c28816

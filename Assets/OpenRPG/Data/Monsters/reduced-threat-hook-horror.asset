@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Hook Horror","source":"TftYP","page":113,"_copy":{"name":"Hook
     Horror","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 6fe5d7986855c4a9eab6287ad8965516
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Hook Horror
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Hook Horror","source":"TftYP","page":113,"_copy":{"name":"Hook
+      Horror","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 6fe5d7986855c4a9eab6287ad8965516

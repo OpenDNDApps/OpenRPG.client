@@ -22,6 +22,19 @@ MonoBehaviour:
     when you finish a long rest.","Intelligence is your spellcasting ability for
     these spells, and you cast them at their lowest possible levels."]}'
   DataHash: 94eaaeaae2d1c977ff8be191f112cc22
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Svirfneblin Magic
+    Content: 
+    AsJson: '{"name":"Svirfneblin Magic","source":"MTF","page":114,"additionalSources":[{"source":"EEPC","page":7},{"source":"SCAG","page":115}],"prerequisite":[{"race":[{"name":"gnome","subrace":"deep"}]}],"additionalSpells":[{"ability":"int","innate":{"_":{"will":["nondetection"],"daily":{"1e":["blindness/deafness","blur","disguise
+      self"]}}}}],"entries":["You have inherited the innate spellcasting ability
+      of your ancestors. This ability allows you to cast {@spell nondetection} on
+      yourself at will, without needing a material component. You can also cast each
+      of the following spells once with this ability: {@spell blindness/deafness},
+      {@spell blur}, and {@spell disguise self}. You regain the ability to cast these
+      spells when you finish a long rest.","Intelligence is your spellcasting ability
+      for these spells, and you cast them at their lowest possible levels."]}'
+    DataHash: 94eaaeaae2d1c977ff8be191f112cc22
   Sources: {fileID: 11400000, guid: 0f2252313229f2c4a8c782070ef684eb, type: 2}
   SourcePages: 114
   Prerequisites:

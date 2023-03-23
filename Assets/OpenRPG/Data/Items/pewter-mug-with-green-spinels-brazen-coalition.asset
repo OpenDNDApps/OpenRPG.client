@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pewter mug with green spinels (Brazen Coalition)
   AsJson: '{"name":"Pewter mug with green spinels (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 67f54a98057df7d28faf2cd19d92611b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pewter mug with green spinels (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Pewter mug with green spinels (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 67f54a98057df7d28faf2cd19d92611b

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Durstan Rial","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":97,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     knight","with":"Durstan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
   DataHash: 37211a4e73e09a10708bbcf924d1ba98
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Durstan Rial
+    Content: 
+    AsJson: '{"name":"Durstan Rial","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":97,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      knight","with":"Durstan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 37211a4e73e09a10708bbcf924d1ba98

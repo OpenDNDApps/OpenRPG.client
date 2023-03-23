@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cloud Giant Noble","source":"TftYP","page":206,"_copy":{"name":"Cloud
     Giant","source":"MM"},"ac":[{"ac":16,"from":["{@item chain mail|phb}"]}],"hasToken":true}'
   DataHash: b6cfb8e133775c0187755d0d37ed9fa6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloud Giant Noble
+    Content: 
+    AsJson: '{"name":"Cloud Giant Noble","source":"TftYP","page":206,"_copy":{"name":"Cloud
+      Giant","source":"MM"},"ac":[{"ac":16,"from":["{@item chain mail|phb}"]}],"hasToken":true}'
+    DataHash: b6cfb8e133775c0187755d0d37ed9fa6

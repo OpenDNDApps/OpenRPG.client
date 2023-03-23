@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Luxonborn (Acolyte)
   AsJson: '{"name":"Luxonborn (Acolyte)","source":"EGW","page":203,"_copy":{"name":"Acolyte","source":"PHB"},"hasFluff":true}'
   DataHash: e905ec48ce948159455e238171c28dc2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Luxonborn (Acolyte)
+    Content: 
+    AsJson: '{"name":"Luxonborn (Acolyte)","source":"EGW","page":203,"_copy":{"name":"Acolyte","source":"PHB"},"hasFluff":true}'
+    DataHash: e905ec48ce948159455e238171c28dc2

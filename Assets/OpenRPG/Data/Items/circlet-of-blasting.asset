@@ -19,3 +19,14 @@ MonoBehaviour:
     of {@hit 5}. The circlet can''t be used this way again until the next dawn."],"attachedSpells":["scorching
     ray"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
   DataHash: 8c9b625cf66f2ad535f69e186f34fe86
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Circlet of Blasting
+    Content: 
+    AsJson: '{"name":"Circlet of Blasting","source":"DMG","page":158,"srd":true,"tier":"major","rarity":"uncommon","wondrous":true,"entries":["While
+      wearing this circlet, you can use an action to cast the {@spell scorching ray}
+      spell with it. When you make the spell''s attacks, you do so with an attack
+      bonus of {@hit 5}. The circlet can''t be used this way again until the next
+      dawn."],"attachedSpells":["scorching ray"],"lootTables":["Magic Item Table
+      F"],"hasFluffImages":true}'
+    DataHash: 8c9b625cf66f2ad535f69e186f34fe86

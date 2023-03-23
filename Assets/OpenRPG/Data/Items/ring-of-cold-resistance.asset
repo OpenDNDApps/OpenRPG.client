@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Cold Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["cold"],"detail1":"tourmaline","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 18c032e6c1953bc8bb9e51776e112e24
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Cold Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Cold Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["cold"],"detail1":"tourmaline","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 18c032e6c1953bc8bb9e51776e112e24

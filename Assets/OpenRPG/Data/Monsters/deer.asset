@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing
     damage."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/deer.mp3"},"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: f4418f10ae0ce9d312b9f27cdaa085a6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Deer
+    Content: 
+    AsJson: '{"name":"Deer","source":"MM","page":321,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"DIP"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":4,"formula":"1d8"},"speed":{"walk":50},"str":11,"dex":16,"con":11,"int":2,"wis":14,"cha":5,"passive":12,"cr":"0","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing
+      damage."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/deer.mp3"},"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: f4418f10ae0ce9d312b9f27cdaa085a6

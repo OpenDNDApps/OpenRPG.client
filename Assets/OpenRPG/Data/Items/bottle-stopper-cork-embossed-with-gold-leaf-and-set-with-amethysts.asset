@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bottle stopper cork embossed with gold leaf and set with amethysts
   AsJson: '{"name":"Bottle stopper cork embossed with gold leaf and set with amethysts","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 050181f1f2b32a9063f5388ba1a0e2c2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bottle stopper cork embossed with gold leaf and set with amethysts
+    Content: 
+    AsJson: '{"name":"Bottle stopper cork embossed with gold leaf and set with amethysts","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 050181f1f2b32a9063f5388ba1a0e2c2

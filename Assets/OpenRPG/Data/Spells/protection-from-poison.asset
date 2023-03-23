@@ -20,3 +20,14 @@ MonoBehaviour:
     has advantage on saving throws against being {@condition poisoned}, and it has
     resistance to poison damage."],"damageResist":["poison"],"areaTags":["ST"]}'
   DataHash: 5c0bd56322f70bc4e0bb855350dafb11
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Protection from Poison
+    Content: 
+    AsJson: '{"name":"Protection from Poison","source":"PHB","page":270,"srd":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+      touch a creature. If it is {@condition poisoned}, you neutralize the poison.
+      If more than one poison afflicts the target, you neutralize one poison that
+      you know is present, or you neutralize one at random.","For the duration, the
+      target has advantage on saving throws against being {@condition poisoned},
+      and it has resistance to poison damage."],"damageResist":["poison"],"areaTags":["ST"]}'
+    DataHash: 5c0bd56322f70bc4e0bb855350dafb11

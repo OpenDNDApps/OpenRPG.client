@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cow
   AsJson: '{"name":"Cow","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":1000}'
   DataHash: 099865a5744d985af78b9e22c460bd0c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cow
+    Content: 
+    AsJson: '{"name":"Cow","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":1000}'
+    DataHash: 099865a5744d985af78b9e22c460bd0c

@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) bludgeoning
     damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/pony.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 0b60b9f81f6e0f0e68e04c3add674ddf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pony
+    Content: 
+    AsJson: '{"name":"Pony","source":"MM","page":335,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"WBtW"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":11,"formula":"2d8
+      + 2"},"speed":{"walk":40},"str":15,"dex":10,"con":13,"int":2,"wis":11,"cha":7,"passive":10,"cr":"1/8","action":[{"name":"Hooves","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) bludgeoning
+      damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/pony.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 0b60b9f81f6e0f0e68e04c3add674ddf

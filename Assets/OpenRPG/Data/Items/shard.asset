@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Shard","source":"WDH","page":169,"type":"$","rarity":"none","value":10,"entries":["Silver
     coin, slightly smaller than the nib (1 shard = 10 {@item nib|wdh|nibs})"]}'
   DataHash: e100b231d7538ec7afbfdf97b1de3a83
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shard
+    Content: 
+    AsJson: '{"name":"Shard","source":"WDH","page":169,"type":"$","rarity":"none","value":10,"entries":["Silver
+      coin, slightly smaller than the nib (1 shard = 10 {@item nib|wdh|nibs})"]}'
+    DataHash: e100b231d7538ec7afbfdf97b1de3a83

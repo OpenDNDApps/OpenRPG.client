@@ -32,6 +32,29 @@ MonoBehaviour:
     to your proficiency bonus, but no more than once per spell you cast. You regain
     all expended uses when you finish a long rest."]}'
   DataHash: ed67868f912b1c08b29663921f14b452
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rune Carver Adept
+    Content: 
+    AsJson: '{"name":"Rune Carver Adept","source":"UA2022WondersOfTheMultiverse","page":8,"prerequisite":[{"level":4,"feat":["rune
+      carver apprentice|ua2022wondersofthemultiverse"]}],"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1},"hidden":true}],"entries":["Your
+      ability to draw out power from runes has grown.","Increase the ability score
+      of the spellcasting ability chosen when you gained the Rune Carver Apprentice
+      feat by 1, to a maximum of 20.","Whenever you cast a spell from the Rune Spells
+      table, or a spell of a school of magic associated with the spell you marked
+      on an object from your Rune Carver Apprentice feat, you can invoke runic power,
+      granting you one of these benefits of your choice:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Battle
+      Runes","entries":["Choose one creature you can see within 30 feet of yourself.
+      Until the end of that creature''s next turn, it has advantage on the next attack
+      roll it makes."]},{"type":"item","name":"Healing Runes","entries":["Choose
+      one creature you can see within 30 feet of yourself. That creature gains temporary
+      hit points equal to your level."]},{"type":"item","name":"Runic Winds","entries":["Choose
+      one creature you can see within 30 feet of yourself. Until the end of that
+      creature''s turn, its movement doesn''t provoke opportunity attacks, and its
+      walking speed increases by 10 feet."]}]},"You can invoke runic power a number
+      of times equal to your proficiency bonus, but no more than once per spell you
+      cast. You regain all expended uses when you finish a long rest."]}'
+    DataHash: ed67868f912b1c08b29663921f14b452
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites:

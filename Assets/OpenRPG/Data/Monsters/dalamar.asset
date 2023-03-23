@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Dalamar","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":111,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Dalamar","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
   DataHash: a632b83916c25cdd2b3824a29e3a0638
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dalamar
+    Content: 
+    AsJson: '{"name":"Dalamar","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":111,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Dalamar","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
+    DataHash: a632b83916c25cdd2b3824a29e3a0638

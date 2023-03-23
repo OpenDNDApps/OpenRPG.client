@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Totem
   AsJson: '{"name":"Totem","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","value":100}'
   DataHash: 30bc5c09fb04f680a4a2cad9035a4a91
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Totem
+    Content: 
+    AsJson: '{"name":"Totem","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","value":100}'
+    DataHash: 30bc5c09fb04f680a4a2cad9035a4a91

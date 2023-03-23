@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Anastrasya Karelova","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
     Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Anastrasya","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: f63ffd71a9a07dc91b50aad0a1251386
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Anastrasya Karelova
+    Content: 
+    AsJson: '{"name":"Anastrasya Karelova","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
+      Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Anastrasya","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: f63ffd71a9a07dc91b50aad0a1251386

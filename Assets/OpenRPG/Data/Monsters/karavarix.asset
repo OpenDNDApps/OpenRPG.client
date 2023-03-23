@@ -17,3 +17,11 @@ MonoBehaviour:
     Death Dragon","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
     dragon","with":"Karavarix","flags":"i"}}},"alignment":["C","E"],"hasToken":true}'
   DataHash: cfcce69ac9700145b73725e7612e832b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Karavarix
+    Content: 
+    AsJson: '{"name":"Karavarix","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":183,"_copy":{"name":"Greater
+      Death Dragon","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dragon","with":"Karavarix","flags":"i"}}},"alignment":["C","E"],"hasToken":true}'
+    DataHash: cfcce69ac9700145b73725e7612e832b

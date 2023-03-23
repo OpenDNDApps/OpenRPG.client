@@ -32,3 +32,26 @@ MonoBehaviour:
     the confusion ends. Achaierai are immune to the effects of this cloud."]}],"traitTags":["Magic
     Resistance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["I"],"damageTags":["I","P","S"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: cb0daf3182f3a0360b88344c420e29c0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Achaierai
+    Content: 
+    AsJson: '{"name":"Achaierai","source":"MaBJoV","page":131,"size":["L"],"type":"monstrosity","alignment":["L","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":90,"formula":"12d10 + 24"},"speed":{"walk":50},"str":18,"dex":14,"con":14,"int":10,"wis":12,"cha":14,"skill":{"perception":"+4"},"senses":["darkvision
+      60 ft."],"passive":14,"languages":["Infernal"],"cr":"5","trait":[{"name":"Magic
+      Resistance","entries":["The achaierai have advantage on saving throws against
+      spells and other magical effects."]},{"name":"Spring Attack","entries":["The
+      achaierai can take the Disengage action as a bonus action on each of its turns."]}],"action":[{"name":"Multiattack","entries":["The
+      achaierai makes two attacks with its talons and one attack with its beak."]},{"name":"Beak","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}14 ({@damage 3d6 + 4}) piercing
+      damage."]},{"name":"Talon","entries":["{@atk mw} {@hit 7} to hit, reach 10
+      ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."]}],"reaction":[{"name":"Defensive
+      Cloud","entries":["When injured the achaierai can use its reaction to release
+      a cloud of poisonous gas in a 10-foot radius. All creatures in the cloud take
+      7 ({@damage 2d6}) poison damage and must make a {@dc 15} Constitution saving
+      throw or be {@condition poisoned} for 1 minute. While {@condition poisoned}
+      the target is confused as if from a {@spell confusion} spell. At the end of
+      its turns, the affected target can repeat the Constitution saving throw. If
+      it succeeds the confusion ends. Achaierai are immune to the effects of this
+      cloud."]}],"traitTags":["Magic Resistance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["I"],"damageTags":["I","P","S"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: cb0daf3182f3a0360b88344c420e29c0

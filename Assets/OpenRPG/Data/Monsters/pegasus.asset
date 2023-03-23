@@ -19,3 +19,13 @@ MonoBehaviour:
     mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
     damage."]}],"environment":["grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/pegasus.mp3"},"languageTags":["C","CE","CS","E","S"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: f159613635078f76badd23c270f59079
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pegasus
+    Content: 
+    AsJson: '{"name":"Pegasus","source":"MM","page":250,"srd":true,"basicRules":true,"otherSources":[{"source":"ERLW"},{"source":"MOT"},{"source":"WBtW"},{"source":"JttRC"}],"size":["L"],"type":"celestial","alignment":["C","G"],"ac":[12],"hp":{"average":59,"formula":"7d10
+      + 21"},"speed":{"walk":60,"fly":90},"str":18,"dex":15,"con":16,"int":10,"wis":15,"cha":13,"save":{"dex":"+4","wis":"+4","cha":"+3"},"skill":{"perception":"+6"},"passive":16,"languages":["understands
+      Celestial","Common","Elvish","and Sylvan but can''t speak"],"cr":"2","action":[{"name":"Hooves","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+      damage."]}],"environment":["grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/pegasus.mp3"},"languageTags":["C","CE","CS","E","S"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: f159613635078f76badd23c270f59079

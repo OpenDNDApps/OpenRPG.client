@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fine Wine (Bottle)
   AsJson: '{"name":"Fine Wine (Bottle)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":1000}'
   DataHash: fe5095ecebe638b13c92e589d8c06965
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine Wine (Bottle)
+    Content: 
+    AsJson: '{"name":"Fine Wine (Bottle)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":1000}'
+    DataHash: fe5095ecebe638b13c92e589d8c06965

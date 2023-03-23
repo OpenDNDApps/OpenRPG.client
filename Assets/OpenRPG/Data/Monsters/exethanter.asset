@@ -21,3 +21,15 @@ MonoBehaviour:
     wizard spells prepared:"],"spells":{"0":{"spells":["{@spell mage hand}","{@spell
     prestidigitation}","{@spell ray of frost}"]}},"ability":"int"}],"damageTagsLegendary":[],"damageTagsSpell":["C"],"hasToken":true}'
   DataHash: b63b3887299feaaeba0f8e0ae9be60f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Exethanter
+    Content: 
+    AsJson: '{"name":"Exethanter","isNpc":true,"source":"CoS","page":189,"_copy":{"name":"Lich","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      lich","with":"Exethanter","flags":"i"}}},"hp":{"average":99,"formula":"18d8
+      + 54"},"cr":"10","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence
+      (spell save {@dc 20}, {@hit 12} to hit with spell attacks). The lich has the
+      following wizard spells prepared:"],"spells":{"0":{"spells":["{@spell mage
+      hand}","{@spell prestidigitation}","{@spell ray of frost}"]}},"ability":"int"}],"damageTagsLegendary":[],"damageTagsSpell":["C"],"hasToken":true}'
+    DataHash: b63b3887299feaaeba0f8e0ae9be60f9

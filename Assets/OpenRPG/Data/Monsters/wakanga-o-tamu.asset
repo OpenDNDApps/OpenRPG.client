@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Wakanga O''tamu","isNpc":true,"source":"ToA","page":27,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Wakanga","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true,"hasFluffImages":true}'
   DataHash: e1ecb5109b46beedd4ce6de3c9ecfa3f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wakanga O'tamu
+    Content: 
+    AsJson: '{"name":"Wakanga O''tamu","isNpc":true,"source":"ToA","page":27,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Wakanga","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: e1ecb5109b46beedd4ce6de3c9ecfa3f

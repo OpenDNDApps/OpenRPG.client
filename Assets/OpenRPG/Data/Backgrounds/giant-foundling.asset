@@ -50,3 +50,46 @@ MonoBehaviour:
     is just half the story. Every avalanche begins as a single pebble.\"],[\"6\",\"The
     world always feels too big, and I'm afraid I'll never find my place in it.\"]]}]}],\"hasFluff\":true}"
   DataHash: cc99c11f5cb80a9f0acc4777a6492945
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Foundling
+    Content: 
+    AsJson: "{\"name\":\"Giant Foundling\",\"source\":\"UA2022WondersOfTheMultiverse\",\"page\":4,\"feats\":[{\"strike
+      of the giants|ua2022wondersofthemultiverse\":true}],\"skillProficiencies\":[{\"intimidation\":true,\"survival\":true}],\"languageProficiencies\":[{\"anyStandard\":2}],\"startingEquipment\":[{\"_\":[{\"special\":\"backpack\"},\"traveler's
+      clothes|phb\",{\"item\":\"pouch|phb\",\"containsValue\":1000}]},{\"a\":[{\"special\":\"small
+      stone\"}],\"b\":[{\"special\":\"sprig that reminds you of home\"}]}],\"fromFeature\":{\"feats\":true},\"entries\":[{\"type\":\"list\",\"style\":\"list-hang-notitle\",\"items\":[{\"type\":\"item\",\"name\":\"Skill
+      Proficiencies:\",\"entry\":\"{@skill Intimidation}, {@skill Survival}\"},{\"type\":\"item\",\"name\":\"Languages:\",\"entry\":\"Two
+      of your choice\"},{\"type\":\"item\",\"name\":\"Equipment:\",\"entry\":\"A
+      backpack, a set of {@item traveler's clothes|phb}, a small stone or sprig that
+      reminds you of home, and a {@item pouch|phb} containing 10 gp\"}]},{\"type\":\"entries\",\"name\":\"Origin
+      Stories\",\"entries\":[\"How you came to live among colossal creatures is up
+      to you to determine, but the Foundling Origin table suggests a variety of possibilities.\",{\"type\":\"table\",\"caption\":\"Foundling
+      Origin\",\"colLabels\":[\"d6\",\"Origin\"],\"colStyles\":[\"col-1 text-center\",\"col-11\"],\"rows\":[[\"1\",\"You
+      were found as a baby by a family of nomadic giants who raised you as one of
+      their own.\"],[\"2\",\"A family of stone giants rescued you when you fell into
+      a mountain crag, and you have lived with them underground ever since.\"],[\"3\",\"You
+      were lost or abandoned as a child in a jungle that teemed with ravenous dinosaurs.
+      There, you found an equally lost frost giant and together, you survived.\"],[\"4\",\"Your
+      farm was crushed and your family killed in a battle between warring groups
+      of giants. Racked with guilt over the destruction, a sympathetic giant soldier
+      promised to care for you.\"],[\"5\",\"After you had a series of strange dreams
+      as a child, your superstitious parents sent you to study with a powerful but
+      aloof storm giant oracle.\"],[\"6\",\"While playing hide-and-seek with your
+      friends, you stumbled into the castle of a cloud giant matriarch, who immediately
+      adopted you.\"]]}]},{\"type\":\"entries\",\"name\":\"Feature: Strike of the
+      Giants\",\"entries\":[\"You gain the {@feat Strike of the Giants|UA2022WondersOfTheMultiverse}
+      feat.\"],\"data\":{\"isFeature\":true}},{\"type\":\"entries\",\"name\":\"Building
+      a Giant Foundling Character\",\"entries\":[\"Your remarkable size and experience
+      with titanic creatures has given you a unique perspective. Suggested Characteristics.
+      The Giant Foundling Personality Traits table suggests a variety of traits you
+      might adopt for your character.\",{\"type\":\"table\",\"caption\":\"Giant Foundling
+      Personality Traits\",\"colLabels\":[\"d6\",\"Personality Trait\"],\"colStyles\":[\"col-1
+      text-center\",\"col-11\"],\"rows\":[[\"1\",\"What I lack in stature, I make
+      up for with sheer spite.\"],[\"2\",\"Sometimes size does matter, okay? If I
+      see a beast bigger than me, I'm immediately running away.\"],[\"3\",\"Crowded
+      spaces make me uncomfortable. I'd much rather be in a wide-open field than
+      a bustling tavern.\"],[\"4\",\"I like being small. It helps me stay unnoticed\u2014and
+      underestimated.\"],[\"5\",\"Size is just half the story. Every avalanche begins
+      as a single pebble.\"],[\"6\",\"The world always feels too big, and I'm afraid
+      I'll never find my place in it.\"]]}]}],\"hasFluff\":true}"
+    DataHash: cc99c11f5cb80a9f0acc4777a6492945

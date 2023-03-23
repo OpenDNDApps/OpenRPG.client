@@ -21,6 +21,18 @@ MonoBehaviour:
     you gain a level, you can replace the invocation with another one from the warlock
     class."]}'
   DataHash: 38db1029e584d0bb48e1b416fa71a0f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eldritch Adept
+    Content: 
+    AsJson: '{"name":"Eldritch Adept","source":"UA2020Feats","page":1,"prerequisite":[{"spellcasting2020":true}],"entries":["Studying
+      occult lore, you have unlocked eldritch power within yourself: you learn one
+      {@filter Eldritch Invocation|optionalfeatures|Feature Type=EI} option of your
+      choice from the warlock class. If the invocation has a prerequisite, you can
+      choose that invocation only if you''re a warlock and only if you meet the prerequisite.","Whenever
+      you gain a level, you can replace the invocation with another one from the
+      warlock class."]}'
+    DataHash: 38db1029e584d0bb48e1b416fa71a0f1
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 1
   Prerequisites: []

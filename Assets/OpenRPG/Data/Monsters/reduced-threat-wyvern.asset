@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Wyvern","source":"TftYP","page":113,"_copy":{"name":"Wyvern","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 13e4f6997a9bdc9d68ad3fbdc78662eb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Wyvern
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Wyvern","source":"TftYP","page":113,"_copy":{"name":"Wyvern","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 13e4f6997a9bdc9d68ad3fbdc78662eb

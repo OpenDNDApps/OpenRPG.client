@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Azra Nir","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":74,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     acolyte","with":"Azra","flags":"i"}}},"hasToken":true}'
   DataHash: 102952bab903fa415086f3c750d076c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Azra Nir
+    Content: 
+    AsJson: '{"name":"Azra Nir","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":74,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      acolyte","with":"Azra","flags":"i"}}},"hasToken":true}'
+    DataHash: 102952bab903fa415086f3c750d076c5

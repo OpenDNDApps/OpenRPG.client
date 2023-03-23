@@ -42,3 +42,36 @@ MonoBehaviour:
     it."]}],"_version":{"name":"Mezzoloth (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/mezzoloth.mp3"},"traitTags":["Magic
     Resistance","Magic Weapons"],"senseTags":["B","D"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","I","TP"],"damageTags":["P","S"],"damageTagsSpell":["I"],"spellcastingTags":["I"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 2353b7c8ed2323ed1019d98f29ce0159
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mezzoloth
+    Content: 
+    AsJson: '{"name":"Mezzoloth","source":"MM","page":313,"otherSources":[{"source":"PotA"},{"source":"RoT"},{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"}],"size":["M"],"type":{"type":"fiend","tags":["yugoloth"]},"alignment":["N","E"],"ac":[{"ac":18,"from":["natural
+      armor"]}],"hp":{"average":75,"formula":"10d8 + 30"},"speed":{"walk":40},"str":18,"dex":11,"con":16,"int":7,"wis":10,"cha":11,"skill":{"perception":"+3"},"senses":["blindsight
+      60 ft.","darkvision 60 ft."],"passive":13,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["acid","poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Infernal","telepathy
+      60 ft."],"cr":"5","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+      mezzoloth''s innate spellcasting ability is Charisma (spell save {@dc 11}).
+      The mezzoloth can innately cast the following spells, requiring no material
+      components:"],"daily":{"1":["{@spell cloudkill}"],"2e":["{@spell darkness}","{@spell
+      dispel magic}"]},"ability":"cha"}],"trait":[{"name":"Magic Resistance","entries":["The
+      mezzoloth has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+      Weapons","entries":["The mezzoloth''s weapon attacks are magical."]}],"action":[{"name":"Multiattack","entries":["The
+      mezzoloth makes two attacks: one with its claws and one with its trident."]},{"name":"Claws","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) slashing
+      damage."]},{"name":"Trident","entries":["{@atk mw,rw} {@hit 7} to hit, reach
+      5 ft. or range 20/60 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage,
+      or 8 ({@damage 1d8 + 4}) piercing damage when held with two claws and used
+      to make a melee attack."]},{"name":"Teleport","entries":["The mezzoloth magically
+      teleports, along with any equipment it is wearing or carrying, up to 60 feet
+      to an unoccupied space it can see."]}],"variant":[{"type":"variant","name":"Yugoloth
+      Summoning","entries":["Some yugoloths have an action option that allows them
+      to summon other yugoloths.",{"name":"Summon Yugoloth (1/Day)","type":"entries","entries":["The
+      yugoloth attempts a magical summoning.","A mezzoloth has a {@chance 30|30 percent|30%
+      summoning chance} chance of summoning one mezzoloth.","A summoned yugoloth
+      appears in an unoccupied space within 60 feet of its summoner, does as it pleases,
+      and can''t summon other yugoloths. The summoned yugoloth remains for 1 minute,
+      until it or its summoner dies, or until its summoner takes a bonus action to
+      dismiss it."]}],"_version":{"name":"Mezzoloth (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/mezzoloth.mp3"},"traitTags":["Magic
+      Resistance","Magic Weapons"],"senseTags":["B","D"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","I","TP"],"damageTags":["P","S"],"damageTagsSpell":["I"],"spellcastingTags":["I"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 2353b7c8ed2323ed1019d98f29ce0159

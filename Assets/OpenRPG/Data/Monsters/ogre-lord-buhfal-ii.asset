@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ogre Lord Buhfal II","isNpc":true,"source":"EGW","page":251,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ogre","with":"Lord Buhfal","flags":"i"}}},"alignment":["L","E"],"int":10,"hasToken":true,"hasFluff":true}'
   DataHash: f57286990bb340b9f11a1f39c9c41e16
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ogre Lord Buhfal II
+    Content: 
+    AsJson: '{"name":"Ogre Lord Buhfal II","isNpc":true,"source":"EGW","page":251,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ogre","with":"Lord Buhfal","flags":"i"}}},"alignment":["L","E"],"int":10,"hasToken":true,"hasFluff":true}'
+    DataHash: f57286990bb340b9f11a1f39c9c41e16

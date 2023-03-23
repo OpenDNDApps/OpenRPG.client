@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Xolkin Alassandar","isNpc":true,"source":"SKT","page":27,"_copy":{"name":"Bandit
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Xolkin","flags":"i"}}},"type":{"type":"humanoid","tags":["half-elf"]},"alignment":["L","E"],"hasToken":true}'
   DataHash: c7584804b922863e5adb1197398d98f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Xolkin Alassandar
+    Content: 
+    AsJson: '{"name":"Xolkin Alassandar","isNpc":true,"source":"SKT","page":27,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Xolkin","flags":"i"}}},"type":{"type":"humanoid","tags":["half-elf"]},"alignment":["L","E"],"hasToken":true}'
+    DataHash: c7584804b922863e5adb1197398d98f9

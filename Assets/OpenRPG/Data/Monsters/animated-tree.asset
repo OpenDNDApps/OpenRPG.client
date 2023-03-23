@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Animated Tree","source":"EGW","page":130,"otherSources":[{"source":"MOT"}],"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"tree"},"resist":{"mode":"appendArr","items":["necrotic","radiant"]}}},"alignment":["U"],"languages":["understands
     Common, Druidic, Elvish, and Sylvan but cannot speak"],"hasToken":true}'
   DataHash: 509e57621d90d7ec7b7f6750a09e34a1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Tree
+    Content: 
+    AsJson: '{"name":"Animated Tree","source":"EGW","page":130,"otherSources":[{"source":"MOT"}],"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"tree"},"resist":{"mode":"appendArr","items":["necrotic","radiant"]}}},"alignment":["U"],"languages":["understands
+      Common, Druidic, Elvish, and Sylvan but cannot speak"],"hasToken":true}'
+    DataHash: 509e57621d90d7ec7b7f6750a09e34a1

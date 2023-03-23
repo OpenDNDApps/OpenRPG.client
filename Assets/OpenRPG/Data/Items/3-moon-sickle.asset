@@ -23,3 +23,17 @@ MonoBehaviour:
     you can roll a {@dice d4} and add the number rolled to the amount of hit points
     restored, provided you are holding the sickle."]}'
   DataHash: 4da0dbe898b37aa858aa10e9313475d3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +3 Moon Sickle
+    Content: 
+    AsJson: '{"name":"+3 Moon Sickle","source":"TCE","page":133,"baseItem":"sickle|PHB","type":"M","rarity":"very
+      rare","reqAttune":"by a druid or ranger","reqAttuneTags":[{"class":"druid"},{"class":"ranger"}],"weight":2,"weaponCategory":"simple","property":["L"],"dmg1":"1d4","dmgType":"S","bonusWeapon":"+3","bonusSpellAttack":"+3","bonusSpellSaveDc":"+3","focus":["Druid","Ranger"],"weapon":true,"entries":["This
+      silver-bladed sickle glimmers softly with moonlight. While holding this magic
+      weapon, you gain a +3 bonus to attack and damage rolls made with it, and you
+      gain a +3 bonus to spell attack rolls and the saving throw DCs of your druid
+      and ranger spells. In addition, you can use the sickle as a spellcasting focus
+      for your druid and ranger spells.","When you cast a spell that restores hit
+      points, you can roll a {@dice d4} and add the number rolled to the amount of
+      hit points restored, provided you are holding the sickle."]}'
+    DataHash: 4da0dbe898b37aa858aa10e9313475d3

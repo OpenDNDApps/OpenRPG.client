@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Majesto","isNpc":true,"source":"CoS","page":115,"_copy":{"name":"Imp","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     imp","with":"Majesto","flags":"i"}}},"hasToken":true}'
   DataHash: 2646202201b871a3a77bcd91cd8685dd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Majesto
+    Content: 
+    AsJson: '{"name":"Majesto","isNpc":true,"source":"CoS","page":115,"_copy":{"name":"Imp","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      imp","with":"Majesto","flags":"i"}}},"hasToken":true}'
+    DataHash: 2646202201b871a3a77bcd91cd8685dd

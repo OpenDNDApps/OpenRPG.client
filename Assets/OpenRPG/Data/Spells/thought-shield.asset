@@ -20,3 +20,14 @@ MonoBehaviour:
     on saving throws against any effect that would determine whether it is telling
     the truth."],"areaTags":["ST"]}'
   DataHash: 4ff00e62428723a76d25a5cc90505d6e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thought Shield
+    Content: 
+    AsJson: '{"name":"Thought Shield","source":"UAFighterRogueWizard","page":8,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+      weave a clouding veil over the mind of one creature you touch. For the duration,
+      the target''s mind can''t be read or detected, creatures can''t telepathically
+      communicate with the target unless the target allows it, and the target has
+      advantage on saving throws against any effect that would determine whether
+      it is telling the truth."],"areaTags":["ST"]}'
+    DataHash: 4ff00e62428723a76d25a5cc90505d6e

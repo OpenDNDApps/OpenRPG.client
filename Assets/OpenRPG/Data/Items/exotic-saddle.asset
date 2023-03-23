@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Exotic Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":40,"value":6000,"entries":["An
     exotic saddle is required for riding any aquatic or flying mount."]}'
   DataHash: 90119c04c4250d11dfaf0d24a6390187
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Exotic Saddle
+    Content: 
+    AsJson: '{"name":"Exotic Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":40,"value":6000,"entries":["An
+      exotic saddle is required for riding any aquatic or flying mount."]}'
+    DataHash: 90119c04c4250d11dfaf0d24a6390187

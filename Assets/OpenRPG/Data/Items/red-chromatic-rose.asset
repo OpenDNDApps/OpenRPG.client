@@ -17,3 +17,11 @@ MonoBehaviour:
     in fire","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
     Chromatic Rose|WBtW}"]}'
   DataHash: a03cfaa066ca6d2c8c44b3571864abff
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Red Chromatic Rose
+    Content: 
+    AsJson: '{"name":"Red Chromatic Rose","source":"WBtW","page":208,"resist":["fire"],"detail1":"wreathed
+      in fire","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
+      Chromatic Rose|WBtW}"]}'
+    DataHash: a03cfaa066ca6d2c8c44b3571864abff

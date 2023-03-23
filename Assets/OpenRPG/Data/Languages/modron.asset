@@ -17,3 +17,11 @@ MonoBehaviour:
     Monodrone||monodrones}","{@creature Duodrone||duodrones}","{@creature Tridrone||tridrones}","{@creature
     Quadrone||quadrones}","{@creature Pentadrone||pentadrones}"]}'
   DataHash: 8334ddbf75ccb4ab83801af1657c31e7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Modron
+    Content: 
+    AsJson: '{"name":"Modron","source":"MM","page":224,"typicalSpeakers":["{@creature
+      Monodrone||monodrones}","{@creature Duodrone||duodrones}","{@creature Tridrone||tridrones}","{@creature
+      Quadrone||quadrones}","{@creature Pentadrone||pentadrones}"]}'
+    DataHash: 8334ddbf75ccb4ab83801af1657c31e7

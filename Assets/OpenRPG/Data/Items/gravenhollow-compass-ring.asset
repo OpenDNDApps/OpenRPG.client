@@ -19,3 +19,13 @@ MonoBehaviour:
     magic. The gem''s star-shaped core is a magical compass that guides the ring''s
     wearer along the safest, shortest route to Gravenhollow."]}'
   DataHash: 30793b3df83392603ae191de0c69ef4e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gravenhollow Compass Ring
+    Content: 
+    AsJson: '{"name":"Gravenhollow Compass Ring","source":"OotA","page":141,"type":"OTH","rarity":"unknown
+      (magic)","entries":["This gold ring is fitted with a star ruby worth 1,000
+      gp. A {@spell detect magic} spell reveals that the gem radiates a faint aura
+      of divination magic. The gem''s star-shaped core is a magical compass that
+      guides the ring''s wearer along the safest, shortest route to Gravenhollow."]}'
+    DataHash: 30793b3df83392603ae191de0c69ef4e

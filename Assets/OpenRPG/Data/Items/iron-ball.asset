@@ -17,3 +17,12 @@ MonoBehaviour:
     (magic)","weaponCategory":"simple","property":["F","T"],"range":"120","dmg1":"1d4","dmgType":"B","entries":["This
     ball is used to play a game of {@adventure Chain Lightning|IDRotF|17|Chain Lightning}."]}'
   DataHash: c00f789d778c516c1f39401229548c49
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Iron Ball
+    Content: 
+    AsJson: '{"name":"Iron Ball","source":"IDRotF","page":238,"type":"R","rarity":"unknown
+      (magic)","weaponCategory":"simple","property":["F","T"],"range":"120","dmg1":"1d4","dmgType":"B","entries":["This
+      ball is used to play a game of {@adventure Chain Lightning|IDRotF|17|Chain
+      Lightning}."]}'
+    DataHash: c00f789d778c516c1f39401229548c49

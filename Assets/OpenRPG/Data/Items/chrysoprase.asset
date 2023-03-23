@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chrysoprase","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     translucent green gemstone."]}'
   DataHash: 7088d8089dcc63bb78f7b028389d992e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chrysoprase
+    Content: 
+    AsJson: '{"name":"Chrysoprase","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      translucent green gemstone."]}'
+    DataHash: 7088d8089dcc63bb78f7b028389d992e

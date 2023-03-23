@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Star rose quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     translucent rosy stone with white star-shaped center gemstone."]}'
   DataHash: fb60a6c378b6ae04460d04f38c7cf92e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Star rose quartz
+    Content: 
+    AsJson: '{"name":"Star rose quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      translucent rosy stone with white star-shaped center gemstone."]}'
+    DataHash: fb60a6c378b6ae04460d04f38c7cf92e

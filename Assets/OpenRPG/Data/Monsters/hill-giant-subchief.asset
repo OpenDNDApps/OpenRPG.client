@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hill Giant Subchief","source":"TftYP","page":170,"_copy":{"name":"Stone
     Giant","source":"MM"},"trait":null,"hasToken":true}'
   DataHash: 30a9fbaca8c562cd232bf9d42d7d631e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hill Giant Subchief
+    Content: 
+    AsJson: '{"name":"Hill Giant Subchief","source":"TftYP","page":170,"_copy":{"name":"Stone
+      Giant","source":"MM"},"trait":null,"hasToken":true}'
+    DataHash: 30a9fbaca8c562cd232bf9d42d7d631e

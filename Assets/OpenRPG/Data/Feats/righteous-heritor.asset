@@ -24,6 +24,21 @@ MonoBehaviour:
     number of times equal to your proficiency bonus, and you regain all expended
     uses when you finish a long rest."]}]}]}'
   DataHash: 69fd44492a3ec23113d1ed82b8577b94
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Righteous Heritor
+    Content: 
+    AsJson: '{"name":"Righteous Heritor","source":"UA2022WondersOfTheMultiverse","page":8,"prerequisite":[{"level":4,"feat":["scion
+      of the outer planes|ua2022wondersofthemultiverse|scion of the outer planes
+      (good outer plane)"]}],"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1}}],"entries":["You
+      can channel the cosmic forces of good that foster serenity and fellowship.
+      You are still free to choose your own actions, but gain these benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Soothe
+      Pain","entries":["When you or a creature you can see within 30 feet of you
+      takes damage, you can use your reaction to dull its suffering and reduce the
+      damage it takes by {@dice 1d10} + your proficiency bonus. You can use this
+      benefit a number of times equal to your proficiency bonus, and you regain all
+      expended uses when you finish a long rest."]}]}]}'
+    DataHash: 69fd44492a3ec23113d1ed82b8577b94
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites:

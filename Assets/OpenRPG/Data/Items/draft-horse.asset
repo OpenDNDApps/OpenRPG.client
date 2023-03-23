@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Draft Horse
   AsJson: '{"name":"Draft Horse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":5000,"carryingCapacity":540,"speed":40}'
   DataHash: e65af6d5de0b291b2d1eb8ecbddad6be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Draft Horse
+    Content: 
+    AsJson: '{"name":"Draft Horse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":5000,"carryingCapacity":540,"speed":40}'
+    DataHash: e65af6d5de0b291b2d1eb8ecbddad6be

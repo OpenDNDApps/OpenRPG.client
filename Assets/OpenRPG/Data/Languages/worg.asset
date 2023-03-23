@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Worg","source":"MM","page":341,"typicalSpeakers":["{@creature
     Worg||worgs}"]}'
   DataHash: 40ce01699663b5971c82806a19f2ba45
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Worg
+    Content: 
+    AsJson: '{"name":"Worg","source":"MM","page":341,"typicalSpeakers":["{@creature
+      Worg||worgs}"]}'
+    DataHash: 40ce01699663b5971c82806a19f2ba45

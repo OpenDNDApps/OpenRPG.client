@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Kupalu\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":35,\"_copy\":{\"name\":\"Vegepygmy\",\"source\":\"VGM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
     vegepygmy\",\"with\":\"Kupalu\xE9\",\"flags\":\"i\"}}},\"hasToken\":true}"
   DataHash: 59bb0a861351d2e9451619d925aa3d14
+  DataByEdition:
+  - Edition: d&d5e
+    Title: "Kupalu\xE9"
+    Content: 
+    AsJson: "{\"name\":\"Kupalu\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":35,\"_copy\":{\"name\":\"Vegepygmy\",\"source\":\"VGM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
+      vegepygmy\",\"with\":\"Kupalu\xE9\",\"flags\":\"i\"}}},\"hasToken\":true}"
+    DataHash: 59bb0a861351d2e9451619d925aa3d14

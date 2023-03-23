@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Basket","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":40,"entries":["A
     basket holds 2 cubic feet or 40 pounds of gear."],"containerCapacity":{"weight":[40]}}'
   DataHash: 07dd2f292818b4f01b584c4a97b3e925
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Basket
+    Content: 
+    AsJson: '{"name":"Basket","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":40,"entries":["A
+      basket holds 2 cubic feet or 40 pounds of gear."],"containerCapacity":{"weight":[40]}}'
+    DataHash: 07dd2f292818b4f01b584c4a97b3e925

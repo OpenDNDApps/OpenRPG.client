@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cobalt Scholar (Sage)
   AsJson: '{"name":"Cobalt Scholar (Sage)","source":"EGW","page":203,"_copy":{"name":"Sage","source":"PHB"},"hasFluff":true}'
   DataHash: fb6b7370c56df43f8d6d88c1b07ad2fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cobalt Scholar (Sage)
+    Content: 
+    AsJson: '{"name":"Cobalt Scholar (Sage)","source":"EGW","page":203,"_copy":{"name":"Sage","source":"PHB"},"hasFluff":true}'
+    DataHash: fb6b7370c56df43f8d6d88c1b07ad2fe

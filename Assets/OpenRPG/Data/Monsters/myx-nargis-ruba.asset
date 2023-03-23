@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Myx Nargis Ruba","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":71,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Orc","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Nargis","flags":"i"}}},"alignment":["N","E"],"traitTags":["Aggressive"],"hasToken":true}'
   DataHash: 5f980d4f6fdfdacebcb2d06859144d85
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Myx Nargis Ruba
+    Content: 
+    AsJson: '{"name":"Myx Nargis Ruba","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":71,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Orc","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Nargis","flags":"i"}}},"alignment":["N","E"],"traitTags":["Aggressive"],"hasToken":true}'
+    DataHash: 5f980d4f6fdfdacebcb2d06859144d85

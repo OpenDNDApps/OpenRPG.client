@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Aunt Dellie","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":36,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     commoner","with":"Aunt Dellie","flags":"i"}}},"hasToken":true}'
   DataHash: 97af1a5cccde7ff93b2a3c4eb55c9b4d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aunt Dellie
+    Content: 
+    AsJson: '{"name":"Aunt Dellie","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":36,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      commoner","with":"Aunt Dellie","flags":"i"}}},"hasToken":true}'
+    DataHash: 97af1a5cccde7ff93b2a3c4eb55c9b4d

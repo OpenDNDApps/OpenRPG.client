@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Large well-made tapestry (Legion of Dusk)
   AsJson: '{"name":"Large well-made tapestry (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: a51bf7f29af848c799f62f0086ac1414
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Large well-made tapestry (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Large well-made tapestry (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: a51bf7f29af848c799f62f0086ac1414

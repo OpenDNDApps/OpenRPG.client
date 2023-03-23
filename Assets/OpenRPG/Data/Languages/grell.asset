@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grell","source":"MM","page":172,"typicalSpeakers":["{@creature
     Grell||grells}"]}'
   DataHash: da0ee3d78d8bd83fd1933013d6578eae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grell
+    Content: 
+    AsJson: '{"name":"Grell","source":"MM","page":172,"typicalSpeakers":["{@creature
+      Grell||grells}"]}'
+    DataHash: da0ee3d78d8bd83fd1933013d6578eae

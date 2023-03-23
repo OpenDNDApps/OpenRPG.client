@@ -20,3 +20,14 @@ MonoBehaviour:
     reach 5th level ({@dice 2d4}), 11th level ({@dice 3d4}), and 17th level ({@dice
     4d4})."],"scalingLevelDice":{"label":"necrotic damage","scaling":{"1":"1d4","5":"2d4","11":"3d4","17":"4d4"}},"damageInflict":["necrotic"],"conditionInflict":["prone"],"savingThrow":["constitution"],"miscTags":["SCL","SGT"],"areaTags":["ST"]}'
   DataHash: 524c84c2fefa137056a148e52c5ad068
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sapping Sting
+    Content: 
+    AsJson: '{"name":"Sapping Sting","source":"EGW","page":189,"level":0,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      sap the vitality of one creature you can see in range. The target must succeed
+      on a Constitution saving throw or take {@damage 1d4} necrotic damage and fall
+      {@condition prone}.","This spell''s damage increases by {@dice 1d4} when you
+      reach 5th level ({@dice 2d4}), 11th level ({@dice 3d4}), and 17th level ({@dice
+      4d4})."],"scalingLevelDice":{"label":"necrotic damage","scaling":{"1":"1d4","5":"2d4","11":"3d4","17":"4d4"}},"damageInflict":["necrotic"],"conditionInflict":["prone"],"savingThrow":["constitution"],"miscTags":["SCL","SGT"],"areaTags":["ST"]}'
+    DataHash: 524c84c2fefa137056a148e52c5ad068

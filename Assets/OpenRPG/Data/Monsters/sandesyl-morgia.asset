@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sandesyl Morgia","isNpc":true,"source":"HotDQ","page":81,"otherSources":[{"source":"ToD","page":98}],"_copy":{"name":"Vampire","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     vampire","with":"Sandesyl","flags":"i"}}},"hasToken":true}'
   DataHash: af0c0946e7a10a823930947c9635f198
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sandesyl Morgia
+    Content: 
+    AsJson: '{"name":"Sandesyl Morgia","isNpc":true,"source":"HotDQ","page":81,"otherSources":[{"source":"ToD","page":98}],"_copy":{"name":"Vampire","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      vampire","with":"Sandesyl","flags":"i"}}},"hasToken":true}'
+    DataHash: af0c0946e7a10a823930947c9635f198

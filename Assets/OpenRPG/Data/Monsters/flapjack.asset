@@ -20,3 +20,14 @@ MonoBehaviour:
     mage hand}","{@spell minor illusion}"],"daily":{"1e":["{@spell magic missile}","{@spell
     unseen servant}"]},"ability":"int","displayAs":"action"}],"damageTagsSpell":["O"],"spellcastingTags":["O"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 7633fc462ebf1d2f6b55b71622055a93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flapjack
+    Content: 
+    AsJson: '{"name":"Flapjack","isNpc":true,"isNamedCreature":true,"source":"LoX","page":13,"_copy":{"name":"Flumph","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      flumph","with":"Flapjack","flags":"i"}}},"spellcasting":[{"name":"Spellcasting","headerEntries":["Flapjack
+      casts one of the following spells, requiring no material components and using
+      Intelligence as the spellcasting ability (spell save {@dc 12}):"],"will":["{@spell
+      mage hand}","{@spell minor illusion}"],"daily":{"1e":["{@spell magic missile}","{@spell
+      unseen servant}"]},"ability":"int","displayAs":"action"}],"damageTagsSpell":["O"],"spellcastingTags":["O"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 7633fc462ebf1d2f6b55b71622055a93

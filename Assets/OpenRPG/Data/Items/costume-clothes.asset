@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Costume Clothes
   AsJson: '{"name":"Costume Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":500}'
   DataHash: 0318fc5bcff976277ce2e772e1c2ce11
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Costume Clothes
+    Content: 
+    AsJson: '{"name":"Costume Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":500}'
+    DataHash: 0318fc5bcff976277ce2e772e1c2ce11

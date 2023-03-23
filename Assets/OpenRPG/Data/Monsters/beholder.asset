@@ -112,3 +112,107 @@ MonoBehaviour:
     one 10-foot-square panel)\"}]}],\"source\":\"VGM\",\"page\":12,\"_version\":{\"name\":\"Beholder
     (Variant Abilities)\",\"addAs\":\"trait\"}}],\"environment\":[\"underdark\"],\"soundClip\":{\"type\":\"internal\",\"path\":\"bestiary/beholder.mp3\"},\"senseTags\":[\"SD\"],\"languageTags\":[\"DS\",\"U\"],\"damageTags\":[\"N\",\"O\",\"P\"],\"miscTags\":[\"AOE\",\"MW\"],\"conditionInflict\":[\"charmed\",\"frightened\",\"paralyzed\",\"petrified\",\"restrained\",\"unconscious\"],\"conditionInflictLegendary\":[\"grappled\"],\"hasToken\":true,\"hasFluff\":true,\"hasFluffImages\":true}"
   DataHash: f6683463cc28c6a4a6b9a10447c468f5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Beholder
+    Content: 
+    AsJson: "{\"name\":\"Beholder\",\"group\":[\"Beholders\"],\"source\":\"MM\",\"page\":28,\"otherSources\":[{\"source\":\"ToA\"},{\"source\":\"WDMM\"},{\"source\":\"GoS\"},{\"source\":\"ERLW\"},{\"source\":\"EGW\"},{\"source\":\"TCE\"},{\"source\":\"CM\"},{\"source\":\"JttRC\"},{\"source\":\"LoX\"},{\"source\":\"KftGV\"}],\"size\":[\"L\"],\"type\":\"aberration\",\"alignment\":[\"L\",\"E\"],\"ac\":[{\"ac\":18,\"from\":[\"natural
+      armor\"]}],\"hp\":{\"average\":180,\"formula\":\"19d10 + 76\"},\"speed\":{\"walk\":0,\"fly\":{\"number\":20,\"condition\":\"(hover)\"},\"canHover\":true},\"str\":10,\"dex\":14,\"con\":18,\"int\":17,\"wis\":15,\"cha\":17,\"save\":{\"int\":\"+8\",\"wis\":\"+7\",\"cha\":\"+8\"},\"skill\":{\"perception\":\"+12\"},\"senses\":[\"darkvision
+      120 ft.\"],\"passive\":22,\"conditionImmune\":[\"prone\"],\"languages\":[\"Deep
+      Speech\",\"Undercommon\"],\"cr\":{\"cr\":\"13\",\"lair\":\"14\"},\"trait\":[{\"name\":\"Antimagic
+      Cone\",\"entries\":[\"The beholder's central eye creates an area of antimagic,
+      as in the {@spell antimagic field} spell, in a 150-foot cone. At the start
+      of each of its turns, the beholder decides which way the cone faces and whether
+      the cone is active. The area works against the beholder's own eye rays.\"]}],\"action\":[{\"name\":\"Bite\",\"entries\":[\"{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}14 ({@damage 4d6}) piercing
+      damage.\"]},{\"name\":\"Eye Rays\",\"entries\":[\"The beholder shoots three
+      of the following magical eye rays at random (reroll duplicates), choosing one
+      to three targets it can see within 120 feet of it:\",{\"type\":\"list\",\"style\":\"list-hang-notitle\",\"items\":[{\"type\":\"item\",\"name\":\"1.
+      Charm Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must succeed
+      on a {@dc 16} Wisdom saving throw or be {@condition charmed} by the beholder
+      for 1 hour, or until the beholder harms the creature.\"},{\"type\":\"item\",\"name\":\"2.
+      Paralyzing Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must
+      succeed on a {@dc 16} Constitution saving throw or be {@condition paralyzed}
+      for 1 minute. The target can repeat the saving throw at the end of each of
+      its turns, ending the effect on itself on a success.\"},{\"type\":\"item\",\"name\":\"3.
+      Fear Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must succeed
+      on a {@dc 16} Wisdom saving throw or be {@condition frightened} for 1 minute.
+      The target can repeat the saving throw at the end of each of its turns, ending
+      the effect on itself on a success.\"},{\"type\":\"item\",\"name\":\"4. Slowing
+      Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must succeed on
+      a {@dc 16} Dexterity saving throw. On a failed save, the target's speed is
+      halved for 1 minute. In addition, the creature can't take reactions, and it
+      can take either an action or a bonus action on its turn, not both. The creature
+      can repeat the saving throw at the end of each of its turns, ending the effect
+      on itself on a success.\"},{\"type\":\"item\",\"name\":\"5. Enervation Ray\",\"style\":\"italic\",\"entry\":\"The
+      targeted creature must make a {@dc 16} Constitution saving throw, taking 36
+      ({@damage 8d8}) necrotic damage on a failed save, or half as much damage on
+      a successful one.\"},{\"type\":\"item\",\"name\":\"6. Telekinetic Ray\",\"style\":\"italic\",\"entries\":[\"If
+      the target is a creature, it must succeed on a {@dc 16} Strength saving throw
+      or the beholder moves it up to 30 feet in any direction. It is {@condition
+      restrained} by the ray's telekinetic grip until the start of the beholder's
+      next turn or until the beholder is {@condition incapacitated}.\",\"If the target
+      is an object weighing 300 pounds or less that isn't being worn or carried,
+      it is moved up to 30 feet in any direction. The beholder can also exert fine
+      control on objects with this ray, such as manipulating a simple tool or opening
+      a door or a container.\"]},{\"type\":\"item\",\"name\":\"7. Sleep Ray\",\"style\":\"italic\",\"entry\":\"The
+      targeted creature must succeed on a {@dc 16} Wisdom saving throw or fall asleep
+      and remain {@condition unconscious} for 1 minute. The target awakens if it
+      takes damage or another creature takes an action to wake it. This ray has no
+      effect on constructs and undead.\"},{\"type\":\"item\",\"name\":\"8. Petrification
+      Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must make a {@dc
+      16} Dexterity saving throw. On a failed save, the creature begins to turn to
+      stone and is {@condition restrained}. It must repeat the saving throw at the
+      end of its next turn. On a success, the effect ends. On a failure, the creature
+      is {@condition petrified} until freed by the  {@spell greater restoration}
+      spell or other magic.\"},{\"type\":\"item\",\"name\":\"9. Disintegration Ray\",\"style\":\"italic\",\"entries\":[\"If
+      the target is a creature, it must succeed on a {@dc 16} Dexterity saving throw
+      or take 45 ({@damage 10d8}) force damage. If this damage reduces the creature
+      to 0 hit points, its body becomes a pile of fine gray dust.\",\"If the target
+      is a Large or smaller nonmagical object or creation of magical force, it is
+      disintegrated without a saving throw. If the target is a Huge or larger object
+      or creation of magical force, this ray disintegrates a 10-foot cube of it.\"]},{\"type\":\"item\",\"name\":\"10.
+      Death Ray\",\"style\":\"italic\",\"entry\":\"The targeted creature must succeed
+      on a {@dc 16} Dexterity saving throw or take 55 ({@damage 10d10}) necrotic
+      damage. The target dies if the ray reduces it to 0 hit points.\"}]}]}],\"legendaryHeader\":[\"The
+      beholder can take 3 legendary actions, using the Eye Ray option below. It can
+      take only one legendary action at a time and only at the end of another creature's
+      turn. The beholder regains spent legendary actions at the start of its turn.\"],\"legendary\":[{\"name\":\"Eye
+      Ray\",\"entries\":[\"The beholder uses one random eye ray.\"]}],\"legendaryGroup\":{\"name\":\"Beholder\",\"source\":\"MM\"},\"variant\":[{\"type\":\"inset\",\"name\":\"Variant
+      Abilities\",\"entries\":[\"When a beholder's dream-imagination runs wild, the
+      result can be an offspring that has an unusual or unique set of abilities.
+      Rather than the standard powers of a beholder's central eye and eyestalks,
+      the creature has one or more variant abilities\u2014guaranteed to surprise
+      any enemies who thought they knew what they were getting themselves into.\",\"This
+      section provides several alternative spell effects for a beholder's eye. Each
+      of these effects is designed to be of the same power level as the one it replaces,
+      enabling you to create a custom beholder without altering the monster's challenge
+      rating. As another option, you can switch any of the damaging eye rays in the
+      {@book Monster Manual|MM} to an effect with a different damage type, such as
+      replacing the enervation ray with a combustion ray that deals fire damage instead
+      of necrotic damage.\",\"Unless otherwise indicated, an alternative ability
+      has the same range as the eye ray it is replacing, and it affects only one
+      creature per use (even if the ability is based on a spell that normally affects
+      an area or multiple targets). The saving throw for an alternative ability uses
+      the same DC and the same ability score as the spell the eye ray is based on.\",{\"type\":\"list\",\"style\":\"list-hang-notitle\",\"items\":[{\"type\":\"item\",\"name\":\"Antimagic
+      Cone:\",\"entry\":\"{@spell mirage arcane}, {@spell power word stun} (affecting
+      the weakest non-{@condition stunned} target in the cone each round)\"},{\"type\":\"item\",\"name\":\"Charm
+      Ray:\",\"entry\":\"{@spell banishment} (1 minute), {@spell confusion} (1 minute)\"},{\"type\":\"item\",\"name\":\"Death
+      Ray:\",\"entry\":\"{@spell circle of death} (10-foot-radius sphere; 4d6 necrotic
+      damage to all creatures in the area), {@spell feeblemind}\"},{\"type\":\"item\",\"name\":\"Disintegration
+      Ray:\",\"entry\":\"{@spell chain lightning} (primary target takes 6d8 lightning
+      damage; two secondary targets within 30 feet of the primary target take 3d8
+      lightning damage each), {@spell eyebite} (sickened effect; 1 minute)\"},{\"type\":\"item\",\"name\":\"Enervation
+      Ray:\",\"entry\":\"{@spell create undead} (usable regardless of the time of
+      day), {@spell polymorph} (1 minute)\"},{\"type\":\"item\",\"name\":\"Fear Ray:\",\"entry\":\"{@spell
+      gaseous form} (self or willing creature only), {@spell moonbeam}\"},{\"type\":\"item\",\"name\":\"Paralyzing
+      Ray:\",\"entry\":\"{@spell modify memory}, {@spell silence} (1 minute)\"},{\"type\":\"item\",\"name\":\"Petrification
+      Ray:\",\"entry\":\"{@spell Otto's irresistible dance} (1 minute), {@spell wall
+      of ice} (1 minute; one 10-foot-square panel)\"},{\"type\":\"item\",\"name\":\"Sleep
+      Ray:\",\"entry\":\"{@spell blindness/deafness}, {@spell misty step} (self or
+      willing creature only)\"},{\"type\":\"item\",\"name\":\"Slowing Ray:\",\"entry\":\"{@spell
+      bestow curse} (1 minute), {@spell sleet storm} (one 10-foot-cube)\"},{\"type\":\"item\",\"name\":\"Telekinesis
+      Ray:\",\"entry\":\"{@spell geas} (1 hour), {@spell wall of force} (1 minute;
+      one 10-foot-square panel)\"}]}],\"source\":\"VGM\",\"page\":12,\"_version\":{\"name\":\"Beholder
+      (Variant Abilities)\",\"addAs\":\"trait\"}}],\"environment\":[\"underdark\"],\"soundClip\":{\"type\":\"internal\",\"path\":\"bestiary/beholder.mp3\"},\"senseTags\":[\"SD\"],\"languageTags\":[\"DS\",\"U\"],\"damageTags\":[\"N\",\"O\",\"P\"],\"miscTags\":[\"AOE\",\"MW\"],\"conditionInflict\":[\"charmed\",\"frightened\",\"paralyzed\",\"petrified\",\"restrained\",\"unconscious\"],\"conditionInflictLegendary\":[\"grappled\"],\"hasToken\":true,\"hasFluff\":true,\"hasFluffImages\":true}"
+    DataHash: f6683463cc28c6a4a6b9a10447c468f5

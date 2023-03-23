@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cudgel Ironsmile","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":58,"_copy":{"name":"Veteran","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the veteran","with":"Cudgel","flags":"i"}}},"alignment":["N"],"hasToken":true}'
   DataHash: 47dfd4c8a66e0aabaee55db39b7ba585
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cudgel Ironsmile
+    Content: 
+    AsJson: '{"name":"Cudgel Ironsmile","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":58,"_copy":{"name":"Veteran","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the veteran","with":"Cudgel","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+    DataHash: 47dfd4c8a66e0aabaee55db39b7ba585

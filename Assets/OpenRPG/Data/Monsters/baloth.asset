@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Baloth
   AsJson: '{"name":"Baloth","source":"PSZ","page":33,"_copy":{"name":"Triceratops","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"triceratops","with":"baloth"}}},"hasToken":true}'
   DataHash: fc04192fb68e580717dd8e26f4868238
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baloth
+    Content: 
+    AsJson: '{"name":"Baloth","source":"PSZ","page":33,"_copy":{"name":"Triceratops","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"triceratops","with":"baloth"}}},"hasToken":true}'
+    DataHash: fc04192fb68e580717dd8e26f4868238

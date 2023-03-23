@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Isendraug","isNpc":true,"isNamedCreature":true,"source":"SKT","page":164,"_copy":{"name":"Adult
     White Dragon","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 119afa2e765bc2178170ccdf6b2cd570
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Isendraug
+    Content: 
+    AsJson: '{"name":"Isendraug","isNpc":true,"isNamedCreature":true,"source":"SKT","page":164,"_copy":{"name":"Adult
+      White Dragon","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 119afa2e765bc2178170ccdf6b2cd570

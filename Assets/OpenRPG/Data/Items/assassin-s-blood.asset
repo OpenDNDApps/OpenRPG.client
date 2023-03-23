@@ -19,3 +19,13 @@ MonoBehaviour:
     poisoned} for 24 hours. On a successful save, the creature takes half damage
     and isn''t {@condition poisoned}."],"poisonTypes":["ingested"]}'
   DataHash: 9ffcbceaf7ebc80b887c42a64277a18a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Assassin's Blood
+    Content: 
+    AsJson: '{"name":"Assassin''s Blood","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":15000,"poison":true,"entries":["A
+      creature subjected to this poison must make a DC 10 Constitution saving throw.
+      On a failed save, it takes 6 ({@damage 1d12}) poison damage and is {@condition
+      poisoned} for 24 hours. On a successful save, the creature takes half damage
+      and isn''t {@condition poisoned}."],"poisonTypes":["ingested"]}'
+    DataHash: 9ffcbceaf7ebc80b887c42a64277a18a

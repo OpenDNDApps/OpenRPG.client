@@ -20,3 +20,14 @@ MonoBehaviour:
     liquid around it. Shaking the bottle fails to interrupt this process."],"attachedSpells":["enlarge/reduce"],"lootTables":["Magic
     Item Table C"]}'
   DataHash: d50c73a9d69795a1da446459720ab3bf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Diminution
+    Content: 
+    AsJson: '{"name":"Potion of Diminution","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"rare","entries":["When
+      you drink this potion, you gain the \"reduce\" effect of the {@spell enlarge/reduce}
+      spell for {@dice 1d4} hours (no concentration required). The red in the potion''s
+      liquid continuously contracts to a tiny bead and then expands to color the
+      clear liquid around it. Shaking the bottle fails to interrupt this process."],"attachedSpells":["enlarge/reduce"],"lootTables":["Magic
+      Item Table C"]}'
+    DataHash: d50c73a9d69795a1da446459720ab3bf

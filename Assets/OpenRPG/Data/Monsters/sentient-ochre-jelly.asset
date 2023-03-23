@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sentient Ochre Jelly","source":"TftYP","page":158,"_copy":{"name":"Ochre
     Jelly","source":"MM","_mod":{"conditionImmune":{"mode":"removeArr","items":"charmed"}}},"int":5,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
   DataHash: 1e548e7fc30067d4c79f14e77ce732da
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sentient Ochre Jelly
+    Content: 
+    AsJson: '{"name":"Sentient Ochre Jelly","source":"TftYP","page":158,"_copy":{"name":"Ochre
+      Jelly","source":"MM","_mod":{"conditionImmune":{"mode":"removeArr","items":"charmed"}}},"int":5,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
+    DataHash: 1e548e7fc30067d4c79f14e77ce732da

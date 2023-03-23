@@ -18,3 +18,12 @@ MonoBehaviour:
     pint of the liquid into fresh, cold drinking water. The bead has no effect on
     magical liquids or harmful substances such as poison."]}'
   DataHash: e1ff8a061a3163ec4bb5fcd6e24cc3e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bead of Refreshment
+    Content: 
+    AsJson: '{"name":"Bead of Refreshment","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+      spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to
+      a pint of the liquid into fresh, cold drinking water. The bead has no effect
+      on magical liquids or harmful substances such as poison."]}'
+    DataHash: e1ff8a061a3163ec4bb5fcd6e24cc3e2

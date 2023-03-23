@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amber Golem","source":"CoS","page":186,"_copy":{"name":"Stone
     Golem","source":"MM"},"hasToken":true,"hasFluffImages":true}'
   DataHash: 37b4333cb5ec78b96fac42e6ce66ade0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amber Golem
+    Content: 
+    AsJson: '{"name":"Amber Golem","source":"CoS","page":186,"_copy":{"name":"Stone
+      Golem","source":"MM"},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 37b4333cb5ec78b96fac42e6ce66ade0

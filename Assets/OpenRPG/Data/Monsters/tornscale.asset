@@ -17,3 +17,11 @@ MonoBehaviour:
     lizardfolk","with":"Tornscale","flags":"i"}}},"hp":{"average":36,"formula":"4d8
     + 4"},"hasToken":true}'
   DataHash: a904c3b84f0400bce6bd64ee4cc01ad7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tornscale
+    Content: 
+    AsJson: '{"name":"Tornscale","isNpc":true,"source":"PotA","page":90,"_copy":{"name":"Lizardfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      lizardfolk","with":"Tornscale","flags":"i"}}},"hp":{"average":36,"formula":"4d8
+      + 4"},"hasToken":true}'
+    DataHash: a904c3b84f0400bce6bd64ee4cc01ad7

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Signal Whistle
   AsJson: '{"name":"Signal Whistle","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":5}'
   DataHash: 94c504af774a9e90e4d38c72f322227e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Signal Whistle
+    Content: 
+    AsJson: '{"name":"Signal Whistle","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":5}'
+    DataHash: 94c504af774a9e90e4d38c72f322227e

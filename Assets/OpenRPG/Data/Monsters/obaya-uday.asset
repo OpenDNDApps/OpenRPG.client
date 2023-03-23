@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Obaya Uday","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Obaya","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: 0596adf1536153159f78d97e86cb5502
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Obaya Uday
+    Content: 
+    AsJson: '{"name":"Obaya Uday","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Obaya","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 0596adf1536153159f78d97e86cb5502

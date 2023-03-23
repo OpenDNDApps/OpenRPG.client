@@ -19,3 +19,13 @@ MonoBehaviour:
     surface. Any creature that can hear the chime can determine the distance the
     coin dropped based on the tone."]}'
   DataHash: 9ffb6bc33b5a8daa1f8a0540c7020b87
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Coin of Delving
+    Content: 
+    AsJson: '{"name":"Coin of Delving","source":"EGW","page":266,"rarity":"common","wondrous":true,"entries":["This
+      scintillating copper coin sheds dim light in a 5-foot radius. If dropped a
+      distance greater than 5 feet, the coin issues a melodious ringing sound when
+      it hits a surface. Any creature that can hear the chime can determine the distance
+      the coin dropped based on the tone."]}'
+    DataHash: 9ffb6bc33b5a8daa1f8a0540c7020b87

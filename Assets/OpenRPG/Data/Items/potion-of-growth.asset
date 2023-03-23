@@ -20,3 +20,14 @@ MonoBehaviour:
     it and then contracts. Shaking the bottle fails to interrupt this process."],"attachedSpells":["enlarge/reduce"],"lootTables":["Magic
     Item Table B"]}'
   DataHash: a3612efc5cdeef398e3e9f5b2bd42cfc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Growth
+    Content: 
+    AsJson: '{"name":"Potion of Growth","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["When
+      you drink this potion, you gain the \"enlarge\" effect of the {@spell enlarge/reduce}
+      spell for {@dice 1d4} hours (no concentration required). The red in the potion''s
+      liquid continuously expands from a tiny bead to color the clear liquid around
+      it and then contracts. Shaking the bottle fails to interrupt this process."],"attachedSpells":["enlarge/reduce"],"lootTables":["Magic
+      Item Table B"]}'
+    DataHash: a3612efc5cdeef398e3e9f5b2bd42cfc

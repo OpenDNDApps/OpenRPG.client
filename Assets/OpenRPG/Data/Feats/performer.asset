@@ -24,6 +24,21 @@ MonoBehaviour:
     Perception}) and Intelligence ({@skill Investigation}) checks with disadvantage
     until you stop performing."]}]}'
   DataHash: 0f1e114cc858cc30cd98c5b67d46cb33
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Performer
+    Content: 
+    AsJson: '{"name":"Performer","source":"UAFeatsForSkills","page":3,"ability":[{"cha":1}],"skillProficiencies":[{"performance":true}],"entries":["You
+      master performance so that you can command any stage. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency in the {@skill Performance}
+      skill. If you are already proficient in the skill, you add double your proficiency
+      bonus to checks you make with it.","While performing, you can try to distract
+      one humanoid you can see who can see and hear you. Make a Charisma ({@skill
+      Performance}) check contested by the humanoid''s Wisdom ({@skill Insight})
+      check. If your check succeeds, you grab the humanoid''s attention enough that
+      it makes Wisdom ({@skill Perception}) and Intelligence ({@skill Investigation})
+      checks with disadvantage until you stop performing."]}]}'
+    DataHash: 0f1e114cc858cc30cd98c5b67d46cb33
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

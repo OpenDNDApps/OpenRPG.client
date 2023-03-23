@@ -26,3 +26,20 @@ MonoBehaviour:
     with wererat lycanthropy."]}}]}},"alignment":["N","E"],"languages":["Common","Giant
     Owl"],"traitTags":["Keen Senses","Sneak Attack"],"languageTags":["C","GI","OTH"],"damageTags":["P"],"hasToken":true}'
   DataHash: 28759dee56266e174e2583bfb233601b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Andras
+    Content: 
+    AsJson: '{"name":"Andras","isNpc":true,"source":"IMR","page":31,"_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Andras","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Keen
+      Hearing and Sight","entries":["Andras advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing or sight."]}},"action":[{"mode":"replaceArr","replace":"Shortsword","items":{"name":"Shortsword","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing
+      damage, and the target must succeed on a {@dc 11} Constitution saving throw
+      or be cursed with wererat lycanthropy."]}},{"mode":"replaceArr","replace":"Light
+      Crossbow","items":{"name":"Light Crossbow","entries":["{@atk rw} {@hit 6} to
+      hit, range 80/320 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage,
+      and the target must succeed on a {@dc 11} Constitution saving throw or be cursed
+      with wererat lycanthropy."]}}]}},"alignment":["N","E"],"languages":["Common","Giant
+      Owl"],"traitTags":["Keen Senses","Sneak Attack"],"languageTags":["C","GI","OTH"],"damageTags":["P"],"hasToken":true}'
+    DataHash: 28759dee56266e174e2583bfb233601b

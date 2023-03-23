@@ -20,3 +20,14 @@ MonoBehaviour:
     it.","The awakened shrub is friendly toward you. Absent commands from you, it
     does nothing."]}'
   DataHash: 5dc3ec738a0beca3fec54d848db2ffba
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pot of Awakening
+    Content: 
+    AsJson: '{"name":"Pot of Awakening","source":"XGE","page":138,"otherSources":[{"source":"IMR","page":95}],"tier":"minor","rarity":"common","wondrous":true,"entries":["If
+      you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30
+      days, the shrub magically transforms into an {@creature awakened shrub} at
+      the end of that time. When the shrub awakens, its roots break the pot, destroying
+      it.","The awakened shrub is friendly toward you. Absent commands from you,
+      it does nothing."]}'
+    DataHash: 5dc3ec738a0beca3fec54d848db2ffba

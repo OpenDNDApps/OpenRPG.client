@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Iron Pot","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200,"entries":["An
     iron pot holds 1 gallon of liquid."]}'
   DataHash: 32d3abb4cd37eb620fbbf6f35d955ad9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Iron Pot
+    Content: 
+    AsJson: '{"name":"Iron Pot","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200,"entries":["An
+      iron pot holds 1 gallon of liquid."]}'
+    DataHash: 32d3abb4cd37eb620fbbf6f35d955ad9

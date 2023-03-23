@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
   m_Name: servo-crafting
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Servo Crafting
   AsJson: "{\"name\":\"Servo Crafting\",\"source\":\"PSK\",\"page\":13,\"prerequisite\":[{\"ability\":[{\"int\":13}]}],\"additionalSpells\":[{\"innate\":{\"_\":{\"ritual\":[\"find
     familiar\"]}}}],\"entries\":[\"You are skilled in the creation of {@creature
     servo|psk|servos}\u2014tiny constructs that function as personal assistants.
@@ -26,6 +26,23 @@ MonoBehaviour:
     take the {@action Attack} action, you can forgo one of your own attacks to allow
     your servo familiar to make one attack of its own.\"]}"
   DataHash: e7fe34d58b9fad2ab4907f21daaf6763
-  Sources: {fileID: 0}
-  SourcePages: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: "{\"name\":\"Servo Crafting\",\"source\":\"PSK\",\"page\":13,\"prerequisite\":[{\"ability\":[{\"int\":13}]}],\"additionalSpells\":[{\"innate\":{\"_\":{\"ritual\":[\"find
+      familiar\"]}}}],\"entries\":[\"You are skilled in the creation of {@creature
+      servo|psk|servos}\u2014tiny constructs that function as personal assistants.
+      You can cast the {@spell find familiar} spell as a ritual, creating a {@creature
+      servo|psk} to serve as your familiar instead of an animal. A {@creature servo|psk}'s
+      statistics appear in the \\\"Artifact Creatures\\\" section of this document.
+      In every other way, a servo familiar functions as described in the {@spell
+      find familiar} spell.\",\"You can communicate telepathically with your servo
+      familiar and perceive through its senses as long as you are on the same plane
+      of existence. You can speak through your servo in your own voice.\",\"Additionally,
+      when you take the {@action Attack} action, you can forgo one of your own attacks
+      to allow your servo familiar to make one attack of its own.\"]}"
+    DataHash: e7fe34d58b9fad2ab4907f21daaf6763
+  Sources: {fileID: 11400000, guid: 253e76f7e581bdc4092643f29efad308, type: 2}
+  SourcePages: 13
   Prerequisites: []

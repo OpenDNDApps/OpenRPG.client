@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mirran","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Storm
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Mirran","flags":"i"}}},"alignment":["N","E"],"ac":[12],"skill":{"arcana":"+8","athletics":"+14","deception":"+9","history":"+8","perception":"+9","performance":"+9"},"damageTags":["B","L","S"],"hasToken":true}'
   DataHash: a051b7bd7d09f97b454cef45d4c09423
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mirran
+    Content: 
+    AsJson: '{"name":"Mirran","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Storm
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Mirran","flags":"i"}}},"alignment":["N","E"],"ac":[12],"skill":{"arcana":"+8","athletics":"+14","deception":"+9","history":"+8","perception":"+9","performance":"+9"},"damageTags":["B","L","S"],"hasToken":true}'
+    DataHash: a051b7bd7d09f97b454cef45d4c09423

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tonalli","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":110,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Tonalli","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
   DataHash: e38d93872b0f4720c9c9eb8d4ef4184e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tonalli
+    Content: 
+    AsJson: '{"name":"Tonalli","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":110,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Tonalli","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
+    DataHash: e38d93872b0f4720c9c9eb8d4ef4184e

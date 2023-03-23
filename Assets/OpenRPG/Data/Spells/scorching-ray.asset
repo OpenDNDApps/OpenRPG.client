@@ -20,3 +20,14 @@ MonoBehaviour:
     Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
     level or higher, you create one additional ray for each slot level above 2nd."]}],"damageInflict":["fire"],"spellAttack":["R"],"areaTags":["ST","MT"]}'
   DataHash: ec873a72d2a55ca8befd65f0df84bc43
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scorching Ray
+    Content: 
+    AsJson: '{"name":"Scorching Ray","source":"PHB","page":273,"srd":true,"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      create three rays of fire and hurl them at targets within range. You can hurl
+      them at one target or several.","Make a ranged spell attack for each ray. On
+      a hit, the target takes {@damage 2d6} fire damage."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, you create one additional ray for each slot level above 2nd."]}],"damageInflict":["fire"],"spellAttack":["R"],"areaTags":["ST","MT"]}'
+    DataHash: ec873a72d2a55ca8befd65f0df84bc43

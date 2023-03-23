@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade totem with diamond eyes (River Heralds)
   AsJson: '{"name":"Jade totem with diamond eyes (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: 2c26f102cfe4612d632e2e8f5573684f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade totem with diamond eyes (River Heralds)
+    Content: 
+    AsJson: '{"name":"Jade totem with diamond eyes (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: 2c26f102cfe4612d632e2e8f5573684f

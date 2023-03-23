@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sun amulet on a beaded chain (Sun Empire)
   AsJson: '{"name":"Sun amulet on a beaded chain (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: d32ec5f4850996049cc89f008cada685
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sun amulet on a beaded chain (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Sun amulet on a beaded chain (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: d32ec5f4850996049cc89f008cada685

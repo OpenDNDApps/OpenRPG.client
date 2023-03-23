@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Skeletal Polar Bear","source":"IMR","page":34,"_copy":{"name":"Polar
     Bear","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
   DataHash: bb08089319bc63661c3f9989baedcb1e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeletal Polar Bear
+    Content: 
+    AsJson: '{"name":"Skeletal Polar Bear","source":"IMR","page":34,"_copy":{"name":"Polar
+      Bear","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
+    DataHash: bb08089319bc63661c3f9989baedcb1e

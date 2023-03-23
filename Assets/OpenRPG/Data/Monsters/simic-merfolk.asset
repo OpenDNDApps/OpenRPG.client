@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Simic Merfolk
   AsJson: '{"name":"Simic Merfolk","source":"GGR","page":187,"_copy":{"name":"Merfolk","source":"MM"},"speed":{"walk":30,"swim":40},"languages":["Common","Merfolk"],"languageTags":["C"],"hasToken":true}'
   DataHash: f02e510d7fc45b029993f9fc97e9a5ef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Simic Merfolk
+    Content: 
+    AsJson: '{"name":"Simic Merfolk","source":"GGR","page":187,"_copy":{"name":"Merfolk","source":"MM"},"speed":{"walk":30,"swim":40},"languages":["Common","Merfolk"],"languageTags":["C"],"hasToken":true}'
+    DataHash: f02e510d7fc45b029993f9fc97e9a5ef

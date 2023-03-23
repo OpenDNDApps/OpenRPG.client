@@ -18,3 +18,12 @@ MonoBehaviour:
     magic. You can''t be targeted by such magic or perceived through magical scrying
     sensors."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
   DataHash: 73fd7b50e5c33390471d9ee648b36710
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amulet of Proof against Detection and Location
+    Content: 
+    AsJson: '{"name":"Amulet of Proof against Detection and Location","source":"DMG","page":150,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"weight":1,"entries":["While
+      wearing this amulet, you are hidden from {@filter divination|spells|school=D}
+      magic. You can''t be targeted by such magic or perceived through magical scrying
+      sensors."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+    DataHash: 73fd7b50e5c33390471d9ee648b36710

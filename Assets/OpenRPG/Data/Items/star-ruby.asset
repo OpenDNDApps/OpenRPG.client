@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Star Ruby","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     translucent ruby with white star-shaped center gemstone."]}'
   DataHash: 74859ea708bca6080fc9c0797c976dc4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Star Ruby
+    Content: 
+    AsJson: '{"name":"Star Ruby","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      translucent ruby with white star-shaped center gemstone."]}'
+    DataHash: 74859ea708bca6080fc9c0797c976dc4

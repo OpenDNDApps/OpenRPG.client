@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Pearl","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
     opaque lustrous white, yellow, or pink gemstone."]}'
   DataHash: 70b87695653f5fe7cc86503f4c8b46a7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pearl
+    Content: 
+    AsJson: '{"name":"Pearl","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
+      opaque lustrous white, yellow, or pink gemstone."]}'
+    DataHash: 70b87695653f5fe7cc86503f4c8b46a7

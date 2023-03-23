@@ -23,3 +23,17 @@ MonoBehaviour:
     you cast this spell using a spell slot of 2nd level or higher, the damage increases
     by {@scaledamage 2d10|1-9|1d10} for each slot level above 1st."]}],"damageInflict":["fire"],"savingThrow":["dexterity"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 76ecf03f33f39d01bcef593ed9026300
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hellish Rebuke
+    Content: 
+    AsJson: '{"name":"Hellish Rebuke","source":"PHB","page":250,"srd":true,"level":1,"school":"V","time":[{"number":1,"unit":"reaction","condition":"which
+      you take in response to being damaged by a creature within 60 feet of you that
+      you can see"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      point your finger, and the creature that damaged you is momentarily surrounded
+      by hellish flames. The creature must make a Dexterity saving throw. It takes
+      {@damage 2d10} fire damage on a failed save, or half as much damage on a successful
+      one."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+      you cast this spell using a spell slot of 2nd level or higher, the damage increases
+      by {@scaledamage 2d10|1-9|1d10} for each slot level above 1st."]}],"damageInflict":["fire"],"savingThrow":["dexterity"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 76ecf03f33f39d01bcef593ed9026300

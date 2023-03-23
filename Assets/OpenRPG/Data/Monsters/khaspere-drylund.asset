@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Khaspere Drylund","isNpc":true,"source":"SKT","page":216,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Khaspere","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[11],"languages":["Common","Dwarvish","Elvish"],"languageTags":["C","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: dd9a85bb005a528eb7fdfebf2368833a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Khaspere Drylund
+    Content: 
+    AsJson: '{"name":"Khaspere Drylund","isNpc":true,"source":"SKT","page":216,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Khaspere","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[11],"languages":["Common","Dwarvish","Elvish"],"languageTags":["C","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: dd9a85bb005a528eb7fdfebf2368833a

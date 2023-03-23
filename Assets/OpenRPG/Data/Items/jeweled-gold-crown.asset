@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jeweled gold crown
   AsJson: '{"name":"Jeweled gold crown","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: 0fe769d47f98eba3c7b9c0d2ad487315
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jeweled gold crown
+    Content: 
+    AsJson: '{"name":"Jeweled gold crown","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: 0fe769d47f98eba3c7b9c0d2ad487315

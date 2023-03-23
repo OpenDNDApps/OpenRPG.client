@@ -21,3 +21,15 @@ MonoBehaviour:
     the vessel can''t be moved by any means. Touching the token to the vessel again
     ends the effect. When the effect ends, the token disappears."]}]}'
   DataHash: e88607d235d7659ec8233b14fd14bf23
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Quaal's Feather Token, Anchor
+    Content: 
+    AsJson: '{"name":"Quaal''s Feather Token, Anchor","source":"DMG","page":188,"srd":"Feather
+      Token, Anchor","tier":"minor","rarity":"rare","wondrous":true,"entries":["This
+      tiny object looks like a feather. Different types of feather tokens exist,
+      each with a different single-use effect.",{"name":"Anchor","type":"entries","entries":["You
+      can use an action to touch the token to a boat or ship. For the next 24 hours,
+      the vessel can''t be moved by any means. Touching the token to the vessel again
+      ends the effect. When the effect ends, the token disappears."]}]}'
+    DataHash: e88607d235d7659ec8233b14fd14bf23

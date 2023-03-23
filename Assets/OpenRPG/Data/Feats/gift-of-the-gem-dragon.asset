@@ -23,6 +23,20 @@ MonoBehaviour:
     number of times equal to your proficiency bonus, and you regain all expended
     uses when you finish a long rest."]}]}'
   DataHash: d951a5f06c11d698e90702cd8bce5333
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gift of the Gem Dragon
+    Content: 
+    AsJson: '{"name":"Gift of the Gem Dragon","source":"UA2021DraconicOptions","page":5,"ability":[{"choose":{"from":["int","wis","cha"],"amount":1}}],"entries":["You''ve
+      manifested some of the power of gem dragons, granting you the following benefits:",{"type":"list","items":["When
+      you take damage from a creature that is within 10 feet of you, you can use
+      your reaction to emanate telekinetic energy. The creature that dealt damage
+      to you must succeed on a Strength saving throw (DC equals 8 + your proficiency
+      bonus + the ability modifier of the score increased by this feat) or take {@dice
+      2d8} force damage and be pushed 10 feet away from you. You can use this reaction
+      a number of times equal to your proficiency bonus, and you regain all expended
+      uses when you finish a long rest."]}]}'
+    DataHash: d951a5f06c11d698e90702cd8bce5333
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites: []

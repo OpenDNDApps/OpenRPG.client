@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Amulet of dinosaur feathers (Sun Empire)
   AsJson: '{"name":"Amulet of dinosaur feathers (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: ebb3ec40ae07504eb8df38764452d318
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amulet of dinosaur feathers (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Amulet of dinosaur feathers (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: ebb3ec40ae07504eb8df38764452d318

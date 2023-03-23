@@ -17,3 +17,12 @@ MonoBehaviour:
     Pureblood","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the champion","with":"Sekelok","flags":"i"}}},"alignment":["N","E"],"ac":[{"ac":18,"from":["natural
     armor"]}],"traitTags":["Magic Resistance"],"senseTags":["D"],"languageTags":["AB","C","DR"],"damageTagsSpell":["I"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 44cdc371cc6d83b1560dd343132f382e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sekelok
+    Content: 
+    AsJson: '{"name":"Sekelok","isNpc":true,"isNamedCreature":true,"source":"ToA","page":120,"_copy":{"name":"Champion","source":"VGM","_trait":{"name":"Yuan-ti
+      Pureblood","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      champion","with":"Sekelok","flags":"i"}}},"alignment":["N","E"],"ac":[{"ac":18,"from":["natural
+      armor"]}],"traitTags":["Magic Resistance"],"senseTags":["D"],"languageTags":["AB","C","DR"],"damageTagsSpell":["I"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 44cdc371cc6d83b1560dd343132f382e

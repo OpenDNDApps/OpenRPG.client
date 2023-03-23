@@ -22,3 +22,16 @@ MonoBehaviour:
     3d10}), and 17th level ({@damage 4d10})."],"scalingLevelDice":{"label":"piercing
     damage","scaling":{"1":"1d10","5":"2d10","11":"3d10","17":"4d10"}},"damageInflict":["piercing","slashing"],"spellAttack":["M"],"miscTags":["SCL"],"areaTags":["ST"]}'
   DataHash: b2b150236c224f05b2db65f42112b5fb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Primal Savagery (UA)
+    Content: 
+    AsJson: '{"name":"Primal Savagery (UA)","source":"UAStarterSpells","page":3,"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["Your
+      teeth or fingernails lengthen and sharpen. You choose which. Make a melee spell
+      attack against one creature within 5 feet of you. On a hit, the target takes
+      {@damage 1d10} piercing or slashing damage (your choice). After you make the
+      attack, your teeth or fingernails return to normal.","The spell''s damage increases
+      by {@dice 1d10} when you reach 5th level ({@damage 2d10}), 11th level ({@damage
+      3d10}), and 17th level ({@damage 4d10})."],"scalingLevelDice":{"label":"piercing
+      damage","scaling":{"1":"1d10","5":"2d10","11":"3d10","17":"4d10"}},"damageInflict":["piercing","slashing"],"spellAttack":["M"],"miscTags":["SCL"],"areaTags":["ST"]}'
+    DataHash: b2b150236c224f05b2db65f42112b5fb

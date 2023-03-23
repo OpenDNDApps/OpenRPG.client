@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blue Quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
     transparent pale blue gemstone."]}'
   DataHash: e2a2c357152e4ad089bac1734be548d4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blue Quartz
+    Content: 
+    AsJson: '{"name":"Blue Quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
+      transparent pale blue gemstone."]}'
+    DataHash: e2a2c357152e4ad089bac1734be548d4

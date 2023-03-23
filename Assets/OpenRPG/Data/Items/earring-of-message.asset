@@ -19,3 +19,13 @@ MonoBehaviour:
     use an action to expend 1 charge and cast the {@spell message} spell. The earring
     regains {@dice 1d4 + 1} expended charges daily at dawn."],"attachedSpells":["message"],"hasFluffImages":true}'
   DataHash: a0a5c5165dd018786a5482412c9fdd48
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Earring of Message
+    Content: 
+    AsJson: '{"name":"Earring of Message","source":"CRCotN","page":212,"rarity":"common","wondrous":true,"recharge":"dawn","rechargeAmount":"{@dice
+      1d4 + 1}","charges":5,"entries":["The blue crystal of this earring is wrapped
+      with delicate copper wire. The earring has 5 charges. While wearing it, you
+      can use an action to expend 1 charge and cast the {@spell message} spell. The
+      earring regains {@dice 1d4 + 1} expended charges daily at dawn."],"attachedSpells":["message"],"hasFluffImages":true}'
+    DataHash: a0a5c5165dd018786a5482412c9fdd48

@@ -24,6 +24,21 @@ MonoBehaviour:
     you have from another source but can be used only on Metamagic). You regain all
     spent sorcery points when you finish a long rest."]}]}'
   DataHash: 52dab076d9bfaad026d65ebf96b29fd4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Metamagic Adept
+    Content: 
+    AsJson: '{"name":"Metamagic Adept","source":"UA2020Feats","page":2,"prerequisite":[{"spellcasting2020":true}],"entries":["You''ve
+      learned how to exert your will on your spells to alter how they function. You
+      gain the following benefits:",{"type":"list","items":["You learn two {@filter
+      Metamagic|optionalfeatures|Feature Type=MM} options of your choice from the
+      sorcerer class. You can use only one Metamagic option on a spell when you cast
+      it, unless the option says otherwise. Whenever you gain a level, you can replace
+      one of your Metamagic options with another one from the sorcerer class.","You
+      gain 2 sorcery points to spend on Metamagic (these points are added to any
+      sorcery points you have from another source but can be used only on Metamagic).
+      You regain all spent sorcery points when you finish a long rest."]}]}'
+    DataHash: 52dab076d9bfaad026d65ebf96b29fd4
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

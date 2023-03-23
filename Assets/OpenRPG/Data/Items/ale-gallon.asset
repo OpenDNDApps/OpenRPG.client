@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ale (Gallon)
   AsJson: '{"name":"Ale (Gallon)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":20}'
   DataHash: bcd04e0c604f238ce1928e0ac48095bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ale (Gallon)
+    Content: 
+    AsJson: '{"name":"Ale (Gallon)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":20}'
+    DataHash: bcd04e0c604f238ce1928e0ac48095bb

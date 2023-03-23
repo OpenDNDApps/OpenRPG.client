@@ -24,3 +24,19 @@ MonoBehaviour:
     attack you. If you meet the requirement, they are friendly to you and your companions
     and follow your commands."],"lootTables":["Magic Item Table I"]}'
   DataHash: 8841eae3ba6edafe2b261a0a16bb4811
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Horn of Valhalla, Iron
+    Content: 
+    AsJson: '{"name":"Horn of Valhalla, Iron","source":"DMG","page":175,"srd":true,"tier":"major","rarity":"legendary","wondrous":true,"weight":2,"entries":["You
+      can use an action to blow this horn. In response, warrior spirits from the
+      plane of Ysgard appear within 60 feet of you. These spirits use the {@creature
+      berserker} statistics. They return to Ysgard after 1 hour or when they drop
+      to 0 hit points. Once you use the horn, it can''t be used again until 7 days
+      have passed.","The iron horn summons {@dice 5d4 + 5} {@creature berserker||berserkers}.
+      To use the iron horn, you must be proficient with all martial weapons.","If
+      you blow the horn without meeting its requirement, the summoned {@creature
+      berserker||berserkers} attack you. If you meet the requirement, they are friendly
+      to you and your companions and follow your commands."],"lootTables":["Magic
+      Item Table I"]}'
+    DataHash: 8841eae3ba6edafe2b261a0a16bb4811

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Osvaldo Cassalanter","isNpc":true,"source":"WDH","page":124,"_copy":{"name":"Chain
     Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the devil","with":"Osvaldo","flags":"i"}}},"hasToken":true}'
   DataHash: 05079f31787c504488eccd7c3f1b0316
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Osvaldo Cassalanter
+    Content: 
+    AsJson: '{"name":"Osvaldo Cassalanter","isNpc":true,"source":"WDH","page":124,"_copy":{"name":"Chain
+      Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the devil","with":"Osvaldo","flags":"i"}}},"hasToken":true}'
+    DataHash: 05079f31787c504488eccd7c3f1b0316

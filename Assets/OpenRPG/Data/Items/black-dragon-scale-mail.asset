@@ -25,3 +25,19 @@ MonoBehaviour:
     closest black dragon within 30 miles of you. This special action can''t be used
     again until the next dawn."]}'
   DataHash: f7dfdae4ac719529960020767948cc8c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Dragon Scale Mail
+    Content: 
+    AsJson: '{"name":"Black Dragon Scale Mail","source":"DMG","page":165,"srd":true,"type":"MA","resist":["acid"],"tier":"major","rarity":"very
+      rare","reqAttune":true,"weight":45,"ac":14,"bonusAc":"+1","bonusSavingThrow":"+1","stealth":true,"entries":["Dragon
+      scale mail is made of the scales of one kind of dragon. Sometimes dragons collect
+      their cast-off scales and gift them to humanoids. Other times, hunters carefully
+      skin and preserve the hide of a dead dragon. In either case, dragon scale mail
+      is highly valued. While wearing this armor, you gain a +1 bonus to AC, you
+      have advantage on saving throws against the Frightful Presence and breath weapons
+      of dragons, and you have resistance to acid damage.","Additionally, you can
+      focus your senses as an action to magically discern the distance and direction
+      to the closest black dragon within 30 miles of you. This special action can''t
+      be used again until the next dawn."]}'
+    DataHash: f7dfdae4ac719529960020767948cc8c

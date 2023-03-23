@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold
   AsJson: '{"name":"Gold","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":5000}'
   DataHash: 1d62172785d4382f893e429a2f8ae279
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold
+    Content: 
+    AsJson: '{"name":"Gold","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":5000}'
+    DataHash: 1d62172785d4382f893e429a2f8ae279

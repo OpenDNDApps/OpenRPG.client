@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Drum
   AsJson: '{"name":"Drum","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":3,"value":600}'
   DataHash: e6347692d87a0d8206031d7a72881819
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drum
+    Content: 
+    AsJson: '{"name":"Drum","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":3,"value":600}'
+    DataHash: e6347692d87a0d8206031d7a72881819

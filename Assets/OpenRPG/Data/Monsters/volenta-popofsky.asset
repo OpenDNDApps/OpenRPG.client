@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Volenta Popofsky","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
     Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Volenta","flags":"i"}}},"hasToken":true}'
   DataHash: 89296348bc905b10340359db1281b3a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Volenta Popofsky
+    Content: 
+    AsJson: '{"name":"Volenta Popofsky","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
+      Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Volenta","flags":"i"}}},"hasToken":true}'
+    DataHash: 89296348bc905b10340359db1281b3a5

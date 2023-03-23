@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Umber Hulk","source":"MM","page":292,"typicalSpeakers":["{@creature
     Umber Hulk||umber hulks}"]}'
   DataHash: 112d2dc8698553392a5a547e01f6b7db
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Umber Hulk
+    Content: 
+    AsJson: '{"name":"Umber Hulk","source":"MM","page":292,"typicalSpeakers":["{@creature
+      Umber Hulk||umber hulks}"]}'
+    DataHash: 112d2dc8698553392a5a547e01f6b7db

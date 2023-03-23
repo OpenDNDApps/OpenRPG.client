@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Camel
   AsJson: '{"name":"Camel","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":5000,"carryingCapacity":480,"speed":50}'
   DataHash: 4ad836f9f69ee3435411877162e2cdd3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Camel
+    Content: 
+    AsJson: '{"name":"Camel","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":5000,"carryingCapacity":480,"speed":50}'
+    DataHash: 4ad836f9f69ee3435411877162e2cdd3

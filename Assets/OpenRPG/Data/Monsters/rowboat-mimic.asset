@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Rowboat Mimic","source":"WDMM","page":76,"_copy":{"name":"Mimic","source":"MM"},"size":["L"],"hp":{"average":67,"formula":"9d10
     + 18"},"hasToken":true}'
   DataHash: fdebb5e85e55c33daad0450f86dc9213
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rowboat Mimic
+    Content: 
+    AsJson: '{"name":"Rowboat Mimic","source":"WDMM","page":76,"_copy":{"name":"Mimic","source":"MM"},"size":["L"],"hp":{"average":67,"formula":"9d10
+      + 18"},"hasToken":true}'
+    DataHash: fdebb5e85e55c33daad0450f86dc9213

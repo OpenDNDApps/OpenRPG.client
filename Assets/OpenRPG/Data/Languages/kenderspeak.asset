@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Kenderspeak
   AsJson: '{"name":"Kenderspeak","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Goodlund","Hylo"],"script":"Common"}'
   DataHash: 0a3119f377351fcab73a97e4a4549aa0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kenderspeak
+    Content: 
+    AsJson: '{"name":"Kenderspeak","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Goodlund","Hylo"],"script":"Common"}'
+    DataHash: 0a3119f377351fcab73a97e4a4549aa0

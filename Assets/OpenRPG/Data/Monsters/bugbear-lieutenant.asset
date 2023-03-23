@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d8 + 2}) slashing
     damage, or 13 ({@damage 2d10 + 2}) slashing damage if used with both hands."]}}}},"damageTags":["P","S"],"miscTags":["MW","RCH","RW","THW"],"hasToken":true}'
   DataHash: f3b6c983dd117b21178c400ee18709d7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bugbear Lieutenant
+    Content: 
+    AsJson: '{"name":"Bugbear Lieutenant","source":"TftYP","page":173,"_copy":{"name":"Bugbear","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Morningstar","items":{"name":"Longsword","entries":["{@atk
+      mw} {@hit 4} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d8 + 2}) slashing
+      damage, or 13 ({@damage 2d10 + 2}) slashing damage if used with both hands."]}}}},"damageTags":["P","S"],"miscTags":["MW","RCH","RW","THW"],"hasToken":true}'
+    DataHash: f3b6c983dd117b21178c400ee18709d7

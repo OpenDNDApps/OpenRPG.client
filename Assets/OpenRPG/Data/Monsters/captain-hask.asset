@@ -17,3 +17,11 @@ MonoBehaviour:
     Draconian","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
     draconian","with":"Hask","flags":"i"}}},"hasToken":true}'
   DataHash: f2df76493db2adcf0ad4d22228e0a25f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Captain Hask
+    Content: 
+    AsJson: '{"name":"Captain Hask","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":148,"_copy":{"name":"Aurak
+      Draconian","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      draconian","with":"Hask","flags":"i"}}},"hasToken":true}'
+    DataHash: f2df76493db2adcf0ad4d22228e0a25f

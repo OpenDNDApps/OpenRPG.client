@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Goat
   AsJson: '{"name":"Goat","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":100}'
   DataHash: 95464c1409c6a4cd7df93d84b1309781
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Goat
+    Content: 
+    AsJson: '{"name":"Goat","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":100}'
+    DataHash: 95464c1409c6a4cd7df93d84b1309781

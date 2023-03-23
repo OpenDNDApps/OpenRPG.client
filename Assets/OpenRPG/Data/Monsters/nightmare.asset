@@ -24,3 +24,18 @@ MonoBehaviour:
     nightmare and up to three willing creatures within 5 feet of it magically enter
     the Ethereal Plane from the Material Plane, or vice versa."]}],"soundClip":{"type":"internal","path":"bestiary/nightmare.mp3"},"traitTags":["Illumination"],"languageTags":["AB","C","CS","I"],"damageTags":["B","F"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: bf4932657ed5cb177e70f20a12732b7e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nightmare
+    Content: 
+    AsJson: '{"name":"Nightmare","source":"MM","page":235,"srd":true,"otherSources":[{"source":"BGDIA"},{"source":"IMR"},{"source":"MOT"},{"source":"CoS"},{"source":"CRCotN"}],"size":["L"],"type":"fiend","alignment":["N","E"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":68,"formula":"8d10 + 24"},"speed":{"walk":60,"fly":90},"str":18,"dex":15,"con":16,"int":10,"wis":13,"cha":15,"passive":11,"immune":["fire"],"languages":["understands
+      Abyssal, Common, and Infernal but can''t speak "],"cr":"3","trait":[{"name":"Confer
+      Fire Resistance","entries":["The nightmare can grant resistance to fire damage
+      to anyone riding it."]},{"name":"Illumination","entries":["The nightmare sheds
+      bright light in a 10-foot radius and dim light for an additional 10 feet."]}],"action":[{"name":"Hooves","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning
+      damage plus 7 ({@damage 2d6}) fire damage."]},{"name":"Ethereal Stride","entries":["The
+      nightmare and up to three willing creatures within 5 feet of it magically enter
+      the Ethereal Plane from the Material Plane, or vice versa."]}],"soundClip":{"type":"internal","path":"bestiary/nightmare.mp3"},"traitTags":["Illumination"],"languageTags":["AB","C","CS","I"],"damageTags":["B","F"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: bf4932657ed5cb177e70f20a12732b7e

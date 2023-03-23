@@ -23,3 +23,18 @@ MonoBehaviour:
     damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
     one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/allosaurus.mp3"},"traitTags":["Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 6d51b757a8274bc74fb8a974e3c50ed0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Allosaurus
+    Content: 
+    AsJson: '{"name":"Allosaurus","group":["Dinosaurs"],"source":"MM","page":79,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"WDH"},{"source":"JttRC"},{"source":"KftGV"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":51,"formula":"6d10 + 18"},"speed":{"walk":60},"str":19,"dex":13,"con":17,"int":2,"wis":12,"cha":5,"skill":{"perception":"+5"},"passive":15,"cr":"2","trait":[{"name":"Pounce","entries":["If
+      the allosaurus moves at least 30 feet straight toward a creature and then hits
+      it with a claw attack on the same turn, that target must succeed on a {@dc
+      13} Strength saving throw or be knocked {@condition prone}. If the target is
+      {@condition prone}, the allosaurus can make one bite attack against it as a
+      bonus action."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 6} to
+      hit, reach 5 ft., one target. {@h}15 ({@damage 2d10 + 4}) piercing damage."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing
+      damage."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/allosaurus.mp3"},"traitTags":["Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 6d51b757a8274bc74fb8a974e3c50ed0

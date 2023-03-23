@@ -17,6 +17,14 @@ MonoBehaviour:
     have trained to master the use of heavy armor, gaining the following benefits:",{"type":"list","items":["You
     gain proficiency with heavy armor."]}]}'
   DataHash: aadff59bbf77948e3f5d4e9dc6e373f4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Heavily Armored
+    Content: 
+    AsJson: '{"name":"Heavily Armored","source":"PHB","page":167,"prerequisite":[{"proficiency":[{"armor":"medium"}]}],"ability":[{"str":1}],"armorProficiencies":[{"heavy":true}],"entries":["You
+      have trained to master the use of heavy armor, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency with heavy armor."]}]}'
+    DataHash: aadff59bbf77948e3f5d4e9dc6e373f4
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@creature
     ogre||ogres}","{@filter giants|bestiary|type=giant}"],"script":"Dwarvish","hasFluffImages":true}'
   DataHash: 6b3ad2ed7118dd91d2c6305f1aff7b84
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant
+    Content: 
+    AsJson: '{"name":"Giant","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@creature
+      ogre||ogres}","{@filter giants|bestiary|type=giant}"],"script":"Dwarvish","hasFluffImages":true}'
+    DataHash: 6b3ad2ed7118dd91d2c6305f1aff7b84

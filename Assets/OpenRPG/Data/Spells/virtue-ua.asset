@@ -19,3 +19,13 @@ MonoBehaviour:
     spellcasting ability modifier. The temporary hit points are lost when the spell
     ends."],"miscTags":["THP"],"areaTags":["ST"]}'
   DataHash: 5ced9bdb70d39f751747e6aa8e3f9e80
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Virtue (UA)
+    Content: 
+    AsJson: '{"name":"Virtue (UA)","source":"UAStarterSpells","page":5,"level":0,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+      touch one creature, imbuing it with vitality. If the target has at least 1
+      hit point, it gains a number of temporary hit points equal to {@dice 1d4} +
+      your spellcasting ability modifier. The temporary hit points are lost when
+      the spell ends."],"miscTags":["THP"],"areaTags":["ST"]}'
+    DataHash: 5ced9bdb70d39f751747e6aa8e3f9e80

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Two Dry Cloaks","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"OoW","page":162,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Tabaxi","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Two Dry Cloaks","flags":"i"}}},"damageTags":["P","S"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: cbdf266ee9030024a0c5e31303407d9d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Two Dry Cloaks
+    Content: 
+    AsJson: '{"name":"Two Dry Cloaks","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"OoW","page":162,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Tabaxi","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Two Dry Cloaks","flags":"i"}}},"damageTags":["P","S"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: cbdf266ee9030024a0c5e31303407d9d

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Daelkyr","source":"ERLW","page":6,"type":"exotic","typicalSpeakers":["{@filter
     aberrations|bestiary|type=aberration|source=ERLW}","denizens of Khyber"],"script":"Daelkyr"}'
   DataHash: 224b51e14a368eb3e790fcb0be988b88
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Daelkyr
+    Content: 
+    AsJson: '{"name":"Daelkyr","source":"ERLW","page":6,"type":"exotic","typicalSpeakers":["{@filter
+      aberrations|bestiary|type=aberration|source=ERLW}","denizens of Khyber"],"script":"Daelkyr"}'
+    DataHash: 224b51e14a368eb3e790fcb0be988b88

@@ -17,3 +17,12 @@ MonoBehaviour:
     you are reduced to zero hit points while attuned to a band of loyalty, you instantly
     die. These rings are favored by spies who can''t afford to fall into enemy hands."]}'
   DataHash: 6318f25c34e9e9eb31805e581becca91
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Band of Loyalty
+    Content: 
+    AsJson: '{"name":"Band of Loyalty","source":"UAWGE","page":115,"type":"RG","rarity":"common","reqAttune":true,"entries":["If
+      you are reduced to zero hit points while attuned to a band of loyalty, you
+      instantly die. These rings are favored by spies who can''t afford to fall into
+      enemy hands."]}'
+    DataHash: 6318f25c34e9e9eb31805e581becca91

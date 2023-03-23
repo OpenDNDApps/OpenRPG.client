@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Waterskin","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"weightNote":"(full)","value":20,"entries":["A
     waterskin can hold up to 4 pints of liquid."]}'
   DataHash: ae3bb16818e94a32d978efff9065ace0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Waterskin
+    Content: 
+    AsJson: '{"name":"Waterskin","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"weightNote":"(full)","value":20,"entries":["A
+      waterskin can hold up to 4 pints of liquid."]}'
+    DataHash: ae3bb16818e94a32d978efff9065ace0

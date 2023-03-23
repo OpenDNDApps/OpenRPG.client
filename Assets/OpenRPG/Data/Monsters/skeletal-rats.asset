@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Skeletal Rats","source":"BGDIA","page":23,"_copy":{"name":"Swarm
     of Rats","source":"MM"},"type":{"type":"undead","swarmSize":"T"},"hasToken":true}'
   DataHash: cd67ec9a4c14dfccd81a81613327091b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeletal Rats
+    Content: 
+    AsJson: '{"name":"Skeletal Rats","source":"BGDIA","page":23,"_copy":{"name":"Swarm
+      of Rats","source":"MM"},"type":{"type":"undead","swarmSize":"T"},"hasToken":true}'
+    DataHash: cd67ec9a4c14dfccd81a81613327091b

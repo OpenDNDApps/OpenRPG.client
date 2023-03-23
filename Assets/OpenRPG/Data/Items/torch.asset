@@ -18,3 +18,12 @@ MonoBehaviour:
     for an additional 20 feet. If you make a melee attack with a burning torch and
     hit, it deals 1 fire damage."]}'
   DataHash: 31b34088f125f29d8bc71de8376f838f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Torch
+    Content: 
+    AsJson: '{"name":"Torch","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":1,"entries":["A
+      torch burns for 1 hour, providing bright light in a 20-foot radius and dim
+      light for an additional 20 feet. If you make a melee attack with a burning
+      torch and hit, it deals 1 fire damage."]}'
+    DataHash: 31b34088f125f29d8bc71de8376f838f

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bronze spyglass (Brazen Coalition)
   AsJson: '{"name":"Bronze spyglass (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 7f37b507a53bbfa04041b10e22fbd864
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bronze spyglass (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Bronze spyglass (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 7f37b507a53bbfa04041b10e22fbd864

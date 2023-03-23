@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Aarakocra","source":"MM","page":12,"typicalSpeakers":["{@creature
     aarakocra}"]}'
   DataHash: 4095bdd7d944341f63d7ddda1985676d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aarakocra
+    Content: 
+    AsJson: '{"name":"Aarakocra","source":"MM","page":12,"typicalSpeakers":["{@creature
+      aarakocra}"]}'
+    DataHash: 4095bdd7d944341f63d7ddda1985676d

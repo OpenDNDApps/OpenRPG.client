@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vi Aroon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":28,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Vi","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true}'
   DataHash: e311da8ad805bd66c5a3fd2f9ca9f4c6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vi Aroon
+    Content: 
+    AsJson: '{"name":"Vi Aroon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":28,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Vi","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true}'
+    DataHash: e311da8ad805bd66c5a3fd2f9ca9f4c6

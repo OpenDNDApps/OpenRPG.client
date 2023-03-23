@@ -19,3 +19,13 @@ MonoBehaviour:
     allow him to see {@condition invisible} creatures and objects as if they were
     visible."]}],"hasToken":true,"hasFluffImages":true}'
   DataHash: 6617397683af920cda8ff4d206de6086
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shedrak of the Eyes
+    Content: 
+    AsJson: '{"name":"Shedrak of the Eyes","isNpc":true,"source":"OotA","page":176,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Shedrak","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"trait":[{"name":"Eye
+      Tattoos","entries":["Shedrak has ten small eyes tattooed on his bald head that
+      allow him to see {@condition invisible} creatures and objects as if they were
+      visible."]}],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 6617397683af920cda8ff4d206de6086

@@ -17,6 +17,14 @@ MonoBehaviour:
     have trained to master the use of light armor, gaining the following benefits:",{"type":"list","items":["You
     gain proficiency with light armor."]}]}'
   DataHash: 61481eb604244517ed130055a8dc6118
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lightly Armored
+    Content: 
+    AsJson: '{"name":"Lightly Armored","source":"PHB","page":167,"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"armorProficiencies":[{"light":true}],"entries":["You
+      have trained to master the use of light armor, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency with light armor."]}]}'
+    DataHash: 61481eb604244517ed130055a8dc6118
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

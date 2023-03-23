@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mev Flintknapper","isNpc":true,"isNamedCreature":true,"source":"OotA","page":103,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Deep
     Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the veteran","with":"Mev","flags":"i"}}},"spellcastingTags":["CC","I"],"hasToken":true}'
   DataHash: b83a686539062a28904aef27468b1a60
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mev Flintknapper
+    Content: 
+    AsJson: '{"name":"Mev Flintknapper","isNpc":true,"isNamedCreature":true,"source":"OotA","page":103,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Deep
+      Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the veteran","with":"Mev","flags":"i"}}},"spellcastingTags":["CC","I"],"hasToken":true}'
+    DataHash: b83a686539062a28904aef27468b1a60

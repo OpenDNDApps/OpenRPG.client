@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold music box
   AsJson: '{"name":"Gold music box","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: aeff4eba7d0648f4cc04ebe69ed0c7af
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold music box
+    Content: 
+    AsJson: '{"name":"Gold music box","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: aeff4eba7d0648f4cc04ebe69ed0c7af

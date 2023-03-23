@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"White Dragon Cape","source":"TftYP","page":193,"type":"OTH","resist":["cold"],"rarity":"unknown
     (magic)","entries":["You have resistance to cold damage while wearing this cape."]}'
   DataHash: 68530d5cb92862621f97133dc3b23b79
+  DataByEdition:
+  - Edition: d&d5e
+    Title: White Dragon Cape
+    Content: 
+    AsJson: '{"name":"White Dragon Cape","source":"TftYP","page":193,"type":"OTH","resist":["cold"],"rarity":"unknown
+      (magic)","entries":["You have resistance to cold damage while wearing this
+      cape."]}'
+    DataHash: 68530d5cb92862621f97133dc3b23b79

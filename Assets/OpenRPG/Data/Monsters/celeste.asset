@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Celeste","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ghost","with":"Celeste","flags":"i"}}},"hasToken":true}'
   DataHash: 5357dd1f27b7f367722783846dcab177
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Celeste
+    Content: 
+    AsJson: '{"name":"Celeste","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Celeste","flags":"i"}}},"hasToken":true}'
+    DataHash: 5357dd1f27b7f367722783846dcab177

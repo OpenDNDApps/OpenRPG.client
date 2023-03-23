@@ -32,3 +32,26 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning
     damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/priest.mp3"},"languageTags":["X"],"damageTags":["B","R"],"damageTagsSpell":["N","O","R"],"spellcastingTags":["CC"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: e7bdde9586fcc663b0b9289c135dfad3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Priest
+    Content: 
+    AsJson: '{"name":"Priest","source":"MM","page":348,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"SDW"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"DSotDQ"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[{"ac":13,"from":["{@item chain shirt|phb}"]}],"hp":{"average":27,"formula":"5d8
+      + 5"},"speed":{"walk":30},"str":10,"dex":10,"con":12,"int":13,"wis":16,"cha":13,"skill":{"medicine":"+7","persuasion":"+3","religion":"+5"},"passive":13,"languages":["any
+      two languages"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 13}, {@hit 5} to hit with spell attacks). The priest has the following
+      cleric spells prepared:"],"spells":{"0":{"spells":["{@spell light}","{@spell
+      sacred flame}","{@spell thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell cure
+      wounds}","{@spell guiding bolt}","{@spell sanctuary}"]},"2":{"slots":3,"spells":["{@spell
+      lesser restoration}","{@spell spiritual weapon}"]},"3":{"slots":2,"spells":["{@spell
+      dispel magic}","{@spell spirit guardians}"]}},"ability":"wis"}],"trait":[{"name":"Divine
+      Eminence","entries":["As a bonus action, the priest can expend a spell slot
+      to cause its melee weapon attacks to magically deal an extra 10 ({@damage 3d6})
+      radiant damage to a target on a hit. This benefit lasts until the end of the
+      turn. If the priest expends a spell slot of 2nd level or higher, the extra
+      damage increases by {@dice 1d6} for each level above 1st."]}],"action":[{"name":"Mace","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning
+      damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/priest.mp3"},"languageTags":["X"],"damageTags":["B","R"],"damageTagsSpell":["N","O","R"],"spellcastingTags":["CC"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: e7bdde9586fcc663b0b9289c135dfad3

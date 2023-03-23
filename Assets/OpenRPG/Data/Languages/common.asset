@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Common","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
     humans|bestiary|type=humanoid|tag=any race;human}"],"script":"Common","fonts":["fonts/languages/PHB/Human/Harpers.ttf"]}'
   DataHash: 49a97f6de8fe22fa1e87637bdc8fcd29
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Common
+    Content: 
+    AsJson: '{"name":"Common","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
+      humans|bestiary|type=humanoid|tag=any race;human}"],"script":"Common","fonts":["fonts/languages/PHB/Human/Harpers.ttf"]}'
+    DataHash: 49a97f6de8fe22fa1e87637bdc8fcd29

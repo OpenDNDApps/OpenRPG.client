@@ -20,3 +20,14 @@ MonoBehaviour:
     pouch can hold up to \u2155 cubic foot or 6 pounds of gear.\"],\"containerCapacity\":{\"weight\":[6],\"item\":[{\"sling
     bullet|phb\":20,\"blowgun needle|phb\":50}]}}"
   DataHash: 85664be918ea29ab62e2524bb25e0fca
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pouch
+    Content: 
+    AsJson: "{\"name\":\"Pouch\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":1,\"value\":50,\"entries\":[\"A
+      cloth or leather pouch can hold up to 20 {@item sling bullet|phb|sling bullets}
+      or 50 {@item blowgun needle|phb|blowgun needles}, among other things. A compartmentalized
+      pouch for holding spell components is called a {@item component pouch|phb}.
+      A pouch can hold up to \u2155 cubic foot or 6 pounds of gear.\"],\"containerCapacity\":{\"weight\":[6],\"item\":[{\"sling
+      bullet|phb\":20,\"blowgun needle|phb\":50}]}}"
+    DataHash: 85664be918ea29ab62e2524bb25e0fca

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Arabelle
   AsJson: '{"name":"Arabelle","isNpc":true,"source":"CoS","page":38,"_copy":{"name":"Commoner","source":"MM","_mod":{"action":"remove"}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hp":{"average":2,"formula":"1d8"},"miscTags":[],"hasToken":true}'
   DataHash: 89c19b76bc122e686d3b4298af1fdad7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arabelle
+    Content: 
+    AsJson: '{"name":"Arabelle","isNpc":true,"source":"CoS","page":38,"_copy":{"name":"Commoner","source":"MM","_mod":{"action":"remove"}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hp":{"average":2,"formula":"1d8"},"miscTags":[],"hasToken":true}'
+    DataHash: 89c19b76bc122e686d3b4298af1fdad7

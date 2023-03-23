@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning
     damage."]}],"damageTags":["B"],"hasToken":true}'
   DataHash: 3f28f357e301b93be79d9837dea74198
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Padraich
+    Content: 
+    AsJson: '{"name":"Padraich","isNpc":true,"source":"PotA","page":170,"_copy":{"name":"Berserker","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      berserker","with":"Padraich","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"action":[{"name":"Maul","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning
+      damage."]}],"damageTags":["B"],"hasToken":true}'
+    DataHash: 3f28f357e301b93be79d9837dea74198

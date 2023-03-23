@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sabrina Kilgore (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     veteran","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 77ad88688eb7b82432d12fb2eb25aafe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sabrina Kilgore (Levels 9-11)
+    Content: 
+    AsJson: '{"name":"Sabrina Kilgore (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      veteran","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 77ad88688eb7b82432d12fb2eb25aafe

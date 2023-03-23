@@ -21,3 +21,15 @@ MonoBehaviour:
     for that score. The manual then loses its magic, but regains it in a century."],"lootTables":["Magic
     Item Table H"],"hasFluffImages":true}'
   DataHash: 0a3f31f84bb496b0055c53231362898c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tome of Clear Thought
+    Content: 
+    AsJson: '{"name":"Tome of Clear Thought","source":"DMG","page":208,"srd":true,"tier":"major","rarity":"very
+      rare","wondrous":true,"weight":5,"ability":{"int":2},"entries":["This book
+      contains memory and logic exercises, and its words are charged with magic.
+      If you spend 48 hours over a period of 6 days or fewer studying the book''s
+      contents and practicing its guidelines, your Intelligence score increases by
+      2, as does your maximum for that score. The manual then loses its magic, but
+      regains it in a century."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+    DataHash: 0a3f31f84bb496b0055c53231362898c

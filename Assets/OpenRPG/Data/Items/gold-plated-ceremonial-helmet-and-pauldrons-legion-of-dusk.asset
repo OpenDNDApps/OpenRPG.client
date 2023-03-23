@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)
   AsJson: '{"name":"Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 4144f3d8ba45843a17a16dfaf74f4709
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 4144f3d8ba45843a17a16dfaf74f4709

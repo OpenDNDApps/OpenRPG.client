@@ -17,3 +17,11 @@ MonoBehaviour:
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the assassin","with":"Obmi","flags":"i"},"action":{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Obmi
     makes three shortsword attacks."]}}}},"str":16,"cha":16,"hasToken":true,"hasFluffImages":true}'
   DataHash: edc50fc24f374b01ad621a97367ca28d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Obmi
+    Content: 
+    AsJson: '{"name":"Obmi","isNpc":true,"source":"TftYP","page":196,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the assassin","with":"Obmi","flags":"i"},"action":{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Obmi
+      makes three shortsword attacks."]}}}},"str":16,"cha":16,"hasToken":true,"hasFluffImages":true}'
+    DataHash: edc50fc24f374b01ad621a97367ca28d

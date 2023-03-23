@@ -20,3 +20,14 @@ MonoBehaviour:
     (1 day)|phb","quantity":2},"waterskin|phb",{"special":"alms box"},{"special":"block
     of incense","quantity":2},{"special":"censer"},{"special":"vestments"}]}'
   DataHash: 66ce651f9acb3ece5b614e82cb2f915f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Priest's Pack
+    Content: 
+    AsJson: '{"name":"Priest''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":24,"value":1900,"entries":["Includes:",{"type":"list","items":["a
+      {@item backpack|phb}","a {@item blanket|phb}","10 {@item candle|phb|candles}","a
+      {@item tinderbox|phb}","an alms box","2 blocks of incense","a censer","vestments","2
+      days of {@item Rations (1 day)|phb|rations}","a {@item waterskin|phb}."]}],"packContents":["backpack|phb","blanket|phb",{"item":"candle|phb","quantity":10},"tinderbox|phb",{"item":"rations
+      (1 day)|phb","quantity":2},"waterskin|phb",{"special":"alms box"},{"special":"block
+      of incense","quantity":2},{"special":"censer"},{"special":"vestments"}]}'
+    DataHash: 66ce651f9acb3ece5b614e82cb2f915f

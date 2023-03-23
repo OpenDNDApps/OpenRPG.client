@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vegepygmy","source":"VGM","page":196,"typicalSpeakers":["{@creature
     Vegepygmy|VGM|vegepygmies}","{@creature Vegepygmy Chief|VGM|vegepygmy chiefs}"]}'
   DataHash: 48095892a996161fed5a29c15db11033
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vegepygmy
+    Content: 
+    AsJson: '{"name":"Vegepygmy","source":"VGM","page":196,"typicalSpeakers":["{@creature
+      Vegepygmy|VGM|vegepygmies}","{@creature Vegepygmy Chief|VGM|vegepygmy chiefs}"]}'
+    DataHash: 48095892a996161fed5a29c15db11033

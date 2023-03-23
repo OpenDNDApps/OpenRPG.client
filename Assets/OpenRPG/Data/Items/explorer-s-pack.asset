@@ -20,3 +20,15 @@ MonoBehaviour:
     feet of hempen rope}"]}],"packContents":["backpack|phb","bedroll|phb","mess kit|phb","tinderbox|phb",{"item":"torch|phb","quantity":10},{"item":"rations
     (1 day)|phb","quantity":10},"waterskin|phb","hempen rope (50 feet)|phb"]}'
   DataHash: c791d408aa2900859643db638875638d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Explorer's Pack
+    Content: 
+    AsJson: '{"name":"Explorer''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":59,"value":1000,"entries":["Includes:",{"type":"list","items":["a
+      {@item backpack|phb}","a {@item bedroll|phb}","a {@item mess kit|phb}","a {@item
+      tinderbox|phb}","10 {@item torch|phb|torches}","10 days of {@item Rations (1
+      day)|phb|rations}","a {@item waterskin|phb}","{@item Hempen Rope (50 feet)|phb|50
+      feet of hempen rope}"]}],"packContents":["backpack|phb","bedroll|phb","mess
+      kit|phb","tinderbox|phb",{"item":"torch|phb","quantity":10},{"item":"rations
+      (1 day)|phb","quantity":10},"waterskin|phb","hempen rope (50 feet)|phb"]}'
+    DataHash: c791d408aa2900859643db638875638d

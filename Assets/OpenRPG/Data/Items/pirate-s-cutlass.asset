@@ -18,3 +18,12 @@ MonoBehaviour:
     serrated edge. It grants its wielder advantage on Charisma ({@skill Intimidation})
     checks when brandished."]}'
   DataHash: 217f7c3e3d9030673e87d64054395a0e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pirate's Cutlass
+    Content: 
+    AsJson: '{"name":"Pirate''s Cutlass","source":"XMtS","page":19,"rarity":"unknown
+      (magic)","entries":["This {@item +1 shortsword} is a terrifying weapon with
+      a serrated edge. It grants its wielder advantage on Charisma ({@skill Intimidation})
+      checks when brandished."]}'
+    DataHash: 217f7c3e3d9030673e87d64054395a0e

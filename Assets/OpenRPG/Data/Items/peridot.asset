@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Peridot","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
     transparent rich olive green gemstone."]}'
   DataHash: b765d0c4755a16a7505917782010573a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Peridot
+    Content: 
+    AsJson: '{"name":"Peridot","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+      transparent rich olive green gemstone."]}'
+    DataHash: b765d0c4755a16a7505917782010573a

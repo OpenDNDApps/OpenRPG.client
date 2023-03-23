@@ -31,3 +31,26 @@ MonoBehaviour:
     the salamander can automatically hit the target with its tail, and the salamander
     can''t make tail attacks against other targets."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/salamander.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["IG"],"damageTags":["B","F","P"],"miscTags":["MW","RCH","RW","THW"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 045b3dfeda9540e81e534f191076559d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Salamander
+    Content: 
+    AsJson: '{"name":"Salamander","source":"MM","page":266,"srd":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"BGDIA"},{"source":"JttRC"},{"source":"DoSI"},{"source":"KftGV"}],"size":["L"],"type":"elemental","alignment":["N","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":90,"formula":"12d10 + 24"},"speed":{"walk":30},"str":18,"dex":14,"con":15,"int":11,"wis":10,"cha":12,"senses":["darkvision
+      60 ft."],"passive":10,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["fire"],"vulnerable":["cold"],"languages":["Ignan"],"cr":"5","trait":[{"name":"Heated
+      Body","entries":["A creature that touches the salamander or hits it with a
+      melee attack while within 5 feet of it takes 7 ({@damage 2d6}) fire damage."]},{"name":"Heated
+      Weapons","entries":["Any metal melee weapon the salamander wields deals an
+      extra 3 ({@damage 1d6}) fire damage on a hit (included in the attack)."]}],"action":[{"name":"Multiattack","entries":["The
+      salamander makes two attacks: one with its spear and one with its tail."]},{"name":"Spear","entries":["{@atk
+      mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}11
+      ({@damage 2d6 + 4}) piercing damage, or 13 ({@damage 2d8 + 4}) piercing damage
+      if used with two hands to make a melee attack, plus 3 ({@damage 1d6}) fire
+      damage."]},{"name":"Tail","entries":["{@atk mw} {@hit 7} to hit, reach 10 ft.,
+      one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage plus 7 ({@damage
+      2d6}) fire damage, and the target is {@condition grappled} (escape {@dc 14}).
+      Until this grapple ends, the target is {@condition restrained}, the salamander
+      can automatically hit the target with its tail, and the salamander can''t make
+      tail attacks against other targets."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/salamander.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["IG"],"damageTags":["B","F","P"],"miscTags":["MW","RCH","RW","THW"],"conditionInflict":["grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 045b3dfeda9540e81e534f191076559d

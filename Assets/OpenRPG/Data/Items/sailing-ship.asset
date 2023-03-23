@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sailing Ship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":1000000,"crew":20,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":2,"capPassenger":20,"capCargo":100,"seeAlsoVehicle":["Sailing
     Ship"]}'
   DataHash: 33cf669f80f3d22e67b7b8e762856fa1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sailing Ship
+    Content: 
+    AsJson: '{"name":"Sailing Ship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":1000000,"crew":20,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":2,"capPassenger":20,"capCargo":100,"seeAlsoVehicle":["Sailing
+      Ship"]}'
+    DataHash: 33cf669f80f3d22e67b7b8e762856fa1

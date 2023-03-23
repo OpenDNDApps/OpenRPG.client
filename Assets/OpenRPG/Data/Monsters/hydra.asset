@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hydra
   AsJson: '{"name":"Hydra","source":"PSK","page":30,"_copy":{"name":"Hydra","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: adc63c2b69a43fafdb9ab43941762a2f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hydra
+    Content: 
+    AsJson: '{"name":"Hydra","source":"PSK","page":30,"_copy":{"name":"Hydra","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: adc63c2b69a43fafdb9ab43941762a2f

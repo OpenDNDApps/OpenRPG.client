@@ -19,3 +19,13 @@ MonoBehaviour:
     1 mile of you. The tarrasque disappears when it drops to 0 hit points and is
     hostile toward all creatures other than itself."]}'
   DataHash: add62793a3e5c10a9b1468427004e3f6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scroll of Tarrasque Summoning
+    Content: 
+    AsJson: '{"name":"Scroll of Tarrasque Summoning","source":"IDRotF","page":315,"type":"SC","rarity":"legendary","entries":["Using
+      an action to read the scroll causes the {@creature tarrasque} (see the creature''s
+      entry in the Monster Manual) to appear in an unoccupied space you can see within
+      1 mile of you. The tarrasque disappears when it drops to 0 hit points and is
+      hostile toward all creatures other than itself."]}'
+    DataHash: add62793a3e5c10a9b1468427004e3f6

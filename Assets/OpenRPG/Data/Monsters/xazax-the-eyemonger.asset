@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Xazax the Eyemonger","isNpc":true,"source":"OotA","page":142,"_copy":{"name":"Beholder","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     beholder","with":"Xazax","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: c133e38a6b6286a8074fce420e9c5685
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Xazax the Eyemonger
+    Content: 
+    AsJson: '{"name":"Xazax the Eyemonger","isNpc":true,"source":"OotA","page":142,"_copy":{"name":"Beholder","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      beholder","with":"Xazax","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: c133e38a6b6286a8074fce420e9c5685

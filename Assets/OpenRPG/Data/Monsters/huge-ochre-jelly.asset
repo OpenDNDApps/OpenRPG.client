@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Huge Ochre Jelly","source":"TftYP","page":225,"_copy":{"name":"Ochre
     Jelly","source":"MM"},"size":["H"],"hp":{"average":51,"formula":"6d12 + 12"},"hasToken":true}'
   DataHash: 9da7a1a602ca429186a6cd497da68e81
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Huge Ochre Jelly
+    Content: 
+    AsJson: '{"name":"Huge Ochre Jelly","source":"TftYP","page":225,"_copy":{"name":"Ochre
+      Jelly","source":"MM"},"size":["H"],"hp":{"average":51,"formula":"6d12 + 12"},"hasToken":true}'
+    DataHash: 9da7a1a602ca429186a6cd497da68e81

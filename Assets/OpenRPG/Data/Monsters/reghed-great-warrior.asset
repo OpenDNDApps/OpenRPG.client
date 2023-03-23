@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reghed Great Warrior","source":"IDRotF","page":152,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"gladiator","with":"great
     warrior"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"hasToken":true,"hasFluff":true}'
   DataHash: e514ae24e5ecdc2b6c5e265b5ffd25f3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reghed Great Warrior
+    Content: 
+    AsJson: '{"name":"Reghed Great Warrior","source":"IDRotF","page":152,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"gladiator","with":"great
+      warrior"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"hasToken":true,"hasFluff":true}'
+    DataHash: e514ae24e5ecdc2b6c5e265b5ffd25f3

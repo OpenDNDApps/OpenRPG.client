@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Shovel
   AsJson: '{"name":"Shovel","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":200}'
   DataHash: 3fb36e7e4f141aca389140243c12cf7d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shovel
+    Content: 
+    AsJson: '{"name":"Shovel","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":200}'
+    DataHash: 3fb36e7e4f141aca389140243c12cf7d

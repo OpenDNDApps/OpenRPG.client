@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Myriad Operative (Criminal)
   AsJson: '{"name":"Myriad Operative (Criminal)","source":"EGW","page":203,"_copy":{"name":"Criminal","source":"PHB"},"hasFluff":true}'
   DataHash: c778cf6bf2b8227380a348f88f3610f3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Myriad Operative (Criminal)
+    Content: 
+    AsJson: '{"name":"Myriad Operative (Criminal)","source":"EGW","page":203,"_copy":{"name":"Criminal","source":"PHB"},"hasFluff":true}'
+    DataHash: c778cf6bf2b8227380a348f88f3610f3

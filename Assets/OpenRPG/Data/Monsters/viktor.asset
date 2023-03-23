@@ -40,3 +40,34 @@ MonoBehaviour:
     rw} {@hit 7} to hit, range 100/400 ft., one target. {@h}6 ({@damage 1d10 + 1})
     piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P","R"],"damageTagsSpell":["R","T"],"spellcastingTags":["CP"],"miscTags":["AOE","MW","RNG","RW"],"conditionInflictSpell":["blinded","incapacitated","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: f9c19b9f74a9104923f3ba80bddcc114
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Viktor
+    Content: 
+    AsJson: '{"name":"Viktor","isNamedCreature":true,"source":"MaBJoV","page":82,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"ac":[{"ac":20,"from":["{@item
+      plate armor|PHB|plate}","{@item shield|PHB}"]}],"hp":{"average":136,"formula":"16d8
+      + 64"},"speed":{"walk":30},"str":18,"dex":12,"con":18,"int":11,"wis":11,"cha":16,"save":{"con":"+8","wis":"+4"},"skill":{"persuasion":"+7","religion":"+4"},"passive":10,"languages":["Common"],"cr":"9","spellcasting":[{"name":"Spellcasting","headerEntries":["Viktor
+      is a 16th-level spellcaster. His spellcasting ability is Charisma (spell save
+      {@dc 15}, {@hit 7} to hit with spell attacks). Viktor has the following paladin
+      spells prepared:"],"spells":{"1":{"slots":4,"spells":["{@spell bless}","{@spell
+      shield of faith}","{@spell thunderous smite}"]},"2":{"slots":3,"spells":["{@spell
+      aid}","{@spell branding smite}","{@spell lesser restoration}"]},"3":{"slots":3,"spells":["{@spell
+      blinding smite}","{@spell revivify}"]},"4":{"slots":2,"spells":["{@spell banishment}","{@spell
+      death ward}"]}},"ability":"cha"}],"trait":[{"name":"Brave","entries":["Viktor
+      has advantage on saving throws against being {@condition frightened}."]},{"name":"Shadow
+      Dragon Companion","entries":["Viktor has a young gold shadow dragon that accompanies
+      him at all times. If Viktor dies, the young gold shadow dragon returns to the
+      Shadowfell."]},{"name":"Sun Blade","entries":["Viktor wields a Sun Blade. Viktor
+      gains a +2 bonus to attack and damage rolls made with this weapon, which deals
+      radiant damage instead of slashing damage (this is already factored into Viktor''s
+      stat block). When Viktor hits an undead with this sword, that target takes
+      an extra {@damage 1d8} radiant damage. The sword''s luminous blade emits bright
+      light in a 15-foot radius and dim light for an additional 15 feet. The light
+      is sunlight."]}],"action":[{"name":"Multiattack","entries":["Viktor makes two
+      melee attacks."]},{"name":"Sun Blade","entries":["{@atk mw} {@hit 10} to hit,
+      reach 5 ft., one target. {@h}10 ({@damage 1d8 + 6}) radiant damage or 11 ({@dice
+      1d10 + 6}) radiant damage if used with two hands. An additional 4 ({@damage
+      1d8}) radiant damage is dealt if the target is undead."]},{"name":"Heavy Crossbow","entries":["{@atk
+      rw} {@hit 7} to hit, range 100/400 ft., one target. {@h}6 ({@damage 1d10 +
+      1}) piercing damage."]}],"actionTags":["Multiattack"],"languageTags":["C"],"damageTags":["P","R"],"damageTagsSpell":["R","T"],"spellcastingTags":["CP"],"miscTags":["AOE","MW","RNG","RW"],"conditionInflictSpell":["blinded","incapacitated","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: f9c19b9f74a9104923f3ba80bddcc114

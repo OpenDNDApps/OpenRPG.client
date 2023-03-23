@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jeweled anklet
   AsJson: '{"name":"Jeweled anklet","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: a4edbde42b350af1f7d11febae01b39f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jeweled anklet
+    Content: 
+    AsJson: '{"name":"Jeweled anklet","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: a4edbde42b350af1f7d11febae01b39f

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Mad Mary
   AsJson: '{"name":"Mad Mary","isNpc":true,"source":"CoS","page":44,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 8d78c63bb8f1c77f635f4f46a4b0aa21
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mad Mary
+    Content: 
+    AsJson: '{"name":"Mad Mary","isNpc":true,"source":"CoS","page":44,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 8d78c63bb8f1c77f635f4f46a4b0aa21

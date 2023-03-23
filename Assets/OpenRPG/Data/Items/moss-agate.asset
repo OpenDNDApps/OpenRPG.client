@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Moss Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
     translucent pink or yellow-white with mossy gray or green markings gemstone."]}'
   DataHash: e2ad0a0e8dac34e26af162e3778c2cc9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Moss Agate
+    Content: 
+    AsJson: '{"name":"Moss Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
+      translucent pink or yellow-white with mossy gray or green markings gemstone."]}'
+    DataHash: e2ad0a0e8dac34e26af162e3778c2cc9

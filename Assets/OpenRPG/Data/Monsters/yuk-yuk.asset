@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Yuk Yuk","isNpc":true,"source":"OotA","page":31,"_copy":{"name":"Goblin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     goblin","with":"Yuk Yuk","flags":"i"}}},"alignment":["N"],"skill":{"acrobatics":"+6","athletics":"+3","stealth":"+6"},"hasToken":true,"hasFluffImages":true}'
   DataHash: c13ea7d2bead0783116c4afb366baecf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yuk Yuk
+    Content: 
+    AsJson: '{"name":"Yuk Yuk","isNpc":true,"source":"OotA","page":31,"_copy":{"name":"Goblin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      goblin","with":"Yuk Yuk","flags":"i"}}},"alignment":["N"],"skill":{"acrobatics":"+6","athletics":"+3","stealth":"+6"},"hasToken":true,"hasFluffImages":true}'
+    DataHash: c13ea7d2bead0783116c4afb366baecf

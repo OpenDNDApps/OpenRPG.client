@@ -19,3 +19,14 @@ MonoBehaviour:
     you against your will along the ground, you can use your reaction to reduce the
     distance you are moved by up to 10 feet."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
   DataHash: 34e10fdbfc5cc205411f78aec763d458
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dwarven Plate
+    Content: 
+    AsJson: '{"name":"Dwarven Plate","source":"DMG","page":167,"srd":true,"type":"HA","tier":"major","rarity":"very
+      rare","weight":65,"ac":18,"strength":"15","bonusAc":"+2","stealth":true,"entries":["While
+      wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves
+      you against your will along the ground, you can use your reaction to reduce
+      the distance you are moved by up to 10 feet."],"lootTables":["Magic Item Table
+      H"],"hasFluffImages":true}'
+    DataHash: 34e10fdbfc5cc205411f78aec763d458

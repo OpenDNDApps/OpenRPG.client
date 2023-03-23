@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: f060fa0dd1eac4e64659595d70ed63ca
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cold Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Cold Absorbing Tattoo","source":"TCE","page":119,"resist":["cold"],"detail1":"blue","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: f060fa0dd1eac4e64659595d70ed63ca

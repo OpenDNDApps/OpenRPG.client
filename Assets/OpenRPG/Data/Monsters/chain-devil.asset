@@ -42,3 +42,36 @@ MonoBehaviour:
     of its turn."]}],"soundClip":{"type":"internal","path":"bestiary/chain-devil.mp3"},"traitTags":["Devil''s
     Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["P","S"],"miscTags":["MW","RCH"],"conditionInflict":["frightened","grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 29a0b1e14a4f7baa11d2811f45e2002b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chain Devil
+    Content: 
+    AsJson: '{"name":"Chain Devil","source":"MM","page":72,"srd":true,"otherSources":[{"source":"ToA"},{"source":"BGDIA"}],"size":["M"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":16,"from":["natural
+      armor"]}],"hp":{"average":85,"formula":"10d8 + 40"},"speed":{"walk":30},"str":18,"dex":15,"con":18,"int":11,"wis":12,"cha":14,"save":{"con":"+7","wis":"+4","cha":"+5"},"senses":["darkvision
+      120 ft."],"passive":11,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks that aren''t silvered","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Infernal","telepathy
+      120 ft."],"cr":"8","trait":[{"name":"Devil''s Sight","entries":["Magical darkness
+      doesn''t impede the devil''s darkvision."]},{"name":"Magic Resistance","entries":["The
+      devil has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+      devil makes two attacks with its chains."]},{"name":"Chain","entries":["{@atk
+      mw} {@hit 8} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing
+      damage. The target is {@condition grappled} (escape {@dc 14}) if the devil
+      isn''t already grappling a creature. Until this grapple ends, the target is
+      {@condition restrained} and takes 7 ({@damage 2d6}) piercing damage at the
+      start of each of its turns."]},{"name":"Animate Chains (Recharges after a Short
+      or Long Rest)","entries":["Up to four chains the devil can see within 60 feet
+      of it magically sprout razor-edged barbs and animate under the devil''s control,
+      provided that the chains aren''t being worn or carried.","Each animated chain
+      is an object with AC 20, 20 hit points, resistance to piercing damage, and
+      immunity to psychic and thunder damage. When the devil uses Multiattack on
+      its turn, it can use each animated chain to make one additional chain attack.
+      An animated chain can grapple one creature of its own but can''t make attacks
+      while grappling. An animated chain reverts to its inanimate state if reduced
+      to 0 hit points or if the devil is {@condition incapacitated} or dies."]}],"reaction":[{"name":"Unnerving
+      Mask","entries":["When a creature the devil can see starts its turn within
+      30 feet of the devil, the devil can create the illusion that it looks like
+      one of the creature''s departed loved ones or bitter enemies. If the creature
+      can see the devil, it must succeed on a {@dc 14} Wisdom saving throw or be
+      {@condition frightened} until the end of its turn."]}],"soundClip":{"type":"internal","path":"bestiary/chain-devil.mp3"},"traitTags":["Devil''s
+      Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["P","S"],"miscTags":["MW","RCH"],"conditionInflict":["frightened","grappled","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 29a0b1e14a4f7baa11d2811f45e2002b

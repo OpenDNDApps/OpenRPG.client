@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cryovain","isNpc":true,"isNamedCreature":true,"source":"SKT","page":165,"_copy":{"name":"Adult
     White Dragon","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: eeecea96a764ad833ea4bf3ef1cefbfc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cryovain
+    Content: 
+    AsJson: '{"name":"Cryovain","isNpc":true,"isNamedCreature":true,"source":"SKT","page":165,"_copy":{"name":"Adult
+      White Dragon","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: eeecea96a764ad833ea4bf3ef1cefbfc

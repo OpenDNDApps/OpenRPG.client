@@ -29,6 +29,27 @@ MonoBehaviour:
     again, becoming a greater dragonmark. You learn the following spell: {@spell
     protection from energy}"]}]}'
   DataHash: 7f46ba76a6ff2d7679a0f37aef042402
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragonmark of Sentinel
+    Content: 
+    AsJson: '{"name":"Dragonmark of Sentinel","source":"UAEberron","page":5,"prerequisite":[{"race":[{"name":"human"}]}],"additionalSpells":[{"innate":{"5":{"daily":{"1":["blur"]}},"9":{"daily":{"1":["protection
+      from energy"]}},"_":{"daily":{"1":["compelled duel"]}}},"ability":"wis","known":{"_":["blade
+      ward#c"]}}],"entries":["You have the magical mark of Sentinel, the dragonmark
+      of House Deneith, and are a member of that house.","You gain the ability to
+      innately cast spells and cantrips, using Wisdom as your spellcasting ability.
+      You cast each spell at its lowest level. Once you cast a given spell this way,
+      you must finish a long rest before you can cast it innately again. You must
+      still expend any material components. Your dragonmark confers the following
+      benefits:",{"type":"entries","name":"Least Dragonmark","entries":["When you
+      first take this feat, you gain the least dragonmark. You learn the following
+      spells: {@spell blade ward}, {@spell compelled duel}"]},{"type":"entries","name":"Lesser
+      Dragonmark","entries":["At 5th level and higher, your mark becomes more potent,
+      improving to lesser dragonmark. You learn the following spell: {@spell blur}"]},{"type":"entries","name":"Greater
+      Dragonmark","entries":["At 9th level and higher, your mark''s power increases
+      again, becoming a greater dragonmark. You learn the following spell: {@spell
+      protection from energy}"]}]}'
+    DataHash: 7f46ba76a6ff2d7679a0f37aef042402
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites:

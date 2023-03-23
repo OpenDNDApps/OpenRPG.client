@@ -17,3 +17,11 @@ MonoBehaviour:
     lamp casts bright light in a 15-foot radius and dim light for an additional 30
     feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."]}'
   DataHash: 02c616bc3a093c3bf4890cdcba4d91e6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lamp
+    Content: 
+    AsJson: '{"name":"Lamp","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":50,"entries":["A
+      lamp casts bright light in a 15-foot radius and dim light for an additional
+      30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."]}'
+    DataHash: 02c616bc3a093c3bf4890cdcba4d91e6

@@ -20,3 +20,14 @@ MonoBehaviour:
     At the end of each of its turns, the target can make another Intelligence saving
     throw. On a success, the spell ends on the target."],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: eac848ff5e9a36928a6679ca694a3c38
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ego Whip
+    Content: 
+    AsJson: '{"name":"Ego Whip","source":"UAFighterRogueWizard","page":7,"level":4,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      lash the mind of one creature you can see within range, filling it with despair.
+      The target must succeed on an Intelligence saving throw or suffer disadvantage
+      on attack rolls, ability checks, and saving throws, and it can''t cast spells.
+      At the end of each of its turns, the target can make another Intelligence saving
+      throw. On a success, the spell ends on the target."],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: eac848ff5e9a36928a6679ca694a3c38

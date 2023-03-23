@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Grappling Hook
   AsJson: '{"name":"Grappling Hook","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":200}'
   DataHash: ffd2e59ec28707c2a25b7044d861ef49
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grappling Hook
+    Content: 
+    AsJson: '{"name":"Grappling Hook","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":200}'
+    DataHash: ffd2e59ec28707c2a25b7044d861ef49

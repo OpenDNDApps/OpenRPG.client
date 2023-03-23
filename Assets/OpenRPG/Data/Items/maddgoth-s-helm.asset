@@ -19,3 +19,13 @@ MonoBehaviour:
     courtyard, you have immunity to all damage. If the helm is taken from the castle,
     it turns to dust and is destroyed."]}'
   DataHash: 99aca3abc8505d375b17b3d208cdfec0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Maddgoth's Helm
+    Content: 
+    AsJson: '{"name":"Maddgoth''s Helm","source":"WDMM","page":103,"type":"OTH","rarity":"very
+      rare","reqAttune":"by a humanoid","reqAttuneTags":[{"creatureType":"humanoid"}],"entries":["While
+      you wear this helm and are inside Maddgoth''s castle, on its roof, or in its
+      courtyard, you have immunity to all damage. If the helm is taken from the castle,
+      it turns to dust and is destroyed."]}'
+    DataHash: 99aca3abc8505d375b17b3d208cdfec0

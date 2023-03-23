@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Psychic Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["psychic"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: ffa7331470d02f10198bc841fc2bcc38
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Psychic Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Psychic Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["psychic"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: ffa7331470d02f10198bc841fc2bcc38

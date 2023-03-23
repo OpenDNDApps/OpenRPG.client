@@ -17,3 +17,11 @@ MonoBehaviour:
     commoner","with":"Gammon","flags":"i"}}},"alignment":["C","G"],"traitTags":["Pack
     Tactics","Sunlight Sensitivity"],"hasToken":true}'
   DataHash: 5b37fb05187f856a75214e2a148b72c2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gammon Xungoon
+    Content: 
+    AsJson: '{"name":"Gammon Xungoon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":20,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Kobold","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      commoner","with":"Gammon","flags":"i"}}},"alignment":["C","G"],"traitTags":["Pack
+      Tactics","Sunlight Sensitivity"],"hasToken":true}'
+    DataHash: 5b37fb05187f856a75214e2a148b72c2

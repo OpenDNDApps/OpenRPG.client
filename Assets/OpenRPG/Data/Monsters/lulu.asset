@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Lulu","isNpc":true,"source":"BGDIA","page":5,"_copy":{"name":"Hollyphant","source":"BGDIA","_mod":{"*":{"mode":"replaceTxt","replace":"the
     hollyphant","with":"Lulu","flags":"i"}}},"hasToken":true}'
   DataHash: 559b04d9cc1a38ac06ca6d6d467b7368
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lulu
+    Content: 
+    AsJson: '{"name":"Lulu","isNpc":true,"source":"BGDIA","page":5,"_copy":{"name":"Hollyphant","source":"BGDIA","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      hollyphant","with":"Lulu","flags":"i"}}},"hasToken":true}'
+    DataHash: 559b04d9cc1a38ac06ca6d6d467b7368

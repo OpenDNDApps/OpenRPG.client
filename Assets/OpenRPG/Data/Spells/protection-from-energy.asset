@@ -17,3 +17,11 @@ MonoBehaviour:
     the duration, the willing creature you touch has resistance to one damage type
     of your choice: acid, cold, fire, lightning, or thunder."],"damageResist":["acid","cold","fire","lightning","thunder"],"areaTags":["ST"]}'
   DataHash: af45f6154207f6cc440f4362d87769cd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Protection from Energy
+    Content: 
+    AsJson: '{"name":"Protection from Energy","source":"PHB","page":270,"srd":true,"basicRules":true,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["For
+      the duration, the willing creature you touch has resistance to one damage type
+      of your choice: acid, cold, fire, lightning, or thunder."],"damageResist":["acid","cold","fire","lightning","thunder"],"areaTags":["ST"]}'
+    DataHash: af45f6154207f6cc440f4362d87769cd

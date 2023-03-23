@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing
     damage."]}],"hasToken":true}'
   DataHash: 5f5b5ba841318d43f70f8bfaa4e3cfba
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Crystal Battleaxe
+    Content: 
+    AsJson: '{"name":"Crystal Battleaxe","source":"WDMM","page":89,"_copy":{"name":"Flying
+      Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"battleaxe","flags":"i"}}},"action":[{"name":"Battleaxe","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing
+      damage."]}],"hasToken":true}'
+    DataHash: 5f5b5ba841318d43f70f8bfaa4e3cfba

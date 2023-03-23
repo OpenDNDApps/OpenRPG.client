@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sing-Along","isNpc":true,"source":"WDMM","page":148,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Stout
     Halfling","source":"PHB"}},"alignment":["L","G"],"cha":14,"skill":{"performance":"+4"},"languages":["Common","Halfling"],"languageTags":["C","H"],"hasToken":true}'
   DataHash: b528a6de7bc93fa2ca9684c7fcbbbc24
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sing-Along
+    Content: 
+    AsJson: '{"name":"Sing-Along","isNpc":true,"source":"WDMM","page":148,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Stout
+      Halfling","source":"PHB"}},"alignment":["L","G"],"cha":14,"skill":{"performance":"+4"},"languages":["Common","Halfling"],"languageTags":["C","H"],"hasToken":true}'
+    DataHash: b528a6de7bc93fa2ca9684c7fcbbbc24

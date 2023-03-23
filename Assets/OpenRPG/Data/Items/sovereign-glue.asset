@@ -22,3 +22,17 @@ MonoBehaviour:
     only by the application of {@item universal solvent} or {@item oil of etherealness},
     or with a {@spell wish} spell."],"lootTables":["Magic Item Table E"],"hasFluffImages":true}'
   DataHash: 2d949791e6bd78708becc11fb3019b37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sovereign Glue
+    Content: 
+    AsJson: '{"name":"Sovereign Glue","source":"DMG","page":200,"srd":true,"tier":"minor","rarity":"legendary","wondrous":true,"entries":["This
+      viscous, milky-white substance can form a permanent adhesive bond between any
+      two objects. It must be stored in a jar or flask that has been coated inside
+      with {@item oil of slipperiness}. When found, a container contains {@dice 1d6
+      + 1} ounces.","One ounce of the glue can cover a 1-foot square surface. The
+      glue takes 1 minute to set. Once it has done so, the bond it creates can be
+      broken only by the application of {@item universal solvent} or {@item oil of
+      etherealness}, or with a {@spell wish} spell."],"lootTables":["Magic Item Table
+      E"],"hasFluffImages":true}'
+    DataHash: 2d949791e6bd78708becc11fb3019b37

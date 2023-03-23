@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hunk of Cheese
   AsJson: '{"name":"Hunk of Cheese","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":10}'
   DataHash: c00bcebc06a3db4f39820211c706aa2a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hunk of Cheese
+    Content: 
+    AsJson: '{"name":"Hunk of Cheese","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":10}'
+    DataHash: c00bcebc06a3db4f39820211c706aa2a

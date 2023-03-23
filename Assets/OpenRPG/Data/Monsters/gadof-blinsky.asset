@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gadof Blinsky
   AsJson: '{"name":"Gadof Blinsky","isNpc":true,"source":"CoS","page":118,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: b346c4318ea36a0b09c3ca5a7d035bc5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gadof Blinsky
+    Content: 
+    AsJson: '{"name":"Gadof Blinsky","isNpc":true,"source":"CoS","page":118,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: b346c4318ea36a0b09c3ca5a7d035bc5

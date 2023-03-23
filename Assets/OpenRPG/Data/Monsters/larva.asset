@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing
     damage."]}],"languageTags":["CS","LF"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 91a35e77feb7b1bd5e805fa2e100f928
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Larva
+    Content: 
+    AsJson: '{"name":"Larva","source":"DMG","page":63,"otherSources":[{"source":"BGDIA"}],"size":["M"],"type":"fiend","alignment":["N","E"],"ac":[9],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":20},"str":9,"dex":9,"con":10,"int":6,"wis":10,"cha":2,"passive":10,"languages":["understands
+      the languages it knew in life but can''t speak"],"cr":"0","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing
+      damage."]}],"languageTags":["CS","LF"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 91a35e77feb7b1bd5e805fa2e100f928

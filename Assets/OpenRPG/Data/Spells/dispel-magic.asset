@@ -22,3 +22,17 @@ MonoBehaviour:
     level or higher, you automatically end the effects of a spell on the target if
     the spell''s level is equal to or less than the level of the spell slot you used."]}],"miscTags":["OBJ"],"areaTags":["ST"]}'
   DataHash: 81caa0703ee6d340fd8057fb4b2bcb20
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dispel Magic
+    Content: 
+    AsJson: '{"name":"Dispel Magic","source":"PHB","page":234,"srd":true,"basicRules":true,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Choose
+      one creature, object, or magical effect within range. Any spell of 3rd level
+      or lower on the target ends. For each spell of 4th level or higher on the target,
+      make an ability check using your spellcasting ability. The DC equals 10 + the
+      spell''s level. On a successful check, the spell ends."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, you automatically end the effects of a spell on the target
+      if the spell''s level is equal to or less than the level of the spell slot
+      you used."]}],"miscTags":["OBJ"],"areaTags":["ST"]}'
+    DataHash: 81caa0703ee6d340fd8057fb4b2bcb20

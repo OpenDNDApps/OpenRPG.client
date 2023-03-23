@@ -19,3 +19,13 @@ MonoBehaviour:
     has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or
     smell."]}}}},"traitTags":["Keen Senses"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 61d3e07b9ae87e785f316385a6152d79
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cyrus Belview
+    Content: 
+    AsJson: '{"name":"Cyrus Belview","isNpc":true,"source":"CoS","page":77,"_copy":{"name":"Mongrelfolk","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mongrelfolk","with":"Cyrus","flags":"i"},"trait":{"mode":"replaceArr","replace":"Extraordinary
+      Feature","items":{"name":"Keen Hearing and Smell","entries":["The mongrelfolk
+      has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or
+      smell."]}}}},"traitTags":["Keen Senses"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 61d3e07b9ae87e785f316385a6152d79

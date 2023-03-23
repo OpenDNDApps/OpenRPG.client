@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vaal","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Cloud
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Vaal","flags":"i"}}},"hasToken":true}'
   DataHash: b19a78859e458bdbb35defbc9ac1f9ca
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vaal
+    Content: 
+    AsJson: '{"name":"Vaal","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Cloud
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Vaal","flags":"i"}}},"hasToken":true}'
+    DataHash: b19a78859e458bdbb35defbc9ac1f9ca

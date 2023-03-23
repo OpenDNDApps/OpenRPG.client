@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Lamai Tyenmo","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":20,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Rock
     Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the commoner","with":"Lamai","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
   DataHash: c43fee5e2a6e6358b3a1c097971b6376
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lamai Tyenmo
+    Content: 
+    AsJson: '{"name":"Lamai Tyenmo","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":20,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the commoner","with":"Lamai","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
+    DataHash: c43fee5e2a6e6358b3a1c097971b6376

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hydia Moonmusk","isNpc":true,"source":"SKT","page":148,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     gladiator","with":"Hydia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"languages":["Bothii","Common"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: 337f21b092334511a6c4eedb86608c3d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hydia Moonmusk
+    Content: 
+    AsJson: '{"name":"Hydia Moonmusk","isNpc":true,"source":"SKT","page":148,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      gladiator","with":"Hydia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"languages":["Bothii","Common"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: 337f21b092334511a6c4eedb86608c3d

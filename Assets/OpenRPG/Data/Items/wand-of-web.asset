@@ -22,3 +22,16 @@ MonoBehaviour:
     wand crumbles into ashes and is destroyed."],"attachedSpells":["web"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 5c5d299f9c994f835f804b27f6bba530
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wand of Web
+    Content: 
+    AsJson: '{"name":"Wand of Web","source":"DMG","page":212,"srd":true,"type":"WD","tier":"major","rarity":"uncommon","reqAttune":"by
+      a spellcaster","reqAttuneTags":[{"spellcasting":true}],"weight":1,"recharge":"dawn","rechargeAmount":"{@dice
+      1d6 + 1}","charges":7,"entries":["This wand has 7 charges. While holding it,
+      you can use an action to expend 1 of its charges to cast the {@spell web} spell
+      (save DC 15) from it.","The wand regains {@dice 1d6 + 1} expended charges daily
+      at dawn. If you expend the wand''s last charge, roll a {@dice d20}. On a 1,
+      the wand crumbles into ashes and is destroyed."],"attachedSpells":["web"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 5c5d299f9c994f835f804b27f6bba530

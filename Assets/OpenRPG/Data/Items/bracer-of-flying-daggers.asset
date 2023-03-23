@@ -20,3 +20,14 @@ MonoBehaviour:
     don''t hurl it right away, and the daggers disappear right after they hit or
     miss. The bracer never runs out of daggers."]}'
   DataHash: 8fe5b6b788b72d8ac0db7c72c251d273
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bracer of Flying Daggers
+    Content: 
+    AsJson: '{"name":"Bracer of Flying Daggers","source":"WDH","page":190,"rarity":"rare","reqAttune":true,"wondrous":true,"entries":["This
+      armband appears to have thin {@item dagger|phb|daggers} strapped to it. As
+      an action, you can pull up to two magic daggers from the bracer and immediately
+      hurl them, making a ranged attack with each dagger. A dagger vanishes if you
+      don''t hurl it right away, and the daggers disappear right after they hit or
+      miss. The bracer never runs out of daggers."]}'
+    DataHash: 8fe5b6b788b72d8ac0db7c72c251d273

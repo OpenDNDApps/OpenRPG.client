@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Svirfneblin Wererat","source":"OotA","page":97,"_copy":{"name":"Wererat","source":"MM","_trait":{"name":"Deep
     Gnome","source":"DMG"}},"spellcastingTags":["I"],"hasToken":true}'
   DataHash: deb011965c2a10405625105d0ad4f61b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Svirfneblin Wererat
+    Content: 
+    AsJson: '{"name":"Svirfneblin Wererat","source":"OotA","page":97,"_copy":{"name":"Wererat","source":"MM","_trait":{"name":"Deep
+      Gnome","source":"DMG"}},"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: deb011965c2a10405625105d0ad4f61b

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carved harp of exotic wood with ivory inlay and zircon gems
   AsJson: '{"name":"Carved harp of exotic wood with ivory inlay and zircon gems","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 85f15d17838cb0ec5bc90e7fb6554c20
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carved harp of exotic wood with ivory inlay and zircon gems
+    Content: 
+    AsJson: '{"name":"Carved harp of exotic wood with ivory inlay and zircon gems","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 85f15d17838cb0ec5bc90e7fb6554c20

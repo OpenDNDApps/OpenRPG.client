@@ -19,3 +19,13 @@ MonoBehaviour:
     and spell attacks have disadvantage against you."],"lootTables":["Magic Item
     Table H"],"hasFluffImages":true}'
   DataHash: 5ff962b23a7a19b98d2ac1b9a1539e2e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spellguard Shield
+    Content: 
+    AsJson: '{"name":"Spellguard Shield","source":"DMG","page":201,"srd":true,"type":"S","tier":"major","rarity":"very
+      rare","reqAttune":true,"weight":6,"ac":2,"entries":["While holding this shield,
+      you have advantage on saving throws against spells and other magical effects,
+      and spell attacks have disadvantage against you."],"lootTables":["Magic Item
+      Table H"],"hasFluffImages":true}'
+    DataHash: 5ff962b23a7a19b98d2ac1b9a1539e2e

@@ -20,3 +20,14 @@ MonoBehaviour:
     of a computer system or electronic device. The kit fits snugly in a backpack
     or toolbox. "]}'
   DataHash: d271d3bee3a1a2daf7a635f919dfa0c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hacking Tools
+    Content: 
+    AsJson: '{"name":"Hacking Tools","source":"UAModernMagic","page":4,"type":"T","rarity":"none","age":"modern","entries":["This
+      kit contains the hardware and software necessary to allow access into most
+      computer systems and electronic devices. Proficiency with hacking tools lets
+      you add your proficiency bonus to any Intelligence checks you make to connect
+      to or make use of a computer system or electronic device. The kit fits snugly
+      in a backpack or toolbox. "]}'
+    DataHash: d271d3bee3a1a2daf7a635f919dfa0c7

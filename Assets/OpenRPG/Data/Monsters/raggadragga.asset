@@ -17,3 +17,11 @@ MonoBehaviour:
     wereboar","with":"Raggadragga","flags":"i"}}},"hp":{"average":120,"formula":"12d8
     + 24"},"hasToken":true}'
   DataHash: 5d835dab4fc9834bfd07355b1e69bb6b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Raggadragga
+    Content: 
+    AsJson: '{"name":"Raggadragga","isNpc":true,"source":"BGDIA","page":87,"_copy":{"name":"Wereboar","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      wereboar","with":"Raggadragga","flags":"i"}}},"hp":{"average":120,"formula":"12d8
+      + 24"},"hasToken":true}'
+    DataHash: 5d835dab4fc9834bfd07355b1e69bb6b

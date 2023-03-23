@@ -19,3 +19,13 @@ MonoBehaviour:
     its range by 60 feet."],"optionalfeatures":["replicate magic item|tce","replicate
     magic item|uaartificerrevisited"],"lootTables":["Magic Item Table B"],"hasFluffImages":true}'
   DataHash: c6c0d949971875deddce41484811672c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Goggles of Night
+    Content: 
+    AsJson: '{"name":"Goggles of Night","source":"DMG","page":172,"srd":true,"basicRules":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["While
+      wearing these dark lenses, you have {@sense darkvision} out to a range of 60
+      feet. If you already have {@sense darkvision}, wearing the goggles increases
+      its range by 60 feet."],"optionalfeatures":["replicate magic item|tce","replicate
+      magic item|uaartificerrevisited"],"lootTables":["Magic Item Table B"],"hasFluffImages":true}'
+    DataHash: c6c0d949971875deddce41484811672c

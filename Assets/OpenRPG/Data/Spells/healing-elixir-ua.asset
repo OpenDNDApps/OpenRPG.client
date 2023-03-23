@@ -20,3 +20,14 @@ MonoBehaviour:
     the vial vanishes.","As an action, a creature can drink the elixir or administer
     it to another creature. The drinker regains {@dice 2d4 + 2} hit points."],"miscTags":["HL"]}'
   DataHash: 88003e26256fdea34f8388722c89f5c6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Healing Elixir (UA)
+    Content: 
+    AsJson: '{"name":"Healing Elixir (UA)","source":"UAStarterSpells","page":3,"level":1,"school":"C","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"alchemist''s
+      supplies"},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"entries":["You
+      create a healing elixir in a simple vial that appears in your hand. The elixir
+      retains its potency for the duration or until it''s consumed, at which point
+      the vial vanishes.","As an action, a creature can drink the elixir or administer
+      it to another creature. The drinker regains {@dice 2d4 + 2} hit points."],"miscTags":["HL"]}'
+    DataHash: 88003e26256fdea34f8388722c89f5c6

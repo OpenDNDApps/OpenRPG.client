@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Peebles","isNpc":true,"source":"OotA","page":134,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Deep
     Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Peebles","flags":"i"}}},"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 985f3710f1818430542bdea9d2f73d76
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Peebles
+    Content: 
+    AsJson: '{"name":"Peebles","isNpc":true,"source":"OotA","page":134,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Deep
+      Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Peebles","flags":"i"}}},"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 985f3710f1818430542bdea9d2f73d76

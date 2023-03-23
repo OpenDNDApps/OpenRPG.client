@@ -21,3 +21,16 @@ MonoBehaviour:
     then have advantage on the next attack roll you make before the end of the turn.
     Once this bonus action is used, it can''t be used again until the next dawn."],"hasFluffImages":true}'
   DataHash: d2ef55f77a0d0d8093f62e269cbb1fd9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kagonesti Forest Shroud
+    Content: 
+    AsJson: '{"name":"Kagonesti Forest Shroud","source":"DSotDQ","page":190,"rarity":"rare","reqAttune":true,"wondrous":true,"entries":["This
+      cloak appears to be made of autumnal leaves woven together. While you wear
+      this cloak, you have advantage on Dexterity ({@skill Stealth}) checks, and
+      you can use a bonus action to magically teleport, along with any equipment
+      you are wearing or carrying, to an unoccupied space you can see within 30 feet
+      of yourself. You then have advantage on the next attack roll you make before
+      the end of the turn. Once this bonus action is used, it can''t be used again
+      until the next dawn."],"hasFluffImages":true}'
+    DataHash: d2ef55f77a0d0d8093f62e269cbb1fd9

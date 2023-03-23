@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Princeps Kovik","isNpc":true,"source":"BGDIA","page":91,"_copy":{"name":"Chain
     Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the devil","with":"Kovik","flags":"i"}}},"hasToken":true}'
   DataHash: 9a7f6cebb6e09c9344c7d4b8b8dad813
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Princeps Kovik
+    Content: 
+    AsJson: '{"name":"Princeps Kovik","isNpc":true,"source":"BGDIA","page":91,"_copy":{"name":"Chain
+      Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the devil","with":"Kovik","flags":"i"}}},"hasToken":true}'
+    DataHash: 9a7f6cebb6e09c9344c7d4b8b8dad813

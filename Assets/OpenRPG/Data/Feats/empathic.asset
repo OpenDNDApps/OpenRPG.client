@@ -23,6 +23,20 @@ MonoBehaviour:
     If your check succeeds, you have advantage on attack rolls and ability checks
     against the target until the end of your next turn."]}]}'
   DataHash: 0a0bb147f9a126b1c16eff0c0e499f2b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Empathic
+    Content: 
+    AsJson: '{"name":"Empathic","source":"UAFeatsForSkills","page":2,"ability":[{"wis":1}],"skillProficiencies":[{"insight":true}],"entries":["You
+      possess keen insight into how other people think and feel. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency in the {@skill Insight}
+      skill. If you are already proficient in the skill, you add double your proficiency
+      bonus to checks you make with it.","You can use your action to try to get uncanny
+      insight about one humanoid you can see within 30 feet of you. Make a Wisdom
+      ({@skill Insight}) check contested by the target''s Charisma ({@skill Deception})
+      check. If your check succeeds, you have advantage on attack rolls and ability
+      checks against the target until the end of your next turn."]}]}'
+    DataHash: 0a0bb147f9a126b1c16eff0c0e499f2b
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

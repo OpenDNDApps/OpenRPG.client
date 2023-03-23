@@ -18,3 +18,13 @@ MonoBehaviour:
     Its hilt changes shape to adjust to the grasp of any creature that picks it up.
     The weapon deals an extra {@damage 1d10} poison damage to any target it hits."]}'
   DataHash: 5f3b1c5516bad9f835d43eac6e310fc3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Serpent's Fang
+    Content: 
+    AsJson: '{"name":"Serpent''s Fang","source":"CM","page":98,"baseItem":"longsword|PHB","type":"M","rarity":"rare","weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","sword":true,"weapon":true,"entries":["This
+      single-edged magic sword is made from the scrimshawed fang of a giant serpent.
+      Its hilt changes shape to adjust to the grasp of any creature that picks it
+      up. The weapon deals an extra {@damage 1d10} poison damage to any target it
+      hits."]}'
+    DataHash: 5f3b1c5516bad9f835d43eac6e310fc3

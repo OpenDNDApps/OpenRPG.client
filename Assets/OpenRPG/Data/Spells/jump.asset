@@ -18,3 +18,12 @@ MonoBehaviour:
     touch a creature. The creature''s {@book jump distance|phb|8|Jumping} is tripled
     until the spell ends."],"areaTags":["ST"]}'
   DataHash: 86538e199865cb29c09a8985faeb41e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jump
+    Content: 
+    AsJson: '{"name":"Jump","source":"PHB","page":254,"srd":true,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      grasshopper''s hind leg"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+      touch a creature. The creature''s {@book jump distance|phb|8|Jumping} is tripled
+      until the spell ends."],"areaTags":["ST"]}'
+    DataHash: 86538e199865cb29c09a8985faeb41e0

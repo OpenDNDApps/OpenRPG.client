@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant Eagle","source":"MM","page":324,"typicalSpeakers":["{@creature
     Giant Eagle||giant eagles}"]}'
   DataHash: 9b694eb4b31300518e2003ade9853076
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Eagle
+    Content: 
+    AsJson: '{"name":"Giant Eagle","source":"MM","page":324,"typicalSpeakers":["{@creature
+      Giant Eagle||giant eagles}"]}'
+    DataHash: 9b694eb4b31300518e2003ade9853076

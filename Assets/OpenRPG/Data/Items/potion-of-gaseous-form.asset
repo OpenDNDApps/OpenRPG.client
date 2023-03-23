@@ -19,3 +19,14 @@ MonoBehaviour:
     action. This potion''s container seems to hold fog that moves and pours like
     water."],"attachedSpells":["gaseous form"],"lootTables":["Magic Item Table C"]}'
   DataHash: 817108254f111b5cbdabe5b12fe90fe3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Gaseous Form
+    Content: 
+    AsJson: '{"name":"Potion of Gaseous Form","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"rare","entries":["When
+      you drink this potion, you gain the effect of the {@spell gaseous form} spell
+      for 1 hour (no concentration required) or until you end the effect as a bonus
+      action. This potion''s container seems to hold fog that moves and pours like
+      water."],"attachedSpells":["gaseous form"],"lootTables":["Magic Item Table
+      C"]}'
+    DataHash: 817108254f111b5cbdabe5b12fe90fe3

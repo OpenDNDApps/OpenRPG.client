@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pack Saddle
   AsJson: '{"name":"Pack Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":15,"value":500}'
   DataHash: 2a66bca0f144a6e24921d99c4a4eabb1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pack Saddle
+    Content: 
+    AsJson: '{"name":"Pack Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":15,"value":500}'
+    DataHash: 2a66bca0f144a6e24921d99c4a4eabb1

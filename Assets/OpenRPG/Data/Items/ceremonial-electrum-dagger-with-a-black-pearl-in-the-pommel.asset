@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ceremonial electrum dagger with a black pearl in the pommel
   AsJson: '{"name":"Ceremonial electrum dagger with a black pearl in the pommel","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 4e59f036ee70f7bff342474b4f8e3c5b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ceremonial electrum dagger with a black pearl in the pommel
+    Content: 
+    AsJson: '{"name":"Ceremonial electrum dagger with a black pearl in the pommel","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 4e59f036ee70f7bff342474b4f8e3c5b

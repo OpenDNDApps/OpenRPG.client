@@ -20,3 +20,14 @@ MonoBehaviour:
     the next dawn.","The brazier weighs 5 pounds."],"attachedSpells":["conjure elemental"],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: 8c42d224dfb6844d0ed672a1066a4552
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brazier of Commanding Fire Elementals
+    Content: 
+    AsJson: '{"name":"Brazier of Commanding Fire Elementals","source":"DMG","page":156,"srd":true,"tier":"major","rarity":"rare","wondrous":true,"weight":5,"entries":["While
+      a fire burns in this brass brazier, you can use an action to speak the brazier''s
+      command word and summon a {@creature fire elemental}, as if you had cast the
+      {@spell conjure elemental} spell. The brazier can''t be used this way again
+      until the next dawn.","The brazier weighs 5 pounds."],"attachedSpells":["conjure
+      elemental"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+    DataHash: 8c42d224dfb6844d0ed672a1066a4552

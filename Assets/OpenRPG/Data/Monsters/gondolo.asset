@@ -17,3 +17,11 @@ MonoBehaviour:
     Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Gondolo","flags":"i"}}},"alignment":["C","G"],"hp":{"average":13,"formula":"3d6
     + 3"},"languageTags":["C","H","X"],"hasToken":true}'
   DataHash: e267b6e84bc332101486a279989ecc06
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gondolo
+    Content: 
+    AsJson: '{"name":"Gondolo","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Stout
+      Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Gondolo","flags":"i"}}},"alignment":["C","G"],"hp":{"average":13,"formula":"3d6
+      + 3"},"languageTags":["C","H","X"],"hasToken":true}'
+    DataHash: e267b6e84bc332101486a279989ecc06

@@ -19,3 +19,13 @@ MonoBehaviour:
     on your first attack roll against the target, provided that this spell hasn''t
     ended."],"areaTags":["ST"]}'
   DataHash: feed4981236357c6c0762de5781abd8c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: True Strike
+    Content: 
+    AsJson: '{"name":"True Strike","source":"PHB","page":284,"srd":true,"level":0,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1},"concentration":true}],"entries":["You
+      extend your hand and point a finger at a target in range. Your magic grants
+      you a brief insight into the target''s defenses. On your next turn, you gain
+      advantage on your first attack roll against the target, provided that this
+      spell hasn''t ended."],"areaTags":["ST"]}'
+    DataHash: feed4981236357c6c0762de5781abd8c

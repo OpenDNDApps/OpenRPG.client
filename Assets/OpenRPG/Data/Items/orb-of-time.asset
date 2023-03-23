@@ -17,3 +17,12 @@ MonoBehaviour:
     holding this orb, you can use an action to determine whether it is morning, afternoon,
     evening, or nighttime outside. This property functions only on the Material Plane."]}'
   DataHash: aa189723dcf1c658a2ea3c99dd6a119d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orb of Time
+    Content: 
+    AsJson: '{"name":"Orb of Time","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"weight":3,"entries":["While
+      holding this orb, you can use an action to determine whether it is morning,
+      afternoon, evening, or nighttime outside. This property functions only on the
+      Material Plane."]}'
+    DataHash: aa189723dcf1c658a2ea3c99dd6a119d

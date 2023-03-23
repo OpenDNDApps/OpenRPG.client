@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Psychic Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["psychic"],"detail1":"jade","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 5d598c3c79b523293c1ec57381311974
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Psychic Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Psychic Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["psychic"],"detail1":"jade","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 5d598c3c79b523293c1ec57381311974

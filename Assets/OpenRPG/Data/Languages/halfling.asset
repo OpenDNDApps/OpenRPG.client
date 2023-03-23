@@ -21,3 +21,15 @@ MonoBehaviour:
     converse with the people in whose lands they dwell or through which they are
     traveling."]}'
   DataHash: ff2067760aa9800d1260c4f5dc756e5a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Halfling
+    Content: 
+    AsJson: '{"name":"Halfling","source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"PHB","page":26}],"type":"standard","typicalSpeakers":["{@filter
+      halflings|bestiary|type=humanoid|tag=any race;halfling}"],"script":"Common","entries":["The
+      Halfling language isn''t secret, but halflings are loath to share it with others.
+      They write very little, so they don''t have a rich body of literature. Their
+      oral tradition, however, is very strong. Almost all halflings speak Common
+      to converse with the people in whose lands they dwell or through which they
+      are traveling."]}'
+    DataHash: ff2067760aa9800d1260c4f5dc756e5a

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Corrin Delmaco","isNpc":true,"source":"ERLW","page":271,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Stout
     Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Corrin","flags":"i"}}},"alignment":["L","E"],"hp":{"average":21,"formula":"6d6"},"languageTags":["H","X"],"hasToken":true}'
   DataHash: 298adaf7f2e7f8772a5717f71df4c61a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Corrin Delmaco
+    Content: 
+    AsJson: '{"name":"Corrin Delmaco","isNpc":true,"source":"ERLW","page":271,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Stout
+      Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Corrin","flags":"i"}}},"alignment":["L","E"],"hp":{"average":21,"formula":"6d6"},"languageTags":["H","X"],"hasToken":true}'
+    DataHash: 298adaf7f2e7f8772a5717f71df4c61a

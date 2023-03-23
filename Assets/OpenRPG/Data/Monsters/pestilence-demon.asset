@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pestilence Demon
   AsJson: '{"name":"Pestilence Demon","source":"PSZ","page":27,"_copy":{"name":"Vrock","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"vrock","with":"demon"}}},"hasToken":true}'
   DataHash: 60b7dc2bdfcc3a2a1640af0640fef079
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pestilence Demon
+    Content: 
+    AsJson: '{"name":"Pestilence Demon","source":"PSZ","page":27,"_copy":{"name":"Vrock","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"vrock","with":"demon"}}},"hasToken":true}'
+    DataHash: 60b7dc2bdfcc3a2a1640af0640fef079

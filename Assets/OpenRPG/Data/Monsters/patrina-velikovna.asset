@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Patrina Velikovna","isNpc":true,"source":"CoS","page":89,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Patrina","flags":"i"}}},"type":{"type":"humanoid","tags":[{"tag":"elf","prefix":"Dusk"}]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 821c4da75113a12150093a560d41c21d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Patrina Velikovna
+    Content: 
+    AsJson: '{"name":"Patrina Velikovna","isNpc":true,"source":"CoS","page":89,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Patrina","flags":"i"}}},"type":{"type":"humanoid","tags":[{"tag":"elf","prefix":"Dusk"}]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 821c4da75113a12150093a560d41c21d

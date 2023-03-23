@@ -18,3 +18,12 @@ MonoBehaviour:
     is full of hard consonants and guttural sounds, and those characteristics spill
     over into whatever other language a dwarf might speak."],"hasFluffImages":true}'
   DataHash: 86cb18793f1020037c58867581c932aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dwarvish
+    Content: 
+    AsJson: '{"name":"Dwarvish","source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"PHB","page":18}],"type":"standard","typicalSpeakers":["{@filter
+      dwarves|bestiary|type=humanoid|tag=any race;dwarf}"],"script":"Dwarvish","entries":["Dwarvish
+      is full of hard consonants and guttural sounds, and those characteristics spill
+      over into whatever other language a dwarf might speak."],"hasFluffImages":true}'
+    DataHash: 86cb18793f1020037c58867581c932aa

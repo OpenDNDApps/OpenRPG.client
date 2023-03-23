@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kun Ahn-Jun","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":81,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Kun Ahn-Jun","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: adb3df7cf50a7395daa155b0235482f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kun Ahn-Jun
+    Content: 
+    AsJson: '{"name":"Kun Ahn-Jun","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":81,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Kun Ahn-Jun","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: adb3df7cf50a7395daa155b0235482f1

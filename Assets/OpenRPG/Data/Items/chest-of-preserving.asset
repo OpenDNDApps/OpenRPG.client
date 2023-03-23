@@ -20,3 +20,14 @@ MonoBehaviour:
     and a successful DC 15 Dexterity check. Smashing the lock or any other part of
     the chest renders it nonmagical.\"]}"
   DataHash: ba393c1819828f1794c679dec1afeb61
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chest of Preserving
+    Content: 
+    AsJson: "{\"name\":\"Chest of Preserving\",\"source\":\"WDMM\",\"page\":139,\"rarity\":\"common\",\"wondrous\":true,\"weight\":25,\"entries\":[\"Food
+      and other perishable items do not age or decay while inside a Chest of Preserving.
+      The chest is 2\xBD feet long, 1\xBD feet wide, and 1 foot tall with a half-barrel
+      lid. The chest has a lock, which can be picked with {@item thieves' tools|PHB}
+      and a successful DC 15 Dexterity check. Smashing the lock or any other part
+      of the chest renders it nonmagical.\"]}"
+    DataHash: ba393c1819828f1794c679dec1afeb61

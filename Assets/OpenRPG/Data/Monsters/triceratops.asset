@@ -24,3 +24,18 @@ MonoBehaviour:
     damage."]},{"name":"Stomp","entries":["{@atk mw} {@hit 9} to hit, reach 5 ft.,
     one {@condition prone} creature. {@h}22 ({@damage 3d10 + 6}) bludgeoning damage"]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/triceratops.mp3"},"damageTags":["B","P"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 783afc13d3a98304acc0aa2bda16dc96
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Triceratops
+    Content: 
+    AsJson: '{"name":"Triceratops","group":["Dinosaurs"],"source":"MM","page":80,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":95,"formula":"10d12 + 30"},"speed":{"walk":50},"str":22,"dex":9,"con":17,"int":2,"wis":11,"cha":5,"passive":10,"cr":"5","trait":[{"name":"Trampling
+      Charge","entries":["If the triceratops moves at least 20 feet straight toward
+      a creature and then hits it with a gore attack on the same turn, that target
+      must succeed on a {@dc 13} Strength saving throw or be knocked {@condition
+      prone}. If the target is {@condition prone}, the triceratops can make one stomp
+      attack against it as a bonus action."]}],"action":[{"name":"Gore","entries":["{@atk
+      mw} {@hit 9} to hit, reach 5 ft., one target. {@h}24 ({@damage 4d8 + 6}) piercing
+      damage."]},{"name":"Stomp","entries":["{@atk mw} {@hit 9} to hit, reach 5 ft.,
+      one {@condition prone} creature. {@h}22 ({@damage 3d10 + 6}) bludgeoning damage"]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/triceratops.mp3"},"damageTags":["B","P"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 783afc13d3a98304acc0aa2bda16dc96

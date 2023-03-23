@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Topsy","isNpc":true,"source":"OotA","page":8,"_copy":{"name":"Wererat","source":"MM","_trait":{"name":"Deep
     Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the wererat","with":"Topsy","flags":"i"}}},"languages":["Gnomish","Terran","Undercommon"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 5289665caf9b94381180177267edf5f6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Topsy
+    Content: 
+    AsJson: '{"name":"Topsy","isNpc":true,"source":"OotA","page":8,"_copy":{"name":"Wererat","source":"MM","_trait":{"name":"Deep
+      Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the wererat","with":"Topsy","flags":"i"}}},"languages":["Gnomish","Terran","Undercommon"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 5289665caf9b94381180177267edf5f6

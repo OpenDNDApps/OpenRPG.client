@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ps-i
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Plane Shift: Innistrad'
   AsJson: "{\"name\":\"Plane Shift: Innistrad\",\"id\":\"PS-I\",\"source\":\"PSI\",\"group\":\"supplement-alt\",\"coverUrl\":\"img/covers/PSI.png\",\"published\":\"2016-07-12\",\"author\":\"Wizards
     RPG Team\",\"contents\":[{\"name\":\"Introduction\"},{\"name\":\"The World of
     Innistrad\",\"headers\":[\"Horrors of the Night\",\"Defenders of Humanity\"]},{\"name\":\"Life
@@ -24,6 +24,21 @@ MonoBehaviour:
     Ruins of Berez\",\"Van Richten's Tower\u2014Rem Karolus's Tower\",\"The Wizard
     of Wines and Wereravens\",\"Yester Hill\",\"Werewolf Den\",\"Adventure Hooks\"]}]}"
   DataHash: ff79faab51ca6f3dd115a3b8c188174b
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: "{\"name\":\"Plane Shift: Innistrad\",\"id\":\"PS-I\",\"source\":\"PSI\",\"group\":\"supplement-alt\",\"coverUrl\":\"img/covers/PSI.png\",\"published\":\"2016-07-12\",\"author\":\"Wizards
+      RPG Team\",\"contents\":[{\"name\":\"Introduction\"},{\"name\":\"The World
+      of Innistrad\",\"headers\":[\"Horrors of the Night\",\"Defenders of Humanity\"]},{\"name\":\"Life
+      on Innistrad\",\"headers\":[\"People of Innistrad\",\"The Church of Avacyn\",\"Inquisitor
+      Background\"]},{\"name\":\"Creatures of the Night\"},{\"name\":\"The Coming
+      of Emrakul\",\"headers\":[\"Rise of Emrakul\",\"Emrakul's Madness\"]},{\"name\":\"Curse
+      of Innistrad\",\"headers\":[\"Lands of Barovia\u2014Outland Valleys\",\"Village
+      of Barovia\u2014Shadowgrange\",\"Argynvostholt\u2014Heron's Light Hold\",\"Krezk\",\"The
+      Ruins of Berez\",\"Van Richten's Tower\u2014Rem Karolus's Tower\",\"The Wizard
+      of Wines and Wereravens\",\"Yester Hill\",\"Werewolf Den\",\"Adventure Hooks\"]}]}"
+    DataHash: ff79faab51ca6f3dd115a3b8c188174b
+  CoverURL: img/covers/PSI.png
+  Published: 2016-07-12
+  Author: Wizards RPG Team

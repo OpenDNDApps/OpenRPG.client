@@ -17,3 +17,11 @@ MonoBehaviour:
     Malison (Type 3)","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     yuan-ti","with":"Oussa","flags":"i"}}},"hasToken":true}'
   DataHash: cd30c427bc92cd22c9c3f1f9cdac3a77
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Oussa
+    Content: 
+    AsJson: '{"name":"Oussa","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Yuan-ti
+      Malison (Type 3)","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      yuan-ti","with":"Oussa","flags":"i"}}},"hasToken":true}'
+    DataHash: cd30c427bc92cd22c9c3f1f9cdac3a77

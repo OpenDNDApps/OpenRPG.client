@@ -29,3 +29,23 @@ MonoBehaviour:
     shillelagh}."]}],"environment":["coastal","mountain","grassland","hill","arctic","forest","swamp","underdark","desert"],"soundClip":{"type":"internal","path":"bestiary/druid.mp3"},"altArt":[{"name":"Demonic
     Druid","source":"MTF","page":29}],"languageTags":["DU","X"],"damageTags":["B"],"damageTagsSpell":["F","T"],"spellcastingTags":["CD"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c4a05cd70d657cf0a4bde42d75a7e42c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Druid
+    Content: 
+    AsJson: '{"name":"Druid","source":"MM","page":346,"srd":true,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"ToA"},{"source":"GoS"},{"source":"DIP"},{"source":"SDW"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[11,{"ac":16,"condition":"with {@spell barkskin}","braces":true}],"hp":{"average":27,"formula":"5d8
+      + 5"},"speed":{"walk":30},"str":10,"dex":12,"con":13,"int":12,"wis":15,"cha":11,"skill":{"medicine":"+4","nature":"+3","perception":"+4"},"passive":14,"languages":["Druidic
+      plus any two languages"],"cr":"2","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 12}, {@hit 4} to hit with spell attacks). It has the following druid
+      spells prepared:"],"spells":{"0":{"spells":["{@spell druidcraft}","{@spell
+      produce flame}","{@spell shillelagh}"]},"1":{"slots":4,"spells":["{@spell entangle}","{@spell
+      longstrider}","{@spell speak with animals}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+      animal messenger}","{@spell barkskin}"]}},"ability":"wis"}],"action":[{"name":"Quarterstaff","entries":["{@atk
+      mw} {@hit 2} to hit ({@hit 4} to hit with shillelagh), reach 5 ft., one target.
+      {@h}3 ({@damage 1d6}) bludgeoning damage, 4 ({@damage 1d8}) bludgeoning damage
+      if wielded with two hands, or 6 ({@damage 1d8 + 2}) bludgeoning damage with
+      {@spell shillelagh}."]}],"environment":["coastal","mountain","grassland","hill","arctic","forest","swamp","underdark","desert"],"soundClip":{"type":"internal","path":"bestiary/druid.mp3"},"altArt":[{"name":"Demonic
+      Druid","source":"MTF","page":29}],"languageTags":["DU","X"],"damageTags":["B"],"damageTagsSpell":["F","T"],"spellcastingTags":["CD"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c4a05cd70d657cf0a4bde42d75a7e42c

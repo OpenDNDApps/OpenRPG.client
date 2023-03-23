@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing
     damage."]}],"environment":["grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/axe-beak.mp3"},"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: 5f6d9cfae28e02fbbe8b0e63193813f3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Axe Beak
+    Content: 
+    AsJson: '{"name":"Axe Beak","source":"MM","page":317,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"GoS"},{"source":"IDRotF"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[11],"hp":{"average":19,"formula":"3d10
+      + 3"},"speed":{"walk":50},"str":14,"dex":12,"con":12,"int":2,"wis":10,"cha":5,"passive":10,"cr":"1/4","action":[{"name":"Beak","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing
+      damage."]}],"environment":["grassland","hill"],"soundClip":{"type":"internal","path":"bestiary/axe-beak.mp3"},"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 5f6d9cfae28e02fbbe8b0e63193813f3

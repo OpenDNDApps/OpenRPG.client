@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Wooden Donkey","source":"WDMM","page":84,"_copy":{"name":"Mule","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"mule","with":"donkey","flags":"i"}}},"type":"construct","senses":["blindsight
     30 ft. (blind beyond this radius)"],"immune":["poison"],"conditionImmune":["blinded","charmed","frightened","paralyzed","petrified","poisoned"],"senseTags":["B"],"hasToken":true,"hasFluff":true}'
   DataHash: dab71e2d2fdcf62a0f01f17c3b5e2d9f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wooden Donkey
+    Content: 
+    AsJson: '{"name":"Wooden Donkey","source":"WDMM","page":84,"_copy":{"name":"Mule","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"mule","with":"donkey","flags":"i"}}},"type":"construct","senses":["blindsight
+      30 ft. (blind beyond this radius)"],"immune":["poison"],"conditionImmune":["blinded","charmed","frightened","paralyzed","petrified","poisoned"],"senseTags":["B"],"hasToken":true,"hasFluff":true}'
+    DataHash: dab71e2d2fdcf62a0f01f17c3b5e2d9f

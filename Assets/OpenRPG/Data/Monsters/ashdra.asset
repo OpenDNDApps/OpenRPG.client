@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ashdra","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"alignment":["C","E"],"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","X"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: de3cf861118764a7a40abd05b8545617
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashdra
+    Content: 
+    AsJson: '{"name":"Ashdra","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"alignment":["C","E"],"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","X"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: de3cf861118764a7a40abd05b8545617

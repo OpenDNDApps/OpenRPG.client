@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Citrine","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     transparent pale yellow-brown gemstone."]}'
   DataHash: 6ae4990a61425aa6e97630205e999ea4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Citrine
+    Content: 
+    AsJson: '{"name":"Citrine","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      transparent pale yellow-brown gemstone."]}'
+    DataHash: 6ae4990a61425aa6e97630205e999ea4

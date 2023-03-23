@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Nimuel","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":136,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Nimuel","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: 1df16d06943ad91e478960659b6917c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nimuel
+    Content: 
+    AsJson: '{"name":"Nimuel","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":136,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Nimuel","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 1df16d06943ad91e478960659b6917c5

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gregir Fendelsohn (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     veteran","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
   DataHash: 64fb7c8c9ce8a8a41f8b3dc9b72d57e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gregir Fendelsohn (Levels 9-11)
+    Content: 
+    AsJson: '{"name":"Gregir Fendelsohn (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      veteran","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
+    DataHash: 64fb7c8c9ce8a8a41f8b3dc9b72d57e2

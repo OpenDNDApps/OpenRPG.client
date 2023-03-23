@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tlincalli","source":"VGM","page":193,"typicalSpeakers":["{@creature
     Tlincalli|VGM|tlincalli}"]}'
   DataHash: deda72e08c3d88c758b1682183cec363
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tlincalli
+    Content: 
+    AsJson: '{"name":"Tlincalli","source":"VGM","page":193,"typicalSpeakers":["{@creature
+      Tlincalli|VGM|tlincalli}"]}'
+    DataHash: deda72e08c3d88c758b1682183cec363

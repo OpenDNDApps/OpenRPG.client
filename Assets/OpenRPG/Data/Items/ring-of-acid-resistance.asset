@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Acid Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["acid"],"detail1":"pearl","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 989db9d88145c8f7932a12126cf193ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Acid Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Acid Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["acid"],"detail1":"pearl","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 989db9d88145c8f7932a12126cf193ce

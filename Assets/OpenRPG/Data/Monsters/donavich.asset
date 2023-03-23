@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Donavich","isNpc":true,"source":"CoS","page":46,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     acolyte","with":"Donavich","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: a18ed44ef87bc6cb9f80db42e5931fff
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Donavich
+    Content: 
+    AsJson: '{"name":"Donavich","isNpc":true,"source":"CoS","page":46,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      acolyte","with":"Donavich","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: a18ed44ef87bc6cb9f80db42e5931fff

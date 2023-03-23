@@ -24,3 +24,18 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 8d6|3-9|1d6} for each
     slot level above 3rd."]}],"damageInflict":["lightning"],"savingThrow":["dexterity"],"miscTags":["OBJ"],"areaTags":["L"]}'
   DataHash: fcc1182a3c1d2fbd54a146adfb3e42b1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lightning Bolt
+    Content: 
+    AsJson: '{"name":"Lightning Bolt","source":"PHB","page":255,"srd":true,"basicRules":true,"level":3,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"line","distance":{"type":"feet","amount":100}},"components":{"v":true,"s":true,"m":"a
+      bit of fur and a rod of amber, crystal, or glass"},"duration":[{"type":"instant"}],"entries":["A
+      stroke of lightning forming a line 100 feet long and 5 feet wide blasts out
+      from you in a direction you choose. Each creature in the line must make a Dexterity
+      saving throw. A creature takes {@damage 8d6} lightning damage on a failed save,
+      or half as much damage on a successful one.","The lightning ignites flammable
+      objects in the area that aren''t being worn or carried."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, the damage increases by {@scaledamage 8d6|3-9|1d6} for each
+      slot level above 3rd."]}],"damageInflict":["lightning"],"savingThrow":["dexterity"],"miscTags":["OBJ"],"areaTags":["L"]}'
+    DataHash: fcc1182a3c1d2fbd54a146adfb3e42b1

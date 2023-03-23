@@ -36,3 +36,30 @@ MonoBehaviour:
     level or higher, the radius of the sphere affected by the spell increases by
     5 feet for each slot level above 3rd."]}],"damageInflict":["lightning"],"savingThrow":["wisdom","dexterity"],"miscTags":["RO"],"areaTags":["S"]}'
   DataHash: 701fff1b6ab622af8354bb60717a746f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Haywire (UA)
+    Content: 
+    AsJson: '{"name":"Haywire (UA)","source":"UAModernMagic","page":7,"level":3,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["This
+      spell plays havoc with electronic devices, making the use of such devices all
+      but impossible. Each electronic device in a 10-foot-radius sphere centered
+      on a point you choose within range is subject to random behavior while it remains
+      within the area. A device not held by a creature is automatically affected.
+      If an electronic device is held by a creature, that creature must succeed on
+      a Wisdom saving throw or have the device affected by the spell.","At the start
+      of each of your turns, roll a {@dice d6} for each affected device to determine
+      its behavior. Except where otherwise indicated, that behavior lasts until the
+      start of your next turn while this spell is in effect.",{"type":"table","colLabels":["{@dice
+      d6}","Effect"],"colStyles":["col-1 text-center no-wrap","col-11"],"rows":[[{"type":"cell","roll":{"exact":1}},"The
+      device shuts down and must be restarted. Do not roll again for this device
+      until it is restarted."],[{"type":"cell","roll":{"min":2,"max":4}},"The device
+      does not function."],[{"type":"cell","roll":{"exact":5}},"The device experiences
+      a power surge, causing an electric shock to the wielder (if any) and one random
+      creature within 5 feet of the device. Each affected creature must make a Dexterity
+      saving throw against your spell save DC, taking {@damage 6d6} lightning damage
+      on a failed save, or half as much damage on a successful one."],[{"type":"cell","roll":{"exact":6}},"The
+      device is usable as normal."]]}],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, the radius of the sphere affected by the spell increases by
+      5 feet for each slot level above 3rd."]}],"damageInflict":["lightning"],"savingThrow":["wisdom","dexterity"],"miscTags":["RO"],"areaTags":["S"]}'
+    DataHash: 701fff1b6ab622af8354bb60717a746f

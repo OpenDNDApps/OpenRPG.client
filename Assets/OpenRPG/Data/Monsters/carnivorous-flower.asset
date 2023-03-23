@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carnivorous Flower
   AsJson: '{"name":"Carnivorous Flower","source":"RoT","page":67,"otherSources":[{"source":"ToD","page":153}],"_copy":{"name":"Otyugh","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"otyugh","with":"plant"}}},"type":"plant","speed":{"walk":0},"hasToken":true}'
   DataHash: 1a480e8727b5202b4e0445e86e64a714
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carnivorous Flower
+    Content: 
+    AsJson: '{"name":"Carnivorous Flower","source":"RoT","page":67,"otherSources":[{"source":"ToD","page":153}],"_copy":{"name":"Otyugh","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"otyugh","with":"plant"}}},"type":"plant","speed":{"walk":0},"hasToken":true}'
+    DataHash: 1a480e8727b5202b4e0445e86e64a714

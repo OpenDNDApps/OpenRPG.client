@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold ring set with bloodstones
   AsJson: '{"name":"Gold ring set with bloodstones","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: d1798a15da2f7d9fe7a84f12b7f1e0eb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold ring set with bloodstones
+    Content: 
+    AsJson: '{"name":"Gold ring set with bloodstones","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: d1798a15da2f7d9fe7a84f12b7f1e0eb

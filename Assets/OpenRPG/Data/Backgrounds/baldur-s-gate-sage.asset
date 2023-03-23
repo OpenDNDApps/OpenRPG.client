@@ -25,3 +25,19 @@ MonoBehaviour:
     city, you immediately have a list of {@dice 1d4} suspects who, if they aren't
     involved, have a strong chance of knowing who is.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
   DataHash: 0afdcb1f8bf7f6ba1f4477f034e5c5fc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baldur's Gate Sage
+    Content: 
+    AsJson: "{\"name\":\"Baldur's Gate Sage\",\"source\":\"BGDIA\",\"page\":204,\"additionalSources\":[{\"source\":\"PHB\",\"page\":137}],\"_copy\":{\"name\":\"Sage\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"insertArr\",\"index\":2,\"items\":{\"name\":\"Baldur's
+      Gate Feature: Rumor Monger\",\"type\":\"entries\",\"entries\":[\"{@note The
+      effects of a Baldur's Gate feature can be used only while the character is
+      in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable
+      effects in situations similar to those in Baldur's Gate.}\",\"Via your personal
+      rumor mill and articles published in Baldur's Mouth, you can surmise a great
+      deal about Baldurians' secrets\u2014who's practicing necromancy, who's involved
+      in spying or smuggling, who would purchase or craft dangerous magical wares
+      without batting an eyelash. Whenever a noteworthy crime or mysterious happening
+      occurs in the city, you immediately have a list of {@dice 1d4} suspects who,
+      if they aren't involved, have a strong chance of knowing who is.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
+    DataHash: 0afdcb1f8bf7f6ba1f4477f034e5c5fc

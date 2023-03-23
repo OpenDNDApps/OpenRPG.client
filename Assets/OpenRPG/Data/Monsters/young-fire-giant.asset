@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Young Fire Giant
   AsJson: '{"name":"Young Fire Giant","source":"TftYP","page":192,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant","flags":"i"}}},"immune":["fire"],"hasToken":true}'
   DataHash: 67429644fcc585ef2c5693e93a1e35c8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Fire Giant
+    Content: 
+    AsJson: '{"name":"Young Fire Giant","source":"TftYP","page":192,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant","flags":"i"}}},"immune":["fire"],"hasToken":true}'
+    DataHash: 67429644fcc585ef2c5693e93a1e35c8

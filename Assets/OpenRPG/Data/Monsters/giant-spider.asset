@@ -34,3 +34,29 @@ MonoBehaviour:
     to fire damage; immunity to bludgeoning, poison, and psychic damage)."]}],"environment":["underdark","forest","swamp","urban","desert"],"soundClip":{"type":"internal","path":"bestiary/giant-spider.mp3"},"traitTags":["Spider
     Climb","Web Sense","Web Walker"],"senseTags":["B","D"],"damageTags":["I","P"],"miscTags":["MW","RW"],"conditionInflict":["paralyzed","poisoned","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 317a29cbdf6e751c09b4f9239df1a63b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Spider
+    Content: 
+    AsJson: '{"name":"Giant Spider","source":"MM","page":328,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"LMoP"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"RMBRE"},{"source":"EGW"},{"source":"MOT"},{"source":"TCE"},{"source":"CRCotN"},{"source":"DSotDQ"},{"source":"PSX"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":26,"formula":"4d10 + 4"},"speed":{"walk":30,"climb":30},"str":14,"dex":16,"con":12,"int":2,"wis":11,"cha":4,"skill":{"stealth":"+7"},"senses":["blindsight
+      10 ft.","darkvision 60 ft."],"passive":10,"cr":"1","trait":[{"name":"Spider
+      Climb","entries":["The spider can climb difficult surfaces, including upside
+      down on ceilings, without needing to make an ability check."]},{"name":"Web
+      Sense","entries":["While in contact with a web, the spider knows the exact
+      location of any other creature in contact with the same web."]},{"name":"Web
+      Walker","entries":["The spider ignores movement restrictions caused by webbing."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d8 + 3}) piercing
+      damage, and the target must make a {@dc 11} Constitution saving throw, taking
+      9 ({@damage 2d8}) poison damage on a failed save, or half as much damage on
+      a successful one. If the poison damage reduces the target to 0 hit points,
+      the target is stable but {@condition poisoned} for 1 hour, even after regaining
+      hit points, and is {@condition paralyzed} while {@condition poisoned} in this
+      way."]},{"name":"Web {@recharge 5}","entries":["{@atk rw} {@hit 5} to hit,
+      range 30/60 ft., one creature. {@h}The target is {@condition restrained} by
+      webbing. As an action, the {@condition restrained} target can make a {@dc 12}
+      Strength check, bursting the webbing on a success. The webbing can also be
+      attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity
+      to bludgeoning, poison, and psychic damage)."]}],"environment":["underdark","forest","swamp","urban","desert"],"soundClip":{"type":"internal","path":"bestiary/giant-spider.mp3"},"traitTags":["Spider
+      Climb","Web Sense","Web Walker"],"senseTags":["B","D"],"damageTags":["I","P"],"miscTags":["MW","RW"],"conditionInflict":["paralyzed","poisoned","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 317a29cbdf6e751c09b4f9239df1a63b

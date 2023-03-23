@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gundren Rockseeker","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":41,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"}},"hasToken":true}'
   DataHash: afcb439d5663ca50659706f7b87da990
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gundren Rockseeker
+    Content: 
+    AsJson: '{"name":"Gundren Rockseeker","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":41,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"}},"hasToken":true}'
+    DataHash: afcb439d5663ca50659706f7b87da990

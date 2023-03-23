@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Basilisk","source":"TftYP","page":113,"_copy":{"name":"Basilisk","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 264c6a806e71ff4a2c313db07df7d7c6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Basilisk
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Basilisk","source":"TftYP","page":113,"_copy":{"name":"Basilisk","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 264c6a806e71ff4a2c313db07df7d7c6

@@ -30,3 +30,24 @@ MonoBehaviour:
     gladiator adds 3 to its AC against one melee attack that would hit it. To do
     so, the gladiator must see the attacker and be wielding a melee weapon."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/gladiator.mp3"},"traitTags":["Brute"],"actionTags":["Multiattack","Parry"],"languageTags":["C","X"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true}'
   DataHash: 368ea9b881ccc13151d7a08accddbce6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gladiator
+    Content: 
+    AsJson: '{"name":"Gladiator","source":"MM","page":346,"srd":true,"otherSources":[{"source":"CoS"},{"source":"RoT"},{"source":"SKT"},{"source":"ToA"},{"source":"GoS"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[{"ac":16,"from":["{@item studded leather armor|phb|studded
+      leather}","{@item shield|phb}"]}],"hp":{"average":112,"formula":"15d8 + 45"},"speed":{"walk":30},"str":18,"dex":15,"con":16,"int":10,"wis":12,"cha":15,"save":{"str":"+7","dex":"+5","con":"+6"},"skill":{"athletics":"+10","intimidation":"+5"},"passive":11,"languages":["any
+      one language (usually Common)"],"cr":"5","trait":[{"name":"Brave","entries":["The
+      gladiator has advantage on saving throws against being {@condition frightened}."]},{"name":"Brute","entries":["A
+      melee weapon deals one extra die of its damage when the gladiator hits with
+      it (included in the attack)."]}],"action":[{"name":"Multiattack","entries":["The
+      gladiator makes three melee attacks or two ranged attacks."]},{"name":"Spear","entries":["{@atk
+      mw,rw} {@hit 7} to hit, reach 5 ft. and range 20/60 ft., one target. {@h}11
+      ({@damage 2d6 + 4}) piercing damage, or 13 ({@damage 2d8 + 4}) piercing damage
+      if used with two hands to make a melee attack."]},{"name":"Shield Bash","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}9 ({@damage 2d4 + 4}) bludgeoning
+      damage. If the target is a Medium or smaller creature, it must succeed on a
+      {@dc 15} Strength saving throw or be knocked {@condition prone}."]}],"reaction":[{"name":"Parry","entries":["The
+      gladiator adds 3 to its AC against one melee attack that would hit it. To do
+      so, the gladiator must see the attacker and be wielding a melee weapon."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/gladiator.mp3"},"traitTags":["Brute"],"actionTags":["Multiattack","Parry"],"languageTags":["C","X"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true}'
+    DataHash: 368ea9b881ccc13151d7a08accddbce6

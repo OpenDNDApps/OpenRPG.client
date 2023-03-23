@@ -25,6 +25,22 @@ MonoBehaviour:
     number of times equal to your proficiency bonus, and you regain all expended
     uses when you finish a long rest."]}]}]}'
   DataHash: ae33e8a9b5fe65d5a15bb04b36e18fab
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scion Of Elemental Air
+    Content: 
+    AsJson: '{"name":"Scion Of Elemental Air","source":"UA2022WondersOfTheMultiverse","page":8,"additionalSpells":[{"known":{"_":["minor
+      illusion#c"]}}],"entries":["You''ve been exposed to the primordial magic of
+      the Elemental Plane of Air, granting you the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Elemental
+      Magic","entries":["You learn the {@spell minor illusion} cantrip, using Intelligence,
+      Wisdom, or Charisma as the spellcasting ability (choose when you select this
+      feat)."]},{"type":"item","name":"Wind''s Glide","entries":["You can use a bonus
+      action to gain a flying speed equal to your walking speed until the end of
+      your turn. If you are airborne at the end of your turn after using this movement
+      and aren''t held aloft by other means, you fall. You can use this bonus action
+      a number of times equal to your proficiency bonus, and you regain all expended
+      uses when you finish a long rest."]}]}]}'
+    DataHash: ae33e8a9b5fe65d5a15bb04b36e18fab
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites: []

@@ -24,3 +24,18 @@ MonoBehaviour:
     who takes damage from the spell. That target takes an extra {@damage 3d6} necrotic
     damage."]}]}'
   DataHash: d18b07cd4180fd627afad4bd1353f544
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Outer Essence Shard (Evil)
+    Content: 
+    AsJson: '{"name":"Outer Essence Shard (Evil)","source":"TCE","page":133,"rarity":"rare","reqAttune":"by
+      a sorcerer","reqAttuneTags":[{"class":"sorcerer"}],"wondrous":true,"weight":1,"focus":["Sorcerer"],"entries":["This
+      flickering crystal holds the essence of an Outer Plane. As an action, you can
+      attach the shard to a Tiny object (such as a weapon or a piece of jewelry)
+      or detach it. It falls off if your attunement to it ends. You can use the shard
+      as a spellcasting focus while you hold or wear it.","When you use a Metamagic
+      option on a spell while you are holding or wearing the shard, you can use that
+      property.",{"type":"entries","name":"Property","entries":["Choose one creature
+      who takes damage from the spell. That target takes an extra {@damage 3d6} necrotic
+      damage."]}]}'
+    DataHash: d18b07cd4180fd627afad4bd1353f544

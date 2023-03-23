@@ -17,3 +17,11 @@ MonoBehaviour:
     sleeping creature you choose within range awakens, and then each {@condition
     prone} creature within range can stand up without expending any movement."],"areaTags":["MT"]}'
   DataHash: 75ffe7a545b1f366f35577493bc4b10f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sudden Awakening (UA)
+    Content: 
+    AsJson: '{"name":"Sudden Awakening (UA)","source":"UAStarterSpells","page":4,"level":1,"school":"E","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["Each
+      sleeping creature you choose within range awakens, and then each {@condition
+      prone} creature within range can stand up without expending any movement."],"areaTags":["MT"]}'
+    DataHash: 75ffe7a545b1f366f35577493bc4b10f

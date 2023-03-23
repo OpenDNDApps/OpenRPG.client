@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: scc
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Strixhaven: A Curriculum of Chaos'
   AsJson: '{"name":"Strixhaven: A Curriculum of Chaos","id":"SCC","source":"SCC","group":"setting","coverUrl":"img/covers/SCC.png","published":"2021-12-07","author":"Wizards
     RPG Team","contents":[{"name":"Welcome to Strixhaven","headers":["About This
     Book","Orientation","Strixhaven''s World"]},{"name":"Life at Strixhaven","headers":["Magical
@@ -28,6 +28,26 @@ MonoBehaviour:
     in Ruins","ordinal":{"type":"chapter","identifier":6}},{"name":"Friends and Foes","headers":["Using
     a Stat Block"],"ordinal":{"type":"chapter","identifier":7}},{"name":"Campus Map","ordinal":{"type":"appendix"}}]}'
   DataHash: e0312ae7ca6777a7bccbe44b98f1e495
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Strixhaven: A Curriculum of Chaos","id":"SCC","source":"SCC","group":"setting","coverUrl":"img/covers/SCC.png","published":"2021-12-07","author":"Wizards
+      RPG Team","contents":[{"name":"Welcome to Strixhaven","headers":["About This
+      Book","Orientation","Strixhaven''s World"]},{"name":"Life at Strixhaven","headers":["Magical
+      Study","Campus Overview","Lorehold College","Prismari College","Quandrix College","Silverquill
+      College","Witherbloom College"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Character
+      Options","headers":["Race Option","Choosing a College","Strixhaven Backgrounds","Feats","Spells","Magic
+      Items"],"ordinal":{"type":"chapter","identifier":2}},{"name":"School Is in
+      Session","headers":["Running the Adventures","Strixhaven Tracking Sheet","Extracurriculars","Jobs","Exams","Relationships","Session
+      Zero","Using These Rules","Making Friends and Rivals","Fellow Students"],"ordinal":{"type":"chapter","identifier":3}},{"name":"Campus
+      Kerfuffle","ordinal":{"type":"chapter","identifier":3}},{"name":"Hunt for Mage
+      Tower","ordinal":{"type":"chapter","identifier":4}},{"name":"The Magister''s
+      Masquerade","ordinal":{"type":"chapter","identifier":5}},{"name":"A Reckoning
+      in Ruins","ordinal":{"type":"chapter","identifier":6}},{"name":"Friends and
+      Foes","headers":["Using a Stat Block"],"ordinal":{"type":"chapter","identifier":7}},{"name":"Campus
+      Map","ordinal":{"type":"appendix"}}]}'
+    DataHash: e0312ae7ca6777a7bccbe44b98f1e495
+  CoverURL: img/covers/SCC.png
+  Published: 2021-12-07
+  Author: Wizards RPG Team

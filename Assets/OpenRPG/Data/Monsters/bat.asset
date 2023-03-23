@@ -21,3 +21,16 @@ MonoBehaviour:
     mw} {@hit 0} to hit, reach 5 ft., one creature. {@h}1 piercing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/bat.mp3"},"traitTags":["Keen
     Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: fbf9e3e1c97e29538176369ba8f359c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bat
+    Content: 
+    AsJson: '{"name":"Bat","source":"MM","page":318,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"ToA"},{"source":"WDMM"},{"source":"IDRotF"},{"source":"WBtW"},{"source":"PSX"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":5,"fly":30},"str":2,"dex":15,"con":8,"int":2,"wis":12,"cha":4,"senses":["blindsight
+      60 ft."],"passive":11,"cr":"0","trait":[{"name":"Echolocation","entries":["The
+      bat can''t use its blindsight while {@condition deafened}."]},{"name":"Keen
+      Hearing","entries":["The bat has advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 0} to hit, reach 5 ft., one creature. {@h}1 piercing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/bat.mp3"},"traitTags":["Keen
+      Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: fbf9e3e1c97e29538176369ba8f359c9

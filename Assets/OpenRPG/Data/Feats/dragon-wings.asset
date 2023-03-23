@@ -17,6 +17,14 @@ MonoBehaviour:
     sprout draconic wings. With your wings, you have a flying speed of 20 feet if
     you aren''t wearing heavy armor and aren''t exceeding your carrying capacity."]}'
   DataHash: 60741fe9c8eeebd1500e53f3cb584e0e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragon Wings
+    Content: 
+    AsJson: '{"name":"Dragon Wings","source":"UAFeatsForRaces","page":2,"prerequisite":[{"race":[{"name":"dragonborn"}]}],"entries":["You
+      sprout draconic wings. With your wings, you have a flying speed of 20 feet
+      if you aren''t wearing heavy armor and aren''t exceeding your carrying capacity."]}'
+    DataHash: 60741fe9c8eeebd1500e53f3cb584e0e
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites:

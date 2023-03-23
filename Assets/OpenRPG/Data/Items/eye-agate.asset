@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Eye Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
     translucent circles of gray, white, brown, blue, or green gemstone."]}'
   DataHash: f65f93e9178eb3fc9a71ed8338e877b9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eye Agate
+    Content: 
+    AsJson: '{"name":"Eye Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
+      translucent circles of gray, white, brown, blue, or green gemstone."]}'
+    DataHash: f65f93e9178eb3fc9a71ed8338e877b9

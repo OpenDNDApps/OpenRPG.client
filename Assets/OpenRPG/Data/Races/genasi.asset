@@ -19,3 +19,13 @@ MonoBehaviour:
     darkness as if it were dim light. You discern colors in that darkness only as
     shades of gray."]}],"hasFluff":true,"hasFluffImages":true}'
   DataHash: 13dc03d3389a078279c9dec90858ee26
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Genasi
+    Content: 
+    AsJson: '{"name":"Genasi","source":"MPMM","page":16,"lineage":"VRGR","size":["S","M"],"speed":30,"age":{"max":120},"darkvision":60,"entries":[{"type":"entries","name":"Size","entries":["You
+      are Medium or Small. You choose the size when you select this race."]},{"type":"entries","name":"Darkvision","entries":["You
+      can see in dim light within 60 feet of you as if it were bright light and in
+      darkness as if it were dim light. You discern colors in that darkness only
+      as shades of gray."]}],"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 13dc03d3389a078279c9dec90858ee26

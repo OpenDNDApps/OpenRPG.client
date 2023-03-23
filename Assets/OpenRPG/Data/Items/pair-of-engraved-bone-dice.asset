@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pair of engraved bone dice
   AsJson: '{"name":"Pair of engraved bone dice","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 15a419889aac75b1ab15a4b3d6f493bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pair of engraved bone dice
+    Content: 
+    AsJson: '{"name":"Pair of engraved bone dice","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 15a419889aac75b1ab15a4b3d6f493bb

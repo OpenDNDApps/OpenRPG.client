@@ -17,3 +17,11 @@ MonoBehaviour:
     Touch","items":{"name":"Spectral Longbow","entries":["{@atk rs} {@hit 4} to hit,
     range 150/600 ft., one target. {@h}12 ({@damage 3d6 + 2}) necrotic damage."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4723fc6c8a35c485d085c80b0d47322c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lonelywood Banshee
+    Content: 
+    AsJson: '{"name":"Lonelywood Banshee","source":"IDRotF","page":81,"_copy":{"name":"Banshee","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Corrupting
+      Touch","items":{"name":"Spectral Longbow","entries":["{@atk rs} {@hit 4} to
+      hit, range 150/600 ft., one target. {@h}12 ({@damage 3d6 + 2}) necrotic damage."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4723fc6c8a35c485d085c80b0d47322c

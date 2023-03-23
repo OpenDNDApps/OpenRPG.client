@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Coral","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
     opaque crimson gemstone."]}'
   DataHash: 3044b035b7ae409b0ef2b7c599ad17fa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Coral
+    Content: 
+    AsJson: '{"name":"Coral","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
+      opaque crimson gemstone."]}'
+    DataHash: 3044b035b7ae409b0ef2b7c599ad17fa

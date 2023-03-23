@@ -17,3 +17,11 @@ MonoBehaviour:
     planetar","with":"Fazrian","flags":"i"},"action":{"mode":"removeArr","names":"Healing
     Touch (4/Day)"}}},"alignment":["L","E"],"legendaryGroup":{"name":"Fazrian","source":"WDMM"},"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true}'
   DataHash: 4e41a98ae8242af4c172f3ce4b40b143
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fazrian
+    Content: 
+    AsJson: '{"name":"Fazrian","isNpc":true,"source":"WDMM","page":275,"_copy":{"name":"Planetar","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      planetar","with":"Fazrian","flags":"i"},"action":{"mode":"removeArr","names":"Healing
+      Touch (4/Day)"}}},"alignment":["L","E"],"legendaryGroup":{"name":"Fazrian","source":"WDMM"},"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true}'
+    DataHash: 4e41a98ae8242af4c172f3ce4b40b143

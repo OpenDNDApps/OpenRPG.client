@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Skeletal Two-Headed Owlbear","source":"IMR","page":36,"_copy":{"name":"Two-Headed
     Owlbear","source":"IMR"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
   DataHash: 6fddc4454f20e8a4026cd2fcfd54f622
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeletal Two-Headed Owlbear
+    Content: 
+    AsJson: '{"name":"Skeletal Two-Headed Owlbear","source":"IMR","page":36,"_copy":{"name":"Two-Headed
+      Owlbear","source":"IMR"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
+    DataHash: 6fddc4454f20e8a4026cd2fcfd54f622

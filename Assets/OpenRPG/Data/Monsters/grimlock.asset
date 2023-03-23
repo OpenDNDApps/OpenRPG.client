@@ -25,3 +25,20 @@ MonoBehaviour:
     ({@damage 1d4 + 3}) bludgeoning damage plus 2 ({@damage 1d4}) piercing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/grimlock.mp3"},"traitTags":["Keen
     Senses"],"senseTags":["B"],"languageTags":["U"],"damageTags":["B","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 336550597789531660da4fbeaa2334cd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grimlock
+    Content: 
+    AsJson: '{"name":"Grimlock","source":"MM","page":175,"srd":true,"otherSources":[{"source":"WDMM"}],"size":["M"],"type":{"type":"humanoid","tags":["grimlock"]},"alignment":["N","E"],"ac":[11],"hp":{"average":11,"formula":"2d8
+      + 2"},"speed":{"walk":30},"str":16,"dex":12,"con":12,"int":9,"wis":8,"cha":6,"skill":{"athletics":"+5","perception":"+3","stealth":"+3"},"senses":["blindsight
+      30 ft. or 10 ft. while deafened (blind beyond this radius)"],"passive":13,"conditionImmune":["blinded"],"languages":["Undercommon"],"cr":"1/4","trait":[{"name":"Blind
+      Senses","entries":["The grimlock can''t use its blindsight while {@condition
+      deafened} and unable to smell."]},{"name":"Keen Hearing and Smell","entries":["The
+      grimlock has advantage on Wisdom ({@skill Perception}) checks that rely on
+      hearing or smell."]},{"name":"Stone Camouflage","entries":["The grimlock has
+      advantage on Dexterity (Stealth) checks made to hide in rocky terrain."]}],"action":[{"name":"Spiked
+      Bone Club","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft., one target.
+      {@h}5 ({@damage 1d4 + 3}) bludgeoning damage plus 2 ({@damage 1d4}) piercing
+      damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/grimlock.mp3"},"traitTags":["Keen
+      Senses"],"senseTags":["B"],"languageTags":["U"],"damageTags":["B","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 336550597789531660da4fbeaa2334cd

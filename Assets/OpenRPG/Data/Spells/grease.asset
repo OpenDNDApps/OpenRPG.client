@@ -22,3 +22,16 @@ MonoBehaviour:
     its turn there must also succeed on a Dexterity saving throw or fall {@condition
     prone}."],"conditionInflict":["prone"],"savingThrow":["dexterity"],"areaTags":["Q"]}'
   DataHash: bc01603941624d743a15700b75c418b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grease
+    Content: 
+    AsJson: '{"name":"Grease","source":"PHB","page":246,"srd":true,"level":1,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+      bit of pork rind or butter"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["Slick
+      grease covers the ground in a 10-foot square centered on a point within range
+      and turns it into {@quickref difficult terrain||3} for the duration.","When
+      the grease appears, each creature standing in its area must succeed on a Dexterity
+      saving throw or fall {@condition prone}. A creature that enters the area or
+      ends its turn there must also succeed on a Dexterity saving throw or fall {@condition
+      prone}."],"conditionInflict":["prone"],"savingThrow":["dexterity"],"areaTags":["Q"]}'
+    DataHash: bc01603941624d743a15700b75c418b5

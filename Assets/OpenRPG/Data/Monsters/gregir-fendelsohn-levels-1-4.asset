@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gregir Fendelsohn (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bandit","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
   DataHash: c3a9de05372593034c516606655a8890
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gregir Fendelsohn (Levels 1-4)
+    Content: 
+    AsJson: '{"name":"Gregir Fendelsohn (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bandit","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
+    DataHash: c3a9de05372593034c516606655a8890

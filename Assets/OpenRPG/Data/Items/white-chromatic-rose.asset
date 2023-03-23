@@ -17,3 +17,11 @@ MonoBehaviour:
     in frost","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
     Chromatic Rose|WBtW}"]}'
   DataHash: d49767d3edb0f599346774f50ed5ba57
+  DataByEdition:
+  - Edition: d&d5e
+    Title: White Chromatic Rose
+    Content: 
+    AsJson: '{"name":"White Chromatic Rose","source":"WBtW","page":208,"resist":["cold"],"detail1":"covered
+      in frost","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
+      Chromatic Rose|WBtW}"]}'
+    DataHash: d49767d3edb0f599346774f50ed5ba57

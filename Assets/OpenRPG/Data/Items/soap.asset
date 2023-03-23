@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Soap
   AsJson: '{"name":"Soap","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":2}'
   DataHash: fb63c065cca2f8d79be5d65dcaae7846
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Soap
+    Content: 
+    AsJson: '{"name":"Soap","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":2}'
+    DataHash: fb63c065cca2f8d79be5d65dcaae7846

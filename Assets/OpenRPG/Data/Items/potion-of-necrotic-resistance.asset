@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Necrotic Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["necrotic"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: 6a2363513f44f9598b2a4bd44f734440
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Necrotic Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Necrotic Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["necrotic"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: 6a2363513f44f9598b2a4bd44f734440

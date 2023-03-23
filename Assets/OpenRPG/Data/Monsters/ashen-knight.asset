@@ -19,3 +19,13 @@ MonoBehaviour:
     it was wearing or carrying falls to the ground."]}}}},"type":{"type":"elemental","tags":["any
     race"]},"alignment":["L","E"],"immune":["fire"],"hasFluff":true}'
   DataHash: d206969ee3bed0432b6b95a26a30b442
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashen Knight
+    Content: 
+    AsJson: '{"name":"Ashen Knight","source":"KftGV","page":158,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"knight","with":"ashen
+      knight"},"trait":{"mode":"appendArr","items":{"name":"Ashen Creature","entries":["When
+      the knight drops to 0 hit points, it is reduced to a pile of ash, and any equipment
+      it was wearing or carrying falls to the ground."]}}}},"type":{"type":"elemental","tags":["any
+      race"]},"alignment":["L","E"],"immune":["fire"],"hasFluff":true}'
+    DataHash: d206969ee3bed0432b6b95a26a30b442

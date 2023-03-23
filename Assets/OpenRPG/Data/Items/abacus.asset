@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Abacus
   AsJson: '{"name":"Abacus","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":200}'
   DataHash: b72443662cd4dfddf05efd0b5aa8ce3d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Abacus
+    Content: 
+    AsJson: '{"name":"Abacus","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":200}'
+    DataHash: b72443662cd4dfddf05efd0b5aa8ce3d

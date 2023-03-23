@@ -29,3 +29,24 @@ MonoBehaviour:
     state.","If you maintain your concentration on this spell for the entire possible
     duration, the creature is turned to stone until the effect is removed."],"conditionInflict":["petrified","restrained"],"savingThrow":["constitution"],"miscTags":["PRM","SGT"],"areaTags":["ST"]}'
   DataHash: 4cf3826f1475b9e3c147c09910378b09
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flesh to Stone
+    Content: 
+    AsJson: '{"name":"Flesh to Stone","source":"PHB","page":243,"srd":true,"level":6,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+      pinch of lime, water, and earth"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      attempt to turn one creature that you can see within range into stone. If the
+      target''s body is made of flesh, the creature must make a Constitution saving
+      throw. On a failed save, it is {@condition restrained} as its flesh begins
+      to harden. On a successful save, the creature isn''t affected.","A creature
+      {@condition restrained} by this spell must make another Constitution saving
+      throw at the end of each of its turns. If it successfully saves against this
+      spell three times, the spell ends. If it fails its saves three times, it is
+      turned to stone and subjected to the {@condition petrified} condition for the
+      duration. The successes and failures don''t need to be consecutive; keep track
+      of both until the target collects three of a kind.","If the creature is physically
+      broken while {@condition petrified}, it suffers from similar deformities if
+      it reverts to its original state.","If you maintain your concentration on this
+      spell for the entire possible duration, the creature is turned to stone until
+      the effect is removed."],"conditionInflict":["petrified","restrained"],"savingThrow":["constitution"],"miscTags":["PRM","SGT"],"areaTags":["ST"]}'
+    DataHash: 4cf3826f1475b9e3c147c09910378b09

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Construct (Animated Armor)","source":"PSK","page":32,"_copy":{"name":"Animated
     Armor","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"armor","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d5603591daef11e6139210b8f70965e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Construct (Animated Armor)
+    Content: 
+    AsJson: '{"name":"Construct (Animated Armor)","source":"PSK","page":32,"_copy":{"name":"Animated
+      Armor","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"armor","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d5603591daef11e6139210b8f70965e0

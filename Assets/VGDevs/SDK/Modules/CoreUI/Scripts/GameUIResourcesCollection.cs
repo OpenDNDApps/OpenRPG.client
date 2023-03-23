@@ -34,7 +34,7 @@ namespace VGDevs
 			if (string.IsNullOrEmpty(itemName)) 
 				return false;
             
-			foreach (var window in m_uiItems)
+			foreach (UIItem window in m_uiItems)
 			{
 				if (!window.name.Equals(itemName)) continue;
 				
@@ -73,19 +73,19 @@ namespace VGDevs
 		        AddLoadablePrefabs(m_uiRuntime.gameObject);
 	        }
 
-	        if (!LayersAreValid(out List<string> wrongLayers))
+	        if (LayersAreValid(out List<string> wrongLayers))
+		        return;
+	        
+	        foreach (string wrongLayer in wrongLayers)
 	        {
-		        foreach (var wrongLayer in wrongLayers)
-		        {
-			        Debug.LogError($"The UI SortingLayer '{wrongLayer}' does not exists but you're trying to use it.");
-		        }
+		        Debug.LogError($"The UI SortingLayer '{wrongLayer}' does not exists but you're trying to use it.");
 	        }
         }
 
-        private bool LayersAreValid(out List<string> wrongLayers)
+        private static bool LayersAreValid(out List<string> wrongLayers)
         {
 	        wrongLayers = new List<string>();
-	        foreach (var sorting in GameResources.Settings.UI.Sorting)
+	        foreach (UISortingKeyPair sorting in GameResources.Settings.UI.Sorting)
 	        {
 		        if (SortingLayer.layers.ToList().Exists(layer => layer.name.Equals(sorting.Type.ToString())))
 			        continue;

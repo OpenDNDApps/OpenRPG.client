@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hourglass
   AsJson: '{"name":"Hourglass","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2500}'
   DataHash: a9bff090045a7bb0537f9c583917ce89
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hourglass
+    Content: 
+    AsJson: '{"name":"Hourglass","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2500}'
+    DataHash: a9bff090045a7bb0537f9c583917ce89

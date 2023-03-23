@@ -17,3 +17,11 @@ MonoBehaviour:
     Fanatic","source":"MM","_trait":{"name":"Mountain Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     fanatic","with":"Hulil","flags":"i"}}},"alignment":["N","E"],"speed":{"walk":15},"hasToken":true}'
   DataHash: fb3cfb3a9bc1751a9fdd5ad78e3d9062
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hulil Lutan
+    Content: 
+    AsJson: '{"name":"Hulil Lutan","isNpc":true,"source":"EGW","page":240,"_copy":{"name":"Cult
+      Fanatic","source":"MM","_trait":{"name":"Mountain Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      fanatic","with":"Hulil","flags":"i"}}},"alignment":["N","E"],"speed":{"walk":15},"hasToken":true}'
+    DataHash: fb3cfb3a9bc1751a9fdd5ad78e3d9062

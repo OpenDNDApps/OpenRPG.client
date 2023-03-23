@@ -139,9 +139,4 @@ namespace ORC
             Other
         }
     }
-
-    public partial class OrcDataCollection
-    {
-        
-    }
 }

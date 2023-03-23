@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Feonor","isNpc":true,"source":"BGDIA","page":130,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Feonor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 9b342b5e8fd9b50d5ddac43d6a82eaac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feonor
+    Content: 
+    AsJson: '{"name":"Feonor","isNpc":true,"source":"BGDIA","page":130,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Feonor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 9b342b5e8fd9b50d5ddac43d6a82eaac

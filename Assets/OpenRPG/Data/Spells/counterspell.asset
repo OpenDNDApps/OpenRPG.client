@@ -24,3 +24,18 @@ MonoBehaviour:
     level or higher, the interrupted spell has no effect if its level is less than
     or equal to the level of the spell slot you used."]}]}'
   DataHash: 7fd7eec682a860180ac88f64f809c219
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Counterspell
+    Content: 
+    AsJson: '{"name":"Counterspell","source":"PHB","page":228,"srd":true,"basicRules":true,"level":3,"school":"A","time":[{"number":1,"unit":"reaction","condition":"which
+      you take when you see a creature within 60 feet of you casting a spell"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["You
+      attempt to interrupt a creature in the process of casting a spell. If the creature
+      is casting a spell of 3rd level or lower, its spell fails and has no effect.
+      If it is casting a spell of 4th level or higher, make an ability check using
+      your spellcasting ability. The DC equals 10 + the spell''s level. On a success,
+      the creature''s spell fails and has no effect."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, the interrupted spell has no effect if its level is less than
+      or equal to the level of the spell slot you used."]}]}'
+    DataHash: 7fd7eec682a860180ac88f64f809c219

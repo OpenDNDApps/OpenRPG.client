@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Malachite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque striated light and dark green gemstone."]}'
   DataHash: 4fa627ad63f9ace007bc45f0717810ed
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Malachite
+    Content: 
+    AsJson: '{"name":"Malachite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque striated light and dark green gemstone."]}'
+    DataHash: 4fa627ad63f9ace007bc45f0717810ed

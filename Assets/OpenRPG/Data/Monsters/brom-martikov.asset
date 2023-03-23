@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Brom Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Young
     Wereraven","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the wereraven","with":"Brom","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: eef3386f48fde7d75c5eaf83429d19b3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brom Martikov
+    Content: 
+    AsJson: '{"name":"Brom Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Young
+      Wereraven","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the wereraven","with":"Brom","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: eef3386f48fde7d75c5eaf83429d19b3

@@ -18,3 +18,12 @@ MonoBehaviour:
     spell enchants the flesh of the target against the impact of bullets. Until the
     spell ends, the target has resistance to nonmagical ballistic damage."]}'
   DataHash: 2eea2183c558c6e8bacaaa63ba69d7ee
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Protection from Ballistics (UA)
+    Content: 
+    AsJson: '{"name":"Protection from Ballistics (UA)","source":"UAModernMagic","page":8,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      shell casing"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["This
+      spell enchants the flesh of the target against the impact of bullets. Until
+      the spell ends, the target has resistance to nonmagical ballistic damage."]}'
+    DataHash: 2eea2183c558c6e8bacaaa63ba69d7ee

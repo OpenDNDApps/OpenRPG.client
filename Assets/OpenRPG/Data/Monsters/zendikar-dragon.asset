@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zendikar Dragon","source":"PSZ","page":29,"_copy":{"name":"Young
     Red Dragon","source":"MM"},"int":8,"hasToken":true}'
   DataHash: d9b2abbaa9e474e2feae5ddb93789425
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zendikar Dragon
+    Content: 
+    AsJson: '{"name":"Zendikar Dragon","source":"PSZ","page":29,"_copy":{"name":"Young
+      Red Dragon","source":"MM"},"int":8,"hasToken":true}'
+    DataHash: d9b2abbaa9e474e2feae5ddb93789425

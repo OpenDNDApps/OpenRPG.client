@@ -19,3 +19,13 @@ MonoBehaviour:
     saving throw, taking 42 ({@damage 12d6}) poison damage on a failed save, or half
     as much damage on a successful one."],"poisonTypes":["injury"]}'
   DataHash: e237c4ef281306ab6f71b849e2542359
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Purple Worm Poison
+    Content: 
+    AsJson: '{"name":"Purple Worm Poison","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":200000,"poison":true,"entries":["This
+      poison must be harvested from a dead or {@condition incapacitated} {@creature
+      purple worm}. A creature subjected to this poison must make a DC 19 Constitution
+      saving throw, taking 42 ({@damage 12d6}) poison damage on a failed save, or
+      half as much damage on a successful one."],"poisonTypes":["injury"]}'
+    DataHash: e237c4ef281306ab6f71b849e2542359

@@ -18,3 +18,13 @@ MonoBehaviour:
     Player''s Handbook) and comes with a single key. The tumblers in this lock magically
     adjust to thwart burglars. Dexterity checks made to pick the lock have disadvantage."]}'
   DataHash: 34a8c51cba7ea4eb182f126af2f15c28
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lock of Trickery
+    Content: 
+    AsJson: '{"name":"Lock of Trickery","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+      lock appears to be an ordinary lock (of the type described in chapter 5 of
+      the Player''s Handbook) and comes with a single key. The tumblers in this lock
+      magically adjust to thwart burglars. Dexterity checks made to pick the lock
+      have disadvantage."]}'
+    DataHash: 34a8c51cba7ea4eb182f126af2f15c28

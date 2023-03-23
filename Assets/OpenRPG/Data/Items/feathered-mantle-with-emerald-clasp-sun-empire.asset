@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Feathered mantle with emerald clasp (Sun Empire)
   AsJson: '{"name":"Feathered mantle with emerald clasp (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 41e0bf01b9b877a1aa9a0890a15f88e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feathered mantle with emerald clasp (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Feathered mantle with emerald clasp (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 41e0bf01b9b877a1aa9a0890a15f88e5

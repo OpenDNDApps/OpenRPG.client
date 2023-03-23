@@ -18,3 +18,12 @@ MonoBehaviour:
     with this armor even if you lack proficiency with medium armor."],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: 6dc5eaefa0abadc2756964adfffb0da2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elven Chain
+    Content: 
+    AsJson: '{"name":"Elven Chain","source":"DMG","page":168,"srd":true,"type":"MA","tier":"major","rarity":"rare","weight":20,"ac":13,"grantsProficiency":true,"bonusAc":"+1","entries":["You
+      gain a +1 bonus to AC while you wear this armor. You are considered proficient
+      with this armor even if you lack proficiency with medium armor."],"lootTables":["Magic
+      Item Table G"],"hasFluffImages":true}'
+    DataHash: 6dc5eaefa0abadc2756964adfffb0da2

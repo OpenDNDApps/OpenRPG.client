@@ -18,3 +18,13 @@ MonoBehaviour:
     in a 10-foot-radius sphere of magical energy on impact, destroying the stone.
     Any active spell of 5th level or lower in the sphere ends."]}'
   DataHash: 4581e2b968bf99f0bf3e02f45d8abd07
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dispelling Stone
+    Content: 
+    AsJson: '{"name":"Dispelling Stone","source":"EGW","page":266,"rarity":"very
+      rare","wondrous":true,"entries":["This smooth, rainbow-colored, egg-shaped
+      stone can be thrown up to 30 feet and explodes in a 10-foot-radius sphere of
+      magical energy on impact, destroying the stone. Any active spell of 5th level
+      or lower in the sphere ends."]}'
+    DataHash: 4581e2b968bf99f0bf3e02f45d8abd07

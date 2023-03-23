@@ -20,6 +20,17 @@ MonoBehaviour:
     bonus to checks you make with it.","You can take the {@action Search} action
     as a bonus action."]}]}'
   DataHash: 65b2ff2cc47b1204dc40e154025d75cc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Investigator
+    Content: 
+    AsJson: '{"name":"Investigator","source":"UAFeatsForSkills","page":2,"ability":[{"int":1}],"skillProficiencies":[{"investigation":true}],"entries":["You
+      have an eye for detail and can pick out the smallest clues. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency in the {@skill Investigation}
+      skill. If you are already proficient in the skill, you add double your proficiency
+      bonus to checks you make with it.","You can take the {@action Search} action
+      as a bonus action."]}]}'
+    DataHash: 65b2ff2cc47b1204dc40e154025d75cc
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

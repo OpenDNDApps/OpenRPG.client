@@ -19,3 +19,13 @@ MonoBehaviour:
     concentration required). This blue potion bubbles and steams as if boiling."],"attachedSpells":["bless"],"lootTables":["Magic
     Item Table C"]}'
   DataHash: 9793122a2613ff3477e200d713e0355c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Heroism
+    Content: 
+    AsJson: '{"name":"Potion of Heroism","source":"DMG","page":188,"srd":true,"type":"P","tier":"minor","rarity":"rare","entries":["For
+      1 hour after drinking it, you gain 10 temporary hit points that last for 1
+      hour. For the same duration, you are under the effect of the {@spell bless}
+      spell (no concentration required). This blue potion bubbles and steams as if
+      boiling."],"attachedSpells":["bless"],"lootTables":["Magic Item Table C"]}'
+    DataHash: 9793122a2613ff3477e200d713e0355c

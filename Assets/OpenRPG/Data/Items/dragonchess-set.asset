@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Dragonchess Set
   AsJson: '{"name":"Dragonchess Set","source":"PHB","page":154,"basicRules":true,"type":"GS","rarity":"none","weight":0.5,"value":100}'
   DataHash: 1b5008f6640e630bed2e29020bb0239e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragonchess Set
+    Content: 
+    AsJson: '{"name":"Dragonchess Set","source":"PHB","page":154,"basicRules":true,"type":"GS","rarity":"none","weight":0.5,"value":100}'
+    DataHash: 1b5008f6640e630bed2e29020bb0239e

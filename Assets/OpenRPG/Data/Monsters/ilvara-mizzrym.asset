@@ -19,3 +19,13 @@ MonoBehaviour:
     Equipment","entries":["Ilvara wields a {@item tentacle rod} in addition to her
     scourge."]}}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 648fd13069dab4f4ea321a4aa7f63ff4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ilvara Mizzrym
+    Content: 
+    AsJson: '{"name":"Ilvara Mizzrym","isNpc":true,"source":"OotA","page":9,"_copy":{"name":"Drow
+      Priestess of Lolth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Ilvara","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Ilvara wields a {@item tentacle rod} in addition to
+      her scourge."]}}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 648fd13069dab4f4ea321a4aa7f63ff4

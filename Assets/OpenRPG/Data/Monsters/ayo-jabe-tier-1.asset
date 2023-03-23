@@ -24,3 +24,19 @@ MonoBehaviour:
     damage."]},{"name":"Longbow","entries":["{@atk rw} {@hit 4} to hit, range 150/600
     ft., one target. {@h}11 ({@damage 2d8 + 2}) piercing damage."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"languageTags":["C","GO","O"],"damageTags":["P"],"spellcastingTags":["O"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: e998e0f5f2a02cfee08e4771be5ca805
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ayo Jabe (Tier 1)
+    Content: 
+    AsJson: '{"name":"Ayo Jabe (Tier 1)","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":188,"size":["M"],"type":{"type":"humanoid","tags":["ranger",{"tag":"genasi","prefix":"Water"}]},"alignment":["C","G"],"ac":[{"ac":14,"from":["{@item
+      studded leather armor|PHB|studded leather}"]}],"hp":{"average":65,"formula":"10d8
+      + 20"},"speed":{"walk":30,"swim":30},"str":14,"dex":14,"con":14,"int":10,"wis":12,"cha":12,"save":{"str":"+4","dex":"+4"},"skill":{"athletics":"+4","perception":"+3","survival":"+3"},"passive":13,"resist":["acid"],"languages":["Common","Goblin","Orc"],"cr":"3","spellcasting":[{"name":"Spellcasting","headerEntries":["Ayo
+      casts one of the following spells, using Wisdom as the spellcasting ability
+      (spell save {@dc 11}):"],"daily":{"1e":["{@spell animal friendship}","{@spell
+      goodberry}"]},"ability":"wis","displayAs":"action"}],"trait":[{"name":"Amphibious","entries":["Ayo
+      can breathe air and water."]}],"action":[{"name":"Multiattack","entries":["Ayo
+      makes two Harpoon or Longbow attacks."]},{"name":"Harpoon","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) piercing
+      damage."]},{"name":"Longbow","entries":["{@atk rw} {@hit 4} to hit, range 150/600
+      ft., one target. {@h}11 ({@damage 2d8 + 2}) piercing damage."]}],"traitTags":["Amphibious"],"actionTags":["Multiattack"],"languageTags":["C","GO","O"],"damageTags":["P"],"spellcastingTags":["O"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: e998e0f5f2a02cfee08e4771be5ca805

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Commoner
   AsJson: '{"name":"Vistana Commoner","source":"CoS","page":28,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 7099e887eb12bbb1177798750bbbcd5e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Commoner
+    Content: 
+    AsJson: '{"name":"Vistana Commoner","source":"CoS","page":28,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 7099e887eb12bbb1177798750bbbcd5e

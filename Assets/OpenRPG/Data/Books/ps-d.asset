@@ -12,13 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ps-d
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Plane Shift: Dominaria'
   AsJson: '{"name":"Plane Shift: Dominaria","id":"PS-D","source":"PSD","group":"supplement-alt","coverUrl":"img/covers/PSD.png","published":"2018-07-31","author":"Wizards
     RPG Team","contents":[{"name":"Introduction","headers":["The Domains"]},{"name":"Seven
     Pillars of Benalia"},{"name":"Church of Serra"},{"name":"Tolarian Academy"},{"name":"Merfolk
     of Vodalia"},{"name":"Belezenlok''s Cabal"},{"name":"Warhosts of Keld"},{"name":"Elves
     of Llanowar"}]}'
   DataHash: 22eff9fe15965ac34c9ab6437753732e
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Plane Shift: Dominaria","id":"PS-D","source":"PSD","group":"supplement-alt","coverUrl":"img/covers/PSD.png","published":"2018-07-31","author":"Wizards
+      RPG Team","contents":[{"name":"Introduction","headers":["The Domains"]},{"name":"Seven
+      Pillars of Benalia"},{"name":"Church of Serra"},{"name":"Tolarian Academy"},{"name":"Merfolk
+      of Vodalia"},{"name":"Belezenlok''s Cabal"},{"name":"Warhosts of Keld"},{"name":"Elves
+      of Llanowar"}]}'
+    DataHash: 22eff9fe15965ac34c9ab6437753732e
+  CoverURL: img/covers/PSD.png
+  Published: 2018-07-31
+  Author: Wizards RPG Team

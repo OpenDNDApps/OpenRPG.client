@@ -18,3 +18,12 @@ MonoBehaviour:
     you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit."],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 4ce69c674326f2eb9424d8701c87fa5a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Warmth
+    Content: 
+    AsJson: '{"name":"Ring of Warmth","source":"DMG","page":193,"srd":true,"type":"RG","resist":["cold"],"tier":"major","rarity":"uncommon","reqAttune":true,"entries":["While
+      wearing this ring, you have resistance to cold damage. In addition, you and
+      everything you wear and carry are unharmed by temperatures as low as -50 degrees
+      Fahrenheit."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+    DataHash: 4ce69c674326f2eb9424d8701c87fa5a

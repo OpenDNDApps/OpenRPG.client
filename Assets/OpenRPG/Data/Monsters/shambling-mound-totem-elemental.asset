@@ -17,3 +17,11 @@ MonoBehaviour:
     Mound","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shambling mound","with":"shambling
     mound totem"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 84f034458a4a019f1a74b8e8ed9b39f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shambling Mound Totem Elemental
+    Content: 
+    AsJson: '{"name":"Shambling Mound Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Shambling
+      Mound","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shambling
+      mound","with":"shambling mound totem"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 84f034458a4a019f1a74b8e8ed9b39f1

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Willifort Crowelle","isNpc":true,"source":"WDH","page":62,"_copy":{"name":"Doppelganger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     doppelganger","with":"Willifort","flags":"i"}}},"hasToken":true}'
   DataHash: 0b230f5e07e14fd8ffe947f8fab4918b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Willifort Crowelle
+    Content: 
+    AsJson: '{"name":"Willifort Crowelle","isNpc":true,"source":"WDH","page":62,"_copy":{"name":"Doppelganger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      doppelganger","with":"Willifort","flags":"i"}}},"hasToken":true}'
+    DataHash: 0b230f5e07e14fd8ffe947f8fab4918b

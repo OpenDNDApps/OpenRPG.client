@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grimzod Gargenhale","isNpc":true,"isNamedCreature":true,"source":"LoX","page":32,"_copy":{"name":"Vampirate
     Captain","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Grimzod","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
   DataHash: 1de0ccddbf2380b36ca4ca134933811b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grimzod Gargenhale
+    Content: 
+    AsJson: '{"name":"Grimzod Gargenhale","isNpc":true,"isNamedCreature":true,"source":"LoX","page":32,"_copy":{"name":"Vampirate
+      Captain","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Grimzod","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 1de0ccddbf2380b36ca4ca134933811b

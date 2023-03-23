@@ -17,3 +17,11 @@ MonoBehaviour:
     Weird","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"water weird","with":"wine
     weird"}}},"hasToken":true}'
   DataHash: 174357aa95879f9ca6ea58ac1a87e7e6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wine Weird
+    Content: 
+    AsJson: '{"name":"Wine Weird","isNpc":true,"source":"ToA","page":141,"_copy":{"name":"Water
+      Weird","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"water weird","with":"wine
+      weird"}}},"hasToken":true}'
+    DataHash: 174357aa95879f9ca6ea58ac1a87e7e6

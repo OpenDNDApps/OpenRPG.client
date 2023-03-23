@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Ochre Jelly","source":"TftYP","page":113,"_copy":{"name":"Ochre
     Jelly","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: eb350b0669112fb34eec79f085b78343
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Ochre Jelly
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Ochre Jelly","source":"TftYP","page":113,"_copy":{"name":"Ochre
+      Jelly","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: eb350b0669112fb34eec79f085b78343

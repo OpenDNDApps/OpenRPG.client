@@ -20,3 +20,14 @@ MonoBehaviour:
     (1-ounce bottle)|phb","ink pen|phb","parchment (one sheet)|phb",{"special":"little
     bag of sand"},{"special":"small knife"}]}'
   DataHash: bf3322234b78720a4733bfe602d2611e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scholar's Pack
+    Content: 
+    AsJson: '{"name":"Scholar''s Pack","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":4000,"entries":["Includes:",{"type":"list","items":["a
+      {@item backpack|phb}","a {@item book|phb} of lore","a {@item Ink (1-ounce bottle)|phb|bottle
+      of ink}","an {@item ink pen|phb}","10 {@item Parchment (one sheet)|phb|sheets
+      of parchment}","a little bag of sand","a small knife."]}],"packContents":["backpack|phb","book|phb","ink
+      (1-ounce bottle)|phb","ink pen|phb","parchment (one sheet)|phb",{"special":"little
+      bag of sand"},{"special":"small knife"}]}'
+    DataHash: bf3322234b78720a4733bfe602d2611e

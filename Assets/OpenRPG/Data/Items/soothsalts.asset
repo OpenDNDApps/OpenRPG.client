@@ -25,3 +25,19 @@ MonoBehaviour:
     saving throw or gain one level of {@condition exhaustion}\u2014an effect which
     is cumulative with multiple doses.\"]}"
   DataHash: 9d00f72b4b4c1f8a7769c0a90d015d45
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Soothsalts
+    Content: 
+    AsJson: "{\"name\":\"Soothsalts\",\"source\":\"EGW\",\"page\":152,\"type\":\"G\",\"rarity\":\"none\",\"value\":15000,\"entries\":[\"Soothsalts
+      are derived from a naturally occurring crystalline substance discovered throughout
+      the wilds of the Miskath Strand. The crimson crystals have been mined from
+      cavernous veins like those in the mouth of the Miskath Pit and found within
+      smaller geode formations near sites ravaged by the Calamity. Soothsalts are
+      consumed orally in lozenge-sized doses, and frequent users can be identified
+      by the telltale crimson stain around their mouths. A creature subjected to
+      a dose of soothsalts gains advantage on all Intelligence checks for {@dice
+      1d4} hours.\",\"For each dose of soothsalts consumed, the creature must succeed
+      on a DC 15 Constitution saving throw or gain one level of {@condition exhaustion}\u2014an
+      effect which is cumulative with multiple doses.\"]}"
+    DataHash: 9d00f72b4b4c1f8a7769c0a90d015d45

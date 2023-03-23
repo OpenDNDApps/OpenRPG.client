@@ -19,3 +19,13 @@ MonoBehaviour:
     being worn or carried."],"attachedSpells":["telekinesis"],"lootTables":["Magic
     Item Table H"],"hasFluffImages":true}'
   DataHash: 66f985f93c9655b575ed2c519a9c8b11
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Telekinesis
+    Content: 
+    AsJson: '{"name":"Ring of Telekinesis","source":"DMG","page":193,"srd":true,"type":"RG","tier":"major","rarity":"very
+      rare","reqAttune":true,"entries":["While wearing this ring, you can cast the
+      {@spell telekinesis} spell at will, but you can target only objects that aren''t
+      being worn or carried."],"attachedSpells":["telekinesis"],"lootTables":["Magic
+      Item Table H"],"hasFluffImages":true}'
+    DataHash: 66f985f93c9655b575ed2c519a9c8b11

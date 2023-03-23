@@ -17,3 +17,11 @@ MonoBehaviour:
     or Smaller Half-Green Dragon","source":"MM"},"_mod":{"*":{"mode":"replaceTxt","replace":"assassin","with":"half-dragon"}}},"senseTags":["B","D"],"actionTags":["Breath
     Weapon","Multiattack"],"languageTags":["DR","TC","X"],"miscTags":["AOE","MW","RNG","RW"],"hasToken":true}'
   DataHash: f12bca6d12381f2601e6906e926c1a9a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Half-Green Dragon Assassin
+    Content: 
+    AsJson: '{"name":"Half-Green Dragon Assassin","source":"RoT","page":56,"otherSources":[{"source":"ToD","page":142}],"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Large
+      or Smaller Half-Green Dragon","source":"MM"},"_mod":{"*":{"mode":"replaceTxt","replace":"assassin","with":"half-dragon"}}},"senseTags":["B","D"],"actionTags":["Breath
+      Weapon","Multiattack"],"languageTags":["DR","TC","X"],"miscTags":["AOE","MW","RNG","RW"],"hasToken":true}'
+    DataHash: f12bca6d12381f2601e6906e926c1a9a

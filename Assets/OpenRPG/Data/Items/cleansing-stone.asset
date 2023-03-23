@@ -19,3 +19,13 @@ MonoBehaviour:
     and grime from your garments and your person.","Such stones are often embedded
     in pedestals in public squares in Aundair or in high-end Ghallanda inns."]}'
   DataHash: b1bf1f5afacc6201a30a826b6f75dbbb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cleansing Stone
+    Content: 
+    AsJson: '{"name":"Cleansing Stone","source":"ERLW","page":276,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["A
+      cleansing stone is a sphere 1 foot in diameter, engraved with mystic sigils.
+      When touching the stone, you can use an action to activate it and remove dirt
+      and grime from your garments and your person.","Such stones are often embedded
+      in pedestals in public squares in Aundair or in high-end Ghallanda inns."]}'
+    DataHash: b1bf1f5afacc6201a30a826b6f75dbbb

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Large well-made tapestry
   AsJson: '{"name":"Large well-made tapestry","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: a2cc480ce98384253ff8d9e0b9f3cb37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Large well-made tapestry
+    Content: 
+    AsJson: '{"name":"Large well-made tapestry","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: a2cc480ce98384253ff8d9e0b9f3cb37

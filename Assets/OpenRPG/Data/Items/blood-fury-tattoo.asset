@@ -29,3 +29,24 @@ MonoBehaviour:
     magic items you can attune to.","If your attunement to the tattoo ends, the tattoo
     vanishes, and the needle reappears in the closest unoccupied space to you."]}]}'
   DataHash: 58591f99c54c1b4954244339fd990101
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blood Fury Tattoo
+    Content: 
+    AsJson: '{"name":"Blood Fury Tattoo","source":"UA2020SpellsAndMagicTattoos","page":10,"rarity":"legendary","reqAttune":true,"wondrous":true,"tattoo":true,"bonusWeaponCritDamage":"4d6","critThreshold":19,"entries":["This
+      tattoo evokes fury in its form and colors. While this tattoo is on your skin,
+      you gain the following benefits:",{"type":"list","items":["Your attack rolls
+      score a critical hit on a {@dice d20} roll of 19 or 20.","When you score a
+      critical hit against a creature, that target takes an extra {@damage 4d6} necrotic
+      damage, and you gain a number of temporary hit points equal to the necrotic
+      damage dealt.","When a creature you can see damages you, you can use your reaction
+      to make a melee attack against that creature, with advantage on your attack
+      roll."]},{"type":"entries","name":"Tattoo Attunement","entries":["To attune
+      to this item, you hold the needle to your skin where you want the tattoo to
+      appear, pressing the needle there throughout the attunement process. When the
+      attunement is complete, the needle turns into the ink that becomes the tattoo,
+      which appears on the skin. If you have multiple magic tattoos, they count as
+      a single magic item with regard to the number of magic items you can attune
+      to.","If your attunement to the tattoo ends, the tattoo vanishes, and the needle
+      reappears in the closest unoccupied space to you."]}]}'
+    DataHash: 58591f99c54c1b4954244339fd990101

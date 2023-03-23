@@ -26,3 +26,20 @@ MonoBehaviour:
     to the tattoo ends, the tattoo vanishes, and the needle reappears in the closest
     unoccupied space to you."]}]}'
   DataHash: a62f27a88a6305673260d192880a851d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barrier Tattoo (Rare)
+    Content: 
+    AsJson: '{"name":"Barrier Tattoo (Rare)","source":"UA2020SpellsAndMagicTattoos","page":9,"rarity":"rare","reqAttune":true,"wondrous":true,"tattoo":true,"entries":["This
+      tattoo depicts protective imagery and uses ink that resembles liquid metal.
+      While you aren''t wearing armor, the tattoo grants you an Armor Class of 15
+      + your Dexterity modifier (maximum of +2). You can use a shield and still gain
+      this benefit.",{"type":"entries","name":"Tattoo Attunement","entries":["To
+      attune to this item, you hold the needle to your skin where you want the tattoo
+      to appear, pressing the needle there throughout the attunement process. When
+      the attunement is complete, the needle turns into the ink that becomes the
+      tattoo, which appears on the skin. If you have multiple magic tattoos, they
+      count as a single magic item with regard to the number of magic items you can
+      attune to.","If your attunement to the tattoo ends, the tattoo vanishes, and
+      the needle reappears in the closest unoccupied space to you."]}]}'
+    DataHash: a62f27a88a6305673260d192880a851d

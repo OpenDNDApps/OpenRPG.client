@@ -19,3 +19,13 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: b73dfccee53505746abcce4950400485
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Headband of Intellect
+    Content: 
+    AsJson: '{"name":"Headband of Intellect","source":"DMG","page":173,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"ability":{"static":{"int":19}},"entries":["Your
+      Intelligence score is 19 while you wear this headband. It has no effect on
+      you if your Intelligence is already 19 or higher without it."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: b73dfccee53505746abcce4950400485

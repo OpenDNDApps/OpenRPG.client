@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Azaka Stormfang
   AsJson: '{"name":"Azaka Stormfang","isNpc":true,"source":"ToA","page":33,"_copy":{"name":"Weretiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"weretiger","with":"Azaka","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
   DataHash: 381f14be8412990419417b1320ffa604
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Azaka Stormfang
+    Content: 
+    AsJson: '{"name":"Azaka Stormfang","isNpc":true,"source":"ToA","page":33,"_copy":{"name":"Weretiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"weretiger","with":"Azaka","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 381f14be8412990419417b1320ffa604

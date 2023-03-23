@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sphinx (Type 1)
   AsJson: '{"name":"Sphinx (Type 1)","source":"PSZ","page":24,"_copy":{"name":"Androsphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 7370e5f96e519d4738d39340e3fc7fee
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sphinx (Type 1)
+    Content: 
+    AsJson: '{"name":"Sphinx (Type 1)","source":"PSZ","page":24,"_copy":{"name":"Androsphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 7370e5f96e519d4738d39340e3fc7fee

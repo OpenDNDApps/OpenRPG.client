@@ -18,3 +18,12 @@ MonoBehaviour:
     Sensitivity"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"senses":null,"languages":["Bothii","Common"],"traitTags":["Pack
     Tactics"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: 549c2c06f8f32333ee78169bcd94d573
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orok
+    Content: 
+    AsJson: '{"name":"Orok","isNpc":true,"source":"SKT","page":115,"_copy":{"name":"Kobold","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      kobold","with":"Orok","flags":"i"},"trait":{"mode":"removeArr","names":"Sunlight
+      Sensitivity"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"senses":null,"languages":["Bothii","Common"],"traitTags":["Pack
+      Tactics"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: 549c2c06f8f32333ee78169bcd94d573

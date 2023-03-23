@@ -22,3 +22,16 @@ MonoBehaviour:
     ({@damage 3d10}), and 17th level ({@damage 4d10})."],"scalingLevelDice":{"label":"acid
     damage","scaling":{"1":"1d10","5":"2d10","11":"3d10","17":"4d10"}},"damageInflict":["acid"],"spellAttack":["M"],"miscTags":["SCL"],"areaTags":["ST"]}'
   DataHash: 2ae7f28ff99f4dfab98e840134e2ef9c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Primal Savagery
+    Content: 
+    AsJson: '{"name":"Primal Savagery","source":"XGE","page":163,"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["You
+      channel primal magic to cause your teeth or fingernails to sharpen, ready to
+      deliver a corrosive attack. Make a melee spell attack against one creature
+      within 5 feet of you. On a hit, the target takes {@damage 1d10} acid damage.
+      After you make the attack, your teeth or fingernails return to normal.","The
+      spell''s damage increases by {@dice 1d10} when you reach 5th level ({@damage
+      2d10}), 11th level ({@damage 3d10}), and 17th level ({@damage 4d10})."],"scalingLevelDice":{"label":"acid
+      damage","scaling":{"1":"1d10","5":"2d10","11":"3d10","17":"4d10"}},"damageInflict":["acid"],"spellAttack":["M"],"miscTags":["SCL"],"areaTags":["ST"]}'
+    DataHash: 2ae7f28ff99f4dfab98e840134e2ef9c

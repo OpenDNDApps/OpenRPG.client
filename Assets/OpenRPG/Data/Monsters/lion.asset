@@ -30,3 +30,24 @@ MonoBehaviour:
     damage."]}],"environment":["mountain","grassland","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/lion.mp3"},"traitTags":["Keen
     Senses","Pack Tactics","Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
   DataHash: 8534cf1fee709bee1315ef147e0bfd6b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lion
+    Content: 
+    AsJson: '{"name":"Lion","source":"MM","page":331,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"KftGV"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":26,"formula":"4d10
+      + 4"},"speed":{"walk":50},"str":17,"dex":15,"con":13,"int":3,"wis":12,"cha":8,"skill":{"perception":"+3","stealth":"+6"},"passive":13,"cr":"1","trait":[{"name":"Keen
+      Smell","entries":["The lion has advantage on Wisdom ({@skill Perception}) checks
+      that rely on smell."]},{"name":"Pack Tactics","entries":["The lion has advantage
+      on an attack roll against a creature if at least one of the lion''s allies
+      is within 5 feet of the creature and the ally isn''t {@condition incapacitated}."]},{"name":"Pounce","entries":["If
+      the lion moves at least 20 feet straight toward a creature and then hits it
+      with a claw attack on the same turn, that target must succeed on a {@dc 13}
+      Strength saving throw or be knocked {@condition prone}. If the target is {@condition
+      prone}, the lion can make one bite attack against it as a bonus action."]},{"name":"Running
+      Leap","entries":["With a 10-foot running start, the lion can long jump up to
+      25 feet."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 5} to hit,
+      reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing
+      damage."]}],"environment":["mountain","grassland","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/lion.mp3"},"traitTags":["Keen
+      Senses","Pack Tactics","Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+    DataHash: 8534cf1fee709bee1315ef147e0bfd6b

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tankard","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2,"entries":["A
     tankard holds 1 pint of liquid."]}'
   DataHash: cdb2dad29b4b3c931763093372d36514
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tankard
+    Content: 
+    AsJson: '{"name":"Tankard","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2,"entries":["A
+      tankard holds 1 pint of liquid."]}'
+    DataHash: cdb2dad29b4b3c931763093372d36514

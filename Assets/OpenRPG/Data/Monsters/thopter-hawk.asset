@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Thopter (Hawk)
   AsJson: '{"name":"Thopter (Hawk)","source":"PSK","page":33,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: f86f88009d1499a9939dc06916de4e4a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thopter (Hawk)
+    Content: 
+    AsJson: '{"name":"Thopter (Hawk)","source":"PSK","page":33,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: f86f88009d1499a9939dc06916de4e4a

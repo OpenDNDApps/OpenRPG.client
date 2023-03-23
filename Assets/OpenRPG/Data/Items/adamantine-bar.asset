@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Adamantine Bar
   AsJson: '{"name":"Adamantine Bar","source":"WDH","page":90,"type":"TG","rarity":"none","weight":10,"value":100000}'
   DataHash: b24be63b1a6b2a09efecbd76888f36ea
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Adamantine Bar
+    Content: 
+    AsJson: '{"name":"Adamantine Bar","source":"WDH","page":90,"type":"TG","rarity":"none","weight":10,"value":100000}'
+    DataHash: b24be63b1a6b2a09efecbd76888f36ea

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hematite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque gray-black gemstone."]}'
   DataHash: 57c24590010f7600ef011b9c0d592c5b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hematite
+    Content: 
+    AsJson: '{"name":"Hematite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque gray-black gemstone."]}'
+    DataHash: 57c24590010f7600ef011b9c0d592c5b

@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) piercing
     damage."]}],"damageTags":["P"],"hasToken":true}'
   DataHash: c2cb80e53bae33ea4a42cb217cb8d66e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barovian Commoner
+    Content: 
+    AsJson: '{"name":"Barovian Commoner","source":"CoS","page":29,"_copy":{"name":"Commoner","source":"MM"},"action":[{"name":"Pitchfork","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) piercing
+      damage."]}],"damageTags":["P"],"hasToken":true}'
+    DataHash: c2cb80e53bae33ea4a42cb217cb8d66e

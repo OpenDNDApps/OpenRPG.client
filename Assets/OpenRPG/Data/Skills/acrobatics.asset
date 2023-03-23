@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: acrobatics
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Acrobatics
   AsJson: '{"name":"Acrobatics","source":"PHB","page":176,"srd":true,"basicRules":true,"entries":["Your
     Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky
     situation, such as when you''re trying to run across a sheet of ice, balance
@@ -20,3 +20,14 @@ MonoBehaviour:
     call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts,
     including dives, rolls, somersaults, and flips."]}'
   DataHash: dc1542088594694b6552ee80500a57e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Acrobatics","source":"PHB","page":176,"srd":true,"basicRules":true,"entries":["Your
+      Dexterity (Acrobatics) check covers your attempt to stay on your feet in a
+      tricky situation, such as when you''re trying to run across a sheet of ice,
+      balance on a tightrope, or stay upright on a rocking ship''s deck. The DM might
+      also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic
+      stunts, including dives, rolls, somersaults, and flips."]}'
+    DataHash: dc1542088594694b6552ee80500a57e5

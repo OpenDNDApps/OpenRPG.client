@@ -27,6 +27,24 @@ MonoBehaviour:
     target. If your check fails, the target can''t be deceived by you in this way
     for 1 hour."]}]}'
   DataHash: 919710318ecc4710ab44cffdfc798be8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver-Tongued
+    Content: 
+    AsJson: '{"name":"Silver-Tongued","source":"UAFeatsForSkills","page":3,"ability":[{"cha":1}],"skillProficiencies":[{"deception":true}],"entries":["You
+      develop your conversational skill to better deceive others. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency in the {@skill Deception}
+      skill. If you are already proficient in the skill, you add double your proficiency
+      bonus to checks you make with it.","When you take the {@action Attack} action
+      on your turn, you can replace one attack with an attempt to deceive one humanoid
+      you can see within 30 feet of you that can see and hear you. Make a Charisma
+      ({@skill Deception}) check contested by the target''s Wisdom ({@skill Insight})
+      check. If your check succeeds, your movement doesn''t provoke opportunity attacks
+      from the target and your attack rolls against it have advantage; both benefits
+      last until the end of your next turn or until you use this ability on a different
+      target. If your check fails, the target can''t be deceived by you in this way
+      for 1 hour."]}]}'
+    DataHash: 919710318ecc4710ab44cffdfc798be8
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

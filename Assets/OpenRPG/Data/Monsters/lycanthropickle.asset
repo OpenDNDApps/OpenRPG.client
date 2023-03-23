@@ -17,3 +17,11 @@ MonoBehaviour:
     Blight","source":"MM"},"trait":[{"name":"False Appearance","entries":["While
     the lycanthropickle remains motionless, it is indistinguishable from a pickle."]}],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 01dde16e95523d249f9df919ce34a3c4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lycanthropickle
+    Content: 
+    AsJson: '{"name":"Lycanthropickle","group":["Lycanthropes"],"source":"RMBRE","page":11,"_copy":{"name":"Twig
+      Blight","source":"MM"},"trait":[{"name":"False Appearance","entries":["While
+      the lycanthropickle remains motionless, it is indistinguishable from a pickle."]}],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 01dde16e95523d249f9df919ce34a3c4

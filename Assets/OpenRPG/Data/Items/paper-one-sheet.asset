@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Paper (one sheet)
   AsJson: '{"name":"Paper (one sheet)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":20}'
   DataHash: 45ab24dcc27e5a98bcf505152ee3e4be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Paper (one sheet)
+    Content: 
+    AsJson: '{"name":"Paper (one sheet)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":20}'
+    DataHash: 45ab24dcc27e5a98bcf505152ee3e4be

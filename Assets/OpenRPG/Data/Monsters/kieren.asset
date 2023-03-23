@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Kieren
   AsJson: '{"name":"Kieren","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: 72445c2e7743600c26a069ca9eab83e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kieren
+    Content: 
+    AsJson: '{"name":"Kieren","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: 72445c2e7743600c26a069ca9eab83e5

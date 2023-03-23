@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grinda Garloth","isNpc":true,"source":"WDH","page":65,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Grinda","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"languages":["Common","Dwarvish","Halfling","Undercommon"],"languageTags":["C","D","H","U"],"hasToken":true}'
   DataHash: de05daca380eff009afc95a83c56c22d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grinda Garloth
+    Content: 
+    AsJson: '{"name":"Grinda Garloth","isNpc":true,"source":"WDH","page":65,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Grinda","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"languages":["Common","Dwarvish","Halfling","Undercommon"],"languageTags":["C","D","H","U"],"hasToken":true}'
+    DataHash: de05daca380eff009afc95a83c56c22d

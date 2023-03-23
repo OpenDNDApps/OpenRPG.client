@@ -21,3 +21,15 @@ MonoBehaviour:
     that score. The manual then loses its magic, but regains it in a century."],"lootTables":["Magic
     Item Table H"]}'
   DataHash: 82816b4e6fc2bf62b84f9f5328e1932c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Manual of Gainful Exercise
+    Content: 
+    AsJson: '{"name":"Manual of Gainful Exercise","source":"DMG","page":180,"srd":true,"tier":"major","rarity":"very
+      rare","wondrous":true,"weight":5,"ability":{"str":2},"entries":["This book
+      describes fitness exercises, and its words are charged with magic. If you spend
+      48 hours over a period of 6 days or fewer studying the book''s contents and
+      practicing its guidelines, your Strength score increases by 2, as does your
+      maximum for that score. The manual then loses its magic, but regains it in
+      a century."],"lootTables":["Magic Item Table H"]}'
+    DataHash: 82816b4e6fc2bf62b84f9f5328e1932c

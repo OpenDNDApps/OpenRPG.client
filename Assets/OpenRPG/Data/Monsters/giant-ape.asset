@@ -20,3 +20,14 @@ MonoBehaviour:
     rw} {@hit 9} to hit, range 50/100 ft., one target. {@h}30 ({@damage 7d6 + 6})
     bludgeoning damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/giant-ape.mp3"},"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW","RCH","RW"],"hasToken":true}'
   DataHash: cc30c19ce5bd23874a437c6441af89d4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Ape
+    Content: 
+    AsJson: '{"name":"Giant Ape","source":"MM","page":323,"srd":true,"basicRules":true,"otherSources":[{"source":"GoS"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":157,"formula":"15d12
+      + 60"},"speed":{"walk":40,"climb":40},"str":23,"dex":14,"con":18,"int":7,"wis":12,"cha":7,"skill":{"athletics":"+9","perception":"+4"},"passive":14,"cr":"7","action":[{"name":"Multiattack","entries":["The
+      ape makes two fist attacks."]},{"name":"Fist","entries":["{@atk mw} {@hit 9}
+      to hit, reach 10 ft., one target. {@h}22 ({@damage 3d10 + 6}) bludgeoning damage."]},{"name":"Rock","entries":["{@atk
+      rw} {@hit 9} to hit, range 50/100 ft., one target. {@h}30 ({@damage 7d6 + 6})
+      bludgeoning damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/giant-ape.mp3"},"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW","RCH","RW"],"hasToken":true}'
+    DataHash: cc30c19ce5bd23874a437c6441af89d4

@@ -12,11 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: bam
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Boo's Astral Menagerie
   AsJson: '{"name":"Boo''s Astral Menagerie","alias":["Spelljammer: Boo''s Astral
     Menagerie"],"id":"BAM","source":"BAM","group":"supplement","coverUrl":"img/covers/SAiS.png","published":"2022-08-16","contents":[{"name":"Introduction","headers":["Astral
     Variants","Using a Stat Block","Astral Encounters","Bestiary"]}]}'
   DataHash: 033a5caca06a4105eae5f1fc26ad9b13
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Boo''s Astral Menagerie","alias":["Spelljammer: Boo''s Astral
+      Menagerie"],"id":"BAM","source":"BAM","group":"supplement","coverUrl":"img/covers/SAiS.png","published":"2022-08-16","contents":[{"name":"Introduction","headers":["Astral
+      Variants","Using a Stat Block","Astral Encounters","Bestiary"]}]}'
+    DataHash: 033a5caca06a4105eae5f1fc26ad9b13
+  CoverURL: img/covers/SAiS.png
+  Published: 2022-08-16
   Author: 

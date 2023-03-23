@@ -21,3 +21,15 @@ MonoBehaviour:
     barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin
     sheet of lead, or 3 feet of wood or dirt."]}'
   DataHash: 62b2bcda7f7cc2d11f09ce882a1d8cfb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Detect Magic
+    Content: 
+    AsJson: '{"name":"Detect Magic","source":"PHB","page":231,"srd":true,"basicRules":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"meta":{"ritual":true},"entries":["For
+      the duration, you sense the presence of magic within 30 feet of you. If you
+      sense magic in this way, you can use your action to see a faint aura around
+      any visible creature or object in the area that bears magic, and you learn
+      its {@book school of magic|PHB|10|The Schools of Magic}, if any.","The spell
+      can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of
+      common metal, a thin sheet of lead, or 3 feet of wood or dirt."]}'
+    DataHash: 62b2bcda7f7cc2d11f09ce882a1d8cfb

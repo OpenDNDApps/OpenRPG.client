@@ -18,6 +18,15 @@ MonoBehaviour:
     tools|items|type=tools;artisan''s tools;instrument;gaming set;vehicle (land);vehicle
     (water)} of your choice."]}'
   DataHash: 5c24935d3270b34dfb23ef196f2e9e62
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skilled
+    Content: 
+    AsJson: '{"name":"Skilled","source":"PHB","page":170,"skillToolLanguageProficiencies":[{"choose":[{"from":["anySkill","anyTool"],"count":3}]}],"entries":["You
+      gain proficiency in any combination of three {@table skills|phb} or {@filter
+      tools|items|type=tools;artisan''s tools;instrument;gaming set;vehicle (land);vehicle
+      (water)} of your choice."]}'
+    DataHash: 5c24935d3270b34dfb23ef196f2e9e62
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 170
   Prerequisites: []

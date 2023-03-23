@@ -24,3 +24,18 @@ MonoBehaviour:
     damage."]}],"environment":["coastal","mountain","hill","arctic","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/berserker.mp3"},"altArt":[{"name":"Diabolical
     Berserker","source":"MTF","page":18}],"traitTags":["Reckless"],"languageTags":["C","X"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: a7c14cb754dfdd4cb67b1056d09e1a9f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Berserker
+    Content: 
+    AsJson: '{"name":"Berserker","source":"MM","page":344,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"CRCotN"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["C","G","NY","E"],"ac":[{"ac":13,"from":["{@item hide
+      armor|phb}"]}],"hp":{"average":67,"formula":"9d8 + 27"},"speed":{"walk":30},"str":16,"dex":12,"con":17,"int":9,"wis":11,"cha":9,"passive":10,"languages":["any
+      one language (usually Common)"],"cr":"2","trait":[{"name":"Reckless","entries":["At
+      the start of its turn, the berserker can gain advantage on all melee weapon
+      attack rolls during that turn, but attack rolls against it have advantage until
+      the start of its next turn."]}],"action":[{"name":"Greataxe","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d12 + 3}) slashing
+      damage."]}],"environment":["coastal","mountain","hill","arctic","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/berserker.mp3"},"altArt":[{"name":"Diabolical
+      Berserker","source":"MTF","page":18}],"traitTags":["Reckless"],"languageTags":["C","X"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: a7c14cb754dfdd4cb67b1056d09e1a9f

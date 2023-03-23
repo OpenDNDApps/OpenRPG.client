@@ -20,3 +20,14 @@ MonoBehaviour:
     can''t put her to sleep."]}}}},"alignment":["N","E"],"languages":["Common","Draconic","Dwarvish","Elvish","Undercommon"],"traitTags":["Fey
     Ancestry"],"languageTags":["C","D","DR","E","U"],"hasToken":true,"hasFluff":true}'
   DataHash: 73e1c25a6c0d08d803a80a344f93e0d3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marta Moonshadow
+    Content: 
+    AsJson: '{"name":"Marta Moonshadow","isNpc":true,"source":"WDMM","page":46,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the mage","with":"Marta","flags":"i"},"_":{"mode":"addSpells","spells":{"0":{"spells":["{@spell
+      ray of frost}"]}}},"trait":{"mode":"prependArr","items":{"name":"Fey Ancestry","entries":["Marta
+      has advantage on saving throws against being {@condition charmed}, and magic
+      can''t put her to sleep."]}}}},"alignment":["N","E"],"languages":["Common","Draconic","Dwarvish","Elvish","Undercommon"],"traitTags":["Fey
+      Ancestry"],"languageTags":["C","D","DR","E","U"],"hasToken":true,"hasFluff":true}'
+    DataHash: 73e1c25a6c0d08d803a80a344f93e0d3

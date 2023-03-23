@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ai
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Acquisitions Incorporated
   AsJson: "{\"name\":\"Acquisitions Incorporated\",\"id\":\"AI\",\"source\":\"AI\",\"group\":\"supplement\",\"coverUrl\":\"img/covers/AI.png\",\"published\":\"2019-06-18\",\"contents\":[{\"name\":\"Acquisitions
     Incorporated\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":1},\"headers\":[\"It's
     Just Business\",\"A Corporate Prospectus\",\"Fast Franchise Generator\"]},{\"name\":\"Growing
@@ -26,6 +26,23 @@ MonoBehaviour:
     Faction Features\",\"Iconic Franchise Features\"]},{\"name\":\"Vehicles\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"C\"}},{\"name\":\"Orrery
     and Components\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"D\"}},{\"name\":\"Trinkets\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"E\"}}]}"
   DataHash: f00a1e9172bdb68813d267632c0f40fc
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: "{\"name\":\"Acquisitions Incorporated\",\"id\":\"AI\",\"source\":\"AI\",\"group\":\"supplement\",\"coverUrl\":\"img/covers/AI.png\",\"published\":\"2019-06-18\",\"contents\":[{\"name\":\"Acquisitions
+      Incorporated\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":1},\"headers\":[\"It's
+      Just Business\",\"A Corporate Prospectus\",\"Fast Franchise Generator\"]},{\"name\":\"Growing
+      Your Franchise\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":2},\"headers\":[\"Franchise
+      Advancement\",\"Company Positions\",{\"depth\":1,\"header\":\"Cartographer\"},{\"depth\":1,\"header\":\"Decisionist\"},{\"depth\":1,\"header\":\"Documancer\"},{\"depth\":1,\"header\":\"Hoardsperson\"},{\"depth\":1,\"header\":\"Loremonger\"},{\"depth\":1,\"header\":\"Obviator\"},{\"depth\":1,\"header\":\"Occultant\"},{\"depth\":1,\"header\":\"Secretarian\"},\"Franchise
+      Tasks and Downtime\"]},{\"name\":\"Player Options\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":3},\"headers\":[\"Backgrounds\",\"Playing
+      with Class\",\"New Race: Verdan\",\"New Spells\",\"Factions and Rivals\"]},{\"name\":\"Acq
+      Inc\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"A\"},\"headers\":[\"Omin
+      Dran\",\"Jim Darkmagic\",\"Viari\",\"M\xF4rg\xE6n\",\"Flabbergast\",\"The \\\"C\\\"
+      Team\",\"The \\\"B\\\" Team\",\"House Dran\"]},{\"name\":\"Monsters\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"B\"},\"headers\":[\"Iconic
+      Faction Features\",\"Iconic Franchise Features\"]},{\"name\":\"Vehicles\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"C\"}},{\"name\":\"Orrery
+      and Components\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"D\"}},{\"name\":\"Trinkets\",\"ordinal\":{\"type\":\"appendix\",\"identifier\":\"E\"}}]}"
+    DataHash: f00a1e9172bdb68813d267632c0f40fc
+  CoverURL: img/covers/AI.png
+  Published: 2019-06-18
   Author: 

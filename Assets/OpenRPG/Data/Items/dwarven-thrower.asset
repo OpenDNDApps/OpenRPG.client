@@ -22,3 +22,16 @@ MonoBehaviour:
     the attack, the weapon flies back to your hand."],"lootTables":["Magic Item Table
     H"],"hasFluffImages":true}'
   DataHash: 8f19d48731e3978761c73f7c08e365fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dwarven Thrower
+    Content: 
+    AsJson: '{"name":"Dwarven Thrower","source":"DMG","page":167,"srd":true,"baseItem":"warhammer|phb","type":"M","tier":"major","rarity":"very
+      rare","reqAttune":"by a dwarf","reqAttuneTags":[{"race":"dwarf"}],"weight":2,"weaponCategory":"martial","property":["T","V"],"range":"20/60","dmg1":"1d8","dmgType":"B","dmg2":"1d10","bonusWeapon":"+3","entries":["You
+      gain a +3 bonus to attack and damage rolls made with this magic weapon. It
+      has the thrown property with a normal range of 20 feet and a long range of
+      60 feet. When you hit with a ranged attack using this weapon, it deals an extra
+      {@damage 1d8} damage or, if the target is a giant, {@damage 2d8} damage. Immediately
+      after the attack, the weapon flies back to your hand."],"lootTables":["Magic
+      Item Table H"],"hasFluffImages":true}'
+    DataHash: 8f19d48731e3978761c73f7c08e365fe

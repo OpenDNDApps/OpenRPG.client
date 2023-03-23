@@ -19,3 +19,13 @@ MonoBehaviour:
     piercing damage."]}}}},"ac":[{"ac":13,"from":["{@item studded leather armor|PHB|studded
     leather}"]}],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 7f47f1caf8b18c541db3281eff45f068
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragon Hunter
+    Content: 
+    AsJson: '{"name":"Dragon Hunter","source":"JttRC","page":138,"_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"veteran","with":"dragon
+      hunter"},"action":{"mode":"replaceArr","replace":"Heavy Crossbow","items":{"name":"Longbow","entries":["{@atk
+      rw} {@hit 3} to hit, ranged 150/600 ft., one target. {@h}5 ({@damage 1d8 +
+      1}) piercing damage."]}}}},"ac":[{"ac":13,"from":["{@item studded leather armor|PHB|studded
+      leather}"]}],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 7f47f1caf8b18c541db3281eff45f068

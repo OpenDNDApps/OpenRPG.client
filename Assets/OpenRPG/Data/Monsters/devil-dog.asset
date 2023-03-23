@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Devil Dog","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"OoW","page":85,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     acolyte","with":"Devil Dog","flags":"i"}}},"alignment":["C","E"],"languageTags":["C","I","X"],"damageTagsSpell":["F","R"],"spellcastingTags":["CC","I"],"hasToken":true}'
   DataHash: 81167e44e5b54d8618d4375730aa2f41
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Devil Dog
+    Content: 
+    AsJson: '{"name":"Devil Dog","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"OoW","page":85,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      acolyte","with":"Devil Dog","flags":"i"}}},"alignment":["C","E"],"languageTags":["C","I","X"],"damageTagsSpell":["F","R"],"spellcastingTags":["CC","I"],"hasToken":true}'
+    DataHash: 81167e44e5b54d8618d4375730aa2f41

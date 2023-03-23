@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Riding Saddle
   AsJson: '{"name":"Riding Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":25,"value":1000}'
   DataHash: 80e6da05715b39d00d1a9f757ee20234
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Riding Saddle
+    Content: 
+    AsJson: '{"name":"Riding Saddle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":25,"value":1000}'
+    DataHash: 80e6da05715b39d00d1a9f757ee20234

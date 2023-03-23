@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Copper stein with silver filigree (Brazen Coalition)
   AsJson: '{"name":"Copper stein with silver filigree (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: 7dd71495687cd10f59be41dac016e7f7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper stein with silver filigree (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Copper stein with silver filigree (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: 7dd71495687cd10f59be41dac016e7f7

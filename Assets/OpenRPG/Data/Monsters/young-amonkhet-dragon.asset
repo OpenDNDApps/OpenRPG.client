@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Young Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Young
     Red Dragon","source":"MM"},"int":6,"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0a5d35727f0567d66a986e8f7dd957db
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Amonkhet Dragon
+    Content: 
+    AsJson: '{"name":"Young Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Young
+      Red Dragon","source":"MM"},"int":6,"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0a5d35727f0567d66a986e8f7dd957db

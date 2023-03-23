@@ -21,3 +21,15 @@ MonoBehaviour:
     beasts that have an Intelligence of 3 or lower","{@spell Speak with animals}"]}],"attachedSpells":["animal
     friendship","fear","speak with animals"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
   DataHash: 45746e5702a0c67fb918246d880499ae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Animal Influence
+    Content: 
+    AsJson: '{"name":"Ring of Animal Influence","source":"DMG","page":189,"srd":true,"type":"RG","tier":"major","rarity":"rare","recharge":"dawn","rechargeAmount":"{@dice
+      1d3}","charges":3,"entries":["This ring has 3 charges, and it regains {@dice
+      1d3} expended charges daily at dawn. While wearing the ring, you can use an
+      action to expend 1 of its charges to cast one of the following spells:",{"type":"list","items":["{@spell
+      Animal friendship} (save DC 13)","{@spell Fear} (save DC 13), targeting only
+      beasts that have an Intelligence of 3 or lower","{@spell Speak with animals}"]}],"attachedSpells":["animal
+      friendship","fear","speak with animals"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+    DataHash: 45746e5702a0c67fb918246d880499ae

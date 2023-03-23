@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jeyev Veldrews","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":75,"_copy":{"name":"Bandit
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Jeyev","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: b0ffea225a79061597d406a98e364a4c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jeyev Veldrews
+    Content: 
+    AsJson: '{"name":"Jeyev Veldrews","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":75,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Jeyev","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: b0ffea225a79061597d406a98e364a4c

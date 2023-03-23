@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ifan Talro''a","isNpc":true,"source":"ToA","page":25,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Ifan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 62477b267c4b78f46ccc1836e87e7c01
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ifan Talro'a
+    Content: 
+    AsJson: '{"name":"Ifan Talro''a","isNpc":true,"source":"ToA","page":25,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Ifan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 62477b267c4b78f46ccc1836e87e7c01

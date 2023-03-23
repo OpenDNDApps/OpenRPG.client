@@ -22,3 +22,16 @@ MonoBehaviour:
     ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver,
     and requires the caster to expend a 1st-level spell slot."]}'
   DataHash: b8d2f7edca0889eb5306013abd8b1758
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Holy Water (flask)
+    Content: 
+    AsJson: '{"name":"Holy Water (flask)","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2500,"entries":["As
+      an action, you can splash the contents of this flask onto a creature within
+      5 feet of you or throw it up to 20 feet, shattering it on impact. In either
+      case, make a ranged attack against a target creature, treating the holy water
+      as an improvised weapon. If the target is a fiend or undead, it takes {@damage
+      2d6} radiant damage.","A cleric or paladin may create holy water by performing
+      a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered
+      silver, and requires the caster to expend a 1st-level spell slot."]}'
+    DataHash: b8d2f7edca0889eb5306013abd8b1758

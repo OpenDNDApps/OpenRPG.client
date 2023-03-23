@@ -23,6 +23,20 @@ MonoBehaviour:
     If you are already proficient in the skill, you add double your proficiency bonus
     to checks you make with it."]}]}'
   DataHash: 5a2c025db8d923298a1a6a2a9be8d727
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barbed Hide
+    Content: 
+    AsJson: '{"name":"Barbed Hide","source":"UAFeatsForRaces","page":1,"prerequisite":[{"race":[{"name":"tiefling"}]}],"ability":[{"choose":{"from":["con","cha"],"amount":1}}],"skillProficiencies":[{"intimidation":true}],"entries":["One
+      of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from
+      your head. You gain the following benefits:",{"type":"list","items":["As a
+      bonus action, you can cause small barbs to protrude all over your body or cause
+      them to retract. At the start of each of your turns while the barbs are out,
+      you deal {@damage 1d6} piercing damage to any creature grappling you or any
+      creature {@condition grappled} by you.","You gain proficiency in the {@skill
+      Intimidation} skill. If you are already proficient in the skill, you add double
+      your proficiency bonus to checks you make with it."]}]}'
+    DataHash: 5a2c025db8d923298a1a6a2a9be8d727
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 1
   Prerequisites:

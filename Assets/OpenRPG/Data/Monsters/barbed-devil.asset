@@ -31,3 +31,26 @@ MonoBehaviour:
     object that isn''t being worn or carried, it also catches fire."]}],"soundClip":{"type":"internal","path":"bestiary/barbed-devil.mp3"},"traitTags":["Devil''s
     Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["F","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 268c19c39cfc8878ab52449c3b9ce2c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barbed Devil
+    Content: 
+    AsJson: '{"name":"Barbed Devil","source":"MM","page":70,"srd":true,"otherSources":[{"source":"RoT"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"EGW"},{"source":"IDRotF"},{"source":"TCE"}],"size":["M"],"type":{"type":"fiend","tags":["devil"]},"alignment":["L","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":110,"formula":"13d8 + 52"},"speed":{"walk":30},"str":16,"dex":17,"con":18,"int":12,"wis":14,"cha":14,"save":{"str":"+6","con":"+7","wis":"+5","cha":"+5"},"skill":{"deception":"+5","insight":"+5","perception":"+8"},"senses":["darkvision
+      120 ft."],"passive":18,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks that aren''t silvered","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Infernal","telepathy
+      120 ft."],"cr":"5","trait":[{"name":"Barbed Hide","entries":["At the start
+      of each of its turns, the barbed devil deals 5 ({@damage 1d10}) piercing damage
+      to any creature grappling it."]},{"name":"Devil''s Sight","entries":["Magical
+      darkness doesn''t impede the devil''s darkvision."]},{"name":"Magic Resistance","entries":["The
+      devil has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+      devil makes three melee attacks: one with its tail and two with its claws.
+      Alternatively, it can use Hurl Flame twice."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing
+      damage."]},{"name":"Tail","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+      one target. {@h}10 ({@damage 2d6 + 3}) piercing damage."]},{"name":"Hurl Flame","entries":["{@atk
+      rs} {@hit 5} to hit, range 150 ft., one target. {@h}10 ({@damage 3d6}) fire
+      damage. If the target is a flammable object that isn''t being worn or carried,
+      it also catches fire."]}],"soundClip":{"type":"internal","path":"bestiary/barbed-devil.mp3"},"traitTags":["Devil''s
+      Sight","Magic Resistance"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["I","TP"],"damageTags":["F","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 268c19c39cfc8878ab52449c3b9ce2c7

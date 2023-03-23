@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Merfolk","source":"GGR","page":9,"type":"standard","typicalSpeakers":["{@filter
     merfolk|bestiary|source=GGR|tag=any race;merfolk}"],"script":"Merfolk"}'
   DataHash: a96d9879a8529ed741fbdd359c880fc2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Merfolk
+    Content: 
+    AsJson: '{"name":"Merfolk","source":"GGR","page":9,"type":"standard","typicalSpeakers":["{@filter
+      merfolk|bestiary|source=GGR|tag=any race;merfolk}"],"script":"Merfolk"}'
+    DataHash: a96d9879a8529ed741fbdd359c880fc2

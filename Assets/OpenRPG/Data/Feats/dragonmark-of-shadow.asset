@@ -29,6 +29,27 @@ MonoBehaviour:
     again, becoming a greater dragonmark. You learn the following spell: {@spell
     nondetection}"]}]}'
   DataHash: 6c4c23aaadc2385e82c27548b6272359
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragonmark of Shadow
+    Content: 
+    AsJson: '{"name":"Dragonmark of Shadow","source":"UAEberron","page":5,"prerequisite":[{"race":[{"name":"elf"}]}],"additionalSpells":[{"innate":{"5":{"daily":{"1":["darkness"]}},"9":{"daily":{"1":["nondetection"]}},"_":{"daily":{"1":["dancing
+      lights#c"]}}},"ability":"wis","known":{"_":["disguise self"]}}],"entries":["You
+      have the magical mark of Shadow, the dragonmark of House Phiarlan and House
+      Thuranni, and are a member of one of those houses.","You gain the ability to
+      innately cast spells and cantrips, using Charisma as your spellcasting ability.
+      You cast each spell at its lowest level. Once you cast a given spell this way,
+      you must finish a long rest before you can cast it innately again. You must
+      still expend any material components. Your dragonmark confers the following
+      benefits:",{"type":"entries","name":"Least Dragonmark","entries":["When you
+      first take this feat, you gain the least dragonmark. You learn the following
+      spells: {@spell dancing lights}, {@spell disguise self}"]},{"type":"entries","name":"Lesser
+      Dragonmark","entries":["At 5th level and higher, your mark becomes more potent,
+      improving to lesser dragonmark. You learn the following spell: {@spell darkness}"]},{"type":"entries","name":"Greater
+      Dragonmark","entries":["At 9th level and higher, your mark''s power increases
+      again, becoming a greater dragonmark. You learn the following spell: {@spell
+      nondetection}"]}]}'
+    DataHash: 6c4c23aaadc2385e82c27548b6272359
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites:

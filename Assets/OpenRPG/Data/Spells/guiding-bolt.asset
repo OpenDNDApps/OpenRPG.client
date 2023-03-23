@@ -23,3 +23,17 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 4d6|1-9|1d6} for each
     slot level above 1st."]}],"damageInflict":["radiant"],"spellAttack":["R"],"areaTags":["ST"]}'
   DataHash: cc1ebd1f6da008f35f823e2a06c522a9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Guiding Bolt
+    Content: 
+    AsJson: '{"name":"Guiding Bolt","source":"PHB","page":248,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["A
+      flash of light streaks toward a creature of your choice within range. Make
+      a ranged spell attack against the target. On a hit, the target takes {@damage
+      4d6} radiant damage, and the next attack roll made against this target before
+      the end of your next turn has advantage, thanks to the mystical dim light glittering
+      on the target until then."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, the damage increases by {@scaledamage 4d6|1-9|1d6} for each
+      slot level above 1st."]}],"damageInflict":["radiant"],"spellAttack":["R"],"areaTags":["ST"]}'
+    DataHash: cc1ebd1f6da008f35f823e2a06c522a9

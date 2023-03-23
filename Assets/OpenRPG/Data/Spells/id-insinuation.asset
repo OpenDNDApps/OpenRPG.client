@@ -20,3 +20,14 @@ MonoBehaviour:
     it takes {@damage 1d12} psychic damage, and it can then make another Wisdom saving
     throw. On a success, the spell ends on the target."],"damageInflict":["psychic"],"conditionInflict":["incapacitated"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 50a1b7f291d749694b287740df6ff936
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Id Insinuation
+    Content: 
+    AsJson: '{"name":"Id Insinuation","source":"UAFighterRogueWizard","page":7,"level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      unleash a torrent of conflicting desires in the mind of one creature you can
+      see within range, impairing its ability to make decisions. The target must
+      succeed on a Wisdom saving throw or be incapacitated. At the end of each of
+      its turns, it takes {@damage 1d12} psychic damage, and it can then make another
+      Wisdom saving throw. On a success, the spell ends on the target."],"damageInflict":["psychic"],"conditionInflict":["incapacitated"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 50a1b7f291d749694b287740df6ff936

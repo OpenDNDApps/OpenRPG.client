@@ -17,3 +17,11 @@ MonoBehaviour:
     Fanatic","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     fanatic","with":"Fel","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
   DataHash: f749c19d5b91531c7785b22b80e8ac1f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fel Ardra
+    Content: 
+    AsJson: '{"name":"Fel Ardra","isNpc":true,"isNamedCreature":true,"source":"LoX","page":23,"_copy":{"name":"Cult
+      Fanatic","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      fanatic","with":"Fel","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+    DataHash: f749c19d5b91531c7785b22b80e8ac1f

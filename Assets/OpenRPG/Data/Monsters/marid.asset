@@ -81,3 +81,77 @@ MonoBehaviour:
     poor wording. The perversion of the wording is usually crafted to be to the genie''s
     benefit."]}}},"variant":null}]}'
   DataHash: 6c2d220107ca820504d8197c86cecb2a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marid
+    Content: 
+    AsJson: '{"name":"Marid","group":["Genies"],"source":"MM","page":146,"otherSources":[{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"SLW"},{"source":"EGW"},{"source":"TCE"},{"source":"JttRC"},{"source":"DSotDQ"}],"size":["L"],"type":"elemental","alignment":["C","N"],"ac":[{"ac":17,"from":["natural
+      armor"]}],"hp":{"average":229,"formula":"17d10 + 136"},"speed":{"walk":30,"fly":60,"swim":90},"str":22,"dex":12,"con":26,"int":18,"wis":17,"cha":18,"save":{"dex":"+5","wis":"+7","cha":"+8"},"senses":["blindsight
+      30 ft.","darkvision 120 ft."],"passive":13,"resist":["acid","cold","lightning"],"languages":["Aquan"],"cr":"11","spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The marid''s innate spellcasting ability is
+      Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can
+      innately cast the following spells, requiring no material components:"],"will":["{@spell
+      create or destroy water}","{@spell detect evil and good}","{@spell detect magic}","{@spell
+      fog cloud}","{@spell purify food and drink}"],"daily":{"3e":["{@spell tongues}","{@spell
+      water breathing}","{@spell water walk}"],"1e":["{@spell conjure elemental}
+      ({@creature water elemental} only)","{@spell control water}","{@spell gaseous
+      form}","{@spell invisibility}","{@spell plane shift}"]},"ability":"cha"}],"trait":[{"name":"Amphibious","entries":["The
+      marid can breathe air and water."]},{"name":"Elemental Demise","entries":["If
+      the marid dies, its body disintegrates into a burst of water and foam, leaving
+      behind only equipment the marid was wearing or carrying."]}],"action":[{"name":"Multiattack","entries":["The
+      marid makes two trident attacks."]},{"name":"Trident","entries":["{@atk mw,rw}
+      {@hit 10} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}13 ({@damage
+      2d6 + 6}) piercing damage, or 15 ({@damage 2d8 + 6}) piercing damage if used
+      with two hands to make a melee attack."]},{"name":"Water Jet","entries":["The
+      marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature
+      in that line must make a {@dc 16} Dexterity saving throw. On a failure, a target
+      takes 21 ({@damage 6d6}) bludgeoning damage and, if it is Huge or smaller,
+      is pushed up to 20 feet away from the marid and knocked {@condition prone}.
+      On a success, a target takes half the bludgeoning damage, but is neither pushed
+      nor knocked {@condition prone}."]}],"variant":[{"type":"variant","name":"Genie
+      Powers","entries":["Genies have a variety of magical capabilities, including
+      spells. A few have even greater powers that allow them to alter their appearance
+      or the nature of reality.",{"type":"entries","name":"Disguises","entries":["Some
+      genies can veil themselves in illusion to pass as other similarly shaped creatures.
+      Such genies can innately cast the {@spell disguise self} spell at will, often
+      with a longer duration than is normal for that spell. Mightier genies can cast
+      the {@spell true polymorph} spell one to three times per day, possibly with
+      a longer duration than normal. Such genies can change only their own shape,
+      but a rare few can use the spell on other creatures and objects as well."]},{"type":"entries","name":"Wishes","entries":["The
+      genie power to grant wishes is legendary among mortals. Only the most potent
+      genies, such as those among the nobility, can do so. A particular genie that
+      has this power can grant one to three wishes to a creature that isn''t a genie.
+      Once a genie has granted its limit of wishes, it can''t grant wishes again
+      for some amount of time (usually 1 year), and cosmic law dictates that the
+      same genie can expend its limit of wishes on a specific creature only once
+      in that creature''s existence.","To be granted a wish, a creature within 60
+      feet of the genie states a desired effect to it. The genie can then cast the
+      {@spell wish} spell on the creature''s behalf to bring about the effect. Depending
+      on the genie''s nature, the genie might try to pervert the intent of the wish
+      by exploiting the wish''s poor wording. The perversion of the wording is usually
+      crafted to be to the genie''s benefit."]}]}],"environment":["underwater","coastal"],"soundClip":{"type":"internal","path":"bestiary/marid.mp3"},"traitTags":["Amphibious"],"senseTags":["B","SD"],"actionTags":["Multiattack"],"languageTags":["AQ"],"damageTags":["B","P"],"damageTagsSpell":["B"],"spellcastingTags":["I"],"miscTags":["AOE","MW","RW","THW"],"conditionInflict":["prone"],"conditionInflictSpell":["invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true,"_versions":[{"name":"Marid
+      (Disguises)","source":"MM","_mod":{"_":{"mode":"addSpells","will":["{@spell
+      disguise self} (often with a longer duration than is normal for that spell;
+      see Disguises)"],"daily":{"3e":["{@spell true polymorph} (mightier genies only;
+      see Disguises)"]}},"trait":{"mode":"appendArr","items":{"name":"Disguises","entries":["Some
+      genies can veil themselves in illusion to pass as other similarly shaped creatures.
+      Such genies can innately cast the {@spell disguise self} spell at will, often
+      with a longer duration than is normal for that spell. Mightier genies can cast
+      the {@spell true polymorph} spell one to three times per day, possibly with
+      a longer duration than normal. Such genies can change only their own shape,
+      but a rare few can use the spell on other creatures and objects as well."]}}},"variant":null},{"name":"Marid
+      (Wishes)","source":"MM","_mod":{"_":{"mode":"addSpells","yearly":{"1e":["{@spell
+      wish} (see Wishes)"]}},"trait":{"mode":"appendArr","items":{"name":"Wishes","entries":["The
+      genie power to grant wishes is legendary among mortals. Only the most potent
+      genies, such as those among the nobility, can do so. A particular genie that
+      has this power can grant one to three wishes to a creature that isn''t a genie.
+      Once a genie has granted its limit of wishes, it can''t grant wishes again
+      for some amount of time (usually 1 year), and cosmic law dictates that the
+      same genie can expend its limit of wishes on a specific creature only once
+      in that creature''s existence.","To be granted a wish, a creature within 60
+      feet of the genie states a desired effect to it. The genie can then cast the
+      {@spell wish} spell on the creature''s behalf to bring about the effect. Depending
+      on the genie''s nature, the genie might try to pervert the intent of the wish
+      by exploiting the wish''s poor wording. The perversion of the wording is usually
+      crafted to be to the genie''s benefit."]}}},"variant":null}]}'
+    DataHash: 6c2d220107ca820504d8197c86cecb2a

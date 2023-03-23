@@ -17,3 +17,11 @@ MonoBehaviour:
     Guardian","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shield guardian","with":"stone
     guardian"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 1167ddc64e765106542f3d305061eca6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone Guardian (Shield Guardian)
+    Content: 
+    AsJson: '{"name":"Stone Guardian (Shield Guardian)","source":"PSX","page":40,"_copy":{"name":"Shield
+      Guardian","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shield
+      guardian","with":"stone guardian"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 1167ddc64e765106542f3d305061eca6

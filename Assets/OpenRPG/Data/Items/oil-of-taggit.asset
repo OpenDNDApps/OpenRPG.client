@@ -18,3 +18,12 @@ MonoBehaviour:
     throw or become {@condition poisoned} for 24 hours. The {@condition poisoned}
     creature is {@condition unconscious}. The creature wakes up if it takes damage."],"poisonTypes":["contact"]}'
   DataHash: 8e91d970e868060b7135990c5182aa42
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Oil of Taggit
+    Content: 
+    AsJson: '{"name":"Oil of Taggit","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":40000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 13 Constitution saving
+      throw or become {@condition poisoned} for 24 hours. The {@condition poisoned}
+      creature is {@condition unconscious}. The creature wakes up if it takes damage."],"poisonTypes":["contact"]}'
+    DataHash: 8e91d970e868060b7135990c5182aa42

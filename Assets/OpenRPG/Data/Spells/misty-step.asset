@@ -17,3 +17,11 @@ MonoBehaviour:
     surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space
     that you can see."],"miscTags":["SGT","TP"]}'
   DataHash: cf8c24dea4cd965920a81136eea54c1a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Misty Step
+    Content: 
+    AsJson: '{"name":"Misty Step","source":"PHB","page":260,"srd":true,"basicRules":true,"level":2,"school":"C","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["Briefly
+      surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space
+      that you can see."],"miscTags":["SGT","TP"]}'
+    DataHash: cf8c24dea4cd965920a81136eea54c1a

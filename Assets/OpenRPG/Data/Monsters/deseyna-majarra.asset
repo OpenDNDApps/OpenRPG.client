@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Deseyna Majarra","isNpc":true,"source":"PotA","page":126,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Deseyna","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"action":null,"miscTags":[],"hasToken":true}'
   DataHash: cefb9afc8255c6106df09f3c276c2b0d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Deseyna Majarra
+    Content: 
+    AsJson: '{"name":"Deseyna Majarra","isNpc":true,"source":"PotA","page":126,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Deseyna","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"action":null,"miscTags":[],"hasToken":true}'
+    DataHash: cefb9afc8255c6106df09f3c276c2b0d

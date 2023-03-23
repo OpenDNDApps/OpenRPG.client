@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jobal","isNpc":true,"source":"ToA","page":26,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Jobal","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 72f546de6d844daee25fc0459b5dab0c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jobal
+    Content: 
+    AsJson: '{"name":"Jobal","isNpc":true,"source":"ToA","page":26,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Jobal","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 72f546de6d844daee25fc0459b5dab0c

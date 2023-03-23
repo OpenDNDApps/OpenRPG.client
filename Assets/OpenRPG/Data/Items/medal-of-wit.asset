@@ -18,3 +18,12 @@ MonoBehaviour:
     on Intelligence checks and Intelligence saving throws for 1 hour. Once this property
     has been used, it can''t be used again, and the medal becomes nonmagical."]}'
   DataHash: e459962e925cb5a2517ebf621e9e606d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Medal of Wit
+    Content: 
+    AsJson: '{"name":"Medal of Wit","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["You
+      can press this medal to your temple as an action. Doing so gives you advantage
+      on Intelligence checks and Intelligence saving throws for 1 hour. Once this
+      property has been used, it can''t be used again, and the medal becomes nonmagical."]}'
+    DataHash: e459962e925cb5a2517ebf621e9e606d

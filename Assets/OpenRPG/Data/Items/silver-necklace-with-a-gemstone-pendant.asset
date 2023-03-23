@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silver necklace with a gemstone pendant
   AsJson: '{"name":"Silver necklace with a gemstone pendant","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: bddc4624519afd24ea104e89d51c8a6e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver necklace with a gemstone pendant
+    Content: 
+    AsJson: '{"name":"Silver necklace with a gemstone pendant","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: bddc4624519afd24ea104e89d51c8a6e

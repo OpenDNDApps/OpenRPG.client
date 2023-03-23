@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Carnelian","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque orange to red-brown gemstone."]}'
   DataHash: 6cc0261d1f6d519352127e1ef9f12b1e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carnelian
+    Content: 
+    AsJson: '{"name":"Carnelian","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque orange to red-brown gemstone."]}'
+    DataHash: 6cc0261d1f6d519352127e1ef9f12b1e

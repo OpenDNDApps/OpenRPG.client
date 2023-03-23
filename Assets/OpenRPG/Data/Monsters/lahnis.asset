@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Lahnis","isNpc":true,"source":"TftYP","page":131,"_copy":{"name":"Evoker","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     evoker","with":"Lahnis","flags":"i"}}},"hasToken":true}'
   DataHash: 75e4bac159a70055fa2bf42d2b10f9d3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lahnis
+    Content: 
+    AsJson: '{"name":"Lahnis","isNpc":true,"source":"TftYP","page":131,"_copy":{"name":"Evoker","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      evoker","with":"Lahnis","flags":"i"}}},"hasToken":true}'
+    DataHash: 75e4bac159a70055fa2bf42d2b10f9d3

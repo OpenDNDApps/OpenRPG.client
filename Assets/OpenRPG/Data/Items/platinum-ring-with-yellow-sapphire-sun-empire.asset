@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum ring with yellow sapphire (Sun Empire)
   AsJson: '{"name":"Platinum ring with yellow sapphire (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: cad1f41a3dfe5a2bff180377e5d84e93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum ring with yellow sapphire (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Platinum ring with yellow sapphire (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: cad1f41a3dfe5a2bff180377e5d84e93

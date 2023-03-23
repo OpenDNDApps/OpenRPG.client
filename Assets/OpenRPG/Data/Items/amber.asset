@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amber","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent watery gold to rich gold gemstone."]}'
   DataHash: 3bac3669d4e136dbc99414e229dbabb1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amber
+    Content: 
+    AsJson: '{"name":"Amber","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent watery gold to rich gold gemstone."]}'
+    DataHash: 3bac3669d4e136dbc99414e229dbabb1

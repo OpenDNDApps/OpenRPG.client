@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Stella Wachter
   AsJson: '{"name":"Stella Wachter","isNpc":true,"source":"CoS","page":113,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true}'
   DataHash: fe9ead9e59f38a35171d3039c56ea6a1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stella Wachter
+    Content: 
+    AsJson: '{"name":"Stella Wachter","isNpc":true,"source":"CoS","page":113,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true}'
+    DataHash: fe9ead9e59f38a35171d3039c56ea6a1

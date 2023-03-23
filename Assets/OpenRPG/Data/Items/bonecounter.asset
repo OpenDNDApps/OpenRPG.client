@@ -18,3 +18,12 @@ MonoBehaviour:
     to destroy an undead creature, a single silver piece appears in the wielder''s
     pocket."]}'
   DataHash: e708a2f0d743dd8a4d6d6a65a0fdb791
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bonecounter
+    Content: 
+    AsJson: '{"name":"Bonecounter","source":"SDW","baseItem":"mace|phb","type":"M","rarity":"rare","weight":4,"weaponCategory":"simple","dmg1":"1d6","dmgType":"B","bonusWeapon":"+2","entries":["This
+      weapon is a magical +2 mace called Bonecounter. Whenever this weapon is used
+      to destroy an undead creature, a single silver piece appears in the wielder''s
+      pocket."]}'
+    DataHash: e708a2f0d743dd8a4d6d6a65a0fdb791

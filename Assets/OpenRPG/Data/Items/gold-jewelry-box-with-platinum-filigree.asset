@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold jewelry box with platinum filigree
   AsJson: '{"name":"Gold jewelry box with platinum filigree","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: 890cbd34b2fe734841066631022b2ce1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold jewelry box with platinum filigree
+    Content: 
+    AsJson: '{"name":"Gold jewelry box with platinum filigree","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: 890cbd34b2fe734841066631022b2ce1

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Braelen Hatherhand
   AsJson: '{"name":"Braelen Hatherhand","isNpc":true,"source":"PotA","page":156,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hp":{"average":2,"formula":"1d8"},"action":null,"miscTags":[],"hasToken":true}'
   DataHash: 276f2c11224f691600e40335beca3ca4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Braelen Hatherhand
+    Content: 
+    AsJson: '{"name":"Braelen Hatherhand","isNpc":true,"source":"PotA","page":156,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hp":{"average":2,"formula":"1d8"},"action":null,"miscTags":[],"hasToken":true}'
+    DataHash: 276f2c11224f691600e40335beca3ca4

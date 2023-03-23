@@ -20,3 +20,14 @@ MonoBehaviour:
     mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
     1d6 + 1}) slashing damage."]}],"senseTags":["D"],"languageTags":["C","D"],"damageTags":["S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: dd38ae0304621bf919b1ae8bce162e61
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Albino Dwarf Warrior
+    Content: 
+    AsJson: '{"name":"Albino Dwarf Warrior","source":"ToA","page":210,"size":["M"],"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["A"],"ac":[{"ac":13,"from":["{@item
+      hide armor|phb}"]}],"hp":{"average":30,"formula":"4d8 + 12"},"speed":{"walk":25},"str":13,"dex":13,"con":17,"int":12,"wis":14,"cha":11,"skill":{"perception":"+4","stealth":"+3","survival":"+4"},"senses":["darkvision
+      60 ft."],"passive":14,"resist":["poison"],"languages":["Common","Dwarvish"],"cr":"1/4","trait":[{"name":"Dwarven
+      Resilience","entries":["The dwarf has advantage on saving throws against poison."]}],"action":[{"name":"Handaxe","entries":["{@atk
+      mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage
+      1d6 + 1}) slashing damage."]}],"senseTags":["D"],"languageTags":["C","D"],"damageTags":["S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: dd38ae0304621bf919b1ae8bce162e61

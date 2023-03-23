@@ -20,3 +20,14 @@ MonoBehaviour:
     ({@damage 3d8 + 7}) slashing damage, or 23 ({@damage 3d10 + 7}) slashing damage
     if used with both hands."]}}]}},"ac":[{"ac":17,"from":["{@item chain mail|phb}"]}],"trait":null,"damageTags":["B","S"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 70f887d0227ed8113f3bbc6a7ceb3f12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: The Keeper
+    Content: 
+    AsJson: '{"name":"The Keeper","isNpc":true,"source":"TftYP","page":173,"_copy":{"name":"Stone
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"giant","with":"Keeper","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      Keeper makes two battleaxe attacks."]}},{"mode":"replaceArr","replace":"Greatclub","items":{"name":"Battleaxe
+      +2","entries":["{@atk mw} {@hit 10} to hit, reach 15 ft., one target. {@h}20
+      ({@damage 3d8 + 7}) slashing damage, or 23 ({@damage 3d10 + 7}) slashing damage
+      if used with both hands."]}}]}},"ac":[{"ac":17,"from":["{@item chain mail|phb}"]}],"trait":null,"damageTags":["B","S"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 70f887d0227ed8113f3bbc6a7ceb3f12

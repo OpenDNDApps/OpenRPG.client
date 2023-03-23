@@ -25,3 +25,19 @@ MonoBehaviour:
     ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"environment":["coastal","mountain","grassland","hill","arctic","forest","swamp","underdark","desert"],"soundClip":{"type":"internal","path":"bestiary/scout.mp3"},"traitTags":["Keen
     Senses"],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 1567fcdeddb74d3d5354eaef36847fc3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scout
+    Content: 
+    AsJson: '{"name":"Scout","source":"MM","page":349,"srd":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"SDW"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[{"ac":13,"from":["{@item leather armor|phb}"]}],"hp":{"average":16,"formula":"3d8
+      + 3"},"speed":{"walk":30},"str":11,"dex":14,"con":12,"int":11,"wis":13,"cha":11,"skill":{"nature":"+4","perception":"+5","stealth":"+6","survival":"+5"},"passive":15,"languages":["any
+      one language (usually Common)"],"cr":"1/2","trait":[{"name":"Keen Hearing and
+      Sight","entries":["The scout has advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing or sight."]}],"action":[{"name":"Multiattack","entries":["The
+      scout makes two melee attacks or two ranged attacks."]},{"name":"Shortsword","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+      damage."]},{"name":"Longbow","entries":["{@atk rw} {@hit 4} to hit, ranged
+      150/600 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"environment":["coastal","mountain","grassland","hill","arctic","forest","swamp","underdark","desert"],"soundClip":{"type":"internal","path":"bestiary/scout.mp3"},"traitTags":["Keen
+      Senses"],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 1567fcdeddb74d3d5354eaef36847fc3

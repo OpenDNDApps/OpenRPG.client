@@ -18,3 +18,12 @@ MonoBehaviour:
     Eye","entries":["Due to poor depth perception, Mobar has disadvantage on any
     attack roll against a target more than 30 feet away."]}}}},"hp":{"average":42,"formula":"7d6"},"hasToken":true}'
   DataHash: 542cdf0c5e41c16a577bdb558323cb71
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mobar
+    Content: 
+    AsJson: '{"name":"Mobar","isNpc":true,"source":"WDMM","page":77,"_copy":{"name":"Werebat","source":"WDMM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      werebat","with":"Mobar","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Blind
+      Eye","entries":["Due to poor depth perception, Mobar has disadvantage on any
+      attack roll against a target more than 30 feet away."]}}}},"hp":{"average":42,"formula":"7d6"},"hasToken":true}'
+    DataHash: 542cdf0c5e41c16a577bdb558323cb71

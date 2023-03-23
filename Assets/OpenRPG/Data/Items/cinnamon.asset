@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cinnamon
   AsJson: '{"name":"Cinnamon","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":200}'
   DataHash: de280a7f58dee3efe1a855f9fc8d54f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cinnamon
+    Content: 
+    AsJson: '{"name":"Cinnamon","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":200}'
+    DataHash: de280a7f58dee3efe1a855f9fc8d54f1

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Allowak Yeti
   AsJson: '{"name":"Allowak Yeti","source":"EGW","page":126,"_copy":{"name":"Yeti","source":"MM"},"alignment":["N"],"int":16,"cha":10,"languages":["Common","Yeti"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: 9b3ecbe3640fad675657e662c7e777a8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Allowak Yeti
+    Content: 
+    AsJson: '{"name":"Allowak Yeti","source":"EGW","page":126,"_copy":{"name":"Yeti","source":"MM"},"alignment":["N"],"int":16,"cha":10,"languages":["Common","Yeti"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: 9b3ecbe3640fad675657e662c7e777a8

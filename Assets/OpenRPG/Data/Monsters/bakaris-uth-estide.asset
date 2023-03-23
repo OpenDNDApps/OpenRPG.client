@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bakaris Uth Estide","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":54,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Bakaris","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 988b224925fa7f30fd451687e7af8ec5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bakaris Uth Estide
+    Content: 
+    AsJson: '{"name":"Bakaris Uth Estide","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":54,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Bakaris","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 988b224925fa7f30fd451687e7af8ec5

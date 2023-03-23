@@ -49,3 +49,45 @@ MonoBehaviour:
     an action."],"_version":{"name":"Balor (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/balor.mp3"},"traitTags":["Death
     Burst","Magic Resistance","Magic Weapons"],"senseTags":["U"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","TP"],"damageTags":["F","L","S"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a967fb37501dcd06378e60e6fefee65b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Balor
+    Content: 
+    AsJson: '{"name":"Balor","source":"MM","page":55,"srd":true,"otherSources":[{"source":"BGDIA"},{"source":"IMR"},{"source":"EGW"},{"source":"TCE"},{"source":"CRCotN"}],"size":["H"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":19,"from":["natural
+      armor"]}],"hp":{"average":262,"formula":"21d12 + 126"},"speed":{"walk":40,"fly":80},"str":26,"dex":15,"con":22,"int":20,"wis":16,"cha":22,"save":{"str":"+14","con":"+12","wis":"+9","cha":"+12"},"senses":["truesight
+      120 ft."],"passive":13,"resist":["cold","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["fire","poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+      120 ft."],"cr":"19","trait":[{"name":"Death Throes","entries":["When the balor
+      dies, it explodes, and each creature within 30 feet of it must make a {@dc
+      20} Dexterity saving throw, taking 70 ({@damage 20d6}) fire damage on a failed
+      save, or half as much damage on a successful one. The explosion ignites flammable
+      objects in that area that aren''t being worn or carried, and it destroys the
+      balor''s weapons."]},{"name":"Fire Aura","entries":["At the start of each of
+      the balor''s turns, each creature within 5 feet of it takes 10 ({@damage 3d6})
+      fire damage, and flammable objects in the aura that aren''t being worn or carried
+      ignite. A creature that touches the balor or hits it with a melee attack while
+      within 5 feet of it takes 10 ({@damage 3d6}) fire damage."]},{"name":"Magic
+      Resistance","entries":["The balor has advantage on saving throws against spells
+      and other magical effects."]},{"name":"Magic Weapons","entries":["The balor''s
+      weapon attacks are magical."]}],"action":[{"name":"Multiattack","entries":["The
+      balor makes two attacks: one with its longsword and one with its whip."]},{"name":"Longsword","entries":["{@atk
+      mw} {@hit 14} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d8 + 8})
+      slashing damage plus 13 ({@damage 3d8}) lightning damage. If the balor scores
+      a critical hit, it rolls damage dice three times, instead of twice."]},{"name":"Whip","entries":["{@atk
+      mw} {@hit 14} to hit, reach 30 ft., one target. {@h}15 ({@damage 2d6 + 8})
+      slashing damage plus 10 ({@damage 3d6}) fire damage, and the target must succeed
+      on a {@dc 20} Strength saving throw or be pulled up to 25 feet toward the balor."]},{"name":"Teleport","entries":["The
+      balor magically teleports, along with any equipment it is wearing or carrying,
+      up to 120 feet to an unoccupied space it can see."]}],"variant":[{"type":"variant","name":"Summon
+      Demon (1/Day)","entries":["The demon chooses what to summon and attempts a
+      magical summoning.","A balor has a {@chance 50|50 percent|50% summoning chance}
+      chance of summoning {@dice 1d8} {@creature vrock||vrocks}, {@dice 1d6} {@creature
+      hezrou||hezrous}, {@dice 1d4} {@creature glabrezu||glabrezus}, {@dice 1d3}
+      {@creature nalfeshnee||nalfeshnees}, {@dice 1d2} {@creature marilith||mariliths},
+      or one {@creature goristro}.","A summoned demon appears in an unoccupied space
+      within 60 feet of its summoner, acts as an ally of its summoner, and can''t
+      summon other demons. It remains for 1 minute, until it or its summoner dies,
+      or until its summoner dismisses it as an action."],"_version":{"name":"Balor
+      (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/balor.mp3"},"traitTags":["Death
+      Burst","Magic Resistance","Magic Weapons"],"senseTags":["U"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","TP"],"damageTags":["F","L","S"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a967fb37501dcd06378e60e6fefee65b

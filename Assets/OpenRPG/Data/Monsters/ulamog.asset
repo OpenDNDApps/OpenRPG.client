@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ulamog","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Empyrean","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     empyrean","with":"Ulamog","flags":"i"}}},"hasToken":true}'
   DataHash: 9dd86135829ae3525344571d2a4c5a3f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ulamog
+    Content: 
+    AsJson: '{"name":"Ulamog","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Empyrean","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      empyrean","with":"Ulamog","flags":"i"}}},"hasToken":true}'
+    DataHash: 9dd86135829ae3525344571d2a4c5a3f

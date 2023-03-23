@@ -29,3 +29,23 @@ MonoBehaviour:
     dies if this effect reduces its hit point maximum to 0."]}],"environment":["underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/specter.mp3"},"traitTags":["Incorporeal
     Movement","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["CS","LF"],"damageTags":["N","O"],"miscTags":["HPR"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4d93985636e46446de6005faac42f08b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Specter
+    Content: 
+    AsJson: '{"name":"Specter","source":"MM","page":279,"srd":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"SLW"},{"source":"SDW"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"JttRC"},{"source":"KftGV"}],"size":["M"],"type":"undead","alignment":["C","E"],"ac":[12],"hp":{"average":22,"formula":"5d8"},"speed":{"walk":0,"fly":{"number":50,"condition":"(hover)"},"canHover":true},"str":1,"dex":14,"con":11,"int":10,"wis":10,"cha":11,"senses":["darkvision
+      60 ft."],"passive":10,"resist":["acid","cold","fire","lightning","thunder",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["necrotic","poison"],"conditionImmune":["charmed","exhaustion","grappled","paralyzed","petrified","poisoned","prone","restrained","unconscious"],"languages":["understands
+      all languages it knew in life but can''t speak"],"cr":"1","trait":[{"name":"Incorporeal
+      Movement","entries":["The specter can move through other creatures and objects
+      as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10})
+      force damage if it ends its turn inside an object."]},{"name":"Sunlight Sensitivity","entries":["While
+      in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom
+      ({@skill Perception}) checks that rely on sight."]}],"action":[{"name":"Life
+      Drain","entries":["{@atk ms} {@hit 4} to hit, reach 5 ft., one creature. {@h}10
+      ({@damage 3d6}) necrotic damage. The target must succeed on a {@dc 10} Constitution
+      saving throw or its hit point maximum is reduced by an amount equal to the
+      damage taken. This reduction lasts until the creature finishes a long rest.
+      The target dies if this effect reduces its hit point maximum to 0."]}],"environment":["underdark","urban"],"soundClip":{"type":"internal","path":"bestiary/specter.mp3"},"traitTags":["Incorporeal
+      Movement","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["CS","LF"],"damageTags":["N","O"],"miscTags":["HPR"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4d93985636e46446de6005faac42f08b

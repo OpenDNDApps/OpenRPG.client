@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ergot","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Northern
     Ergoth"],"script":"Common"}'
   DataHash: 5236bde6025f3899710c4bd4e629dd75
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ergot
+    Content: 
+    AsJson: '{"name":"Ergot","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Northern
+      Ergoth"],"script":"Common"}'
+    DataHash: 5236bde6025f3899710c4bd4e629dd75

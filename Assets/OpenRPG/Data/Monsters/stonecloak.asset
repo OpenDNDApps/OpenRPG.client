@@ -18,3 +18,12 @@ MonoBehaviour:
     Abyssal","Celestial","Common","Draconic","Dwarvish","Elvish","Infernal","and
     Undercommon but can''t speak"],"languageTags":["AB","C","CE","CS","D","DR","E","I","U"],"hasToken":true,"hasFluff":true}'
   DataHash: dc851fd7bb7bc6f96a6bb3587c85a855
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stonecloak
+    Content: 
+    AsJson: '{"name":"Stonecloak","source":"WDMM","page":253,"_copy":{"name":"Stone
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"stonecloak","flags":"i"}}},"int":9,"cha":9,"languages":["understands
+      Abyssal","Celestial","Common","Draconic","Dwarvish","Elvish","Infernal","and
+      Undercommon but can''t speak"],"languageTags":["AB","C","CE","CS","D","DR","E","I","U"],"hasToken":true,"hasFluff":true}'
+    DataHash: dc851fd7bb7bc6f96a6bb3587c85a855

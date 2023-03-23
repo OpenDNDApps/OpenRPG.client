@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Wraith
   AsJson: '{"name":"Wraith","source":"PSZ","page":28,"_copy":{"name":"Wraith","source":"MM"},"hasToken":true}'
   DataHash: cce580fd77ae56a241dff6718c21b766
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wraith
+    Content: 
+    AsJson: '{"name":"Wraith","source":"PSZ","page":28,"_copy":{"name":"Wraith","source":"MM"},"hasToken":true}'
+    DataHash: cce580fd77ae56a241dff6718c21b766

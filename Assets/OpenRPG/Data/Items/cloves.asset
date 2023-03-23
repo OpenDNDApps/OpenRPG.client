@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cloves
   AsJson: '{"name":"Cloves","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":300}'
   DataHash: 62c415e64811784a1fa25e8ea22ef64b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloves
+    Content: 
+    AsJson: '{"name":"Cloves","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":300}'
+    DataHash: 62c415e64811784a1fa25e8ea22ef64b

@@ -18,3 +18,12 @@ MonoBehaviour:
     Brand Greatsword","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft., one target.
     {@h}11 ({@damage 2d6 + 4}) slashing damage plus 3 ({@damage 1d6}) cold damage."]}}]}},"hasToken":true}'
   DataHash: 51b3a85bd4e7c14252b6b21ada561015
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yeti Leader
+    Content: 
+    AsJson: '{"name":"Yeti Leader","source":"TftYP","page":183,"_copy":{"name":"Yeti","source":"MM","_mod":{"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      yeti can use its Chilling Gaze and makes two greatsword attacks."]}},{"mode":"replaceArr","replace":"Claw","items":{"name":"Frost
+      Brand Greatsword","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft., one target.
+      {@h}11 ({@damage 2d6 + 4}) slashing damage plus 3 ({@damage 1d6}) cold damage."]}}]}},"hasToken":true}'
+    DataHash: 51b3a85bd4e7c14252b6b21ada561015

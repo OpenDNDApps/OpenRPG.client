@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Henrik van der Voort
   AsJson: '{"name":"Henrik van der Voort","isNpc":true,"source":"CoS","page":116,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: bd2a2486382be79c90fd21e5a98bb7cd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Henrik van der Voort
+    Content: 
+    AsJson: '{"name":"Henrik van der Voort","isNpc":true,"source":"CoS","page":116,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: bd2a2486382be79c90fd21e5a98bb7cd

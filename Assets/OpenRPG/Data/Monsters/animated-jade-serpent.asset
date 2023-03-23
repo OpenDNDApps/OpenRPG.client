@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Animated Jade Serpent","source":"WDMM","page":92,"_copy":{"name":"Giant
     Poisonous Snake","source":"MM"},"type":"construct","immune":["poison"],"conditionImmune":["poisoned"],"hasToken":true}'
   DataHash: 8cf5c90ac0c7a28d322fedffb7efdb02
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Jade Serpent
+    Content: 
+    AsJson: '{"name":"Animated Jade Serpent","source":"WDMM","page":92,"_copy":{"name":"Giant
+      Poisonous Snake","source":"MM"},"type":"construct","immune":["poison"],"conditionImmune":["poisoned"],"hasToken":true}'
+    DataHash: 8cf5c90ac0c7a28d322fedffb7efdb02

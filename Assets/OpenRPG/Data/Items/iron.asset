@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Iron
   AsJson: '{"name":"Iron","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":10}'
   DataHash: b408d79d5cb37071e78208ade1d581f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Iron
+    Content: 
+    AsJson: '{"name":"Iron","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":10}'
+    DataHash: b408d79d5cb37071e78208ade1d581f8

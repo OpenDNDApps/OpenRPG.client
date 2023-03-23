@@ -23,6 +23,20 @@ MonoBehaviour:
     If the {@condition frightened} target takes any damage, it can repeat the saving
     throw, ending the effect on itself on a success."]}]}'
   DataHash: ef112e7e1268034a6d329bf42acf10c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragon Fear
+    Content: 
+    AsJson: '{"name":"Dragon Fear","source":"XGE","page":74,"prerequisite":[{"race":[{"name":"dragonborn"}]}],"ability":[{"choose":{"from":["str","con","cha"],"amount":1}}],"entries":["When
+      angered, you radiate menace. You gain the following benefits:",{"type":"list","items":["Instead
+      of exhaling destructive energy, you can expend a use of your Breath Weapon
+      trait to roar, forcing each creature of your choice within 30 feet of you to
+      make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier).
+      A target automatically succeeds on the save if it can''t hear or see you. On
+      a failed save, a target becomes {@condition frightened} of you for 1 minute.
+      If the {@condition frightened} target takes any damage, it can repeat the saving
+      throw, ending the effect on itself on a success."]}]}'
+    DataHash: ef112e7e1268034a6d329bf42acf10c7
   Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   SourcePages: 74
   Prerequisites:

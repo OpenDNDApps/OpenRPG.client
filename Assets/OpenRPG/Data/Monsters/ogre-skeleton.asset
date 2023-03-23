@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ogre Skeleton
   AsJson: '{"name":"Ogre Skeleton","source":"TftYP","page":54,"_copy":{"name":"Ogre","source":"MM","_trait":{"name":"Skeleton","source":"DMG"}},"languageTags":["C","CS","GI","LF"],"hasToken":true}'
   DataHash: 7ab00f054f2a9c28eaa6bc9ffb2c4ec1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ogre Skeleton
+    Content: 
+    AsJson: '{"name":"Ogre Skeleton","source":"TftYP","page":54,"_copy":{"name":"Ogre","source":"MM","_trait":{"name":"Skeleton","source":"DMG"}},"languageTags":["C","CS","GI","LF"],"hasToken":true}'
+    DataHash: 7ab00f054f2a9c28eaa6bc9ffb2c4ec1

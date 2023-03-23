@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sheep
   AsJson: '{"name":"Sheep","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":200}'
   DataHash: 79ddf9e8b1e43a6a49970a9c766e834e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sheep
+    Content: 
+    AsJson: '{"name":"Sheep","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":200}'
+    DataHash: 79ddf9e8b1e43a6a49970a9c766e834e

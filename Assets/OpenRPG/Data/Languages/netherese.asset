@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Netherese
   AsJson: '{"name":"Netherese","source":"HotDQ","page":93,"otherSources":[{"source":"ToD"}],"script":"Draconic"}'
   DataHash: 2ec857d9cd4eaf97f120fa4f2dd1b94d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Netherese
+    Content: 
+    AsJson: '{"name":"Netherese","source":"HotDQ","page":93,"otherSources":[{"source":"ToD"}],"script":"Draconic"}'
+    DataHash: 2ec857d9cd4eaf97f120fa4f2dd1b94d

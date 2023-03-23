@@ -17,3 +17,12 @@ MonoBehaviour:
     complex pump organ that originated with the zulkirs of Thay, who use it in the
     casting of their spells. It is considered to have a dramatic, but sinister, sound."]}'
   DataHash: 42689ab9aebb73fd8d4a1a5cbf2de1be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zulkoon
+    Content: 
+    AsJson: '{"name":"Zulkoon","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      complex pump organ that originated with the zulkirs of Thay, who use it in
+      the casting of their spells. It is considered to have a dramatic, but sinister,
+      sound."]}'
+    DataHash: 42689ab9aebb73fd8d4a1a5cbf2de1be

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Samara Strongbones","isNpc":true,"source":"WDH","page":104,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Stout
     Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Samara","flags":"i"}}},"languageTags":["H","X"],"hasToken":true}'
   DataHash: 95ecd9b260a672ec5ed794b1cec6d651
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Samara Strongbones
+    Content: 
+    AsJson: '{"name":"Samara Strongbones","isNpc":true,"source":"WDH","page":104,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Stout
+      Halfling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Samara","flags":"i"}}},"languageTags":["H","X"],"hasToken":true}'
+    DataHash: 95ecd9b260a672ec5ed794b1cec6d651

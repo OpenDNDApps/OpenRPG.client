@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Necklace of electrum medallions with red and blue tournalines
     (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: f828a52e6f08c88250fe7368fa064d9b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necklace of electrum medallions with red and blue tournalines (Brazen
+      Coalition)
+    Content: 
+    AsJson: '{"name":"Necklace of electrum medallions with red and blue tournalines
+      (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: f828a52e6f08c88250fe7368fa064d9b

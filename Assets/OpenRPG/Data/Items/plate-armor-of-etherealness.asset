@@ -21,3 +21,15 @@ MonoBehaviour:
     This property of the armor can''t be used again until the next dawn."],"attachedSpells":["etherealness"],"lootTables":["Magic
     Item Table I"]}'
   DataHash: f7bd745c24a5360c06191392a082785d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Plate Armor of Etherealness
+    Content: 
+    AsJson: '{"name":"Plate Armor of Etherealness","source":"DMG","page":185,"srd":true,"baseItem":"plate
+      armor|phb","type":"HA","tier":"major","rarity":"legendary","reqAttune":true,"weight":65,"ac":18,"strength":"15","stealth":true,"entries":["While
+      you''re wearing this armor, you can speak its command word as an action to
+      gain the effect of the {@spell etherealness} spell, which lasts for 10 minutes
+      or until you remove the armor or use an action to speak the command word again.
+      This property of the armor can''t be used again until the next dawn."],"attachedSpells":["etherealness"],"lootTables":["Magic
+      Item Table I"]}'
+    DataHash: f7bd745c24a5360c06191392a082785d

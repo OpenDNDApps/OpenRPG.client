@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Pig","source":"SKT","page":143,"_copy":{"name":"Boar","source":"MM"},"hp":{"average":5,"formula":"1d8
     + 1"},"speed":{"walk":30},"cr":"0","trait":null,"action":null,"traitTags":[],"miscTags":[],"hasToken":true}'
   DataHash: 7807402a3ca5cd2a83c8ea504b708269
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pig
+    Content: 
+    AsJson: '{"name":"Pig","source":"SKT","page":143,"_copy":{"name":"Boar","source":"MM"},"hp":{"average":5,"formula":"1d8
+      + 1"},"speed":{"walk":30},"cr":"0","trait":null,"action":null,"traitTags":[],"miscTags":[],"hasToken":true}'
+    DataHash: 7807402a3ca5cd2a83c8ea504b708269

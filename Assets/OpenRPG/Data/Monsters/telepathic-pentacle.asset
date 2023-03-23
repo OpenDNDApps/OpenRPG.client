@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Telepathic Pentacle","source":"IDRotF","page":244,"_copy":{"name":"Hydra","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hydra","with":"Telepathic
     Pentacle"}}},"speed":{"walk":30,"swim":30,"climb":30},"hasToken":true,"hasFluff":true}'
   DataHash: 7c05fc590cbf43bea99f80245d05518c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Telepathic Pentacle
+    Content: 
+    AsJson: '{"name":"Telepathic Pentacle","source":"IDRotF","page":244,"_copy":{"name":"Hydra","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hydra","with":"Telepathic
+      Pentacle"}}},"speed":{"walk":30,"swim":30,"climb":30},"hasToken":true,"hasFluff":true}'
+    DataHash: 7c05fc590cbf43bea99f80245d05518c

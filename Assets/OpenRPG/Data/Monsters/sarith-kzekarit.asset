@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sarith Kzekarit","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Drow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     drow","with":"Sarith","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: fdc4a3cdfd8643264e6f77e7d1577ae7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sarith Kzekarit
+    Content: 
+    AsJson: '{"name":"Sarith Kzekarit","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Drow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Sarith","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: fdc4a3cdfd8643264e6f77e7d1577ae7

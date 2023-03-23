@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tatina Rookledust","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":87,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Rock
     Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the acolyte","with":"Tatina","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
   DataHash: 0e3cb62dee7da34b55033924dfd46c13
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tatina Rookledust
+    Content: 
+    AsJson: '{"name":"Tatina Rookledust","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":87,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the acolyte","with":"Tatina","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 0e3cb62dee7da34b55033924dfd46c13

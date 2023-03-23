@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ale (Mug)
   AsJson: '{"name":"Ale (Mug)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":4}'
   DataHash: 883624fb795fa2d6f203e541a57a8320
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ale (Mug)
+    Content: 
+    AsJson: '{"name":"Ale (Mug)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":4}'
+    DataHash: 883624fb795fa2d6f203e541a57a8320

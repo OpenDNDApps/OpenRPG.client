@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum bracelet set with a sapphire
   AsJson: '{"name":"Platinum bracelet set with a sapphire","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: 60dfcc9e80453936152fcc35b2630944
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum bracelet set with a sapphire
+    Content: 
+    AsJson: '{"name":"Platinum bracelet set with a sapphire","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: 60dfcc9e80453936152fcc35b2630944

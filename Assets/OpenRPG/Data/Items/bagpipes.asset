@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bagpipes
   AsJson: '{"name":"Bagpipes","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":6,"value":3000}'
   DataHash: 39b4827107e7c1a548f2783c0fcb3347
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bagpipes
+    Content: 
+    AsJson: '{"name":"Bagpipes","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":6,"value":3000}'
+    DataHash: 39b4827107e7c1a548f2783c0fcb3347

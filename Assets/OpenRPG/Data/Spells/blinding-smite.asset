@@ -22,3 +22,16 @@ MonoBehaviour:
     throw at the end of each of its turns. On a successful save, it is no longer
     {@condition blinded}."],"damageInflict":["radiant"],"conditionInflict":["blinded"],"savingThrow":["constitution"],"miscTags":["AAD"]}'
   DataHash: 6ff99de0e08730eb5897dc0499b73623
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blinding Smite
+    Content: 
+    AsJson: '{"name":"Blinding Smite","source":"PHB","page":219,"level":3,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+      next time you hit a creature with a melee weapon attack during this spell''s
+      duration, your weapon flares with bright light, and the attack deals an extra
+      {@damage 3d8} radiant damage to the target. Additionally, the target must succeed
+      on a Constitution saving throw or be {@condition blinded} until the spell ends.","A
+      creature {@condition blinded} by this spell makes another Constitution saving
+      throw at the end of each of its turns. On a successful save, it is no longer
+      {@condition blinded}."],"damageInflict":["radiant"],"conditionInflict":["blinded"],"savingThrow":["constitution"],"miscTags":["AAD"]}'
+    DataHash: 6ff99de0e08730eb5897dc0499b73623

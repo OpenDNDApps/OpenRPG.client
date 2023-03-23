@@ -20,3 +20,14 @@ MonoBehaviour:
     level of Dagdra''s choice. Only Dagdra can use the scroll, which vanishes after
     1 minute."]}}}},"ac":[{"ac":15,"from":["{@item half plate armor|phb}"]}],"languageTags":["D","X"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 3d6332cfa3080d2ae6410b38be25af16
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dagdra Deepforge
+    Content: 
+    AsJson: '{"name":"Dagdra Deepforge","isNpc":true,"isNamedCreature":true,"source":"OoW","page":145,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Dagdra","flags":"i"},"action":{"mode":"appendArr","items":{"name":"Scroll
+      Service (1/Day)","entries":["As an action, Dagdra draws a {@item spell scroll}
+      from her {@item documancy satchel|AI}. The scroll contains a spell of up to
+      3rd level of Dagdra''s choice. Only Dagdra can use the scroll, which vanishes
+      after 1 minute."]}}}},"ac":[{"ac":15,"from":["{@item half plate armor|phb}"]}],"languageTags":["D","X"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 3d6332cfa3080d2ae6410b38be25af16

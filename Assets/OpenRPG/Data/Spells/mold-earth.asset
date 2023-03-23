@@ -27,3 +27,21 @@ MonoBehaviour:
     multiple times, you can have no more than two of its non-instantaneous effects
     active at a time, and you can dismiss such an effect as an action."],"miscTags":["SGT"],"areaTags":["C"]}'
   DataHash: 061bdaf16b853c7edad3facc80d0bd93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mold Earth
+    Content: 
+    AsJson: '{"name":"Mold Earth","source":"XGE","page":162,"otherSources":[{"source":"EEPC","page":21}],"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"s":true},"duration":[{"type":"instant"},{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+      choose a portion of dirt or stone that you can see within range and that fits
+      within a 5-foot cube. You manipulate it in one of the following ways:",{"type":"list","items":["If
+      you target an area of loose earth, you can instantaneously excavate it, move
+      it along the ground, and deposit it up to 5 feet away. This movement doesn''t
+      involve enough force to cause damage.","You cause shapes, colors, or both to
+      appear on the dirt or stone, spelling out words, creating images, or shaping
+      patterns. The changes last for 1 hour.","If the dirt or stone you target is
+      on the ground, you cause it to become {@quickref difficult terrain||3}. Alternatively,
+      you can cause the ground to become normal terrain if it is already {@quickref
+      difficult terrain||3}. This change lasts for 1 hour."]},"If you cast this spell
+      multiple times, you can have no more than two of its non-instantaneous effects
+      active at a time, and you can dismiss such an effect as an action."],"miscTags":["SGT"],"areaTags":["C"]}'
+    DataHash: 061bdaf16b853c7edad3facc80d0bd93

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Lightning Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["lightning"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: 74707b08a11ffa518e594bf0f68e2dad
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Lightning Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Lightning Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["lightning"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: 74707b08a11ffa518e594bf0f68e2dad

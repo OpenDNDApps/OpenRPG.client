@@ -17,3 +17,11 @@ MonoBehaviour:
     Red Dragon","source":"MM","_trait":{"name":"Dracolich","source":"MM"}},"traitTags":["Legendary
     Resistances","Magic Resistance"],"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 7ac054b22fce14d06a953db05453148d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Adult Red Dracolich
+    Content: 
+    AsJson: '{"name":"Adult Red Dracolich","source":"TCE","page":137,"_copy":{"name":"Adult
+      Red Dragon","source":"MM","_trait":{"name":"Dracolich","source":"MM"}},"traitTags":["Legendary
+      Resistances","Magic Resistance"],"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 7ac054b22fce14d06a953db05453148d

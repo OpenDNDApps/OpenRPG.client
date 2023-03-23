@@ -19,3 +19,13 @@ MonoBehaviour:
     to breathe underwater until the spell ends. Affected creatures also retain their
     normal mode of respiration."],"miscTags":["SGT"],"areaTags":["MT"]}'
   DataHash: a85e3e0be646504689b05ba9831eaa41
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Water Breathing
+    Content: 
+    AsJson: '{"name":"Water Breathing","source":"PHB","page":287,"srd":true,"level":3,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+      short reed or piece of straw"},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"meta":{"ritual":true},"entries":["This
+      spell grants up to ten willing creatures you can see within range the ability
+      to breathe underwater until the spell ends. Affected creatures also retain
+      their normal mode of respiration."],"miscTags":["SGT"],"areaTags":["MT"]}'
+    DataHash: a85e3e0be646504689b05ba9831eaa41

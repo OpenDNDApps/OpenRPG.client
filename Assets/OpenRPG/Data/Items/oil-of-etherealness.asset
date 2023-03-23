@@ -21,3 +21,15 @@ MonoBehaviour:
     gains the effect of the {@spell etherealness} spell for 1 hour."],"attachedSpells":["etherealness"],"lootTables":["Magic
     Item Table C"]}'
   DataHash: 14d52536103f2b1a2b2e3510d40cb3c8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Oil of Etherealness
+    Content: 
+    AsJson: '{"name":"Oil of Etherealness","source":"DMG","page":183,"srd":true,"type":"P","tier":"minor","rarity":"rare","entries":["Beads
+      of this cloudy gray oil form on the outside of its container and quickly evaporate.
+      The oil can cover a Medium or smaller creature, along with the equipment it''s
+      wearing and carrying (one additional vial is required for each size category
+      above Medium). Applying the oil takes 10 minutes. The affected creature then
+      gains the effect of the {@spell etherealness} spell for 1 hour."],"attachedSpells":["etherealness"],"lootTables":["Magic
+      Item Table C"]}'
+    DataHash: 14d52536103f2b1a2b2e3510d40cb3c8

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carved bone statuette
   AsJson: '{"name":"Carved bone statuette","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 655a783e99db15c46140f0af07e51da1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carved bone statuette
+    Content: 
+    AsJson: '{"name":"Carved bone statuette","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 655a783e99db15c46140f0af07e51da1

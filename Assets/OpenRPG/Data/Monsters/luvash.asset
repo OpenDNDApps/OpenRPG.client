@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Luvash","isNpc":true,"source":"CoS","page":121,"_copy":{"name":"Bandit
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Luvash","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 94b02287b3ec2458d6fb803c5af03bb6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Luvash
+    Content: 
+    AsJson: '{"name":"Luvash","isNpc":true,"source":"CoS","page":121,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Luvash","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 94b02287b3ec2458d6fb803c5af03bb6

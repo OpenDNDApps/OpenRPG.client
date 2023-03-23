@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Flask","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2,"entries":["A
     flask holds 1 pint of liquid."]}'
   DataHash: 3d69e209cf27d4c5688829bee73c86cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flask
+    Content: 
+    AsJson: '{"name":"Flask","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":2,"entries":["A
+      flask holds 1 pint of liquid."]}'
+    DataHash: 3d69e209cf27d4c5688829bee73c86cb

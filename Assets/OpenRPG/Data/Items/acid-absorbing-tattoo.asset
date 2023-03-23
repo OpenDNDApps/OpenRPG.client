@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 2ac7613034d4db0d0b0bb73ec4e6a325
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Acid Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Acid Absorbing Tattoo","source":"TCE","page":119,"resist":["acid"],"detail1":"green","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 2ac7613034d4db0d0b0bb73ec4e6a325

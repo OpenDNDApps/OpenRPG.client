@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Wagon
   AsJson: '{"name":"Wagon","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":400,"value":3500}'
   DataHash: b6c8ac15e2b6080052f94bc2f2005fb0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wagon
+    Content: 
+    AsJson: '{"name":"Wagon","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":400,"value":3500}'
+    DataHash: b6c8ac15e2b6080052f94bc2f2005fb0

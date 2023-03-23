@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Black Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":500000,"entries":["A
     translucent lustrous black with glowing highlights gemstone."]}'
   DataHash: d0e4f8efd88a61ce21bbad5cffec9604
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Sapphire
+    Content: 
+    AsJson: '{"name":"Black Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":500000,"entries":["A
+      translucent lustrous black with glowing highlights gemstone."]}'
+    DataHash: d0e4f8efd88a61ce21bbad5cffec9604

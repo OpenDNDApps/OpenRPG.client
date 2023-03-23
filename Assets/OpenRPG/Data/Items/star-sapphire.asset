@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Star Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     translucent blue sapphire with white star-shaped center gemstone."]}'
   DataHash: a4abd3f4d9f400893ae046d3140106b4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Star Sapphire
+    Content: 
+    AsJson: '{"name":"Star Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      translucent blue sapphire with white star-shaped center gemstone."]}'
+    DataHash: a4abd3f4d9f400893ae046d3140106b4

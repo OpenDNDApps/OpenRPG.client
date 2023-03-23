@@ -18,3 +18,12 @@ MonoBehaviour:
     of a size larger than him"]},{"name":"Brave","entries":["Bepis has advantage
     on saving throws against being {@condition frightened}."]}],"languageTags":["C","H"],"hasToken":true,"hasFluff":true}'
   DataHash: e7abe2c44084a7b4a66fc813b390fb2f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bepis Honeymaker
+    Content: 
+    AsJson: '{"name":"Bepis Honeymaker","isNpc":true,"source":"WDH","page":112,"size":["S"],"type":{"type":"humanoid","tags":[{"tag":"halfling","prefix":"Strongheart"}]},"alignment":["L","G"],"ac":[10],"hp":{"average":4,"formula":"1d8"},"speed":{"walk":25},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"languages":["Common","Halfling"],"cr":"0","trait":[{"name":"Halfling
+      Nimbleness","entries":["Bepis can move through a space occupied by a creature
+      of a size larger than him"]},{"name":"Brave","entries":["Bepis has advantage
+      on saving throws against being {@condition frightened}."]}],"languageTags":["C","H"],"hasToken":true,"hasFluff":true}'
+    DataHash: e7abe2c44084a7b4a66fc813b390fb2f

@@ -18,3 +18,12 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 621656bce9c3b2e7362207e21d9a4972
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Protection
+    Content: 
+    AsJson: '{"name":"Cloak of Protection","source":"DMG","page":159,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"bonusAc":"+1","bonusSavingThrow":"+1","entries":["You
+      gain a +1 bonus to AC and saving throws while you wear this cloak."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 621656bce9c3b2e7362207e21d9a4972

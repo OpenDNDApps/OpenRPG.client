@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Troglodyte","source":"MM","page":290,"typicalSpeakers":["{@creature
     Troglodyte||troglodytes}"]}'
   DataHash: 5ef62645cfc8bd6f9741de3d5b9cddfd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Troglodyte
+    Content: 
+    AsJson: '{"name":"Troglodyte","source":"MM","page":290,"typicalSpeakers":["{@creature
+      Troglodyte||troglodytes}"]}'
+    DataHash: 5ef62645cfc8bd6f9741de3d5b9cddfd

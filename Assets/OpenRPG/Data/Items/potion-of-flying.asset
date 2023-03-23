@@ -21,3 +21,15 @@ MonoBehaviour:
     top of its container and has cloudy white impurities drifting in it."],"lootTables":["Magic
     Item Table D"]}'
   DataHash: 352cf14b5867ddc4c3bcc20d51fc1578
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Flying
+    Content: 
+    AsJson: '{"name":"Potion of Flying","source":"DMG","page":187,"srd":true,"basicRules":true,"type":"P","tier":"minor","rarity":"very
+      rare","modifySpeed":{"equal":{"fly":"walk"}},"entries":["When you drink this
+      potion, you gain a flying speed equal to your walking speed for 1 hour and
+      can hover. If you''re in the air when the potion wears off, you fall unless
+      you have some other means of staying aloft. This potion''s clear liquid floats
+      at the top of its container and has cloudy white impurities drifting in it."],"lootTables":["Magic
+      Item Table D"]}'
+    DataHash: 352cf14b5867ddc4c3bcc20d51fc1578

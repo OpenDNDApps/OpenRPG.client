@@ -19,3 +19,13 @@ MonoBehaviour:
     7 ({@damage 2d6}) poison damage on a failed save, or half as much damage on a
     successful one."]}}}},"damageTags":["I","P"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: ef66470ab4ffbd75cbe0cb16bcd67046
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amonkhet Hydra
+    Content: 
+    AsJson: '{"name":"Amonkhet Hydra","source":"PSA","page":35,"_copy":{"name":"Hydra","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Bite","items":{"name":"Bite","entries":["{@atk
+      mw} {@hit 8} to hit, reach 10 ft., one target. {@h}7 ({@damage 1d4 + 5}) piercing
+      damage, and the target must make on a DC 16 Constitution saving throw, taking
+      7 ({@damage 2d6}) poison damage on a failed save, or half as much damage on
+      a successful one."]}}}},"damageTags":["I","P"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: ef66470ab4ffbd75cbe0cb16bcd67046

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold chalice set with emeralds (Legion of Dusk)
   AsJson: '{"name":"Gold chalice set with emeralds (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: d03061abab3bc441337d3fd0492a456f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold chalice set with emeralds (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold chalice set with emeralds (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: d03061abab3bc441337d3fd0492a456f

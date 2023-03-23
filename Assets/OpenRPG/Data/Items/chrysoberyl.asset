@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chrysoberyl","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent yellow-green to pale green gemstone."]}'
   DataHash: ea0854c0c4ebaf6fa78bcafc882361e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chrysoberyl
+    Content: 
+    AsJson: '{"name":"Chrysoberyl","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent yellow-green to pale green gemstone."]}'
+    DataHash: ea0854c0c4ebaf6fa78bcafc882361e2

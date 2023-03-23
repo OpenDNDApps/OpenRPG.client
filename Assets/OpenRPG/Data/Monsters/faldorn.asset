@@ -53,3 +53,49 @@ MonoBehaviour:
     in her new form. The new form''s attacks count as magical for the purpose of
     overcoming resistances and immunity to nonmagical attacks."]}],"actionTags":["Multiattack","Shapechanger"],"languageTags":["C","DU","E","S"],"damageTags":["B"],"damageTagsSpell":["F","I","R","T"],"spellcastingTags":["CD"],"miscTags":["MW"],"conditionInflictSpell":["blinded","charmed","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: b14fd310a555a5efa3a86a79942e6a63
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Faldorn
+    Content: 
+    AsJson: '{"name":"Faldorn","isNamedCreature":true,"source":"MaBJoV","page":50,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[11],"hp":{"average":130,"formula":"20d8
+      + 40"},"speed":{"walk":30},"str":12,"dex":12,"con":14,"int":12,"wis":20,"cha":15,"save":{"int":"+6","wis":"+10"},"skill":{"medicine":"+10","nature":"+11","perception":"+10","survival":"+15"},"passive":20,"languages":["Common","Druidic","Elvish","Sylvan"],"cr":"13","spellcasting":[{"name":"Spellcasting","headerEntries":["Faldorn
+      is a 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save
+      {@dc 18}, {@hit 12} to hit with spell attacks). She has the following druid
+      spells prepared:"],"spells":{"0":{"spells":["{@spell druidcraft}","{@spell
+      poison spray}","{@spell produce flame}","{@spell shillelagh}"]},"1":{"slots":4,"spells":["{@spell
+      entangle}","{@spell longstrider}","{@spell speak with animals}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+      animal messenger}","{@spell barkskin}"]},"3":{"slots":3,"spells":["{@spell
+      conjure animals}","{@spell water breathing}"]},"4":{"slots":3,"spells":["{@spell
+      dominate beast}","{@spell locate creature}","{@spell stoneskin}","{@spell wall
+      of fire}"]},"5":{"slots":3,"spells":["{@spell commune with nature}","{@spell
+      mass cure wounds}","{@spell tree stride}"]},"6":{"slots":1,"spells":["{@spell
+      heal}","{@spell heroes'' feast}","{@spell sunbeam}"]},"7":{"slots":1,"spells":["{@spell
+      fire storm}"]},"8":{"slots":1,"spells":["{@spell animal shapes}"]},"9":{"slots":1,"spells":["{@spell
+      foresight}"]}},"ability":"wis"}],"trait":[{"name":"Staff of the Woodlands","entries":["This
+      staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack
+      and damage rolls made with it and grants Faldorn a +2 bonus to spell attack
+      rolls (already factored into Faldorn''s attacks). The staff has 10 charges.
+      It regains {@dice 1d6 + 4} expended charges daily at dawn. Faldorn can use
+      an action to expend 1 or more of the staff''s charges to cast one of the following
+      spells from it, with a spell save DC of 14: {@spell animal friendship} (1 charge),
+      {@spell awaken} (5 charges), {@spell barkskin} (2 charges), {@spell locate
+      animals or plants} (2 charges), {@spell speak with animals} (1 charge), {@spell
+      speak with plants} (3 charges), or {@spell wall of thorns} (6 charges). Faldorn
+      can use an action to cast the {@spell pass without trace} spell without using
+      any charges."]}],"action":[{"name":"Multiattack","entries":["Faldorn makes
+      a melee attack and casts a spell. Or she casts a spell and uses Change Shape
+      if available."]},{"name":"Staff of the Woodlands","entries":["{@atk mw} {@hit
+      8} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage,
+      or 7 ({@damage 1d8 + 3}) bludgeoning damage if wielded with two hands."]},{"name":"Change
+      Shape (2/Day)","entries":["Faldorn magically polymorphs into a beast or elemental
+      with a challenge rating of 6 or less, and can remain in this form for up to
+      9 hours. Faldorn reverts to her true form if she dies or falls {@condition
+      unconscious}. She can revert to her true form using a bonus action on her turn.","While
+      in a new form, Faldorn retains her game statistics and ability to speak, but
+      her AC, movement modes, Strength, and Dexterity are replaced by those of the
+      new form, and she gains any special senses, proficiencies, traits, actions,
+      and reactions (except class features, legendary actions, and lair actions)
+      that the new form has but that she lacks. She can cast her spells with verbal
+      or somatic components in her new form. The new form''s attacks count as magical
+      for the purpose of overcoming resistances and immunity to nonmagical attacks."]}],"actionTags":["Multiattack","Shapechanger"],"languageTags":["C","DU","E","S"],"damageTags":["B"],"damageTagsSpell":["F","I","R","T"],"spellcastingTags":["CD"],"miscTags":["MW"],"conditionInflictSpell":["blinded","charmed","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: b14fd310a555a5efa3a86a79942e6a63

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Dinosaur Skeleton","source":"JttRC","page":57,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"skeleton"}}},"type":"undead","senses":["darkvision
     60 ft."],"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true,"hasFluff":true}'
   DataHash: c05e9d8fec3841134aa7f63cacd0b646
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dinosaur Skeleton
+    Content: 
+    AsJson: '{"name":"Dinosaur Skeleton","source":"JttRC","page":57,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"skeleton"}}},"type":"undead","senses":["darkvision
+      60 ft."],"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true,"hasFluff":true}'
+    DataHash: c05e9d8fec3841134aa7f63cacd0b646

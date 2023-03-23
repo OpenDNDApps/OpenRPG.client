@@ -20,3 +20,14 @@ MonoBehaviour:
     blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened},
     {@condition stunned}, or knocked {@condition unconscious}."]}}}},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: f2bf465115c6bf0d43f4bfabc8538604
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Clovin Belview
+    Content: 
+    AsJson: '{"name":"Clovin Belview","isNpc":true,"source":"CoS","page":147,"_copy":{"name":"Mongrelfolk","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mongrelfolk","with":"Clovin","flags":"i"},"trait":{"mode":"replaceArr","replace":"Extraordinary
+      Feature","items":{"name":"Two-Headed","entries":["The mongrelfolk has advantage
+      on Wisdom ({@skill Perception}) checks and on saving throws against being {@condition
+      blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened},
+      {@condition stunned}, or knocked {@condition unconscious}."]}}}},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: f2bf465115c6bf0d43f4bfabc8538604

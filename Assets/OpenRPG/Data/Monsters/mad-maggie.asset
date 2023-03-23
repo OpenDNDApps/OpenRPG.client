@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mad Maggie","isNpc":true,"source":"BGDIA","page":74,"_copy":{"name":"Night
     Hag","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the hag","with":"Maggie","flags":"i"}}},"hasToken":true}'
   DataHash: 765c9462247d3b23024cf52b1363c119
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mad Maggie
+    Content: 
+    AsJson: '{"name":"Mad Maggie","isNpc":true,"source":"BGDIA","page":74,"_copy":{"name":"Night
+      Hag","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the hag","with":"Maggie","flags":"i"}}},"hasToken":true}'
+    DataHash: 765c9462247d3b23024cf52b1363c119

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Farmer
   AsJson: '{"name":"Farmer","isNpc":true,"source":"JttRC","page":36,"_copy":{"name":"Cultist","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"cultist","with":"farmer"}}},"hasToken":true}'
   DataHash: d9a9f27722654d5b4e265ef734730d28
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Farmer
+    Content: 
+    AsJson: '{"name":"Farmer","isNpc":true,"source":"JttRC","page":36,"_copy":{"name":"Cultist","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"cultist","with":"farmer"}}},"hasToken":true}'
+    DataHash: d9a9f27722654d5b4e265ef734730d28

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Reghed Chieftain
   AsJson: '{"name":"Reghed Chieftain","source":"IDRotF","page":152,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"gladiator","with":"chieftain"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"hasToken":true,"hasFluff":true}'
   DataHash: 62f14f3765bc0a1c93a5f0adadc788f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reghed Chieftain
+    Content: 
+    AsJson: '{"name":"Reghed Chieftain","source":"IDRotF","page":152,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"gladiator","with":"chieftain"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"hasToken":true,"hasFluff":true}'
+    DataHash: 62f14f3765bc0a1c93a5f0adadc788f9

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ink (1-ounce bottle)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1000,"entries":["Ink
     (1-ounce bottle)"]}'
   DataHash: 0b133a655cbe45e27eebfbbef6ebe51b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ink (1-ounce bottle)
+    Content: 
+    AsJson: '{"name":"Ink (1-ounce bottle)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1000,"entries":["Ink
+      (1-ounce bottle)"]}'
+    DataHash: 0b133a655cbe45e27eebfbbef6ebe51b

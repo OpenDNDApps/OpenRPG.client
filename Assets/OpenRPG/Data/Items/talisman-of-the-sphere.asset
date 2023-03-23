@@ -21,3 +21,15 @@ MonoBehaviour:
     plus a number of additional feet equal to 10 \xD7 your Intelligence modifier.\"],\"lootTables\":[\"Magic
     Item Table I\"],\"hasFluffImages\":true}"
   DataHash: f85ce28289bd681f613395a64e24ae95
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Talisman of the Sphere
+    Content: 
+    AsJson: "{\"name\":\"Talisman of the Sphere\",\"source\":\"DMG\",\"page\":207,\"srd\":true,\"tier\":\"major\",\"rarity\":\"legendary\",\"reqAttune\":true,\"wondrous\":true,\"weight\":1,\"entries\":[\"When
+      you make an Intelligence ({@skill Arcana}) check to control a {@item sphere
+      of annihilation} while you are holding this talisman, you double your proficiency
+      bonus on the check. In addition, when you start your turn with control over
+      a {@item sphere of annihilation}, you can use an action to levitate it 10 feet
+      plus a number of additional feet equal to 10 \xD7 your Intelligence modifier.\"],\"lootTables\":[\"Magic
+      Item Table I\"],\"hasFluffImages\":true}"
+    DataHash: f85ce28289bd681f613395a64e24ae95

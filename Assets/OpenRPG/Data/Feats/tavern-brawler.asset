@@ -20,6 +20,17 @@ MonoBehaviour:
     you hit a creature with an unarmed strike or an improvised weapon on your turn,
     you can use a bonus action to attempt to grapple the target."]}]}'
   DataHash: 37aba2e28ed9ff56c7b1d4e8ba85d20b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tavern Brawler
+    Content: 
+    AsJson: '{"name":"Tavern Brawler","source":"PHB","page":170,"ability":[{"choose":{"from":["str","con"],"amount":1}}],"entries":["Accustomed
+      to rough-and-tumble fighting using whatever weapons happen to be at hand, you
+      gain the following benefits:",{"type":"list","items":["You are proficient with
+      improvised weapons.","Your unarmed strike uses a {@damage d4} for damage.","When
+      you hit a creature with an unarmed strike or an improvised weapon on your turn,
+      you can use a bonus action to attempt to grapple the target."]}]}'
+    DataHash: 37aba2e28ed9ff56c7b1d4e8ba85d20b
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 170
   Prerequisites: []

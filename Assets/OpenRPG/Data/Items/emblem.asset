@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Emblem
   AsJson: '{"name":"Emblem","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","value":500}'
   DataHash: 11be506beb5c439bc990a77bb704e76b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emblem
+    Content: 
+    AsJson: '{"name":"Emblem","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","value":500}'
+    DataHash: 11be506beb5c439bc990a77bb704e76b

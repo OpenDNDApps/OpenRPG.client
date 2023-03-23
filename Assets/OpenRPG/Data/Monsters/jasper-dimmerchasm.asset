@@ -22,3 +22,16 @@ MonoBehaviour:
     mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage
     1d6 + 3}) slashing damage."]}}]}},"senseTags":["D"],"languageTags":["C","D","X"],"miscTags":["MW","RNG","RW","THW"],"hasToken":true}'
   DataHash: 6f72c3a11717d56be79360aa38f69e6d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jasper Dimmerchasm
+    Content: 
+    AsJson: '{"name":"Jasper Dimmerchasm","isNpc":true,"source":"SKT","page":184,"_copy":{"name":"Veteran","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the veteran","with":"Jasper","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Jasper
+      makes two battleaxe attacks. If he has a handaxe drawn, he can also make a
+      handaxe attack."]}},{"mode":"replaceArr","replace":"Longsword","items":{"name":"Battleaxe","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+      damage, or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands."]}},{"mode":"replaceArr","replace":"Shortsword","items":{"name":"Handaxe","entries":["{@atk
+      mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage
+      1d6 + 3}) slashing damage."]}}]}},"senseTags":["D"],"languageTags":["C","D","X"],"miscTags":["MW","RNG","RW","THW"],"hasToken":true}'
+    DataHash: 6f72c3a11717d56be79360aa38f69e6d

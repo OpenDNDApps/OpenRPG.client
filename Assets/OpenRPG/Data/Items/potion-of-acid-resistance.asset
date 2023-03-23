@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Acid Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["acid"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: 53bb69b26ff5c523382caf79993c8a9f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Acid Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Acid Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["acid"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: 53bb69b26ff5c523382caf79993c8a9f

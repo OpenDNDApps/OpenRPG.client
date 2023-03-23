@@ -22,3 +22,16 @@ MonoBehaviour:
     {@condition charmed} creature has disadvantage on new saving throws to break
     the effect during this time."],"attachedSpells":["dominate beast"]}'
   DataHash: 9f285e33338414855b0e091210fb72b3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Mind Control (beast)
+    Content: 
+    AsJson: '{"name":"Potion of Mind Control (beast)","source":"TftYP","page":229,"type":"P","rarity":"rare","entries":["When
+      you drink a potion of mind control, you can cast a dominate spell (save DC
+      15) on a specific creature if you do so before the end of your next turn. If
+      you don''t, the potion is wasted.","A potion of mind control produces the effect
+      of a {@spell dominate beast} spell. If the target''s initial saving throw fails,
+      the effect lasts for 1 hour, with no concentration required on your part. The
+      {@condition charmed} creature has disadvantage on new saving throws to break
+      the effect during this time."],"attachedSpells":["dominate beast"]}'
+    DataHash: 9f285e33338414855b0e091210fb72b3

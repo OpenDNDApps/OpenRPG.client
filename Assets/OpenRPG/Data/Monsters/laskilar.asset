@@ -17,3 +17,11 @@ MonoBehaviour:
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Laskilar","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
     Equipment","entries":["Laskilar wears a {@item cape of the mountebank}."]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: ea882034735d8899097e4503e97b77ef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Laskilar
+    Content: 
+    AsJson: '{"name":"Laskilar","isNpc":true,"source":"ToA","page":67,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Laskilar","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Laskilar wears a {@item cape of the mountebank}."]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: ea882034735d8899097e4503e97b77ef

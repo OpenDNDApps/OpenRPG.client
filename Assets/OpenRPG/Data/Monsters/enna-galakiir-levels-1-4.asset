@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Enna Galakiir (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bandit","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
   DataHash: d0cb145d23a3d42bf9e9a576e363ef75
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Enna Galakiir (Levels 1-4)
+    Content: 
+    AsJson: '{"name":"Enna Galakiir (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bandit","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
+    DataHash: d0cb145d23a3d42bf9e9a576e363ef75

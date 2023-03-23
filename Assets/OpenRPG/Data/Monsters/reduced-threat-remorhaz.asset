@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Remorhaz","source":"TftYP","page":113,"_copy":{"name":"Remorhaz","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: cd38cd077fdd7a96dc476866b51b3194
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Remorhaz
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Remorhaz","source":"TftYP","page":113,"_copy":{"name":"Remorhaz","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: cd38cd077fdd7a96dc476866b51b3194

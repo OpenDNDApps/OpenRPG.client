@@ -8,5 +8,6 @@ namespace ORC
     public class OrcScriptableObject : BaseScriptableObject
     {
         public const string kBaseScriptableDataPath = "ORC/";
+        public const string kDungeonsAndDragons5thEditionKey = "d&d5e";
     }
 }

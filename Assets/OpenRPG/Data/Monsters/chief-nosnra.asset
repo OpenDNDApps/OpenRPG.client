@@ -17,3 +17,11 @@ MonoBehaviour:
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Chief
     Nosnra","flags":"i"}}},"ac":[{"ac":17,"from":["{@item splint armor|phb}"]}],"immune":null,"conditionInflict":[],"hasToken":true}'
   DataHash: 8e95797bcf31f039db8dcc5b31252bc1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chief Nosnra
+    Content: 
+    AsJson: '{"name":"Chief Nosnra","isNpc":true,"source":"TftYP","page":170,"_copy":{"name":"Frost
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Chief
+      Nosnra","flags":"i"}}},"ac":[{"ac":17,"from":["{@item splint armor|phb}"]}],"immune":null,"conditionInflict":[],"hasToken":true}'
+    DataHash: 8e95797bcf31f039db8dcc5b31252bc1

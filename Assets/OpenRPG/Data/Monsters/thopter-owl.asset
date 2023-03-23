@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Thopter (Owl)
   AsJson: '{"name":"Thopter (Owl)","source":"PSK","page":33,"_copy":{"name":"Owl","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"owl","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 884dad693d688119a13dd4a7825c08e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thopter (Owl)
+    Content: 
+    AsJson: '{"name":"Thopter (Owl)","source":"PSK","page":33,"_copy":{"name":"Owl","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"owl","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 884dad693d688119a13dd4a7825c08e5

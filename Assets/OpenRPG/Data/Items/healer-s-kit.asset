@@ -18,3 +18,13 @@ MonoBehaviour:
     ten uses. As an action, you can expend one use of the kit to stabilize a creature
     that has 0 hit points, without needing to make a Wisdom ({@skill Medicine}) check."],"hasFluffImages":true}'
   DataHash: 5e40a19f3bf2c58887ebf165eb82f439
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Healer's Kit
+    Content: 
+    AsJson: '{"name":"Healer''s Kit","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":3,"value":500,"entries":["This
+      kit is a leather pouch containing bandages, salves, and splints. The kit has
+      ten uses. As an action, you can expend one use of the kit to stabilize a creature
+      that has 0 hit points, without needing to make a Wisdom ({@skill Medicine})
+      check."],"hasFluffImages":true}'
+    DataHash: 5e40a19f3bf2c58887ebf165eb82f439

@@ -17,3 +17,11 @@ MonoBehaviour:
     an action, a character can throw a grenade at a point up to 60 feet away. With
     a grenade launcher, the character can propel the grenade up to 120 feet away."]}'
   DataHash: a57e7c96307fa60780c7059e6f2e1470
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grenade Launcher
+    Content: 
+    AsJson: '{"name":"Grenade Launcher","source":"DMG","page":268,"type":"G","rarity":"none","weight":7,"age":"modern","entries":["As
+      an action, a character can throw a grenade at a point up to 60 feet away. With
+      a grenade launcher, the character can propel the grenade up to 120 feet away."]}'
+    DataHash: a57e7c96307fa60780c7059e6f2e1470

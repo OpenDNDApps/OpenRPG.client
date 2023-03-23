@@ -24,3 +24,18 @@ MonoBehaviour:
     level or higher, you can affect one additional beast for each slot level above
     1st."]}],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"affectsCreatureType":["beast"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 3544377c712b28192cfc372058513bcd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animal Friendship
+    Content: 
+    AsJson: '{"name":"Animal Friendship","source":"PHB","page":212,"srd":true,"level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+      morsel of food"},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"entries":["This
+      spell lets you convince a beast that you mean it no harm. Choose a beast that
+      you can see within range. It must see and hear you. If the beast''s Intelligence
+      is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom
+      saving throw or be {@condition charmed} by you for the spell''s duration. If
+      you or one of your companions harms the target, the spell ends."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, you can affect one additional beast for each slot level above
+      1st."]}],"conditionInflict":["charmed"],"savingThrow":["wisdom"],"affectsCreatureType":["beast"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 3544377c712b28192cfc372058513bcd

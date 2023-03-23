@@ -22,3 +22,16 @@ MonoBehaviour:
     at the end of each of its turns. On a successful save, the spell ends on the
     target."],"damageInflict":["psychic"],"conditionInflict":["stunned"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 14508cf3baa5fa2fd3942e4fa83b6bbd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Psychic Crush
+    Content: 
+    AsJson: '{"name":"Psychic Crush","source":"UAFighterRogueWizard","page":8,"level":6,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+      overload the mind of one creature you can see within range, filling its psyche
+      with discordant emotions. The target must make an Intelligence saving throw.
+      On a failed save, the target takes {@damage 12d6} psychic damage and is {@condition
+      stunned} for 1 minute. On a successful save, the target takes half as much
+      damage and isn''t stunned.","The stunned target can make an Intelligence saving
+      throw at the end of each of its turns. On a successful save, the spell ends
+      on the target."],"damageInflict":["psychic"],"conditionInflict":["stunned"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 14508cf3baa5fa2fd3942e4fa83b6bbd

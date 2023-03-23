@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grandfather Zitembe","isNpc":true,"source":"ToA","page":20,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Zitembe","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: 71991b6ff71adf00a1f85d33d0f09634
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grandfather Zitembe
+    Content: 
+    AsJson: '{"name":"Grandfather Zitembe","isNpc":true,"source":"ToA","page":20,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Zitembe","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 71991b6ff71adf00a1f85d33d0f09634

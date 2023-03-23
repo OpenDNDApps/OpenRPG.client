@@ -23,3 +23,17 @@ MonoBehaviour:
     speed of 0.","The spell ends for an affected creature if it takes any damage
     or if someone else uses an action to shake the creature out of its stupor."],"conditionInflict":["charmed","incapacitated"],"savingThrow":["wisdom"],"areaTags":["C"]}'
   DataHash: bb78bbcae4efd6c7c8eebd17ceda4747
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hypnotic Pattern
+    Content: 
+    AsJson: '{"name":"Hypnotic Pattern","source":"PHB","page":252,"srd":true,"level":3,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"s":true,"m":"a
+      glowing stick of incense or a crystal vial filled with phosphorescent material"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      create a twisting pattern of colors that weaves through the air inside a 30-foot
+      cube within range. The pattern appears for a moment and vanishes. Each creature
+      in the area who sees the pattern must make a Wisdom saving throw. On a failed
+      save, the creature becomes {@condition charmed} for the duration. While {@condition
+      charmed} by this spell, the creature is {@condition incapacitated} and has
+      a speed of 0.","The spell ends for an affected creature if it takes any damage
+      or if someone else uses an action to shake the creature out of its stupor."],"conditionInflict":["charmed","incapacitated"],"savingThrow":["wisdom"],"areaTags":["C"]}'
+    DataHash: bb78bbcae4efd6c7c8eebd17ceda4747

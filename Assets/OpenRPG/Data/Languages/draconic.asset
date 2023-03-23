@@ -19,3 +19,13 @@ MonoBehaviour:
     magic. The language sounds harsh to most other creatures and includes numerous
     hard consonants and sibilants."],"hasFluffImages":true}'
   DataHash: e79ec7c4b2027e48bf5ca57ed460d050
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Draconic
+    Content: 
+    AsJson: '{"name":"Draconic","source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"PHB","page":32}],"type":"exotic","typicalSpeakers":["{@filter
+      dragons|bestiary|type=dragon}","{@race dragonborn}"],"script":"Draconic","entries":["Draconic
+      is thought to be one of the oldest languages and is often used in the study
+      of magic. The language sounds harsh to most other creatures and includes numerous
+      hard consonants and sibilants."],"hasFluffImages":true}'
+    DataHash: e79ec7c4b2027e48bf5ca57ed460d050

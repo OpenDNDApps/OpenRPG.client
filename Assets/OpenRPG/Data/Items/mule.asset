@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Mule
   AsJson: '{"name":"Mule","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":800,"carryingCapacity":420,"speed":40}'
   DataHash: 2c01cd9febef64bd5a714353652e3ff8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mule
+    Content: 
+    AsJson: '{"name":"Mule","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":800,"carryingCapacity":420,"speed":40}'
+    DataHash: 2c01cd9febef64bd5a714353652e3ff8

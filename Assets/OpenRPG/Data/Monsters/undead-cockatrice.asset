@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Undead Cockatrice
   AsJson: '{"name":"Undead Cockatrice","source":"OoW","page":114,"_copy":{"name":"Cockatrice","source":"MM"},"type":"undead","immune":["poison"],"conditionImmune":["poisoned"],"hasToken":true}'
   DataHash: 80af17448ee203595a4c3d6cfb3e4a4a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Undead Cockatrice
+    Content: 
+    AsJson: '{"name":"Undead Cockatrice","source":"OoW","page":114,"_copy":{"name":"Cockatrice","source":"MM"},"type":"undead","immune":["poison"],"conditionImmune":["poisoned"],"hasToken":true}'
+    DataHash: 80af17448ee203595a4c3d6cfb3e4a4a

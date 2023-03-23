@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bray Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Young
     Wereraven","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the wereraven","with":"Bray","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 7d8bc1e49d78d04f7a97030ff5411c9b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bray Martikov
+    Content: 
+    AsJson: '{"name":"Bray Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Young
+      Wereraven","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the wereraven","with":"Bray","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 7d8bc1e49d78d04f7a97030ff5411c9b

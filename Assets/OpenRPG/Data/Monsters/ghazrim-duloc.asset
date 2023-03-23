@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ghazrim DuLoc","isNpc":true,"source":"OotA","page":141,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Ghazrim","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true,"hasFluffImages":true}'
   DataHash: 5bee8a4b1d4388fad9acaac1645c030c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ghazrim DuLoc
+    Content: 
+    AsJson: '{"name":"Ghazrim DuLoc","isNpc":true,"source":"OotA","page":141,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Ghazrim","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 5bee8a4b1d4388fad9acaac1645c030c

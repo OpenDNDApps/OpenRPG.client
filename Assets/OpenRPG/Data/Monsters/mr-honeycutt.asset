@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mr. Honeycutt","isNpc":true,"isNamedCreature":true,"source":"NRH-TCMC","page":10,"otherSources":[{"source":"NRH-AVitW","page":9},{"source":"NRH-ASS","page":9},{"source":"NRH-CoI","page":10},{"source":"NRH-TLT","page":9},{"source":"NRH-AWoL","page":7},{"source":"NRH-AT","page":12}],"_copy":{"name":"Wererat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     wererat","with":"Mr. Honeycutt","flags":"i"}}},"hasToken":true}'
   DataHash: a75e37418d85889561dd01a4b29e5988
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mr. Honeycutt
+    Content: 
+    AsJson: '{"name":"Mr. Honeycutt","isNpc":true,"isNamedCreature":true,"source":"NRH-TCMC","page":10,"otherSources":[{"source":"NRH-AVitW","page":9},{"source":"NRH-ASS","page":9},{"source":"NRH-CoI","page":10},{"source":"NRH-TLT","page":9},{"source":"NRH-AWoL","page":7},{"source":"NRH-AT","page":12}],"_copy":{"name":"Wererat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      wererat","with":"Mr. Honeycutt","flags":"i"}}},"hasToken":true}'
+    DataHash: a75e37418d85889561dd01a4b29e5988

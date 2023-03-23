@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Obsidian","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque black gemstone."]}'
   DataHash: e80727425dfab45c7d677ff41189144c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Obsidian
+    Content: 
+    AsJson: '{"name":"Obsidian","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque black gemstone."]}'
+    DataHash: e80727425dfab45c7d677ff41189144c

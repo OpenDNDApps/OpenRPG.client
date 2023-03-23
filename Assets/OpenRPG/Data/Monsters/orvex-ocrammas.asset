@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Orvex Ocrammas","isNpc":true,"source":"ToA","page":96,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Orvex","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"languages":["Common","Grung"],"languageTags":["C","OTH"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 1d78935f36c25e0a4c2a32cf193457ef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orvex Ocrammas
+    Content: 
+    AsJson: '{"name":"Orvex Ocrammas","isNpc":true,"source":"ToA","page":96,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Orvex","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"languages":["Common","Grung"],"languageTags":["C","OTH"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 1d78935f36c25e0a4c2a32cf193457ef

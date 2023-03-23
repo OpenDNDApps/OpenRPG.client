@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Doru","isNpc":true,"source":"CoS","page":47,"_copy":{"name":"Vampire
     Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Doru","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 13df2d4b8acf78e2062cd6413d41f351
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Doru
+    Content: 
+    AsJson: '{"name":"Doru","isNpc":true,"source":"CoS","page":47,"_copy":{"name":"Vampire
+      Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Doru","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 13df2d4b8acf78e2062cd6413d41f351

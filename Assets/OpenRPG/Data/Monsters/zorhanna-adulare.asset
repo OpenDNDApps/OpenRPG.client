@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zorhanna Adulare","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Zorhanna Adulare","flags":"i"}}},"languages":["Auran","Common","Draconic","Elvish","Sylvan"],"hasToken":true}'
   DataHash: a1ef7a76db24ce00095185b6e2099c9c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zorhanna Adulare
+    Content: 
+    AsJson: '{"name":"Zorhanna Adulare","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Zorhanna Adulare","flags":"i"}}},"languages":["Auran","Common","Draconic","Elvish","Sylvan"],"hasToken":true}'
+    DataHash: a1ef7a76db24ce00095185b6e2099c9c

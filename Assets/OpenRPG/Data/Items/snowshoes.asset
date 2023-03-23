@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Snowshoes","source":"IDRotF","page":20,"type":"G","rarity":"none","weight":4,"value":200,"entries":["Snowshoes
     reduce the likelihood of their wearer getting stuck in the deep snow."]}'
   DataHash: c70a064b78a387fb8320182e65fc9c9c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Snowshoes
+    Content: 
+    AsJson: '{"name":"Snowshoes","source":"IDRotF","page":20,"type":"G","rarity":"none","weight":4,"value":200,"entries":["Snowshoes
+      reduce the likelihood of their wearer getting stuck in the deep snow."]}'
+    DataHash: c70a064b78a387fb8320182e65fc9c9c

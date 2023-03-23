@@ -18,3 +18,12 @@ MonoBehaviour:
     no components."]},{"name":"Greater Magic (Costs 2 Actions)","entries":["The behir
     casts {@spell invisibility} or {@spell misty step}, requiring no components."]}],"hasToken":true}'
   DataHash: e60344b89cc269f28bb8f7e8e6a9a8bf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Runed Behir
+    Content: 
+    AsJson: '{"name":"Runed Behir","source":"WDMM","page":158,"_copy":{"name":"Behir","source":"MM"},"legendary":[{"name":"Lesser
+      Magic","entries":["The behir casts {@spell color spray} or {@spell sleep},
+      requiring no components."]},{"name":"Greater Magic (Costs 2 Actions)","entries":["The
+      behir casts {@spell invisibility} or {@spell misty step}, requiring no components."]}],"hasToken":true}'
+    DataHash: e60344b89cc269f28bb8f7e8e6a9a8bf

@@ -17,3 +17,11 @@ MonoBehaviour:
     front of this shield is shaped in the likeness of a face. While bearing the shield,
     you can use a bonus action to alter the face''s expression."]}'
   DataHash: 8047aff581aa10d2c3c64f2ca9903ca1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shield of Expression
+    Content: 
+    AsJson: '{"name":"Shield of Expression","source":"XGE","page":139,"type":"S","tier":"minor","rarity":"common","weight":6,"ac":2,"entries":["The
+      front of this shield is shaped in the likeness of a face. While bearing the
+      shield, you can use a bonus action to alter the face''s expression."]}'
+    DataHash: 8047aff581aa10d2c3c64f2ca9903ca1

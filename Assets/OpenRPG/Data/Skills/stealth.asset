@@ -12,9 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: stealth
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Stealth
   AsJson: '{"name":"Stealth","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Make
     a Dexterity (Stealth) check when you attempt to conceal yourself from enemies,
     slink past guards, slip away without being noticed, or sneak up on someone without
     being seen or heard."]}'
   DataHash: d4dc9c25d570cf041e4c3867a2f1c496
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Stealth","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Make
+      a Dexterity (Stealth) check when you attempt to conceal yourself from enemies,
+      slink past guards, slip away without being noticed, or sneak up on someone
+      without being seen or heard."]}'
+    DataHash: d4dc9c25d570cf041e4c3867a2f1c496

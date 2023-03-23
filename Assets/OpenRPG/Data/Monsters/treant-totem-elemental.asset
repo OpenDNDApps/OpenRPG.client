@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Treant Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"treant
     totem"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 17798070a5278d8caf56ca899bf936fc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Treant Totem Elemental
+    Content: 
+    AsJson: '{"name":"Treant Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"treant
+      totem"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 17798070a5278d8caf56ca899bf936fc

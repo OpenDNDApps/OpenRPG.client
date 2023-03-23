@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blind Artist","isNpc":true,"source":"ToA","page":164,"_copy":{"name":"Zombie","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"zombie","with":"artist"}}},"senses":["blindsight
     30 ft. (blind beyond this radius)"],"conditionImmune":["blinded","poisoned"],"cr":"0","action":null,"senseTags":["B"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 3c2192755d86571b8bbba4ce3900a662
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blind Artist
+    Content: 
+    AsJson: '{"name":"Blind Artist","isNpc":true,"source":"ToA","page":164,"_copy":{"name":"Zombie","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"zombie","with":"artist"}}},"senses":["blindsight
+      30 ft. (blind beyond this radius)"],"conditionImmune":["blinded","poisoned"],"cr":"0","action":null,"senseTags":["B"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 3c2192755d86571b8bbba4ce3900a662

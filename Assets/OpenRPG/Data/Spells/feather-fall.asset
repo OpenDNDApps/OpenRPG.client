@@ -21,3 +21,15 @@ MonoBehaviour:
     the spell ends, it takes no falling damage and can land on its feet, and the
     spell ends for that creature."],"areaTags":["MT"]}'
   DataHash: 501bbf92f44fbf75bd1f7971336ffc2c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feather Fall
+    Content: 
+    AsJson: '{"name":"Feather Fall","source":"PHB","page":239,"srd":true,"level":1,"school":"T","time":[{"number":1,"unit":"reaction","condition":"which
+      you take when you or a creature within 60 feet of you falls"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"m":"a
+      small feather or a piece of down"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["Choose
+      up to five falling creatures within range. A falling creature''s rate of descent
+      slows to 60 feet per round until the spell ends. If the creature lands before
+      the spell ends, it takes no falling damage and can land on its feet, and the
+      spell ends for that creature."],"areaTags":["MT"]}'
+    DataHash: 501bbf92f44fbf75bd1f7971336ffc2c

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sylvan","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
     fey creatures|bestiary|type=fey}"],"script":"Elvish","hasFluffImages":true}'
   DataHash: 9bf42d2d5a8631d55b3a3a543699525f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sylvan
+    Content: 
+    AsJson: '{"name":"Sylvan","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
+      fey creatures|bestiary|type=fey}"],"script":"Elvish","hasFluffImages":true}'
+    DataHash: 9bf42d2d5a8631d55b3a3a543699525f

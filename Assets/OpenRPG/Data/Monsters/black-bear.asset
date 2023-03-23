@@ -23,3 +23,17 @@ MonoBehaviour:
     one target. {@h}7 ({@damage 2d4 + 2}) slashing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/black-bear.mp3"},"traitTags":["Keen
     Senses"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 384f7ef689ea7f50c25f6dc0a50a31a9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Bear
+    Content: 
+    AsJson: '{"name":"Black Bear","source":"MM","page":318,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"WDMM"},{"source":"GoS"},{"source":"IMR"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":19,"formula":"3d8 + 6"},"speed":{"walk":40,"climb":30},"str":15,"dex":10,"con":14,"int":2,"wis":12,"cha":7,"skill":{"perception":"+3"},"passive":13,"cr":"1/2","trait":[{"name":"Keen
+      Smell","entries":["The bear has advantage on Wisdom ({@skill Perception}) checks
+      that rely on smell."]}],"action":[{"name":"Multiattack","entries":["The bear
+      makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+      damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+      one target. {@h}7 ({@damage 2d4 + 2}) slashing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/black-bear.mp3"},"traitTags":["Keen
+      Senses"],"actionTags":["Multiattack"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 384f7ef689ea7f50c25f6dc0a50a31a9

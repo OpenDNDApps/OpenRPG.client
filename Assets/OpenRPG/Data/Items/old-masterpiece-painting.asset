@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Old masterpiece painting
   AsJson: '{"name":"Old masterpiece painting","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: bbe32e09bef440fa6f05094ab3456656
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Old masterpiece painting
+    Content: 
+    AsJson: '{"name":"Old masterpiece painting","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: bbe32e09bef440fa6f05094ab3456656

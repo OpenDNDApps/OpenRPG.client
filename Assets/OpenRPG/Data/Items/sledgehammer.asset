@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sledgehammer
   AsJson: '{"name":"Sledgehammer","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200}'
   DataHash: 93fa1f463a0aa1880f0ce685f37a5c90
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sledgehammer
+    Content: 
+    AsJson: '{"name":"Sledgehammer","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200}'
+    DataHash: 93fa1f463a0aa1880f0ce685f37a5c90

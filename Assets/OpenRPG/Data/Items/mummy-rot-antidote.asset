@@ -17,3 +17,11 @@ MonoBehaviour:
     dust swirls constantly within this pale gray potion. When you drink the potion,
     it cures you of mummy rot."]}'
   DataHash: 50a533b744351496936d963c0aaba66d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mummy Rot Antidote
+    Content: 
+    AsJson: '{"name":"Mummy Rot Antidote","source":"IMR","page":94,"type":"P","rarity":"uncommon","entries":["White
+      dust swirls constantly within this pale gray potion. When you drink the potion,
+      it cures you of mummy rot."]}'
+    DataHash: 50a533b744351496936d963c0aaba66d

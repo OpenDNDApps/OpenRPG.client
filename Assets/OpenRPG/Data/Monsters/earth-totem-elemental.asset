@@ -17,3 +17,11 @@ MonoBehaviour:
     Elemental","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elemental","with":"totem
     elemental"}}},"hasToken":true,"hasFluff":true}'
   DataHash: eabaf3eb7bf108f6baac0578fbfba509
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Earth Totem Elemental
+    Content: 
+    AsJson: '{"name":"Earth Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Earth
+      Elemental","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elemental","with":"totem
+      elemental"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: eabaf3eb7bf108f6baac0578fbfba509

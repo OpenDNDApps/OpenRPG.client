@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: nature
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Nature
   AsJson: '{"name":"Nature","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
     Intelligence (Nature) check measures your ability to recall lore about terrain,
     plants and animals, the weather, and natural cycles."]}'
   DataHash: e256276caf39aa3e8bd1b2e7716afea3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Nature","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
+      Intelligence (Nature) check measures your ability to recall lore about terrain,
+      plants and animals, the weather, and natural cycles."]}'
+    DataHash: e256276caf39aa3e8bd1b2e7716afea3

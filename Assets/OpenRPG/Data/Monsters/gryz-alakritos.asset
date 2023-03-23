@@ -17,3 +17,11 @@ MonoBehaviour:
     Mastermind","source":"CRCotN","_trait":{"name":"Goblin","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     mastermind","with":"Gryz","flags":"i"}}},"type":{"type":"humanoid","tags":["goblin","wizard"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: d73d176d465709d8a66832604a38d116
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gryz Alakritos
+    Content: 
+    AsJson: '{"name":"Gryz Alakritos","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":81,"_copy":{"name":"Scholarly
+      Mastermind","source":"CRCotN","_trait":{"name":"Goblin","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mastermind","with":"Gryz","flags":"i"}}},"type":{"type":"humanoid","tags":["goblin","wizard"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: d73d176d465709d8a66832604a38d116

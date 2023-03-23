@@ -19,3 +19,13 @@ MonoBehaviour:
     ring of mind shielding}, and a {@item ring of force resistance||ring of resistance
     (force)}."]}}},"_preserve":{"legendaryGroup":true}},"hasToken":true,"hasFluff":true}'
   DataHash: 3931e3a9d93b8957550fcfef0d5e729f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Xanathar
+    Content: 
+    AsJson: '{"name":"Xanathar","isNpc":true,"source":"WDH","page":220,"_copy":{"name":"Beholder","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      beholder","with":"Xanathar","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Xanathar wears a {@item ring of invisibility}, a {@item
+      ring of mind shielding}, and a {@item ring of force resistance||ring of resistance
+      (force)}."]}}},"_preserve":{"legendaryGroup":true}},"hasToken":true,"hasFluff":true}'
+    DataHash: 3931e3a9d93b8957550fcfef0d5e729f

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Horned Frog","source":"PSX","page":39,"_copy":{"name":"Giant
     Frog","source":"MM"},"hasToken":true,"hasFluff":true}'
   DataHash: 25ce67b534be4cafa8faf362fbc0b7c4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Horned Frog
+    Content: 
+    AsJson: '{"name":"Horned Frog","source":"PSX","page":39,"_copy":{"name":"Giant
+      Frog","source":"MM"},"hasToken":true,"hasFluff":true}'
+    DataHash: 25ce67b534be4cafa8faf362fbc0b7c4

@@ -27,3 +27,21 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 1d8|2,4,6,8|1d8} for every
     two slot levels above 2nd."]}],"damageInflict":["force"],"spellAttack":["M"],"miscTags":["UBA"],"areaTags":["ST"]}'
   DataHash: b4ec8abee1acf97f08623eea40a87d37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spiritual Weapon
+    Content: 
+    AsJson: '{"name":"Spiritual Weapon","source":"PHB","page":278,"srd":true,"basicRules":true,"level":2,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["You
+      create a floating, spectral weapon within range that lasts for the duration
+      or until you cast this spell again. When you cast the spell, you can make a
+      melee spell attack against a creature within 5 feet of the weapon. On a hit,
+      the target takes force damage equal to {@damage 1d8} + your spellcasting ability
+      modifier.","As a bonus action on your turn, you can move the weapon up to 20
+      feet and repeat the attack against a creature within 5 feet of it.","The weapon
+      can take whatever form you choose. Clerics of deities who are associated with
+      a particular weapon (as St. Cuthbert is known for his mace and Thor for his
+      hammer) make this spell''s effect resemble that weapon."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, the damage increases by {@scaledamage 1d8|2,4,6,8|1d8} for
+      every two slot levels above 2nd."]}],"damageInflict":["force"],"spellAttack":["M"],"miscTags":["UBA"],"areaTags":["ST"]}'
+    DataHash: b4ec8abee1acf97f08623eea40a87d37

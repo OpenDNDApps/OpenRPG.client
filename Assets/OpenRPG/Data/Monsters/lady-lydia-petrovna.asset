@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Lady Lydia Petrovna
   AsJson: '{"name":"Lady Lydia Petrovna","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: 8a452429b7f4530a62da8a9cc312a420
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lady Lydia Petrovna
+    Content: 
+    AsJson: '{"name":"Lady Lydia Petrovna","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 8a452429b7f4530a62da8a9cc312a420

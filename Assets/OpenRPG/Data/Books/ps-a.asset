@@ -12,12 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ps-a
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Plane Shift: Amonkhet'
   AsJson: '{"name":"Plane Shift: Amonkhet","id":"PS-A","source":"PSA","group":"supplement-alt","coverUrl":"img/covers/PSA.png","published":"2017-07-06","author":"Wizards
     RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Amonkhet","headers":["People
     of Naktamun"]},{"name":"Races of Amonkhet"},{"name":"Trials of the Five Gods"},{"name":"An
     Amonkhet Bestiary"}]}'
   DataHash: 42b6d1c30cdfa6df0785a885fcadfb33
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Plane Shift: Amonkhet","id":"PS-A","source":"PSA","group":"supplement-alt","coverUrl":"img/covers/PSA.png","published":"2017-07-06","author":"Wizards
+      RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Amonkhet","headers":["People
+      of Naktamun"]},{"name":"Races of Amonkhet"},{"name":"Trials of the Five Gods"},{"name":"An
+      Amonkhet Bestiary"}]}'
+    DataHash: 42b6d1c30cdfa6df0785a885fcadfb33
+  CoverURL: img/covers/PSA.png
+  Published: 2017-07-06
+  Author: Wizards RPG Team

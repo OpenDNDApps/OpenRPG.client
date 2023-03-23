@@ -23,3 +23,17 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing
     damage plus 7 ({@damage 2d6}) psychic damage."]}],"soundClip":{"type":"internal","path":"bestiary/githyanki-warrior.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["S","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 30f9e2ea2049e843ab1eb503e890c332
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Githyanki Warrior
+    Content: 
+    AsJson: '{"name":"Githyanki Warrior","source":"MM","page":160,"otherSources":[{"source":"WDMM"},{"source":"SjA"},{"source":"LoX"}],"size":["M"],"type":{"type":"humanoid","tags":["gith"]},"alignment":["L","E"],"ac":[{"ac":17,"from":["{@item
+      half plate armor|phb}"]}],"hp":{"average":49,"formula":"9d8 + 9"},"speed":{"walk":30},"str":15,"dex":14,"con":12,"int":13,"wis":13,"cha":10,"save":{"con":"+3","int":"+3","wis":"+3"},"passive":11,"languages":["Gith"],"cr":"3","spellcasting":[{"name":"Innate
+      Spellcasting (Psionics)","headerEntries":["The githyanki''s innate spellcasting
+      ability is Intelligence. It can innately cast the following spells, requiring
+      no components:"],"will":["{@spell mage hand} (the hand is invisible)"],"daily":{"3e":["{@spell
+      jump}","{@spell misty step}","{@spell nondetection} (self only)"]},"ability":"int"}],"action":[{"name":"Multiattack","entries":["The
+      githyanki makes two greatsword attacks."]},{"name":"Greatsword","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing
+      damage plus 7 ({@damage 2d6}) psychic damage."]}],"soundClip":{"type":"internal","path":"bestiary/githyanki-warrior.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["S","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 30f9e2ea2049e843ab1eb503e890c332

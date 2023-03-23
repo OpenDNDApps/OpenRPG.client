@@ -24,3 +24,18 @@ MonoBehaviour:
     damage."]}}}},"alignment":["C","E"],"cr":"5","traitTags":["Fey Ancestry","Sunlight
     Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 30e6742a598970d5db528b156c159c5e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Viln Tirin
+    Content: 
+    AsJson: '{"name":"Viln Tirin","isNpc":true,"isNamedCreature":true,"source":"OotA","page":202,"_copy":{"name":"Bandit
+      Captain","source":"MM","_trait":{"name":"Drow","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      captain","with":"Viln","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Special
+      Equipment","entries":["Viln carries a {@item scimitar of speed} and can make
+      one attack with it as a bonus action on her turn. Viln also carries four daggers
+      coated with {@item purple worm poison}. The poison on a dagger''s blade is
+      good for one hit only, whether the poison takes effect or not."]}},"action":{"mode":"replaceArr","replace":"Scimitar","items":{"name":"Scimitar","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) slashing
+      damage."]}}}},"alignment":["C","E"],"cr":"5","traitTags":["Fey Ancestry","Sunlight
+      Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 30e6742a598970d5db528b156c159c5e

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Victor Vallakovich","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Victor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 7e085337dd27089ca0f809b4a8a8c3eb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Victor Vallakovich
+    Content: 
+    AsJson: '{"name":"Victor Vallakovich","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Victor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 7e085337dd27089ca0f809b4a8a8c3eb

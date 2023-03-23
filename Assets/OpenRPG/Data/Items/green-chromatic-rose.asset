@@ -17,3 +17,11 @@ MonoBehaviour:
     green gas","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
     Chromatic Rose|WBtW}"]}'
   DataHash: cbb83c38e7e1e7b81007b8c2992c8555
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Green Chromatic Rose
+    Content: 
+    AsJson: '{"name":"Green Chromatic Rose","source":"WBtW","page":208,"resist":["poison"],"detail1":"issues
+      green gas","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
+      Chromatic Rose|WBtW}"]}'
+    DataHash: cbb83c38e7e1e7b81007b8c2992c8555

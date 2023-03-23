@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Copper
   AsJson: '{"name":"Copper","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":50}'
   DataHash: a6d52e28eae744cda7cbc8ec67fbd4d6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper
+    Content: 
+    AsJson: '{"name":"Copper","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":50}'
+    DataHash: a6d52e28eae744cda7cbc8ec67fbd4d6

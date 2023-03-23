@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chimeric Cat","source":"IDRotF","page":246,"_copy":{"name":"Cat","source":"MM"},"senses":["blindsight
     60 ft.","tremorsense 60 ft."],"senseTags":["B","T"],"hasToken":true,"hasFluff":true}'
   DataHash: 21e2ddb4991b188d7aa6fa377298ee45
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chimeric Cat
+    Content: 
+    AsJson: '{"name":"Chimeric Cat","source":"IDRotF","page":246,"_copy":{"name":"Cat","source":"MM"},"senses":["blindsight
+      60 ft.","tremorsense 60 ft."],"senseTags":["B","T"],"hasToken":true,"hasFluff":true}'
+    DataHash: 21e2ddb4991b188d7aa6fa377298ee45

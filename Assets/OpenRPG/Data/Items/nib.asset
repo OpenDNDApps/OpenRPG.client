@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Nib","source":"WDH","page":169,"type":"$","rarity":"none","value":1,"entries":["Copper
     coin about the size of a thumbnail (1 nib = 1 common copper coin)"]}'
   DataHash: c3edb926921c8b49175b1ed3b277bd5d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nib
+    Content: 
+    AsJson: '{"name":"Nib","source":"WDH","page":169,"type":"$","rarity":"none","value":1,"entries":["Copper
+      coin about the size of a thumbnail (1 nib = 1 common copper coin)"]}'
+    DataHash: c3edb926921c8b49175b1ed3b277bd5d

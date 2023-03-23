@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pole (10-foot)
   AsJson: '{"name":"Pole (10-foot)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":7,"value":5}'
   DataHash: d726d5b8b426a24d5bf0b8dc9683d1a6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pole (10-foot)
+    Content: 
+    AsJson: '{"name":"Pole (10-foot)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":7,"value":5}'
+    DataHash: d726d5b8b426a24d5bf0b8dc9683d1a6

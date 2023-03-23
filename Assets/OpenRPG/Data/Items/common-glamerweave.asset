@@ -18,3 +18,12 @@ MonoBehaviour:
     of these clothes, you can use a bonus action to create a moving illusory pattern
     within the cloth."]}'
   DataHash: 6ef0a9a321d39648300c337298475b19
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Common Glamerweave
+    Content: 
+    AsJson: '{"name":"Common Glamerweave","source":"ERLW","page":277,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["Glamerweave
+      is clothing imbued with harmless illusory magic. While wearing the common version
+      of these clothes, you can use a bonus action to create a moving illusory pattern
+      within the cloth."]}'
+    DataHash: 6ef0a9a321d39648300c337298475b19

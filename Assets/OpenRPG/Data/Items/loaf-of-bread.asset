@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Loaf of Bread
   AsJson: '{"name":"Loaf of Bread","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":2}'
   DataHash: 974056b6fafccb4674bb003533825000
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Loaf of Bread
+    Content: 
+    AsJson: '{"name":"Loaf of Bread","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":2}'
+    DataHash: 974056b6fafccb4674bb003533825000

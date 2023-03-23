@@ -28,3 +28,23 @@ MonoBehaviour:
     you cast this spell using a spell slot of 4th level or higher, the damage increases
     by {@scaledamage 3d10|3-9|1d10} for each slot level above 3rd."]}],"damageInflict":["thunder"],"savingThrow":["constitution"],"miscTags":["SGT","TP"],"areaTags":["S"]}'
   DataHash: 73c8bc185c04d880ce9019c1dff9e135
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thunder Step
+    Content: 
+    AsJson: '{"name":"Thunder Step","source":"XGE","page":168,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+      teleport yourself to an unoccupied space you can see within range. Immediately
+      after you disappear, a thunderous boom sounds, and each creature within 10
+      feet of the space you left must make a Constitution saving throw, taking {@damage
+      3d10} thunder damage on a failed save, or half as much damage on a successful
+      one. The thunder can be heard from up to 300 feet away.","You can bring along
+      objects as long as their weight doesn''t exceed what you can carry. You can
+      also teleport one willing creature of your size or smaller who is carrying
+      gear up to its carrying capacity. The creature must be within 5 feet of you
+      when you cast this spell, and there must be an unoccupied space within 5 feet
+      of your destination space for the creature to appear in; otherwise, the creature
+      is left behind."],"entriesHigherLevel":[{"type":"entries","name":"At Higher
+      Levels","entries":["When you cast this spell using a spell slot of 4th level
+      or higher, the damage increases by {@scaledamage 3d10|3-9|1d10} for each slot
+      level above 3rd."]}],"damageInflict":["thunder"],"savingThrow":["constitution"],"miscTags":["SGT","TP"],"areaTags":["S"]}'
+    DataHash: 73c8bc185c04d880ce9019c1dff9e135

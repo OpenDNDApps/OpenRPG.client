@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Onyx","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque black and white banded, or pure black or white gemstone."]}'
   DataHash: e13fb9c3d18e333dafc68b093e3c3098
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Onyx
+    Content: 
+    AsJson: '{"name":"Onyx","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque black and white banded, or pure black or white gemstone."]}'
+    DataHash: e13fb9c3d18e333dafc68b093e3c3098

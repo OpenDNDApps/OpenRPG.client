@@ -27,3 +27,22 @@ MonoBehaviour:
     to become dimly lit or dark. The dome is opaque from the outside, of any color
     you choose, but it is transparent from the inside."],"areaTags":["H"]}'
   DataHash: 004e1c6aff90eb543420eae662629eac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Leomund's Tiny Hut
+    Content: 
+    AsJson: '{"name":"Leomund''s Tiny Hut","source":"PHB","page":255,"srd":"Tiny
+      Hut","level":3,"school":"V","time":[{"number":1,"unit":"minute"}],"range":{"type":"hemisphere","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true,"m":"a
+      small crystal bead"},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"meta":{"ritual":true},"entries":["A
+      10-foot-radius immobile dome of force springs into existence around and above
+      you and remains stationary for the duration. The spell ends if you leave its
+      area.","Nine creatures of Medium size or smaller can fit inside the dome with
+      you. The spell fails if its area includes a larger creature or more than nine
+      creatures. Creatures and objects within the dome when you cast this spell can
+      move through it freely. All other creatures and objects are barred from passing
+      through it. Spells and other magical effects can''t extend through the dome
+      or be cast through it. The atmosphere inside the space is comfortable and dry,
+      regardless of the weather outside.","Until the spell ends, you can command
+      the interior to become dimly lit or dark. The dome is opaque from the outside,
+      of any color you choose, but it is transparent from the inside."],"areaTags":["H"]}'
+    DataHash: 004e1c6aff90eb543420eae662629eac

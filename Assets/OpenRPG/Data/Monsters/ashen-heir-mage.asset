@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ashen Heir Mage
   AsJson: '{"name":"Ashen Heir Mage","source":"JttRC","page":158,"_copy":{"name":"Mage","source":"MM"},"hasToken":true}'
   DataHash: 53dd09ec3acef6b6749fa8746ece4e50
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashen Heir Mage
+    Content: 
+    AsJson: '{"name":"Ashen Heir Mage","source":"JttRC","page":158,"_copy":{"name":"Mage","source":"MM"},"hasToken":true}'
+    DataHash: 53dd09ec3acef6b6749fa8746ece4e50

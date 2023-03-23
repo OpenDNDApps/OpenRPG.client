@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold locket with a painted portrait inside
   AsJson: '{"name":"Gold locket with a painted portrait inside","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 8c2942c27bc202a6d2e2727586c4292d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold locket with a painted portrait inside
+    Content: 
+    AsJson: '{"name":"Gold locket with a painted portrait inside","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 8c2942c27bc202a6d2e2727586c4292d

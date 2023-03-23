@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Loxodon","source":"GGR","page":9,"type":"standard","typicalSpeakers":["{@filter
     loxodons|bestiary|tag=any race|source=GGR}"],"script":"Elvish"}'
   DataHash: 7bef608e682fddaebec7b3e3ec1468ae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Loxodon
+    Content: 
+    AsJson: '{"name":"Loxodon","source":"GGR","page":9,"type":"standard","typicalSpeakers":["{@filter
+      loxodons|bestiary|tag=any race|source=GGR}"],"script":"Elvish"}'
+    DataHash: 7bef608e682fddaebec7b3e3ec1468ae

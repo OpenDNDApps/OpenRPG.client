@@ -17,3 +17,12 @@ MonoBehaviour:
     Equipment","entries":["The goblin found a magic item (a {@item necklace of fireballs},
     a {@item circlet of blasting}, or the like) and learned how to use it."]}}}},"hasToken":true,"hasFluff":true}'
   DataHash: 0cbbddaee4b5699696c3125f3cf7ed44
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Booyahg Wielder
+    Content: 
+    AsJson: '{"name":"Booyahg Wielder","source":"VGM","page":42,"_copy":{"name":"Goblin","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Special
+      Equipment","entries":["The goblin found a magic item (a {@item necklace of
+      fireballs}, a {@item circlet of blasting}, or the like) and learned how to
+      use it."]}}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 0cbbddaee4b5699696c3125f3cf7ed44

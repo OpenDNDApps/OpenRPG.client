@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pony
   AsJson: '{"name":"Pony","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":3000,"carryingCapacity":225,"speed":40}'
   DataHash: af6eba98d5c028cef61067b92f7d3631
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pony
+    Content: 
+    AsJson: '{"name":"Pony","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":3000,"carryingCapacity":225,"speed":40}'
+    DataHash: af6eba98d5c028cef61067b92f7d3631

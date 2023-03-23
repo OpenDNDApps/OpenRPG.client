@@ -24,6 +24,21 @@ MonoBehaviour:
     these spells using spell slots you have of the appropriate level. The spells''
     spellcasting ability is the ability increased by this feat."]}]}'
   DataHash: 36a776aad7ba635ab3bb2d19e61145c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shadow Touched
+    Content: 
+    AsJson: '{"name":"Shadow Touched","source":"UA2020Feats","page":3,"ability":[{"choose":{"from":["int","wis","cha"],"amount":1}}],"additionalSpells":[{"ability":"inherit","innate":{"_":{"daily":{"1e":["invisibility",{"choose":"level=1|school=I;N"}]}}}}],"entries":["You
+      learn how to bend shadows from your experience with the Shadowfell. You gain
+      the following benefits:",{"type":"list","items":["You learn the {@spell darkness}
+      spell and one {@filter 1st-level spell|spells|level=1|school=I;N} of your choice.
+      The {@filter 1st-level spell|spells|level=1|school=I;N} must be from the illusion
+      or necromancy school of magic. You can cast each of these spells without expending
+      a spell slot. Once you cast either of these spells in this way, you can''t
+      cast that spell in this way again until you finish a long rest. You can also
+      cast these spells using spell slots you have of the appropriate level. The
+      spells'' spellcasting ability is the ability increased by this feat."]}]}'
+    DataHash: 36a776aad7ba635ab3bb2d19e61145c9
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

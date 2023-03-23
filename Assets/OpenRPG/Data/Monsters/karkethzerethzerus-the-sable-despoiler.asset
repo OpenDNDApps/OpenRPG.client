@@ -17,3 +17,11 @@ MonoBehaviour:
     Silver Dragon","source":"MM","_trait":{"name":"Legendary Shadow Dragon","source":"MM"}},"traitTags":["Legendary
     Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 29d8322659e110cfe5b006e37f94927e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Karkethzerethzerus, the Sable Despoiler
+    Content: 
+    AsJson: '{"name":"Karkethzerethzerus, the Sable Despoiler","isNpc":true,"isNamedCreature":true,"source":"EGW","page":158,"_copy":{"name":"Ancient
+      Silver Dragon","source":"MM","_trait":{"name":"Legendary Shadow Dragon","source":"MM"}},"traitTags":["Legendary
+      Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 29d8322659e110cfe5b006e37f94927e

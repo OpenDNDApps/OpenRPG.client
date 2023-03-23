@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Robes
   AsJson: '{"name":"Robes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":100}'
   DataHash: 7f9008d31a68e69c03996439b91682e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Robes
+    Content: 
+    AsJson: '{"name":"Robes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":100}'
+    DataHash: 7f9008d31a68e69c03996439b91682e2

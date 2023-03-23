@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ice Toad","source":"RoT","page":90,"otherSources":[{"source":"ToD"}],"typicalSpeakers":["{@creature
     Ice Toad|RoT|ice toads}"]}'
   DataHash: 2d5be712dfbbd9c913defaa2c0bcfbe1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ice Toad
+    Content: 
+    AsJson: '{"name":"Ice Toad","source":"RoT","page":90,"otherSources":[{"source":"ToD"}],"typicalSpeakers":["{@creature
+      Ice Toad|RoT|ice toads}"]}'
+    DataHash: 2d5be712dfbbd9c913defaa2c0bcfbe1

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Young Hill Giant
   AsJson: '{"name":"Young Hill Giant","source":"TftYP","page":167,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"orc","with":"giant","flags":"i"}}},"type":"giant","hasToken":true}'
   DataHash: 73b8ac3cf83abd13f4ba4fd0b6f7527a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Hill Giant
+    Content: 
+    AsJson: '{"name":"Young Hill Giant","source":"TftYP","page":167,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"orc","with":"giant","flags":"i"}}},"type":"giant","hasToken":true}'
+    DataHash: 73b8ac3cf83abd13f4ba4fd0b6f7527a

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Warwyck Blastimoff","isNpc":true,"isNamedCreature":true,"source":"LoX","page":39,"_copy":{"name":"Giff
     Shipmate","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the giff","with":"Warwyck","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
   DataHash: 9711c3b35012a12e0773e216a4a789b8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Warwyck Blastimoff
+    Content: 
+    AsJson: '{"name":"Warwyck Blastimoff","isNpc":true,"isNamedCreature":true,"source":"LoX","page":39,"_copy":{"name":"Giff
+      Shipmate","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the giff","with":"Warwyck","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 9711c3b35012a12e0773e216a4a789b8

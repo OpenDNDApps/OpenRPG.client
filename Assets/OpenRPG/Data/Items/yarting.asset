@@ -17,3 +17,11 @@ MonoBehaviour:
     southern instrument from Amn and Calimshan that is a Faer\xFBnian analog to the
     guitar. Numerous variations have spread across the continent.\"]}"
   DataHash: 899521749a0ac4d37aa79d1f32813bb6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yarting
+    Content: 
+    AsJson: "{\"name\":\"Yarting\",\"source\":\"SCAG\",\"page\":124,\"type\":\"INS\",\"rarity\":\"none\",\"entries\":[\"A
+      southern instrument from Amn and Calimshan that is a Faer\xFBnian analog to
+      the guitar. Numerous variations have spread across the continent.\"]}"
+    DataHash: 899521749a0ac4d37aa79d1f32813bb6

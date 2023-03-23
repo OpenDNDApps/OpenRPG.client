@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Xilonen","isNpc":true,"source":"TftYP","page":83,"_copy":{"name":"Roper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     roper","with":"Xilonen","flags":"i"}}},"int":2,"hasToken":true}'
   DataHash: f9b6c1388d80b63ca851ec4600c04039
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Xilonen
+    Content: 
+    AsJson: '{"name":"Xilonen","isNpc":true,"source":"TftYP","page":83,"_copy":{"name":"Roper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      roper","with":"Xilonen","flags":"i"}}},"int":2,"hasToken":true}'
+    DataHash: f9b6c1388d80b63ca851ec4600c04039

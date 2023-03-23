@@ -17,3 +17,11 @@ MonoBehaviour:
     Dwarf Spirit Warrior","source":"ToA","_mod":{"*":{"mode":"replaceTxt","replace":"the
     dwarf","with":"Musharib","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
   DataHash: 8ba73daa0a8851c9eff5845da2e9fc6c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Musharib
+    Content: 
+    AsJson: '{"name":"Musharib","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Albino
+      Dwarf Spirit Warrior","source":"ToA","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dwarf","with":"Musharib","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 8ba73daa0a8851c9eff5845da2e9fc6c

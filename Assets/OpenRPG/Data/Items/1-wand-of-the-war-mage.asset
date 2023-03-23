@@ -19,3 +19,13 @@ MonoBehaviour:
     you ignore half cover when making a spell attack."],"lootTables":["Magic Item
     Table F"]}'
   DataHash: c55987ffcaf96e22c34a612c4a9a376c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +1 Wand of the War Mage
+    Content: 
+    AsJson: '{"name":"+1 Wand of the War Mage","source":"DMG","page":212,"srd":true,"type":"WD","tier":"major","rarity":"uncommon","reqAttune":"by
+      a spellcaster","reqAttuneTags":[{"spellcasting":true}],"weight":1,"bonusSpellAttack":"+1","entries":["While
+      you are holding this wand, you gain a +1 bonus to spell attack rolls. In addition,
+      you ignore half cover when making a spell attack."],"lootTables":["Magic Item
+      Table F"]}'
+    DataHash: c55987ffcaf96e22c34a612c4a9a376c

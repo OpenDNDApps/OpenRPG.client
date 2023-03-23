@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Kwayoth\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":26,\"_copy\":{\"name\":\"Priest\",\"source\":\"MM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
     priest\",\"with\":\"Kwayoth\xE9\",\"flags\":\"i\"}}},\"type\":{\"type\":\"humanoid\",\"tags\":[\"human\"]},\"alignment\":[\"N\",\"E\"],\"hasToken\":true,\"hasFluffImages\":true}"
   DataHash: 1bc6189f65dbcfd8ff14568f2ee2cab0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: "Kwayoth\xE9"
+    Content: 
+    AsJson: "{\"name\":\"Kwayoth\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":26,\"_copy\":{\"name\":\"Priest\",\"source\":\"MM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
+      priest\",\"with\":\"Kwayoth\xE9\",\"flags\":\"i\"}}},\"type\":{\"type\":\"humanoid\",\"tags\":[\"human\"]},\"alignment\":[\"N\",\"E\"],\"hasToken\":true,\"hasFluffImages\":true}"
+    DataHash: 1bc6189f65dbcfd8ff14568f2ee2cab0

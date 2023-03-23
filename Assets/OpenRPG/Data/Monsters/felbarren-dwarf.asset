@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Felbarren Dwarf","source":"SKT","page":79,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"}},"alignment":["L","G"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true}'
   DataHash: 51cae38f2500e4b31f66c8106a3ea88a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Felbarren Dwarf
+    Content: 
+    AsJson: '{"name":"Felbarren Dwarf","source":"SKT","page":79,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"}},"alignment":["L","G"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true}'
+    DataHash: 51cae38f2500e4b31f66c8106a3ea88a

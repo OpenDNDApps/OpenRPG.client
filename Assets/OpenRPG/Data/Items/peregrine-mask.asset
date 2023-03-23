@@ -17,3 +17,11 @@ MonoBehaviour:
     wearing this winged helm, you have a flying speed of 60 feet. In addition, you
     have advantage on initiative rolls."],"hasFluffImages":true}'
   DataHash: 70a2ad1b42549bb1de95038be2820fe0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Peregrine Mask
+    Content: 
+    AsJson: '{"name":"Peregrine Mask","source":"GGR","page":180,"rarity":"very rare","reqAttune":true,"wondrous":true,"modifySpeed":{"static":{"fly":60}},"entries":["While
+      wearing this winged helm, you have a flying speed of 60 feet. In addition,
+      you have advantage on initiative rolls."],"hasFluffImages":true}'
+    DataHash: 70a2ad1b42549bb1de95038be2820fe0

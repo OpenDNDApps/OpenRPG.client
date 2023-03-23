@@ -18,3 +18,12 @@ MonoBehaviour:
     dracolich","with":"Oracs","flags":"i"}}},"alignment":["C","E"],"traitTags":["Legendary
     Resistances","Magic Resistance"],"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 712eaf6b52ea340e6f74d503de7cf7b9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Oracs the Enduring
+    Content: 
+    AsJson: '{"name":"Oracs the Enduring","isNpc":true,"isNamedCreature":true,"source":"EGW","page":154,"_copy":{"name":"Ancient
+      Black Dragon","source":"MM","_trait":{"name":"Dracolich","source":"MM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dracolich","with":"Oracs","flags":"i"}}},"alignment":["C","E"],"traitTags":["Legendary
+      Resistances","Magic Resistance"],"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 712eaf6b52ea340e6f74d503de7cf7b9

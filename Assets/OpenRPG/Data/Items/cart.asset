@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cart
   AsJson: '{"name":"Cart","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":200,"value":1500}'
   DataHash: ad6817914d5a615fa148a6ecc5b4de27
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cart
+    Content: 
+    AsJson: '{"name":"Cart","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":200,"value":1500}'
+    DataHash: ad6817914d5a615fa148a6ecc5b4de27

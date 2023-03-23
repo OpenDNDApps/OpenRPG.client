@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grutha","isNpc":true,"source":"TftYP","page":170,"_copy":{"name":"Hill
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Grutha","flags":"i"}}},"hasToken":true}'
   DataHash: ad43fff42a7d9a34b6fb661d2c4db613
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grutha
+    Content: 
+    AsJson: '{"name":"Grutha","isNpc":true,"source":"TftYP","page":170,"_copy":{"name":"Hill
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Grutha","flags":"i"}}},"hasToken":true}'
+    DataHash: ad43fff42a7d9a34b6fb661d2c4db613

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Acolyte","source":"OotA","page":201,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"spellcastingTags":["CC","I"],"hasToken":true}'
   DataHash: 6a92120875314f4e0e29664c47123ace
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Acolyte
+    Content: 
+    AsJson: '{"name":"Drow Acolyte","source":"OotA","page":201,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"spellcastingTags":["CC","I"],"hasToken":true}'
+    DataHash: 6a92120875314f4e0e29664c47123ace

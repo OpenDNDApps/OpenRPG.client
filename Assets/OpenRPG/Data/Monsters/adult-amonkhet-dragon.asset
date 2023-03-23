@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Adult Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Adult
     Red Dragon","source":"MM"},"int":8,"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c54b8c358b025d58c01cc97161a435e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Adult Amonkhet Dragon
+    Content: 
+    AsJson: '{"name":"Adult Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Adult
+      Red Dragon","source":"MM"},"int":8,"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c54b8c358b025d58c01cc97161a435e0

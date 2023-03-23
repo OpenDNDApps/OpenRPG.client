@@ -17,3 +17,11 @@ MonoBehaviour:
     nonmagical food and drink within a 5-foot-radius sphere centered on a point of
     your choice within range is purified and rendered free of poison and disease."],"areaTags":["S"]}'
   DataHash: 9453694d0f8dd80bbec323626949b0ef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Purify Food and Drink
+    Content: 
+    AsJson: '{"name":"Purify Food and Drink","source":"PHB","page":270,"srd":true,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"meta":{"ritual":true},"entries":["All
+      nonmagical food and drink within a 5-foot-radius sphere centered on a point
+      of your choice within range is purified and rendered free of poison and disease."],"areaTags":["S"]}'
+    DataHash: 9453694d0f8dd80bbec323626949b0ef

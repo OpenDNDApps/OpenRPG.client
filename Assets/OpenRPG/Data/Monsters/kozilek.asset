@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kozilek","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Kraken","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     kraken","with":"Kozilek","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: e8c8fbd1d839f8cca0caf61fae9c09e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kozilek
+    Content: 
+    AsJson: '{"name":"Kozilek","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Kraken","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      kraken","with":"Kozilek","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: e8c8fbd1d839f8cca0caf61fae9c09e2

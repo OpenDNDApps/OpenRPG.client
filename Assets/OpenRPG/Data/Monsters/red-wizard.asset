@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Red Wizard
   AsJson: '{"name":"Red Wizard","source":"RoT","page":76,"otherSources":[{"source":"ToD","page":171}],"_copy":{"name":"Mage","source":"MM"},"hasToken":true}'
   DataHash: 933bb8da91ba2f8dbfe81381e69b41a0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Red Wizard
+    Content: 
+    AsJson: '{"name":"Red Wizard","source":"RoT","page":76,"otherSources":[{"source":"ToD","page":171}],"_copy":{"name":"Mage","source":"MM"},"hasToken":true}'
+    DataHash: 933bb8da91ba2f8dbfe81381e69b41a0

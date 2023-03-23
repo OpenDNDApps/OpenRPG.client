@@ -25,3 +25,19 @@ MonoBehaviour:
     saving throw. The target has advantage on the saving throw if it''s triggered
     by damage. On a success, the spell ends."],"conditionInflict":["incapacitated","prone"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 30fe56d3413a33ba0eec51a3eaf55e15
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tasha's Hideous Laughter
+    Content: 
+    AsJson: '{"name":"Tasha''s Hideous Laughter","source":"PHB","page":280,"srd":"Hideous
+      Laughter","level":1,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"tiny
+      tarts and a feather that is waved in the air"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["A
+      creature of your choice that you can see within range perceives everything
+      as hilariously funny and falls into fits of laughter if this spell affects
+      it. The target must succeed on a Wisdom saving throw or fall {@condition prone},
+      becoming {@condition incapacitated} and unable to stand up for the duration.
+      A creature with an Intelligence score of 4 or less isn''t affected.","At the
+      end of each of its turns, and each time it takes damage, the target can make
+      another Wisdom saving throw. The target has advantage on the saving throw if
+      it''s triggered by damage. On a success, the spell ends."],"conditionInflict":["incapacitated","prone"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 30fe56d3413a33ba0eec51a3eaf55e15

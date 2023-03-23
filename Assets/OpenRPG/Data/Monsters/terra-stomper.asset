@@ -17,3 +17,11 @@ MonoBehaviour:
     Rex","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tyrannosaurus","with":"terra
     stomper"}}},"hasToken":true}'
   DataHash: 6e68ffc98c7b834d7a3e3ea5457fde95
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Terra Stomper
+    Content: 
+    AsJson: '{"name":"Terra Stomper","source":"PSZ","page":34,"_copy":{"name":"Tyrannosaurus
+      Rex","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tyrannosaurus","with":"terra
+      stomper"}}},"hasToken":true}'
+    DataHash: 6e68ffc98c7b834d7a3e3ea5457fde95

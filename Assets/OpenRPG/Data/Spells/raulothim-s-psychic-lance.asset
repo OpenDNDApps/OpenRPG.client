@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, the damage increases by {@dice 1d6} for each slot level above
     4th."]}],"damageInflict":["psychic"],"conditionInflict":["incapacitated"],"savingThrow":["intelligence"],"miscTags":["SGT"]}'
   DataHash: 0707824e269275493416d6469bbc52aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Raulothim's Psychic Lance
+    Content: 
+    AsJson: '{"name":"Raulothim''s Psychic Lance","source":"UA2021DraconicOptions","page":6,"level":4,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+      unleash a shimmering lance of psychic power from your forehead at a creature
+      that you can see within range. Alternatively, you can utter the creature''s
+      name. If the named target is within range, it gains no benefit from cover or
+      invisibility as the lance homes in on it. If the named target isn''t within
+      range, the lance dissipates, and the spell slot is not expended.","The target
+      must succeed on an Intelligence saving throw or take {@damage 10d6} psychic
+      damage and be {@condition incapacitated} until the start of your next turn."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 5th
+      level or higher, the damage increases by {@dice 1d6} for each slot level above
+      4th."]}],"damageInflict":["psychic"],"conditionInflict":["incapacitated"],"savingThrow":["intelligence"],"miscTags":["SGT"]}'
+    DataHash: 0707824e269275493416d6469bbc52aa

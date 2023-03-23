@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hadrosaur
   AsJson: '{"name":"Hadrosaur","source":"PSX","page":29,"_copy":{"name":"Hadrosaurus","source":"VGM"},"hasToken":true,"hasFluff":true}'
   DataHash: 0239f3c68cdf592934e53a66e828b7e3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hadrosaur
+    Content: 
+    AsJson: '{"name":"Hadrosaur","source":"PSX","page":29,"_copy":{"name":"Hadrosaurus","source":"VGM"},"hasToken":true,"hasFluff":true}'
+    DataHash: 0239f3c68cdf592934e53a66e828b7e3

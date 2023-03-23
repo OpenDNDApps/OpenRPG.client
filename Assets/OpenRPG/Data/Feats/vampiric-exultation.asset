@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3d50093f60e7dd44819dc9058766bc3, type: 3}
   m_Name: vampiric-exultation
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Vampiric Exultation
   AsJson: '{"name":"Vampiric Exultation","source":"PSX","page":14,"prerequisite":[{"race":[{"name":"Vampire
     (Ixalan)"}]}],"entries":["As an action, you can transform the lower half of your
     body into an inky black vapor, allowing you to float through the air. While transformed,
@@ -20,6 +20,19 @@ MonoBehaviour:
     Once you use this ability, you can''t use it again until you finish a short or
     long rest."]}'
   DataHash: d6c82fe2ea36d047a25f1793e1919c93
-  Sources: {fileID: 0}
-  SourcePages: 
-  Prerequisites: []
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Vampiric Exultation","source":"PSX","page":14,"prerequisite":[{"race":[{"name":"Vampire
+      (Ixalan)"}]}],"entries":["As an action, you can transform the lower half of
+      your body into an inky black vapor, allowing you to float through the air.
+      While transformed, you have a flying speed of 30 feet. You can maintain this
+      form for up to 10 minutes. Once you use this ability, you can''t use it again
+      until you finish a short or long rest."]}'
+    DataHash: d6c82fe2ea36d047a25f1793e1919c93
+  Sources: {fileID: 11400000, guid: 9d6b5d3a5d1a6b345b6e757d819bba1a, type: 2}
+  SourcePages: 14
+  Prerequisites:
+  - Type: 3
+    Value: Vampire (Ixalan)

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ancient Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Ancient
     Red Dragon","source":"MM"},"int":10,"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 65f1519656926a2543caf5841285f7b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ancient Amonkhet Dragon
+    Content: 
+    AsJson: '{"name":"Ancient Amonkhet Dragon","source":"PSA","page":33,"_copy":{"name":"Ancient
+      Red Dragon","source":"MM"},"int":10,"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 65f1519656926a2543caf5841285f7b7

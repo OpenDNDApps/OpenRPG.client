@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bit and bridle
   AsJson: '{"name":"Bit and bridle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":1,"value":200}'
   DataHash: e4261cdd17272c9c554f878c7c9b9175
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bit and bridle
+    Content: 
+    AsJson: '{"name":"Bit and bridle","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":1,"value":200}'
+    DataHash: e4261cdd17272c9c554f878c7c9b9175

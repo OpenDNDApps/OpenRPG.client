@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Marble font with gold inlay (Legion of Dusk)
   AsJson: '{"name":"Marble font with gold inlay (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: f38b04cbe051c5db9b2bbe854321d171
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marble font with gold inlay (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Marble font with gold inlay (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: f38b04cbe051c5db9b2bbe854321d171

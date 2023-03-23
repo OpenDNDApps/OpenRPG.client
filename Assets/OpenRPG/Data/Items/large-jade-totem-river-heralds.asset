@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Large jade totem (River Heralds)
   AsJson: '{"name":"Large jade totem (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: 6f960bdf7e874bd751213ca435b760e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Large jade totem (River Heralds)
+    Content: 
+    AsJson: '{"name":"Large jade totem (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: 6f960bdf7e874bd751213ca435b760e2

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bell
   AsJson: '{"name":"Bell","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":100}'
   DataHash: e1a9c9b9456dc9e45658e3ab6cd2fc33
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bell
+    Content: 
+    AsJson: '{"name":"Bell","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":100}'
+    DataHash: e1a9c9b9456dc9e45658e3ab6cd2fc33

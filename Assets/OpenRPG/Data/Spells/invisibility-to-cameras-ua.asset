@@ -20,3 +20,14 @@ MonoBehaviour:
     is likewise undetectable as long as it is on the target''s person. The targets
     remain visible to vision."],"areaTags":["MT"]}'
   DataHash: 5a4d23857ce6168b2096e603ba491b0d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Invisibility to Cameras (UA)
+    Content: 
+    AsJson: '{"name":"Invisibility to Cameras (UA)","source":"UAModernMagic","page":7,"level":3,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":10}},"components":{"v":true,"s":true,"m":"a
+      scrap of black paper"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["Four
+      creatures of your choice within range become undetectable to electronic sensors
+      and cameras for the duration of the spell. Anything a target is wearing or
+      carrying is likewise undetectable as long as it is on the target''s person.
+      The targets remain visible to vision."],"areaTags":["MT"]}'
+    DataHash: 5a4d23857ce6168b2096e603ba491b0d

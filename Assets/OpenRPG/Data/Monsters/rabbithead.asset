@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Rabbithead
   AsJson: '{"name":"Rabbithead","isNpc":true,"source":"WDMM","page":295,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["U"],"languages":null,"languageTags":[],"hasToken":true}'
   DataHash: 14dd6b11be4a67cf66b44bc023b2223d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rabbithead
+    Content: 
+    AsJson: '{"name":"Rabbithead","isNpc":true,"source":"WDMM","page":295,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["U"],"languages":null,"languageTags":[],"hasToken":true}'
+    DataHash: 14dd6b11be4a67cf66b44bc023b2223d

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Awa","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":95,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     commoner","with":"Awa","flags":"i"}}},"hasToken":true}'
   DataHash: 464906a0d2794ab7d5e4fa5677e8380a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Awa
+    Content: 
+    AsJson: '{"name":"Awa","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":95,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      commoner","with":"Awa","flags":"i"}}},"hasToken":true}'
+    DataHash: 464906a0d2794ab7d5e4fa5677e8380a

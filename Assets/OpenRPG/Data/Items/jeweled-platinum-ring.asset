@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jeweled platinum ring
   AsJson: '{"name":"Jeweled platinum ring","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: d29876371b69d181bb9a2797522ff2b3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jeweled platinum ring
+    Content: 
+    AsJson: '{"name":"Jeweled platinum ring","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: d29876371b69d181bb9a2797522ff2b3

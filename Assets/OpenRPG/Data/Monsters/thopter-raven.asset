@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Thopter (Raven)
   AsJson: '{"name":"Thopter (Raven)","source":"PSK","page":33,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d5f48ab4b1d2f671f5bf84e4f208b223
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thopter (Raven)
+    Content: 
+    AsJson: '{"name":"Thopter (Raven)","source":"PSK","page":33,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d5f48ab4b1d2f671f5bf84e4f208b223

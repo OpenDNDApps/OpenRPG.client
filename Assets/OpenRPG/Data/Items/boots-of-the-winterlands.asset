@@ -22,3 +22,16 @@ MonoBehaviour:
     Fahrenheit."]}],"optionalfeatures":["replicate magic item|tce","replicate magic
     item|uaartificerrevisited"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
   DataHash: 2e050c508426870d4a2a573ff820604e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Boots of the Winterlands
+    Content: 
+    AsJson: '{"name":"Boots of the Winterlands","source":"DMG","page":156,"srd":true,"resist":["cold"],"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["These
+      furred boots are snug and feel quite warm. While you wear them, you gain the
+      following benefits:",{"type":"list","items":["You have resistance to cold damage.","You
+      ignore {@quickref difficult terrain||3} created by ice or snow.","You can tolerate
+      temperatures as low as -50 degrees Fahrenheit without any additional protection.
+      If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees
+      Fahrenheit."]}],"optionalfeatures":["replicate magic item|tce","replicate magic
+      item|uaartificerrevisited"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+    DataHash: 2e050c508426870d4a2a573ff820604e

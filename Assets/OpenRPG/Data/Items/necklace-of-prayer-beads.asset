@@ -32,3 +32,26 @@ MonoBehaviour:
     restoration","branding smite","planar ally","wind walk"],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: f47a5e58f1b3bb0acc5cef3f56b24313
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necklace of Prayer Beads
+    Content: 
+    AsJson: '{"name":"Necklace of Prayer Beads","source":"DMG","page":182,"srd":true,"tier":"major","rarity":"rare","reqAttune":"by
+      a cleric, druid, or paladin","reqAttuneTags":[{"class":"cleric"},{"class":"druid"},{"class":"paladin"}],"wondrous":true,"weight":1,"entries":["This
+      necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl,
+      or topaz. It also has many nonmagical beads made from stones such as amber,
+      bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed
+      from the necklace, that bead loses its magic.","Six types of magic beads exist.
+      The DM decides the type of each bead on the necklace or determines it randomly.
+      A necklace can have more than one bead of the same type. To use one, you must
+      be wearing the necklace. Each bead contains a spell that you can cast from
+      it as a bonus action (using your spell save DC if a save is necessary). Once
+      a magic bead''s spell is cast, that bead can''t be used again until the next
+      dawn.",{"type":"table","colLabels":["{@dice d20}","Bead of...","Spell"],"colStyles":["col-1
+      text-center","col-2","col-9"],"rows":[["1-6","Blessing","{@spell Bless}"],["7-12","Curing","{@spell
+      Cure wounds} (2nd level) or {@spell lesser restoration}"],["13-16","Favor","{@spell
+      Greater restoration}"],["17-18","Smiting","{@spell Branding smite}"],["19","Summons","{@spell
+      Planar ally}"],["20","Wind walking","{@spell Wind walk}"]]}],"attachedSpells":["bless","cure
+      wounds","lesser restoration","greater restoration","branding smite","planar
+      ally","wind walk"],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+    DataHash: f47a5e58f1b3bb0acc5cef3f56b24313

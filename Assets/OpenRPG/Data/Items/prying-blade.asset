@@ -18,3 +18,12 @@ MonoBehaviour:
     {@item +1 shortsword} grants its wielder advantage on Strength ({@skill Athletics})
     checks to climb or to escape while {@condition restrained}."]}'
   DataHash: c3af91c328144c27064a1fa7472e34b0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prying Blade
+    Content: 
+    AsJson: '{"name":"Prying Blade","source":"XMtS","page":19,"rarity":"unknown (magic)","entries":["A
+      hooked blade useful on board a ship or as a cutting tool in the wilderness,
+      this {@item +1 shortsword} grants its wielder advantage on Strength ({@skill
+      Athletics}) checks to climb or to escape while {@condition restrained}."]}'
+    DataHash: c3af91c328144c27064a1fa7472e34b0

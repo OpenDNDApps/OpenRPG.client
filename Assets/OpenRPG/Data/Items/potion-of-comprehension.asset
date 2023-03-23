@@ -18,3 +18,12 @@ MonoBehaviour:
     spell for 1 hour. This liquid is a clear concoction with bits of salt and soot
     swirling in it."]}'
   DataHash: a05b87fa2ffcb36845996f3a73d45426
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Comprehension
+    Content: 
+    AsJson: '{"name":"Potion of Comprehension","source":"WDMM","page":62,"type":"P","rarity":"common","entries":["When
+      you drink this potion, you gain the effect of a {@spell comprehend languages}
+      spell for 1 hour. This liquid is a clear concoction with bits of salt and soot
+      swirling in it."]}'
+    DataHash: a05b87fa2ffcb36845996f3a73d45426

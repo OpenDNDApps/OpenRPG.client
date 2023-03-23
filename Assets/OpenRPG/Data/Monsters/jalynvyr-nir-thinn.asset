@@ -17,3 +17,11 @@ MonoBehaviour:
     Mephit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mephit","with":"Jalynvyr
     Nir''Thinn","flags":"i"}}},"languages":["Common","Elvish"]}'
   DataHash: 5cf73f2af7ba50e414d05f935dd74b02
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jalynvyr Nir'Thinn
+    Content: 
+    AsJson: '{"name":"Jalynvyr Nir''Thinn","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Smoke
+      Mephit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mephit","with":"Jalynvyr
+      Nir''Thinn","flags":"i"}}},"languages":["Common","Elvish"]}'
+    DataHash: 5cf73f2af7ba50e414d05f935dd74b02

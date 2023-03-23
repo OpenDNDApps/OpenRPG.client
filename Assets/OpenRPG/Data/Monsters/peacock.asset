@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Peacock
   AsJson: '{"name":"Peacock","source":"BGDIA","page":195,"_copy":{"name":"Vulture","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"vulture","with":"peacock"}}},"hasToken":true}'
   DataHash: f189c1b0a8e76d5c813fc6e4d6263b98
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Peacock
+    Content: 
+    AsJson: '{"name":"Peacock","source":"BGDIA","page":195,"_copy":{"name":"Vulture","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"vulture","with":"peacock"}}},"hasToken":true}'
+    DataHash: f189c1b0a8e76d5c813fc6e4d6263b98

@@ -19,3 +19,13 @@ MonoBehaviour:
     creature is {@condition unconscious}. The creature wakes up if it takes damage
     or if another creature takes an action to shake it awake."],"poisonTypes":["inhaled"]}'
   DataHash: b8ea597eb236af4cd8a4df472b9c2a77
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Essence of Ether
+    Content: 
+    AsJson: '{"name":"Essence of Ether","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":30000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 15 Constitution saving
+      throw or become {@condition poisoned} for 8 hours. The {@condition poisoned}
+      creature is {@condition unconscious}. The creature wakes up if it takes damage
+      or if another creature takes an action to shake it awake."],"poisonTypes":["inhaled"]}'
+    DataHash: b8ea597eb236af4cd8a4df472b9c2a77

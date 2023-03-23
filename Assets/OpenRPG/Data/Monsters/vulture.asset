@@ -23,3 +23,18 @@ MonoBehaviour:
     hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing damage."]}],"environment":["grassland","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/vulture.mp3"},"traitTags":["Keen
     Senses","Pack Tactics"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 5757e4ae2668d62587b5665d6a696777
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vulture
+    Content: 
+    AsJson: '{"name":"Vulture","source":"MM","page":339,"srd":true,"basicRules":true,"otherSources":[{"source":"RoT"},{"source":"ToA"},{"source":"BGDIA"},{"source":"CM"},{"source":"WBtW"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":5,"formula":"1d8
+      + 1"},"speed":{"walk":10,"fly":50},"str":7,"dex":10,"con":13,"int":2,"wis":12,"cha":4,"skill":{"perception":"+3"},"passive":13,"cr":"0","trait":[{"name":"Keen
+      Sight and Smell","entries":["The vulture has advantage on Wisdom ({@skill Perception})
+      checks that rely on sight or smell."]},{"name":"Pack Tactics","entries":["The
+      vulture has advantage on an attack roll against a creature if at least one
+      of the vulture''s allies is within 5 feet of the creature and the ally isn''t
+      {@condition incapacitated}."]}],"action":[{"name":"Beak","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing
+      damage."]}],"environment":["grassland","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/vulture.mp3"},"traitTags":["Keen
+      Senses","Pack Tactics"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 5757e4ae2668d62587b5665d6a696777

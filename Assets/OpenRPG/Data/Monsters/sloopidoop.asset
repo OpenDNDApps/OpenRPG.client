@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sloopidoop","isNpc":true,"source":"OotA","page":29,"_copy":{"name":"Kuo-toa
     Archpriest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the kuo-toa","with":"Sloopidoop","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: cdb827251d5c4d3a6a18716c77611c4f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sloopidoop
+    Content: 
+    AsJson: '{"name":"Sloopidoop","isNpc":true,"source":"OotA","page":29,"_copy":{"name":"Kuo-toa
+      Archpriest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the kuo-toa","with":"Sloopidoop","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: cdb827251d5c4d3a6a18716c77611c4f

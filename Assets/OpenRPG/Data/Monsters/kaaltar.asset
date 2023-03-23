@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning
     damage."]}],"languageTags":["GI"],"hasToken":true}'
   DataHash: a5e5e0175a0f7229edd432b68d770dfe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kaaltar
+    Content: 
+    AsJson: '{"name":"Kaaltar","isNpc":true,"source":"SKT","page":197,"_copy":{"name":"Commoner","source":"MM"},"type":"giant","alignment":["N"],"str":14,"languages":["Giant"],"action":[{"name":"Club","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning
+      damage."]}],"languageTags":["GI"],"hasToken":true}'
+    DataHash: a5e5e0175a0f7229edd432b68d770dfe

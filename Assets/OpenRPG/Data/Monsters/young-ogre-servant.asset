@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Young Ogre Servant
   AsJson: '{"name":"Young Ogre Servant","source":"TftYP","page":171,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"orc","with":"ogre","flags":"i"}}},"type":"giant","hasToken":true}'
   DataHash: 05b0414d5ad0a542d14a4829d5075105
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Ogre Servant
+    Content: 
+    AsJson: '{"name":"Young Ogre Servant","source":"TftYP","page":171,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"orc","with":"ogre","flags":"i"}}},"type":"giant","hasToken":true}'
+    DataHash: 05b0414d5ad0a542d14a4829d5075105

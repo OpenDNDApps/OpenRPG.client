@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tommy Two-Butts","isNpc":true,"source":"RMBRE","page":18,"_copy":{"name":"Bugbear","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bugbear","with":"Tommy","flags":"i"}}},"int":21,"hasToken":true}'
   DataHash: a67c35b527b4d6729dbe3a32e10d38c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tommy Two-Butts
+    Content: 
+    AsJson: '{"name":"Tommy Two-Butts","isNpc":true,"source":"RMBRE","page":18,"_copy":{"name":"Bugbear","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bugbear","with":"Tommy","flags":"i"}}},"int":21,"hasToken":true}'
+    DataHash: a67c35b527b4d6729dbe3a32e10d38c7

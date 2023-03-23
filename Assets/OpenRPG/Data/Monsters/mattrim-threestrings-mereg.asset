@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mattrim \"Threestrings\" Mereg","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Bard","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bard","with":"Mattrim","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: bd30e430f68fa263546f0eeb66ff2bfe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mattrim "Threestrings" Mereg
+    Content: 
+    AsJson: '{"name":"Mattrim \"Threestrings\" Mereg","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Bard","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bard","with":"Mattrim","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: bd30e430f68fa263546f0eeb66ff2bfe

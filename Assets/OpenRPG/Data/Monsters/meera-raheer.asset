@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Meera Raheer
   AsJson: '{"name":"Meera Raheer","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: 0abe0d09ad94a920c5e2a48f556addb1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Meera Raheer
+    Content: 
+    AsJson: '{"name":"Meera Raheer","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 0abe0d09ad94a920c5e2a48f556addb1

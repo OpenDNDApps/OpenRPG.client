@@ -23,3 +23,18 @@ MonoBehaviour:
     you cast this spell using a spell slot of 2nd level or higher, the cold damage
     increases by {@scaledamage 2d6|1-9|1d6} for each slot level above 1st."]}],"damageInflict":["cold","piercing"],"spellAttack":["R"],"savingThrow":["dexterity"],"areaTags":["ST"]}'
   DataHash: 9edf6bdb25d23029271183946ddaf906
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ice Knife
+    Content: 
+    AsJson: '{"name":"Ice Knife","source":"XGE","page":157,"otherSources":[{"source":"EEPC","page":19}],"level":1,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true,"m":"a
+      drop of water or piece of ice"},"duration":[{"type":"instant"}],"entries":["You
+      create a shard of ice and fling it at one creature within range. Make a ranged
+      spell attack against the target. On a hit, the target takes {@damage 1d10}
+      piercing damage. Hit or miss, the shard then explodes. The target and each
+      creature within 5 feet of it must succeed on a Dexterity saving throw or take
+      {@damage 2d6} cold damage."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, the cold damage increases by {@scaledamage 2d6|1-9|1d6} for
+      each slot level above 1st."]}],"damageInflict":["cold","piercing"],"spellAttack":["R"],"savingThrow":["dexterity"],"areaTags":["ST"]}'
+    DataHash: 9edf6bdb25d23029271183946ddaf906

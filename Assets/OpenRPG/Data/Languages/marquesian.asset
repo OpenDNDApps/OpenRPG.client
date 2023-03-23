@@ -20,3 +20,14 @@ MonoBehaviour:
     the language of piracy, since countless lower-class Marquesians defected from
     the Concord and formed the Revelry pirates."]}'
   DataHash: 1434a6d5429ad8143208b1b9046acade
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marquesian
+    Content: 
+    AsJson: '{"name":"Marquesian","source":"EGW","page":9,"entries":["The Menagerie
+      Coast was settled by colonists from the arid land of Marquet, and their language
+      now holds an unusual position in the Clovis Concord. It is the language of
+      high society, as many Clovis elite are descended from Marquesians, but it is
+      also the language of piracy, since countless lower-class Marquesians defected
+      from the Concord and formed the Revelry pirates."]}'
+    DataHash: 1434a6d5429ad8143208b1b9046acade

@@ -18,3 +18,12 @@ MonoBehaviour:
     of paper} or five rolled-up {@item parchment (one sheet)|phb|sheets of parchment}."],"containerCapacity":{"item":[{"parchment
     (one sheet)|phb":5,"paper (one sheet)|phb":10}]}}'
   DataHash: 040d2b384c0552e2b8700b4a603e6e4a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Map or Scroll Case
+    Content: 
+    AsJson: '{"name":"Map or Scroll Case","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":100,"entries":["This
+      cylindrical leather case can hold up to ten rolled-up {@item paper (one sheet)|phb|sheets
+      of paper} or five rolled-up {@item parchment (one sheet)|phb|sheets of parchment}."],"containerCapacity":{"item":[{"parchment
+      (one sheet)|phb":5,"paper (one sheet)|phb":10}]}}'
+    DataHash: 040d2b384c0552e2b8700b4a603e6e4a

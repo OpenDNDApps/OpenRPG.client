@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Fidelio","isNpc":true,"source":"WDMM","page":197,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ghost","with":"Fidelio","flags":"i"}}},"hp":{"average":80,"formula":"10d8"},"hasToken":true}'
   DataHash: c0dd1c22bb6068096c4c9f5c998f3552
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fidelio
+    Content: 
+    AsJson: '{"name":"Fidelio","isNpc":true,"source":"WDMM","page":197,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Fidelio","flags":"i"}}},"hp":{"average":80,"formula":"10d8"},"hasToken":true}'
+    DataHash: c0dd1c22bb6068096c4c9f5c998f3552

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Commoner","source":"OotA","page":194,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 5b58110870b295b50917bcd8a132c5f3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Commoner
+    Content: 
+    AsJson: '{"name":"Drow Commoner","source":"OotA","page":194,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 5b58110870b295b50917bcd8a132c5f3

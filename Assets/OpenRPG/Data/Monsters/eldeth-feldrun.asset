@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Eldeth Feldrun","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Eldeth","flags":"i"}}},"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true,"hasFluffImages":true}'
   DataHash: ef9ee081ea970325a3d3d508322d0278
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eldeth Feldrun
+    Content: 
+    AsJson: '{"name":"Eldeth Feldrun","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Eldeth","flags":"i"}}},"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: ef9ee081ea970325a3d3d508322d0278

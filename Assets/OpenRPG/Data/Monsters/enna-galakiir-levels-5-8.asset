@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Enna Galakiir (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
   DataHash: 8bdefb86584dc0ff3197a0c3b1887f58
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Enna Galakiir (Levels 5-8)
+    Content: 
+    AsJson: '{"name":"Enna Galakiir (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 8bdefb86584dc0ff3197a0c3b1887f58

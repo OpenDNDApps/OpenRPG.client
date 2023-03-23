@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Great Cat","source":"PSZ","page":34,"_copy":{"name":"Saber-Toothed
     Tiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tiger","with":"cat"}}},"hasToken":true}'
   DataHash: 6ca55dd9b3bce1ba8affdf89e4a64f66
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Great Cat
+    Content: 
+    AsJson: '{"name":"Great Cat","source":"PSZ","page":34,"_copy":{"name":"Saber-Toothed
+      Tiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tiger","with":"cat"}}},"hasToken":true}'
+    DataHash: 6ca55dd9b3bce1ba8affdf89e4a64f66

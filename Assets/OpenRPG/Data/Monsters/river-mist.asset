@@ -17,3 +17,11 @@ MonoBehaviour:
     Hunter","source":"ToA","_mod":{"*":{"mode":"replaceTxt","replace":"the tabaxi","with":"River
     Mist","flags":"i"}}},"hasToken":true}'
   DataHash: dc143ea2609e796340144a27f3ff4bad
+  DataByEdition:
+  - Edition: d&d5e
+    Title: River Mist
+    Content: 
+    AsJson: '{"name":"River Mist","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Tabaxi
+      Hunter","source":"ToA","_mod":{"*":{"mode":"replaceTxt","replace":"the tabaxi","with":"River
+      Mist","flags":"i"}}},"hasToken":true}'
+    DataHash: dc143ea2609e796340144a27f3ff4bad

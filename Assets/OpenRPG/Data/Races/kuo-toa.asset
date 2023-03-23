@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: kuo-toa
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Kuo-Toa
   AsJson: '{"name":"Kuo-Toa","source":"DMG","page":282,"size":["M"],"speed":{"walk":30,"swim":30},"darkvision":120,"traitTags":["Amphibious","NPC
     Race","Sunlight Sensitivity"],"languageProficiencies":[{"undercommon":true}],"entries":[{"name":"Amphibious","type":"entries","entries":["You
     can breathe air and water."]},{"name":"Otherworldly Perception","type":"entries","entries":["You
@@ -28,3 +28,22 @@ MonoBehaviour:
     discern color in darkness, only shades of gray."],"type":"entries"},{"name":"Languages","entries":["You
     can speak, read, and write Undercommon."],"type":"entries"}]}'
   DataHash: d7055d1798c3b97b35d73d86fdcc9bc2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Kuo-Toa","source":"DMG","page":282,"size":["M"],"speed":{"walk":30,"swim":30},"darkvision":120,"traitTags":["Amphibious","NPC
+      Race","Sunlight Sensitivity"],"languageProficiencies":[{"undercommon":true}],"entries":[{"name":"Amphibious","type":"entries","entries":["You
+      can breathe air and water."]},{"name":"Otherworldly Perception","type":"entries","entries":["You
+      can sense the presence of any creature within 30 feet of you that is {@condition
+      invisible} or on the Ethereal Plane. You can pinpoint such a creature that
+      is moving."]},{"name":"Slippery","type":"entries","entries":["You have advantage
+      on ability checks and saving throws made to escape a grapple."]},{"name":"Sunlight
+      Sensitivity","type":"entries","entries":["While in sunlight, you have disadvantage
+      on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely
+      on sight."]},{"name":"Superior Darkvision","entries":["You have superior vision
+      in dark and dim conditions. You can see in dim light within 120 feet of you
+      as if it were bright light, and in darkness as if it were dim light. You can''t
+      discern color in darkness, only shades of gray."],"type":"entries"},{"name":"Languages","entries":["You
+      can speak, read, and write Undercommon."],"type":"entries"}]}'
+    DataHash: d7055d1798c3b97b35d73d86fdcc9bc2

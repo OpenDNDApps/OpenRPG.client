@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Nihiloor","isNpc":true,"source":"WDH","page":212,"_copy":{"name":"Mind
     Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind flayer","with":"Nihiloor","flags":"i"}}},"hasToken":true}'
   DataHash: bd04093d40ccbdc9421b5dffbaaf2d43
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nihiloor
+    Content: 
+    AsJson: '{"name":"Nihiloor","isNpc":true,"source":"WDH","page":212,"_copy":{"name":"Mind
+      Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind
+      flayer","with":"Nihiloor","flags":"i"}}},"hasToken":true}'
+    DataHash: bd04093d40ccbdc9421b5dffbaaf2d43

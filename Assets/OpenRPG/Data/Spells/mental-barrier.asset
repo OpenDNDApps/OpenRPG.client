@@ -20,3 +20,14 @@ MonoBehaviour:
     of your next turn, you have advantage on Intelligence, Wisdom, and Charisma saving
     throws, and you have resistance to psychic damage."]}'
   DataHash: 2b595c7637a17b1238cafb0ebd51201a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mental Barrier
+    Content: 
+    AsJson: '{"name":"Mental Barrier","source":"UAFighterRogueWizard","page":7,"level":2,"school":"A","time":[{"number":1,"unit":"reaction","condition":"which
+      you take when you are forced to make an Intelligence, a Wisdom, or a Charisma
+      saving throw"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+      protect your mind with a wall of looping, repetitive thought. Until the start
+      of your next turn, you have advantage on Intelligence, Wisdom, and Charisma
+      saving throws, and you have resistance to psychic damage."]}'
+    DataHash: 2b595c7637a17b1238cafb0ebd51201a

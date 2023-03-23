@@ -19,3 +19,13 @@ MonoBehaviour:
     on you if your Strength without the belt is equal to or greater than the belt''s
     score."],"lootTables":["Magic Item Table H"]}'
   DataHash: e873381d6fb0dc398d4b3f529d321f35
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Belt of Fire Giant Strength
+    Content: 
+    AsJson: '{"name":"Belt of Fire Giant Strength","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"ability":{"static":{"str":25}},"entries":["While
+      wearing this belt, your Strength score changes to 25. The item has no effect
+      on you if your Strength without the belt is equal to or greater than the belt''s
+      score."],"lootTables":["Magic Item Table H"]}'
+    DataHash: e873381d6fb0dc398d4b3f529d321f35

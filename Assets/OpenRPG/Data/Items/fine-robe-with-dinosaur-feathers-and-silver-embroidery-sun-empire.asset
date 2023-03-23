@@ -15,3 +15,10 @@ MonoBehaviour:
   Title: Fine robe with dinosaur feathers and silver embroidery (Sun Empire)
   AsJson: '{"name":"Fine robe with dinosaur feathers and silver embroidery (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 02f68eb57d5487a024bc98db2782398f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine robe with dinosaur feathers and silver embroidery (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Fine robe with dinosaur feathers and silver embroidery (Sun
+      Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 02f68eb57d5487a024bc98db2782398f

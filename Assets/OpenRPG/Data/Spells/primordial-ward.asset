@@ -20,3 +20,14 @@ MonoBehaviour:
     If you do so, the resistances end, and you have the immunity until the end of
     your next turn, at which time the spell ends."],"damageResist":["acid","cold","fire","lightning","thunder"],"damageImmune":["acid","cold","fire","lightning","thunder"]}'
   DataHash: e725a3a101492d44294c2ce81ea799fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Primordial Ward
+    Content: 
+    AsJson: '{"name":"Primordial Ward","source":"XGE","page":163,"otherSources":[{"source":"EEPC","page":21}],"level":6,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      have resistance to acid, cold, fire, lightning, and thunder damage for the
+      spell''s duration.","When you take damage of one of those types, you can use
+      your reaction to gain immunity to that type of damage, including against the
+      triggering damage. If you do so, the resistances end, and you have the immunity
+      until the end of your next turn, at which time the spell ends."],"damageResist":["acid","cold","fire","lightning","thunder"],"damageImmune":["acid","cold","fire","lightning","thunder"]}'
+    DataHash: e725a3a101492d44294c2ce81ea799fe

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: sleight-of-hand
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Sleight of Hand
   AsJson: '{"name":"Sleight of Hand","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Whenever
     you attempt an act of legerdemain or manual trickery, such as planting something
     on someone else or concealing an object on your person, make a Dexterity (Sleight
@@ -20,3 +20,14 @@ MonoBehaviour:
     to determine whether you can lift a coin purse off another person or slip something
     out of another person''s pocket."]}'
   DataHash: 756377bb8a875e6eb9788ad36eeb1be8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Sleight of Hand","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Whenever
+      you attempt an act of legerdemain or manual trickery, such as planting something
+      on someone else or concealing an object on your person, make a Dexterity (Sleight
+      of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check
+      to determine whether you can lift a coin purse off another person or slip something
+      out of another person''s pocket."]}'
+    DataHash: 756377bb8a875e6eb9788ad36eeb1be8

@@ -20,3 +20,14 @@ MonoBehaviour:
     affected by this spell safely descends at 60 feet per round until it reaches
     the ground or the spell ends."],"savingThrow":["strength"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 66a2501fb3554c48fe064caea973f2b2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Earthbind
+    Content: 
+    AsJson: '{"name":"Earthbind","source":"XGE","page":154,"otherSources":[{"source":"EEPC","page":17}],"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":300}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Choose
+      one creature you can see within range. Yellow strips of magical energy loop
+      around the creature. The target must succeed on a Strength saving throw, or
+      its flying speed (if any) is reduced to 0 feet for the spell''s duration. An
+      airborne creature affected by this spell safely descends at 60 feet per round
+      until it reaches the ground or the spell ends."],"savingThrow":["strength"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 66a2501fb3554c48fe064caea973f2b2

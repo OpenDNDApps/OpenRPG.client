@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Elephant
   AsJson: '{"name":"Elephant","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":20000,"carryingCapacity":1320,"speed":40}'
   DataHash: 43ab0ad5f51a2faf103a195eb607a8b6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elephant
+    Content: 
+    AsJson: '{"name":"Elephant","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":20000,"carryingCapacity":1320,"speed":40}'
+    DataHash: 43ab0ad5f51a2faf103a195eb607a8b6

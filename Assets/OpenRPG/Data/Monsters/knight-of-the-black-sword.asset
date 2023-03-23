@@ -19,3 +19,13 @@ MonoBehaviour:
     which time it can''t be thawed, harmed by fire, animated, or raised from the
     dead."]}}}},"languages":["Common","Infernal"],"languageTags":["C","I"],"hasToken":true,"hasFluff":true}'
   DataHash: a3e1244061b0abc53ec58d1004355f87
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Knight of the Black Sword
+    Content: 
+    AsJson: '{"name":"Knight of the Black Sword","source":"IDRotF","page":259,"_copy":{"name":"Cult
+      Fanatic","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Icy
+      Doom","entries":["When the cultist dies, its corpse freezes for 9 days, during
+      which time it can''t be thawed, harmed by fire, animated, or raised from the
+      dead."]}}}},"languages":["Common","Infernal"],"languageTags":["C","I"],"hasToken":true,"hasFluff":true}'
+    DataHash: a3e1244061b0abc53ec58d1004355f87

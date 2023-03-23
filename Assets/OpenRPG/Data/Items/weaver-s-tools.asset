@@ -28,3 +28,22 @@ MonoBehaviour:
     Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Repurpose
     cloth","10"],["Mend a hole in a piece of cloth","10"],["Tailor an outfit","15"]]}]}'
   DataHash: 6d4741a65d2173309c7d706432800dbd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Weaver's Tools
+    Content: 
+    AsJson: '{"name":"Weaver''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":85}],"type":"AT","rarity":"none","weight":5,"value":100,"additionalEntries":["Weaver''s
+      tools allow you to create cloth and tailor it into articles of clothing.",{"type":"entries","name":"Components","entries":["Weaver''s
+      tools include thread, needles, and scraps of cloth. You know how to work a
+      loom, but such equipment is too large to transport."]},{"type":"entries","name":"Arcana,
+      History","entries":["Your expertise lends you additional insight when examining
+      cloth objects, including cloaks and robes."]},{"type":"entries","name":"Investigation","entries":["Using
+      your knowledge of the process of creating cloth objects, you can spot clues
+      and make deductions that others would overlook when you examine tapestries,
+      upholstery, clothing, and other woven items."]},{"type":"entries","name":"Repair","entries":["As
+      part of a short rest, you can repair a single damaged cloth object."]},{"type":"entries","name":"Craft
+      Clothing","entries":["Assuming you have access to sufficient cloth and thread,
+      you can create an outfit for a creature as part of a long rest."]},{"type":"table","caption":"Weaver''s
+      Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Repurpose
+      cloth","10"],["Mend a hole in a piece of cloth","10"],["Tailor an outfit","15"]]}]}'
+    DataHash: 6d4741a65d2173309c7d706432800dbd

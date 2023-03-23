@@ -22,3 +22,17 @@ MonoBehaviour:
     Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding
     bright light in a 30-foot radius and dim light for an additional 30 feet."]}'
   DataHash: 048530bd0eace7819045f7bb1650456c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gunpowder Horn
+    Content: 
+    AsJson: '{"name":"Gunpowder Horn","source":"DMG","page":268,"type":"EXP","rarity":"none","weight":2,"value":3500,"age":"renaissance","entries":["Gunpowder
+      is chiefly used to propel a bullet out of the barrel of a pistol or rifle,
+      or it is formed into a bomb. Gunpowder is sold in small wooden kegs or in water-resistant
+      powder horns.","Setting fire to a container full of gunpowder can cause it
+      to explode, dealing fire damage to creatures within 10 feet of it ({@damage
+      3d6} for a powder horn). A successful DC 12 Dexterity saving throw halves the
+      damage. Setting fire to an ounce of gunpowder causes it to flare for 1 round,
+      shedding bright light in a 30-foot radius and dim light for an additional 30
+      feet."]}'
+    DataHash: 048530bd0eace7819045f7bb1650456c

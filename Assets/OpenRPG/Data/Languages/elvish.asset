@@ -19,3 +19,13 @@ MonoBehaviour:
     rich and varied, and their songs and poems are famous among other races. Many
     bards learn their language so they can add Elvish ballads to their repertoires."],"hasFluffImages":true}'
   DataHash: 1e7907b45541c044758bfd1a6d6946b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elvish
+    Content: 
+    AsJson: '{"name":"Elvish","source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"PHB","page":21}],"type":"standard","typicalSpeakers":["{@filter
+      elves|bestiary|type=humanoid|tag=any race;elf}"],"script":"Elvish","entries":["Elvish
+      is fluid, with subtle intonations and intricate grammar. Elven literature is
+      rich and varied, and their songs and poems are famous among other races. Many
+      bards learn their language so they can add Elvish ballads to their repertoires."],"hasFluffImages":true}'
+    DataHash: 1e7907b45541c044758bfd1a6d6946b7

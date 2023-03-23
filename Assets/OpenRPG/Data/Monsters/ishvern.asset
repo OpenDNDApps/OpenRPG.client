@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf Scout","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Ishvern","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
   DataHash: 20f3c4916b5f761b2e0c1c197ff4aa2a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ishvern
+    Content: 
+    AsJson: '{"name":"Ishvern","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":114,"_copy":{"name":"Sea
+      Elf Scout","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Ishvern","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 20f3c4916b5f761b2e0c1c197ff4aa2a

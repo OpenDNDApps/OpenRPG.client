@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tantan","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
     tambourine, a popular instrument with halflings and humans south of the Dalelands."]}'
   DataHash: b353c0034a6cb0028d4f4a47acdf8469
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tantan
+    Content: 
+    AsJson: '{"name":"Tantan","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      tambourine, a popular instrument with halflings and humans south of the Dalelands."]}'
+    DataHash: b353c0034a6cb0028d4f4a47acdf8469

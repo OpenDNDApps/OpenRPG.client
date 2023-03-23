@@ -18,3 +18,12 @@ MonoBehaviour:
     reveal your creature type treat you as humanoid, and those that would reveal
     your alignment treat it as neutral."]}'
   DataHash: d78609d9a89a58df426a933c80e13248
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brooch of Living Essence
+    Content: 
+    AsJson: '{"name":"Brooch of Living Essence","source":"EGW","page":266,"rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+      wearing this nondescript brooch, spells and anything else that would detect
+      or reveal your creature type treat you as humanoid, and those that would reveal
+      your alignment treat it as neutral."]}'
+    DataHash: d78609d9a89a58df426a933c80e13248

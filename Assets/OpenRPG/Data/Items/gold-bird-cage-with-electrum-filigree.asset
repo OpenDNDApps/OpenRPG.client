@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold bird cage with electrum filigree
   AsJson: '{"name":"Gold bird cage with electrum filigree","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: bf7a7370611c5a8d3bcd27e2124434c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold bird cage with electrum filigree
+    Content: 
+    AsJson: '{"name":"Gold bird cage with electrum filigree","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: bf7a7370611c5a8d3bcd27e2124434c7

@@ -24,3 +24,18 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["sending"],"lootTables":["Magic
     Item Table C"],"hasFluffImages":true}'
   DataHash: 975b39dfbe27e579256a162217baa049
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sending Stones
+    Content: 
+    AsJson: '{"name":"Sending Stones","source":"DMG","page":199,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["Sending
+      stones come in pairs, with each smooth stone carved to match the other so the
+      pairing is easily recognized. While you touch one stone, you can use an action
+      to cast the {@spell sending} spell from it. The target is the bearer of the
+      other stone. If no creature bears the other stone, you know that fact as soon
+      as you use the stone and don''t cast the spell.","Once {@spell sending} is
+      cast through the stones, they can''t be used again until the next dawn. If
+      one of the stones in a pair is destroyed, the other one becomes nonmagical."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["sending"],"lootTables":["Magic
+      Item Table C"],"hasFluffImages":true}'
+    DataHash: 975b39dfbe27e579256a162217baa049

@@ -18,3 +18,12 @@ MonoBehaviour:
     An eyeball bobs in this yellowish liquid but vanishes when the potion is opened."],"attachedSpells":["clairvoyance"],"lootTables":["Magic
     Item Table C"]}'
   DataHash: 9783103fdca5ef6c3b06c57f33403b63
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Clairvoyance
+    Content: 
+    AsJson: '{"name":"Potion of Clairvoyance","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"rare","entries":["When
+      you drink this potion, you gain the effect of the {@spell clairvoyance} spell.
+      An eyeball bobs in this yellowish liquid but vanishes when the potion is opened."],"attachedSpells":["clairvoyance"],"lootTables":["Magic
+      Item Table C"]}'
+    DataHash: 9783103fdca5ef6c3b06c57f33403b63

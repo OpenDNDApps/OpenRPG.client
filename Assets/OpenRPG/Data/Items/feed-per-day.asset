@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Feed (per day)
   AsJson: '{"name":"Feed (per day)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":10,"value":5}'
   DataHash: 0ea8477991b9c0b505aeca4bb2627ca4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feed (per day)
+    Content: 
+    AsJson: '{"name":"Feed (per day)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":10,"value":5}'
+    DataHash: 0ea8477991b9c0b505aeca4bb2627ca4

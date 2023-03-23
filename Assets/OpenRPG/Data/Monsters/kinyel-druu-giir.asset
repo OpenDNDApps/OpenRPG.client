@@ -17,3 +17,11 @@ MonoBehaviour:
     assassin","with":"Kinyel","flags":"i"}}},"traitTags":["Fey Ancestry","Sneak Attack","Sunlight
     Sensitivity"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 50153531f87cdb1bdb461300be6278da
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kinyel Druu'giir
+    Content: 
+    AsJson: '{"name":"Kinyel Druu''giir","isNpc":true,"source":"OotA","page":134,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Drow","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Kinyel","flags":"i"}}},"traitTags":["Fey Ancestry","Sneak
+      Attack","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 50153531f87cdb1bdb461300be6278da

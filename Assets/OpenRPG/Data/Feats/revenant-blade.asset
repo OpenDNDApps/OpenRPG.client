@@ -20,6 +20,17 @@ MonoBehaviour:
     to Armor Class.","A double-bladed scimitar has the finesse property when you
     wield it."]}]}'
   DataHash: 819e80f5d008db86f08c0477f327cbb5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Revenant Blade
+    Content: 
+    AsJson: '{"name":"Revenant Blade","source":"ERLW","page":22,"otherSources":[{"source":"UAWGE","page":74}],"prerequisite":[{"race":[{"name":"elf"}]}],"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"entries":["You
+      are descended from a master of the {@item double-bladed scimitar|ERLW}, and
+      some of that mastery has passed on to you. You gain the following benefits:",{"type":"list","items":["While
+      you are holding a double-bladed scimitar with two hands, you gain a +1 bonus
+      to Armor Class.","A double-bladed scimitar has the finesse property when you
+      wield it."]}]}'
+    DataHash: 819e80f5d008db86f08c0477f327cbb5
   Sources: {fileID: 11400000, guid: 88cc82196d7941243ac772b606622504, type: 2}
   SourcePages: 22
   Prerequisites:

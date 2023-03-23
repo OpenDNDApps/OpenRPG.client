@@ -24,6 +24,22 @@ MonoBehaviour:
     of your next turn. You can create this bulwark a number of times equal to your
     proficiency bonus, and you regain all expended uses when you finish a long rest."]}]}]}'
   DataHash: 9df5d93308bcd6ac53cd77a127d4b667
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scion Of Elemental Earth
+    Content: 
+    AsJson: '{"name":"Scion Of Elemental Earth","source":"UA2022WondersOfTheMultiverse","page":8,"additionalSpells":[{"known":{"_":["druidcraft#c"]}}],"entries":["You''ve
+      been exposed to the primordial magic of the Elemental Plane of Earth, granting
+      you the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Elemental
+      Magic","entries":["You learn the {@spell druidcraft} cantrip, using Intelligence,
+      Wisdom, or Charisma as the spellcasting ability (choose when you select this
+      feat)."]},{"type":"item","name":"Earthen Shield","entries":["You can use a
+      bonus action to conjure a bulwark of earth that provides half cover to you
+      or a creature of your choice within 30 feet of yourself. The bulwark remains
+      until the start of your next turn. You can create this bulwark a number of
+      times equal to your proficiency bonus, and you regain all expended uses when
+      you finish a long rest."]}]}]}'
+    DataHash: 9df5d93308bcd6ac53cd77a127d4b667
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites: []

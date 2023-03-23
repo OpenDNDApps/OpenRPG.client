@@ -20,6 +20,17 @@ MonoBehaviour:
     or sunset.","You can accurately recall anything you have seen or heard within
     the past month."]}]}'
   DataHash: 77dd7faf26dfecdab37c16ac08e403be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Keen Mind
+    Content: 
+    AsJson: '{"name":"Keen Mind","source":"PHB","page":167,"ability":[{"int":1}],"entries":["You
+      have a mind that can track time, direction, and detail with uncanny precision.
+      You gain the following benefits:",{"type":"list","items":["You always know
+      which way is north.","You always know the number of hours left before the next
+      sunrise or sunset.","You can accurately recall anything you have seen or heard
+      within the past month."]}]}'
+    DataHash: 77dd7faf26dfecdab37c16ac08e403be
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

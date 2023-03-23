@@ -21,3 +21,16 @@ MonoBehaviour:
     the target must make a DC 12 Constitution saving throw, taking 9 ({@damage 2d8})
     poison damage on a failed save, or half as much damage on a successful one."]}}}},"damageTags":["I","S"],"hasToken":true}'
   DataHash: 0409767fd3787b7da337b881e1fb440b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Snake Horror
+    Content: 
+    AsJson: '{"name":"Snake Horror","source":"RoT","page":46,"otherSources":[{"source":"ToD","page":132}],"_copy":{"name":"Helmed
+      Horror","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"helmed horror","with":"snake
+      horror"},"action":{"mode":"replaceArr","replace":"Longsword","items":{"name":"Longsword","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing
+      damage, or 9 ({@damage 1d10 + 4}) slashing damage if used with two hands, and
+      the target must make a DC 12 Constitution saving throw, taking 9 ({@damage
+      2d8}) poison damage on a failed save, or half as much damage on a successful
+      one."]}}}},"damageTags":["I","S"],"hasToken":true}'
+    DataHash: 0409767fd3787b7da337b881e1fb440b

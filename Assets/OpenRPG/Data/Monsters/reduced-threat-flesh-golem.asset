@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Flesh Golem","source":"TftYP","page":113,"_copy":{"name":"Flesh
     Golem","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: ecfe634c1f6eaff8937f89efc6cb6177
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Flesh Golem
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Flesh Golem","source":"TftYP","page":113,"_copy":{"name":"Flesh
+      Golem","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: ecfe634c1f6eaff8937f89efc6cb6177

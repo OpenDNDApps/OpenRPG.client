@@ -20,3 +20,14 @@ MonoBehaviour:
     mw,rw} {@hit 2} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage
     1d6 + 0}) slashing damage."]}}]}},"alignment":["L","G"],"senseTags":["D"],"languageTags":["C","D","X"],"miscTags":["MW","RNG","RW","THW"],"hasToken":true}'
   DataHash: 9d05a6706df12a21ffcd1c5059d199ba
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Battlehammer Dwarf
+    Content: 
+    AsJson: '{"name":"Battlehammer Dwarf","isNamedCreature":true,"source":"IDRotF","page":107,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"scout","with":"dwarf"},"action":[{"mode":"replaceArr","replace":"Longbow","items":{"name":"Light
+      Crossbow","entries":["{@atk rw} {@hit 4} to hit, ranged 80/320 ft., one target.
+      {@h}6 ({@damage 1d8 + 2}) piercing damage."]}},{"mode":"replaceArr","replace":"Shortsword","items":{"name":"Handaxe","entries":["{@atk
+      mw,rw} {@hit 2} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage
+      1d6 + 0}) slashing damage."]}}]}},"alignment":["L","G"],"senseTags":["D"],"languageTags":["C","D","X"],"miscTags":["MW","RNG","RW","THW"],"hasToken":true}'
+    DataHash: 9d05a6706df12a21ffcd1c5059d199ba

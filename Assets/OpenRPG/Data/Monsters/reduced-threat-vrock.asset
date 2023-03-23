@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Vrock","source":"TftYP","page":113,"_copy":{"name":"Vrock","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 89d9b2a8a43511c30d3c71114f8f602d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Vrock
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Vrock","source":"TftYP","page":113,"_copy":{"name":"Vrock","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 89d9b2a8a43511c30d3c71114f8f602d

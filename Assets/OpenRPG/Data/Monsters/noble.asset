@@ -20,3 +20,15 @@ MonoBehaviour:
     noble adds 2 to its AC against one melee attack that would hit it. To do so,
     the noble must see the attacker and be wielding a melee weapon."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/noble.mp3"},"actionTags":["Parry"],"languageTags":["X"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: bf5c3e8e08a752f0d978040b240ec20e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Noble
+    Content: 
+    AsJson: '{"name":"Noble","source":"MM","page":348,"srd":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[{"ac":15,"from":["{@item breastplate|phb}"]}],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":30},"str":11,"dex":12,"con":11,"int":12,"wis":14,"cha":16,"skill":{"deception":"+5","insight":"+4","persuasion":"+5"},"passive":12,"languages":["any
+      two languages"],"cr":"1/8","action":[{"name":"Rapier","entries":["{@atk mw}
+      {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing
+      damage."]}],"reaction":[{"name":"Parry","entries":["The noble adds 2 to its
+      AC against one melee attack that would hit it. To do so, the noble must see
+      the attacker and be wielding a melee weapon."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/noble.mp3"},"actionTags":["Parry"],"languageTags":["X"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: bf5c3e8e08a752f0d978040b240ec20e

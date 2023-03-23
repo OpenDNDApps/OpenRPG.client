@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bloodstone","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque dark gray with red flecks gemstone."]}'
   DataHash: c499b4a3d8759f53d4f39ed5d82efe10
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bloodstone
+    Content: 
+    AsJson: '{"name":"Bloodstone","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque dark gray with red flecks gemstone."]}'
+    DataHash: c499b4a3d8759f53d4f39ed5d82efe10

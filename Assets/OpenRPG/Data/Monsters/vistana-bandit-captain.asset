@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vistana Bandit Captain","source":"CoS","page":28,"_copy":{"name":"Bandit
     Captain","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: 7231bc56092736a8a8de6399bb1e7fe3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Bandit Captain
+    Content: 
+    AsJson: '{"name":"Vistana Bandit Captain","source":"CoS","page":28,"_copy":{"name":"Bandit
+      Captain","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: 7231bc56092736a8a8de6399bb1e7fe3

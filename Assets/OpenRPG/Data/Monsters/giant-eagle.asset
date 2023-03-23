@@ -24,3 +24,18 @@ MonoBehaviour:
     one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."]}],"environment":["mountain","grassland","hill","coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-eagle.mp3"},"traitTags":["Keen
     Senses"],"actionTags":["Multiattack"],"languageTags":["AU","C","CS","OTH"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 831b01ec6b00bcfada61e512842cf4b8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Eagle
+    Content: 
+    AsJson: '{"name":"Giant Eagle","source":"MM","page":324,"srd":true,"basicRules":true,"otherSources":[{"source":"GoS"},{"source":"WBtW"}],"size":["L"],"type":"beast","alignment":["N","G"],"ac":[13],"hp":{"average":26,"formula":"4d10
+      + 4"},"speed":{"walk":10,"fly":80},"str":16,"dex":17,"con":13,"int":8,"wis":14,"cha":10,"skill":{"perception":"+4"},"passive":14,"languages":["Giant
+      Eagle","understands Common and Auran but can''t speak them"],"cr":"1","trait":[{"name":"Keen
+      Sight","entries":["The eagle has advantage on Wisdom ({@skill Perception})
+      checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The
+      eagle makes two attacks: one with its beak and one with its talons."]},{"name":"Beak","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing
+      damage."]},{"name":"Talons","entries":["{@atk mw} {@hit 5} to hit, reach 5
+      ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."]}],"environment":["mountain","grassland","hill","coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-eagle.mp3"},"traitTags":["Keen
+      Senses"],"actionTags":["Multiattack"],"languageTags":["AU","C","CS","OTH"],"damageTags":["P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 831b01ec6b00bcfada61e512842cf4b8

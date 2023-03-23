@@ -21,3 +21,15 @@ MonoBehaviour:
     to fall off, freeing the Stranger."]},{"name":"Magic Resistance","entries":["The
     archmage has advantage on saving throws against spells and other magical effects."]}],"hasToken":true}'
   DataHash: 1f8013dbb5b476f90c0bdd4921b2d49e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: The Stranger
+    Content: 
+    AsJson: '{"name":"The Stranger","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"The Stranger","flags":"i"}}},"trait":[{"name":"Special Equipment","entries":["The
+      Stranger wears an invisible {@item ring of mind shielding} that thwarts magical
+      attempts to read their thoughts. The Stranger also wears {@item dimensional
+      shackles} but is eager to be rid of them. One touch from Omid''s mace-key causes
+      the shackles to fall off, freeing the Stranger."]},{"name":"Magic Resistance","entries":["The
+      archmage has advantage on saving throws against spells and other magical effects."]}],"hasToken":true}'
+    DataHash: 1f8013dbb5b476f90c0bdd4921b2d49e

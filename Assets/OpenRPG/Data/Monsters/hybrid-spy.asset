@@ -25,3 +25,19 @@ MonoBehaviour:
     5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."]}],"traitTags":["Spider
     Climb"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: a8b6c799c97c9890847c0642d90a97db
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hybrid Spy
+    Content: 
+    AsJson: '{"name":"Hybrid Spy","source":"GGR","page":218,"size":["M"],"type":{"type":"humanoid","tags":["Simic
+      hybrid"]},"alignment":["N","G"],"ac":[13],"hp":{"average":22,"formula":"4d8
+      + 4"},"speed":{"walk":30,"climb":30},"str":11,"dex":17,"con":12,"int":13,"wis":14,"cha":9,"skill":{"perception":"+4","stealth":"+5"},"senses":["darkvision
+      60 ft."],"passive":14,"languages":["Common plus any one language"],"cr":"1/2","trait":[{"name":"Chameleon
+      Skin","entries":["The hybrid has advantage on Dexterity (Stealth) checks made
+      to hide."]},{"name":"Spider Climb","entries":["The hybrid can climb difficult
+      surfaces, including upside down on ceilings, without needing to make an ability
+      check."]}],"action":[{"name":"Multiattack","entries":["The hybrid makes two
+      shortsword attacks."]},{"name":"Shortsword","entries":["{@atk mw} {@hit 5}
+      to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."]}],"traitTags":["Spider
+      Climb"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","X"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: a8b6c799c97c9890847c0642d90a97db

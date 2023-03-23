@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Otyugh","source":"MM","page":248,"typicalSpeakers":["{@creature
     Otyugh||otyughs}"]}'
   DataHash: ea6487f3075976a665bbd95a144c1e90
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Otyugh
+    Content: 
+    AsJson: '{"name":"Otyugh","source":"MM","page":248,"typicalSpeakers":["{@creature
+      Otyugh||otyughs}"]}'
+    DataHash: ea6487f3075976a665bbd95a144c1e90

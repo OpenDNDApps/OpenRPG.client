@@ -33,3 +33,28 @@ MonoBehaviour:
     within 5 feet of it. If no creature is within reach, the construct moves up to
     half its speed toward an enemy it can see, without provoking opportunity attacks."]}],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["B","F"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 6b34bcf6b39f5d7ea9bec6c829ffaef5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Construct Spirit
+    Content: 
+    AsJson: '{"name":"Construct Spirit","source":"TCE","page":111,"summonedBySpell":"Summon
+      Construct|TCE","summonedBySpellLevel":4,"size":["M"],"type":"construct","alignment":["U"],"ac":[{"special":"13
+      + the level of the spell (natural armor)"}],"hp":{"special":"40 + 15 for each
+      spell level above 4th"},"speed":{"walk":30},"str":18,"dex":10,"con":18,"int":14,"wis":11,"cha":5,"senses":["darkvision
+      60 ft."],"passive":10,"resist":["poison"],"conditionImmune":["charmed","exhaustion","frightened","incapacitated","paralyzed","petrified","poisoned"],"languages":["understands
+      the languages you speak"],"trait":[{"name":"Heated Body (Metal Only)","entries":["A
+      creature that touches the construct or hits it with a melee attack while within
+      5 feet of it takes {@damage 1d10} fire damage."]},{"name":"Stony Lethargy (Stone
+      Only)","entries":["When a creature the construct can see starts its turn within
+      10 feet of the construct, the construct can force it to make a Wisdom saving
+      throw against your spell save DC. On a failed save, the target can''t use reactions
+      and its speed is halved until the start of its next turn."]}],"action":[{"name":"Multiattack","entries":["The
+      construct makes a number of attacks equal to half this spell''s level (rounded
+      down)."]},{"name":"Slam","entries":["{@atk mw} {@hitYourSpellAttack} to hit,
+      reach 5 ft., one target. {@h}{@damage 1d8 + 4 + summonSpellLevel} bludgeoning
+      damage."]}],"reaction":[{"name":"Berserk Lashing (Clay Only)","entries":["When
+      the construct takes damage, it makes a slam attack against a random creature
+      within 5 feet of it. If no creature is within reach, the construct moves up
+      to half its speed toward an enemy it can see, without provoking opportunity
+      attacks."]}],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["B","F"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 6b34bcf6b39f5d7ea9bec6c829ffaef5

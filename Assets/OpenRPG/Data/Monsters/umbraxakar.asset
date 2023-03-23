@@ -17,3 +17,11 @@ MonoBehaviour:
     Bronze Dragon","source":"MM","_trait":{"name":"Legendary Shadow Dragon","source":"MM"}},"alignment":["N","E"],"traitTags":["Amphibious","Legendary
     Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
   DataHash: 8f9f69eee4228982780dcc60273bf6c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Umbraxakar
+    Content: 
+    AsJson: '{"name":"Umbraxakar","isNpc":true,"isNamedCreature":true,"source":"WDMM","page":241,"_copy":{"name":"Adult
+      Bronze Dragon","source":"MM","_trait":{"name":"Legendary Shadow Dragon","source":"MM"}},"alignment":["N","E"],"traitTags":["Amphibious","Legendary
+      Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 8f9f69eee4228982780dcc60273bf6c9

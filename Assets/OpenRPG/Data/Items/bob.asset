@@ -18,3 +18,12 @@ MonoBehaviour:
     +1 battleaxe floats on water and other liquids, and grants its bearer advantage
     on Strength ({@skill Athletics}) checks made to swim."]}'
   DataHash: c0309b7c30344ce80446a5daf552aabe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bob
+    Content: 
+    AsJson: '{"name":"Bob","source":"ToA","page":89,"baseItem":"battleaxe|phb","type":"M","rarity":"unknown
+      (magic)","weight":4,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+1","entries":["This
+      +1 battleaxe floats on water and other liquids, and grants its bearer advantage
+      on Strength ({@skill Athletics}) checks made to swim."]}'
+    DataHash: c0309b7c30344ce80446a5daf552aabe

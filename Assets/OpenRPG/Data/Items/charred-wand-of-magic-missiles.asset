@@ -18,3 +18,12 @@ MonoBehaviour:
     time you expend a charge from this wand, there is a {@chance 50|50 percent} chance
     that nothing happens and the charge is wasted."}}}}'
   DataHash: 6ff376cab075234d7a63f9ef4a8aaedc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Charred Wand of Magic Missiles
+    Content: 
+    AsJson: '{"name":"Charred Wand of Magic Missiles","source":"WDH","page":77,"_copy":{"name":"Wand
+      of Magic Missiles","source":"DMG","_mod":{"entries":{"mode":"appendArr","items":"Each
+      time you expend a charge from this wand, there is a {@chance 50|50 percent}
+      chance that nothing happens and the charge is wasted."}}}}'
+    DataHash: 6ff376cab075234d7a63f9ef4a8aaedc

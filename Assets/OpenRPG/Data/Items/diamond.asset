@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Diamond","source":"DMG","page":134,"type":"$","rarity":"none","value":500000,"entries":["A
     transparent blue-white, canary, pink, brown, or blue gemstone."]}'
   DataHash: e553e60fa4a3728f9c5f381abed542c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Diamond
+    Content: 
+    AsJson: '{"name":"Diamond","source":"DMG","page":134,"type":"$","rarity":"none","value":500000,"entries":["A
+      transparent blue-white, canary, pink, brown, or blue gemstone."]}'
+    DataHash: e553e60fa4a3728f9c5f381abed542c5

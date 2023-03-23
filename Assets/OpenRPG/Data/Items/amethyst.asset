@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amethyst","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent deep purple gemstone."]}'
   DataHash: a888ac6d0aca3283902d96d14a5de6a6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amethyst
+    Content: 
+    AsJson: '{"name":"Amethyst","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent deep purple gemstone."]}'
+    DataHash: a888ac6d0aca3283902d96d14a5de6a6

@@ -18,3 +18,12 @@ MonoBehaviour:
     mind flayer","with":"Captain N''ghathrod","flags":"i"}}},"hp":{"average":111,"formula":"13d8
     + 13"},"legendaryGroup":{"name":"Captain N''ghathrod","source":"WDMM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 8d04999f0851e07fed9e4bc2e6ada790
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Captain N'ghathrod
+    Content: 
+    AsJson: '{"name":"Captain N''ghathrod","isNpc":true,"source":"WDMM","page":250,"_copy":{"name":"Mind
+      Flayer Arcanist","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mind flayer","with":"Captain N''ghathrod","flags":"i"}}},"hp":{"average":111,"formula":"13d8
+      + 13"},"legendaryGroup":{"name":"Captain N''ghathrod","source":"WDMM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 8d04999f0851e07fed9e4bc2e6ada790

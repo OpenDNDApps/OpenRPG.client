@@ -17,3 +17,11 @@ MonoBehaviour:
     archmage","with":"Vizeran","flags":"i"}}},"alignment":["N","E"],"traitTags":["Fey
     Ancestry","Magic Resistance","Sunlight Sensitivity"],"spellcastingTags":["CW","I"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 38c1def1c2e3b77ce4cd3ecdcbd62e06
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vizeran DeVir
+    Content: 
+    AsJson: '{"name":"Vizeran DeVir","isNpc":true,"source":"OotA","page":155,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Drow","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Vizeran","flags":"i"}}},"alignment":["N","E"],"traitTags":["Fey
+      Ancestry","Magic Resistance","Sunlight Sensitivity"],"spellcastingTags":["CW","I"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 38c1def1c2e3b77ce4cd3ecdcbd62e06

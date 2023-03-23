@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant River Serpent","source":"PSA","page":38,"_copy":{"name":"Behir","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"behir","with":"serpent"},"action":{"mode":"removeArr","names":"Lightning
     Breath {@recharge 5}"}}},"immune":null,"actionTags":["Multiattack","Swallow"],"damageTags":["A","B","P","S"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c660b4f8ba19ed8695c4ba1e5e0a1af4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant River Serpent
+    Content: 
+    AsJson: '{"name":"Giant River Serpent","source":"PSA","page":38,"_copy":{"name":"Behir","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"behir","with":"serpent"},"action":{"mode":"removeArr","names":"Lightning
+      Breath {@recharge 5}"}}},"immune":null,"actionTags":["Multiattack","Swallow"],"damageTags":["A","B","P","S"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c660b4f8ba19ed8695c4ba1e5e0a1af4

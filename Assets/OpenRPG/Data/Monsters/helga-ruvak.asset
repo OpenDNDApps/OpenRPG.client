@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Helga Ruvak","isNpc":true,"source":"CoS","page":64,"_copy":{"name":"Vampire
     Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Helga","flags":"i"}}},"hasToken":true}'
   DataHash: e200a7138ed346bda08a8f88023d986d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Helga Ruvak
+    Content: 
+    AsJson: '{"name":"Helga Ruvak","isNpc":true,"source":"CoS","page":64,"_copy":{"name":"Vampire
+      Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Helga","flags":"i"}}},"hasToken":true}'
+    DataHash: e200a7138ed346bda08a8f88023d986d

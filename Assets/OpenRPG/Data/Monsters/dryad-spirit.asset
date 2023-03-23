@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Dryad Spirit
   AsJson: '{"name":"Dryad Spirit","source":"BGDIA","page":108,"_copy":{"name":"Banshee","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"banshee","with":"dryad"}}},"hasToken":true}'
   DataHash: 3804210dfe410cd3c0a728ef2266b85c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dryad Spirit
+    Content: 
+    AsJson: '{"name":"Dryad Spirit","source":"BGDIA","page":108,"_copy":{"name":"Banshee","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"banshee","with":"dryad"}}},"hasToken":true}'
+    DataHash: 3804210dfe410cd3c0a728ef2266b85c

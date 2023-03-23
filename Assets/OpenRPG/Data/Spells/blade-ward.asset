@@ -18,3 +18,12 @@ MonoBehaviour:
     next turn, you have resistance against bludgeoning, piercing, and slashing damage
     dealt by weapon attacks."],"damageResist":["bludgeoning","piercing","slashing"]}'
   DataHash: 74544730fe9bfe6a4deb7b08f5cc8424
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blade Ward
+    Content: 
+    AsJson: '{"name":"Blade Ward","source":"PHB","page":218,"level":0,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"round","amount":1}}],"entries":["You
+      extend your hand and trace a sigil of warding in the air. Until the end of
+      your next turn, you have resistance against bludgeoning, piercing, and slashing
+      damage dealt by weapon attacks."],"damageResist":["bludgeoning","piercing","slashing"]}'
+    DataHash: 74544730fe9bfe6a4deb7b08f5cc8424

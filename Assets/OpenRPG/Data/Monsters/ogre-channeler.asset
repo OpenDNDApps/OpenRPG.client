@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ogre Channeler
   AsJson: '{"name":"Ogre Channeler","source":"PSZ","page":31,"_copy":{"name":"Oni","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\boni","with":"ogre"}}},"hasToken":true}'
   DataHash: eae18fd12008227f9833498527880dec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ogre Channeler
+    Content: 
+    AsJson: '{"name":"Ogre Channeler","source":"PSZ","page":31,"_copy":{"name":"Oni","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\boni","with":"ogre"}}},"hasToken":true}'
+    DataHash: eae18fd12008227f9833498527880dec

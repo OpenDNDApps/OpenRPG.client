@@ -21,3 +21,15 @@ MonoBehaviour:
     maximum for that score. The manual then loses its magic, but regains it in a
     century."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
   DataHash: a135d128cc85295095bb62810c10a52b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tome of Understanding
+    Content: 
+    AsJson: '{"name":"Tome of Understanding","source":"DMG","page":209,"srd":true,"tier":"major","rarity":"very
+      rare","wondrous":true,"weight":5,"ability":{"wis":2},"entries":["This book
+      contains intuition and insight exercises, and its words are charged with magic.
+      If you spend 48 hours over a period of 6 days or fewer studying the book''s
+      contents and practicing its guidelines, your Wisdom score increases by 2, as
+      does your maximum for that score. The manual then loses its magic, but regains
+      it in a century."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+    DataHash: a135d128cc85295095bb62810c10a52b

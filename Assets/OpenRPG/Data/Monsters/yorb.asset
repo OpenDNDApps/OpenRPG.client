@@ -17,3 +17,11 @@ MonoBehaviour:
     Elite Warrior","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     grung","with":"Yorb","flags":"i"}},"_preserve":{"variant":true}},"hasToken":true,"hasFluffImages":true}'
   DataHash: f4d4c2738a6009f54584c5446ef4efc0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yorb
+    Content: 
+    AsJson: '{"name":"Yorb","isNpc":true,"source":"ToA","page":108,"_copy":{"name":"Grung
+      Elite Warrior","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      grung","with":"Yorb","flags":"i"}},"_preserve":{"variant":true}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: f4d4c2738a6009f54584c5446ef4efc0

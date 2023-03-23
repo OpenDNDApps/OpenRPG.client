@@ -20,6 +20,17 @@ MonoBehaviour:
     in a lightly obscured area doesn''t impose disadvantage on your Wisdom ({@skill
     Perception}) checks if you can both see and hear."]}]}'
   DataHash: f9f297add6d29dac84679e6893c90ee5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Perceptive
+    Content: 
+    AsJson: '{"name":"Perceptive","source":"UAFeatsForSkills","page":3,"ability":[{"wis":1}],"skillProficiencies":[{"perception":true}],"entries":["You
+      hone your senses until they become razor sharp. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Perception} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","Being in a lightly obscured area doesn''t impose disadvantage on your
+      Wisdom ({@skill Perception}) checks if you can both see and hear."]}]}'
+    DataHash: f9f297add6d29dac84679e6893c90ee5
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

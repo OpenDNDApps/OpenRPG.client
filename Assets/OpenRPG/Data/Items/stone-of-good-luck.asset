@@ -17,3 +17,11 @@ MonoBehaviour:
     this polished agate is on your person, you gain a +1 bonus to ability checks
     and saving throws."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
   DataHash: 4e588e8fb86afe7ccf58d0faa8d8879d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone of Good Luck
+    Content: 
+    AsJson: '{"name":"Stone of Good Luck","source":"DMG","page":205,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"bonusSavingThrow":"+1","bonusAbilityCheck":"+1","entries":["While
+      this polished agate is on your person, you gain a +1 bonus to ability checks
+      and saving throws."],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+    DataHash: 4e588e8fb86afe7ccf58d0faa8d8879d

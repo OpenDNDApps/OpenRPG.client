@@ -42,3 +42,37 @@ MonoBehaviour:
     an action."],"_version":{"name":"Nalfeshnee (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/nalfeshnee.mp3"},"traitTags":["Magic
     Resistance"],"senseTags":["U"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","TP"],"damageTags":["P","S"],"miscTags":["MW","RCH"],"conditionInflict":["frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 281ccdc96922606500d21e4655eecd70
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nalfeshnee
+    Content: 
+    AsJson: '{"name":"Nalfeshnee","source":"MM","page":62,"srd":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"CM"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":18,"from":["natural
+      armor"]}],"hp":{"average":184,"formula":"16d10 + 96"},"speed":{"walk":20,"fly":30},"str":21,"dex":10,"con":22,"int":19,"wis":12,"cha":15,"save":{"con":"+11","int":"+9","wis":"+6","cha":"+7"},"senses":["truesight
+      120 ft."],"passive":11,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+      120 ft."],"cr":"13","trait":[{"name":"Magic Resistance","entries":["The nalfeshnee
+      has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+      nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with
+      its bite and two with its claws."]},{"name":"Bite","entries":["{@atk mw} {@hit
+      10} to hit, reach 5 ft., one target. {@h}32 ({@damage 5d10 + 5}) piercing damage."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 10} to hit, reach 10 ft., one target. {@h}15 ({@damage 3d6 + 5})
+      slashing damage."]},{"name":"Horror Nimbus {@recharge 5}","entries":["The nalfeshnee
+      magically emits scintillating, multicolored light. Each creature within 15
+      feet of the nalfeshnee that can see the light must succeed on a {@dc 15} Wisdom
+      saving throw or be {@condition frightened} for 1 minute. A creature can repeat
+      the saving throw at the end of each of its turns, ending the effect on itself
+      on a success. If a creature''s saving throw is successful or the effect ends
+      for it, the creature is immune to the nalfeshnee''s Horror Nimbus for the next
+      24 hours."]},{"name":"Teleport","entries":["The nalfeshnee magically teleports,
+      along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied
+      space it can see."]}],"variant":[{"type":"variant","name":"Summon Demon (1/Day)","entries":["The
+      demon chooses what to summon and attempts a magical summoning.","A nalfeshnee
+      has a {@chance 50|50 percent|50% summoning chance} chance of summoning {@dice
+      1d4} {@creature vrock||vrocks}, {@dice 1d3} {@creature hezrou||hezrous}, {@dice
+      1d2} {@creature glabrezu||glabrezus}, or one nalfeshnee.","A summoned demon
+      appears in an unoccupied space within 60 feet of its summoner, acts as an ally
+      of its summoner, and can''t summon other demons. It remains for 1 minute, until
+      it or its summoner dies, or until its summoner dismisses it as an action."],"_version":{"name":"Nalfeshnee
+      (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/nalfeshnee.mp3"},"traitTags":["Magic
+      Resistance"],"senseTags":["U"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","TP"],"damageTags":["P","S"],"miscTags":["MW","RCH"],"conditionInflict":["frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 281ccdc96922606500d21e4655eecd70

@@ -18,3 +18,12 @@ MonoBehaviour:
     The condition can be {@condition blinded}, {@condition deafened}, {@condition
     paralyzed}, or {@condition poisoned}."],"areaTags":["ST"]}'
   DataHash: ac3925215bb75e8930d0664941b6ac4d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lesser Restoration
+    Content: 
+    AsJson: '{"name":"Lesser Restoration","source":"PHB","page":255,"srd":true,"basicRules":true,"level":2,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      touch a creature and can end either one disease or one condition afflicting
+      it. The condition can be {@condition blinded}, {@condition deafened}, {@condition
+      paralyzed}, or {@condition poisoned}."],"areaTags":["ST"]}'
+    DataHash: ac3925215bb75e8930d0664941b6ac4d

@@ -20,3 +20,14 @@ MonoBehaviour:
     you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}), and 17th level
     ({@damage 4d6})."],"scalingLevelDice":{"label":"force damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["force"],"savingThrow":["dexterity"],"miscTags":["SCL"],"areaTags":["S"]}'
   DataHash: 8e0f4772dea49cfa2b783756a9330722
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sword Burst
+    Content: 
+    AsJson: '{"name":"Sword Burst","source":"TCE","page":115,"otherSources":[{"source":"SCAG","page":143}],"level":0,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":5}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["You
+      create a momentary circle of spectral blades that sweep around you. All other
+      creatures within 5 feet of you must succeed on a Dexterity saving throw or
+      take {@damage 1d6} force damage.","This spell''s damage increases by {@dice
+      1d6} when you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}),
+      and 17th level ({@damage 4d6})."],"scalingLevelDice":{"label":"force damage","scaling":{"1":"1d6","5":"2d6","11":"3d6","17":"4d6"}},"damageInflict":["force"],"savingThrow":["dexterity"],"miscTags":["SCL"],"areaTags":["S"]}'
+    DataHash: 8e0f4772dea49cfa2b783756a9330722

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Piton
   AsJson: '{"name":"Piton","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":0.25,"value":5}'
   DataHash: 889c395f3e43c7425bcd08c9fe7d1694
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Piton
+    Content: 
+    AsJson: '{"name":"Piton","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":0.25,"value":5}'
+    DataHash: 889c395f3e43c7425bcd08c9fe7d1694

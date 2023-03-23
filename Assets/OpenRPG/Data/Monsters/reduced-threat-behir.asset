@@ -17,3 +17,11 @@ MonoBehaviour:
     Threat","source":"TftYP"},"_mod":{"action":{"mode":"removeArr","names":["Constrict","Swallow"]}}},"actionTags":["Breath
     Weapon","Multiattack"],"damageTags":["L","P"],"hasToken":true}'
   DataHash: 249d1eeeb6fef73b0ee4bdf6154ea23f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Behir
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Behir","source":"TftYP","page":113,"_copy":{"name":"Behir","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"},"_mod":{"action":{"mode":"removeArr","names":["Constrict","Swallow"]}}},"actionTags":["Breath
+      Weapon","Multiattack"],"damageTags":["L","P"],"hasToken":true}'
+    DataHash: 249d1eeeb6fef73b0ee4bdf6154ea23f

@@ -18,3 +18,12 @@ MonoBehaviour:
     on the Strength check. One other character can help you use the ram, giving you
     advantage on this check."]}'
   DataHash: 6d461ceea9f2aec4cc1288b7b7e78b41
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Portable Ram
+    Content: 
+    AsJson: '{"name":"Portable Ram","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":35,"value":400,"entries":["You
+      can use a portable ram to break down doors. When doing so, you gain a +4 bonus
+      on the Strength check. One other character can help you use the ram, giving
+      you advantage on this check."]}'
+    DataHash: 6d461ceea9f2aec4cc1288b7b7e78b41

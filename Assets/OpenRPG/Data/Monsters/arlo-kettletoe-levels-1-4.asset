@@ -17,3 +17,11 @@ MonoBehaviour:
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Arlo
     Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
   DataHash: f52374dec8ab84cf643388fc3c03ce3b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arlo Kettletoe (Levels 1-4)
+    Content: 
+    AsJson: '{"name":"Arlo Kettletoe (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Arlo
+      Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
+    DataHash: f52374dec8ab84cf643388fc3c03ce3b

@@ -22,3 +22,17 @@ MonoBehaviour:
     to its nature, a target ceases to be {@condition charmed} in this way. The rod
     can''t be used again until the next dawn."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
   DataHash: af09083cffd9172ece4b08d969bb0916
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rod of Rulership
+    Content: 
+    AsJson: '{"name":"Rod of Rulership","source":"DMG","page":197,"srd":true,"type":"RD","tier":"major","rarity":"rare","reqAttune":true,"weight":2,"entries":["You
+      can use an action to present the rod and command obedience from each creature
+      of your choice that you can see within 120 feet of you. Each target must succeed
+      on a DC 15 Wisdom saving throw or be {@condition charmed} by you for 8 hours.
+      While {@condition charmed} in this way, the creature regards you as its trusted
+      leader. If harmed by you or your companions, or commanded to do something contrary
+      to its nature, a target ceases to be {@condition charmed} in this way. The
+      rod can''t be used again until the next dawn."],"lootTables":["Magic Item Table
+      G"],"hasFluffImages":true}'
+    DataHash: af09083cffd9172ece4b08d969bb0916

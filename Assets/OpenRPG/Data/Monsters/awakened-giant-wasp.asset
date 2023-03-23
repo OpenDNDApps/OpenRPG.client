@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Awakened Giant Wasp","source":"WDMM","page":72,"_copy":{"name":"Giant
     Wasp","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
   DataHash: 730ee61bdaf9754a99d993ce3cb79b56
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Awakened Giant Wasp
+    Content: 
+    AsJson: '{"name":"Awakened Giant Wasp","source":"WDMM","page":72,"_copy":{"name":"Giant
+      Wasp","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
+    DataHash: 730ee61bdaf9754a99d993ce3cb79b56

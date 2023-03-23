@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Traveler's Clothes
   AsJson: '{"name":"Traveler''s Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":200}'
   DataHash: 6c877e61b5d08545232b1af018f27d30
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Traveler's Clothes
+    Content: 
+    AsJson: '{"name":"Traveler''s Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":200}'
+    DataHash: 6c877e61b5d08545232b1af018f27d30

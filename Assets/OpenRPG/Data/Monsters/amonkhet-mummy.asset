@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Amonkhet Mummy
   AsJson: '{"name":"Amonkhet Mummy","source":"PSA","page":34,"_copy":{"name":"Mummy","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: e21eff08425b01a1028cc393d4e16b6f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amonkhet Mummy
+    Content: 
+    AsJson: '{"name":"Amonkhet Mummy","source":"PSA","page":34,"_copy":{"name":"Mummy","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: e21eff08425b01a1028cc393d4e16b6f

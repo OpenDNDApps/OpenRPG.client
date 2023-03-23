@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Afsoun","flags":"i"}}},"alignment":["C","G"],"traitTags":["Fey
     Ancestry","Magic Resistance"],"hasToken":true}'
   DataHash: c329d539f803de22890f7c09f718a0f0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Afsoun Ghorbani
+    Content: 
+    AsJson: '{"name":"Afsoun Ghorbani","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":162,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Afsoun","flags":"i"}}},"alignment":["C","G"],"traitTags":["Fey
+      Ancestry","Magic Resistance"],"hasToken":true}'
+    DataHash: c329d539f803de22890f7c09f718a0f0

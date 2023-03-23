@@ -19,3 +19,13 @@ MonoBehaviour:
     proficiency. For the spell''s duration, you have proficiency in the chosen skill.
     The spell ends early if you cast it again."]}'
   DataHash: 9e52217bf881cf184415716350c136bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Borrowed Knowledge
+    Content: 
+    AsJson: '{"name":"Borrowed Knowledge","source":"SCC","page":37,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":{"text":"a
+      book worth at least 25 gp","cost":2500}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["You
+      draw on knowledge from spirits of the past. Choose one skill in which you lack
+      proficiency. For the spell''s duration, you have proficiency in the chosen
+      skill. The spell ends early if you cast it again."]}'
+    DataHash: 9e52217bf881cf184415716350c136bb

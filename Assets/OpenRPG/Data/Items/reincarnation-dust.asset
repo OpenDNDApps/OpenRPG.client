@@ -19,3 +19,13 @@ MonoBehaviour:
     remains. If willing, the dead creature returns to life with a new body as if
     the {@spell reincarnate} spell had been cast on the remains."],"attachedSpells":["reincarnate"]}'
   DataHash: 1b5b24dd0bf3bf4393fe19030bc8e861
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reincarnation Dust
+    Content: 
+    AsJson: '{"name":"Reincarnation Dust","source":"EGW","page":268,"rarity":"very
+      rare","wondrous":true,"entries":["When this small pouch of purple dust is sprinkled
+      on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the
+      remains. If willing, the dead creature returns to life with a new body as if
+      the {@spell reincarnate} spell had been cast on the remains."],"attachedSpells":["reincarnate"]}'
+    DataHash: 1b5b24dd0bf3bf4393fe19030bc8e861

@@ -21,3 +21,15 @@ MonoBehaviour:
     ({@damage 3d8}), and 17th level ({@damage 4d8})."],"scalingLevelDice":{"label":"radiant
     damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},"damageInflict":["radiant"],"savingThrow":["dexterity"],"miscTags":["SCL","SGT"],"areaTags":["ST"],"hasFluffImages":true}'
   DataHash: 5b2d4c18d30921d85f89de813826d59f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sacred Flame
+    Content: 
+    AsJson: '{"name":"Sacred Flame","source":"PHB","page":272,"srd":true,"basicRules":true,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Flame-like
+      radiance descends on a creature that you can see within range. The target must
+      succeed on a Dexterity saving throw or take {@damage 1d8} radiant damage. The
+      target gains no benefit from cover for this saving throw.","The spell''s damage
+      increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}), 11th level
+      ({@damage 3d8}), and 17th level ({@damage 4d8})."],"scalingLevelDice":{"label":"radiant
+      damage","scaling":{"1":"1d8","5":"2d8","11":"3d8","17":"4d8"}},"damageInflict":["radiant"],"savingThrow":["dexterity"],"miscTags":["SCL","SGT"],"areaTags":["ST"],"hasFluffImages":true}'
+    DataHash: 5b2d4c18d30921d85f89de813826d59f

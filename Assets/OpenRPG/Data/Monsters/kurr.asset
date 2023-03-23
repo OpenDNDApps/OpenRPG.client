@@ -17,3 +17,11 @@ MonoBehaviour:
     Fang of Yeenoghu","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     gnoll","with":"Kurr","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: e101b42dd832f1a24710bbae035f385f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kurr
+    Content: 
+    AsJson: '{"name":"Kurr","isNpc":true,"source":"OotA","page":179,"_copy":{"name":"Gnoll
+      Fang of Yeenoghu","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      gnoll","with":"Kurr","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: e101b42dd832f1a24710bbae035f385f

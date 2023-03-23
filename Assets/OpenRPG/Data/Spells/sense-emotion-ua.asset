@@ -21,3 +21,15 @@ MonoBehaviour:
     calm, or something else. If the target isn''t actually humanoid or it is immune
     to being {@condition charmed}, you sense that it is calm."],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 405491961eaf646f64c3e5aa4bc556d9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sense Emotion (UA)
+    Content: 
+    AsJson: '{"name":"Sense Emotion (UA)","source":"UAStarterSpells","page":4,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+      attune your senses to pick up the emotions of others for the duration. When
+      you cast the spell, and as your action on each turn until the spell ends, you
+      can focus your senses on one humanoid you can see within 30 feet of you. You
+      instantly learn the target''s prevailing emotion, whether it''s love, anger,
+      pain, fear, calm, or something else. If the target isn''t actually humanoid
+      or it is immune to being {@condition charmed}, you sense that it is calm."],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 405491961eaf646f64c3e5aa4bc556d9

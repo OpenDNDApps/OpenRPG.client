@@ -22,3 +22,16 @@ MonoBehaviour:
     mw} {@hit 7} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning
     damage."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/rhinoceros.mp3"},"traitTags":["Charge"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
   DataHash: 7c783af8c2222d6bff8167639996c293
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rhinoceros
+    Content: 
+    AsJson: '{"name":"Rhinoceros","source":"MM","page":336,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"WDH"},{"source":"IDRotF"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":45,"formula":"6d10 + 12"},"speed":{"walk":40},"str":21,"dex":8,"con":15,"int":2,"wis":12,"cha":6,"passive":11,"cr":"2","trait":[{"name":"Charge","entries":["If
+      the rhinoceros moves at least 20 feet straight toward a target and then hits
+      it with a gore attack on the same turn, the target takes an extra 9 ({@damage
+      2d8}) bludgeoning damage. If the target is a creature, it must succeed on a
+      {@dc 15} Strength saving throw or be knocked {@condition prone}."]}],"action":[{"name":"Gore","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning
+      damage."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/rhinoceros.mp3"},"traitTags":["Charge"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+    DataHash: 7c783af8c2222d6bff8167639996c293

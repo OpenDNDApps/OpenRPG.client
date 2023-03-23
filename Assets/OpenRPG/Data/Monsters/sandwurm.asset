@@ -15,3 +15,10 @@ MonoBehaviour:
   Title: Sandwurm
   AsJson: '{"name":"Sandwurm","source":"PSA","page":35,"_copy":{"name":"Purple Worm","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"worm","with":"wurm"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4206f1eaa599a36e63263de3a85526bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sandwurm
+    Content: 
+    AsJson: '{"name":"Sandwurm","source":"PSA","page":35,"_copy":{"name":"Purple
+      Worm","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"worm","with":"wurm"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4206f1eaa599a36e63263de3a85526bb

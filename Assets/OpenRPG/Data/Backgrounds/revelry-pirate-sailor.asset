@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Revelry Pirate (Sailor)
   AsJson: '{"name":"Revelry Pirate (Sailor)","source":"EGW","page":203,"_copy":{"name":"Sailor","source":"PHB"},"hasFluff":true}'
   DataHash: 0770b07768a6346240a1dea6605a8d20
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Revelry Pirate (Sailor)
+    Content: 
+    AsJson: '{"name":"Revelry Pirate (Sailor)","source":"EGW","page":203,"_copy":{"name":"Sailor","source":"PHB"},"hasFluff":true}'
+    DataHash: 0770b07768a6346240a1dea6605a8d20

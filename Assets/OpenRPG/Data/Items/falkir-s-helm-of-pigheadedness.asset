@@ -21,3 +21,15 @@ MonoBehaviour:
     exceedingly stubborn and think I''m right all the time.\" (This flaw supersedes
     any conflicting flaw.)"]}'
   DataHash: 851fc0b822f72f82296fe32ac1dcd006
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Falkir's Helm of Pigheadedness
+    Content: 
+    AsJson: '{"name":"Falkir''s Helm of Pigheadedness","source":"WDMM","page":141,"type":"OTH","rarity":"unknown
+      (magic)","curse":true,"entries":["This steel helm is shaped like the head of
+      a boar. Once you don the helm, it can''t be removed until you die or until
+      a {@spell remove curse} spell or similar magic is cast on it. If you wear the
+      helm and are a humanoid, you gain the following flaw until the helm is removed:
+      \"I''m exceedingly stubborn and think I''m right all the time.\" (This flaw
+      supersedes any conflicting flaw.)"]}'
+    DataHash: 851fc0b822f72f82296fe32ac1dcd006

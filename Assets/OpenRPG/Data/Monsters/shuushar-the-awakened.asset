@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Shuushar the Awakened","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Kuo-Toa","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     kuo-toa","with":"Shuushar","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 30f53418c0525b862d2f2fb156076f9a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shuushar the Awakened
+    Content: 
+    AsJson: '{"name":"Shuushar the Awakened","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Kuo-Toa","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      kuo-toa","with":"Shuushar","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 30f53418c0525b862d2f2fb156076f9a

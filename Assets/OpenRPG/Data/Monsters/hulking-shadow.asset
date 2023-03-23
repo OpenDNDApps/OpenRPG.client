@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hulking Shadow","source":"DSotDQ","page":174,"_copy":{"name":"Clay
     Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"shadow"}}},"type":"undead","hasToken":true}'
   DataHash: ba0bcae3cf3b8dfa33fb6f47787baf11
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hulking Shadow
+    Content: 
+    AsJson: '{"name":"Hulking Shadow","source":"DSotDQ","page":174,"_copy":{"name":"Clay
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"shadow"}}},"type":"undead","hasToken":true}'
+    DataHash: ba0bcae3cf3b8dfa33fb6f47787baf11

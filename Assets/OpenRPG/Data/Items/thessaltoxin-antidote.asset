@@ -17,3 +17,11 @@ MonoBehaviour:
     potion appears to change color and texture each time you look at it. When you
     drink the potion, it ends the {@spell polymorph} effect imposed by thessaltoxin."]}'
   DataHash: 486cc7f326c827e6894c1442cbb9c85c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thessaltoxin Antidote
+    Content: 
+    AsJson: '{"name":"Thessaltoxin Antidote","source":"IMR","page":95,"type":"P","rarity":"uncommon","entries":["This
+      potion appears to change color and texture each time you look at it. When you
+      drink the potion, it ends the {@spell polymorph} effect imposed by thessaltoxin."]}'
+    DataHash: 486cc7f326c827e6894c1442cbb9c85c

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zendikar Golem","source":"PSZ","page":36,"_copy":{"name":"Stone
     Golem","source":"MM"},"hasToken":true}'
   DataHash: cb559e55a7adc708c528f7fb20df89b6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zendikar Golem
+    Content: 
+    AsJson: '{"name":"Zendikar Golem","source":"PSZ","page":36,"_copy":{"name":"Stone
+      Golem","source":"MM"},"hasToken":true}'
+    DataHash: cb559e55a7adc708c528f7fb20df89b6

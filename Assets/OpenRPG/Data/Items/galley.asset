@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Galley
   AsJson: '{"name":"Galley","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":3000000,"crew":80,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":4,"capCargo":150,"seeAlsoVehicle":["Galley"]}'
   DataHash: d8a7c702047e5785c4f49193d503c5a1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Galley
+    Content: 
+    AsJson: '{"name":"Galley","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":3000000,"crew":80,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":4,"capCargo":150,"seeAlsoVehicle":["Galley"]}'
+    DataHash: d8a7c702047e5785c4f49193d503c5a1

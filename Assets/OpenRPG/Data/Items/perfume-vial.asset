@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Perfume (vial)
   AsJson: '{"name":"Perfume (vial)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":500}'
   DataHash: d1041fd92da9ea42a93c8f08edcb84d6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Perfume (vial)
+    Content: 
+    AsJson: '{"name":"Perfume (vial)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":500}'
+    DataHash: d1041fd92da9ea42a93c8f08edcb84d6

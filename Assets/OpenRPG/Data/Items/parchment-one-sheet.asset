@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Parchment (one sheet)
   AsJson: '{"name":"Parchment (one sheet)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":10}'
   DataHash: 6e1662147a75196a095eb91daceed0e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Parchment (one sheet)
+    Content: 
+    AsJson: '{"name":"Parchment (one sheet)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":10}'
+    DataHash: 6e1662147a75196a095eb91daceed0e0

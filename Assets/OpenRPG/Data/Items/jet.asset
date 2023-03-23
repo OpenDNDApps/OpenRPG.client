@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jet","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
     opaque deep black gemstone."]}'
   DataHash: 50b1bd3f484e1c213f8fac2d83405cfb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jet
+    Content: 
+    AsJson: '{"name":"Jet","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["An
+      opaque deep black gemstone."]}'
+    DataHash: 50b1bd3f484e1c213f8fac2d83405cfb

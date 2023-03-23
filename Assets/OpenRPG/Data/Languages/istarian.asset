@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Istarian","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Ancient
     Istarians"],"script":"Istarian"}'
   DataHash: d9ade6ab716061411ffab6b04bfcf97c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Istarian
+    Content: 
+    AsJson: '{"name":"Istarian","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Ancient
+      Istarians"],"script":"Istarian"}'
+    DataHash: d9ade6ab716061411ffab6b04bfcf97c

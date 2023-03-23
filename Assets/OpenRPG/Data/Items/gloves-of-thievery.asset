@@ -19,3 +19,13 @@ MonoBehaviour:
     made to pick locks."],"optionalfeatures":["replicate magic item|tce","replicate
     magic item|uaartificerrevisited"],"lootTables":["Magic Item Table F"]}'
   DataHash: f85cf519f887a059aee2c7eb51eb66c4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gloves of Thievery
+    Content: 
+    AsJson: '{"name":"Gloves of Thievery","source":"DMG","page":172,"tier":"major","rarity":"uncommon","wondrous":true,"entries":["These
+      gloves are {@condition invisible} while worn. While wearing them, you gain
+      a +5 bonus to Dexterity ({@skill Sleight of Hand}) checks and Dexterity checks
+      made to pick locks."],"optionalfeatures":["replicate magic item|tce","replicate
+      magic item|uaartificerrevisited"],"lootTables":["Magic Item Table F"]}'
+    DataHash: f85cf519f887a059aee2c7eb51eb66c4

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold circlet set with four aquamarines
   AsJson: '{"name":"Gold circlet set with four aquamarines","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: 589f9c95ec02608742a764cb2c4b4975
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold circlet set with four aquamarines
+    Content: 
+    AsJson: '{"name":"Gold circlet set with four aquamarines","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: 589f9c95ec02608742a764cb2c4b4975

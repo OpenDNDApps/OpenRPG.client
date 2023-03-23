@@ -19,3 +19,13 @@ MonoBehaviour:
     in your surroundings, you learn the direction and distance to the closest creature
     or plant of that kind within 5 miles, if any are present."],"affectsCreatureType":["beast","plant"]}'
   DataHash: 1c9cf0d8d35afd0e387d703e52aea2b3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Locate Animals or Plants
+    Content: 
+    AsJson: '{"name":"Locate Animals or Plants","source":"PHB","page":256,"srd":true,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      bit of fur from a bloodhound"},"duration":[{"type":"instant"}],"meta":{"ritual":true},"entries":["Describe
+      or name a specific kind of beast or plant. Concentrating on the voice of nature
+      in your surroundings, you learn the direction and distance to the closest creature
+      or plant of that kind within 5 miles, if any are present."],"affectsCreatureType":["beast","plant"]}'
+    DataHash: 1c9cf0d8d35afd0e387d703e52aea2b3

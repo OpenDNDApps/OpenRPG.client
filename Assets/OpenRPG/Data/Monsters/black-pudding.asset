@@ -37,3 +37,32 @@ MonoBehaviour:
     one size smaller than the original pudding.\"]}],\"environment\":[\"underdark\"],\"soundClip\":{\"type\":\"internal\",\"path\":\"bestiary/black-pudding.mp3\"},\"traitTags\":[\"Amorphous\",\"Spider
     Climb\"],\"senseTags\":[\"B\"],\"damageTags\":[\"A\",\"B\"],\"miscTags\":[\"MW\"],\"hasToken\":true,\"hasFluff\":true,\"hasFluffImages\":true}"
   DataHash: 60b5402a1f1446d80e645d3a955dce3c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Pudding
+    Content: 
+    AsJson: "{\"name\":\"Black Pudding\",\"source\":\"MM\",\"page\":241,\"srd\":true,\"otherSources\":[{\"source\":\"CoS\"},{\"source\":\"PotA\"},{\"source\":\"SKT\"},{\"source\":\"TftYP\"},{\"source\":\"WDH\"},{\"source\":\"WDMM\"},{\"source\":\"GoS\"},{\"source\":\"IDRotF\"},{\"source\":\"CM\"},{\"source\":\"JttRC\"},{\"source\":\"DSotDQ\"},{\"source\":\"KftGV\"}],\"size\":[\"L\"],\"type\":\"ooze\",\"alignment\":[\"U\"],\"ac\":[7],\"hp\":{\"average\":85,\"formula\":\"10d10
+      + 30\"},\"speed\":{\"walk\":20,\"climb\":20},\"str\":16,\"dex\":5,\"con\":16,\"int\":1,\"wis\":6,\"cha\":1,\"senses\":[\"blindsight
+      60 ft. (blind beyond this radius)\"],\"passive\":8,\"immune\":[\"acid\",\"cold\",\"lightning\",\"slashing\"],\"conditionImmune\":[\"blinded\",\"charmed\",\"deafened\",\"exhaustion\",\"frightened\",\"prone\"],\"cr\":\"4\",\"trait\":[{\"name\":\"Amorphous\",\"entries\":[\"The
+      pudding can move through a space as narrow as 1 inch wide without squeezing.\"]},{\"name\":\"Corrosive
+      Form\",\"entries\":[\"A creature that touches the pudding or hits it with a
+      melee attack while within 5 feet of it takes 4 ({@damage 1d8}) acid damage.
+      Any nonmagical weapon made of metal or wood that hits the pudding corrodes.
+      After dealing damage, the weapon takes a permanent and cumulative \u22121 penalty
+      to damage rolls. If its penalty drops to \u22125, the weapon is destroyed.
+      Nonmagical ammunition made of metal or wood that hits the pudding is destroyed
+      after dealing damage. The pudding can eat through 2-inch-thick, nonmagical
+      wood or metal in 1 round.\"]},{\"name\":\"Spider Climb\",\"entries\":[\"The
+      pudding can climb difficult surfaces, including upside down on ceilings, without
+      needing to make an ability check.\"]}],\"action\":[{\"name\":\"Pseudopod\",\"entries\":[\"{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning
+      damage plus 18 ({@damage 4d8}) acid damage. In addition, nonmagical armor worn
+      by the target is partly dissolved and takes a permanent and cumulative \u22121
+      penalty to the AC it offers. The armor is destroyed if the penalty reduces
+      its AC to 10.\"]}],\"reaction\":[{\"name\":\"Split\",\"entries\":[\"When a
+      pudding that is Medium or larger is subjected to lightning or slashing damage,
+      it splits into two new puddings if it has at least 10 hit points. Each new
+      pudding has hit points equal to half the original pudding's, rounded down.
+      New puddings are one size smaller than the original pudding.\"]}],\"environment\":[\"underdark\"],\"soundClip\":{\"type\":\"internal\",\"path\":\"bestiary/black-pudding.mp3\"},\"traitTags\":[\"Amorphous\",\"Spider
+      Climb\"],\"senseTags\":[\"B\"],\"damageTags\":[\"A\",\"B\"],\"miscTags\":[\"MW\"],\"hasToken\":true,\"hasFluff\":true,\"hasFluffImages\":true}"
+    DataHash: 60b5402a1f1446d80e645d3a955dce3c

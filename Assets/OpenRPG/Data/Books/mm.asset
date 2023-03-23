@@ -12,13 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: mm
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Monster Manual
   AsJson: '{"name":"Monster Manual","id":"MM","source":"MM","group":"core","coverUrl":"img/covers/MM.png","published":"2014-09-30","author":"Wizards
     RPG Team","contents":[{"name":"Introduction","headers":["How to Use This Book","What
     Is a Monster?","Statistics","Legendary Creatures","Shadow Dragon Template","Half-Dragon
     Template","Spore Servant Template"]},{"name":"Miscellaneous Creatures","ordinal":{"type":"appendix","identifier":"A"}},{"name":"Nonplayer
     Characters","headers":["Customizing NPCs","NPC Descriptions"],"ordinal":{"type":"appendix","identifier":"B"}}]}'
   DataHash: 8961548cc7f839619d071cc37975e458
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Monster Manual","id":"MM","source":"MM","group":"core","coverUrl":"img/covers/MM.png","published":"2014-09-30","author":"Wizards
+      RPG Team","contents":[{"name":"Introduction","headers":["How to Use This Book","What
+      Is a Monster?","Statistics","Legendary Creatures","Shadow Dragon Template","Half-Dragon
+      Template","Spore Servant Template"]},{"name":"Miscellaneous Creatures","ordinal":{"type":"appendix","identifier":"A"}},{"name":"Nonplayer
+      Characters","headers":["Customizing NPCs","NPC Descriptions"],"ordinal":{"type":"appendix","identifier":"B"}}]}'
+    DataHash: 8961548cc7f839619d071cc37975e458
+  CoverURL: img/covers/MM.png
+  Published: 2014-09-30
+  Author: Wizards RPG Team

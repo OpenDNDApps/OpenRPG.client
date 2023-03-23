@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Chicken
   AsJson: '{"name":"Chicken","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":2}'
   DataHash: 9ce1b30b809015b9d0351da52ee307bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chicken
+    Content: 
+    AsJson: '{"name":"Chicken","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":2}'
+    DataHash: 9ce1b30b809015b9d0351da52ee307bb

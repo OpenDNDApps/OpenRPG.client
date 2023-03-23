@@ -22,6 +22,21 @@ MonoBehaviour:
     you can push, drag, or lift."]},{"type":"item","name":"Stalwart","entries":["You
     have advantage on saving throws against being moved or knocked {@condition prone}."]}]}]}'
   DataHash: c6c29140348ed68e22cf6ee7e658913b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Outsized Might
+    Content: 
+    AsJson: '{"name":"Outsized Might","source":"UA2022GiantOptions","page":5,"entries":["You
+      have absorbed primeval magic that allows you, despite your relatively small
+      stature, to embody the might of titanic creatures. This grants you the following
+      benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Little
+      but Mighty","entries":["You gain proficiency in either the {@skill Athletics}
+      or {@skill Acrobatics} skill."]},{"type":"item","name":"Powerful Build","entries":["You
+      count as one size larger when determining your carrying capacity and the amount
+      you can push, drag, or lift."]},{"type":"item","name":"Stalwart","entries":["You
+      have advantage on saving throws against being moved or knocked {@condition
+      prone}."]}]}]}'
+    DataHash: c6c29140348ed68e22cf6ee7e658913b
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites: []

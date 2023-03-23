@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Brontodon
   AsJson: '{"name":"Brontodon","source":"PSX","page":27,"_copy":{"name":"Brontosaurus","source":"VGM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 7c03cb1d34238b30adfa606552ced46f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brontodon
+    Content: 
+    AsJson: '{"name":"Brontodon","source":"PSX","page":27,"_copy":{"name":"Brontosaurus","source":"VGM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 7c03cb1d34238b30adfa606552ced46f

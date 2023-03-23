@@ -17,3 +17,11 @@ MonoBehaviour:
     bullseye lantern casts bright light in a 60-foot cone and dim light for an additional
     60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."]}'
   DataHash: e96fb75a005e6857a1ebdb1a88d4fd27
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bullseye Lantern
+    Content: 
+    AsJson: '{"name":"Bullseye Lantern","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":1000,"entries":["A
+      bullseye lantern casts bright light in a 60-foot cone and dim light for an
+      additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."]}'
+    DataHash: e96fb75a005e6857a1ebdb1a88d4fd27

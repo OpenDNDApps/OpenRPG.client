@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Leonin
   AsJson: '{"name":"Leonin","source":"MOT","page":9,"typicalSpeakers":["Leonin"],"script":"Common"}'
   DataHash: 6a37bb33bec5d9222609c755ff2cfdd8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Leonin
+    Content: 
+    AsJson: '{"name":"Leonin","source":"MOT","page":9,"typicalSpeakers":["Leonin"],"script":"Common"}'
+    DataHash: 6a37bb33bec5d9222609c755ff2cfdd8

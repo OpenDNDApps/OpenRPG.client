@@ -25,3 +25,19 @@ MonoBehaviour:
     throw to take only half damage, the creature instead takes no damage if it succeeds
     on the saving throw, and only half damage if it fails."]}],"damageResist":["acid","cold","fire","lightning","poison"],"savingThrow":["dexterity"],"miscTags":["UBA"]}'
   DataHash: a7566d588921f7cefccb42a05b4a4a9f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fizban's Platinum Shield
+    Content: 
+    AsJson: '{"name":"Fizban''s Platinum Shield","source":"UA2021DraconicOptions","page":5,"level":6,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"a
+      platinum-plated dragon scale, worth at least 500 gp","cost":50000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      create a field of silvery light that surrounds a creature of your choice within
+      range (you can choose yourself). The field sheds dim light out to 5 feet.","As
+      a bonus action on subsequent turns, you can move the field to another creature
+      within 60 feet of the field.","The creature protected by the field gains the
+      following benefits:",{"type":"list","items":["The creature has half cover.","The
+      creature has resistance to acid, cold, fire, lightning, and poison damage.","If
+      the creature is subjected to an effect that allows it to make a Dexterity saving
+      throw to take only half damage, the creature instead takes no damage if it
+      succeeds on the saving throw, and only half damage if it fails."]}],"damageResist":["acid","cold","fire","lightning","poison"],"savingThrow":["dexterity"],"miscTags":["UBA"]}'
+    DataHash: a7566d588921f7cefccb42a05b4a4a9f

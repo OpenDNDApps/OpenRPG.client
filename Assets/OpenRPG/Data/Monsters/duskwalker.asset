@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Duskwalker","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":150,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     treant","with":"Duskwalker","flags":"i"}}},"alignment":["N"],"hasToken":true}'
   DataHash: abf1495be0e9dffaf6252fe40a385481
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Duskwalker
+    Content: 
+    AsJson: '{"name":"Duskwalker","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":150,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      treant","with":"Duskwalker","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+    DataHash: abf1495be0e9dffaf6252fe40a385481

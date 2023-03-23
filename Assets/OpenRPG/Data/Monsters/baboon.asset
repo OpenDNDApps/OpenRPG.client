@@ -21,3 +21,15 @@ MonoBehaviour:
     damage."]}],"environment":["forest","hill"],"soundClip":{"type":"internal","path":"bestiary/baboon.mp3"},"traitTags":["Pack
     Tactics"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: bc63d3166c1b9ecc938e6832aef5e8a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baboon
+    Content: 
+    AsJson: '{"name":"Baboon","source":"MM","page":318,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"CM"},{"source":"CoS"},{"source":"WBtW"},{"source":"KftGV"}],"size":["S"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":30,"climb":30},"str":8,"dex":14,"con":11,"int":4,"wis":12,"cha":6,"passive":11,"cr":"0","trait":[{"name":"Pack
+      Tactics","entries":["The baboon has advantage on an attack roll against a creature
+      if at least one of the baboon''s allies is within 5 feet of the creature and
+      the ally isn''t {@condition incapacitated}."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing
+      damage."]}],"environment":["forest","hill"],"soundClip":{"type":"internal","path":"bestiary/baboon.mp3"},"traitTags":["Pack
+      Tactics"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: bc63d3166c1b9ecc938e6832aef5e8a5

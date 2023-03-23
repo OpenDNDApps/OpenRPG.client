@@ -24,3 +24,18 @@ MonoBehaviour:
     longstrider}","{@spell speak with animals}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
     animal messenger}","{@spell barkskin}"]}},"ability":"wis"}],"damageTagsSpell":["F","T"],"spellcastingTags":["CD"],"hasToken":true}'
   DataHash: 70b85aacf73a5dc3083efa8cd4f2d27d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Keeper of the Feather
+    Content: 
+    AsJson: '{"name":"Keeper of the Feather","group":null,"source":"PSI","page":40,"_copy":{"name":"Wereraven","source":"VRGR","_mod":{"*":{"mode":"replaceTxt","replace":"wereraven","with":"keeper"},"action":[{"mode":"replaceArr","replace":"Beak
+      (Raven or Hybrid Form Only)","items":{"name":"Beak (Raven or Hybrid Form Only)","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}1 piercing damage in raven
+      form, or 4 ({@damage 1d4 + 2}) piercing damage in hybrid form."]}}]}},"spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      keeper is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 12}, {@hit 4} to hit with spell attacks). It has the following druid
+      spells prepared:"],"spells":{"0":{"spells":["{@spell druidcraft}","{@spell
+      produce flame}","{@spell shillelagh}"]},"1":{"slots":4,"spells":["{@spell entangle}","{@spell
+      longstrider}","{@spell speak with animals}","{@spell thunderwave}"]},"2":{"slots":3,"spells":["{@spell
+      animal messenger}","{@spell barkskin}"]}},"ability":"wis"}],"damageTagsSpell":["F","T"],"spellcastingTags":["CD"],"hasToken":true}'
+    DataHash: 70b85aacf73a5dc3083efa8cd4f2d27d

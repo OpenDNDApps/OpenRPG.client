@@ -17,3 +17,11 @@ MonoBehaviour:
     thug","with":"Bosco","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
     Equipment","entries":["Bosco wears a {@item ring of animal influence}."]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 828dfc242bdad2dd8ef25ae6152017e6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bosco Daggerhand
+    Content: 
+    AsJson: '{"name":"Bosco Daggerhand","isNpc":true,"source":"ToA","page":68,"_copy":{"name":"Thug","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      thug","with":"Bosco","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Bosco wears a {@item ring of animal influence}."]}}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 828dfc242bdad2dd8ef25ae6152017e6

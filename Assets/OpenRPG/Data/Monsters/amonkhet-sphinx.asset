@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Amonkhet Sphinx
   AsJson: '{"name":"Amonkhet Sphinx","source":"PSA","page":31,"_copy":{"name":"Androsphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 770d450b33164756d6112685233d107a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amonkhet Sphinx
+    Content: 
+    AsJson: '{"name":"Amonkhet Sphinx","source":"PSA","page":31,"_copy":{"name":"Androsphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 770d450b33164756d6112685233d107a

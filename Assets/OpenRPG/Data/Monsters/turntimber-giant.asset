@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Turntimber Giant","source":"PSZ","page":30,"_copy":{"name":"Cloud
     Giant","source":"MM"},"hasToken":true}'
   DataHash: bd30e0b718ece5d1ac891ac0393d439e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Turntimber Giant
+    Content: 
+    AsJson: '{"name":"Turntimber Giant","source":"PSZ","page":30,"_copy":{"name":"Cloud
+      Giant","source":"MM"},"hasToken":true}'
+    DataHash: bd30e0b718ece5d1ac891ac0393d439e

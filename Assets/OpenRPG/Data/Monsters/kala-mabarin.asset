@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kala Mabarin","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":70,"_copy":{"name":"Druid","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     druid","with":"Kala","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 2590092bddbc5e8fd0f87d5decef4ae1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kala Mabarin
+    Content: 
+    AsJson: '{"name":"Kala Mabarin","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":70,"_copy":{"name":"Druid","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      druid","with":"Kala","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 2590092bddbc5e8fd0f87d5decef4ae1

@@ -18,3 +18,12 @@ MonoBehaviour:
     liquid glimmers when agitated."],"lootTables":["Magic Item Table A","Magic Item
     Table B"]}'
   DataHash: 9f7473354ef1b2fbebbff16ae15a7ed9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Greater Healing
+    Content: 
+    AsJson: '{"name":"Potion of Greater Healing","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["You
+      regain {@dice 4d4 + 4} hit points when you drink this potion. The potion''s
+      red liquid glimmers when agitated."],"lootTables":["Magic Item Table A","Magic
+      Item Table B"]}'
+    DataHash: 9f7473354ef1b2fbebbff16ae15a7ed9

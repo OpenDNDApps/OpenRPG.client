@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Scout","source":"OotA","page":191,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Keen Senses","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: a5e1518257389e64095f24ae10b1519b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Scout
+    Content: 
+    AsJson: '{"name":"Drow Scout","source":"OotA","page":191,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Keen Senses","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: a5e1518257389e64095f24ae10b1519b

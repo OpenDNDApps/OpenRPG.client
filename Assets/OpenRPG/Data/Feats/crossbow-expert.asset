@@ -21,6 +21,18 @@ MonoBehaviour:
     weapon, you can use a bonus action to attack with a {@item hand crossbow|phb}
     you are holding."]}]}'
   DataHash: 948d8197a40f4c7e847463d643486f88
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Crossbow Expert
+    Content: 
+    AsJson: '{"name":"Crossbow Expert","source":"PHB","page":165,"entries":["Thanks
+      to extensive practice with the crossbow, you gain the following benefits:",{"type":"list","items":["You
+      ignore the loading quality of crossbows with which you are proficient.","Being
+      within 5 feet of a hostile creature doesn''t impose disadvantage on your ranged
+      attack rolls.","When you use the {@action Attack} action and attack with a
+      one-handed weapon, you can use a bonus action to attack with a {@item hand
+      crossbow|phb} you are holding."]}]}'
+    DataHash: 948d8197a40f4c7e847463d643486f88
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

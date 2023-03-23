@@ -20,3 +20,14 @@ MonoBehaviour:
     damage."]}],"bonus":[{"name":"Cunning Action","entries":["Tarak takes the Dash,
     Disengage, or Hide action."]}],"actionTags":["Multiattack"],"languageTags":["C","DR","TC"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
   DataHash: 831a13594b2dd6464fad33ddf84ae1fa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tarak
+    Content: 
+    AsJson: '{"name":"Tarak","isNpc":true,"isNamedCreature":true,"source":"DoSI","page":47,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"ac":[13],"hp":{"average":27,"formula":"6d8"},"speed":{"walk":30},"str":10,"dex":16,"con":10,"int":12,"wis":14,"cha":16,"skill":{"deception":"+5","insight":"+4","medicine":"+4","nature":"+3"},"passive":12,"languages":["Common","Draconic","Thieves''
+      cant"],"cr":"1","action":[{"name":"Multiattack","entries":["Tarak makes three
+      Dagger attacks."]},{"name":"Dagger","entries":["{@atk mw,rw} {@hit 5} to hit,
+      reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing
+      damage."]}],"bonus":[{"name":"Cunning Action","entries":["Tarak takes the Dash,
+      Disengage, or Hide action."]}],"actionTags":["Multiattack"],"languageTags":["C","DR","TC"],"damageTags":["P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 831a13594b2dd6464fad33ddf84ae1fa

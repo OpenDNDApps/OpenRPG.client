@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jessamine","isNpc":true,"source":"ToA","page":26,"_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Ifan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true,"hasFluffImages":true}'
   DataHash: ace7f73b2652a176829bcce9d7d971bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jessamine
+    Content: 
+    AsJson: '{"name":"Jessamine","isNpc":true,"source":"ToA","page":26,"_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Ifan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: ace7f73b2652a176829bcce9d7d971bb

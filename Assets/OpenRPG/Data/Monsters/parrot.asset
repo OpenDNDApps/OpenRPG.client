@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Parrot
   AsJson: '{"name":"Parrot","source":"PSX","page":39,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"parrot"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 0f8f27d4738662d43a75b96db228898d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Parrot
+    Content: 
+    AsJson: '{"name":"Parrot","source":"PSX","page":39,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"parrot"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 0f8f27d4738662d43a75b96db228898d

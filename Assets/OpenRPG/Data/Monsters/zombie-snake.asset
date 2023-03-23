@@ -20,3 +20,14 @@ MonoBehaviour:
     a critical hit. On a success, the snake drops to 1 hit point instead."]}],"traitTags":["Undead
     Fortitude"],"hasToken":true}'
   DataHash: 565cc9ea5b9789bf2bd2c8119158e436
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zombie Snake
+    Content: 
+    AsJson: '{"name":"Zombie Snake","source":"PSI","page":17,"_copy":{"name":"Poisonous
+      Snake","source":"MM"},"type":"undead","trait":[{"name":"Undead Fortitude","entries":["If
+      damage reduces the snake to 0 hit points, it must make a Constitution saving
+      throw with a DC of 5 + the damage taken, unless the damage is radiant or from
+      a critical hit. On a success, the snake drops to 1 hit point instead."]}],"traitTags":["Undead
+      Fortitude"],"hasToken":true}'
+    DataHash: 565cc9ea5b9789bf2bd2c8119158e436

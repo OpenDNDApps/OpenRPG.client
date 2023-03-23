@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Abyssal","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
     demons|bestiary|tag=demon}"],"script":"Infernal"}'
   DataHash: 21540d22d70c0a40f822e001bf87a7b9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Abyssal
+    Content: 
+    AsJson: '{"name":"Abyssal","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
+      demons|bestiary|tag=demon}"],"script":"Infernal"}'
+    DataHash: 21540d22d70c0a40f822e001bf87a7b9

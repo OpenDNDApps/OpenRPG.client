@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Copper Alms-Coin
   AsJson: '{"name":"Copper Alms-Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":1}'
   DataHash: 3b9238b235b03c11818b386e856bf2d9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper Alms-Coin
+    Content: 
+    AsJson: '{"name":"Copper Alms-Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":1}'
+    DataHash: 3b9238b235b03c11818b386e856bf2d9

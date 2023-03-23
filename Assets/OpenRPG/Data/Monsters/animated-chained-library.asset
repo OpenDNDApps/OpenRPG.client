@@ -24,3 +24,19 @@ MonoBehaviour:
     4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage,
     and if the target is a creature, it is {@condition grappled} (escape {@dc 12})."]}],"senseTags":["B"],"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 20476c0781875a38976e42a21c70018f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Chained Library
+    Content: 
+    AsJson: '{"name":"Animated Chained Library","source":"CM","page":24,"size":["L"],"type":"construct","ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":45,"formula":"6d10 + 12"},"speed":{"walk":10},"str":15,"dex":8,"con":14,"int":1,"wis":5,"cha":1,"senses":["blindsight
+      30 ft. (blind beyond this radius)"],"passive":7,"immune":["poison","psychic"],"conditionImmune":["blinded","charmed","deafened","exhaustion","frightened","paralyzed","petrified","poisoned","prone"],"cr":"1","trait":[{"name":"False
+      Object","entries":["If the library is motionless at the start of combat, it
+      has advantage on its initiative roll. Moreover, if a creature hasn''t observed
+      the library move or act, that creature must succeed on a {@dc 15} Wisdom (Perception)
+      check to discern that the library is animate."]}],"action":[{"name":"Multiattack","entries":["The
+      library makes two attacks."]},{"name":"Chained Book","entries":["{@atk mw}
+      {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning
+      damage, and if the target is a creature, it is {@condition grappled} (escape
+      {@dc 12})."]}],"senseTags":["B"],"actionTags":["Multiattack"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 20476c0781875a38976e42a21c70018f

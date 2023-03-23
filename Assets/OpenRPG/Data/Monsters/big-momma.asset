@@ -17,3 +17,11 @@ MonoBehaviour:
     Scavver","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the scavver","with":"Big
     Momma","flags":"i"}}},"hasToken":true}'
   DataHash: cf5d2900399197a61bb7b997cd813f90
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Big Momma
+    Content: 
+    AsJson: '{"name":"Big Momma","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"LoX","page":29,"_copy":{"name":"Void
+      Scavver","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the scavver","with":"Big
+      Momma","flags":"i"}}},"hasToken":true}'
+    DataHash: cf5d2900399197a61bb7b997cd813f90

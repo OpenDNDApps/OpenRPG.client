@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Homarid","source":"PSD","page":15,"typicalSpeakers":["{@creature
     Homarid|PSD|homarids}"]}'
   DataHash: e871c586708798fe9b177ba5d9ef10b9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Homarid
+    Content: 
+    AsJson: '{"name":"Homarid","source":"PSD","page":15,"typicalSpeakers":["{@creature
+      Homarid|PSD|homarids}"]}'
+    DataHash: e871c586708798fe9b177ba5d9ef10b9

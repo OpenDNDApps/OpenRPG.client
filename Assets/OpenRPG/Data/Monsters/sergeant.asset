@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sergeant
   AsJson: '{"name":"Sergeant","source":"WDH","page":197,"_copy":{"name":"Guard","source":"MM"},"hasToken":true}'
   DataHash: ae3bb8474a1b5cab9542f67b901abe8f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sergeant
+    Content: 
+    AsJson: '{"name":"Sergeant","source":"WDH","page":197,"_copy":{"name":"Guard","source":"MM"},"hasToken":true}'
+    DataHash: ae3bb8474a1b5cab9542f67b901abe8f

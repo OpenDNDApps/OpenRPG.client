@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Scrag
   AsJson: '{"name":"Scrag","source":"TftYP","page":147,"_copy":{"name":"Troll","source":"MM"},"speed":{"walk":30,"swim":30},"hasToken":true}'
   DataHash: 997b65555e56163ec603839cbd7f61c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scrag
+    Content: 
+    AsJson: '{"name":"Scrag","source":"TftYP","page":147,"_copy":{"name":"Troll","source":"MM"},"speed":{"walk":30,"swim":30},"hasToken":true}'
+    DataHash: 997b65555e56163ec603839cbd7f61c7

@@ -17,3 +17,11 @@ MonoBehaviour:
     chil-liren","source":"JttRC","_mod":{"*":{"mode":"replaceTxt","replace":"Nightsea
     chil-liren","with":"Brother Broumane","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
   DataHash: 995952bbf283128231f3e23d374628ea
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brother Broumane
+    Content: 
+    AsJson: '{"name":"Brother Broumane","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":178,"_copy":{"name":"Nightsea
+      chil-liren","source":"JttRC","_mod":{"*":{"mode":"replaceTxt","replace":"Nightsea
+      chil-liren","with":"Brother Broumane","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 995952bbf283128231f3e23d374628ea

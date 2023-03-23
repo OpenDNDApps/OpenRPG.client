@@ -40,3 +40,35 @@ MonoBehaviour:
     the pseudodragon can end its service as a familiar, ending the telepathic bond."]}],"_version":{"addHeadersAs":"trait"}}],"environment":["mountain","forest","hill","urban","desert","coastal"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/pseudodragon.mp3"},"traitTags":["Keen
     Senses","Magic Resistance"],"senseTags":["B","D"],"languageTags":["C","CS","DR"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["poisoned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 2dac06e188bd98dcaad6b7073af2d96a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pseudodragon
+    Content: 
+    AsJson: '{"name":"Pseudodragon","source":"MM","page":254,"srd":true,"otherSources":[{"source":"RoT"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"},{"source":"IDRotF"}],"size":["T"],"type":"dragon","alignment":["N","G"],"ac":[13],"hp":{"average":7,"formula":"2d4
+      + 2"},"speed":{"walk":15,"fly":60},"str":6,"dex":15,"con":13,"int":10,"wis":12,"cha":10,"skill":{"perception":"+3","stealth":"+4"},"senses":["blindsight
+      10 ft.","darkvision 60 ft."],"passive":13,"languages":["understands Common
+      and Draconic but can''t speak"],"cr":"1/4","trait":[{"name":"Keen Senses","entries":["The
+      pseudodragon has advantage on Wisdom ({@skill Perception}) checks that rely
+      on sight, hearing, or smell."]},{"name":"Magic Resistance","entries":["The
+      pseudodragon has advantage on saving throws against spells and other magical
+      effects."]},{"name":"Limited Telepathy","entries":["The pseudodragon can magically
+      communicate simple ideas, emotions, and images telepathically with any creature
+      within 100 feet of it that can understand a language."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+      damage."]},{"name":"Sting","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+      one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage, and the target must
+      succeed on a {@dc 11} Constitution saving throw or become {@condition poisoned}
+      for 1 hour. If the saving throw fails by 5 or more, the target falls {@condition
+      unconscious} for the same duration, or until it takes damage or another creature
+      uses an action to shake it awake."]}],"variant":[{"type":"variant","name":"Pseudodragon
+      Familiar","entries":["Some pseudodragons are willing to serve spellcasters
+      as a familiar. Such pseudodragons have the following trait.",{"name":"Familiar","type":"entries","entries":["The
+      pseudodragon can serve another creature as a familiar, forming a magic, telepathic
+      bond with that willing companion. While the two are bonded, the companion can
+      sense what the pseudodragon senses as long as they are within 1 mile of each
+      other. While the pseudodragon is within 10 feet of its companion, the companion
+      shares the pseudodragon''s Magic Resistance trait. At any time and for any
+      reason, the pseudodragon can end its service as a familiar, ending the telepathic
+      bond."]}],"_version":{"addHeadersAs":"trait"}}],"environment":["mountain","forest","hill","urban","desert","coastal"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/pseudodragon.mp3"},"traitTags":["Keen
+      Senses","Magic Resistance"],"senseTags":["B","D"],"languageTags":["C","CS","DR"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["poisoned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 2dac06e188bd98dcaad6b7073af2d96a

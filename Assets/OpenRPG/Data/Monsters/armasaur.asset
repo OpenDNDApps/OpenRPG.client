@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Armasaur
   AsJson: '{"name":"Armasaur","source":"PSX","page":28,"_copy":{"name":"Stegosaurus","source":"VGM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 368c2bf5f3c39f7d72c4c6505f28c764
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Armasaur
+    Content: 
+    AsJson: '{"name":"Armasaur","source":"PSX","page":28,"_copy":{"name":"Stegosaurus","source":"VGM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 368c2bf5f3c39f7d72c4c6505f28c764

@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"entries":["Allows an attuned wearer to ignore Undermountain''s
     magical restrictions (see \"Alterations to Magic\")."]}'
   DataHash: a6b8bad0a45c22669d0f74674c6c3a6f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Horned Ring
+    Content: 
+    AsJson: '{"name":"Horned Ring","source":"WDMM","page":108,"type":"RG","rarity":"very
+      rare","reqAttune":true,"entries":["Allows an attuned wearer to ignore Undermountain''s
+      magical restrictions (see \"Alterations to Magic\")."]}'
+    DataHash: a6b8bad0a45c22669d0f74674c6c3a6f

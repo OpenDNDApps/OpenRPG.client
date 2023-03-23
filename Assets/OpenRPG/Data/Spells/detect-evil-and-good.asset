@@ -21,3 +21,15 @@ MonoBehaviour:
     barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin
     sheet of lead, or 3 feet of wood or dirt."],"affectsCreatureType":["aberration","celestial","elemental","fey","fiend","undead"]}'
   DataHash: 506e6f1f8022adc5d8b24cc08428c9fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Detect Evil and Good
+    Content: 
+    AsJson: '{"name":"Detect Evil and Good","source":"PHB","page":231,"srd":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["For
+      the duration, you know if there is an aberration, celestial, elemental, fey,
+      fiend, or undead within 30 feet of you, as well as where the creature is located.
+      Similarly, you know if there is a place or object within 30 feet of you that
+      has been magically consecrated or desecrated.","The spell can penetrate most
+      barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin
+      sheet of lead, or 3 feet of wood or dirt."],"affectsCreatureType":["aberration","celestial","elemental","fey","fiend","undead"]}'
+    DataHash: 506e6f1f8022adc5d8b24cc08428c9fe

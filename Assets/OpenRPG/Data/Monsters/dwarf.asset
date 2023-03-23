@@ -18,3 +18,12 @@ MonoBehaviour:
     and they have resistance to poison damage."]}],"action":[{"name":"Shortbow","entries":["{@atk
     mw} {@hit 3} to hit, one target. {@h}4 ({@damage 1d6 + 1}) slashing damage."]}],"damageTags":["S"],"miscTags":["MW","RNG"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 5dd08b185b45086c51cdac5d94ae1c73
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dwarf
+    Content: 
+    AsJson: '{"name":"Dwarf","source":"AWM","page":32,"size":["M"],"type":{"type":"humanoid","tags":["Dwarf"]},"alignment":["L","G"],"ac":[10],"hp":{"special":"30"},"speed":{"walk":25},"str":16,"dex":13,"con":14,"int":10,"wis":11,"cha":10,"passive":0,"cr":"1/4","trait":[{"name":"Dwarven
+      Resilience","entries":["They have advantage on saving throws against poison,
+      and they have resistance to poison damage."]}],"action":[{"name":"Shortbow","entries":["{@atk
+      mw} {@hit 3} to hit, one target. {@h}4 ({@damage 1d6 + 1}) slashing damage."]}],"damageTags":["S"],"miscTags":["MW","RNG"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 5dd08b185b45086c51cdac5d94ae1c73

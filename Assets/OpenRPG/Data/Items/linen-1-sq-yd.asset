@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Linen (1 sq. yd.)
   AsJson: '{"name":"Linen (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":500}'
   DataHash: 742ef08aa69f12b7c822a46b12b3f351
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Linen (1 sq. yd.)
+    Content: 
+    AsJson: '{"name":"Linen (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":500}'
+    DataHash: 742ef08aa69f12b7c822a46b12b3f351

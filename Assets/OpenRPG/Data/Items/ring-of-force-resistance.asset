@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Force Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["force"],"detail1":"sapphire","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 478348982475a6183dd427cc403e6c4c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Force Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Force Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["force"],"detail1":"sapphire","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 478348982475a6183dd427cc403e6c4c

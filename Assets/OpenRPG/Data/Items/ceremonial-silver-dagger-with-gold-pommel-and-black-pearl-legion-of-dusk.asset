@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ceremonial silver dagger with gold pommel and black pearl (Legion
     of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: e152029c33b647e95829224653347651
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ceremonial silver dagger with gold pommel and black pearl (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Ceremonial silver dagger with gold pommel and black pearl (Legion
+      of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: e152029c33b647e95829224653347651

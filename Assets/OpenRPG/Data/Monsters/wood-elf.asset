@@ -18,3 +18,12 @@ MonoBehaviour:
     elf"}}},"alignment":["C","G"],"languages":["Common","Elvish"],"traitTags":["Fey
     Ancestry","Keen Senses"],"senseTags":["D"],"languageTags":["C","E"],"hasToken":true}'
   DataHash: a56f6629d2fadb6650d5cf1e61867c12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wood Elf
+    Content: 
+    AsJson: '{"name":"Wood Elf","source":"SKT","page":28,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Wood
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"scout","with":"wood
+      elf"}}},"alignment":["C","G"],"languages":["Common","Elvish"],"traitTags":["Fey
+      Ancestry","Keen Senses"],"senseTags":["D"],"languageTags":["C","E"],"hasToken":true}'
+    DataHash: a56f6629d2fadb6650d5cf1e61867c12

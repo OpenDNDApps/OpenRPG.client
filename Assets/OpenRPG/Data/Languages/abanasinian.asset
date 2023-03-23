@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Abanasinian
   AsJson: '{"name":"Abanasinian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Abanasinia"],"script":"Common"}'
   DataHash: 35bbb28b6784a0ad8daab0a7869c17a0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Abanasinian
+    Content: 
+    AsJson: '{"name":"Abanasinian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Abanasinia"],"script":"Common"}'
+    DataHash: 35bbb28b6784a0ad8daab0a7869c17a0

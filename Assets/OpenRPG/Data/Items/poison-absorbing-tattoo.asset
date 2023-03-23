@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 8da1f6611232f28579fca811e6cc41b2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Poison Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Poison Absorbing Tattoo","source":"TCE","page":119,"resist":["poison"],"detail1":"violet","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 8da1f6611232f28579fca811e6cc41b2

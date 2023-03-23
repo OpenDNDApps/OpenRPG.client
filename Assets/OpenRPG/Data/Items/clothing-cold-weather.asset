@@ -19,3 +19,13 @@ MonoBehaviour:
     long as cold weather clothing remains dry, its wearer automatically succeeds
     on saving throws against the effects of {@hazard extreme cold}."]}'
   DataHash: 4abfbd1d7dd8c7810e00ce5024237300
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Clothing, cold weather
+    Content: 
+    AsJson: '{"name":"Clothing, cold weather","source":"IDRotF","page":20,"type":"G","rarity":"none","weight":5,"value":1000,"entries":["This
+      outfit consists of a heavy fur coat or cloak over layers of wool clothing,
+      as well as a fur-lined hat or hood, goggles, and fur-lined leather boots and
+      gloves.","As long as cold weather clothing remains dry, its wearer automatically
+      succeeds on saving throws against the effects of {@hazard extreme cold}."]}'
+    DataHash: 4abfbd1d7dd8c7810e00ce5024237300

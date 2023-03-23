@@ -18,3 +18,13 @@ MonoBehaviour:
     within the multicultural cities of the Clovis Concord. Even sailors who only
     speak Common incorporate dozens of Naush words into their nautical jargon."]}'
   DataHash: 9f6916c0950f9d22de24ce712308c1d5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Naush
+    Content: 
+    AsJson: '{"name":"Naush","source":"EGW","page":9,"entries":["Originally spoken
+      by the Ki''Nau islanders native to the Menagerie Coast, Naush is a thriving
+      language within the multicultural cities of the Clovis Concord. Even sailors
+      who only speak Common incorporate dozens of Naush words into their nautical
+      jargon."]}'
+    DataHash: 9f6916c0950f9d22de24ce712308c1d5

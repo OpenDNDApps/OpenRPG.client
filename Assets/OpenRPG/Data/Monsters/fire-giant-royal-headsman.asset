@@ -19,3 +19,13 @@ MonoBehaviour:
     +2","entries":["{@atk mw} {@hit 13} to hit, reach 10 ft., one target. {@h}28
     ({@damage 3d12 + 9}) slashing damage."]}}]}},"hasToken":true}'
   DataHash: 46524a32c7dd7b3727869e750b0c30bc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fire Giant Royal Headsman
+    Content: 
+    AsJson: '{"name":"Fire Giant Royal Headsman","source":"TftYP","page":201,"_copy":{"name":"Fire
+      Giant","source":"MM","_mod":{"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      giant makes two greataxe attacks."]}},{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Greataxe
+      +2","entries":["{@atk mw} {@hit 13} to hit, reach 10 ft., one target. {@h}28
+      ({@damage 3d12 + 9}) slashing damage."]}}]}},"hasToken":true}'
+    DataHash: 46524a32c7dd7b3727869e750b0c30bc

@@ -17,3 +17,11 @@ MonoBehaviour:
     backpack can hold one cubic foot or 30 pounds of gear. You can also strap items,
     such as a bedroll or a coil of rope, to the outside of a backpack."],"containerCapacity":{"weight":[30]}}'
   DataHash: 66ee9aa507bfd821765b7daa36bcc9da
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Backpack
+    Content: 
+    AsJson: '{"name":"Backpack","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":200,"entries":["A
+      backpack can hold one cubic foot or 30 pounds of gear. You can also strap items,
+      such as a bedroll or a coil of rope, to the outside of a backpack."],"containerCapacity":{"weight":[30]}}'
+    DataHash: 66ee9aa507bfd821765b7daa36bcc9da

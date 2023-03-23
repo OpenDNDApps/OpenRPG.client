@@ -19,3 +19,14 @@ MonoBehaviour:
     can''t fall more than 25 feet from the point where you anchored yourself, and
     you can''t climb more than 25 feet away from that point without undoing the anchor."]}'
   DataHash: b56a343e7740793ebefe3340f0de47a8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Climber's Kit
+    Content: 
+    AsJson: '{"name":"Climber''s Kit","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":12,"value":2500,"entries":["A
+      climber''s kit includes special pitons, boot tips, gloves, and a harness. You
+      can use the climber''s kit as an action to anchor yourself; when you do, you
+      can''t fall more than 25 feet from the point where you anchored yourself, and
+      you can''t climb more than 25 feet away from that point without undoing the
+      anchor."]}'
+    DataHash: b56a343e7740793ebefe3340f0de47a8

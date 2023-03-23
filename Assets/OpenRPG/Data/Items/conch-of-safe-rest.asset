@@ -19,3 +19,13 @@ MonoBehaviour:
     Leomund''s tiny hut} spell. The conch disappears once the spell takes effect.
     The effect ends if you leave the spell''s area."]}'
   DataHash: ae1a6296ab9bbe42c991a40b13740ce9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Conch of Safe Rest
+    Content: 
+    AsJson: '{"name":"Conch of Safe Rest","source":"TTP","page":17,"type":"OTH","rarity":"unknown
+      (magic)","weight":2,"entries":["You can use an action to blow this pearlescent
+      conch like a {@item horn|PHB}, creating an effect identical with that of a
+      {@spell Leomund''s tiny hut} spell. The conch disappears once the spell takes
+      effect. The effect ends if you leave the spell''s area."]}'
+    DataHash: ae1a6296ab9bbe42c991a40b13740ce9

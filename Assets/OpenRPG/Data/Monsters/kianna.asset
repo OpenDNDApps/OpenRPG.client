@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kianna","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":42,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     commoner","with":"Kianna","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 7fc13c88d61bb0a3e4eae2b38632b977
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kianna
+    Content: 
+    AsJson: '{"name":"Kianna","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":42,"_copy":{"name":"Commoner","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      commoner","with":"Kianna","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 7fc13c88d61bb0a3e4eae2b38632b977

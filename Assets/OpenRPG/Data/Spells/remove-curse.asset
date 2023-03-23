@@ -18,3 +18,12 @@ MonoBehaviour:
     a cursed magic item, its curse remains, but the spell breaks its owner''s attunement
     to the object so it can be removed or discarded."],"miscTags":["OBJ"],"areaTags":["ST"]}'
   DataHash: f6e9cc5b15a3316835a955cd03689659
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Remove Curse
+    Content: 
+    AsJson: '{"name":"Remove Curse","source":"PHB","page":271,"srd":true,"basicRules":true,"level":3,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["At
+      your touch, all curses affecting one creature or object end. If the object
+      is a cursed magic item, its curse remains, but the spell breaks its owner''s
+      attunement to the object so it can be removed or discarded."],"miscTags":["OBJ"],"areaTags":["ST"]}'
+    DataHash: f6e9cc5b15a3316835a955cd03689659

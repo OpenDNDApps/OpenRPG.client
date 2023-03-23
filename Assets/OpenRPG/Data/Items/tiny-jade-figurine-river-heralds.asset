@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Tiny jade figurine (River Heralds)
   AsJson: '{"name":"Tiny jade figurine (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: 52c18a885a7030c10815bb4b05c00f25
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tiny jade figurine (River Heralds)
+    Content: 
+    AsJson: '{"name":"Tiny jade figurine (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: 52c18a885a7030c10815bb4b05c00f25

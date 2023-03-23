@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Ettercap","source":"TftYP","page":113,"_copy":{"name":"Ettercap","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"damageTags":["I","P","S"],"hasToken":true}'
   DataHash: 8bc1fb2ef1474ddf7cb5b777c2818f7f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Ettercap
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Ettercap","source":"TftYP","page":113,"_copy":{"name":"Ettercap","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"damageTags":["I","P","S"],"hasToken":true}'
+    DataHash: 8bc1fb2ef1474ddf7cb5b777c2818f7f

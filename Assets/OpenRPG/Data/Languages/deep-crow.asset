@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Deep Crow","source":"AI","page":210,"typicalSpeakers":["{@creature
     Deep Crow|AI|deep crows}"]}'
   DataHash: 2ece0ee12b2d4e2551e6af382e74e681
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Deep Crow
+    Content: 
+    AsJson: '{"name":"Deep Crow","source":"AI","page":210,"typicalSpeakers":["{@creature
+      Deep Crow|AI|deep crows}"]}'
+    DataHash: 2ece0ee12b2d4e2551e6af382e74e681

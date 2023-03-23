@@ -20,3 +20,15 @@ MonoBehaviour:
     can pinpoint, by scent, the location of precious metals and stones, such as coins
     and gems, within 60 feet of her."]}]}}},"ac":[{"ac":19,"from":["natural armor"]}],"languages":["Common","Primordial"],"languageTags":["C","P"],"hasToken":true}'
   DataHash: ba2c50ce2758203c0527a9182e0edb37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Seodra
+    Content: 
+    AsJson: '{"name":"Seodra","isNpc":true,"source":"IMR","page":41,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Seodra","flags":"i"},"trait":{"mode":"appendArr","items":[{"name":"Earth
+      Walk","entries":["Seodra can move across {@quickref difficult terrain||3} made
+      of earth or stone without expending extra movement."]},{"name":"Treasure Sense","entries":["Seodra
+      can pinpoint, by scent, the location of precious metals and stones, such as
+      coins and gems, within 60 feet of her."]}]}}},"ac":[{"ac":19,"from":["natural
+      armor"]}],"languages":["Common","Primordial"],"languageTags":["C","P"],"hasToken":true}'
+    DataHash: ba2c50ce2758203c0527a9182e0edb37

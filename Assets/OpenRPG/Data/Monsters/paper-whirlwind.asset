@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Paper Whirlwind","source":"RoT","page":72,"otherSources":[{"source":"ToD","page":158}],"_copy":{"name":"Swarm
     of Ravens","source":"MM"},"type":{"type":"construct","swarmSize":"T"},"vulnerable":["fire"],"hasToken":true}'
   DataHash: 23f1f4cbb32d1e3ba6d86ae2f5ef17e9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Paper Whirlwind
+    Content: 
+    AsJson: '{"name":"Paper Whirlwind","source":"RoT","page":72,"otherSources":[{"source":"ToD","page":158}],"_copy":{"name":"Swarm
+      of Ravens","source":"MM"},"type":{"type":"construct","swarmSize":"T"},"vulnerable":["fire"],"hasToken":true}'
+    DataHash: 23f1f4cbb32d1e3ba6d86ae2f5ef17e9

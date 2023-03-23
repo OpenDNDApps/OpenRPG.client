@@ -17,3 +17,11 @@ MonoBehaviour:
     Bronze Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     dragon","with":"Felgolos","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 30f2d4771bc5501f923dc4d5306e47b0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Felgolos
+    Content: 
+    AsJson: '{"name":"Felgolos","isNpc":true,"isNamedCreature":true,"source":"SKT","page":192,"_copy":{"name":"Adult
+      Bronze Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dragon","with":"Felgolos","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 30f2d4771bc5501f923dc4d5306e47b0

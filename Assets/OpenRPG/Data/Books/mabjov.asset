@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: mabjov
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Minsc and Boo's Journal of Villainy
   AsJson: '{"name":"Minsc and Boo''s Journal of Villainy","id":"MaBJoV","source":"MaBJoV","group":"supplement-alt","coverUrl":"img/covers/MaBJoV.png","published":"2021-10-05","author":"Wizards
     RPG Team","contents":[{"name":"Preface"},{"name":"Heroic Stories","headers":["Hometowns","Group
     Patrons","Campaign Villains"]},{"name":"Hometowns","headers":["Athkatla","Baldur''s
@@ -22,6 +22,19 @@ MonoBehaviour:
     Circle","Shadow Thieves"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Campaign
     Villains","ordinal":{"type":"chapter","identifier":3}},{"name":"Henchmen","ordinal":{"type":"chapter","identifier":4}},{"name":"Monsters","ordinal":{"type":"chapter","identifier":5}}]}'
   DataHash: b97400033066910be284d1b1a24388d8
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Minsc and Boo''s Journal of Villainy","id":"MaBJoV","source":"MaBJoV","group":"supplement-alt","coverUrl":"img/covers/MaBJoV.png","published":"2021-10-05","author":"Wizards
+      RPG Team","contents":[{"name":"Preface"},{"name":"Heroic Stories","headers":["Hometowns","Group
+      Patrons","Campaign Villains"]},{"name":"Hometowns","headers":["Athkatla","Baldur''s
+      Gate","Suldanessellar","Ust Natha"],"ordinal":{"type":"chapter","identifier":1}},{"name":"Group
+      Patrons","headers":["Adventurer''s Guild","Candlekeep","Church of Sune","Emerald
+      Enclave","Flaming Fist","Harpers","Knights of Bahamut","Order of Icarus","Raven
+      Circle","Shadow Thieves"],"ordinal":{"type":"chapter","identifier":2}},{"name":"Campaign
+      Villains","ordinal":{"type":"chapter","identifier":3}},{"name":"Henchmen","ordinal":{"type":"chapter","identifier":4}},{"name":"Monsters","ordinal":{"type":"chapter","identifier":5}}]}'
+    DataHash: b97400033066910be284d1b1a24388d8
+  CoverURL: img/covers/MaBJoV.png
+  Published: 2021-10-05
+  Author: Wizards RPG Team

@@ -21,3 +21,15 @@ MonoBehaviour:
     whether you are lying. Creatures can communicate telepathically with you only
     if you allow it."]}]}'
   DataHash: fd313f09c4377e7c9f1d0576f93c0ac9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Knave's Eye Patch
+    Content: 
+    AsJson: '{"name":"Knave''s Eye Patch","source":"WDH","page":191,"rarity":"rare","reqAttune":true,"wondrous":true,"entries":["While
+      wearing this eye patch, you gain these benefits:",{"type":"list","items":["You
+      have advantage on Wisdom ({@skill Perception}) checks that rely on sight.","If
+      you have the Sunlight Sensitivity trait, you are unaffected by the trait.","You
+      are immune to magic that allows other creatures to read your thoughts or determine
+      whether you are lying. Creatures can communicate telepathically with you only
+      if you allow it."]}]}'
+    DataHash: fd313f09c4377e7c9f1d0576f93c0ac9

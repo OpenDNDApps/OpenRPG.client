@@ -21,3 +21,15 @@ MonoBehaviour:
     requiring no material components:"],"will":["{@spell dancing lights}"],"ability":"int"}],"traitTags":["Fey
     Ancestry","Sneak Attack"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
   DataHash: bdb131de061f1b408966fb5f659d4bc9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Khalessa Draga
+    Content: 
+    AsJson: '{"name":"Khalessa Draga","isNpc":true,"source":"OotA","page":149,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Khalessa","flags":"i"},"languages":{"mode":"appendIfNotExistsArr","items":"Undercommon"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Khalessa owns a {@item hat of disguise}, which she uses
+      to appear as a female drow while in the company of drow."]}}}},"alignment":["N"],"spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["Khalessa can innately cast the following spell,
+      requiring no material components:"],"will":["{@spell dancing lights}"],"ability":"int"}],"traitTags":["Fey
+      Ancestry","Sneak Attack"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: bdb131de061f1b408966fb5f659d4bc9

@@ -19,3 +19,13 @@ MonoBehaviour:
     DC 11 Constitution saving throw, taking 10 ({@damage 3d6}) poison damage on a
     failed save, or half as much damage on a successful one."],"poisonTypes":["injury"]}'
   DataHash: 77923aefb907a199ff1de4b3afbd6ade
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Serpent Venom
+    Content: 
+    AsJson: '{"name":"Serpent Venom","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":20000,"poison":true,"entries":["This
+      poison must be harvested from a dead or {@condition incapacitated} {@creature
+      giant poisonous snake}. A creature subjected to this poison must succeed on
+      a DC 11 Constitution saving throw, taking 10 ({@damage 3d6}) poison damage
+      on a failed save, or half as much damage on a successful one."],"poisonTypes":["injury"]}'
+    DataHash: 77923aefb907a199ff1de4b3afbd6ade

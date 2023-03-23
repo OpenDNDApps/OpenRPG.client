@@ -19,3 +19,13 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 0f23f5e9112f3aceba4e2e7393a434c8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brooch of Shielding
+    Content: 
+    AsJson: '{"name":"Brooch of Shielding","source":"DMG","page":156,"srd":true,"resist":["force"],"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+      wearing this brooch, you have resistance to force damage, and you have immunity
+      to damage from the {@spell magic missile} spell."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 0f23f5e9112f3aceba4e2e7393a434c8

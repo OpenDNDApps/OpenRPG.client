@@ -17,3 +17,11 @@ MonoBehaviour:
     ghost","with":"Thorn","flags":"i"},"action":{"mode":"removeArr","names":"Horrifying
     Visage"}}},"size":["S"],"alignment":["L","G"],"hp":{"average":35,"formula":"10d6"},"languages":["Common"],"cr":"3","languageTags":["C"],"hasToken":true,"hasFluffImages":true}'
   DataHash: d93ba8f7e96076f71e6936cd520d4055
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thornboldt "Thorn" Durst
+    Content: 
+    AsJson: '{"name":"Thornboldt \"Thorn\" Durst","isNpc":true,"source":"CoS","page":217,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Thorn","flags":"i"},"action":{"mode":"removeArr","names":"Horrifying
+      Visage"}}},"size":["S"],"alignment":["L","G"],"hp":{"average":35,"formula":"10d6"},"languages":["Common"],"cr":"3","languageTags":["C"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: d93ba8f7e96076f71e6936cd520d4055

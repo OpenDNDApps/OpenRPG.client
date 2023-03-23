@@ -17,3 +17,11 @@ MonoBehaviour:
     House Captain","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the
     drow","with":"Zress","flags":"i"}}},"hasToken":true}'
   DataHash: 534309e656362434fe9ff1b6cacee66f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zress Orlezziir
+    Content: 
+    AsJson: '{"name":"Zress Orlezziir","isNpc":true,"source":"WDMM","page":136,"_copy":{"name":"Drow
+      House Captain","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Zress","flags":"i"}}},"hasToken":true}'
+    DataHash: 534309e656362434fe9ff1b6cacee66f

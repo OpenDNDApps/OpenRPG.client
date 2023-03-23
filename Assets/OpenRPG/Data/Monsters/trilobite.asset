@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Trilobite
   AsJson: '{"name":"Trilobite","source":"PSX","page":40,"_copy":{"name":"Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crab","with":"trilobite"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 0a9ed213173966aed7f17d801b6a1f9a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Trilobite
+    Content: 
+    AsJson: '{"name":"Trilobite","source":"PSX","page":40,"_copy":{"name":"Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crab","with":"trilobite"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 0a9ed213173966aed7f17d801b6a1f9a

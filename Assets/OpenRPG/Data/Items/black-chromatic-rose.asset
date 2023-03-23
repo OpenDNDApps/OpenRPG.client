@@ -17,3 +17,11 @@ MonoBehaviour:
     acid","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
     Chromatic Rose|WBtW}"]}'
   DataHash: da092171355e91288e90c1477a449982
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Chromatic Rose
+    Content: 
+    AsJson: '{"name":"Black Chromatic Rose","source":"WBtW","page":208,"resist":["acid"],"detail1":"drips
+      acid","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
+      Chromatic Rose|WBtW}"]}'
+    DataHash: da092171355e91288e90c1477a449982

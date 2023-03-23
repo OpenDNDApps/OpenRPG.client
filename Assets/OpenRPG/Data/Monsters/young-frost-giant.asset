@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Young Frost Giant
   AsJson: '{"name":"Young Frost Giant","source":"TftYP","page":187,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant","flags":"i"}}},"immune":["cold"],"hasToken":true}'
   DataHash: d3f360698b468a8804138fdba8599954
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Frost Giant
+    Content: 
+    AsJson: '{"name":"Young Frost Giant","source":"TftYP","page":187,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant","flags":"i"}}},"immune":["cold"],"hasToken":true}'
+    DataHash: d3f360698b468a8804138fdba8599954

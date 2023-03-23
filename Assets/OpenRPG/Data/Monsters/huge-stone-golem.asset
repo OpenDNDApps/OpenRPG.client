@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Huge Stone Golem","source":"SKT","page":153,"_copy":{"name":"Stone
     Golem","source":"MM"},"size":["H"],"hp":{"average":195,"formula":"17d12 + 85"},"hasToken":true}'
   DataHash: 743f1266028c10043711e97bd39dad93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Huge Stone Golem
+    Content: 
+    AsJson: '{"name":"Huge Stone Golem","source":"SKT","page":153,"_copy":{"name":"Stone
+      Golem","source":"MM"},"size":["H"],"hp":{"average":195,"formula":"17d12 + 85"},"hasToken":true}'
+    DataHash: 743f1266028c10043711e97bd39dad93

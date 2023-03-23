@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jade","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     translucent light green, deep green, or white gemstone."]}'
   DataHash: 4c21e279d874033a3868f97ff6b862e6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade
+    Content: 
+    AsJson: '{"name":"Jade","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      translucent light green, deep green, or white gemstone."]}'
+    DataHash: 4c21e279d874033a3868f97ff6b862e6

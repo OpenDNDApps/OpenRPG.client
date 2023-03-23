@@ -25,3 +25,19 @@ MonoBehaviour:
     is reduced to 0 hit points, the spell ends on both. If the spell ends on one
     creature, it ends on both."],"savingThrow":["constitution"],"miscTags":["SGT"],"areaTags":["MT"]}'
   DataHash: 95cd835c370d496aff146b8bd591895e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tether Essence
+    Content: 
+    AsJson: '{"name":"Tether Essence","source":"EGW","page":189,"level":7,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"a
+      spool of platinum cord worth at least 250 gp, which the spell consumes","cost":25000,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["Two
+      creatures you can see within range must make a Constitution saving throw, with
+      disadvantage if they are within 30 feet of each other. Either creature can
+      willingly fail the save. If either save succeeds, the spell has no effect.
+      If both saves fail, the creatures are magically linked for the duration, regardless
+      of the distance between them. When damage is dealt to one of them, the same
+      damage is dealt to the other one. If hit points are restored to one of them,
+      the same number of hit points are restored to the other one. If either of the
+      tethered creatures is reduced to 0 hit points, the spell ends on both. If the
+      spell ends on one creature, it ends on both."],"savingThrow":["constitution"],"miscTags":["SGT"],"areaTags":["MT"]}'
+    DataHash: 95cd835c370d496aff146b8bd591895e

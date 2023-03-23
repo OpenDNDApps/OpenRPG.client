@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Young Purple Worm","source":"PotA","page":113,"_copy":{"name":"Purple
     Worm","source":"MM"},"hp":{"average":184,"formula":"15d20 + 90"},"cr":"13","hasToken":true}'
   DataHash: 5653f7e543992b2226be1e661fa35e61
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Purple Worm
+    Content: 
+    AsJson: '{"name":"Young Purple Worm","source":"PotA","page":113,"_copy":{"name":"Purple
+      Worm","source":"MM"},"hp":{"average":184,"formula":"15d20 + 90"},"cr":"13","hasToken":true}'
+    DataHash: 5653f7e543992b2226be1e661fa35e61

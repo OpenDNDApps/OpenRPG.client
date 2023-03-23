@@ -18,3 +18,12 @@ MonoBehaviour:
     roll with a 15. Additionally, no matter what you say, magic that would determine
     if you are telling the truth indicates that you are being truthful."]}'
   DataHash: f5a8fd7db8bb76dfc0a1d9d270654310
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Glibness
+    Content: 
+    AsJson: '{"name":"Glibness","source":"PHB","page":245,"srd":true,"level":8,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["Until
+      the spell ends, when you make a Charisma check, you can replace the number
+      you roll with a 15. Additionally, no matter what you say, magic that would
+      determine if you are telling the truth indicates that you are being truthful."]}'
+    DataHash: f5a8fd7db8bb76dfc0a1d9d270654310

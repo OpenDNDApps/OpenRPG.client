@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: merfolk-ixalan
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Merfolk (Ixalan)
   AsJson: '{"name":"Merfolk (Ixalan)","source":"PSX","page":12,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"cha":1}],"age":{"mature":20,"max":100},"traitTags":["Amphibious"],"languageProficiencies":[{"common":true,"other":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Merfolk
     mature at the same rate humans do and reach adulthood around the age of 20. They
     live considerably longer than humans, though, often reaching well over 100 years."]},{"name":"Alignment","type":"entries","entries":["Most
@@ -24,3 +24,19 @@ MonoBehaviour:
     can speak, read, and write Common (if it exists in your campaign), Merfolk, and
     one additional language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
   DataHash: af460b7d4ef955965a2e363b2d6a9852
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Merfolk (Ixalan)","source":"PSX","page":12,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"cha":1}],"age":{"mature":20,"max":100},"traitTags":["Amphibious"],"languageProficiencies":[{"common":true,"other":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Merfolk
+      mature at the same rate humans do and reach adulthood around the age of 20.
+      They live considerably longer than humans, though, often reaching well over
+      100 years."]},{"name":"Alignment","type":"entries","entries":["Most merfolk
+      are neutral, living in close harmony with nature."]},{"type":"entries","name":"Size","entries":["Merfolk
+      are significantly taller than most humans, standing between seven and eight
+      feet tall and averaging about 300 pounds. Your size is Medium."]},{"name":"Amphibious","entries":["You
+      can breathe air and water."],"type":"entries"},{"name":"Swimming","entries":["You
+      have a swimming speed of 30 feet."],"type":"entries"},{"name":"Languages","entries":["You
+      can speak, read, and write Common (if it exists in your campaign), Merfolk,
+      and one additional language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
+    DataHash: af460b7d4ef955965a2e363b2d6a9852

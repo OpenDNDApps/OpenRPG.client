@@ -24,3 +24,18 @@ MonoBehaviour:
     spike growth}"]},"3":{"slots":2,"spells":["{@spell animate dead}","{@spell conjure
     animals} (reptiles only)"]}},"ability":"wis"}],"hasToken":true,"hasFluffImages":true}'
   DataHash: c36996cd36b1d6ba7ddf525800b9d2b8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skr'a S'orsk
+    Content: 
+    AsJson: '{"name":"Skr''a S''orsk","isNpc":true,"source":"EGW","page":254,"_copy":{"name":"Lizardfolk
+      Shaman","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the lizardfolk","with":"Skr''a
+      S''orsk"}}},"spellcasting":[{"name":"Spellcasting (Lizardfolk Form Only)","headerEntries":["Skr''a
+      S''orsk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 12}, {@hit 4} to hit with spell attacks). Skr''a S''orsk has the
+      following druid spells prepared:"],"spells":{"0":{"spells":["{@spell produce
+      flame}","{@spell resistance}","{@spell thorn whip}"]},"1":{"slots":4,"spells":["{@spell
+      entangle}","{@spell fog cloud}"]},"2":{"slots":3,"spells":["{@spell blindness/deafness}","{@spell
+      spike growth}"]},"3":{"slots":2,"spells":["{@spell animate dead}","{@spell
+      conjure animals} (reptiles only)"]}},"ability":"wis"}],"hasToken":true,"hasFluffImages":true}'
+    DataHash: c36996cd36b1d6ba7ddf525800b9d2b8

@@ -17,3 +17,11 @@ MonoBehaviour:
     Susceptibility","entries":["The puppet is destroyed if a successful {@spell dispel
     magic} spell ({@dc 15}) is cast on it"]}],"traitTags":["Antimagic Susceptibility"],"languageTags":["C"],"hasToken":true}'
   DataHash: b516f25a329704c2c8a1a7d858772576
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Halaster Puppet
+    Content: 
+    AsJson: '{"name":"Halaster Puppet","isNpc":true,"source":"WDMM","page":31,"size":["M"],"type":"construct","alignment":["N"],"ac":[10],"hp":{"special":"8"},"speed":{"walk":20},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"immune":["poison","psychic"],"conditionImmune":["frightened","exhaustion"],"languages":["Common"],"trait":[{"name":"Antimagic
+      Susceptibility","entries":["The puppet is destroyed if a successful {@spell
+      dispel magic} spell ({@dc 15}) is cast on it"]}],"traitTags":["Antimagic Susceptibility"],"languageTags":["C"],"hasToken":true}'
+    DataHash: b516f25a329704c2c8a1a7d858772576

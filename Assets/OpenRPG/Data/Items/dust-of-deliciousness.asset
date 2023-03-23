@@ -19,3 +19,13 @@ MonoBehaviour:
     with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws
     for 1 hour. There is enough dust to flavor six servings."]}'
   DataHash: 913dada236d0c6b8840f7a04be20d5e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dust of Deliciousness
+    Content: 
+    AsJson: '{"name":"Dust of Deliciousness","source":"EGW","page":267,"rarity":"uncommon","wondrous":true,"entries":["This
+      reddish brown dust can be sprinkled over any edible substance to greatly improve
+      the flavor. The dust also dulls the eater''s senses: anyone eating food treated
+      with this dust has disadvantage on Wisdom ability checks and Wisdom saving
+      throws for 1 hour. There is enough dust to flavor six servings."]}'
+    DataHash: 913dada236d0c6b8840f7a04be20d5e0

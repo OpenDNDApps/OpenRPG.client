@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bullywug","source":"MM","page":35,"typicalSpeakers":["{@creature
     Bullywug||bullywugs}"]}'
   DataHash: 59dfd934606f304c4151692b1a83c619
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bullywug
+    Content: 
+    AsJson: '{"name":"Bullywug","source":"MM","page":35,"typicalSpeakers":["{@creature
+      Bullywug||bullywugs}"]}'
+    DataHash: 59dfd934606f304c4151692b1a83c619

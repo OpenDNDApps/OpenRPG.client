@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Nundro Rockseeker","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":50,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"}},"hasToken":true}'
   DataHash: d6406983b4ee9c15b15f731881ed42b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nundro Rockseeker
+    Content: 
+    AsJson: '{"name":"Nundro Rockseeker","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":50,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"}},"hasToken":true}'
+    DataHash: d6406983b4ee9c15b15f731881ed42b5

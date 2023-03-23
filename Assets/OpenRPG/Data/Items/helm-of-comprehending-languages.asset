@@ -18,3 +18,12 @@ MonoBehaviour:
     spell from it at will."],"attachedSpells":["comprehend languages"],"lootTables":["Magic
     Item Table B"],"hasFluffImages":true}'
   DataHash: ed5b1628efc4be925566a24f39cbc4a3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Helm of Comprehending Languages
+    Content: 
+    AsJson: '{"name":"Helm of Comprehending Languages","source":"DMG","page":173,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["While
+      wearing this helm, you can use an action to cast the {@spell comprehend languages}
+      spell from it at will."],"attachedSpells":["comprehend languages"],"lootTables":["Magic
+      Item Table B"],"hasFluffImages":true}'
+    DataHash: ed5b1628efc4be925566a24f39cbc4a3

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mennek Ariz","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Enchanter","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     enchanter","with":"Mennek","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: a8742169555bcdd3e5ba2418156e790e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mennek Ariz
+    Content: 
+    AsJson: '{"name":"Mennek Ariz","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Enchanter","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      enchanter","with":"Mennek","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: a8742169555bcdd3e5ba2418156e790e

@@ -17,3 +17,11 @@ MonoBehaviour:
     Shrub","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shrub","with":"shrub
     totem"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 8c1af0dc1d148b627b22573960ba213d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Awakened Shrub Totem Elemental
+    Content: 
+    AsJson: '{"name":"Awakened Shrub Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Awakened
+      Shrub","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shrub","with":"shrub
+      totem"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 8c1af0dc1d148b627b22573960ba213d

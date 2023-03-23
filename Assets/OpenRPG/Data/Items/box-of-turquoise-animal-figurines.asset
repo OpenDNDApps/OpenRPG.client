@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Box of turquoise animal figurines
   AsJson: '{"name":"Box of turquoise animal figurines","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: 0c5e8c1148a3ca24df1459742169439b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Box of turquoise animal figurines
+    Content: 
+    AsJson: '{"name":"Box of turquoise animal figurines","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: 0c5e8c1148a3ca24df1459742169439b

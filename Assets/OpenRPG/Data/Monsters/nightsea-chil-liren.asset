@@ -18,3 +18,12 @@ MonoBehaviour:
     Breathing","entries":["Nightsea chil-liren can breathe only underwater."]}}}},"senses":["darkvision
     60 ft."],"traitTags":["Water Breathing"],"hasToken":true,"hasFluff":true}'
   DataHash: bab9721b0edc3ab738588e8bb6937520
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nightsea chil-liren
+    Content: 
+    AsJson: '{"name":"Nightsea chil-liren","source":"JttRC","page":177,"_copy":{"name":"Merfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"merfolk","with":"nightsea
+      chil-liren"},"trait":{"mode":"replaceArr","replace":"Amphibious","items":{"name":"Water
+      Breathing","entries":["Nightsea chil-liren can breathe only underwater."]}}}},"senses":["darkvision
+      60 ft."],"traitTags":["Water Breathing"],"hasToken":true,"hasFluff":true}'
+    DataHash: bab9721b0edc3ab738588e8bb6937520

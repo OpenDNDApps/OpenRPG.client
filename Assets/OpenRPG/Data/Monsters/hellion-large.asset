@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hellion (Large)","source":"PSK","page":31,"_copy":{"name":"Young
     Remorhaz","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"remorhaz","with":"hellion"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c177b9d596178dc3849f58eeea941249
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hellion (Large)
+    Content: 
+    AsJson: '{"name":"Hellion (Large)","source":"PSK","page":31,"_copy":{"name":"Young
+      Remorhaz","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"remorhaz","with":"hellion"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c177b9d596178dc3849f58eeea941249

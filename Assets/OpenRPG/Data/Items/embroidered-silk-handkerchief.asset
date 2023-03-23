@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Embroidered silk handkerchief
   AsJson: '{"name":"Embroidered silk handkerchief","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 2d93c946d9f9039f4def2600a2bef38f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Embroidered silk handkerchief
+    Content: 
+    AsJson: '{"name":"Embroidered silk handkerchief","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 2d93c946d9f9039f4def2600a2bef38f

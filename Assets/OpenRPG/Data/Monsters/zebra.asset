@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Zebra
   AsJson: '{"name":"Zebra","source":"ToA","page":106,"_copy":{"name":"Riding Horse","source":"MM"},"hasToken":true}'
   DataHash: 5cefc409e34c6998990316bdd96b3790
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zebra
+    Content: 
+    AsJson: '{"name":"Zebra","source":"ToA","page":106,"_copy":{"name":"Riding Horse","source":"MM"},"hasToken":true}'
+    DataHash: 5cefc409e34c6998990316bdd96b3790

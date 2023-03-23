@@ -17,3 +17,11 @@ MonoBehaviour:
     Nightmare Speaker","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     yuan-ti","with":"Fenthaza","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 17b22fa6f2874f1b4d28404e040164a8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fenthaza
+    Content: 
+    AsJson: '{"name":"Fenthaza","isNpc":true,"source":"ToA","page":113,"_copy":{"name":"Yuan-ti
+      Nightmare Speaker","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      yuan-ti","with":"Fenthaza","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 17b22fa6f2874f1b4d28404e040164a8

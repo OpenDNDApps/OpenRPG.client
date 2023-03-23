@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jimjar","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Deep
     Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Jimjar","flags":"i"}}},"languages":["Common","Gnomish","Terran","Undercommon"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
   DataHash: b6b50f8b0b9ad31698d4c95af9f9c6e3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jimjar
+    Content: 
+    AsJson: '{"name":"Jimjar","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Deep
+      Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Jimjar","flags":"i"}}},"languages":["Common","Gnomish","Terran","Undercommon"],"spellcastingTags":["I"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: b6b50f8b0b9ad31698d4c95af9f9c6e3

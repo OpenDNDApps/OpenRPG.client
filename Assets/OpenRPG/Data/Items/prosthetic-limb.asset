@@ -19,3 +19,13 @@ MonoBehaviour:
     You can detach or reattach it as an action, and it can''t be removed against
     your will. It detaches if you die."],"hasFluffImages":true}'
   DataHash: 01d58547d4f9783b268f0843ab5595d6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prosthetic Limb
+    Content: 
+    AsJson: '{"name":"Prosthetic Limb","source":"TCE","page":134,"otherSources":[{"source":"ERLW","page":278},{"source":"EGW"}],"rarity":"common","wondrous":true,"entries":["This
+      item replaces a lost limb-a hand, an arm, a foot, a leg, or a similar body
+      part. While the prosthetic is attached, it functions identically to the part
+      it replaces. You can detach or reattach it as an action, and it can''t be removed
+      against your will. It detaches if you die."],"hasFluffImages":true}'
+    DataHash: 01d58547d4f9783b268f0843ab5595d6

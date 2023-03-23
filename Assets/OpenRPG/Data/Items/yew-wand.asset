@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Yew Wand
   AsJson: '{"name":"Yew Wand","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","weight":1,"value":1000}'
   DataHash: 3af26d0941be75e7ddffd6e94b1bcb8d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yew Wand
+    Content: 
+    AsJson: '{"name":"Yew Wand","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","weight":1,"value":1000}'
+    DataHash: 3af26d0941be75e7ddffd6e94b1bcb8d

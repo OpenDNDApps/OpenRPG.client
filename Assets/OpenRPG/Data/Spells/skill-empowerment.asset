@@ -21,3 +21,15 @@ MonoBehaviour:
     and that isn''t already benefiting from an effect, such as Expertise, that doubles
     its proficiency bonus."],"areaTags":["ST"]}'
   DataHash: a393474f34f6b45c2f87c2b076b16127
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skill Empowerment
+    Content: 
+    AsJson: '{"name":"Skill Empowerment","source":"XGE","page":165,"level":5,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["Your
+      magic deepens a creature''s understanding of its own talent. You touch one
+      willing creature and give it expertise in one skill of your choice; until the
+      spell ends, the creature doubles its proficiency bonus for ability checks it
+      makes that use the chosen skill.","You must choose a skill in which the target
+      is proficient and that isn''t already benefiting from an effect, such as Expertise,
+      that doubles its proficiency bonus."],"areaTags":["ST"]}'
+    DataHash: a393474f34f6b45c2f87c2b076b16127

@@ -18,3 +18,12 @@ MonoBehaviour:
     already infected with a disease, the effects of the disease are suppressed while
     you wear the pendant."],"lootTables":["Magic Item Table C"],"hasFluffImages":true}'
   DataHash: 17643e7a8a9ea520a7ae127e191300e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Periapt of Health
+    Content: 
+    AsJson: '{"name":"Periapt of Health","source":"DMG","page":184,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"weight":1,"entries":["You
+      are immune to contracting any disease while you wear this pendant. If you are
+      already infected with a disease, the effects of the disease are suppressed
+      while you wear the pendant."],"lootTables":["Magic Item Table C"],"hasFluffImages":true}'
+    DataHash: 17643e7a8a9ea520a7ae127e191300e2

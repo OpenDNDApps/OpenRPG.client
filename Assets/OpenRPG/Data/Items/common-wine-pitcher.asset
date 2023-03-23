@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Common Wine (Pitcher)
   AsJson: '{"name":"Common Wine (Pitcher)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":20}'
   DataHash: d89eb5d31b7b14dc5001917b43f9704a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Common Wine (Pitcher)
+    Content: 
+    AsJson: '{"name":"Common Wine (Pitcher)","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":20}'
+    DataHash: d89eb5d31b7b14dc5001917b43f9704a

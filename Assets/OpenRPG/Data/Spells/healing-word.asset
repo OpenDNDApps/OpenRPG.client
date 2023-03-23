@@ -21,3 +21,15 @@ MonoBehaviour:
     level or higher, the healing increases by {@scaledice 1d4|1-9|1d4} for each slot
     level above 1st."]}],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL","SGT"],"areaTags":["ST"]}'
   DataHash: 936ffc6765c1fb6f1fdf708c51312db5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Healing Word
+    Content: 
+    AsJson: '{"name":"Healing Word","source":"PHB","page":250,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["A
+      creature of your choice that you can see within range regains hit points equal
+      to {@dice 1d4} + your spellcasting ability modifier. This spell has no effect
+      on undead or constructs."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, the healing increases by {@scaledice 1d4|1-9|1d4} for each
+      slot level above 1st."]}],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL","SGT"],"areaTags":["ST"]}'
+    DataHash: 936ffc6765c1fb6f1fdf708c51312db5

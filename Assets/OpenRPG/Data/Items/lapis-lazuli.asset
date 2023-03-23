@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Lapis Lazuli","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque light and dark blue with yellow flecks gemstone."]}'
   DataHash: 791963311e8b3f0a8f3c93864fb7f2a9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lapis Lazuli
+    Content: 
+    AsJson: '{"name":"Lapis Lazuli","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque light and dark blue with yellow flecks gemstone."]}'
+    DataHash: 791963311e8b3f0a8f3c93864fb7f2a9

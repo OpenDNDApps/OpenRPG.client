@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Garra","isNpc":true,"source":"ERLW","page":272,"_copy":{"name":"Half-Ogre
     (Ogrillon)","source":"MM"},"alignment":["C","E"],"int":14,"hasToken":true}'
   DataHash: 2585b84dddffed94578853b3d250f03c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Garra
+    Content: 
+    AsJson: '{"name":"Garra","isNpc":true,"source":"ERLW","page":272,"_copy":{"name":"Half-Ogre
+      (Ogrillon)","source":"MM"},"alignment":["C","E"],"int":14,"hasToken":true}'
+    DataHash: 2585b84dddffed94578853b3d250f03c

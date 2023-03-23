@@ -22,6 +22,19 @@ MonoBehaviour:
     detect magic} once without expending a spell slot, and you regain the ability
     to do so when you finish a long rest."]}]}'
   DataHash: 6c0d7f6cc99917de8d4c802724b4fe24
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arcanist
+    Content: 
+    AsJson: '{"name":"Arcanist","source":"UAFeatsForSkills","page":1,"ability":[{"int":1}],"skillProficiencies":[{"arcana":true}],"additionalSpells":[{"innate":{"_":{"daily":{"1":["detect
+      magic"]}}},"known":{"_":["prestidigitation#c"]}}],"entries":["You study the
+      arcane arts, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Arcana} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","You learn the {@spell prestidigitation} and {@spell detect magic} spells.
+      You can cast {@spell detect magic} once without expending a spell slot, and
+      you regain the ability to do so when you finish a long rest."]}]}'
+    DataHash: 6c0d7f6cc99917de8d4c802724b4fe24
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 1
   Prerequisites: []

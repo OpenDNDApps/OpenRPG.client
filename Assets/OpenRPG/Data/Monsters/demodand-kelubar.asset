@@ -57,3 +57,52 @@ MonoBehaviour:
     Attack, the kelubar can use its Reaction to halve the attack''s damage."]}],"traitTags":["Devil''s
     Sight","Keen Senses","Magic Resistance","Magic Weapons","Reckless","Sneak Attack"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AB","C"],"damageTags":["A","P","S"],"damageTagsSpell":["A"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflict":["poisoned"],"conditionInflictSpell":["frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4014e5b558dd4dad3737df26fdb231aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Demodand, Kelubar
+    Content: 
+    AsJson: '{"name":"Demodand, Kelubar","source":"MaBJoV","page":135,"size":["M"],"type":"fiend","alignment":["N","E"],"ac":[{"ac":17,"from":["natural
+      armor"]}],"hp":{"average":97,"formula":"13d8 + 39"},"speed":{"walk":30,"fly":60},"str":20,"dex":13,"con":17,"int":14,"wis":15,"cha":18,"save":{"str":"+9","con":"+7","cha":"+8"},"skill":{"athletics":"+9","insight":"+6","persuasion":"+8"},"senses":["darkvision
+      120 ft."],"passive":12,"resist":["cold",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks that aren''t silvered","cond":true}],"immune":["acid","fire","poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common"],"cr":"11","spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The kelubar''s innate spellcasting ability
+      is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can
+      innately cast the following spells, requiring no material components:"],"will":["{@spell
+      Melf''s acid arrow}","{@spell clairvoyance}","{@spell detect magic}","{@spell
+      fear}","{@spell invisibility} (self only)","{@spell spider climb}","{@spell
+      tongues}"],"daily":{"3e":["{@spell fog cloud}","{@spell ray of enfeeblement}"],"2e":["{@spell
+      dispel magic}"]},"ability":"cha"}],"trait":[{"name":"Devil''s Sight","entries":["Magical
+      darkness doesn''t impede the kelubar''s darkvision."]},{"name":"Freedom of
+      Movement","entries":["The kelubar is unaffected by {@quickref difficult terrain||3},
+      and spells and other magical affects do not reduce its speed or cause it to
+      be {@condition paralyzed} or {@condition restrained}. If the kelubar spends
+      5 feet of movement is automatically escapes from nonmagical restraints or a
+      creature that has it {@condition grappled}. It is also able to move underwater
+      with no movement or attack penalties."]},{"name":"Keen Smell","entries":["The
+      kelubar has advantage on Wisdom ({@skill Perception}) checks that rely on smell."]},{"name":"Magic
+      Resistance","entries":["The kelubar has advantage on saving throws against
+      spells and other magical effects."]},{"name":"Magic Weapons","entries":["The
+      kelubar''s weapon attacks are magical."]},{"name":"Reckless","entries":["At
+      the start of its turn, the kelubar can gain advantage on all melee weapon attack
+      rolls it makes during that turn, but attack rolls against it have advantage
+      until the start of its next turn."]},{"name":"Sneak Attack (1/Turn)","entries":["The
+      kelubar deals an extra 14 ({@damage 4d6}) damage when it hits a target with
+      a weapon attack and has advantage on the attack roll, or when the target is
+      within 5 ft. of an ally of the kelubar that isn''t incapacitated and the kelubar
+      doesn''t have disadvantage on the attack roll."]},{"name":"Stench","entries":["Any
+      creature that is not a demodand and starts its turn within 30 feet of the kelubar
+      must succeed on a {@dc 16} Constitution saving throw or be {@condition poisoned}.
+      On a successful saving throw, the creature is immune to the stench of this
+      kelubar for 1 hour."]}],"action":[{"name":"Multiattack","entries":["The kelubar
+      makes two claw or bite attacks."]},{"name":"Claws","entries":["{@atk mw} {@hit
+      9} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing damage
+      plus 7 ({@damage 2d6}) acid damage."]},{"name":"Bite","entries":["{@atk mw}
+      {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) piercing
+      damage plus 7 ({@damage 2d6}) acid damage."]},{"name":"Summon Reinforcements
+      (Recharges after a Short or Long Rest)","entries":["If the kelubar rolls 1-2
+      on a {@dice d6} it summons in two {@creature Demodand, Farastu|MaBJoV|farastu},
+      a result of 3-4 summons in one {@creature Demodand, kelubar|MaBJoV|kelubar}."]}],"reaction":[{"name":"Impossible
+      Dodge","entries":["When an attacker that the kelubar can see hits it with an
+      Attack, the kelubar can use its Reaction to halve the attack''s damage."]}],"traitTags":["Devil''s
+      Sight","Keen Senses","Magic Resistance","Magic Weapons","Reckless","Sneak Attack"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["AB","C"],"damageTags":["A","P","S"],"damageTagsSpell":["A"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflict":["poisoned"],"conditionInflictSpell":["frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4014e5b558dd4dad3737df26fdb231aa

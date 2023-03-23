@@ -19,3 +19,13 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) slashing
     damage."]}}]}},"size":["M"],"hp":{"average":32,"formula":"5d6 + 15"},"str":12,"dex":15,"con":16,"cr":"1","hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 6fa132d539e54a85da8ce24a0b542256
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Griffon (Medium)
+    Content: 
+    AsJson: '{"name":"Young Griffon (Medium)","source":"IDRotF","page":163,"_copy":{"name":"Griffon","source":"MM","_mod":{"action":[{"mode":"replaceArr","replace":"Beak","items":{"name":"Beak","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing
+      damage."]}},{"mode":"replaceArr","replace":"Claws","items":{"name":"Claws","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) slashing
+      damage."]}}]}},"size":["M"],"hp":{"average":32,"formula":"5d6 + 15"},"str":12,"dex":15,"con":16,"cr":"1","hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 6fa132d539e54a85da8ce24a0b542256

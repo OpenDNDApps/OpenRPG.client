@@ -23,3 +23,17 @@ MonoBehaviour:
     used, it can''t be used until the next dawn. A potion you create in this way
     loses its magical properties if it isn''t imbibed within 24 hours."]}'
   DataHash: db85dbc89b5127ab12b5bf7d17a18288
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stirring Dragon Vessel
+    Content: 
+    AsJson: '{"name":"Stirring Dragon Vessel","source":"FTD","_copy":{"name":"Slumbering
+      Dragon Vessel","source":"FTD","_preserve":{"page":true}},"rarity":"rare","entries":["This
+      vessel can be a potion bottle, drinking horn, or other container meant to hold
+      a liquid.","As a bonus action, if the vessel is empty, you can speak the command
+      word to fill the vessel with one of the following (your choice): ale, olive
+      oil, mead, a {@item potion of healing}, a {@item potion of greater healing},
+      a {@item potion of climbing}, or a {@item potion of fire breath}. Once this
+      property is used, it can''t be used until the next dawn. A potion you create
+      in this way loses its magical properties if it isn''t imbibed within 24 hours."]}'
+    DataHash: db85dbc89b5127ab12b5bf7d17a18288

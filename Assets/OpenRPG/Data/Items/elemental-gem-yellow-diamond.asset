@@ -19,3 +19,13 @@ MonoBehaviour:
     conjure elemental} spell, and the gem''s magic is lost."],"attachedSpells":["conjure
     elemental"]}'
   DataHash: aecab93afc1dd272a209c8ad3ddbac25
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elemental Gem, Yellow Diamond
+    Content: 
+    AsJson: '{"name":"Elemental Gem, Yellow Diamond","source":"DMG","page":167,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["This
+      gem contains a mote of elemental energy. When you use an action to break the
+      gem, an {@creature earth elemental} is summoned as if you had cast the {@spell
+      conjure elemental} spell, and the gem''s magic is lost."],"attachedSpells":["conjure
+      elemental"]}'
+    DataHash: aecab93afc1dd272a209c8ad3ddbac25

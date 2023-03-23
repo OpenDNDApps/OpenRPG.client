@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf Aristocrat","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     elf","with":"Xeleth","flags":"i"}}},"alignment":["C","E"],"hasToken":true}'
   DataHash: 31b58486dc30e0cf4e2e30c3329ac451
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prince Xeleth
+    Content: 
+    AsJson: '{"name":"Prince Xeleth","shortName":true,"isNpc":true,"isNamedCreature":true,"source":"LoX","page":48,"_copy":{"name":"Astral
+      Elf Aristocrat","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      elf","with":"Xeleth","flags":"i"}}},"alignment":["C","E"],"hasToken":true}'
+    DataHash: 31b58486dc30e0cf4e2e30c3329ac451

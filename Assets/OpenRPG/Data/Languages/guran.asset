@@ -25,3 +25,19 @@ MonoBehaviour:
     to know that language as well as Common. This ethnic language is treated as a
     free additional language for such individuals.\"]}]}"
   DataHash: ca4562c9fa94a8fdee1fb504e3a76bf2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Guran
+    Content: 
+    AsJson: "{\"name\":\"Guran\",\"source\":\"SCAG\",\"page\":112,\"typicalSpeakers\":[\"Gur
+      ethnic group\"],\"script\":\"Thorass\",\"entries\":[\"A patois of {@language
+      Roushoum|SCAG} and {@language Rashemi|SCAG}.\",{\"type\":\"inset\",\"name\":\"Option:
+      Human Languages\",\"entries\":[\"Many human ethnicities and nations in Faer\xFBn
+      have their own language, in addition to Common. Most human languages are written
+      in Thorass, the alphabet of Old Common, derived from the Chondathan language
+      that traders used as their common tongue. A few human languages use other alphabets,
+      including Draconic, Dethek, and Espruar.\",\"If your Dungeon Master allows
+      this option, then any human from an ethnic group that has its own language
+      is assumed to know that language as well as Common. This ethnic language is
+      treated as a free additional language for such individuals.\"]}]}"
+    DataHash: ca4562c9fa94a8fdee1fb504e3a76bf2

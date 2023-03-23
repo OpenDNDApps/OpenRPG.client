@@ -17,3 +17,11 @@ MonoBehaviour:
     Fanatic","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     fanatic","with":"Kadroth","flags":"i"}}},"alignment":["L","E"],"senseTags":["D"],"languageTags":["C","I","X"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC","I"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 95e07a818c436b65e8747aa2934d7688
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kadroth
+    Content: 
+    AsJson: '{"name":"Kadroth","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":42,"_copy":{"name":"Cult
+      Fanatic","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      fanatic","with":"Kadroth","flags":"i"}}},"alignment":["L","E"],"senseTags":["D"],"languageTags":["C","I","X"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC","I"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 95e07a818c436b65e8747aa2934d7688

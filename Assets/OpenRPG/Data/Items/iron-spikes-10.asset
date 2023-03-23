@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Iron Spikes (10)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":100,"packContents":[{"item":"iron
     spike|phb","quantity":10}]}'
   DataHash: e5607ecf0f950a0f490d733010732b54
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Iron Spikes (10)
+    Content: 
+    AsJson: '{"name":"Iron Spikes (10)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":5,"value":100,"packContents":[{"item":"iron
+      spike|phb","quantity":10}]}'
+    DataHash: e5607ecf0f950a0f490d733010732b54

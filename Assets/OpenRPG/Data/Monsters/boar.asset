@@ -24,3 +24,18 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) slashing
     damage."]}],"environment":["grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/boar.mp3"},"traitTags":["Charge"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
   DataHash: 611a3e27fd86a5253a81d1ae6a4c86f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Boar
+    Content: 
+    AsJson: '{"name":"Boar","source":"MM","page":319,"srd":true,"otherSources":[{"source":"SKT"},{"source":"ToA"},{"source":"WDMM"},{"source":"DIP"},{"source":"MOT"},{"source":"CM"},{"source":"WBtW"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":11,"formula":"2d8 + 2"},"speed":{"walk":40},"str":13,"dex":11,"con":12,"int":2,"wis":9,"cha":5,"passive":9,"cr":"1/4","trait":[{"name":"Charge","entries":["If
+      the boar moves at least 20 feet straight toward a target and then hits it with
+      a tusk attack on the same turn, the target takes an extra 3 ({@damage 1d6})
+      slashing damage. If the target is a creature, it must succeed on a {@dc 11}
+      Strength saving throw or be knocked {@condition prone}."]},{"name":"Relentless
+      (Recharges after a Short or Long Rest)","entries":["If the boar takes 7 damage
+      or less that would reduce it to 0 hit points, it is reduced to 1 hit point
+      instead."]}],"action":[{"name":"Tusk","entries":["{@atk mw} {@hit 3} to hit,
+      reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) slashing damage."]}],"environment":["grassland","forest","hill"],"soundClip":{"type":"internal","path":"bestiary/boar.mp3"},"traitTags":["Charge"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+    DataHash: 611a3e27fd86a5253a81d1ae6a4c86f1

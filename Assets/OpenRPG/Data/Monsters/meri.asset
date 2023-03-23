@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Meri","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ghost","with":"Meri","flags":"i"}}},"hasToken":true}'
   DataHash: f036c01fd5e800ba61d4e4ac765a18e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Meri
+    Content: 
+    AsJson: '{"name":"Meri","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Meri","flags":"i"}}},"hasToken":true}'
+    DataHash: f036c01fd5e800ba61d4e4ac765a18e2

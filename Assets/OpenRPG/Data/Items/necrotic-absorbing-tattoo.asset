@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 91324ef25a195be11de97a7fa81847e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necrotic Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Necrotic Absorbing Tattoo","source":"TCE","page":119,"resist":["necrotic"],"detail1":"black","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 91324ef25a195be11de97a7fa81847e0

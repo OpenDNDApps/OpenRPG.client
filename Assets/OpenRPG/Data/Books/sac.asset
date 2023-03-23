@@ -12,12 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: sac
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Sage Advice Compendium
   AsJson: '{"name":"Sage Advice Compendium","id":"SAC","source":"SAC","group":"other","coverUrl":"img/covers/SAC.png","published":"2019-01-31","contents":[{"name":"Sage
     Advice Compendium","headers":["Rules References","Compiled Answers","The Role
     of Rules","Character Creation","Racial Traits","Class Features","Backgrounds","Equipment","Multiclassing","Feats","Ability
     Checks","Adventuring","Combat","Spellcasting","Monsters","Magic Items"]}]}'
   DataHash: fcc4fe55b08cb69df0ea6ece1e20ab68
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Sage Advice Compendium","id":"SAC","source":"SAC","group":"other","coverUrl":"img/covers/SAC.png","published":"2019-01-31","contents":[{"name":"Sage
+      Advice Compendium","headers":["Rules References","Compiled Answers","The Role
+      of Rules","Character Creation","Racial Traits","Class Features","Backgrounds","Equipment","Multiclassing","Feats","Ability
+      Checks","Adventuring","Combat","Spellcasting","Monsters","Magic Items"]}]}'
+    DataHash: fcc4fe55b08cb69df0ea6ece1e20ab68
+  CoverURL: img/covers/SAC.png
+  Published: 2019-01-31
   Author: 

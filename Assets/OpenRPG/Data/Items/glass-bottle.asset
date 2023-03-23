@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Glass Bottle\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":2,\"value\":200,\"entries\":[\"A
     bottle holds 1\xBD pints of liquid.\"]}"
   DataHash: a5487035b3b03ea41374fd2aed397330
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Glass Bottle
+    Content: 
+    AsJson: "{\"name\":\"Glass Bottle\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":2,\"value\":200,\"entries\":[\"A
+      bottle holds 1\xBD pints of liquid.\"]}"
+    DataHash: a5487035b3b03ea41374fd2aed397330

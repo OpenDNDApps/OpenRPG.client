@@ -19,3 +19,13 @@ MonoBehaviour:
     light in a 120-foot cone; the closest 60 feet is bright light, and the farthest
     60 feet is dim light."]}'
   DataHash: ed4bf66563b4d4528ac4de14102d7a16
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Everbright Lantern
+    Content: 
+    AsJson: '{"name":"Everbright Lantern","source":"ERLW","page":277,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["This
+      bullseye lantern contains an Eberron dragonshard that sheds light comparable
+      to that produced by a {@spell continual flame} spell. An everbright lantern
+      sheds light in a 120-foot cone; the closest 60 feet is bright light, and the
+      farthest 60 feet is dim light."]}'
+    DataHash: ed4bf66563b4d4528ac4de14102d7a16

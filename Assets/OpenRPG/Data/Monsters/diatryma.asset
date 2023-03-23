@@ -17,3 +17,11 @@ MonoBehaviour:
     beak","with":"diatryma"}}},"action":[{"name":"Beak","entries":["{@atk mw} {@hit
     4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"damageTags":["P"],"hasToken":true}'
   DataHash: 02a6c37e443bbffca88d259beaf8d408
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Diatryma
+    Content: 
+    AsJson: '{"name":"Diatryma","source":"WDH","page":191,"_copy":{"name":"Axe Beak","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"axe
+      beak","with":"diatryma"}}},"action":[{"name":"Beak","entries":["{@atk mw} {@hit
+      4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"damageTags":["P"],"hasToken":true}'
+    DataHash: 02a6c37e443bbffca88d259beaf8d408

@@ -26,3 +26,20 @@ MonoBehaviour:
     poisoned} for 5 ({@dice 1d10}) minutes and {@condition unconscious} while {@condition
     poisoned} in this way."]}],"soundClip":{"type":"internal","path":"bestiary/homunculus.mp3"},"senseTags":["D"],"languageTags":["CS"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["poisoned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: f554e8a3e6b1c871afce616592542a84
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Homunculus
+    Content: 
+    AsJson: '{"name":"Homunculus","source":"MM","page":188,"srd":true,"otherSources":[{"source":"WDMM"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"IMR"},{"source":"MOT"},{"source":"CM"}],"size":["T"],"type":"construct","alignment":["N"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":5,"formula":"2d4"},"speed":{"walk":20,"fly":40},"str":4,"dex":15,"con":11,"int":10,"wis":10,"cha":7,"senses":["darkvision
+      60 ft."],"passive":10,"immune":["poison"],"conditionImmune":["charmed","poisoned"],"languages":["understands
+      the languages of its creator but can''t speak"],"cr":"0","trait":[{"name":"Telepathic
+      Bond","entries":["While the homunculus is on the same plane of existence as
+      its master, it can magically convey what it senses to its master, and the two
+      can communicate telepathically."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and
+      the target must succeed on a {@dc 10} Constitution saving throw or be {@condition
+      poisoned} for 1 minute. If the saving throw fails by 5 or more, the target
+      is instead {@condition poisoned} for 5 ({@dice 1d10}) minutes and {@condition
+      unconscious} while {@condition poisoned} in this way."]}],"soundClip":{"type":"internal","path":"bestiary/homunculus.mp3"},"senseTags":["D"],"languageTags":["CS"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["poisoned","unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: f554e8a3e6b1c871afce616592542a84

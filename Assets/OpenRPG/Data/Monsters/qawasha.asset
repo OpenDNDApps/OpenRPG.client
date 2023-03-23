@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Qawasha","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Druid","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     druid","with":"Qawasha","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: ab4230161c6e0a18d5f71d23a7921c2a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Qawasha
+    Content: 
+    AsJson: '{"name":"Qawasha","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Druid","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      druid","with":"Qawasha","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: ab4230161c6e0a18d5f71d23a7921c2a

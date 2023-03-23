@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Large gold bracelet
   AsJson: '{"name":"Large gold bracelet","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: b5f2372a03b7c1182a843308cdf8e3aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Large gold bracelet
+    Content: 
+    AsJson: '{"name":"Large gold bracelet","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: b5f2372a03b7c1182a843308cdf8e3aa

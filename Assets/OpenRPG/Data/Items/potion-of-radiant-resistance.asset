@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Radiant Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["radiant"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: bf42608887a359ad405e65fbc37b6134
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Radiant Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Radiant Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["radiant"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: bf42608887a359ad405e65fbc37b6134

@@ -22,3 +22,16 @@ MonoBehaviour:
     damage."]},{"name":"Dart","entries":["{@atk rw} {@hit 4} to hit, range 20/60
     ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."]}],"traitTags":["Ambusher"],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4ff7f5d5b6bb9e0d37f8f0e93035a90c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pidlwick II
+    Content: 
+    AsJson: '{"name":"Pidlwick II","isNpc":true,"source":"CoS","page":236,"size":["S"],"type":"construct","alignment":["N","E"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":10,"formula":"3d6"},"speed":{"walk":30},"str":10,"dex":14,"con":11,"int":8,"wis":13,"cha":10,"skill":{"performance":"+2"},"passive":11,"immune":["poison"],"conditionImmune":["paralyzed","petrified","poisoned"],"languages":["understands
+      Common but doesn''t speak and can''t read or write"],"cr":"1/4","trait":[{"name":"Ambusher","entries":["During
+      the first round of combat, Pidlwick II has advantage on attack rolls against
+      any creature that hasn''t had a turn yet."]}],"action":[{"name":"Club","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+      damage."]},{"name":"Dart","entries":["{@atk rw} {@hit 4} to hit, range 20/60
+      ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."]}],"traitTags":["Ambusher"],"languageTags":["C"],"damageTags":["B","P"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4ff7f5d5b6bb9e0d37f8f0e93035a90c

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Paloma","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":52,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Rock
     Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the assassin","with":"Paloma","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
   DataHash: dbfb10028309b2017dea9f822dad79ac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Paloma
+    Content: 
+    AsJson: '{"name":"Paloma","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":52,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the assassin","with":"Paloma","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
+    DataHash: dbfb10028309b2017dea9f822dad79ac

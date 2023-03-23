@@ -19,3 +19,13 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["jump"],"lootTables":["Magic
     Item Table F"]}'
   DataHash: 757ab83677c383922e4b8b6b70fefdd1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Jumping
+    Content: 
+    AsJson: '{"name":"Ring of Jumping","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"uncommon","reqAttune":true,"entries":["While
+      wearing this ring, you can cast the {@spell jump} spell from it as a bonus
+      action at will, but can target only yourself when you do so."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["jump"],"lootTables":["Magic
+      Item Table F"]}'
+    DataHash: 757ab83677c383922e4b8b6b70fefdd1

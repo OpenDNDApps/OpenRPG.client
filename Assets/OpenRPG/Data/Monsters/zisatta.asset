@@ -17,3 +17,11 @@ MonoBehaviour:
     chil-liren","source":"JttRC","_mod":{"*":{"mode":"replaceTxt","replace":"Nightsea
     chil-liren","with":"Zisatta","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
   DataHash: 16d5073a9b177e02e015aa56fae04ff7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zisatta
+    Content: 
+    AsJson: '{"name":"Zisatta","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":177,"_copy":{"name":"Nightsea
+      chil-liren","source":"JttRC","_mod":{"*":{"mode":"replaceTxt","replace":"Nightsea
+      chil-liren","with":"Zisatta","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
+    DataHash: 16d5073a9b177e02e015aa56fae04ff7

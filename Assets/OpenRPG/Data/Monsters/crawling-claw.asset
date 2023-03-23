@@ -21,3 +21,15 @@ MonoBehaviour:
     or slashing damage (claw''s choice)."]}],"soundClip":{"type":"internal","path":"bestiary/crawling-claw.mp3"},"traitTags":["Turn
     Immunity"],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["B","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: eb7f8d94b18754b50896d77391c6a54c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Crawling Claw
+    Content: 
+    AsJson: '{"name":"Crawling Claw","source":"MM","page":44,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"ToA"},{"source":"WDH"},{"source":"BGDIA"},{"source":"IDRotF"},{"source":"CM"},{"source":"JttRC"},{"source":"LoX"},{"source":"KftGV"}],"size":["T"],"type":"undead","alignment":["N","E"],"ac":[12],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":20,"climb":20},"str":13,"dex":14,"con":11,"int":5,"wis":10,"cha":4,"senses":["blindsight
+      30 ft. (blind beyond this radius)"],"passive":10,"immune":["poison"],"conditionImmune":["charmed","exhaustion","poisoned"],"languages":["understands
+      Common but can''t speak"],"cr":"0","trait":[{"name":"Turn Immunity","entries":["The
+      claw is immune to effects that turn undead."]}],"action":[{"name":"Claw","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) bludgeoning
+      or slashing damage (claw''s choice)."]}],"soundClip":{"type":"internal","path":"bestiary/crawling-claw.mp3"},"traitTags":["Turn
+      Immunity"],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["B","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: eb7f8d94b18754b50896d77391c6a54c

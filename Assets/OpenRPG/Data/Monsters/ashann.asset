@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Ashann","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":115,"_copy":{"name":"Occult
     Initiate","source":"CRCotN","_mod":{"*":{"mode":"replaceTxt","replace":"the initiate","with":"Ashann","flags":"i"}}},"size":["S"],"type":{"type":"humanoid","tags":["gnome","sorcerer"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 51f4c06d995f7377176f9687baea2d3d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashann
+    Content: 
+    AsJson: '{"name":"Ashann","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":115,"_copy":{"name":"Occult
+      Initiate","source":"CRCotN","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      initiate","with":"Ashann","flags":"i"}}},"size":["S"],"type":{"type":"humanoid","tags":["gnome","sorcerer"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 51f4c06d995f7377176f9687baea2d3d

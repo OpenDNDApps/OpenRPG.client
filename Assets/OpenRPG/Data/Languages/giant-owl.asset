@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant Owl","source":"MM","page":327,"typicalSpeakers":["{@creature
     Giant Owl||giant owls}"]}'
   DataHash: eca052c5cb86082b965685b641be9f5a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Owl
+    Content: 
+    AsJson: '{"name":"Giant Owl","source":"MM","page":327,"typicalSpeakers":["{@creature
+      Giant Owl||giant owls}"]}'
+    DataHash: eca052c5cb86082b965685b641be9f5a

@@ -20,3 +20,14 @@ MonoBehaviour:
     alarm}","{@spell detect magic}","{@spell gaseous form}","{@spell misty step}","{@spell
     passwall}","{@spell see invisibility}"]},"ability":"cha"}],"damageTagsLegendary":[],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: b70c9d037dda9c36f2bc5db2f7dab2d9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashtyrranthor
+    Content: 
+    AsJson: '{"name":"Ashtyrranthor","isNpc":true,"isNamedCreature":true,"source":"WDMM","page":210,"_copy":{"name":"Adult
+      Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Ashtyrranthor","flags":"i"}}},"spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["Ashtyrranthor''s spellcasting ability is Charisma.
+      She can innately cast the following spells, requiring no material components:"],"daily":{"1e":["{@spell
+      alarm}","{@spell detect magic}","{@spell gaseous form}","{@spell misty step}","{@spell
+      passwall}","{@spell see invisibility}"]},"ability":"cha"}],"damageTagsLegendary":[],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: b70c9d037dda9c36f2bc5db2f7dab2d9

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Flying Shield","source":"TftYP","page":224,"_copy":{"name":"Flying
     Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"shield","flags":"i"}}},"action":null,"miscTags":[],"hasToken":true}'
   DataHash: e9196fb537a1b8b7247b0aeddd510672
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flying Shield
+    Content: 
+    AsJson: '{"name":"Flying Shield","source":"TftYP","page":224,"_copy":{"name":"Flying
+      Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"shield","flags":"i"}}},"action":null,"miscTags":[],"hasToken":true}'
+    DataHash: e9196fb537a1b8b7247b0aeddd510672

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ink Pen
   AsJson: '{"name":"Ink Pen","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":2}'
   DataHash: 9851bed60d0f9509ce184c5f64a9c150
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ink Pen
+    Content: 
+    AsJson: '{"name":"Ink Pen","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":2}'
+    DataHash: 9851bed60d0f9509ce184c5f64a9c150

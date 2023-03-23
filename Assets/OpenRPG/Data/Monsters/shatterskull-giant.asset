@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Shatterskull Giant","source":"PSZ","page":30,"_copy":{"name":"Boulderfoot
     Giant","source":"PSZ"},"hasToken":true}'
   DataHash: 49ffcaa4b59433dc3b0618b2d4572e29
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shatterskull Giant
+    Content: 
+    AsJson: '{"name":"Shatterskull Giant","source":"PSZ","page":30,"_copy":{"name":"Boulderfoot
+      Giant","source":"PSZ"},"hasToken":true}'
+    DataHash: 49ffcaa4b59433dc3b0618b2d4572e29

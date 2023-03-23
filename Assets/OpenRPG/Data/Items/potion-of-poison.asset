@@ -25,3 +25,19 @@ MonoBehaviour:
     1d6}. The poison ends when the damage decreases to 0."],"lootTables":["Magic
     Item Table B"]}'
   DataHash: 2236077ebd6ee71da1c0bb7c20a1645c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Poison
+    Content: 
+    AsJson: '{"name":"Potion of Poison","source":"DMG","page":188,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["This
+      concoction looks, smells, and tastes like a {@item potion of healing} or other
+      beneficial potion. However, it is actually poison masked by illusion magic.
+      An {@spell identify} spell reveals its true nature.","If you drink it, you
+      take {@damage 3d6} poison damage, and you must succeed on a DC 13 Constitution
+      saving throw or be {@condition poisoned}. At the start of each of your turns
+      while you are {@condition poisoned} in this way, you take {@damage 3d6} poison
+      damage. At the end of each of your turns, you can repeat the saving throw.
+      On a successful save, the poison damage you take on your subsequent turns decreases
+      by {@dice 1d6}. The poison ends when the damage decreases to 0."],"lootTables":["Magic
+      Item Table B"]}'
+    DataHash: 2236077ebd6ee71da1c0bb7c20a1645c

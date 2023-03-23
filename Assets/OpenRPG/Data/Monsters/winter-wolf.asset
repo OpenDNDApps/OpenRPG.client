@@ -30,3 +30,25 @@ MonoBehaviour:
     damage on a failed save, or half as much damage on a successful one."]}],"environment":["arctic"],"soundClip":{"type":"internal","path":"bestiary/winter-wolf.mp3"},"traitTags":["Keen
     Senses","Pack Tactics"],"actionTags":["Breath Weapon"],"languageTags":["C","GI","OTH"],"damageTags":["C","P"],"miscTags":["AOE","MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a69421cc010df1c3d3b95b1a72504595
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Winter Wolf
+    Content: 
+    AsJson: '{"name":"Winter Wolf","source":"MM","page":340,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"IDRotF"},{"source":"KftGV"}],"size":["L"],"type":"monstrosity","alignment":["N","E"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":75,"formula":"10d10 + 20"},"speed":{"walk":50},"str":18,"dex":13,"con":14,"int":7,"wis":12,"cha":8,"skill":{"perception":"+5","stealth":"+3"},"passive":15,"immune":["cold"],"languages":["Common","Giant","Winter
+      Wolf"],"cr":"3","trait":[{"name":"Keen Hearing and Smell","entries":["The wolf
+      has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or
+      smell."]},{"name":"Pack Tactics","entries":["The wolf has advantage on an attack
+      roll against a creature if at least one of the wolf''s allies is within 5 feet
+      of the creature and the ally isn''t {@condition incapacitated}."]},{"name":"Snow
+      Camouflage","entries":["The wolf has advantage on Dexterity (Stealth) checks
+      made to hide in snowy terrain."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing
+      damage. If the target is a creature, it must succeed on a {@dc 14} Strength
+      saving throw or be knocked {@condition prone}."]},{"name":"Cold Breath {@recharge
+      5}","entries":["The wolf exhales a blast of freezing wind in a 15-foot cone.
+      Each creature in that area must make a {@dc 12} Dexterity saving throw, taking
+      18 ({@damage 4d8}) cold damage on a failed save, or half as much damage on
+      a successful one."]}],"environment":["arctic"],"soundClip":{"type":"internal","path":"bestiary/winter-wolf.mp3"},"traitTags":["Keen
+      Senses","Pack Tactics"],"actionTags":["Breath Weapon"],"languageTags":["C","GI","OTH"],"damageTags":["C","P"],"miscTags":["AOE","MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a69421cc010df1c3d3b95b1a72504595

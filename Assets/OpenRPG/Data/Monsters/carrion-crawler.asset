@@ -30,3 +30,24 @@ MonoBehaviour:
     damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/carrior-crawler.mp3"},"traitTags":["Keen
     Senses","Spider Climb"],"senseTags":["D"],"actionTags":["Multiattack","Tentacles"],"damageTags":["I","P"],"miscTags":["MW","RCH"],"conditionInflict":["paralyzed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 8e5b9401a45dfa5d04ca971d5ce6d186
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carrion Crawler
+    Content: 
+    AsJson: '{"name":"Carrion Crawler","source":"MM","page":37,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"DIP"},{"source":"BGDIA"},{"source":"IDRotF"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":51,"formula":"6d10 + 18"},"speed":{"walk":30,"climb":30},"str":14,"dex":13,"con":16,"int":1,"wis":12,"cha":5,"skill":{"perception":"+3"},"senses":["darkvision
+      60 ft."],"passive":13,"cr":"2","trait":[{"name":"Keen Smell","entries":["The
+      carrion crawler has advantage on Wisdom ({@skill Perception}) checks that rely
+      on smell."]},{"name":"Spider Climb","entries":["The carrion crawler can climb
+      difficult surfaces, including upside down on ceilings, without needing to make
+      an ability check."]}],"action":[{"name":"Multiattack","entries":["The carrion
+      crawler makes two attacks: one with its tentacles and one with its bite."]},{"name":"Tentacles","entries":["{@atk
+      mw} {@hit 8} to hit, reach 10 ft., one creature. {@h}4 ({@damage 1d4 + 2})
+      poison damage, and the target must succeed on a {@dc 13} Constitution saving
+      throw or be {@condition poisoned} for 1 minute. Until this poison ends, the
+      target is {@condition paralyzed}. The target can repeat the saving throw at
+      the end of each of its turns, ending the poison on itself on a success."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) piercing
+      damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/carrior-crawler.mp3"},"traitTags":["Keen
+      Senses","Spider Climb"],"senseTags":["D"],"actionTags":["Multiattack","Tentacles"],"damageTags":["I","P"],"miscTags":["MW","RCH"],"conditionInflict":["paralyzed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 8e5b9401a45dfa5d04ca971d5ce6d186

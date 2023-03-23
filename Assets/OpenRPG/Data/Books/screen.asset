@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: screen
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Dungeon Master's Screen
   AsJson: '{"name":"Dungeon Master''s Screen","id":"Screen","source":"Screen","group":"screen","coverUrl":"img/covers/Screen.png","published":"2015-01-20","contents":[{"name":"Tables"}]}'
   DataHash: f80eb55ace85a6debd1f1763d38627d3
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Dungeon Master''s Screen","id":"Screen","source":"Screen","group":"screen","coverUrl":"img/covers/Screen.png","published":"2015-01-20","contents":[{"name":"Tables"}]}'
+    DataHash: f80eb55ace85a6debd1f1763d38627d3
+  CoverURL: img/covers/Screen.png
+  Published: 2015-01-20
   Author: 

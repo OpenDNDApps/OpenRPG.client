@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Morgantha","isNpc":true,"source":"CoS","page":48,"_copy":{"name":"Night
     Hag","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the hag","with":"Morgantha","flags":"i"}}},"hasToken":true}'
   DataHash: 175885bb98decf5c7e55219e048c1997
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Morgantha
+    Content: 
+    AsJson: '{"name":"Morgantha","isNpc":true,"source":"CoS","page":48,"_copy":{"name":"Night
+      Hag","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the hag","with":"Morgantha","flags":"i"}}},"hasToken":true}'
+    DataHash: 175885bb98decf5c7e55219e048c1997

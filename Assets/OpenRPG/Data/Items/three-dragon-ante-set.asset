@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Three-Dragon Ante Set
   AsJson: '{"name":"Three-Dragon Ante Set","source":"PHB","page":154,"basicRules":true,"type":"GS","rarity":"none","value":100}'
   DataHash: 41988b5bd8c3d25e84e543e9f4676ff0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Three-Dragon Ante Set
+    Content: 
+    AsJson: '{"name":"Three-Dragon Ante Set","source":"PHB","page":154,"basicRules":true,"type":"GS","rarity":"none","value":100}'
+    DataHash: 41988b5bd8c3d25e84e543e9f4676ff0

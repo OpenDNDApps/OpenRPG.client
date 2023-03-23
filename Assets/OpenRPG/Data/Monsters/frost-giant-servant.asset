@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Frost Giant Servant","source":"TftYP","page":187,"_copy":{"name":"Hill
     Giant","source":"MM"},"immune":["cold"],"hasToken":true}'
   DataHash: c113774fd052ac36e1b2556ecfe9094f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Frost Giant Servant
+    Content: 
+    AsJson: '{"name":"Frost Giant Servant","source":"TftYP","page":187,"_copy":{"name":"Hill
+      Giant","source":"MM"},"immune":["cold"],"hasToken":true}'
+    DataHash: c113774fd052ac36e1b2556ecfe9094f

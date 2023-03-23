@@ -18,3 +18,12 @@ MonoBehaviour:
     hooves of a horse or similar creature, they increase the creature''s walking
     speed by 30 feet."],"lootTables":["Magic Item Table C"]}'
   DataHash: e8342d83d51813c76f74a9662461ecb2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Horseshoes of Speed
+    Content: 
+    AsJson: '{"name":"Horseshoes of Speed","source":"DMG","page":175,"srd":true,"tier":"minor","rarity":"rare","wondrous":true,"entries":["These
+      iron horseshoes come in a set of four. While all four shoes are affixed to
+      the hooves of a horse or similar creature, they increase the creature''s walking
+      speed by 30 feet."],"lootTables":["Magic Item Table C"]}'
+    DataHash: e8342d83d51813c76f74a9662461ecb2

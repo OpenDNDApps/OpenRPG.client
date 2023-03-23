@@ -19,3 +19,13 @@ MonoBehaviour:
     as if the temperature were that of a balmy day, so you suffer no ill effects
     from the weather''s temperature extremes."]}'
   DataHash: 708fcc8cfd494a3ff6358386509cd855
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Robe of Summer
+    Content: 
+    AsJson: '{"name":"Robe of Summer","source":"TftYP","page":229,"resist":["cold"],"rarity":"rare","reqAttune":true,"wondrous":true,"weight":1,"entries":["This
+      elegant garment is made from fine cloth in hues of red, orange, and gold. While
+      you wear the robe, you have resistance to cold damage. In addition, you are
+      comfortable as if the temperature were that of a balmy day, so you suffer no
+      ill effects from the weather''s temperature extremes."]}'
+    DataHash: 708fcc8cfd494a3ff6358386509cd855

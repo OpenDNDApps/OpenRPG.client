@@ -31,6 +31,29 @@ MonoBehaviour:
     Outer Plane","Radiant","{@spell Sacred flame}"],["Lawful Outer Plane","Radiant","{@spell
     Guidance}"],["The Outlands","Psychic","{@spell Mage hand}"]]}]}'
   DataHash: b5dae7c5a7b9c01538111894f196e532
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scion Of The Outer Planes
+    Content: 
+    AsJson: '{"name":"Scion Of The Outer Planes","source":"UA2022WondersOfTheMultiverse","page":9,"additionalSpells":[{"name":"Astral
+      Plane","known":{"_":["message#c"]}},{"name":"Chaotic Outer Plane","known":{"_":["minor
+      illusion#c"]}},{"name":"Evil Outer Plane","known":{"_":["chill touch#c"]}},{"name":"Good
+      Outer Plane","known":{"_":["sacred flame#c"]}},{"name":"Lawful Outer Plane","known":{"_":["guidance#c"]}},{"name":"The
+      Outlands","known":{"_":["mage hand#c"]}}],"entries":["You are influenced by
+      and adept at navigating planar pathways and the strange realities of the Outer
+      Planes.","Whether planar essence infuses you or you have extraplanar ancestry,
+      your connection to a plane infuses you with the energies found there. Choose
+      a type of plane listed in the Planar Infusion table below. Your choice gives
+      you resistance to a damage type and the ability to cast a cantrip, as specified
+      in the table. You can cast this cantrip without material components, and your
+      spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose when
+      you select this feat).",{"type":"table","caption":"Planar Infusion","colLabels":["Plane","Damage
+      Resistance","Cantrip"],"colStyles":["col-4","col-4","col-4"],"rows":[["Astral
+      Plane","Psychic","{@spell Message}"],["Chaotic Outer Plane","Necrotic","{@spell
+      Minor illusion}"],["Evil Outer Plane","Necrotic","{@spell Chill touch}"],["Good
+      Outer Plane","Radiant","{@spell Sacred flame}"],["Lawful Outer Plane","Radiant","{@spell
+      Guidance}"],["The Outlands","Psychic","{@spell Mage hand}"]]}]}'
+    DataHash: b5dae7c5a7b9c01538111894f196e532
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 9
   Prerequisites: []

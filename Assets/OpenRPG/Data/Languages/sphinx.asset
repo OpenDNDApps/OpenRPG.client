@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sphinx
   AsJson: '{"name":"Sphinx","source":"MOT","page":9,"typicalSpeakers":["Sphinxes"]}'
   DataHash: c22509010cebf17cfe32f42a9c0fbffb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sphinx
+    Content: 
+    AsJson: '{"name":"Sphinx","source":"MOT","page":9,"typicalSpeakers":["Sphinxes"]}'
+    DataHash: c22509010cebf17cfe32f42a9c0fbffb
