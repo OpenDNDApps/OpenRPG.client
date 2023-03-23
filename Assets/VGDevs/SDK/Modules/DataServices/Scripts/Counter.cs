@@ -11,16 +11,16 @@ namespace VGDevs
 
         private event Action OnReached;
 
-        public Counter(int p_target, Action p_onReached, bool p_repeat = true)
+        public Counter(int target, Action onReached, bool repeat = true)
         {
-            this.m_target = p_target;
-            this.m_repeat = p_repeat;
-            OnReached += p_onReached;
+            m_target = target;
+            m_repeat = repeat;
+            OnReached += onReached;
         }
 
-        public void Add(int p_toAdd = 1)
+        public void Add(int toAdd = 1)
         {
-            m_currentCount += p_toAdd;
+            m_currentCount += toAdd;
             if (m_currentCount >= m_target)
             {
                 OnReached?.Invoke();
