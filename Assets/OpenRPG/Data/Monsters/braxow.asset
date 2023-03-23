@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Braxow","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Stone
     Giant","source":"MM"},"hasToken":true}'
   DataHash: a2d4e1e3bae84be11eec3c738f8c1849
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Braxow
+    Content: 
+    AsJson: '{"name":"Braxow","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Stone
+      Giant","source":"MM"},"hasToken":true}'
+    DataHash: a2d4e1e3bae84be11eec3c738f8c1849

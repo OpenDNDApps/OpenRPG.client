@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ceratops
   AsJson: '{"name":"Ceratops","source":"PSX","page":28,"_copy":{"name":"Triceratops","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"triceratops","with":"ceratops"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 96c97c99358d97118b8dad429071ac28
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ceratops
+    Content: 
+    AsJson: '{"name":"Ceratops","source":"PSX","page":28,"_copy":{"name":"Triceratops","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"triceratops","with":"ceratops"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 96c97c99358d97118b8dad429071ac28

@@ -20,3 +20,14 @@ MonoBehaviour:
     throw or take {@damage 1d4} poison damage. Once applied, the poison retains potency
     for 1 minute before drying."]}'
   DataHash: cccab0752bc84701f26e609bbae3f168
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Basic Poison (vial)
+    Content: 
+    AsJson: '{"name":"Basic Poison (vial)","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":10000,"poison":true,"entries":["You
+      can use the poison in this vial to coat one slashing or piercing weapon or
+      up to three pieces of ammunition. Applying the poison takes an action. A creature
+      hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving
+      throw or take {@damage 1d4} poison damage. Once applied, the poison retains
+      potency for 1 minute before drying."]}'
+    DataHash: cccab0752bc84701f26e609bbae3f168

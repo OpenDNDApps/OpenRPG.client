@@ -19,6 +19,16 @@ MonoBehaviour:
     gain proficiency with four weapons of your choice. Each one must be a simple
     or a martial weapon."]}]}'
   DataHash: 2f306db44cb055b2962d3c70519a9f1c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Weapon Master
+    Content: 
+    AsJson: '{"name":"Weapon Master","source":"PHB","page":170,"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"weaponProficiencies":[{"choose":{"fromFilter":"type=martial
+      weapon;mundane weapon|miscellaneous=mundane","count":4}}],"entries":["You have
+      practiced extensively with a variety of weapons, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency with four weapons of your choice. Each one must be a simple
+      or a martial weapon."]}]}'
+    DataHash: 2f306db44cb055b2962d3c70519a9f1c
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 170
   Prerequisites: []

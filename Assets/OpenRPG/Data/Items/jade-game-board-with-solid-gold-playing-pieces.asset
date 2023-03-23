@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade game board with solid gold playing pieces
   AsJson: '{"name":"Jade game board with solid gold playing pieces","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: 7b34543ca9d08ef800baaebc5daaf040
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade game board with solid gold playing pieces
+    Content: 
+    AsJson: '{"name":"Jade game board with solid gold playing pieces","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: 7b34543ca9d08ef800baaebc5daaf040

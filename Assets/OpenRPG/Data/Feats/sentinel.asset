@@ -23,6 +23,20 @@ MonoBehaviour:
     feat), you can use your reaction to make a melee weapon attack against the attacking
     creature."]}]}'
   DataHash: d5b6ad05092e1e40fb319d9cc7ec8e8d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sentinel
+    Content: 
+    AsJson: '{"name":"Sentinel","source":"PHB","page":169,"entries":["You have mastered
+      techniques to take advantage of every drop in any enemy''s guard, gaining the
+      following benefits:",{"type":"list","items":["When you hit a creature with
+      an opportunity attack, the creature''s speed becomes 0 for the rest of the
+      turn.","Creatures provoke opportunity attacks from you even if they take the
+      {@action Disengage} action before leaving your reach.","When a creature within
+      5 feet of you makes an attack against a target other than you (and that target
+      doesn''t have this feat), you can use your reaction to make a melee weapon
+      attack against the attacking creature."]}]}'
+    DataHash: d5b6ad05092e1e40fb319d9cc7ec8e8d
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 169
   Prerequisites: []

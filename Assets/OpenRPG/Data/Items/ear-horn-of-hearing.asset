@@ -17,3 +17,11 @@ MonoBehaviour:
     held up to your ear, this horn suppresses the effects of the {@condition deafened}
     condition on you, allowing you to hear normally."]}'
   DataHash: d082c87b9d8902aefbc06289235c5324
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ear Horn of Hearing
+    Content: 
+    AsJson: '{"name":"Ear Horn of Hearing","source":"XGE","page":137,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+      held up to your ear, this horn suppresses the effects of the {@condition deafened}
+      condition on you, allowing you to hear normally."]}'
+    DataHash: d082c87b9d8902aefbc06289235c5324

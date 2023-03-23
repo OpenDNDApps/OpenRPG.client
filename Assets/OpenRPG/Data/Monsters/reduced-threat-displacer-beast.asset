@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Displacer Beast","source":"TftYP","page":113,"_copy":{"name":"Displacer
     Beast","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: f3b1e814529ce1b0c46511c364cf1c47
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Displacer Beast
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Displacer Beast","source":"TftYP","page":113,"_copy":{"name":"Displacer
+      Beast","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: f3b1e814529ce1b0c46511c364cf1c47

@@ -17,3 +17,11 @@ MonoBehaviour:
     armor"]}],"hp":{"average":10,"formula":"3d4 + 3"},"speed":{"walk":20},"str":4,"dex":11,"con":12,"int":3,"wis":10,"cha":7,"passive":10,"immune":["poison"],"conditionImmune":["charmed","poisoned"],"cr":"0","action":[{"name":"Claw","entries":["{@atk
     mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c44fc5333b0d8f379956d1347a2e3ee0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Servo
+    Content: 
+    AsJson: '{"name":"Servo","source":"PSK","page":32,"size":["T"],"type":"construct","alignment":["U"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":10,"formula":"3d4 + 3"},"speed":{"walk":20},"str":4,"dex":11,"con":12,"int":3,"wis":10,"cha":7,"passive":10,"immune":["poison"],"conditionImmune":["charmed","poisoned"],"cr":"0","action":[{"name":"Claw","entries":["{@atk
+      mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 slashing damage."]}],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c44fc5333b0d8f379956d1347a2e3ee0

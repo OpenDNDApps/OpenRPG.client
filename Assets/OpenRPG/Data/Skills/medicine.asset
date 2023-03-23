@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: medicine
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Medicine
   AsJson: '{"name":"Medicine","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["A
     Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose
     an illness."]}'
   DataHash: 92aaf764f09acf17207747a452cb718a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Medicine","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["A
+      Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose
+      an illness."]}'
+    DataHash: 92aaf764f09acf17207747a452cb718a

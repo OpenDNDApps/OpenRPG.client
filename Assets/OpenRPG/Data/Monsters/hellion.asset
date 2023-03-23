@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hellion
   AsJson: '{"name":"Hellion","source":"PSZ","page":32,"_copy":{"name":"Remorhaz","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"remorhaz","with":"hellion"}}},"hasToken":true}'
   DataHash: c5c889f8e50fd15de4d2eca5515ea420
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hellion
+    Content: 
+    AsJson: '{"name":"Hellion","source":"PSZ","page":32,"_copy":{"name":"Remorhaz","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"remorhaz","with":"hellion"}}},"hasToken":true}'
+    DataHash: c5c889f8e50fd15de4d2eca5515ea420

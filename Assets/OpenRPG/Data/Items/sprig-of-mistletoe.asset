@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sprig of Mistletoe
   AsJson: '{"name":"Sprig of Mistletoe","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","value":100}'
   DataHash: 6792ce6e5b4005139545016d19780290
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sprig of Mistletoe
+    Content: 
+    AsJson: '{"name":"Sprig of Mistletoe","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"druid","rarity":"none","value":100}'
+    DataHash: 6792ce6e5b4005139545016d19780290

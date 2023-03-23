@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Swarm of Piranhas","source":"PSX","page":40,"_copy":{"name":"Swarm
     of Quippers","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"quipper","with":"piranha"}}},"hasToken":true,"hasFluff":true}'
   DataHash: bd93e397f6675eb5e26ca2a74f97c84d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Swarm of Piranhas
+    Content: 
+    AsJson: '{"name":"Swarm of Piranhas","source":"PSX","page":40,"_copy":{"name":"Swarm
+      of Quippers","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"quipper","with":"piranha"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: bd93e397f6675eb5e26ca2a74f97c84d

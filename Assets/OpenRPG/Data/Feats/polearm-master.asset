@@ -24,6 +24,22 @@ MonoBehaviour:
     pike|phb}, {@item quarterstaff|phb}, or {@item spear|phb}, other creatures provoke
     an opportunity attack from you when they enter the reach you have with that weapon."]}]}'
   DataHash: d609b0b7ac617c2672a26dd54f6d7f3c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Polearm Master
+    Content: 
+    AsJson: '{"name":"Polearm Master","source":"PHB","page":168,"entries":["You can
+      keep your enemies at bay with reach weapons. You gain the following benefits:",{"type":"list","items":["When
+      you take the {@action Attack} action and attack with only a {@item glaive|phb},
+      {@item halberd|phb}, {@item quarterstaff|phb}, or {@item spear|phb}, you can
+      use a bonus action to make a melee attack with the opposite end of the weapon;
+      this attack uses the same ability modifier as the primary attack. The weapon''s
+      damage die for this attack is a {@dice d4}, and the attack deals bludgeoning
+      damage.","While you are wielding a {@item glaive|phb}, {@item halberd|phb},
+      {@item pike|phb}, {@item quarterstaff|phb}, or {@item spear|phb}, other creatures
+      provoke an opportunity attack from you when they enter the reach you have with
+      that weapon."]}]}'
+    DataHash: d609b0b7ac617c2672a26dd54f6d7f3c
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 168
   Prerequisites: []

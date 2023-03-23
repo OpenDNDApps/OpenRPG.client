@@ -20,3 +20,14 @@ MonoBehaviour:
     mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}1 piercing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/weasel.mp3"},"traitTags":["Keen
     Senses"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 6093f92fd84d585bb55b310bd7cf9752
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Weasel
+    Content: 
+    AsJson: '{"name":"Weasel","source":"MM","page":340,"srd":true,"basicRules":true,"otherSources":[{"source":"IDRotF"},{"source":"WBtW"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":30},"str":3,"dex":16,"con":8,"int":2,"wis":12,"cha":3,"skill":{"perception":"+3","stealth":"+5"},"passive":13,"cr":"0","trait":[{"name":"Keen
+      Hearing and Smell","entries":["The weasel has advantage on Wisdom ({@skill
+      Perception}) checks that rely on hearing or smell."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}1 piercing damage."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/weasel.mp3"},"traitTags":["Keen
+      Senses"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 6093f92fd84d585bb55b310bd7cf9752

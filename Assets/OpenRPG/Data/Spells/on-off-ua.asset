@@ -19,3 +19,14 @@ MonoBehaviour:
     accessed from the outside of the device. Any device that requires a software-based
     shutdown sequence to activate or deactivate cannot be affected by on/off."]}'
   DataHash: 0ecee394022870af451dadf5e9563133
+  DataByEdition:
+  - Edition: d&d5e
+    Title: On/Off (UA)
+    Content: 
+    AsJson: '{"name":"On/Off (UA)","source":"UAModernMagic","page":7,"level":0,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"meta":{"technomagic":true},"entries":["This
+      cantrip allows you to activate or deactivate any electronic device within range,
+      as long as the device has a clearly defined on or off function that can be
+      easily accessed from the outside of the device. Any device that requires a
+      software-based shutdown sequence to activate or deactivate cannot be affected
+      by on/off."]}'
+    DataHash: 0ecee394022870af451dadf5e9563133

@@ -17,3 +17,11 @@ MonoBehaviour:
     Monster","entries":["The cerodon deals double damage to objects and structures."]}}}},"traitTags":["Siege
     Monster"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: b965368ace08e4cb31e9bf6af1842ca1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cerodon
+    Content: 
+    AsJson: '{"name":"Cerodon","source":"PSA","page":37,"_copy":{"name":"Mammoth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"mammoth","with":"cerodon"},"trait":{"mode":"appendArr","items":{"name":"Siege
+      Monster","entries":["The cerodon deals double damage to objects and structures."]}}}},"traitTags":["Siege
+      Monster"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: b965368ace08e4cb31e9bf6af1842ca1

@@ -20,3 +20,14 @@ MonoBehaviour:
     such messages. It takes four times longer to convey such a message than it does
     to speak the same idea plainly."]}'
   DataHash: 056ad402f5675f88b9681146f31ce6e1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thieves' Cant
+    Content: 
+    AsJson: '{"name":"Thieves'' Cant","source":"PHB","page":94,"srd":true,"basicRules":true,"type":"secret","typicalSpeakers":["{@creature
+      assassin||assassins}","{@class rogue||rogues}"],"entries":["Thieves'' cant
+      is a secret mix of dialect, jargon, and code that allows messages to be hidden
+      in seemingly normal conversation. Only a creature that knows thieves'' cant
+      understands such messages. It takes four times longer to convey such a message
+      than it does to speak the same idea plainly."]}'
+    DataHash: 056ad402f5675f88b9681146f31ce6e1

@@ -32,3 +32,27 @@ MonoBehaviour:
     5th-level slot, three times as many with a 7th-level slot, and four times as
     many with a 9th-level slot."]}],"miscTags":["SGT","SMN"]}'
   DataHash: 9d5aa33f518cd00845704b7d07cba93b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Conjure Animals
+    Content: 
+    AsJson: '{"name":"Conjure Animals","source":"PHB","page":225,"srd":true,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+      summon fey spirits that take the form of beasts and appear in unoccupied spaces
+      that you can see within range. Choose one of the following options for what
+      appears:",{"type":"list","items":["One {@filter beast of challenge rating 2
+      or lower|bestiary|challenge rating=[&0;&2]|type=beast|miscellaneous=!swarm}","Two
+      {@filter beasts of challenge rating 1 or lower|bestiary|challenge rating=[&0;&1]|type=beast|miscellaneous=!swarm}","Four
+      {@filter beasts of challenge rating 1/2 or lower|bestiary|challenge rating=[&0;&1/2]|type=beast|miscellaneous=!swarm}","Eight
+      {@filter beasts of challenge rating 1/4 or lower|bestiary|challenge rating=[&0;&1/4]|type=beast|miscellaneous=!swarm}"]},"Each
+      beast is also considered fey, and it disappears when it drops to 0 hit points
+      or when the spell ends.","The summoned creatures are friendly to you and your
+      companions. Roll initiative for the summoned creatures as a group, which has
+      its own turns. They obey any verbal commands that you issue to them (no action
+      required by you). If you don''t issue any commands to them, they defend themselves
+      from hostile creatures, but otherwise take no actions.","The DM has the creatures''
+      statistics."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+      you cast this spell using certain higher-level spell slots, you choose one
+      of the summoning options above, and more creatures appear: twice as many with
+      a 5th-level slot, three times as many with a 7th-level slot, and four times
+      as many with a 9th-level slot."]}],"miscTags":["SGT","SMN"]}'
+    DataHash: 9d5aa33f518cd00845704b7d07cba93b

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ladder (10-foot)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":25,"value":10,"entries":["Ladder
     (10-foot)"]}'
   DataHash: 1b7e6e1c8c613776971171c80b6ee5c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ladder (10-foot)
+    Content: 
+    AsJson: '{"name":"Ladder (10-foot)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":25,"value":10,"entries":["Ladder
+      (10-foot)"]}'
+    DataHash: 1b7e6e1c8c613776971171c80b6ee5c5

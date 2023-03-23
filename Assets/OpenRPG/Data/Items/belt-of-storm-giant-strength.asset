@@ -18,3 +18,12 @@ MonoBehaviour:
     on you if your Strength without the belt is equal to or greater than the belt''s
     score."],"lootTables":["Magic Item Table I"],"hasFluffImages":true}'
   DataHash: 05e0213ae12136ff6a7682216428a36a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Belt of Storm Giant Strength
+    Content: 
+    AsJson: '{"name":"Belt of Storm Giant Strength","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"legendary","reqAttune":true,"wondrous":true,"ability":{"static":{"str":29}},"entries":["While
+      wearing this belt, your Strength score changes to 29. The item has no effect
+      on you if your Strength without the belt is equal to or greater than the belt''s
+      score."],"lootTables":["Magic Item Table I"],"hasFluffImages":true}'
+    DataHash: 05e0213ae12136ff6a7682216428a36a

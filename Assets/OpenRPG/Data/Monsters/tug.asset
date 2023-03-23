@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tug","isNpc":true,"source":"SKT","page":209,"_copy":{"name":"Hill
     Giant","source":"MM"},"ac":[{"ac":15,"from":["{@item scale mail|phb}"]}],"hasToken":true}'
   DataHash: 9ebd285ddd88c708033151ac7ed79c20
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tug
+    Content: 
+    AsJson: '{"name":"Tug","isNpc":true,"source":"SKT","page":209,"_copy":{"name":"Hill
+      Giant","source":"MM"},"ac":[{"ac":15,"from":["{@item scale mail|phb}"]}],"hasToken":true}'
+    DataHash: 9ebd285ddd88c708033151ac7ed79c20

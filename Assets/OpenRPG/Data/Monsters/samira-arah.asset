@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Samira","flags":"i"}}},"alignment":["N"],"traitTags":["Fey
     Ancestry","Sneak Attack"],"hasToken":true}'
   DataHash: 4c538ca98cb29ba2c2493d2a7c0d547d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Samira Arah
+    Content: 
+    AsJson: '{"name":"Samira Arah","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":68,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the spy","with":"Samira","flags":"i"}}},"alignment":["N"],"traitTags":["Fey
+      Ancestry","Sneak Attack"],"hasToken":true}'
+    DataHash: 4c538ca98cb29ba2c2493d2a7c0d547d

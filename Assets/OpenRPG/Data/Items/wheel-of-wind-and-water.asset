@@ -21,3 +21,15 @@ MonoBehaviour:
     area of ideal conditions around the vessel, increasing its speed by 5 miles per
     hour."]}'
   DataHash: 1d73d6ed8dc3a8deb5f19034633310d0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wheel of Wind and Water
+    Content: 
+    AsJson: '{"name":"Wheel of Wind and Water","source":"ERLW","page":280,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"uncommon","wondrous":true,"entries":["When
+      mounted at the helm of an elemental galleon or airship, this wheel allows a
+      creature that possesses the Mark of Storm to telepathically control the elemental
+      bound inside the vessel.","If a wheel of wind and water is mounted on a mundane
+      sailing ship, a creature with the Mark of Storm who is using the wheel can
+      create an area of ideal conditions around the vessel, increasing its speed
+      by 5 miles per hour."]}'
+    DataHash: 1d73d6ed8dc3a8deb5f19034633310d0

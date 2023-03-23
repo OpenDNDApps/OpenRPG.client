@@ -26,3 +26,20 @@ MonoBehaviour:
     can''t be used again until the next dawn."]}],"attachedSpells":["web"],"lootTables":["Magic
     Item Table H"]}'
   DataHash: dee4e8b1482f195d14c465012854d49a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Arachnida
+    Content: 
+    AsJson: '{"name":"Cloak of Arachnida","source":"DMG","page":158,"srd":true,"resist":["poison"],"tier":"major","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"modifySpeed":{"equal":{"climb":"walk"}},"entries":["This
+      fine garment is made of black silk interwoven with faint silvery threads. While
+      wearing it, you gain the following benefits:",{"type":"list","items":["You
+      have resistance to poison damage.","You have a climbing speed equal to your
+      walking speed.","You can move up, down, and across vertical surfaces and upside
+      down along ceilings, while leaving your hands free.","You can''t be caught
+      in webs of any sort and can move through webs as if they were {@quickref difficult
+      terrain||3}.","You can use an action to cast the {@spell web} spell (save DC
+      13). The web created by the spell fills twice its normal area. Once used, this
+      property of the cloak can''t be used again until the next dawn."]}],"attachedSpells":["web"],"lootTables":["Magic
+      Item Table H"]}'
+    DataHash: dee4e8b1482f195d14c465012854d49a

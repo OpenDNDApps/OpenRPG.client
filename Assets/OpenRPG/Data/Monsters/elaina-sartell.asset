@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Elaina Sartell","isNpc":true,"isNamedCreature":true,"source":"LoX","page":11,"_copy":{"name":"Bandit
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Elaina","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
   DataHash: f1f69e54b25c22495efb005c8048b51c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elaina Sartell
+    Content: 
+    AsJson: '{"name":"Elaina Sartell","isNpc":true,"isNamedCreature":true,"source":"LoX","page":11,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Elaina","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
+    DataHash: f1f69e54b25c22495efb005c8048b51c

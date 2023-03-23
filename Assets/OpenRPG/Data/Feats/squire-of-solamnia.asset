@@ -30,6 +30,27 @@ MonoBehaviour:
     as a prerequisite. A superiority die is expended when you use it, and you regain
     all expended superiority dice when you finish a long rest."]}]}]}'
   DataHash: aeee379683109911497302948451ae96
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Squire of Solamnia
+    Content: 
+    AsJson: '{"name":"Squire of Solamnia","source":"UA2022HeroesOfKrynnRevisited","page":5,"prerequisite":[{"level":{"level":1,"class":{"name":"Fighter","visible":true}}},{"level":{"level":1,"class":{"name":"Paladin","visible":true}}},{"background":[{"name":"Knight
+      of Solamnia","displayEntry":"{@background Knight of Solamnia|UA2022HeroesOfKrynnRevisited}"}]}],"entries":["Your
+      training in the ways of the Knights of Solamnia grants you these benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Mount
+      Up","entries":["Mounting or dismounting costs you only 5 feet of movement."]},{"type":"item","name":"Squire
+      Maneuvers","entries":["You learn the {@optfeature Lunging Attack}, {@optfeature
+      Precision Attack}, or {@optfeature Pushing Attack} maneuver from the Battle
+      Master subclass of the fighter in the Player''s Handbook (choose the maneuver
+      when you gain this feat). If the maneuver requires a saving throw, the save''s
+      DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier
+      (your choice). Whenever you finish a long rest, you can replace the maneuver
+      you learned from this feat with another one from the list above."]},{"type":"item","name":"Superiority
+      Dice","entries":["You gain a number of superiority dice equal to your proficiency
+      bonus. These dice are d6s, and you can use them only with the maneuver you
+      gain from this feat and with any maneuvers you gain from feats that have this
+      feat as a prerequisite. A superiority die is expended when you use it, and
+      you regain all expended superiority dice when you finish a long rest."]}]}]}'
+    DataHash: aeee379683109911497302948451ae96
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites: []

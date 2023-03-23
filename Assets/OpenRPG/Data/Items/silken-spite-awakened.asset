@@ -23,3 +23,17 @@ MonoBehaviour:
     has been cast using the rapier, that spell can''t be cast from the rapier again
     until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+2","attachedSpells":["cloudkill","darkness","levitate","web"]}'
   DataHash: 9daa768fecac4d06c18de31d34b55bb3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silken Spite (Awakened)
+    Content: 
+    AsJson: '{"name":"Silken Spite (Awakened)","source":"EGW","_copy":{"name":"Silken
+      Spite (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["The
+      rapier grants the following benefits in its awakened state:",{"type":"list","items":["The
+      weapon''s bonus to attack and damage rolls increases to +2.","The saving throw
+      DC for the weapon''s poison increases to 15.","While holding the rapier, you
+      can use an action to cast one of the following spells from it (save DC 15):
+      {@spell cloudkill}, {@spell darkness}, {@spell levitate}, or {@spell web}.
+      Once a spell has been cast using the rapier, that spell can''t be cast from
+      the rapier again until the next dawn."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"bonusWeapon":"+2","attachedSpells":["cloudkill","darkness","levitate","web"]}'
+    DataHash: 9daa768fecac4d06c18de31d34b55bb3

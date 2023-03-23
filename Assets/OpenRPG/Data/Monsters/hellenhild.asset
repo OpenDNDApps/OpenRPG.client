@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hellenhild","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Frost
     Giant","source":"MM"},"hasToken":true}'
   DataHash: 4407a40c004339534b5259b678e53550
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hellenhild
+    Content: 
+    AsJson: '{"name":"Hellenhild","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Frost
+      Giant","source":"MM"},"hasToken":true}'
+    DataHash: 4407a40c004339534b5259b678e53550

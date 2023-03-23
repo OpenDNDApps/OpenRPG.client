@@ -19,3 +19,13 @@ MonoBehaviour:
     on a DC 17 Constitution saving throw, taking 31 ({@damage 9d6}) poison damage
     on a failed save, or half as much damage on a successful one."],"poisonTypes":["ingested"]}'
   DataHash: 0b7be7122264db04b91a0736ed7e2d69
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Midnight Tears
+    Content: 
+    AsJson: '{"name":"Midnight Tears","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":150000,"poison":true,"entries":["A
+      creature that ingests this poison suffers no effect until the stroke of midnight.
+      If the poison has not been neutralized before then, the creature must succeed
+      on a DC 17 Constitution saving throw, taking 31 ({@damage 9d6}) poison damage
+      on a failed save, or half as much damage on a successful one."],"poisonTypes":["ingested"]}'
+    DataHash: 0b7be7122264db04b91a0736ed7e2d69

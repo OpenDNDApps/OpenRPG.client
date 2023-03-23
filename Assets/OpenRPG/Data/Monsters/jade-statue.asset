@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jade Statue","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":195,"_copy":{"name":"Stone
     Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue"}}},"hasToken":true}'
   DataHash: 1afc7b4aa68089f710cd3104e7f4433c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade Statue
+    Content: 
+    AsJson: '{"name":"Jade Statue","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":195,"_copy":{"name":"Stone
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue"}}},"hasToken":true}'
+    DataHash: 1afc7b4aa68089f710cd3104e7f4433c

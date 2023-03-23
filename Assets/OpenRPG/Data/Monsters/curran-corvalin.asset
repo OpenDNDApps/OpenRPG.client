@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Curran Corvalin","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Stout
     Halfling","source":"PHB"}},"languageTags":["C","H","X"],"hasToken":true}'
   DataHash: 5419534ba7671e9fa2b3b207cf524565
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Curran Corvalin
+    Content: 
+    AsJson: '{"name":"Curran Corvalin","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Stout
+      Halfling","source":"PHB"}},"languageTags":["C","H","X"],"hasToken":true}'
+    DataHash: 5419534ba7671e9fa2b3b207cf524565

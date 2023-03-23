@@ -20,3 +20,14 @@ MonoBehaviour:
     10 ft.."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 1} to hit, reach
     5 ft., one target. {@h}2 ({@damage 1d6 - 1}) slashing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/giant-fire-beetle.mp3"},"traitTags":["Illumination"],"senseTags":["B"],"damageTags":["S"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 68a5817c9d0b8c9859f5aa47fd102002
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Fire Beetle
+    Content: 
+    AsJson: '{"name":"Giant Fire Beetle","source":"MM","page":325,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"PSX"}],"size":["S"],"type":"beast","alignment":["U"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":4,"formula":"1d6 + 1"},"speed":{"walk":30},"str":8,"dex":10,"con":12,"int":1,"wis":7,"cha":3,"senses":["blindsight
+      30 ft."],"passive":8,"cr":"0","trait":[{"name":"Illumination","entries":["The
+      beetle sheds bright light in a 10-foot radius and dim light for an additional
+      10 ft.."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 1} to hit,
+      reach 5 ft., one target. {@h}2 ({@damage 1d6 - 1}) slashing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/giant-fire-beetle.mp3"},"traitTags":["Illumination"],"senseTags":["B"],"damageTags":["S"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 68a5817c9d0b8c9859f5aa47fd102002

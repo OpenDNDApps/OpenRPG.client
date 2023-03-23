@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Thunder Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["thunder"],"detail1":"spinel","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 24e93b11c95fb45fbbc973a5b5f7fa65
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Thunder Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Thunder Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["thunder"],"detail1":"spinel","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 24e93b11c95fb45fbbc973a5b5f7fa65

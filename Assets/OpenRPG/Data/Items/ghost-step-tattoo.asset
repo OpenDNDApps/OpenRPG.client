@@ -33,3 +33,28 @@ MonoBehaviour:
     magic items you can attune to.","If your attunement to the tattoo ends, the tattoo
     vanishes, and the needle reappears in the closest unoccupied space to you."]}]}'
   DataHash: db8b468723f589f1ab8286fe9ece34ac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ghost Step Tattoo
+    Content: 
+    AsJson: '{"name":"Ghost Step Tattoo","source":"UA2020SpellsAndMagicTattoos","page":11,"rarity":"rare","reqAttune":true,"wondrous":true,"tattoo":true,"recharge":"dawn","rechargeAmount":3,"charges":3,"entries":["This
+      tattoo shifts and wavers on the skin, parts of it appearing blurred. The tattoo
+      has 3 charges, and it regains all expended charges daily at dawn.","As a bonus
+      action while the tattoo is on your skin, you can expend 1 of the tattoo''s
+      charges to become incorporeal until the end of your next turn. For the duration,
+      you gain the following benefits:",{"type":"list","items":["You have resistance
+      to bludgeoning, piercing, and slashing damage from nonmagical attacks.","You
+      can''t be {@condition grappled} or {@condition restrained}.","You can move
+      through creatures and solid objects as if they were {@quickref difficult terrain||3}.
+      If you end your turn in a solid object, you take {@damage 1d10} force damage.
+      If the effect ends while you are inside a solid object, you instead are shunted
+      to the nearest unoccupied space, and you take {@damage 1d10} force damage for
+      every 5 feet traveled."]},{"type":"entries","name":"Tattoo Attunement","entries":["To
+      attune to this item, you hold the needle to your skin where you want the tattoo
+      to appear, pressing the needle there throughout the attunement process. When
+      the attunement is complete, the needle turns into the ink that becomes the
+      tattoo, which appears on the skin. If you have multiple magic tattoos, they
+      count as a single magic item with regard to the number of magic items you can
+      attune to.","If your attunement to the tattoo ends, the tattoo vanishes, and
+      the needle reappears in the closest unoccupied space to you."]}]}'
+    DataHash: db8b468723f589f1ab8286fe9ece34ac

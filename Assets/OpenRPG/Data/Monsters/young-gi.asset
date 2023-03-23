@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Young-Gi","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":85,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Dragonborn
     (Red)","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the noble","with":"Young-Gi","flags":"i"}}},"alignment":["N"],"hasToken":true}'
   DataHash: 7ed217eb676da8439edb2795e7b92c93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young-Gi
+    Content: 
+    AsJson: '{"name":"Young-Gi","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":85,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Dragonborn
+      (Red)","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the noble","with":"Young-Gi","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+    DataHash: 7ed217eb676da8439edb2795e7b92c93

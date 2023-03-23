@@ -23,3 +23,17 @@ MonoBehaviour:
     level or higher, the range of the spell increases by 30 feet for each slot level
     above 2nd."]}],"savingThrow":["constitution"],"miscTags":["SGT","TP"]}'
   DataHash: 345e591a500d59518ab7aa9248f88eee
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vortex Warp
+    Content: 
+    AsJson: '{"name":"Vortex Warp","source":"SCC","page":38,"level":2,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      magically twist space around another creature you can see within range. The
+      target must succeed on a Constitution saving throw (the target can choose to
+      fail), or the target is teleported to an unoccupied space of your choice that
+      you can see within range. The chosen space must be on a surface or in a liquid
+      that can support the target without the target having to squeeze."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, the range of the spell increases by 30 feet for each slot
+      level above 2nd."]}],"savingThrow":["constitution"],"miscTags":["SGT","TP"]}'
+    DataHash: 345e591a500d59518ab7aa9248f88eee

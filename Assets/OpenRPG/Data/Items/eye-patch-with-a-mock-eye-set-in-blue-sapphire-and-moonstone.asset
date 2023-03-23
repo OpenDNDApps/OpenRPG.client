@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Eye patch with a mock eye set in blue sapphire and moonstone
   AsJson: '{"name":"Eye patch with a mock eye set in blue sapphire and moonstone","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: ae4f5183793193ad5a06e738a04ae4a9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eye patch with a mock eye set in blue sapphire and moonstone
+    Content: 
+    AsJson: '{"name":"Eye patch with a mock eye set in blue sapphire and moonstone","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: ae4f5183793193ad5a06e738a04ae4a9

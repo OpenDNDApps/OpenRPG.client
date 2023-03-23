@@ -20,3 +20,14 @@ MonoBehaviour:
     spell), you can cut the silvery cord that tethers the target to its material
     body, instead of dealing damage."]}'
   DataHash: 2fad35689b0b094f06d09e30f5f1d01f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver Sword
+    Content: 
+    AsJson: '{"name":"Silver Sword","source":"MTF","page":89,"type":"M","tier":"major","rarity":"unknown
+      (magic)","reqAttune":"by a creature that has psionic ability","reqAttuneTags":[{"psionics":true}],"weight":6,"weaponCategory":"martial","property":["H","2H"],"dmg1":"2d6","dmgType":"S","bonusWeapon":"+3","entries":["You
+      have a +3 bonus to attack and damage rolls made with this magic weapon. On
+      a critical hit against a target in an astral body (as with the {@spell astral
+      projection} spell), you can cut the silvery cord that tethers the target to
+      its material body, instead of dealing damage."]}'
+    DataHash: 2fad35689b0b094f06d09e30f5f1d01f

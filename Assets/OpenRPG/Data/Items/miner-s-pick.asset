@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Miner's Pick
   AsJson: '{"name":"Miner''s Pick","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200}'
   DataHash: 8f845b1c85d4952e7bfe39e0ff04247b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Miner's Pick
+    Content: 
+    AsJson: '{"name":"Miner''s Pick","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":200}'
+    DataHash: 8f845b1c85d4952e7bfe39e0ff04247b

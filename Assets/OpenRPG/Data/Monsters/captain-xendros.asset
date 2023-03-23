@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Captain Xendros","shortName":"Xendros","isNpc":true,"isNamedCreature":true,"source":"GoS","page":14,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Xendros","flags":"i"}}},"alignment":["C","E"],"senseTags":["D"],"languageTags":["I","X"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC","I"],"hasToken":true}'
   DataHash: 37910be616ba0987cbd781129b0d9b2b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Captain Xendros
+    Content: 
+    AsJson: '{"name":"Captain Xendros","shortName":"Xendros","isNpc":true,"isNamedCreature":true,"source":"GoS","page":14,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Xendros","flags":"i"}}},"alignment":["C","E"],"senseTags":["D"],"languageTags":["I","X"],"damageTagsSpell":["F","N","O","R"],"spellcastingTags":["CC","I"],"hasToken":true}'
+    DataHash: 37910be616ba0987cbd781129b0d9b2b

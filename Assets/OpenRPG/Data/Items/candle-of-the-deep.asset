@@ -17,3 +17,11 @@ MonoBehaviour:
     flame of this candle is not extinguished when immersed in water. It gives off
     light and heat like a normal candle."]}'
   DataHash: a1df883789a1f97b37b1f0cf0cef093f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Candle of the Deep
+    Content: 
+    AsJson: '{"name":"Candle of the Deep","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["The
+      flame of this candle is not extinguished when immersed in water. It gives off
+      light and heat like a normal candle."]}'
+    DataHash: a1df883789a1f97b37b1f0cf0cef093f

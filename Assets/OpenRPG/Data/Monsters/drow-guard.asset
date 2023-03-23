@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Guard","source":"OotA","page":195,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 09c89570e1f578d793f3949864769173
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Guard
+    Content: 
+    AsJson: '{"name":"Drow Guard","source":"OotA","page":195,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 09c89570e1f578d793f3949864769173

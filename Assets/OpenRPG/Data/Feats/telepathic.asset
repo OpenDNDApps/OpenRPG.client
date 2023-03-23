@@ -20,6 +20,18 @@ MonoBehaviour:
     can communicate telepathically with any creature you can see within 30 feet of
     you. If it understands at least one language, it can respond to you telepathically."]}]}'
   DataHash: be283a262c8faa456b5c71845b0c0d12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Telepathic
+    Content: 
+    AsJson: '{"name":"Telepathic","source":"UAFighterRogueWizard","page":8,"ability":[{"int":1}],"skillProficiencies":[{"choose":{"from":["insight","deception","intimidation","persuasion"]}}],"entries":["You
+      awaken the ability to mentally connect with others. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency in one skill of your
+      choice from the following list: {@skill Deception}, {@skill Insight}, {@skill
+      Intimidation}, or {@skill Persuasion}.","You can communicate telepathically
+      with any creature you can see within 30 feet of you. If it understands at least
+      one language, it can respond to you telepathically."]}]}'
+    DataHash: be283a262c8faa456b5c71845b0c0d12
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites: []

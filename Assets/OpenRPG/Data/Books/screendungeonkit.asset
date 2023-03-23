@@ -12,12 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: screendungeonkit
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Dungeon Master''s Screen: Dungeon Kit'
   AsJson: '{"name":"Dungeon Master''s Screen: Dungeon Kit","id":"ScreenDungeonKit","source":"ScreenDungeonKit","group":"screen","coverUrl":"img/covers/ScreenDungeonKit.webp","published":"2020-09-21","contents":[{"name":"Screen","headers":["Long
     Jump","High Jump","Suffocating","Concentration","Exhaustion","Conditions","State
     of Ruin","Dungeon Encounters","Dungeon Chambers"]},{"name":"Included Accessories","headers":["Condition
     and Hazard Cards","Initiative Cards","Geomorph Cards"]}]}'
   DataHash: 39636e0faaed6c025750e681fe129d7b
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Dungeon Master''s Screen: Dungeon Kit","id":"ScreenDungeonKit","source":"ScreenDungeonKit","group":"screen","coverUrl":"img/covers/ScreenDungeonKit.webp","published":"2020-09-21","contents":[{"name":"Screen","headers":["Long
+      Jump","High Jump","Suffocating","Concentration","Exhaustion","Conditions","State
+      of Ruin","Dungeon Encounters","Dungeon Chambers"]},{"name":"Included Accessories","headers":["Condition
+      and Hazard Cards","Initiative Cards","Geomorph Cards"]}]}'
+    DataHash: 39636e0faaed6c025750e681fe129d7b
+  CoverURL: img/covers/ScreenDungeonKit.webp
+  Published: 2020-09-21
   Author: 

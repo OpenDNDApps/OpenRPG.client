@@ -28,3 +28,23 @@ MonoBehaviour:
     magic items you can attune to.","If your attunement to the tattoo ends, the tattoo
     vanishes, and the needle reappears in the closest unoccupied space to you."]}]}'
   DataHash: e27339dfadcc2270e935db1646673bef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shadowfell Brand Tattoo
+    Content: 
+    AsJson: '{"name":"Shadowfell Brand Tattoo","source":"UA2020SpellsAndMagicTattoos","page":12,"rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"entries":["This tattoo
+      is dark in color and abstract. While it''s on your skin, you have advantage
+      on Dexterity ({@skill Stealth}) checks.",{"type":"entries","name":"Shadowy
+      Defense","entries":["When you take damage, you can use your reaction to become
+      shadowy and insubstantial for a moment, reducing the damage you take by half.
+      Once used, this reaction can''t be used again until the next dawn."]},{"type":"entries","name":"Tattoo
+      Attunement","entries":["To attune to this item, you hold the needle to your
+      skin where you want the tattoo to appear, pressing the needle there throughout
+      the attunement process. When the attunement is complete, the needle turns into
+      the ink that becomes the tattoo, which appears on the skin. If you have multiple
+      magic tattoos, they count as a single magic item with regard to the number
+      of magic items you can attune to.","If your attunement to the tattoo ends,
+      the tattoo vanishes, and the needle reappears in the closest unoccupied space
+      to you."]}]}'
+    DataHash: e27339dfadcc2270e935db1646673bef

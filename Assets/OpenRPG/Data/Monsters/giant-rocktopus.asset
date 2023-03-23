@@ -19,3 +19,13 @@ MonoBehaviour:
     on Dexterity ({@skill Stealth}) checks."]}},{"mode":"removeArr","names":["Hold
     Breath","Water Breathing"]}]}},"speed":{"walk":20,"climb":10},"traitTags":[],"hasToken":true}'
   DataHash: e5f4b8d45d67a82ded29cdfbbddb0a4a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Rocktopus
+    Content: 
+    AsJson: '{"name":"Giant Rocktopus","source":"OotA","page":28,"_copy":{"name":"Giant
+      Octopus","source":"MM","_mod":{"trait":[{"mode":"replaceArr","replace":"Underwater
+      Camouflage","items":{"name":"Camouflage","entries":["The octopus has advantage
+      on Dexterity ({@skill Stealth}) checks."]}},{"mode":"removeArr","names":["Hold
+      Breath","Water Breathing"]}]}},"speed":{"walk":20,"climb":10},"traitTags":[],"hasToken":true}'
+    DataHash: e5f4b8d45d67a82ded29cdfbbddb0a4a

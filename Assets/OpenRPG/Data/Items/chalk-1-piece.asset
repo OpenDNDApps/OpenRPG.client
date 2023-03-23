@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Chalk (1 piece)
   AsJson: '{"name":"Chalk (1 piece)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1}'
   DataHash: 1977f9d53fbb5c05456fdcdde566383c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chalk (1 piece)
+    Content: 
+    AsJson: '{"name":"Chalk (1 piece)","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1}'
+    DataHash: 1977f9d53fbb5c05456fdcdde566383c

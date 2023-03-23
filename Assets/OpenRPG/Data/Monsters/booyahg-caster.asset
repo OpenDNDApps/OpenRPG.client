@@ -18,3 +18,12 @@ MonoBehaviour:
     once per day. Intelligence is its spellcasting ability (spell save {@dc 10},
     {@hit 2} to hit with spell attacks)."],"ability":"int"}],"spellcastingTags":["CW"],"hasToken":true,"hasFluff":true}'
   DataHash: 8614c4abfb412cce9086b876f5fb42f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Booyahg Caster
+    Content: 
+    AsJson: '{"name":"Booyahg Caster","source":"VGM","page":42,"_copy":{"name":"Goblin","source":"MM"},"spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      goblin can cast a randomly determined {@filter 1st-level wizard spell|spells|level=1|class=wizard}
+      once per day. Intelligence is its spellcasting ability (spell save {@dc 10},
+      {@hit 2} to hit with spell attacks)."],"ability":"int"}],"spellcastingTags":["CW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 8614c4abfb412cce9086b876f5fb42f9

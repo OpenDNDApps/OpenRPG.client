@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Spiderbait","isNpc":true,"source":"OotA","page":31,"_copy":{"name":"Goblin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     goblin","with":"Spiderbait","flags":"i"}}},"alignment":["N"],"skill":{"acrobatics":"+6","athletics":"+3","stealth":"+6"},"hasToken":true,"hasFluffImages":true}'
   DataHash: 48561abb3361c33c68ff04da27bb6a7b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spiderbait
+    Content: 
+    AsJson: '{"name":"Spiderbait","isNpc":true,"source":"OotA","page":31,"_copy":{"name":"Goblin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      goblin","with":"Spiderbait","flags":"i"}}},"alignment":["N"],"skill":{"acrobatics":"+6","athletics":"+3","stealth":"+6"},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 48561abb3361c33c68ff04da27bb6a7b

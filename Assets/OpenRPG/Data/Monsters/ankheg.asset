@@ -27,3 +27,21 @@ MonoBehaviour:
     a {@dc 13} Dexterity saving throw, taking 10 ({@damage 3d6}) acid damage on a
     failed save, or half as much damage on a successful one."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/ankeg.mp3"},"senseTags":["D","T"],"damageTags":["A","S"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: cf875883a04fcfa957a5e3ba6f4fdb6c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ankheg
+    Content: 
+    AsJson: '{"name":"Ankheg","source":"MM","page":21,"srd":true,"otherSources":[{"source":"PotA"},{"source":"WDH"},{"source":"GoS"},{"source":"DIP"},{"source":"BGDIA"},{"source":"JttRC"},{"source":"KftGV"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":14,"from":["natural
+      armor"]},{"ac":11,"condition":"while prone"}],"hp":{"average":39,"formula":"6d10
+      + 6"},"speed":{"walk":30,"burrow":10},"str":17,"dex":11,"con":13,"int":1,"wis":13,"cha":6,"senses":["darkvision
+      60 ft.","tremorsense 60 ft."],"passive":11,"cr":"2","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing
+      damage plus 3 ({@damage 1d6}) acid damage. If the target is a Large or smaller
+      creature, it is {@condition grappled} (escape {@dc 13}). Until this grapple
+      ends, the ankheg can bite only the {@condition grappled} creature and has advantage
+      on attack rolls to do so."]},{"name":"Acid Spray {@recharge}","entries":["The
+      ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided
+      that it has no creature {@condition grappled}. Each creature in that line must
+      make a {@dc 13} Dexterity saving throw, taking 10 ({@damage 3d6}) acid damage
+      on a failed save, or half as much damage on a successful one."]}],"environment":["grassland","forest"],"soundClip":{"type":"internal","path":"bestiary/ankeg.mp3"},"senseTags":["D","T"],"damageTags":["A","S"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: cf875883a04fcfa957a5e3ba6f4fdb6c

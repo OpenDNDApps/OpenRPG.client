@@ -19,3 +19,14 @@ MonoBehaviour:
     down, and across vertical surfaces and upside down along ceilings, while leaving
     its hands free. The target also gains a climbing speed equal to its walking speed."]}'
   DataHash: 74fe5e68a9ccf2c28b5b1748e39aa8a0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spider Climb
+    Content: 
+    AsJson: '{"name":"Spider Climb","source":"PHB","page":277,"srd":true,"basicRules":true,"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      drop of bitumen and a spider"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["Until
+      the spell ends, one willing creature you touch gains the ability to move up,
+      down, and across vertical surfaces and upside down along ceilings, while leaving
+      its hands free. The target also gains a climbing speed equal to its walking
+      speed."]}'
+    DataHash: 74fe5e68a9ccf2c28b5b1748e39aa8a0

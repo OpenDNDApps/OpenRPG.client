@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ludmilla Vilisevic","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
     Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Ludmilla","flags":"i"}}},"hasToken":true}'
   DataHash: d2a36d16c709de967f3a273e08379786
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ludmilla Vilisevic
+    Content: 
+    AsJson: '{"name":"Ludmilla Vilisevic","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Vampire
+      Spawn","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the vampire","with":"Ludmilla","flags":"i"}}},"hasToken":true}'
+    DataHash: d2a36d16c709de967f3a273e08379786

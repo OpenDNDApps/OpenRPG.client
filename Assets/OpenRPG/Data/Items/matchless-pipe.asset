@@ -17,3 +17,11 @@ MonoBehaviour:
     switch made of flint is built into the bowl of this fine wooden smoking pipe.
     With a few flicks of the switch, the pipe lights itself."]}'
   DataHash: b4534877125aa2eb4677fe4bb5472c36
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Matchless Pipe
+    Content: 
+    AsJson: '{"name":"Matchless Pipe","source":"WDH","page":47,"type":"OTH","rarity":"unknown","entries":["A
+      switch made of flint is built into the bowl of this fine wooden smoking pipe.
+      With a few flicks of the switch, the pipe lights itself."]}'
+    DataHash: b4534877125aa2eb4677fe4bb5472c36

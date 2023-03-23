@@ -22,3 +22,16 @@ MonoBehaviour:
     one. The damage type is the same as that of the weapon or ammunition used as
     a component."],"savingThrow":["dexterity"],"areaTags":["N"]}'
   DataHash: 295fb00306dbee627667ddb5735399af
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Conjure Barrage
+    Content: 
+    AsJson: '{"name":"Conjure Barrage","source":"PHB","page":225,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"one
+      piece of ammunition or a thrown weapon"},"duration":[{"type":"instant"}],"entries":["You
+      throw a nonmagical weapon or fire a piece of nonmagical ammunition into the
+      air to create a cone of identical weapons that shoot forward and then disappear.
+      Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A
+      creature takes {@damage 3d8} damage on a failed save, or half as much damage
+      on a successful one. The damage type is the same as that of the weapon or ammunition
+      used as a component."],"savingThrow":["dexterity"],"areaTags":["N"]}'
+    DataHash: 295fb00306dbee627667ddb5735399af

@@ -19,3 +19,13 @@ MonoBehaviour:
     {@h}4 ({@damage 1d8}) force damage."]}]},{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
     phantom warrior makes two attacks with its spectral longsword or spectral longbow."]}}]}},"hasToken":true}'
   DataHash: 667a9eb1565a7a35106bd770eda9e060
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Phantom Warrior (Archer)
+    Content: 
+    AsJson: '{"name":"Phantom Warrior (Archer)","isNpc":true,"source":"CoS","page":142,"_copy":{"name":"Phantom
+      Warrior","source":"CoS","_mod":{"action":[{"mode":"appendArr","items":[{"name":"Spectral
+      Longbow","entries":["{@atk rw} {@hit 2} to hit, range 150/600 ft., one target.
+      {@h}4 ({@damage 1d8}) force damage."]}]},{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      phantom warrior makes two attacks with its spectral longsword or spectral longbow."]}}]}},"hasToken":true}'
+    DataHash: 667a9eb1565a7a35106bd770eda9e060

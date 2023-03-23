@@ -20,3 +20,14 @@ MonoBehaviour:
     500 gp to any serious gambler who doesn't mind the risk\u2014or who isn't told
     about it.\"}}},\"value\":null}"
   DataHash: dd2fc29f5998df68de8974b75c6ce5f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Enchanted Three-Dragon Ante Set
+    Content: 
+    AsJson: "{\"name\":\"Enchanted Three-Dragon Ante Set\",\"source\":\"LLK\",\"page\":15,\"_copy\":{\"name\":\"Three-Dragon
+      Ante Set\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"appendArr\",\"items\":\"One
+      card in this deck is enchanted to appear as whatever specific card its owner
+      commands. This magic works only 25 percent of the time, but the deck is worth
+      500 gp to any serious gambler who doesn't mind the risk\u2014or who isn't told
+      about it.\"}}},\"value\":null}"
+    DataHash: dd2fc29f5998df68de8974b75c6ce5f9

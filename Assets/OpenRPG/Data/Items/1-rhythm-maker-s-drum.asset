@@ -20,3 +20,14 @@ MonoBehaviour:
     {@item drum|PHB} to regain one use of your Bardic Inspiration feature. This property
     of the {@item drum|PHB} can''t be used again until the next dawn."]}'
   DataHash: 5fa1cca2ebc7f758d0b35816fc14f8af
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +1 Rhythm-Maker's Drum
+    Content: 
+    AsJson: '{"name":"+1 Rhythm-Maker''s Drum","source":"TCE","page":134,"type":"INS","rarity":"uncommon","reqAttune":"by
+      a bard","reqAttuneTags":[{"class":"bard"}],"wondrous":true,"weight":3,"grantsProficiency":true,"bonusSpellAttack":"+1","bonusSpellSaveDc":"+1","entries":["While
+      holding this {@item drum|PHB}, you gain a +1 bonus to spell attack rolls and
+      to the saving throw DCs of your bard spells.","As an action, you can play the
+      {@item drum|PHB} to regain one use of your Bardic Inspiration feature. This
+      property of the {@item drum|PHB} can''t be used again until the next dawn."]}'
+    DataHash: 5fa1cca2ebc7f758d0b35816fc14f8af

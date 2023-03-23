@@ -20,3 +20,14 @@ MonoBehaviour:
     are imitations with a successful {@dc 10} Wisdom (Insight) check."]}],"action":[{"name":"Beak","entries":["{@atk
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"environment":["swamp","hill","urban"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/raven.mp3"},"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 31243d1965d8123e514f740842a3ec05
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Raven
+    Content: 
+    AsJson: '{"name":"Raven","source":"MM","page":335,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"IDRotF"},{"source":"CM"},{"source":"WBtW"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":10,"fly":50},"str":2,"dex":14,"con":8,"int":2,"wis":12,"cha":6,"skill":{"perception":"+3"},"passive":13,"cr":"0","trait":[{"name":"Mimicry","entries":["The
+      raven can mimic simple sounds it has heard, such as a person whispering, a
+      baby crying, or an animal chittering. A creature that hears the sounds can
+      tell they are imitations with a successful {@dc 10} Wisdom (Insight) check."]}],"action":[{"name":"Beak","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"environment":["swamp","hill","urban"],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/raven.mp3"},"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 31243d1965d8123e514f740842a3ec05

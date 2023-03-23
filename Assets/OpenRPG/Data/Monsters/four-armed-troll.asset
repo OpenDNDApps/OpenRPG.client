@@ -18,3 +18,12 @@ MonoBehaviour:
     two or more claws hit the same target, the troll rends the target, dealing an
     extra {@dice 2d6} slashing damage."]}}}},"cr":"6","hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: bcc01998628113c45b244acb3b76e45b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Four-Armed Troll
+    Content: 
+    AsJson: '{"name":"Four-Armed Troll","source":"HotDQ","page":65,"otherSources":[{"source":"ToD","page":81}],"_copy":{"name":"Troll","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      troll attacks five times, once with its bite and four times with its claws.
+      If two or more claws hit the same target, the troll rends the target, dealing
+      an extra {@dice 2d6} slashing damage."]}}}},"cr":"6","hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: bcc01998628113c45b244acb3b76e45b

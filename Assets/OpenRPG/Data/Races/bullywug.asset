@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: bullywug
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Bullywug
   AsJson: '{"name":"Bullywug","source":"DMG","page":282,"size":["M"],"speed":{"walk":20,"swim":40},"ability":[{"int":-2,"cha":-2}],"traitTags":["Amphibious","NPC
     Race"],"languageProficiencies":[{"other":true}],"entries":[{"type":"entries","name":"Amphibious","entries":["You
     can breathe air and water."]},{"name":"Speak with Frogs and Toads","type":"entries","entries":["You
@@ -23,3 +23,17 @@ MonoBehaviour:
     a running start."]},{"type":"entries","name":"Languages","entries":["You can
     speak, read, and write Bullywug."]}]}'
   DataHash: c1903f682ca6325bc0a7e21e16f28e12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Bullywug","source":"DMG","page":282,"size":["M"],"speed":{"walk":20,"swim":40},"ability":[{"int":-2,"cha":-2}],"traitTags":["Amphibious","NPC
+      Race"],"languageProficiencies":[{"other":true}],"entries":[{"type":"entries","name":"Amphibious","entries":["You
+      can breathe air and water."]},{"name":"Speak with Frogs and Toads","type":"entries","entries":["You
+      can communicate simple concepts to frogs and toads when you speak in Bullywug."]},{"name":"Swamp
+      Camouflage","type":"entries","entries":["You have advantage on Dexterity ({@skill
+      Stealth}) checks made to hide in swampy terrain."]},{"name":"Standing Leap","type":"entries","entries":["Your
+      long jump is up to 20 feet and your high jump is up to 10 feet, with or without
+      a running start."]},{"type":"entries","name":"Languages","entries":["You can
+      speak, read, and write Bullywug."]}]}'
+    DataHash: c1903f682ca6325bc0a7e21e16f28e12

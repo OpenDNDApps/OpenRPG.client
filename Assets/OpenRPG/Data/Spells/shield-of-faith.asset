@@ -18,3 +18,12 @@ MonoBehaviour:
     shimmering field appears and surrounds a creature of your choice within range,
     granting it a +2 bonus to AC for the duration."],"miscTags":["MAC"],"areaTags":["ST"]}'
   DataHash: 7856d15ef334643ef8afa83e05c3dd17
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shield of Faith
+    Content: 
+    AsJson: '{"name":"Shield of Faith","source":"PHB","page":275,"srd":true,"basicRules":true,"level":1,"school":"A","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+      small parchment with a bit of holy text written on it"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["A
+      shimmering field appears and surrounds a creature of your choice within range,
+      granting it a +2 bonus to AC for the duration."],"miscTags":["MAC"],"areaTags":["ST"]}'
+    DataHash: 7856d15ef334643ef8afa83e05c3dd17

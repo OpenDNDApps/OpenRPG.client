@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blink Dog","source":"MM","page":318,"typicalSpeakers":["{@creature
     Blink Dog||blink dogs}"]}'
   DataHash: 7f51043b238c8f446de9a9e7133d84b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blink Dog
+    Content: 
+    AsJson: '{"name":"Blink Dog","source":"MM","page":318,"typicalSpeakers":["{@creature
+      Blink Dog||blink dogs}"]}'
+    DataHash: 7f51043b238c8f446de9a9e7133d84b5

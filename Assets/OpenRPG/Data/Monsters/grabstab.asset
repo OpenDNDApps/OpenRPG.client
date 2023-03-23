@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Grabstab","isNpc":true,"source":"ToA","page":89,"_copy":{"name":"Goblin
     Boss","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the goblin","with":"Grabstab","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 34c9523fdfc9040718ac46569c5fde89
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grabstab
+    Content: 
+    AsJson: '{"name":"Grabstab","isNpc":true,"source":"ToA","page":89,"_copy":{"name":"Goblin
+      Boss","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the goblin","with":"Grabstab","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 34c9523fdfc9040718ac46569c5fde89

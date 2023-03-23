@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     transparent white, smoky gray, or yellow gemstone."]}'
   DataHash: a986bf53c36783f7417bab1550df2dfe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Quartz
+    Content: 
+    AsJson: '{"name":"Quartz","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      transparent white, smoky gray, or yellow gemstone."]}'
+    DataHash: a986bf53c36783f7417bab1550df2dfe

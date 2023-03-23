@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Topolah","isNpc":true,"isNamedCreature":true,"source":"LoX","page":27,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Topolah","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
   DataHash: 8b83a65c4d49143b6567bea9a3be0bfa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Topolah
+    Content: 
+    AsJson: '{"name":"Topolah","isNpc":true,"isNamedCreature":true,"source":"LoX","page":27,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Topolah","flags":"i"}}},"alignment":["C","G"],"hasToken":true}'
+    DataHash: 8b83a65c4d49143b6567bea9a3be0bfa

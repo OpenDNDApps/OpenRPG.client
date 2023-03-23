@@ -18,3 +18,13 @@ MonoBehaviour:
     drow","with":"Yalaga","flags":"i"},"trait":{"mode":"removeArr","names":"Fey Ancestry"},"action":{"mode":"removeArr","names":"Summon
     Demon (1/Day)"}}},"type":"undead","traitTags":["Sunlight Sensitivity"],"damageTags":["I","P"],"hasToken":true}'
   DataHash: 51463a40ae794b870694745802cb8267
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yalaga Maladwyn
+    Content: 
+    AsJson: '{"name":"Yalaga Maladwyn","isNpc":true,"source":"GoS","page":226,"_copy":{"name":"Drow
+      Priestess of Lolth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Yalaga","flags":"i"},"trait":{"mode":"removeArr","names":"Fey
+      Ancestry"},"action":{"mode":"removeArr","names":"Summon Demon (1/Day)"}}},"type":"undead","traitTags":["Sunlight
+      Sensitivity"],"damageTags":["I","P"],"hasToken":true}'
+    DataHash: 51463a40ae794b870694745802cb8267

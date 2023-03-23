@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: c26cf8287b6e4ccdd8cb7625519e2ccb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lightning Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Lightning Absorbing Tattoo","source":"TCE","page":119,"resist":["lightning"],"detail1":"yellow","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: c26cf8287b6e4ccdd8cb7625519e2ccb

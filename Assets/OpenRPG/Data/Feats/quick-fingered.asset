@@ -22,6 +22,19 @@ MonoBehaviour:
     plant something on someone else, conceal an object on a creature, lift a purse,
     or take something from a pocket."]}]}'
   DataHash: 191265d932457232ffb8211ec8be9d56
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Quick-Fingered
+    Content: 
+    AsJson: '{"name":"Quick-Fingered","source":"UAFeatsForSkills","page":3,"ability":[{"dex":1}],"skillProficiencies":[{"sleight
+      of hand":true}],"entries":["Your nimble fingers and agility let you perform
+      sleight of hand. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Sleight of Hand} skill. If you are already
+      proficient in the skill, you add double your proficiency bonus to checks you
+      make with it.","As a bonus action, you can make a Dexterity ({@skill Sleight
+      of Hand}) check to plant something on someone else, conceal an object on a
+      creature, lift a purse, or take something from a pocket."]}]}'
+    DataHash: 191265d932457232ffb8211ec8be9d56
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

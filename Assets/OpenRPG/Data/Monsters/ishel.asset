@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ishel","isNpc":true,"source":"EGW","page":231,"_copy":{"name":"Drow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     drow","with":"Ishel","flags":"i"}}},"hp":{"average":24,"formula":"3d8"},"cr":"1/2","hasToken":true,"hasFluff":true}'
   DataHash: 316bd0853726fd301a39304b3012d553
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ishel
+    Content: 
+    AsJson: '{"name":"Ishel","isNpc":true,"source":"EGW","page":231,"_copy":{"name":"Drow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Ishel","flags":"i"}}},"hp":{"average":24,"formula":"3d8"},"cr":"1/2","hasToken":true,"hasFluff":true}'
+    DataHash: 316bd0853726fd301a39304b3012d553

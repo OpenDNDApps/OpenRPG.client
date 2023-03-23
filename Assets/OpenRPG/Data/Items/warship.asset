@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Warship
   AsJson: '{"name":"Warship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":2500000,"crew":60,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":2.5,"capPassenger":60,"capCargo":200,"seeAlsoVehicle":["Warship"]}'
   DataHash: 9d56c3546752921db47ccedc47a19da6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Warship
+    Content: 
+    AsJson: '{"name":"Warship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":2500000,"crew":60,"vehAc":15,"vehHp":500,"vehDmgThresh":20,"vehSpeed":2.5,"capPassenger":60,"capCargo":200,"seeAlsoVehicle":["Warship"]}'
+    DataHash: 9d56c3546752921db47ccedc47a19da6

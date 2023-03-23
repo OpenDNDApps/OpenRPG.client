@@ -18,3 +18,12 @@ MonoBehaviour:
     dragon","with":"Nurvureem","flags":"i"}}},"traitTags":["Amphibious","Legendary
     Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
   DataHash: f9aa9bb5e50eb40a4ec35fe0602a37bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nurvureem, The Dark Lady
+    Content: 
+    AsJson: '{"name":"Nurvureem, The Dark Lady","isNpc":true,"isNamedCreature":true,"source":"PotA","page":180,"_copy":{"name":"Adult
+      Black Dragon","source":"MM","_trait":{"name":"Legendary Shadow Dragon","source":"MM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dragon","with":"Nurvureem","flags":"i"}}},"traitTags":["Amphibious","Legendary
+      Resistances","Sunlight Sensitivity"],"damageTags":["B","N","P","S"],"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
+    DataHash: f9aa9bb5e50eb40a4ec35fe0602a37bb

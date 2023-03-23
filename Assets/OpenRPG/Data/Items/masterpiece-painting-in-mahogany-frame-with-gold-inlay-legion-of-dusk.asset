@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Masterpiece painting in mahogany frame with gold inlay (Legion
     of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 5ff48083c5dde556c9f1615b44c6a539
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Masterpiece painting in mahogany frame with gold inlay (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Masterpiece painting in mahogany frame with gold inlay (Legion
+      of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 5ff48083c5dde556c9f1615b44c6a539

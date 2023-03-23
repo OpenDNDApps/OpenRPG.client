@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Skriss","isNpc":true,"source":"OotA","page":29,"_copy":{"name":"Troglodyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     troglodyte","with":"Skriss","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 54a84ecd98d6a1a4bd4118f29d56fffb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skriss
+    Content: 
+    AsJson: '{"name":"Skriss","isNpc":true,"source":"OotA","page":29,"_copy":{"name":"Troglodyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      troglodyte","with":"Skriss","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 54a84ecd98d6a1a4bd4118f29d56fffb

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Clay Golem","source":"TftYP","page":113,"_copy":{"name":"Clay
     Golem","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 973d1888009bcb91e5bf2c1f36cdcb70
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Clay Golem
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Clay Golem","source":"TftYP","page":113,"_copy":{"name":"Clay
+      Golem","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 973d1888009bcb91e5bf2c1f36cdcb70

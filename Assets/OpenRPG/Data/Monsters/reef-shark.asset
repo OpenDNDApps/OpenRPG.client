@@ -23,3 +23,17 @@ MonoBehaviour:
     to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/reef-shark.mp3"},"traitTags":["Pack
     Tactics","Water Breathing"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: 9ab752a7d677326956dd875514958b8a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reef Shark
+    Content: 
+    AsJson: '{"name":"Reef Shark","source":"MM","page":336,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"GoS"},{"source":"EGW"},{"source":"CRCotN"},{"source":"JttRC"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+      armor"]}],"hp":{"average":22,"formula":"4d8 + 4"},"speed":{"swim":40},"str":14,"dex":13,"con":13,"int":1,"wis":10,"cha":4,"skill":{"perception":"+2"},"senses":["blindsight
+      30 ft."],"passive":12,"cr":"1/2","trait":[{"name":"Pack Tactics","entries":["The
+      shark has advantage on an attack roll against a creature if at least one of
+      the shark''s allies is within 5 feet of the creature and the ally isn''t {@condition
+      incapacitated}."]},{"name":"Water Breathing","entries":["The shark can breathe
+      only underwater."]}],"action":[{"name":"Bite","entries":["{@atk mw} {@hit 4}
+      to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/reef-shark.mp3"},"traitTags":["Pack
+      Tactics","Water Breathing"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 9ab752a7d677326956dd875514958b8a

@@ -25,3 +25,19 @@ MonoBehaviour:
     or the spell''s duration ends. You can end the conversation at any time, but
     a target must succeed on a Charisma saving throw to end the conversation."],"savingThrow":["charisma"]}'
   DataHash: 7dd774d6b6fcda28dd4c2fc67871b121
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Infallible Relay (UA)
+    Content: 
+    AsJson: '{"name":"Infallible Relay (UA)","source":"UAModernMagic","page":7,"level":1,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      mobile phone"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"meta":{"technomagic":true},"entries":["With
+      this spell, you can target any creature with whom you have spoken previously,
+      as long as the two of you are on the same plane of existence. When you cast
+      the spell, the nearest functioning telephone or similar communications device
+      within 100 feet of the target begins to ring. If there is no suitable device
+      close enough to the target, the spell fails.","The target must make a successful
+      Charisma saving throw or be compelled to answer your call. Once the connection
+      is established, the call is crystal clear and cannot be dropped until the conversation
+      has ended or the spell''s duration ends. You can end the conversation at any
+      time, but a target must succeed on a Charisma saving throw to end the conversation."],"savingThrow":["charisma"]}'
+    DataHash: 7dd774d6b6fcda28dd4c2fc67871b121

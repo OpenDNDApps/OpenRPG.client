@@ -20,3 +20,14 @@ MonoBehaviour:
     you use a bonus action to become visible again."],"lootTables":["Magic Item Table
     I"],"hasFluffImages":true}'
   DataHash: 4f8d363885a4808736449cfc3ed0bfdb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Invisibility
+    Content: 
+    AsJson: '{"name":"Ring of Invisibility","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"legendary","reqAttune":true,"entries":["While
+      wearing this ring, you can turn {@condition invisible} as an action. Anything
+      you are wearing or carrying is {@condition invisible} with you. You remain
+      {@condition invisible} until the ring is removed, until you attack or cast
+      a spell, or until you use a bonus action to become visible again."],"lootTables":["Magic
+      Item Table I"],"hasFluffImages":true}'
+    DataHash: 4f8d363885a4808736449cfc3ed0bfdb

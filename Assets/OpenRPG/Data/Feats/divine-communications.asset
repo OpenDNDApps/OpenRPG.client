@@ -26,6 +26,23 @@ MonoBehaviour:
     level. The spell''s spellcasting ability is the one chosen when you gained the
     Divinely Favored feat."]}]}]}'
   DataHash: 804e8144551b52dd092a03e7384a9fa9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Divine Communications
+    Content: 
+    AsJson: '{"name":"Divine Communications","source":"UA2022HeroesOfKrynn","page":5,"prerequisite":[{"level":4,"feat":["divinely
+      favored|ua2022heroesofkrynn"]}],"ability":[{"choose":{"from":["int","wis","cha"],"amount":1},"hidden":true}],"languageProficiencies":[{"celestial":true,"any":2}],"entries":["Your
+      connection to your god deepens, granting you these benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Ability
+      Score Increase","entries":["Increase the ability score of the spellcasting
+      ability chosen when you gained the Divinely Favored feat by 1, to a maximum
+      of 20."]},{"type":"item","name":"Celestial Tongues","entries":["You learn to
+      speak, read, and write Celestial, and two other languages of your choice."]},{"type":"item","name":"Divine
+      Omens","entries":["You can cast the {@spell augury} and {@spell commune} spell
+      without a spell slot, and you must finish {@dice 1d4} long rests before you
+      can cast it in this way again. You can also cast the spell using spell slots
+      you have of the appropriate level. The spell''s spellcasting ability is the
+      one chosen when you gained the Divinely Favored feat."]}]}]}'
+    DataHash: 804e8144551b52dd092a03e7384a9fa9
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites:

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Playing Card Set
   AsJson: '{"name":"Playing Card Set","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"GS","rarity":"none","value":50}'
   DataHash: 5a0216a31f1e65e02079e2598a761b34
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Playing Card Set
+    Content: 
+    AsJson: '{"name":"Playing Card Set","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"GS","rarity":"none","value":50}'
+    DataHash: 5a0216a31f1e65e02079e2598a761b34

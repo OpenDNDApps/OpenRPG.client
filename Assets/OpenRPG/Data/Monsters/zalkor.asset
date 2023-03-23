@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Zalkor\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":79,\"_copy\":{\"name\":\"Medusa\",\"source\":\"MM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
     medusa\",\"with\":\"Zalkor\xE9\",\"flags\":\"i\"}}},\"hasToken\":true}"
   DataHash: 784469d3d2f66a487999678eebeef20e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: "Zalkor\xE9"
+    Content: 
+    AsJson: "{\"name\":\"Zalkor\xE9\",\"isNpc\":true,\"source\":\"ToA\",\"page\":79,\"_copy\":{\"name\":\"Medusa\",\"source\":\"MM\",\"_mod\":{\"*\":{\"mode\":\"replaceTxt\",\"replace\":\"the
+      medusa\",\"with\":\"Zalkor\xE9\",\"flags\":\"i\"}}},\"hasToken\":true}"
+    DataHash: 784469d3d2f66a487999678eebeef20e

@@ -21,3 +21,15 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 553ffb7b3b18359451167fe27d8c904d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Boots of Striding and Springing
+    Content: 
+    AsJson: '{"name":"Boots of Striding and Springing","source":"DMG","page":156,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"modifySpeed":{"static":{"walk":30}},"entries":["While
+      you wear these boots, your walking speed becomes 30 feet, unless your walking
+      speed is higher, and your speed isn''t reduced if you are encumbered or wearing
+      heavy armor. In addition, you can jump three times the normal distance, though
+      you can''t jump farther than your remaining movement would allow."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 553ffb7b3b18359451167fe27d8c904d

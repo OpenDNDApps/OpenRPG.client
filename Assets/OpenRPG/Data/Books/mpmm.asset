@@ -12,10 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: mpmm
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Mordenkainen Presents: Monsters of the Multiverse'
   AsJson: '{"name":"Mordenkainen Presents: Monsters of the Multiverse","id":"MPMM","source":"MPMM","group":"supplement","coverUrl":"img/covers/MPMM.png","published":"2022-01-25","author":"Wizards
     RPG Team","contents":[{"name":"Using This Book"},{"name":"Fantastical Races"},{"name":"Bestiary"}]}'
   DataHash: ab6691cce65861c92d2b9bc00fbe0322
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Mordenkainen Presents: Monsters of the Multiverse","id":"MPMM","source":"MPMM","group":"supplement","coverUrl":"img/covers/MPMM.png","published":"2022-01-25","author":"Wizards
+      RPG Team","contents":[{"name":"Using This Book"},{"name":"Fantastical Races"},{"name":"Bestiary"}]}'
+    DataHash: ab6691cce65861c92d2b9bc00fbe0322
+  CoverURL: img/covers/MPMM.png
+  Published: 2022-01-25
+  Author: Wizards RPG Team

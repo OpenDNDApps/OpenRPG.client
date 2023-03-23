@@ -17,3 +17,11 @@ MonoBehaviour:
     1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional
     5 feet."]}'
   DataHash: a00630e5f7f28a7d15b26503f5092dbe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Candle
+    Content: 
+    AsJson: '{"name":"Candle","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":1,"entries":["For
+      1 hour, a candle sheds bright light in a 5-foot radius and dim light for an
+      additional 5 feet."]}'
+    DataHash: a00630e5f7f28a7d15b26503f5092dbe

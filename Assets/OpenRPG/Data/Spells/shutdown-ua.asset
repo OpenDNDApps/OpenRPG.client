@@ -20,3 +20,14 @@ MonoBehaviour:
     to prevent the device from being shut down. While the spell remains active, no
     electronic device within range can be started or restarted."],"savingThrow":["constitution"]}'
   DataHash: dbeabe6e400274f32ad19ee9db25f3ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shutdown (UA)
+    Content: 
+    AsJson: '{"name":"Shutdown (UA)","source":"UAModernMagic","page":8,"level":5,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["This
+      spell shuts down all electronic devices within range that are not wielded by
+      or under the direct control of a creature. If an electronic device within range
+      is used by a creature, that creature must succeed on a Constitution saving
+      throw to prevent the device from being shut down. While the spell remains active,
+      no electronic device within range can be started or restarted."],"savingThrow":["constitution"]}'
+    DataHash: dbeabe6e400274f32ad19ee9db25f3ce

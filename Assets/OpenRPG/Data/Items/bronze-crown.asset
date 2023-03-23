@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bronze crown
   AsJson: '{"name":"Bronze crown","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: 70fad0b90e1d6d5252e4104b4c32a7ac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bronze crown
+    Content: 
+    AsJson: '{"name":"Bronze crown","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: 70fad0b90e1d6d5252e4104b4c32a7ac

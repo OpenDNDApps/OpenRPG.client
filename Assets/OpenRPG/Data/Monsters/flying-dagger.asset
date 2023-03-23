@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
     damage."]}}}},"size":["T"],"hp":{"average":7,"formula":"3d4"},"cr":"1/8","damageTags":["P"],"hasToken":true}'
   DataHash: eebb2b1b5530ec5a0548d5911bcc91d1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flying Dagger
+    Content: 
+    AsJson: '{"name":"Flying Dagger","source":"BGDIA","page":30,"_copy":{"name":"Flying
+      Sword","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sword","with":"dagger"},"action":{"mode":"replaceArr","replace":"Longsword","items":{"name":"Dagger","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing
+      damage."]}}}},"size":["T"],"hp":{"average":7,"formula":"3d4"},"cr":"1/8","damageTags":["P"],"hasToken":true}'
+    DataHash: eebb2b1b5530ec5a0548d5911bcc91d1

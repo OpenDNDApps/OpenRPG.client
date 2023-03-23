@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold chalice (Legion of Dusk)
   AsJson: '{"name":"Gold chalice (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: 858b58e8640c785efc21a38add1852e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold chalice (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold chalice (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: 858b58e8640c785efc21a38add1852e5

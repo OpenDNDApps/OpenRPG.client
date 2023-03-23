@@ -17,3 +17,12 @@ MonoBehaviour:
     Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind flayer","with":"F''yorl","flags":"i"}}},"ac":[11],"hp":{"average":9,"formula":"13d8
     + 13"},"cr":"0","spellcasting":null,"action":null,"actionTags":[],"spellcastingTags":[],"miscTags":[],"conditionInflict":[],"conditionInflictSpell":[],"hasToken":true}'
   DataHash: b9221f4b1f793c6d8bda3c772671fe28
+  DataByEdition:
+  - Edition: d&d5e
+    Title: F'yorl
+    Content: 
+    AsJson: '{"name":"F''yorl","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":183,"_copy":{"name":"Mind
+      Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind
+      flayer","with":"F''yorl","flags":"i"}}},"ac":[11],"hp":{"average":9,"formula":"13d8
+      + 13"},"cr":"0","spellcasting":null,"action":null,"actionTags":[],"spellcastingTags":[],"miscTags":[],"conditionInflict":[],"conditionInflictSpell":[],"hasToken":true}'
+    DataHash: b9221f4b1f793c6d8bda3c772671fe28

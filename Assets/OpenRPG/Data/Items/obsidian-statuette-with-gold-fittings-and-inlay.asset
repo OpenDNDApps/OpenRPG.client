@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Obsidian statuette with gold fittings and inlay
   AsJson: '{"name":"Obsidian statuette with gold fittings and inlay","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: b5bb02771d57f66ece2a8ab26f5ff178
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Obsidian statuette with gold fittings and inlay
+    Content: 
+    AsJson: '{"name":"Obsidian statuette with gold fittings and inlay","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: b5bb02771d57f66ece2a8ab26f5ff178

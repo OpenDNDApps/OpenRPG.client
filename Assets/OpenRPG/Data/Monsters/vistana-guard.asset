@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Guard
   AsJson: '{"name":"Vistana Guard","source":"CoS","page":28,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: 55f1eea7e557e063ceffdf8925c47b1d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Guard
+    Content: 
+    AsJson: '{"name":"Vistana Guard","source":"CoS","page":28,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: 55f1eea7e557e063ceffdf8925c47b1d

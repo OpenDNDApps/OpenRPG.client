@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Radiant Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["radiant"],"detail1":"topaz","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: a771faff8dafd525845e751ed245ff94
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Radiant Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Radiant Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["radiant"],"detail1":"topaz","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: a771faff8dafd525845e751ed245ff94

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Garnet","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent red, brown-green, or violet gemstone."]}'
   DataHash: 1e6472a21cb67d2e95830091cfed34df
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Garnet
+    Content: 
+    AsJson: '{"name":"Garnet","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent red, brown-green, or violet gemstone."]}'
+    DataHash: 1e6472a21cb67d2e95830091cfed34df

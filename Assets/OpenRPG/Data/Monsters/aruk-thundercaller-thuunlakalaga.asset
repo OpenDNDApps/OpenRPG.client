@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Aruk Thundercaller Thuunlakalaga","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":169,"_copy":{"name":"Goliath
     Warrior","source":"IDRotF","_mod":{"*":{"mode":"replaceTxt","replace":"the goliath","with":"Aruk","flags":"i"},"_":[{"mode":"addSkills","skills":{"insight":1,"medicine":1}}]}},"hasToken":true,"hasFluff":true}'
   DataHash: 1d7d10f2eda5084d8a7717868510d6f4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aruk Thundercaller Thuunlakalaga
+    Content: 
+    AsJson: '{"name":"Aruk Thundercaller Thuunlakalaga","isNpc":true,"isNamedCreature":true,"source":"IDRotF","page":169,"_copy":{"name":"Goliath
+      Warrior","source":"IDRotF","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      goliath","with":"Aruk","flags":"i"},"_":[{"mode":"addSkills","skills":{"insight":1,"medicine":1}}]}},"hasToken":true,"hasFluff":true}'
+    DataHash: 1d7d10f2eda5084d8a7717868510d6f4

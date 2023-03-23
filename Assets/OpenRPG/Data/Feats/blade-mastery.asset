@@ -23,6 +23,20 @@ MonoBehaviour:
     holding the weapon.","When you make an opportunity attack with the weapon, you
     have advantage on the attack roll."]}]}'
   DataHash: 2d9a37f7407859abea86115710a67ccf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blade Mastery
+    Content: 
+    AsJson: '{"name":"Blade Mastery","source":"UAFeats","page":2,"entries":["You
+      master the {@item shortsword|phb}, {@item longsword|phb}, {@item scimitar|phb},
+      {@item rapier|phb}, and {@item greatsword|phb}. You gain the following benefits
+      when using any of them:",{"type":"list","items":["You gain a +1 bonus to attack
+      rolls you make with the weapon.","On your turn, you can use your reaction to
+      assume a parrying stance, provided you have the weapon in hand. Doing so grants
+      you a +1 bonus to your AC until the start of your next turn or until you''re
+      not holding the weapon.","When you make an opportunity attack with the weapon,
+      you have advantage on the attack roll."]}]}'
+    DataHash: 2d9a37f7407859abea86115710a67ccf
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

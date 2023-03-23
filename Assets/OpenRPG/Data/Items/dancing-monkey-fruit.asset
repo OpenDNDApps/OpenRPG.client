@@ -25,3 +25,19 @@ MonoBehaviour:
     a success. When the dancing effect ends, the humanoid suffers the {@condition
     poisoned} condition for 1 hour."]}'
   DataHash: 330b96229ee44a86db9a9330199a2a22
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dancing Monkey Fruit
+    Content: 
+    AsJson: '{"name":"Dancing Monkey Fruit","source":"ToA","page":205,"type":"OTH","rarity":"unknown
+      (magic)","value":500,"entries":["This rare magical fruit produces enough juice
+      to fill a vial. Any humanoid that eats a dancing monkey fruit or drinks its
+      juice must succeed on a DC 14 Constitution saving throw or begin a comic dance
+      that lasts for 1 minute. Humanoids that can''t be {@condition poisoned} are
+      immune to this magical effect.","The dancer must use all its movement to dance
+      without leaving its space and has disadvantage on attack rolls and Dexterity
+      saving throws, and other creatures have advantage on attack rolls against it.
+      Each time it takes damage, the dancer can repeat the saving throw, ending the
+      effect on itself on a success. When the dancing effect ends, the humanoid suffers
+      the {@condition poisoned} condition for 1 hour."]}'
+    DataHash: 330b96229ee44a86db9a9330199a2a22

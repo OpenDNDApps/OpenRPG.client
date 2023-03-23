@@ -20,3 +20,14 @@ MonoBehaviour:
     paladin of Torm. The {@creature war priest|vgm} stat block from {@book Volo''s
     Guide to Monsters|VGM} has been provided here for ease of use."]}}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: 81a65288ee058409001d1b62039bd524
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ontharr Frume
+    Content: 
+    AsJson: '{"name":"Ontharr Frume","isNpc":true,"source":"HotDQ","page":28,"otherSources":[{"source":"ToD","page":15}],"_copy":{"name":"War
+      Priest","source":"VGM","_mod":{"trait":{"mode":"prependArr","items":{"name":"5etools
+      Note","entries":["Ontharr Frume is presented in {@adventure Hoard of the Dragon
+      Queen|HotDQ} and The {@adventure Rise of Tiamat|RoT} as a lawful good, human
+      paladin of Torm. The {@creature war priest|vgm} stat block from {@book Volo''s
+      Guide to Monsters|VGM} has been provided here for ease of use."]}}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: 81a65288ee058409001d1b62039bd524

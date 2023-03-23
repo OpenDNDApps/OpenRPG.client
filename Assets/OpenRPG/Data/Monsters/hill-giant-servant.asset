@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hill Giant Servant
   AsJson: '{"name":"Hill Giant Servant","source":"TftYP","page":170,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant"}}},"hasToken":true}'
   DataHash: 6bfc64b9b36f9e7dee85950a79a50048
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hill Giant Servant
+    Content: 
+    AsJson: '{"name":"Hill Giant Servant","source":"TftYP","page":170,"_copy":{"name":"Ogre","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"ogre","with":"giant"}}},"hasToken":true}'
+    DataHash: 6bfc64b9b36f9e7dee85950a79a50048

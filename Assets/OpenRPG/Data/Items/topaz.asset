@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Topaz","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
     transparent golden yellow gemstone."]}'
   DataHash: 99f6229eb821a7730a302fa418905275
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Topaz
+    Content: 
+    AsJson: '{"name":"Topaz","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+      transparent golden yellow gemstone."]}'
+    DataHash: 99f6229eb821a7730a302fa418905275

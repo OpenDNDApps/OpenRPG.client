@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 8} to hit, reach 5 ft., one target. {@h}19 ({@damage 3d8 + 6}) piercing
     damage."]}}}},"speed":{"walk":40,"swim":30},"traitTags":["Hold Breath"],"hasToken":true}'
   DataHash: 8f8db230514187f39aee6f24e0d220f0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hippopotamus
+    Content: 
+    AsJson: '{"name":"Hippopotamus","source":"PSA","page":38,"_copy":{"name":"Elephant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elephant","with":"hippopotamus"},"trait":{"mode":"appendArr","items":{"name":"Hold
+      Breath","entries":["The hippopotamus can hold its breath for 30 minutes."]}},"action":{"mode":"replaceArr","replace":"Gore","items":{"name":"Bite","entries":["{@atk
+      mw} {@hit 8} to hit, reach 5 ft., one target. {@h}19 ({@damage 3d8 + 6}) piercing
+      damage."]}}}},"speed":{"walk":40,"swim":30},"traitTags":["Hold Breath"],"hasToken":true}'
+    DataHash: 8f8db230514187f39aee6f24e0d220f0

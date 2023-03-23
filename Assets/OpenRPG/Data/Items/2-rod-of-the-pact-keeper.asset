@@ -20,3 +20,14 @@ MonoBehaviour:
     slot as an action while holding the rod. You can''t use this property again until
     you finish a long rest."],"lootTables":["Magic Item Table G"]}'
   DataHash: 9095d2e242f778aab0540e949f330114
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +2 Rod of the Pact Keeper
+    Content: 
+    AsJson: '{"name":"+2 Rod of the Pact Keeper","source":"DMG","page":197,"type":"RD","tier":"major","rarity":"rare","reqAttune":"by
+      a warlock","reqAttuneTags":[{"class":"warlock"}],"weight":2,"bonusSpellAttack":"+2","bonusSpellSaveDc":"+2","entries":["While
+      holding this rod, you gain a +2 bonus to spell attack rolls and to the saving
+      throw DCs of your warlock spells.","In addition, you can regain one warlock
+      spell slot as an action while holding the rod. You can''t use this property
+      again until you finish a long rest."],"lootTables":["Magic Item Table G"]}'
+    DataHash: 9095d2e242f778aab0540e949f330114

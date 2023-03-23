@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d8}) piercing
     damage."]}}}},"type":{"type":"humanoid","tags":["human"]},"damageTags":["B","P"],"miscTags":["MW","RNG"],"hasToken":true}'
   DataHash: 3366fa4ddaca2c67ea560e9aeca86a00
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Harkina Hunt
+    Content: 
+    AsJson: '{"name":"Harkina Hunt","isNpc":true,"source":"BGDIA","page":53,"_copy":{"name":"Commoner","source":"MM","_mod":{"action":{"mode":"appendArr","items":{"name":"Longbow","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d8}) piercing
+      damage."]}}}},"type":{"type":"humanoid","tags":["human"]},"damageTags":["B","P"],"miscTags":["MW","RNG"],"hasToken":true}'
+    DataHash: 3366fa4ddaca2c67ea560e9aeca86a00

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Torgja Stonecrusher (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bandit","with":"Torgja Stonecrusher","flags":"i"}}},"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 256384f87efb3020f4411ff2c6ca45b6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Torgja Stonecrusher (Levels 1-4)
+    Content: 
+    AsJson: '{"name":"Torgja Stonecrusher (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bandit","with":"Torgja Stonecrusher","flags":"i"}}},"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 256384f87efb3020f4411ff2c6ca45b6

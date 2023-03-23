@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bedroll
   AsJson: '{"name":"Bedroll","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":7,"value":100}'
   DataHash: 52926d9fb76e7d19f56a2bc153e1021f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bedroll
+    Content: 
+    AsJson: '{"name":"Bedroll","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":7,"value":100}'
+    DataHash: 52926d9fb76e7d19f56a2bc153e1021f

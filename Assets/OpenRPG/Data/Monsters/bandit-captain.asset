@@ -26,3 +26,21 @@ MonoBehaviour:
     the captain must see the attacker and be wielding a melee weapon."]}],"environment":["coastal","hill","arctic","urban","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/bandit-captain.mp3"},"altArt":[{"name":"Diabolical
     Bandit Captain","source":"MTF","page":18}],"actionTags":["Multiattack","Parry"],"languageTags":["X"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 80f49cdf13a512c9f70757a5736900c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bandit Captain
+    Content: 
+    AsJson: '{"name":"Bandit Captain","source":"MM","page":344,"srd":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"IMR"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CM"},{"source":"CoS"},{"source":"CRCotN"},{"source":"LoX"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["NX","C","G","NY","E"],"ac":[{"ac":15,"from":["{@item
+      studded leather armor|phb|studded leather}"]}],"hp":{"average":65,"formula":"10d8
+      + 20"},"speed":{"walk":30},"str":15,"dex":16,"con":14,"int":14,"wis":11,"cha":14,"save":{"str":"+4","dex":"+5","wis":"+2"},"skill":{"athletics":"+4","deception":"+4"},"passive":10,"languages":["any
+      two languages"],"cr":"2","action":[{"name":"Multiattack","entries":["The captain
+      makes three melee attacks: two with its scimitar and one with its dagger. Or
+      the captain makes two ranged attacks with its daggers."]},{"name":"Scimitar","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing
+      damage."]},{"name":"Dagger","entries":["{@atk mw,rw} {@hit 5} to hit, reach
+      5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."]}],"reaction":[{"name":"Parry","entries":["The
+      captain adds 2 to its AC against one melee attack that would hit it. To do
+      so, the captain must see the attacker and be wielding a melee weapon."]}],"environment":["coastal","hill","arctic","urban","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/bandit-captain.mp3"},"altArt":[{"name":"Diabolical
+      Bandit Captain","source":"MTF","page":18}],"actionTags":["Multiattack","Parry"],"languageTags":["X"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 80f49cdf13a512c9f70757a5736900c7

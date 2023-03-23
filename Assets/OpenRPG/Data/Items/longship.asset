@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Longship
   AsJson: '{"name":"Longship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":1000000,"crew":40,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":3,"capPassenger":150,"capCargo":10,"seeAlsoVehicle":["Longship"]}'
   DataHash: 38db65e5e6c9eed0ae484a9147d5519a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Longship
+    Content: 
+    AsJson: '{"name":"Longship","source":"DMG","page":119,"srd":true,"basicRules":true,"type":"SHP","rarity":"none","value":1000000,"crew":40,"vehAc":15,"vehHp":300,"vehDmgThresh":15,"vehSpeed":3,"capPassenger":150,"capCargo":10,"seeAlsoVehicle":["Longship"]}'
+    DataHash: 38db65e5e6c9eed0ae484a9147d5519a

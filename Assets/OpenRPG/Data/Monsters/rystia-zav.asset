@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Rystia Zav","isNpc":true,"source":"OotA","page":135,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Rystia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 890ef87fbc9b318c7b6298787f7dd65c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rystia Zav
+    Content: 
+    AsJson: '{"name":"Rystia Zav","isNpc":true,"source":"OotA","page":135,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Rystia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 890ef87fbc9b318c7b6298787f7dd65c

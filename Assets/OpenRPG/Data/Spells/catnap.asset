@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, you can target one additional willing creature for each slot
     level above 3rd."]}],"conditionInflict":["unconscious"],"miscTags":["SGT"],"areaTags":["MT"]}'
   DataHash: 69991e6ac3b8d483dc06d96b7b906d0e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Catnap
+    Content: 
+    AsJson: '{"name":"Catnap","source":"XGE","page":151,"level":3,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"s":true,"m":"a
+      pinch of sand"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"entries":["You
+      make a calming gesture, and up to three willing creatures of your choice that
+      you can see within range fall {@condition unconscious} for the spell''s duration.
+      The spell ends on a target early if it takes damage or someone uses an action
+      to shake or slap it awake. If a target remains {@condition unconscious} for
+      the full duration, that target gains the benefit of a short rest, and it can''t
+      be affected by this spell again until it finishes a long rest."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, you can target one additional willing creature for each slot
+      level above 3rd."]}],"conditionInflict":["unconscious"],"miscTags":["SGT"],"areaTags":["MT"]}'
+    DataHash: 69991e6ac3b8d483dc06d96b7b906d0e

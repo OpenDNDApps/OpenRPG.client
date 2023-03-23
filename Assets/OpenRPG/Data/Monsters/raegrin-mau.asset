@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the cultist","with":"Raegrin","flags":"i"}}},"traitTags":["Fey
     Ancestry"],"hasToken":true}'
   DataHash: f56c669526587bbe3e72a25b77380c07
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Raegrin Mau
+    Content: 
+    AsJson: '{"name":"Raegrin Mau","isNpc":true,"source":"EGW","page":240,"_copy":{"name":"Cultist","source":"MM","_trait":{"name":"Wood
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the cultist","with":"Raegrin","flags":"i"}}},"traitTags":["Fey
+      Ancestry"],"hasToken":true}'
+    DataHash: f56c669526587bbe3e72a25b77380c07

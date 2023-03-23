@@ -18,6 +18,15 @@ MonoBehaviour:
     that you can see or hear. You must end this move closer to the enemy than you
     started."]}'
   DataHash: 621b4ad46bf8604596373f173c2a2ef0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orcish Aggression
+    Content: 
+    AsJson: '{"name":"Orcish Aggression","source":"UAFeatsForRaces","page":3,"prerequisite":[{"race":[{"name":"half-orc"}]}],"entries":["As
+      a bonus action, you can move up to your speed toward an enemy of your choice
+      that you can see or hear. You must end this move closer to the enemy than you
+      started."]}'
+    DataHash: 621b4ad46bf8604596373f173c2a2ef0
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites:

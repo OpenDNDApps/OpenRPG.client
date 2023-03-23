@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Buppido","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Derro","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the
     derro","with":"Buppido","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 9a610ff67346c009cedec0a9d865b3cf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Buppido
+    Content: 
+    AsJson: '{"name":"Buppido","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Derro","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      derro","with":"Buppido","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 9a610ff67346c009cedec0a9d865b3cf

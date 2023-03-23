@@ -17,3 +17,11 @@ MonoBehaviour:
     Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind flayer","with":"Ignatius
     Inkblot","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
   DataHash: b32bdf3241fd87a685b77b00116a37c1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ignatius Inkblot
+    Content: 
+    AsJson: '{"name":"Ignatius Inkblot","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Mind
+      Flayer","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the mind
+      flayer","with":"Ignatius Inkblot","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
+    DataHash: b32bdf3241fd87a685b77b00116a37c1

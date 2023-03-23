@@ -24,6 +24,21 @@ MonoBehaviour:
     cast it as a bonus action a number of times equal to your proficiency bonus,
     regaining all expended uses when you finish a long rest."]}]}]}'
   DataHash: ab29977eaffb1cb772c0603241a83d93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scion Of Elemental Fire
+    Content: 
+    AsJson: '{"name":"Scion Of Elemental Fire","source":"UA2022WondersOfTheMultiverse","page":9,"additionalSpells":[{"known":{"_":["dancing
+      lights#c","produce flame#c"]}}],"entries":["You''ve been exposed to the primordial
+      magic of the Elemental Plane of Fire, granting you the following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Elemental
+      Magic","entries":["You learn the {@spell dancing lights} cantrip, using Intelligence,
+      Wisdom, or Charisma as the spellcasting ability (choose when you select this
+      feat)."]},{"type":"item","name":"Fervent Blaze","entries":["You learn the {@spell
+      produce flame} cantrip, using the same spellcasting ability chosen for this
+      feat''s Elemental Magic benefit. You can cast produce flame as normal, and
+      you can also cast it as a bonus action a number of times equal to your proficiency
+      bonus, regaining all expended uses when you finish a long rest."]}]}]}'
+    DataHash: ab29977eaffb1cb772c0603241a83d93
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 9
   Prerequisites: []

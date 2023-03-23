@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tartha","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Fire
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Tartha","flags":"i"}}},"hasToken":true}'
   DataHash: 730d74e1f41a153846d54254f4f6d818
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tartha
+    Content: 
+    AsJson: '{"name":"Tartha","isNpc":true,"source":"SKT","page":207,"_copy":{"name":"Fire
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Tartha","flags":"i"}}},"hasToken":true}'
+    DataHash: 730d74e1f41a153846d54254f4f6d818

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sardonyx","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque bands of red and white gemstone."]}'
   DataHash: 2ca23fcfe03f31bf75d6a17f004e178d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sardonyx
+    Content: 
+    AsJson: '{"name":"Sardonyx","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque bands of red and white gemstone."]}'
+    DataHash: 2ca23fcfe03f31bf75d6a17f004e178d

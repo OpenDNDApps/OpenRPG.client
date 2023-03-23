@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Emrakul","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Tarrasque","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     tarrasque","with":"Emrakul","flags":"i"}}},"hasToken":true}'
   DataHash: 833fc478547c760cf458ba9097c512f0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emrakul
+    Content: 
+    AsJson: '{"name":"Emrakul","isNamedCreature":true,"source":"PSZ","page":38,"_copy":{"name":"Tarrasque","source":"MM","_trait":{"name":"Eldrazi","source":"PSZ"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      tarrasque","with":"Emrakul","flags":"i"}}},"hasToken":true}'
+    DataHash: 833fc478547c760cf458ba9097c512f0

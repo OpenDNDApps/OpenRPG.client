@@ -19,3 +19,14 @@ MonoBehaviour:
     that rely on moving silently."],"optionalfeatures":["replicate magic item|tce","replicate
     magic item|uaartificerrevisited"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
   DataHash: 07b86a31fe6a1d6423e3b3403595e66b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Boots of Elvenkind
+    Content: 
+    AsJson: '{"name":"Boots of Elvenkind","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"uncommon","wondrous":true,"entries":["While
+      you wear these boots, your steps make no sound, regardless of the surface you
+      are moving across. You also have advantage on Dexterity ({@skill Stealth})
+      checks that rely on moving silently."],"optionalfeatures":["replicate magic
+      item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 07b86a31fe6a1d6423e3b3403595e66b

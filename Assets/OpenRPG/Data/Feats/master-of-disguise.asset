@@ -23,6 +23,20 @@ MonoBehaviour:
     a {@item disguise kit|PHB}. You must make checks as normal to disguise yourself,
     but you can assume the disguise as an action."]}]}'
   DataHash: 63c38b5d7f42f517ddb8a32f403cf6d0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Master of Disguise
+    Content: 
+    AsJson: '{"name":"Master of Disguise","source":"UAFeats","page":4,"ability":[{"cha":1}],"toolProficiencies":[{"disguise
+      kit":true}],"entries":["You have honed your ability to shape your personality
+      and to read the personalities of others. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency with the {@item disguise kit|phb}. If you are already proficient
+      with it, you add double your proficiency bonus to checks you make with it.","If
+      you spend 1 hour observing a creature, you can then spend 8 hours crafting
+      a disguise you can quickly don to mimic that creature. Making the disguise
+      requires a {@item disguise kit|PHB}. You must make checks as normal to disguise
+      yourself, but you can assume the disguise as an action."]}]}'
+    DataHash: 63c38b5d7f42f517ddb8a32f403cf6d0
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 4
   Prerequisites: []

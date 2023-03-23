@@ -19,3 +19,13 @@ MonoBehaviour:
     60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
     responses"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: 1571a8876208c4601d75b4e106cd9fb9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Replica Duodrone
+    Content: 
+    AsJson: '{"name":"Replica Duodrone","source":"OoW","page":132,"_copy":{"name":"Duodrone","source":"MM","_mod":{"trait":{"mode":"replaceArr","replace":"Disintegration","items":{"name":"Dismantlable","entries":["If
+      the replica duodrone dies, its body falls into a pile of parts (gears, plates,
+      screws, and wires), leaving behind its weapons and anything else it was carrying."]}}}},"senses":["darkvision
+      60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
+      responses"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: 1571a8876208c4601d75b4e106cd9fb9

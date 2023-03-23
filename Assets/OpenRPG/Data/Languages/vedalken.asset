@@ -18,3 +18,12 @@ MonoBehaviour:
     for its technical treatises and its catalogs of knowledge about the natural world
     and the aether that pervades it."]}'
   DataHash: 4f314552a9af8b47f19d5c79e0184f0e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vedalken
+    Content: 
+    AsJson: '{"name":"Vedalken","source":"GGR","page":9,"additionalSources":[{"source":"PSK","page":23}],"type":"standard","typicalSpeakers":["{@race
+      Vedalken|ggr}"],"script":"Vedalken","entries":["The Vedalken language is renowned
+      for its technical treatises and its catalogs of knowledge about the natural
+      world and the aether that pervades it."]}'
+    DataHash: 4f314552a9af8b47f19d5c79e0184f0e

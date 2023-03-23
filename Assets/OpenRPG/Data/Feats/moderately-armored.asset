@@ -18,6 +18,15 @@ MonoBehaviour:
     benefits:",{"type":"list","items":["You gain proficiency with medium armor and
     shields."]}]}'
   DataHash: 78e098a7a7f7bc90accb2b6d06bdb61a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Moderately Armored
+    Content: 
+    AsJson: '{"name":"Moderately Armored","source":"PHB","page":168,"prerequisite":[{"proficiency":[{"armor":"light"}]}],"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"armorProficiencies":[{"medium":true,"shield|phb":true}],"entries":["You
+      have trained to master the use of medium armor and shields, gaining the following
+      benefits:",{"type":"list","items":["You gain proficiency with medium armor
+      and shields."]}]}'
+    DataHash: 78e098a7a7f7bc90accb2b6d06bdb61a
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 168
   Prerequisites: []

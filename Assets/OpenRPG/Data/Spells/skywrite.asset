@@ -19,3 +19,13 @@ MonoBehaviour:
     dissipate when the spell ends. A strong wind can disperse the clouds and end
     the spell early."],"miscTags":["SGT"]}'
   DataHash: a99a53f9c5ce2a3d6db9ef6386f0e2fa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skywrite
+    Content: 
+    AsJson: '{"name":"Skywrite","source":"XGE","page":165,"otherSources":[{"source":"EEPC","page":22}],"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"sight"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"ritual":true},"entries":["You
+      cause up to ten words to form in a part of the sky you can see. The words appear
+      to be made of cloud and remain in place for the spell''s duration. The words
+      dissipate when the spell ends. A strong wind can disperse the clouds and end
+      the spell early."],"miscTags":["SGT"]}'
+    DataHash: a99a53f9c5ce2a3d6db9ef6386f0e2fa

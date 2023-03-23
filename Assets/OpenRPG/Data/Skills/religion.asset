@@ -12,9 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: religion
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Religion
   AsJson: '{"name":"Religion","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
     Intelligence (Religion) check measures your ability to recall lore about deities,
     rites and prayers, religious hierarchies, holy symbols, and the practices of
     secret cults."]}'
   DataHash: 5555e5a3fc87cf5b16d37bbc0e07e85a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Religion","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
+      Intelligence (Religion) check measures your ability to recall lore about deities,
+      rites and prayers, religious hierarchies, holy symbols, and the practices of
+      secret cults."]}'
+    DataHash: 5555e5a3fc87cf5b16d37bbc0e07e85a

@@ -21,6 +21,18 @@ MonoBehaviour:
     ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check you make to escape
     from being {@condition grappled}."]}]}'
   DataHash: ac19e702252b82c5f9e712868479d25c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Squat Nimbleness
+    Content: 
+    AsJson: '{"name":"Squat Nimbleness","source":"XGE","page":75,"prerequisite":[{"race":[{"name":"dwarf"},{"name":"small
+      race","displayEntry":"a Small race"}]}],"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"skillProficiencies":[{"choose":{"from":["acrobatics","athletics"]}}],"entries":["You
+      are uncommonly nimble for your race. You gain the following benefits:",{"type":"list","items":["Increase
+      your walking speed by 5 feet.","You gain proficiency in the {@skill Acrobatics}
+      or {@skill Athletics} skill (your choice).","You have advantage on any Strength
+      ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check you make to escape
+      from being {@condition grappled}."]}]}'
+    DataHash: ac19e702252b82c5f9e712868479d25c
   Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   SourcePages: 75
   Prerequisites:

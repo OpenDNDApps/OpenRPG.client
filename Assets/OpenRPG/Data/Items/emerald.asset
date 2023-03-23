@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Emerald","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     transparent deep bright green gemstone."]}'
   DataHash: 17b1d67d55300cafe87b3580bb05c6c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emerald
+    Content: 
+    AsJson: '{"name":"Emerald","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      transparent deep bright green gemstone."]}'
+    DataHash: 17b1d67d55300cafe87b3580bb05c6c5

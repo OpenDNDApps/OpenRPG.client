@@ -12,10 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: oga
   m_EditorClassIdentifier: 
-  Title: 
+  Title: One Grung Above
   AsJson: '{"name":"One Grung Above","id":"OGA","source":"OGA","group":"supplement-alt","coverUrl":"img/covers/OGA.png","published":"2017-10-11","author":"Extra
     Life","contents":[{"name":"One Grung Above"}]}'
   DataHash: 14c453ddc1039c734af1587e3b2ba106
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"One Grung Above","id":"OGA","source":"OGA","group":"supplement-alt","coverUrl":"img/covers/OGA.png","published":"2017-10-11","author":"Extra
+      Life","contents":[{"name":"One Grung Above"}]}'
+    DataHash: 14c453ddc1039c734af1587e3b2ba106
+  CoverURL: img/covers/OGA.png
+  Published: 2017-10-11
+  Author: Extra Life

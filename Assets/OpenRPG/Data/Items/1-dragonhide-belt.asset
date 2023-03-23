@@ -20,3 +20,14 @@ MonoBehaviour:
     to regain ki points equal to a roll of your Martial Arts die. You can''t use
     this action again until the next dawn."]}'
   DataHash: 3b4f76dee67ac218be01bfab4a71bc2c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +1 Dragonhide Belt
+    Content: 
+    AsJson: '{"name":"+1 Dragonhide Belt","source":"FTD","page":23,"rarity":"uncommon","reqAttune":"by
+      a monk","reqAttuneTags":[{"class":"monk"}],"wondrous":true,"entries":["This
+      finely detailed belt is made of dragonhide. While wearing it, you gain a +1
+      bonus to the saving throw DCs of your ki features. In addition, you can use
+      an action to regain ki points equal to a roll of your Martial Arts die. You
+      can''t use this action again until the next dawn."]}'
+    DataHash: 3b4f76dee67ac218be01bfab4a71bc2c

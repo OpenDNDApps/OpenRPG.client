@@ -17,3 +17,11 @@ MonoBehaviour:
     Toad","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the toad","with":"Old
     Croaker","flags":"i"}}},"immune":["cold"],"hasToken":true}'
   DataHash: 743c99b07b1c11a0091288de78c89424
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Old Croaker
+    Content: 
+    AsJson: '{"name":"Old Croaker","isNpc":true,"source":"EGW","page":240,"_copy":{"name":"Giant
+      Toad","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the toad","with":"Old
+      Croaker","flags":"i"}}},"immune":["cold"],"hasToken":true}'
+    DataHash: 743c99b07b1c11a0091288de78c89424

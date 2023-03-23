@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Urwin Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR","_mod":{"*":{"mode":"replaceTxt","replace":"the
     wereraven","with":"Urwin","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
   DataHash: 60993abd828336662659325073d0d662
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Urwin Martikov
+    Content: 
+    AsJson: '{"name":"Urwin Martikov","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      wereraven","with":"Urwin","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 60993abd828336662659325073d0d662

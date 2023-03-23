@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Reindeer
   AsJson: '{"name":"Reindeer","source":"IDRotF","page":107,"_copy":{"name":"Elk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elk","with":"reindeer"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 96000a372bde02555a0d17d601829ba3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reindeer
+    Content: 
+    AsJson: '{"name":"Reindeer","source":"IDRotF","page":107,"_copy":{"name":"Elk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elk","with":"reindeer"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 96000a372bde02555a0d17d601829ba3

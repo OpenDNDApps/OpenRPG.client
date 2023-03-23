@@ -18,3 +18,12 @@ MonoBehaviour:
     longsword has a dragon-shaped hilt. While you carry it, you gain the ability
     to speak and understand the Draconic language."]}'
   DataHash: 80f38a57c5f169fe50a497b0c08f9ed7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Draconic Longsword
+    Content: 
+    AsJson: '{"name":"Draconic Longsword","source":"ToA","page":173,"baseItem":"longsword|phb","type":"M","rarity":"unknown
+      (magic)","weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","sword":true,"weapon":true,"entries":["This
+      longsword has a dragon-shaped hilt. While you carry it, you gain the ability
+      to speak and understand the Draconic language."]}'
+    DataHash: 80f38a57c5f169fe50a497b0c08f9ed7

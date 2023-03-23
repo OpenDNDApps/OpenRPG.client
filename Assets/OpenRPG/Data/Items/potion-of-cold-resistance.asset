@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Cold Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["cold"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: fb9f395af46ba23ee89be3f3a3a4dc38
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Cold Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Cold Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["cold"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: fb9f395af46ba23ee89be3f3a3a4dc38

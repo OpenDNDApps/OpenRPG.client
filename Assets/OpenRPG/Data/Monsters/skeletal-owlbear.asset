@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Skeletal Owlbear
   AsJson: '{"name":"Skeletal Owlbear","source":"IMR","page":36,"_copy":{"name":"Owlbear","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
   DataHash: 4a2e6b428266c5f21274406b4e8ae0bd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeletal Owlbear
+    Content: 
+    AsJson: '{"name":"Skeletal Owlbear","source":"IMR","page":36,"_copy":{"name":"Owlbear","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
+    DataHash: 4a2e6b428266c5f21274406b4e8ae0bd

@@ -17,3 +17,11 @@ MonoBehaviour:
     Kraul Warrior|GGR|kraul warriors}","{@creature Kraul Death Priest|GGR|kraul death
     priests}","{@creature Devkarin Lich|GGR|devkarin liches}"],"script":"Kraul"}'
   DataHash: a17a428e897198370a7792e2f2384475
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kraul
+    Content: 
+    AsJson: '{"name":"Kraul","source":"GGR","page":9,"type":"standard","typicalSpeakers":["kraul","{@creature
+      Kraul Warrior|GGR|kraul warriors}","{@creature Kraul Death Priest|GGR|kraul
+      death priests}","{@creature Devkarin Lich|GGR|devkarin liches}"],"script":"Kraul"}'
+    DataHash: a17a428e897198370a7792e2f2384475

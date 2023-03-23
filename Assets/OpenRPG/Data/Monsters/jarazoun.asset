@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jarazoun","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Efreeti","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     efreeti","with":"Jarazoun","flags":"i"}}},"hasToken":true}'
   DataHash: 4ef5a3ecc575d278f36efad18f4d7671
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jarazoun
+    Content: 
+    AsJson: '{"name":"Jarazoun","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Efreeti","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      efreeti","with":"Jarazoun","flags":"i"}}},"hasToken":true}'
+    DataHash: 4ef5a3ecc575d278f36efad18f4d7671

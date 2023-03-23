@@ -18,6 +18,16 @@ MonoBehaviour:
     hits you with a melee attack, you can use your reaction to add your proficiency
     bonus to your AC for that attack, potentially causing the attack to miss you."]}'
   DataHash: d44864feacee54f4e736bc62c5faed5d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Defensive Duelist
+    Content: 
+    AsJson: '{"name":"Defensive Duelist","source":"PHB","page":165,"prerequisite":[{"ability":[{"dex":13}]}],"entries":["When
+      you are wielding a finesse weapon with which you are proficient and another
+      creature hits you with a melee attack, you can use your reaction to add your
+      proficiency bonus to your AC for that attack, potentially causing the attack
+      to miss you."]}'
+    DataHash: d44864feacee54f4e736bc62c5faed5d
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

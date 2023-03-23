@@ -20,6 +20,17 @@ MonoBehaviour:
     make a melee attack against a creature, you don''t provoke opportunity attacks
     from that creature for the rest of the turn, whether you hit or not."]}]}'
   DataHash: fb9bcd4cb83495287aed02e3562af480
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mobile
+    Content: 
+    AsJson: '{"name":"Mobile","source":"PHB","page":168,"entries":["You are exceptionally
+      speedy and agile. You gain the following benefits:",{"type":"list","items":["Your
+      speed increases by 10 feet.","When you use the {@action Dash} action, {@quickref
+      difficult terrain||3} doesn''t cost you extra movement on that turn.","When
+      you make a melee attack against a creature, you don''t provoke opportunity
+      attacks from that creature for the rest of the turn, whether you hit or not."]}]}'
+    DataHash: fb9bcd4cb83495287aed02e3562af480
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 168
   Prerequisites: []

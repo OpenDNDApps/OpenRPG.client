@@ -12,9 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: history
   m_EditorClassIdentifier: 
-  Title: 
+  Title: History
   AsJson: '{"name":"History","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Your
     Intelligence (History) check measures your ability to recall lore about historical
     events, legendary people, ancient kingdoms, past disputes, recent wars, and lost
     civilizations."]}'
   DataHash: 29204317c7b390ed4cfa28dbf5c288b8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"History","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Your
+      Intelligence (History) check measures your ability to recall lore about historical
+      events, legendary people, ancient kingdoms, past disputes, recent wars, and
+      lost civilizations."]}'
+    DataHash: 29204317c7b390ed4cfa28dbf5c288b8

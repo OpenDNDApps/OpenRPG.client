@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Black Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     translucent dark green with black mottling and golden flecks gemstone."]}'
   DataHash: af267e2b44638cad4d41fa4fa48f451a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Opal
+    Content: 
+    AsJson: '{"name":"Black Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      translucent dark green with black mottling and golden flecks gemstone."]}'
+    DataHash: af267e2b44638cad4d41fa4fa48f451a

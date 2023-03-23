@@ -19,3 +19,14 @@ MonoBehaviour:
     4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) slashing damage."]}],"environment":["mountain","grassland","hill","coastal"],"soundClip":{"type":"internal","path":"bestiary/eagle.mp3"},"traitTags":["Keen
     Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 3c789b92968facb24bc3cf8e1dedfd5b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eagle
+    Content: 
+    AsJson: '{"name":"Eagle","source":"MM","page":322,"srd":true,"basicRules":true,"otherSources":[{"source":"CM"}],"size":["S"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":10,"fly":60},"str":6,"dex":15,"con":10,"int":2,"wis":14,"cha":7,"skill":{"perception":"+4"},"passive":14,"cr":"0","trait":[{"name":"Keen
+      Sight","entries":["The eagle has advantage on Wisdom ({@skill Perception})
+      checks that rely on sight."]}],"action":[{"name":"Talons","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) slashing
+      damage."]}],"environment":["mountain","grassland","hill","coastal"],"soundClip":{"type":"internal","path":"bestiary/eagle.mp3"},"traitTags":["Keen
+      Senses"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 3c789b92968facb24bc3cf8e1dedfd5b

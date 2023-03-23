@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Dukha Bhatiyali","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":124,"_copy":{"name":"Weretiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     weretiger","with":"Dukha","flags":"i"}}},"alignment":["N"],"hasToken":true}'
   DataHash: 52ed450644e4389b2959156bd46b1706
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dukha Bhatiyali
+    Content: 
+    AsJson: '{"name":"Dukha Bhatiyali","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":124,"_copy":{"name":"Weretiger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      weretiger","with":"Dukha","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+    DataHash: 52ed450644e4389b2959156bd46b1706

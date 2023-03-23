@@ -19,3 +19,13 @@ MonoBehaviour:
     hours. The food is bland but nourishing, and spoils if uneaten after 24 hours.
     The water is clean and doesn''t go bad."]}'
   DataHash: bca227329c33e65d6f971868de90e7ea
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Create Food and Water
+    Content: 
+    AsJson: '{"name":"Create Food and Water","source":"PHB","page":229,"srd":true,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      create 45 pounds of food and 30 gallons of water on the ground or in containers
+      within range, enough to sustain up to fifteen humanoids or five steeds for
+      24 hours. The food is bland but nourishing, and spoils if uneaten after 24
+      hours. The water is clean and doesn''t go bad."]}'
+    DataHash: bca227329c33e65d6f971868de90e7ea

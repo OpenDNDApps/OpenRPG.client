@@ -25,6 +25,22 @@ MonoBehaviour:
     spells using spell slots you have of the appropriate level. The spells'' spellcasting
     ability is the ability increased by this feat."]}]}'
   DataHash: c842410f46e1c9686cee69ae4641f3f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fey Touched
+    Content: 
+    AsJson: '{"name":"Fey Touched","source":"UA2020Feats","page":2,"ability":[{"choose":{"from":["int","wis","cha"],"amount":1}}],"additionalSpells":[{"ability":"inherit","innate":{"_":{"daily":{"1e":["misty
+      step",{"choose":"level=1|school=E;D"}]}}}}],"entries":["Your exposure to the
+      Feywild or one of its denizens has left a magical mark on you. You gain the
+      following benefits:",{"type":"list","items":["You learn the {@spell misty step}
+      spell and one {@filter 1st-level spell|spells|level=1|school=E;D} of your choice.
+      The {@filter 1st-level spell|spells|level=1|school=E;D} must be from the divination
+      or enchantment school of magic. You can cast each of these spells without expending
+      a spell slot. Once you cast either of these spells in this way, you can''t
+      cast that spell in this way again until you finish a long rest. You can also
+      cast these spells using spell slots you have of the appropriate level. The
+      spells'' spellcasting ability is the ability increased by this feat."]}]}'
+    DataHash: c842410f46e1c9686cee69ae4641f3f1
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

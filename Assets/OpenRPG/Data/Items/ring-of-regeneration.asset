@@ -20,3 +20,14 @@ MonoBehaviour:
     to full functionality after {@dice 1d6 + 1} days if you have at least 1 hit point
     the whole time."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
   DataHash: c603a85593ceb396105d57704abcb0ec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Regeneration
+    Content: 
+    AsJson: '{"name":"Ring of Regeneration","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"very
+      rare","reqAttune":true,"entries":["While wearing this ring, you regain {@dice
+      1d6} hit points every 10 minutes, provided that you have at least 1 hit point.
+      If you lose a body part, the ring causes the missing part to regrow and return
+      to full functionality after {@dice 1d6 + 1} days if you have at least 1 hit
+      point the whole time."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
+    DataHash: c603a85593ceb396105d57704abcb0ec

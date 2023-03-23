@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Mister Threadneedle","isNpc":true,"source":"ToA","page":183,"_copy":{"name":"Scarecrow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scarecrow","with":"Mister Threadneedle","flags":"i"}}},"hasToken":true}'
   DataHash: 30e254767bab36194d1972163f836c79
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mister Threadneedle
+    Content: 
+    AsJson: '{"name":"Mister Threadneedle","isNpc":true,"source":"ToA","page":183,"_copy":{"name":"Scarecrow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scarecrow","with":"Mister Threadneedle","flags":"i"}}},"hasToken":true}'
+    DataHash: 30e254767bab36194d1972163f836c79

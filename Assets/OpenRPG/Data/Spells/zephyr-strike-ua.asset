@@ -19,3 +19,13 @@ MonoBehaviour:
     before the spell ends, you make the attack roll with advantage, and your speed
     increases by 30 feet until the end of that turn."]}'
   DataHash: dc1b3a0428fd8a315dbe30a6c0e9f2d8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zephyr Strike (UA)
+    Content: 
+    AsJson: '{"name":"Zephyr Strike (UA)","source":"UAStarterSpells","page":5,"level":1,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      move like the wind. For the duration, your movement doesn''t provoke opportunity
+      attacks.","In addition, the first time you make a weapon attack on your turn
+      before the spell ends, you make the attack roll with advantage, and your speed
+      increases by 30 feet until the end of that turn."]}'
+    DataHash: dc1b3a0428fd8a315dbe30a6c0e9f2d8

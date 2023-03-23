@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carved ivory statuette
   AsJson: '{"name":"Carved ivory statuette","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: e81a82490f5c4e2692eaf37d9b60d352
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carved ivory statuette
+    Content: 
+    AsJson: '{"name":"Carved ivory statuette","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: e81a82490f5c4e2692eaf37d9b60d352

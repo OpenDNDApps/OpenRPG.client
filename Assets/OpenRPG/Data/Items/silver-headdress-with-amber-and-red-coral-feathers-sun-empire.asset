@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silver headdress with amber and red-coral feathers (Sun Empire)
   AsJson: '{"name":"Silver headdress with amber and red-coral feathers (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: cce45e1cd7dbaf5c126e325d8d923652
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver headdress with amber and red-coral feathers (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Silver headdress with amber and red-coral feathers (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: cce45e1cd7dbaf5c126e325d8d923652

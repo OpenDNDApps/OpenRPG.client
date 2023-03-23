@@ -20,3 +20,14 @@ MonoBehaviour:
     throw, taking 7 ({@damage 2d4 + 2}) fire damage on a failed save, or half as
     much damage on a successful one."]}],"actionTags":["Breath Weapon"],"damageTags":["F"],"miscTags":[],"hasToken":true}'
   DataHash: f2eeec921dd0692dd54fb1d29b5e8ee9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone Dragon Statue
+    Content: 
+    AsJson: '{"name":"Stone Dragon Statue","source":"TftYP","page":85,"_copy":{"name":"Stone
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue","flags":"i"}}},"action":[{"name":"Steam
+      Breath","entries":["The statue exhales steam in a line that is 30 feet long
+      and 10 feet wide. Each creature in that area must make a {@dc 15} Constitution
+      saving throw, taking 7 ({@damage 2d4 + 2}) fire damage on a failed save, or
+      half as much damage on a successful one."]}],"actionTags":["Breath Weapon"],"damageTags":["F"],"miscTags":[],"hasToken":true}'
+    DataHash: f2eeec921dd0692dd54fb1d29b5e8ee9

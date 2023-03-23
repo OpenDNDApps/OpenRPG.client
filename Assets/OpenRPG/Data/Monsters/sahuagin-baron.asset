@@ -30,3 +30,24 @@ MonoBehaviour:
     2d6 + 4}) piercing damage, or 13 ({@damage 2d8 + 4}) piercing damage if used
     with two hands to make a melee attack."]}],"environment":["underwater","coastal"],"soundClip":{"type":"internal","path":"bestiary/sahuagin-baron.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["OTH"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 9dc3cc529e2bc775f2fc7e6e960e9a48
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sahuagin Baron
+    Content: 
+    AsJson: '{"name":"Sahuagin Baron","source":"MM","page":264,"otherSources":[{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"JttRC"}],"size":["L"],"type":{"type":"humanoid","tags":["sahuagin"]},"alignment":["L","E"],"ac":[{"ac":16,"from":["{@item
+      breastplate|phb}"]}],"hp":{"average":76,"formula":"9d10 + 27"},"speed":{"walk":30,"swim":50},"str":19,"dex":15,"con":16,"int":14,"wis":13,"cha":17,"save":{"dex":"+5","con":"+6","int":"+5","wis":"+4"},"skill":{"perception":"+7"},"senses":["darkvision
+      120 ft."],"passive":17,"languages":["Sahuagin"],"cr":"5","trait":[{"name":"Blood
+      Frenzy","entries":["The sahuagin has advantage on melee attack rolls against
+      any creature that doesn''t have all its hit points."]},{"name":"Limited Amphibiousness","entries":["The
+      sahuagin can breathe air and water, but it needs to be submerged at least once
+      every 4 hours to avoid suffocating."]},{"name":"Shark Telepathy","entries":["The
+      sahuagin can magically command any shark within 120 feet of it, using a limited
+      telepathy."]}],"action":[{"name":"Multiattack","entries":["The sahuagin makes
+      three attacks: one with his bite and two with his claws or trident."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) piercing
+      damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 7} to hit, reach 5 ft.,
+      one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."]},{"name":"Trident","entries":["{@atk
+      mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}11
+      ({@damage 2d6 + 4}) piercing damage, or 13 ({@damage 2d8 + 4}) piercing damage
+      if used with two hands to make a melee attack."]}],"environment":["underwater","coastal"],"soundClip":{"type":"internal","path":"bestiary/sahuagin-baron.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["OTH"],"damageTags":["P","S"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 9dc3cc529e2bc775f2fc7e6e960e9a48

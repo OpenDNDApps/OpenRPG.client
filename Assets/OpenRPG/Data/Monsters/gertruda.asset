@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gertruda
   AsJson: '{"name":"Gertruda","isNpc":true,"source":"CoS","page":68,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 2828045d49888b51f401efb594b81f59
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gertruda
+    Content: 
+    AsJson: '{"name":"Gertruda","isNpc":true,"source":"CoS","page":68,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 2828045d49888b51f401efb594b81f59

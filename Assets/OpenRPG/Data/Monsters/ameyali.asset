@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ameyali","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":108,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Ameyali","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: 36078a3fbcf8c9bde1297b2d5630245b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ameyali
+    Content: 
+    AsJson: '{"name":"Ameyali","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":108,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Ameyali","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 36078a3fbcf8c9bde1297b2d5630245b

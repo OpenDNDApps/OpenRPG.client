@@ -21,3 +21,16 @@ MonoBehaviour:
     Levels","entries":["When you cast this spell using a spell slot of 4th level
     or higher, you can target one additional creature for each slot level above 3rd."]}],"areaTags":["ST"]}'
   DataHash: 4ad5c0552747d466ff00c6ba03b784f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fly
+    Content: 
+    AsJson: '{"name":"Fly","source":"PHB","page":243,"srd":true,"basicRules":true,"level":3,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      wing feather from any bird"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+      touch a willing creature. The target gains a flying speed of 60 feet for the
+      duration. When the spell ends, the target falls if it is still aloft, unless
+      it can stop the fall."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, you can target one additional creature for each slot level
+      above 3rd."]}],"areaTags":["ST"]}'
+    DataHash: 4ad5c0552747d466ff00c6ba03b784f8

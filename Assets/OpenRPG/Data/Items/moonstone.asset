@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Moonstone","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     translucent white with pale blue glow gemstone."]}'
   DataHash: c49fe6478bbab5f838a6752d3dc4cdf1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Moonstone
+    Content: 
+    AsJson: '{"name":"Moonstone","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      translucent white with pale blue glow gemstone."]}'
+    DataHash: c49fe6478bbab5f838a6752d3dc4cdf1

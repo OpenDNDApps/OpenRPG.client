@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Orc Commoner
   AsJson: '{"name":"Orc Commoner","source":"TftYP","page":167,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Orc","source":"DMG"}},"traitTags":["Aggressive"],"senseTags":["D"],"languageTags":["C","O","X"],"hasToken":true}'
   DataHash: adf1b985b5a37eb8868d53ec8fabed01
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orc Commoner
+    Content: 
+    AsJson: '{"name":"Orc Commoner","source":"TftYP","page":167,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Orc","source":"DMG"}},"traitTags":["Aggressive"],"senseTags":["D"],"languageTags":["C","O","X"],"hasToken":true}'
+    DataHash: adf1b985b5a37eb8868d53ec8fabed01

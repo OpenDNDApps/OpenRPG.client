@@ -20,3 +20,14 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/badger.mp3"},"traitTags":["Keen
     Senses"],"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 9aa95b4cdbc5c045bd77760894d77ded
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Badger
+    Content: 
+    AsJson: '{"name":"Badger","source":"MM","page":318,"srd":true,"basicRules":true,"otherSources":[{"source":"WBtW"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":3,"formula":"1d4
+      + 1"},"speed":{"walk":20,"burrow":5},"str":4,"dex":11,"con":12,"int":2,"wis":12,"cha":5,"senses":["darkvision
+      30 ft."],"passive":11,"cr":"0","trait":[{"name":"Keen Smell","entries":["The
+      badger has advantage on Wisdom ({@skill Perception}) checks that rely on smell."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 piercing damage."]}],"environment":["forest"],"soundClip":{"type":"internal","path":"bestiary/badger.mp3"},"traitTags":["Keen
+      Senses"],"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 9aa95b4cdbc5c045bd77760894d77ded

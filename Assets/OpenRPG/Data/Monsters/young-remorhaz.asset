@@ -21,3 +21,15 @@ MonoBehaviour:
     mw} {@hit 6} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d10 + 4}) piercing
     damage plus 7 ({@damage 2d6}) fire damage."]}],"environment":["arctic"],"soundClip":{"type":"internal","path":"bestiary/remorhaz.mp3"},"senseTags":["D","T"],"damageTags":["F","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: bc15680a4d4aa181612d244ebaa8a0f2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Remorhaz
+    Content: 
+    AsJson: '{"name":"Young Remorhaz","source":"MM","page":258,"otherSources":[{"source":"SKT"},{"source":"EGW"},{"source":"IDRotF"}],"size":["L"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":93,"formula":"11d10 + 33"},"speed":{"walk":30,"burrow":30},"str":18,"dex":13,"con":17,"int":3,"wis":10,"cha":4,"senses":["darkvision
+      60 ft.","tremorsense 60 ft."],"passive":10,"immune":["cold","fire"],"cr":"5","trait":[{"name":"Heated
+      Body","entries":["A creature that touches the remorhaz or hits it with a melee
+      attack while within 5 feet of it takes 7 ({@damage 2d6}) fire damage."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d10 + 4}) piercing
+      damage plus 7 ({@damage 2d6}) fire damage."]}],"environment":["arctic"],"soundClip":{"type":"internal","path":"bestiary/remorhaz.mp3"},"senseTags":["D","T"],"damageTags":["F","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: bc15680a4d4aa181612d244ebaa8a0f2

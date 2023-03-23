@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tourmaline","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent pale green, blue, brown, or red gemstone."]}'
   DataHash: b9bd911678f166bac7c3d44feda614ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tourmaline
+    Content: 
+    AsJson: '{"name":"Tourmaline","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent pale green, blue, brown, or red gemstone."]}'
+    DataHash: b9bd911678f166bac7c3d44feda614ce

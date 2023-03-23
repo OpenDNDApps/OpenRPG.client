@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Joster Mareet","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Incubus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     fiend","with":"Joster Mareet","flags":"i"}}},"type":{"type":"humanoid","tags":["incubus"]},"hasToken":true}'
   DataHash: 16c80f2192a6cedec744e6d7cf59e543
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Joster Mareet
+    Content: 
+    AsJson: '{"name":"Joster Mareet","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Incubus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      fiend","with":"Joster Mareet","flags":"i"}}},"type":{"type":"humanoid","tags":["incubus"]},"hasToken":true}'
+    DataHash: 16c80f2192a6cedec744e6d7cf59e543

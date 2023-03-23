@@ -21,6 +21,18 @@ MonoBehaviour:
     hit) or push the target up to 10 feet away from you (if you chose to shove and
     you succeed)."]}'
   DataHash: bb570b853d70665340d18b1f98417f53
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Charger
+    Content: 
+    AsJson: '{"name":"Charger","source":"PHB","page":165,"entries":["When you use
+      your action to {@action Dash}, you can use a bonus action to make one melee
+      weapon attack or to {@action shove} a creature.","If you move at least 10 feet
+      in a straight line immediately before taking this bonus action, you either
+      gain a +5 bonus to the attack''s damage roll (if you chose to make a melee
+      attack and hit) or push the target up to 10 feet away from you (if you chose
+      to shove and you succeed)."]}'
+    DataHash: bb570b853d70665340d18b1f98417f53
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

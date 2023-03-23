@@ -20,6 +20,17 @@ MonoBehaviour:
     in either skill, your proficiency bonus is doubled for any check you make with
     that skill."]}]}'
   DataHash: 499834e09976d9a8aef8743eb0eecd60
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Everybody's Friend
+    Content: 
+    AsJson: '{"name":"Everybody''s Friend","source":"UAFeatsForRaces","page":2,"prerequisite":[{"race":[{"name":"half-elf"}]}],"ability":[{"cha":1}],"skillProficiencies":[{"deception":true,"persuasion":true}],"entries":["You
+      develop your magnetic personality to ease your way through the world. You gain
+      the following benefits:",{"type":"list","items":["You gain proficiency in the
+      {@skill Deception} and {@skill Persuasion} skills. If you''re already proficient
+      in either skill, your proficiency bonus is doubled for any check you make with
+      that skill."]}]}'
+    DataHash: 499834e09976d9a8aef8743eb0eecd60
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites:

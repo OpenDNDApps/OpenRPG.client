@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade bowl (River Heralds)
   AsJson: '{"name":"Jade bowl (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 6ead7536cac01e9402d55675ba9f3993
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade bowl (River Heralds)
+    Content: 
+    AsJson: '{"name":"Jade bowl (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 6ead7536cac01e9402d55675ba9f3993

@@ -22,3 +22,16 @@ MonoBehaviour:
     quaggoth makes two claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit
     5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/quaggoth.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d306e98d40e1df1e7a68ee872a382b78
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Quaggoth
+    Content: 
+    AsJson: '{"name":"Quaggoth","source":"MM","page":256,"otherSources":[{"source":"WDMM"},{"source":"IDRotF"},{"source":"LoX"}],"size":["M"],"type":{"type":"humanoid","tags":["quaggoth"]},"alignment":["C","N"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":45,"formula":"6d8 + 18"},"speed":{"walk":30,"climb":30},"str":17,"dex":12,"con":16,"int":6,"wis":12,"cha":7,"skill":{"athletics":"+5"},"senses":["darkvision
+      120 ft."],"passive":11,"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Undercommon"],"cr":"2","trait":[{"name":"Wounded
+      Fury","entries":["While it has 10 hit points or fewer, the quaggoth has advantage
+      on attack rolls. In addition, it deals an extra 7 ({@dice 2d6}) damage to any
+      target it hits with a melee attack."]}],"action":[{"name":"Multiattack","entries":["The
+      quaggoth makes two claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit
+      5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/quaggoth.mp3"},"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d306e98d40e1df1e7a68ee872a382b78

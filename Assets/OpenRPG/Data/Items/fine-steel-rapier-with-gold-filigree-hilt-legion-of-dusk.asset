@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fine steel rapier with gold filigree hilt (Legion of Dusk)
   AsJson: '{"name":"Fine steel rapier with gold filigree hilt (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: 69b09c8640eac135e8dcd48711f37b86
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine steel rapier with gold filigree hilt (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Fine steel rapier with gold filigree hilt (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: 69b09c8640eac135e8dcd48711f37b86

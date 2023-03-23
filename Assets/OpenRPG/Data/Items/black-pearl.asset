@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Black Pearl","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["An
     opaque pure black gemstone."]}'
   DataHash: 8f0bff101214d7564f971e5a56a7e298
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Black Pearl
+    Content: 
+    AsJson: '{"name":"Black Pearl","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["An
+      opaque pure black gemstone."]}'
+    DataHash: 8f0bff101214d7564f971e5a56a7e298

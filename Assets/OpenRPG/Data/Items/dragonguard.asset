@@ -19,3 +19,13 @@ MonoBehaviour:
     named Tergon, it grants its wearer advantage on saving throws against the breath
     weapons of creatures that have the dragon type."]}'
   DataHash: 6015679464b421891ea560b7f813cc92
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dragonguard
+    Content: 
+    AsJson: '{"name":"Dragonguard","source":"LMoP","page":48,"type":"MA","rarity":"rare","weight":20,"ac":14,"bonusAc":"+1","entries":["You
+      have a +1 bonus to AC while wearing this armor.","This +1 breastplate has a
+      gold dragon motif worked into its design. Created for a human hero of Neverwinter
+      named Tergon, it grants its wearer advantage on saving throws against the breath
+      weapons of creatures that have the dragon type."]}'
+    DataHash: 6015679464b421891ea560b7f813cc92

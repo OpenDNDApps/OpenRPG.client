@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Warhorse
   AsJson: '{"name":"Warhorse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":40000,"carryingCapacity":540,"speed":60}'
   DataHash: 504dc323554e736a134842f2a440cb42
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Warhorse
+    Content: 
+    AsJson: '{"name":"Warhorse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":40000,"carryingCapacity":540,"speed":60}'
+    DataHash: 504dc323554e736a134842f2a440cb42

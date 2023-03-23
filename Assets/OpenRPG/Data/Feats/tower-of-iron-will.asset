@@ -19,6 +19,16 @@ MonoBehaviour:
     Talent die and add the number rolled to the saving throw, potentially causing
     it to succeed."]}'
   DataHash: 2122a401eace1cac94aa5ec11ce99b40
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tower of Iron Will
+    Content: 
+    AsJson: '{"name":"Tower of Iron Will","source":"UA2020PsionicOptionsRevisited","page":9,"prerequisite":[{"psionics":true}],"entries":["Your
+      mind''s defenses are formidable. After you or another creature you can see
+      within 30 feet of you fails a saving throw, you can use your reaction to roll
+      your Psionic Talent die and add the number rolled to the saving throw, potentially
+      causing it to succeed."]}'
+    DataHash: 2122a401eace1cac94aa5ec11ce99b40
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 9
   Prerequisites: []

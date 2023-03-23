@@ -32,6 +32,29 @@ MonoBehaviour:
     Wisdom for {@filter cleric|spells|level=0;1|class=cleric} or {@filter druid|spells|level=0;1|class=druid};
     or Intelligence for {@filter wizard|spells|level=0;1|class=wizard}."]}'
   DataHash: aec1865c6c9ec7cfa10c8b8956e15d33
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Magic Initiate
+    Content: 
+    AsJson: '{"name":"Magic Initiate","source":"PHB","page":168,"additionalSpells":[{"name":"Bard
+      Spells","ability":"cha","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Bard"}]}}},"known":{"_":[{"choose":"level=0|class=Bard","count":2}]}},{"name":"Cleric
+      Spells","ability":"wis","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Cleric"}]}}},"known":{"_":[{"choose":"level=0|class=Cleric","count":2}]}},{"name":"Druid
+      Spells","ability":"wis","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Druid"}]}}},"known":{"_":[{"choose":"level=0|class=Druid","count":2}]}},{"name":"Sorcerer
+      Spells","ability":"cha","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Sorcerer"}]}}},"known":{"_":[{"choose":"level=0|class=Sorcerer","count":2}]}},{"name":"Warlock
+      Spells","ability":"cha","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Warlock"}]}}},"known":{"_":[{"choose":"level=0|class=Warlock","count":2}]}},{"name":"Wizard
+      Spells","ability":"int","innate":{"_":{"daily":{"1":[{"choose":"level=1|class=Wizard"}]}}},"known":{"_":[{"choose":"level=0|class=Wizard","count":2}]}}],"entries":["Choose
+      a class: {@filter bard|spells|level=0;1|class=bard}, {@filter cleric|spells|level=0;1|class=cleric},
+      {@filter druid|spells|level=0;1|class=druid}, {@filter sorcerer|spells|level=0;1|class=sorcerer},
+      {@filter warlock|spells|level=0;1|class=warlock}, or {@filter wizard|spells|level=0;1|class=wizard}.
+      You learn two cantrips of your choice from that class''s spell list.","In addition,
+      choose one 1st-level spell to learn from that same list. Using this feat, you
+      can cast the spell once at its lowest level, and you must finish a long rest
+      before you can cast it in this way again.","Your spellcasting ability for these
+      spells depends on the class you chose: Charisma for {@filter bard|spells|level=0;1|class=bard},
+      {@filter sorcerer|spells|level=0;1|class=sorcerer}, or {@filter warlock|spells|level=0;1|class=warlock};
+      Wisdom for {@filter cleric|spells|level=0;1|class=cleric} or {@filter druid|spells|level=0;1|class=druid};
+      or Intelligence for {@filter wizard|spells|level=0;1|class=wizard}."]}'
+    DataHash: aec1865c6c9ec7cfa10c8b8956e15d33
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 168
   Prerequisites: []

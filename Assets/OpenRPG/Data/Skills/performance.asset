@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: performance
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Performance
   AsJson: '{"name":"Performance","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["Your
     Charisma (Performance) check determines how well you can delight an audience
     with music, dance, acting, storytelling, or some other form of entertainment."]}'
   DataHash: db9c4f719ac002ebf2867a1566192967
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Performance","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["Your
+      Charisma (Performance) check determines how well you can delight an audience
+      with music, dance, acting, storytelling, or some other form of entertainment."]}'
+    DataHash: db9c4f719ac002ebf2867a1566192967

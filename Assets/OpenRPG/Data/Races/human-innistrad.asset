@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: human-innistrad
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Human (Innistrad)
   AsJson: '{"name":"Human (Innistrad)","source":"PSI","page":8,"size":["M"],"speed":30,"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
     reach adulthood in their late teens and live less than a century."]},{"name":"Alignment","type":"entries","entries":["Humans
     tend toward no particular alignment."]},{"type":"entries","name":"Size","entries":["Humans
@@ -20,3 +20,14 @@ MonoBehaviour:
     Regardless of your position in that range, your size is Medium."]},{"name":"Languages","entries":["You
     can speak, read, and write Common and one extra language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
   DataHash: 6efa4cd2b5d7d7d90e4ff0f1ca2a4e47
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Human (Innistrad)","source":"PSI","page":8,"size":["M"],"speed":30,"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
+      reach adulthood in their late teens and live less than a century."]},{"name":"Alignment","type":"entries","entries":["Humans
+      tend toward no particular alignment."]},{"type":"entries","name":"Size","entries":["Humans
+      vary widely in height and build, from barely 5 feet to well over 6 feet tall.
+      Regardless of your position in that range, your size is Medium."]},{"name":"Languages","entries":["You
+      can speak, read, and write Common and one extra language of your choice."],"type":"entries"}],"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 6efa4cd2b5d7d7d90e4ff0f1ca2a4e47

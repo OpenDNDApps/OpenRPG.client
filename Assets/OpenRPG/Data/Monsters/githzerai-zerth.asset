@@ -26,3 +26,20 @@ MonoBehaviour:
     mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
     damage plus 13 ({@damage 3d8}) psychic damage. This is a magic weapon attack."]}],"soundClip":{"type":"internal","path":"bestiary/githzerai-zerth.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["B","Y"],"damageTagsSpell":["Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0b5b24e9edb68fc8d39bb2667f170f56
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Githzerai Zerth
+    Content: 
+    AsJson: '{"name":"Githzerai Zerth","source":"MM","page":161,"otherSources":[{"source":"WDMM"}],"size":["M"],"type":{"type":"humanoid","tags":["gith"]},"alignment":["L","N"],"ac":[17],"hp":{"average":84,"formula":"13d8
+      + 26"},"speed":{"walk":30},"str":13,"dex":18,"con":15,"int":16,"wis":17,"cha":12,"save":{"str":"+4","dex":"+7","int":"+6","wis":"+6"},"skill":{"arcana":"+6","insight":"+6","perception":"+6"},"passive":16,"languages":["Gith"],"cr":"6","spellcasting":[{"name":"Innate
+      Spellcasting (Psionics)","headerEntries":["The githzerai''s innate spellcasting
+      ability is Wisdom. It can innately cast the following spells, requiring no
+      components:"],"will":["{@spell mage hand} (the hand is invisible)"],"daily":{"3e":["{@spell
+      feather fall}","{@spell jump}","{@spell see invisibility}","{@spell shield}"],"1e":["{@spell
+      phantasmal killer}","{@spell plane shift}"]},"ability":"wis"}],"trait":[{"name":"Psychic
+      Defense","entries":["While the githzerai is wearing no armor and wielding no
+      shield, its AC includes its Wisdom modifier."]}],"action":[{"name":"Multiattack","entries":["The
+      githzerai makes two unarmed strikes."]},{"name":"Unarmed Strike","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+      damage plus 13 ({@damage 3d8}) psychic damage. This is a magic weapon attack."]}],"soundClip":{"type":"internal","path":"bestiary/githzerai-zerth.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["B","Y"],"damageTagsSpell":["Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0b5b24e9edb68fc8d39bb2667f170f56

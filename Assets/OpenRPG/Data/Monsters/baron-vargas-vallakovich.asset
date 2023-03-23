@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Baron Vargas Vallakovich","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Vargas","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 729865c154eb283dc8d8c0187de25058
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baron Vargas Vallakovich
+    Content: 
+    AsJson: '{"name":"Baron Vargas Vallakovich","isNpc":true,"source":"CoS","page":105,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Vargas","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 729865c154eb283dc8d8c0187de25058

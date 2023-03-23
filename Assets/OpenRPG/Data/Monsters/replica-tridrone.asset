@@ -19,3 +19,13 @@ MonoBehaviour:
     60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
     responses"],"languageTags":["C","OTH"],"hasToken":true}'
   DataHash: 92b5d2517aca5cc95ed75259eb2d0517
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Replica Tridrone
+    Content: 
+    AsJson: '{"name":"Replica Tridrone","source":"OoW","page":132,"_copy":{"name":"Tridrone","source":"MM","_mod":{"trait":{"mode":"replaceArr","replace":"Disintegration","items":{"name":"Dismantlable","entries":["If
+      the replica tridrone dies, its body falls into a pile of parts (gears, plates,
+      screws, and wires), leaving behind its weapons and anything else it was carrying."]}}}},"senses":["darkvision
+      60 ft."],"languages":["Modron","can understand Common but speaks only preprogrammed
+      responses"],"languageTags":["C","OTH"],"hasToken":true}'
+    DataHash: 92b5d2517aca5cc95ed75259eb2d0517

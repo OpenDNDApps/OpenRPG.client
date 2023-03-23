@@ -35,3 +35,29 @@ MonoBehaviour:
     ft., one target. {@h}8 ({@damage 1d6 + 5}) piercing damage."]}],"traitTags":["Keen
     Senses"],"actionTags":["Multiattack"],"languageTags":["AB","C","H","I","TP"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a43b7f42a51fe813932bb037671871b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vellin Farstride
+    Content: 
+    AsJson: '{"name":"Vellin Farstride","isNamedCreature":true,"source":"MaBJoV","page":62,"size":["S"],"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N","G"],"ac":[{"ac":17,"from":["{@item
+      studded leather armor|PHB|studded leather}"]}],"hp":{"average":91,"formula":"14d6
+      + 42"},"speed":{"walk":25},"str":11,"dex":20,"con":16,"int":11,"wis":14,"cha":11,"save":{"dex":"+9","wis":"+6"},"skill":{"deception":"+4","nature":"+8","perception":"+10","persuasion":"+8","stealth":"+13","survival":"+10"},"passive":20,"languages":["Abyssal","Common","Halfling","Infernal","telepathy
+      30 ft."],"cr":"9","trait":[{"name":"Animal Companions","entries":["Vellin is
+      accompanied by a {@creature wolf} with maximum hit points (18) named Akela.
+      Vellin can mount or dismount Akela using 5 ft. of movement. While mounted,
+      Vellin can order Akela to Dash, Disengage, and Dodge. In addition, Vellin has
+      an {@creature owl} companion with maximum hit points (3). On Vellin''s turn,
+      the owl can perform a flyby on a creature of Vellin''s choice. The next attack
+      that Vellin makes against that creature has advantage."]},{"name":"Brave","entries":["Vellin
+      has advantage on saving throws against being {@condition frightened}."]},{"name":"Keen
+      Hearing and Sight","entries":["Vellin has advantage on Wisdom (Perception)
+      checks that rely on hearing or sight."]},{"name":"Fiend Slayer","entries":["When
+      Vellin hits a Fiend with a weapon attack he deals an additional 7 ({@damage
+      2d6}) damage."]},{"name":"Nimble Escape","entries":["Vellin can take the Disengage
+      or Hide action as a bonus action on each of his turns."]}],"action":[{"name":"Multiattack","entries":["Vellin
+      makes two melee attacks or two ranged attacks."]},{"name":"Shortsword","entries":["{@atk
+      mw} {@hit 9} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) piercing
+      damage."]},{"name":"Shortbow","entries":["{@atk rw} {@hit 9} to hit, ranged
+      80/320 ft., one target. {@h}8 ({@damage 1d6 + 5}) piercing damage."]}],"traitTags":["Keen
+      Senses"],"actionTags":["Multiattack"],"languageTags":["AB","C","H","I","TP"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a43b7f42a51fe813932bb037671871b7

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum
   AsJson: '{"name":"Platinum","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":50000}'
   DataHash: e46cf92c458567626e4ed44bfc6f602c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum
+    Content: 
+    AsJson: '{"name":"Platinum","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":50000}'
+    DataHash: e46cf92c458567626e4ed44bfc6f602c

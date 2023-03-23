@@ -17,3 +17,11 @@ MonoBehaviour:
     ghost","with":"Rose","flags":"i"},"action":{"mode":"removeArr","names":"Horrifying
     Visage"}}},"size":["S"],"alignment":["L","G"],"hp":{"average":35,"formula":"10d6"},"languages":["Common"],"cr":"3","languageTags":["C"],"hasToken":true,"hasFluffImages":true}'
   DataHash: a5ee9350eb74159a6fde2fa004bacd22
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rosavalda "Rose" Durst
+    Content: 
+    AsJson: '{"name":"Rosavalda \"Rose\" Durst","isNpc":true,"source":"CoS","page":217,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Rose","flags":"i"},"action":{"mode":"removeArr","names":"Horrifying
+      Visage"}}},"size":["S"],"alignment":["L","G"],"hp":{"average":35,"formula":"10d6"},"languages":["Common"],"cr":"3","languageTags":["C"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: a5ee9350eb74159a6fde2fa004bacd22

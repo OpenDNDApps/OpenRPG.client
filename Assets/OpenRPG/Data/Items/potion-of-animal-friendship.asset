@@ -19,3 +19,13 @@ MonoBehaviour:
     view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair."],"attachedSpells":["animal
     friendship"],"lootTables":["Magic Item Table B"]}'
   DataHash: 85667e9e614fe7da78666518ef8544de
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Animal Friendship
+    Content: 
+    AsJson: '{"name":"Potion of Animal Friendship","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["When
+      you drink this potion, you can cast the {@spell animal friendship} spell (save
+      DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into
+      view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair."],"attachedSpells":["animal
+      friendship"],"lootTables":["Magic Item Table B"]}'
+    DataHash: 85667e9e614fe7da78666518ef8544de

@@ -17,3 +17,11 @@ MonoBehaviour:
     touch a living creature that has 0 hit points. The creature becomes stable. This
     spell has no effect on undead or constructs."],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"areaTags":["ST"]}'
   DataHash: ebcceca846cbf3574a6c86fdd65a4973
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spare the Dying
+    Content: 
+    AsJson: '{"name":"Spare the Dying","source":"PHB","page":277,"srd":true,"basicRules":true,"level":0,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      touch a living creature that has 0 hit points. The creature becomes stable.
+      This spell has no effect on undead or constructs."],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"areaTags":["ST"]}'
+    DataHash: ebcceca846cbf3574a6c86fdd65a4973

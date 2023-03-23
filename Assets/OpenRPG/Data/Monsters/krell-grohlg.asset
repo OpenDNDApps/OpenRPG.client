@@ -21,3 +21,15 @@ MonoBehaviour:
     damage if wielded with two hands, or 6 ({@damage 1d8 + 2}) bludgeoning damage
     with {@spell shillelagh}."]}],"senseTags":["D"],"languageTags":["C","O"],"hasToken":true}'
   DataHash: 9b93fe6141bbff841de71f1091199c7c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Krell Grohlg
+    Content: 
+    AsJson: '{"name":"Krell Grohlg","isNpc":true,"source":"GoS","page":92,"_copy":{"name":"Druid","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      druid","with":"Krell","flags":"i"},"_":{"mode":"replaceSpells","spells":{"2":[{"replace":"{@spell
+      animal messenger}","with":"{@spell flaming sphere}"}]}}}},"alignment":["C","E"],"str":18,"languages":["Common","Orc"],"action":[{"name":"Quarterstaff","entries":["{@atk
+      mw} {@hit 6} to hit ({@hit 4} to hit with shillelagh), reach 5 ft., one target.
+      {@h}7 ({@damage 1d6 + 4}) bludgeoning damage, 8 ({@damage 1d8 + 4}) bludgeoning
+      damage if wielded with two hands, or 6 ({@damage 1d8 + 2}) bludgeoning damage
+      with {@spell shillelagh}."]}],"senseTags":["D"],"languageTags":["C","O"],"hasToken":true}'
+    DataHash: 9b93fe6141bbff841de71f1091199c7c

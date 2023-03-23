@@ -17,3 +17,11 @@ MonoBehaviour:
     flameskull","with":"Nepartak","flags":"i"}}},"languages":["Common","telepathy
     30 ft."],"languageTags":["C","TP"],"hasToken":true}'
   DataHash: 6a0e41dd7f81d7fe87b5e92f0977a08d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nepartak
+    Content: 
+    AsJson: '{"name":"Nepartak","isNpc":true,"source":"ToA","page":137,"_copy":{"name":"Flameskull","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      flameskull","with":"Nepartak","flags":"i"}}},"languages":["Common","telepathy
+      30 ft."],"languageTags":["C","TP"],"hasToken":true}'
+    DataHash: 6a0e41dd7f81d7fe87b5e92f0977a08d

@@ -17,3 +17,11 @@ MonoBehaviour:
     wearing this ring, you have advantage on Wisdom ({@skill Insight}) checks to
     determine whether someone is lying to you."]}'
   DataHash: 5d1e788aa15b7c4a42ceebe3f1979721
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Truth Telling
+    Content: 
+    AsJson: '{"name":"Ring of Truth Telling","source":"WDH","page":192,"type":"RG","rarity":"uncommon","reqAttune":true,"entries":["While
+      wearing this ring, you have advantage on Wisdom ({@skill Insight}) checks to
+      determine whether someone is lying to you."]}'
+    DataHash: 5d1e788aa15b7c4a42ceebe3f1979721

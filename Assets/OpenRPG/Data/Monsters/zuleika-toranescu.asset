@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zuleika Toranescu","isNpc":true,"source":"CoS","page":204,"_copy":{"name":"Werewolf","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     werewolf","with":"Zuleika","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 971715d4888fc0c5f461fc9a7a576217
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zuleika Toranescu
+    Content: 
+    AsJson: '{"name":"Zuleika Toranescu","isNpc":true,"source":"CoS","page":204,"_copy":{"name":"Werewolf","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      werewolf","with":"Zuleika","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 971715d4888fc0c5f461fc9a7a576217

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kedjou Kamal","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":96,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Kedjou","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 93d0d49ff905a32558dfe50f1b174cc1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kedjou Kamal
+    Content: 
+    AsJson: '{"name":"Kedjou Kamal","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":96,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Kedjou","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 93d0d49ff905a32558dfe50f1b174cc1

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Arlo Kettletoe (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Arlo Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
   DataHash: ca6544404d2638174751b29dc73cee71
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arlo Kettletoe (Levels 9-11)
+    Content: 
+    AsJson: '{"name":"Arlo Kettletoe (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Arlo Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
+    DataHash: ca6544404d2638174751b29dc73cee71

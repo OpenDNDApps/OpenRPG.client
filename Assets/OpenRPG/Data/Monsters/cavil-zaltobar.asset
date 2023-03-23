@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cavil Zaltobar","isNpc":true,"source":"PotA","page":182,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Cavil","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: 2579e3a9f36a39e32b97eefdb8967f39
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cavil Zaltobar
+    Content: 
+    AsJson: '{"name":"Cavil Zaltobar","isNpc":true,"source":"PotA","page":182,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Cavil","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: 2579e3a9f36a39e32b97eefdb8967f39

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Canvas (1 sq. yd.)
   AsJson: '{"name":"Canvas (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":10}'
   DataHash: dbf0ab7974f3747d300fb5cd1cbc7e18
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Canvas (1 sq. yd.)
+    Content: 
+    AsJson: '{"name":"Canvas (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":10}'
+    DataHash: dbf0ab7974f3747d300fb5cd1cbc7e18

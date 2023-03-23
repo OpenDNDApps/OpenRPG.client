@@ -18,3 +18,12 @@ MonoBehaviour:
     are taller and leaner than humans, with most a slender 6 feet in height."]},{"name":"Languages","entries":["You
     can speak, read, and write Common and Gith."],"type":"entries"}]}'
   DataHash: c56e12143b4d2d5d9d0466c42a9b363e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gith
+    Content: 
+    AsJson: '{"name":"Gith","source":"UAEladrinAndGith","page":2,"size":["M"],"speed":30,"ability":[{"int":1}],"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"other":true}],"entries":[{"name":"Age","type":"entries","entries":["Gith
+      reach adulthood in their late teens and live for about a century."]},{"type":"entries","name":"Size","entries":["Gith
+      are taller and leaner than humans, with most a slender 6 feet in height."]},{"name":"Languages","entries":["You
+      can speak, read, and write Common and Gith."],"type":"entries"}]}'
+    DataHash: c56e12143b4d2d5d9d0466c42a9b363e

@@ -17,3 +17,11 @@ MonoBehaviour:
     Young Kruthik|MTF|young kruthiks}","{@creature Adult Kruthik|MTF|adult kruthiks}","{@creature
     Kruthik Hive Lord|MTF|kruthik hive lords}"]}'
   DataHash: fa49b78b12294a04f77bee10924affa3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kruthik
+    Content: 
+    AsJson: '{"name":"Kruthik","source":"MTF","page":211,"typicalSpeakers":["{@creature
+      Young Kruthik|MTF|young kruthiks}","{@creature Adult Kruthik|MTF|adult kruthiks}","{@creature
+      Kruthik Hive Lord|MTF|kruthik hive lords}"]}'
+    DataHash: fa49b78b12294a04f77bee10924affa3

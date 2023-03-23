@@ -18,3 +18,12 @@ MonoBehaviour:
     carry as much weight as a mule. A domesticated axe beak can be purchased in Ten-Towns
     for 50 gp."]}'
   DataHash: ca3550700357e6bd5bc19da119ebda72
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Axe Beak
+    Content: 
+    AsJson: '{"name":"Axe Beak","source":"IDRotF","page":20,"type":"MNT","rarity":"none","value":5000,"entries":["An
+      {@creature axe beak}''s splayed toes allow it to run across snow, and it can
+      carry as much weight as a mule. A domesticated axe beak can be purchased in
+      Ten-Towns for 50 gp."]}'
+    DataHash: ca3550700357e6bd5bc19da119ebda72

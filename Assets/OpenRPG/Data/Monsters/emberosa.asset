@@ -18,3 +18,12 @@ MonoBehaviour:
     Fire","entries":["{@atk rw} {@hit 11} to hit, range 60/240 ft., one target. {@h}29
     ({@damage 4d10 + 7}) fire damage."]}}}},"damageTags":["F","S"],"hasToken":true,"hasFluff":true}'
   DataHash: 4e992c351bda41f3fa4511a2fb06c169
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emberosa
+    Content: 
+    AsJson: '{"name":"Emberosa","isNpc":true,"source":"WDMM","page":185,"_copy":{"name":"Fire
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Emberosa","flags":"i"},"action":{"mode":"replaceArr","replace":"Rock","items":{"name":"Hurl
+      Fire","entries":["{@atk rw} {@hit 11} to hit, range 60/240 ft., one target.
+      {@h}29 ({@damage 4d10 + 7}) fire damage."]}}}},"damageTags":["F","S"],"hasToken":true,"hasFluff":true}'
+    DataHash: 4e992c351bda41f3fa4511a2fb06c169

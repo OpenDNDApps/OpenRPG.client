@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Copper chalice with silver filigree
   AsJson: '{"name":"Copper chalice with silver filigree","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 975a881a274bb01edf911309e4308bdc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper chalice with silver filigree
+    Content: 
+    AsJson: '{"name":"Copper chalice with silver filigree","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 975a881a274bb01edf911309e4308bdc

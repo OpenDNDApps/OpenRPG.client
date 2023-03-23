@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Finely articulated jade glove (River Heralds)
   AsJson: '{"name":"Finely articulated jade glove (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 38f20bff2235cb748ad667163a1758db
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Finely articulated jade glove (River Heralds)
+    Content: 
+    AsJson: '{"name":"Finely articulated jade glove (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 38f20bff2235cb748ad667163a1758db

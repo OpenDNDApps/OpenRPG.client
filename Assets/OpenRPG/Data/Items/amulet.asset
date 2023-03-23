@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Amulet
   AsJson: '{"name":"Amulet","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","weight":1,"value":500}'
   DataHash: 6c17b6a5db2b9301dabe4e3954ab5d99
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amulet
+    Content: 
+    AsJson: '{"name":"Amulet","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","weight":1,"value":500}'
+    DataHash: 6c17b6a5db2b9301dabe4e3954ab5d99

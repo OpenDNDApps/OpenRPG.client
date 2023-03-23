@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tiger Eye","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
     translucent brown with golden center gemstone."]}'
   DataHash: 1a698958a3c1ef3040ea3cab1c2ef6d1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tiger Eye
+    Content: 
+    AsJson: '{"name":"Tiger Eye","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
+      translucent brown with golden center gemstone."]}'
+    DataHash: 1a698958a3c1ef3040ea3cab1c2ef6d1

@@ -21,3 +21,15 @@ MonoBehaviour:
     level or higher, you gain 5 additional temporary hit points for each slot level
     above 1st."]}],"miscTags":["THP"]}'
   DataHash: d20e3da6760bfb7a53c908e50a048d60
+  DataByEdition:
+  - Edition: d&d5e
+    Title: False Life
+    Content: 
+    AsJson: '{"name":"False Life","source":"PHB","page":239,"srd":true,"level":1,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      small amount of alcohol or distilled spirits"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["Bolstering
+      yourself with a necromantic facsimile of life, you gain {@dice 1d4 + 4} temporary
+      hit points for the duration."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, you gain 5 additional temporary hit points for each slot level
+      above 1st."]}],"miscTags":["THP"]}'
+    DataHash: d20e3da6760bfb7a53c908e50a048d60

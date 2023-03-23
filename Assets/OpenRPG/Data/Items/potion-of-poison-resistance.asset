@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Poison Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["poison"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: eb7107026192170a63e5ad970d7dcc05
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Poison Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Poison Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["poison"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: eb7107026192170a63e5ad970d7dcc05

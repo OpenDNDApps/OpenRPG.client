@@ -21,3 +21,15 @@ MonoBehaviour:
     be anything but clothing. Although it can duplicate the look of other magical
     clothing, it doesn''t gain their magical properties."]}'
   DataHash: 22aa6705f2d7af8e3c781d7a3a1975c1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shiftweave
+    Content: 
+    AsJson: '{"name":"Shiftweave","source":"ERLW","page":279,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["When
+      a suit of shiftweave is created, up to five different outfits can be embedded
+      into the cloth. While wearing the clothing, you can speak its command word
+      as a bonus action to transform your outfit into your choice of one of the other
+      designs contained within it. Regardless of its appearance, the outfit can''t
+      be anything but clothing. Although it can duplicate the look of other magical
+      clothing, it doesn''t gain their magical properties."]}'
+    DataHash: 22aa6705f2d7af8e3c781d7a3a1975c1

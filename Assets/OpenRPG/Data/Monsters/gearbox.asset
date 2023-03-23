@@ -23,3 +23,17 @@ MonoBehaviour:
     can cast the {@spell light} cantrip at will."],"spells":{"0":{"spells":["{@spell
     light}"]}},"hidden":["spells"]}],"spellcastingTags":["O"],"hasToken":true,"hasFluffImages":true}'
   DataHash: c9ec1a55b01f2b3d0cc123c266db02f3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gearbox
+    Content: 
+    AsJson: '{"name":"Gearbox","isNpc":true,"isNamedCreature":true,"source":"LLK","page":5,"_copy":{"name":"Monodrone","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      monodrone","with":"Gearbox","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Unique
+      Programming","entries":["Gearbox''s unique programming allows the modron to
+      function as an {@item Orb of Direction|XGE} and an {@item Orb of Time|XGE},
+      to cast the {@spell light} cantrip at will, and to grant other characters advantage
+      on Dexterity checks made with thieves'' tools and on ability checks made to
+      identify or operate mechanical or laboratory equipment."]}}}},"alignment":["L","N"],"spellcasting":[{"name":"Spellcasting","headerEntries":["Gearbox
+      can cast the {@spell light} cantrip at will."],"spells":{"0":{"spells":["{@spell
+      light}"]}},"hidden":["spells"]}],"spellcastingTags":["O"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: c9ec1a55b01f2b3d0cc123c266db02f3

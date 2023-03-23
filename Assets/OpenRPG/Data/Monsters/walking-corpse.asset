@@ -18,3 +18,12 @@ MonoBehaviour:
     disgorging a {@creature swarm of poisonous snakes}. The snakes are hungry and
     fight until slain."]}]}}},"speed":{"walk":20},"conditionImmune":["charmed","frightened"],"hasToken":true}'
   DataHash: 7076a4dd595d9fa341f37330ccec5802
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Walking Corpse
+    Content: 
+    AsJson: '{"name":"Walking Corpse","source":"CoS","page":165,"_copy":{"name":"Commoner","source":"MM","_mod":{"trait":{"mode":"appendArr","items":[{"name":"Violent
+      Death","entries":["When a corpse is reduced to 0 hit points, it splits open,
+      disgorging a {@creature swarm of poisonous snakes}. The snakes are hungry and
+      fight until slain."]}]}}},"speed":{"walk":20},"conditionImmune":["charmed","frightened"],"hasToken":true}'
+    DataHash: 7076a4dd595d9fa341f37330ccec5802

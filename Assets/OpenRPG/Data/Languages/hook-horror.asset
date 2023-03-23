@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hook Horror","source":"MM","page":189,"typicalSpeakers":["{@creature
     Hook Horror||hook horrors}"]}'
   DataHash: 1f6f08597e946a3a81110be2318a115a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hook Horror
+    Content: 
+    AsJson: '{"name":"Hook Horror","source":"MM","page":189,"typicalSpeakers":["{@creature
+      Hook Horror||hook horrors}"]}'
+    DataHash: 1f6f08597e946a3a81110be2318a115a

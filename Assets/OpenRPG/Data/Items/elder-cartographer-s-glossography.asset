@@ -18,3 +18,12 @@ MonoBehaviour:
     elder cartographer''s glossography grants advantage on Intelligence or Wisdom
     checks related to geographical features or locations."]}'
   DataHash: a7e2da834e4b8972da20f1904a50abe5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elder Cartographer's Glossography
+    Content: 
+    AsJson: '{"name":"Elder Cartographer''s Glossography","source":"AI","page":20,"rarity":"uncommon","wondrous":true,"entries":["When
+      you attain rank 4, you gain a small tome that is an uncommon magic item. The
+      elder cartographer''s glossography grants advantage on Intelligence or Wisdom
+      checks related to geographical features or locations."]}'
+    DataHash: a7e2da834e4b8972da20f1904a50abe5

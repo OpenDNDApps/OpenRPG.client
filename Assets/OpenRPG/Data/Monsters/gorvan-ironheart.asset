@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gorvan Ironheart","isNpc":true,"source":"TftYP","page":151,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Gorvan","flags":"i"}}},"hasToken":true}'
   DataHash: 66ba6177b21b0cc9f2785c574b2e0e9d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gorvan Ironheart
+    Content: 
+    AsJson: '{"name":"Gorvan Ironheart","isNpc":true,"source":"TftYP","page":151,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the priest","with":"Gorvan","flags":"i"}}},"hasToken":true}'
+    DataHash: 66ba6177b21b0cc9f2785c574b2e0e9d

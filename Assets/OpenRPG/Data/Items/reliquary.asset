@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Reliquary
   AsJson: '{"name":"Reliquary","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","weight":2,"value":500}'
   DataHash: 35f0a739f3be933dc07aebdbd4cafdef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reliquary
+    Content: 
+    AsJson: '{"name":"Reliquary","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"SCF","scfType":"holy","rarity":"none","weight":2,"value":500}'
+    DataHash: 35f0a739f3be933dc07aebdbd4cafdef

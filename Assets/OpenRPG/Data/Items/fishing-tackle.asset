@@ -17,3 +17,11 @@ MonoBehaviour:
     kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers,
     velvet lures, and narrow netting."]}'
   DataHash: c09e5dc2568a084e0fd418e50b9a9e76
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fishing Tackle
+    Content: 
+    AsJson: '{"name":"Fishing Tackle","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":100,"entries":["This
+      kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead
+      sinkers, velvet lures, and narrow netting."]}'
+    DataHash: c09e5dc2568a084e0fd418e50b9a9e76

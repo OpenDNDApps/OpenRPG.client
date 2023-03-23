@@ -18,3 +18,12 @@ MonoBehaviour:
     the {@spell wish} spell from it. The ring becomes nonmagical when you use the
     last charge."],"attachedSpells":["wish"],"lootTables":["Magic Item Table I"],"hasFluffImages":true}'
   DataHash: 55da7786eaa8a493bff6c0993586ceb0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Three Wishes
+    Content: 
+    AsJson: '{"name":"Ring of Three Wishes","source":"DMG","page":193,"srd":true,"type":"RG","tier":"major","rarity":"legendary","entries":["While
+      wearing this ring, you can use an action to expend 1 of its 3 charges to cast
+      the {@spell wish} spell from it. The ring becomes nonmagical when you use the
+      last charge."],"attachedSpells":["wish"],"lootTables":["Magic Item Table I"],"hasFluffImages":true}'
+    DataHash: 55da7786eaa8a493bff6c0993586ceb0

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gargantuan Rug of Smothering","source":"TftYP","page":56,"_copy":{"name":"Rug
     of Smothering","source":"MM"},"size":["G"],"hp":{"average":63,"formula":"6d20"},"hasToken":true}'
   DataHash: 3011f898367ddaad31f749a38a7f2550
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gargantuan Rug of Smothering
+    Content: 
+    AsJson: '{"name":"Gargantuan Rug of Smothering","source":"TftYP","page":56,"_copy":{"name":"Rug
+      of Smothering","source":"MM"},"size":["G"],"hp":{"average":63,"formula":"6d20"},"hasToken":true}'
+    DataHash: 3011f898367ddaad31f749a38a7f2550

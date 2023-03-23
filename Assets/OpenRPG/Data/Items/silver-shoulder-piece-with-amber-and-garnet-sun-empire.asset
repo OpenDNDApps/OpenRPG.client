@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silver shoulder piece with amber and garnet (Sun Empire)
   AsJson: '{"name":"Silver shoulder piece with amber and garnet (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: c31f8103fa5186acfa5ec670b233df53
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver shoulder piece with amber and garnet (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Silver shoulder piece with amber and garnet (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: c31f8103fa5186acfa5ec670b233df53

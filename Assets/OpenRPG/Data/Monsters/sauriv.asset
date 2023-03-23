@@ -18,3 +18,12 @@ MonoBehaviour:
     armor"]}],"wis":18,"skill":{"deception":"+7","insight":"+6","persuasion":"+7"},"passive":14,"languages":["Common","Draconic"],"traitTags":["Hold
     Breath"],"languageTags":["C","DR"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 7211b2ce41179e018189853c77e53e4a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sauriv
+    Content: 
+    AsJson: '{"name":"Sauriv","isNpc":true,"source":"GoS","page":79,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Lizardfolk","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Sauriv","flags":"i"}}},"alignment":["L","N"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"wis":18,"skill":{"deception":"+7","insight":"+6","persuasion":"+7"},"passive":14,"languages":["Common","Draconic"],"traitTags":["Hold
+      Breath"],"languageTags":["C","DR"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 7211b2ce41179e018189853c77e53e4a

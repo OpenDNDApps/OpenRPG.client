@@ -23,3 +23,17 @@ MonoBehaviour:
     charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On
     a 1, the staff turns into flower petals and is lost forever."]}'
   DataHash: 7c0fdc505063ed785ea6ef88221340e1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Staff of Flowers
+    Content: 
+    AsJson: '{"name":"Staff of Flowers","source":"XGE","page":139,"tier":"minor","rarity":"common","weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","recharge":"dawn","rechargeAmount":"{@dice
+      1d6 + 4}","charges":10,"staff":true,"entries":["This wooden staff has 10 charges.
+      While holding it, you can use an action to expend 1 charge from the staff and
+      cause a flower to sprout from a patch of earth or soil within 5 feet of you,
+      or from the staff itself. Unless you choose a specific kind of flower, the
+      staff creates a mildscented daisy. The flower is harmless and nonmagical, and
+      it grows or withers as a normal flower would. The staff regains {@dice 1d6
+      + 4} expended charges daily at dawn. If you expend the last charge, roll a
+      {@dice d20}. On a 1, the staff turns into flower petals and is lost forever."]}'
+    DataHash: 7c0fdc505063ed785ea6ef88221340e1

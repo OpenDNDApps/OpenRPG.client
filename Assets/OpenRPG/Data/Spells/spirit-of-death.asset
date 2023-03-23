@@ -29,3 +29,24 @@ MonoBehaviour:
     level or higher, use the higher level wherever the spell''s level appears in
     the stat block."]}],"miscTags":["SGT"]}'
   DataHash: 2bea1a722ecae578a3280c8734945bdb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spirit of Death
+    Content: 
+    AsJson: '{"name":"Spirit of Death","source":"UA2022WondersOfTheMultiverse","page":10,"level":4,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":{"text":"a
+      gilded playing card depicting an avatar of death worth at least 400 gp","cost":40000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      call forth a spirit that embodies death itself. Choose a creature you can see
+      within range. The spirit manifests in an unoccupied space that you can see
+      within 10 feet of the target, and the target becomes haunted by the spirit.
+      The spirit uses the {@creature Reaper Spirit|UA2022WondersOfTheMultiverse}
+      stat block. The spirit disappears when it or the haunted creature is reduced
+      to 0 hit points, or when the spell ends.","The reaper spirit is an ally to
+      you and your companions. In combat, the spirit shares your initiative count,
+      but it takes its turn immediately after yours. It obeys your verbal commands
+      (no action required by you), but it will only attack the haunted creature.
+      If you don''t issue the spirit any commands, it takes the {@action Dodge} action
+      and uses its move to avoid danger."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 5th
+      level or higher, use the higher level wherever the spell''s level appears in
+      the stat block."]}],"miscTags":["SGT"]}'
+    DataHash: 2bea1a722ecae578a3280c8734945bdb

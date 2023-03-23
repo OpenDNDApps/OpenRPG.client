@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Meeseeks\",\"source\":\"RMBRE\",\"page\":16,\"_copy\":{\"name\":\"Commoner\",\"source\":\"MM\"},\"hp\":{\"special\":\"\u2014(immune
     to damage)\"},\"hasToken\":true}"
   DataHash: 9709f09d4b263473b2cfd84aa15b2d19
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Meeseeks
+    Content: 
+    AsJson: "{\"name\":\"Meeseeks\",\"source\":\"RMBRE\",\"page\":16,\"_copy\":{\"name\":\"Commoner\",\"source\":\"MM\"},\"hp\":{\"special\":\"\u2014(immune
+      to damage)\"},\"hasToken\":true}"
+    DataHash: 9709f09d4b263473b2cfd84aa15b2d19

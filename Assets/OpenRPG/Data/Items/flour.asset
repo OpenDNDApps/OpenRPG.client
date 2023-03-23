@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Flour
   AsJson: '{"name":"Flour","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":2}'
   DataHash: 9f2d768101f903c1fc89f3f54aa3c4ad
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flour
+    Content: 
+    AsJson: '{"name":"Flour","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":2}'
+    DataHash: 9f2d768101f903c1fc89f3f54aa3c4ad

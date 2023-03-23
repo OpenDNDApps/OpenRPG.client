@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Zombie Horse
   AsJson: '{"name":"Zombie Horse","source":"PSD","page":17,"_copy":{"name":"Zombie","source":"MM"},"size":["L"],"hasToken":true}'
   DataHash: 82e74de352080912ba9243f336175117
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zombie Horse
+    Content: 
+    AsJson: '{"name":"Zombie Horse","source":"PSD","page":17,"_copy":{"name":"Zombie","source":"MM"},"size":["L"],"hasToken":true}'
+    DataHash: 82e74de352080912ba9243f336175117

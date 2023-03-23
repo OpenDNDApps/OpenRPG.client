@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Archfiend of Ifnir
   AsJson: '{"name":"Archfiend of Ifnir","source":"PSA","page":30,"_copy":{"name":"Nalfeshnee","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"nalfeshnee","with":"archfiend"},"variant":"remove"}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 860fbbfaddab8c4d74615dd712f9f9b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Archfiend of Ifnir
+    Content: 
+    AsJson: '{"name":"Archfiend of Ifnir","source":"PSA","page":30,"_copy":{"name":"Nalfeshnee","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"nalfeshnee","with":"archfiend"},"variant":"remove"}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 860fbbfaddab8c4d74615dd712f9f9b5

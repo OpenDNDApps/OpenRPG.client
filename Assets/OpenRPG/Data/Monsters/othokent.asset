@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Othokent","isNpc":true,"source":"GoS","page":81,"_copy":{"name":"Lizard
     Queen","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the lizardfolk","with":"Othokent","flags":"i"}}},"alignment":["L","N"],"languages":["Common","Abyssal","Draconic"],"languageTags":["AB","C","DR"],"hasToken":true}'
   DataHash: f6163f6bb26db057ec0a1950bf4182b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Othokent
+    Content: 
+    AsJson: '{"name":"Othokent","isNpc":true,"source":"GoS","page":81,"_copy":{"name":"Lizard
+      Queen","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the lizardfolk","with":"Othokent","flags":"i"}}},"alignment":["L","N"],"languages":["Common","Abyssal","Draconic"],"languageTags":["AB","C","DR"],"hasToken":true}'
+    DataHash: f6163f6bb26db057ec0a1950bf4182b5

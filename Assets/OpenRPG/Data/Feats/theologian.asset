@@ -22,6 +22,19 @@ MonoBehaviour:
     can cast {@spell detect evil and good} once without expending a spell slot, and
     you regain the ability to do so when you finish a long rest."]}]}'
   DataHash: 889427d147e414e87e4ec48d85470103
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Theologian
+    Content: 
+    AsJson: '{"name":"Theologian","source":"UAFeatsForSkills","page":4,"ability":[{"int":1}],"skillProficiencies":[{"religion":true}],"additionalSpells":[{"innate":{"_":{"daily":{"1":["detect
+      evil and good"]}}},"known":{"_":["thaumaturgy#c"]}}],"entries":["Your extensive
+      study of religion rewards you with the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Religion} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","You learn the {@spell thaumaturgy} and {@spell detect evil and good}
+      spells. You can cast {@spell detect evil and good} once without expending a
+      spell slot, and you regain the ability to do so when you finish a long rest."]}]}'
+    DataHash: 889427d147e414e87e4ec48d85470103
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 4
   Prerequisites: []

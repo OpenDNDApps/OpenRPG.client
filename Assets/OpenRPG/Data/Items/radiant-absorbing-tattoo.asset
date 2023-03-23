@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 5355f5ba41d950cdb6512d6fc68ce1d0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Radiant Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Radiant Absorbing Tattoo","source":"TCE","page":119,"resist":["radiant"],"detail1":"gold","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 5355f5ba41d950cdb6512d6fc68ce1d0

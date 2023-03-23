@@ -18,3 +18,12 @@ MonoBehaviour:
     Breathing","entries":["The eel can breathe only underwater."]}},"action":{"mode":"removeArr","names":"Constrict"}}},"speed":{"walk":0,"swim":40},"skill":{"perception":"+2","stealth":"+4"},"traitTags":["Water
     Breathing"],"damageTags":["P"],"hasToken":true}'
   DataHash: ca28385397cc3dbfd1f558a7cf7010d7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant White Moray Eel
+    Content: 
+    AsJson: '{"name":"Giant White Moray Eel","source":"GoS","page":216,"_copy":{"name":"Giant
+      Constrictor Snake","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"snake","with":"eel","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Water
+      Breathing","entries":["The eel can breathe only underwater."]}},"action":{"mode":"removeArr","names":"Constrict"}}},"speed":{"walk":0,"swim":40},"skill":{"perception":"+2","stealth":"+4"},"traitTags":["Water
+      Breathing"],"damageTags":["P"],"hasToken":true}'
+    DataHash: ca28385397cc3dbfd1f558a7cf7010d7

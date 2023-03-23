@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Necklace of jade and pink pearls (River Heralds)
   AsJson: '{"name":"Necklace of jade and pink pearls (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 81b89d71d6c7ed222f6a4618b2c121f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necklace of jade and pink pearls (River Heralds)
+    Content: 
+    AsJson: '{"name":"Necklace of jade and pink pearls (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 81b89d71d6c7ed222f6a4618b2c121f8

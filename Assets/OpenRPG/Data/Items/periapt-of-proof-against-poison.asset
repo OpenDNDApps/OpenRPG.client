@@ -18,3 +18,13 @@ MonoBehaviour:
     poisons have no effect on you. You are immune to the {@condition poisoned} condition
     and have immunity to poison damage."],"lootTables":["Magic Item Table G"]}'
   DataHash: cfd6c92e54501229e97f0a985d3ae284
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Periapt of Proof against Poison
+    Content: 
+    AsJson: '{"name":"Periapt of Proof against Poison","source":"DMG","page":184,"srd":true,"immune":["poison"],"tier":"major","rarity":"rare","wondrous":true,"weight":1,"entries":["This
+      delicate silver chain has a brilliant-cut black gem pendant. While you wear
+      it, poisons have no effect on you. You are immune to the {@condition poisoned}
+      condition and have immunity to poison damage."],"lootTables":["Magic Item Table
+      G"]}'
+    DataHash: cfd6c92e54501229e97f0a985d3ae284

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Chimeric Hare
   AsJson: '{"name":"Chimeric Hare","source":"IDRotF","page":246,"_copy":{"name":"Hare","source":"IDRotF"},"speed":{"walk":20,"burrow":5,"fly":30},"hasToken":true,"hasFluff":true}'
   DataHash: 633689773e57d944f823fcf2dc571777
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chimeric Hare
+    Content: 
+    AsJson: '{"name":"Chimeric Hare","source":"IDRotF","page":246,"_copy":{"name":"Hare","source":"IDRotF"},"speed":{"walk":20,"burrow":5,"fly":30},"hasToken":true,"hasFluff":true}'
+    DataHash: 633689773e57d944f823fcf2dc571777

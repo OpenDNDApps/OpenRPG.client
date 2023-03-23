@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing
     damage, plus an extra 3 ({@damage 1d6}) poison damage."]}}}},"hasToken":true}'
   DataHash: b37d18c2fe09ae6ed9502985a65aa85f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chimeric Baboon
+    Content: 
+    AsJson: '{"name":"Chimeric Baboon","source":"IDRotF","page":246,"_copy":{"name":"Baboon","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Bite","items":{"name":"Bite","entries":["{@atk
+      mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing
+      damage, plus an extra 3 ({@damage 1d6}) poison damage."]}}}},"hasToken":true}'
+    DataHash: b37d18c2fe09ae6ed9502985a65aa85f

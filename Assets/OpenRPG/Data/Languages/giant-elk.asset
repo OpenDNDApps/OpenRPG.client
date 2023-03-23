@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant Elk","source":"MM","page":325,"typicalSpeakers":["{@creature
     Giant Elk||giant elks}"]}'
   DataHash: df00620f0d2067543a2b75b1a3c24643
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Elk
+    Content: 
+    AsJson: '{"name":"Giant Elk","source":"MM","page":325,"typicalSpeakers":["{@creature
+      Giant Elk||giant elks}"]}'
+    DataHash: df00620f0d2067543a2b75b1a3c24643

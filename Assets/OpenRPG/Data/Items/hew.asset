@@ -20,3 +20,14 @@ MonoBehaviour:
     dryads of a forest where he cut firewood. Whoever carries the axe feels uneasy
     whenever he or she travels through a forest."]}'
   DataHash: cb03419d15d81f9cc269b5141920cb1d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hew
+    Content: 
+    AsJson: '{"name":"Hew","source":"LMoP","page":33,"baseItem":"battleaxe|phb","type":"M","rarity":"unknown
+      (magic)","weight":4,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+1","entries":["This
+      +1 battleaxe deals maximum damage when the wielder hits a plant creature or
+      an object made of wood. The axe''s creator was a dwarf smith who feuded with
+      the dryads of a forest where he cut firewood. Whoever carries the axe feels
+      uneasy whenever he or she travels through a forest."]}'
+    DataHash: cb03419d15d81f9cc269b5141920cb1d

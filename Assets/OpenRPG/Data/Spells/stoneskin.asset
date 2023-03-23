@@ -19,3 +19,13 @@ MonoBehaviour:
     the spell ends, the target has resistance to nonmagical bludgeoning, piercing,
     and slashing damage."],"damageResist":["bludgeoning","piercing","slashing"],"areaTags":["ST"]}'
   DataHash: 92a3a38327b2001240a2d04f74fd3836
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stoneskin
+    Content: 
+    AsJson: '{"name":"Stoneskin","source":"PHB","page":278,"srd":true,"basicRules":true,"level":4,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"diamond
+      dust worth 100 gp, which the spell consumes","cost":10000,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["This
+      spell turns the flesh of a willing creature you touch as hard as stone. Until
+      the spell ends, the target has resistance to nonmagical bludgeoning, piercing,
+      and slashing damage."],"damageResist":["bludgeoning","piercing","slashing"],"areaTags":["ST"]}'
+    DataHash: 92a3a38327b2001240a2d04f74fd3836

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Stabling (per day)
   AsJson: '{"name":"Stabling (per day)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","value":50}'
   DataHash: 7310d60a1dd7cd9efee507cc596b0fac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stabling (per day)
+    Content: 
+    AsJson: '{"name":"Stabling (per day)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","value":50}'
+    DataHash: 7310d60a1dd7cd9efee507cc596b0fac

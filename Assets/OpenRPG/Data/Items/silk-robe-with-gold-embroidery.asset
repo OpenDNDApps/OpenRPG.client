@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silk robe with gold embroidery
   AsJson: '{"name":"Silk robe with gold embroidery","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
   DataHash: 59d81fc5745d41cb248f96a9ea80ad18
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silk robe with gold embroidery
+    Content: 
+    AsJson: '{"name":"Silk robe with gold embroidery","source":"DMG","page":135,"type":"$","rarity":"none","value":25000}'
+    DataHash: 59d81fc5745d41cb248f96a9ea80ad18

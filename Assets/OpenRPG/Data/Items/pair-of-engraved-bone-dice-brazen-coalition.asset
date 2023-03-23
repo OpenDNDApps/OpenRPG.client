@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pair of engraved bone dice (Brazen Coalition)
   AsJson: '{"name":"Pair of engraved bone dice (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: d102a6ace41516781d950c7c82443ee4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pair of engraved bone dice (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Pair of engraved bone dice (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: d102a6ace41516781d950c7c82443ee4

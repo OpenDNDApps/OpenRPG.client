@@ -17,3 +17,11 @@ MonoBehaviour:
     Turtle","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"},"_mod":{"action":[{"mode":"removeArr","names":["Tail"]},{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
     dragon turtle makes three attacks: one with its bite and two with its claws."]}}]}},"damageTags":["F","P","S"],"hasToken":true}'
   DataHash: 053ec17895a8d6a26f4f53da00bc1a45
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Dragon Turtle
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Dragon Turtle","source":"TftYP","page":113,"_copy":{"name":"Dragon
+      Turtle","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"},"_mod":{"action":[{"mode":"removeArr","names":["Tail"]},{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["The
+      dragon turtle makes three attacks: one with its bite and two with its claws."]}}]}},"damageTags":["F","P","S"],"hasToken":true}'
+    DataHash: 053ec17895a8d6a26f4f53da00bc1a45

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jot","isNpc":true,"source":"TftYP","page":15,"_copy":{"name":"Quasit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     quasit","with":"Jot","flags":"i"}}},"hasToken":true}'
   DataHash: 99c755a742b788dbf770143a7ac0ce8f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jot
+    Content: 
+    AsJson: '{"name":"Jot","isNpc":true,"source":"TftYP","page":15,"_copy":{"name":"Quasit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      quasit","with":"Jot","flags":"i"}}},"hasToken":true}'
+    DataHash: 99c755a742b788dbf770143a7ac0ce8f

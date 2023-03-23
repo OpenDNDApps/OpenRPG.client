@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Glabrezu","source":"TftYP","page":113,"_copy":{"name":"Glabrezu","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 0d7daaea44f11c950fb746a97062a964
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Glabrezu
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Glabrezu","source":"TftYP","page":113,"_copy":{"name":"Glabrezu","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 0d7daaea44f11c950fb746a97062a964

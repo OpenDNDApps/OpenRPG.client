@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Allowak Abominable Yeti","source":"EGW","page":126,"_copy":{"name":"Abominable
     Yeti","source":"MM"},"alignment":["N"],"int":16,"cha":10,"languages":["Common","Yeti"],"languageTags":["C","OTH"],"hasToken":true,"hasFluff":true}'
   DataHash: 30c53c968bf91c33608898c4f5b67a2c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Allowak Abominable Yeti
+    Content: 
+    AsJson: '{"name":"Allowak Abominable Yeti","source":"EGW","page":126,"_copy":{"name":"Abominable
+      Yeti","source":"MM"},"alignment":["N"],"int":16,"cha":10,"languages":["Common","Yeti"],"languageTags":["C","OTH"],"hasToken":true,"hasFluff":true}'
+    DataHash: 30c53c968bf91c33608898c4f5b67a2c

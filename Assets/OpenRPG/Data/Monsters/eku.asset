@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Eku","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Couatl","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     couatl","with":"Eku","flags":"i"}}},"hasToken":true}'
   DataHash: 045e2e8900fdb685d4909e92fe92bd46
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eku
+    Content: 
+    AsJson: '{"name":"Eku","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Couatl","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      couatl","with":"Eku","flags":"i"}}},"hasToken":true}'
+    DataHash: 045e2e8900fdb685d4909e92fe92bd46

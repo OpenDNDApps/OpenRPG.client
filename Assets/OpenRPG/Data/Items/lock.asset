@@ -18,3 +18,12 @@ MonoBehaviour:
     thieves'' tools|phb} can pick this lock with a successful DC 15 Dexterity check.
     Your DM may decide that better locks are available for higher prices."]}'
   DataHash: f7555c82b1054dbfd1b958bbcc311773
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lock
+    Content: 
+    AsJson: '{"name":"Lock","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":1000,"entries":["A
+      key is provided with the lock. Without the key, a creature proficient with
+      {@item thieves'' tools|phb} can pick this lock with a successful DC 15 Dexterity
+      check. Your DM may decide that better locks are available for higher prices."]}'
+    DataHash: f7555c82b1054dbfd1b958bbcc311773

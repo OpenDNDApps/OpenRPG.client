@@ -18,3 +18,12 @@ MonoBehaviour:
     throw or become {@condition poisoned} for 1 hour. The {@condition poisoned} creature
     is {@condition blinded}."],"poisonTypes":["inhaled"]}'
   DataHash: fbc327c7548aeb0425abb3df747471b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Malice
+    Content: 
+    AsJson: '{"name":"Malice","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":25000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 15 Constitution saving
+      throw or become {@condition poisoned} for 1 hour. The {@condition poisoned}
+      creature is {@condition blinded}."],"poisonTypes":["inhaled"]}'
+    DataHash: fbc327c7548aeb0425abb3df747471b7

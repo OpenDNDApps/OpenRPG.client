@@ -20,3 +20,14 @@ MonoBehaviour:
     if the target is a creature, it must succeed on a Strength saving throw or be
     pushed 10 feet away from you and knocked {@condition prone}."],"damageInflict":["thunder"],"conditionInflict":["prone"],"savingThrow":["strength"],"miscTags":["AAD","FMV"]}'
   DataHash: 47227c6dac2073fbef388bd4f8f8f0b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thunderous Smite
+    Content: 
+    AsJson: '{"name":"Thunderous Smite","source":"PHB","page":282,"level":1,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+      first time you hit with a melee weapon attack during this spell''s duration,
+      your weapon rings with thunder that is audible within 300 feet of you, and
+      the attack deals an extra {@damage 2d6} thunder damage to the target. Additionally,
+      if the target is a creature, it must succeed on a Strength saving throw or
+      be pushed 10 feet away from you and knocked {@condition prone}."],"damageInflict":["thunder"],"conditionInflict":["prone"],"savingThrow":["strength"],"miscTags":["AAD","FMV"]}'
+    DataHash: 47227c6dac2073fbef388bd4f8f8f0b7

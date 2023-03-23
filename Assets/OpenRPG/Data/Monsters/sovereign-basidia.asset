@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sovereign Basidia","isNpc":true,"source":"OotA","page":88,"_copy":{"name":"Myconid
     Sovereign","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the myconid","with":"Basidia","flags":"i"}}},"damageTags":["B","I"],"conditionInflict":["incapacitated","poisoned","stunned"],"hasToken":true,"hasFluffImages":true}'
   DataHash: ae91901075e3a7d087f510b1c9f74bda
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sovereign Basidia
+    Content: 
+    AsJson: '{"name":"Sovereign Basidia","isNpc":true,"source":"OotA","page":88,"_copy":{"name":"Myconid
+      Sovereign","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the myconid","with":"Basidia","flags":"i"}}},"damageTags":["B","I"],"conditionInflict":["incapacitated","poisoned","stunned"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: ae91901075e3a7d087f510b1c9f74bda

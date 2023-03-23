@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 0beb609b53ffa5ad2a9a4ea627b4ab7a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Force Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Force Absorbing Tattoo","source":"TCE","page":119,"resist":["force"],"detail1":"white","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 0beb609b53ffa5ad2a9a4ea627b4ab7a

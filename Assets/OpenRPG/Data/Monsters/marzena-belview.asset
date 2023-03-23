@@ -18,3 +18,12 @@ MonoBehaviour:
     Feature","items":{"name":"Flight","entries":["The mongrelfolk has leathery wings
     and a flying speed of 40 feet."]}}}},"speed":{"walk":20,"fly":40},"hasToken":true}'
   DataHash: 013b597592fd376c0d8745199c59b4f4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marzena Belview
+    Content: 
+    AsJson: '{"name":"Marzena Belview","isNpc":true,"source":"CoS","page":150,"_copy":{"name":"Mongrelfolk","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mongrelfolk","with":"Marzena","flags":"i"},"trait":{"mode":"replaceArr","replace":"Extraordinary
+      Feature","items":{"name":"Flight","entries":["The mongrelfolk has leathery
+      wings and a flying speed of 40 feet."]}}}},"speed":{"walk":20,"fly":40},"hasToken":true}'
+    DataHash: 013b597592fd376c0d8745199c59b4f4

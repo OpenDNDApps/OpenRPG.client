@@ -40,3 +40,34 @@ MonoBehaviour:
     doppelganger has advantage on Wisdom (Insight) and Charisma ({@skill Deception},
     {@skill Intimidation}, and {@skill Persuasion}) checks against the target."]}],"traitTags":["Ambusher","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTagsSpell":["Y"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["blinded","deafened","frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 04995c594bc22b59052fbacc5f638145
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dread Doppelganger
+    Content: 
+    AsJson: '{"name":"Dread Doppelganger","source":"MaBJoV","page":139,"size":["M"],"type":{"type":"monstrosity","tags":["shapechanger"]},"alignment":["N","E"],"ac":[15],"hp":{"average":78,"formula":"12d8
+      + 24"},"speed":{"walk":40},"str":11,"dex":20,"con":14,"int":17,"wis":14,"cha":15,"skill":{"deception":"+7","stealth":"+8"},"senses":["darkvision
+      60 ft."],"passive":11,"languages":["Common"],"cr":"5","spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The dread doppelganger''s spellcasting ability
+      is Intelligence (spell save {@dc 14}). It can innately cast the following spells,
+      requiring no components:"],"daily":{"3e":["{@spell phantasmal killer}"],"1e":["{@spell
+      mirror image}","{@spell mislead}"]},"ability":"int"}],"trait":[{"name":"Shapechanger","entries":["The
+      dread doppelganger can use its action to polymorph into a Small or Medium humanoid
+      it has seen, or back into its true form. Its statistics, other than its size,
+      are the same in each form. Any equipment it is wearing or carrying isn''t transformed.
+      It reverts to its true form if it dies."]},{"name":"Ambusher","entries":["In
+      the first round of a combat, the dread doppelganger has advantage on attack
+      rolls against any creature it has {@quickref Surprise|PHB|3|0|surprised}."]},{"name":"Surprise
+      Attack","entries":["If the dread doppelganger surprises a creature and hits
+      it with an attack during the first round of combat, the target takes an extra
+      10 ({@damage 3d6}) damage from the attack."]}],"action":[{"name":"Multiattack","entries":["The
+      dread doppelganger makes three melee attacks."]},{"name":"Slam","entries":["{@atk
+      mw} {@hit 8} to hit, range 5 ft., one target. {@h}8 ({@dice 1d6 + 5})."]},{"name":"Read
+      Thoughts","entries":["The dread doppelganger magically reads the surface thoughts
+      of one creature within 60 ft. of it. The effect can penetrate barriers, but
+      3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of
+      lead blocks it. While the target is in range, the dread doppelganger can continue
+      reading its thoughts, as long as the dread doppelganger''s Concentration isn''t
+      broken (as if concentrating on a spell). While reading the target''s mind,
+      the doppelganger has advantage on Wisdom (Insight) and Charisma ({@skill Deception},
+      {@skill Intimidation}, and {@skill Persuasion}) checks against the target."]}],"traitTags":["Ambusher","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C"],"damageTagsSpell":["Y"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["blinded","deafened","frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 04995c594bc22b59052fbacc5f638145

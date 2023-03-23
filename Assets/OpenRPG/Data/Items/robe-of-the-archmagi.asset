@@ -25,3 +25,19 @@ MonoBehaviour:
     spell save DC and spell attack bonus each increase by 2."]}],"lootTables":["Magic
     Item Table I"],"hasFluffImages":true}'
   DataHash: 78046586629f0d4f79f3870359cc7f25
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Robe of the Archmagi
+    Content: 
+    AsJson: '{"name":"Robe of the Archmagi","source":"DMG","page":194,"srd":true,"tier":"major","rarity":"legendary","reqAttune":"by
+      a sorcerer, warlock, or wizard","reqAttuneTags":[{"class":"sorcerer"},{"class":"warlock"},{"class":"wizard"}],"wondrous":true,"bonusSpellAttack":"+2","bonusSpellSaveDc":"+2","entries":["This
+      elegant garment is made from exquisite cloth of white, gray, or black and adorned
+      with silvery runes. The robe''s color corresponds to the alignment for which
+      the item was created. A white robe was made for good, gray for neutral, and
+      black for evil. You can''t attune to a robe of the archmagi that doesn''t correspond
+      to your alignment.","You gain these benefits while wearing the robe:",{"type":"list","items":["If
+      you aren''t wearing armor, your base Armor Class is 15 + your Dexterity modifier.","You
+      have advantage on saving throws against spell and other magical effects.","Your
+      spell save DC and spell attack bonus each increase by 2."]}],"lootTables":["Magic
+      Item Table I"],"hasFluffImages":true}'
+    DataHash: 78046586629f0d4f79f3870359cc7f25

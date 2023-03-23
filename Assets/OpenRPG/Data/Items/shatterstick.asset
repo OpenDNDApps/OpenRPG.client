@@ -22,3 +22,16 @@ MonoBehaviour:
     useless, and all structures within 20 feet of it take 35 ({@damage 10d6}) bludgeoning
     damage."]}'
   DataHash: 10e474d404a70c99031d82af753afbd2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shatterstick
+    Content: 
+    AsJson: '{"name":"Shatterstick","source":"BGDIA","page":99,"type":"OTH","rarity":"unknown","entries":["A
+      shatterstick is a nonmagical, 12-inch-long, 4-pound stake made of blue-tinged
+      infernal iron mined on Cania, the eighth layer of the Nine Hells. When embedded
+      in earth or pounded into solid rock, the stake emits a seismic vibration in
+      a 20-foot radius centered on itself for 1 minute, shaking the ground in that
+      area for the duration. When the effects ends, the shatterstick breaks apart,
+      becoming useless, and all structures within 20 feet of it take 35 ({@damage
+      10d6}) bludgeoning damage."]}'
+    DataHash: 10e474d404a70c99031d82af753afbd2

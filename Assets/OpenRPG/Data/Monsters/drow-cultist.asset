@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Cultist","source":"OotA","page":196,"_copy":{"name":"Cultist","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 27a90e1cafdc85cd52779f985a4ab2cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Cultist
+    Content: 
+    AsJson: '{"name":"Drow Cultist","source":"OotA","page":196,"_copy":{"name":"Cultist","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 27a90e1cafdc85cd52779f985a4ab2cb

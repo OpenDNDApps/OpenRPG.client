@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Riedran","source":"ERLW","page":6,"type":"standard","typicalSpeakers":["people
     of Sarlona"],"script":"Common"}'
   DataHash: a01d100a16e201c662501f6db6d475f6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Riedran
+    Content: 
+    AsJson: '{"name":"Riedran","source":"ERLW","page":6,"type":"standard","typicalSpeakers":["people
+      of Sarlona"],"script":"Common"}'
+    DataHash: a01d100a16e201c662501f6db6d475f6

@@ -32,3 +32,26 @@ MonoBehaviour:
     mw} {@hit 12} to hit, reach 5 ft., one target. {@h}16 ({@damage 2d6 + 9}) slashing
     damage."]}],"traitTags":["Magic Resistance","Magic Weapons"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["LF"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["frightened","incapacitated"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 27ef0242a119ec931b15ad05037beaea
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeleton Lord
+    Content: 
+    AsJson: '{"name":"Skeleton Lord","source":"MaBJoV","page":149,"size":["M"],"type":"undead","alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+      plate armor|PHB}"]}],"hp":{"average":136,"formula":"16d8 + 64"},"speed":{"walk":30},"str":20,"dex":14,"con":18,"int":18,"wis":12,"cha":12,"senses":["darkvision
+      120 ft."],"passive":10,"resist":["cold","necrotic"],"immune":["poison",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"vulnerable":[{"vulnerable":["bludgeoning"],"note":"from
+      magical attacks","cond":true}],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"languages":["all
+      the languages it knew in life"],"cr":"9","trait":[{"name":"Fear Aura","entries":["Any
+      creature hostile to the skeleton lord that starts its turn within 20 feet of
+      the skeleton lord must make a {@dc 17} Wisdom saving throw, unless the skeleton
+      lord is {@condition incapacitated}. On a failed save, the creature is {@condition
+      frightened} until the start of its next turn. If a creature''s saving throw
+      is successful, then the creature is immune to the skeleton lord''s Fear Aura
+      for the next 24 hours."]},{"name":"Magic Resistance","entries":["The skeleton
+      lord has advantage on saving throws against spells and other magical effects."]},{"name":"Magic
+      Weapons","entries":["The skeleton lord''s weapon attacks are magical and have
+      a +3 bonus to attack and damage rolls (included in the attack)."]}],"action":[{"name":"Multiattack","entries":["The
+      skeleton lord makes three greatsword attacks."]},{"name":"Greatsword","entries":["{@atk
+      mw} {@hit 12} to hit, reach 5 ft., one target. {@h}16 ({@damage 2d6 + 9}) slashing
+      damage."]}],"traitTags":["Magic Resistance","Magic Weapons"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["LF"],"damageTags":["S"],"miscTags":["MW"],"conditionInflict":["frightened","incapacitated"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 27ef0242a119ec931b15ad05037beaea

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ammit
   AsJson: '{"name":"Ammit","source":"PSA","page":30,"_copy":{"name":"Giant Crocodile","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crocodile","with":"ammit"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: f5abddc07e42a65cd4b16e34c7519aae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ammit
+    Content: 
+    AsJson: '{"name":"Ammit","source":"PSA","page":30,"_copy":{"name":"Giant Crocodile","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crocodile","with":"ammit"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: f5abddc07e42a65cd4b16e34c7519aae

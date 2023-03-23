@@ -18,3 +18,12 @@ MonoBehaviour:
     Amphibiousness","entries":["The abomination can breathe air and water, but it
     needs to be submerged at least once every 4 hours to avoid suffocating."]}}}},"type":"aberration","speed":{"walk":20,"swim":40},"hasToken":true,"hasFluff":true}'
   DataHash: f11accd687415af409f84ccc891b4306
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sharkbody Abomination
+    Content: 
+    AsJson: '{"name":"Sharkbody Abomination","source":"EGW","page":215,"_copy":{"name":"Hunter
+      Shark","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shark","with":"abomination"},"trait":{"mode":"appendArr","items":{"name":"Limited
+      Amphibiousness","entries":["The abomination can breathe air and water, but
+      it needs to be submerged at least once every 4 hours to avoid suffocating."]}}}},"type":"aberration","speed":{"walk":20,"swim":40},"hasToken":true,"hasFluff":true}'
+    DataHash: f11accd687415af409f84ccc891b4306

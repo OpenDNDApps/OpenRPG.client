@@ -39,3 +39,34 @@ MonoBehaviour:
     of the comrades you served with. The ideal you embrace largely depends on your
     worldview and your motivation for fighting."]}],"hasFluff":true}'
   DataHash: b7eacf229969c18472d67766a91ed1f7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mercenary Veteran
+    Content: 
+    AsJson: '{"name":"Mercenary Veteran","source":"SCAG","page":152,"skillProficiencies":[{"athletics":true,"persuasion":true}],"toolProficiencies":[{"gaming
+      set":true,"vehicles (land)":true}],"startingEquipment":[{"_":[{"item":"traveler''s
+      clothes|phb","displayName":"uniform of your company"},{"special":"insignia
+      of your rank"},{"equipmentType":"setGaming"},{"item":"pouch|phb","containsValue":1000}]}],"entries":[{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Skill
+      Proficiencies:","entry":"{@skill Athletics}, {@skill Persuasion}"},{"type":"item","name":"Tool
+      Proficiencies:","entry":"One type of {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming
+      set}, {@filter vehicles (land)|items|source=phb;dmg|miscellaneous=mundane|type=vehicle
+      (land)}"},{"type":"item","name":"Equipment:","entry":"A uniform of your company
+      ({@item traveler''s clothes|phb} in quality), an insignia of your rank, a {@filter
+      gaming set|items|source=phb|miscellaneous=mundane|type=gaming set} of your
+      choice, and a {@item pouch|phb} containing the remainder of your last wages
+      (10 gp)."}]},{"name":"Feature: Mercenary Life","type":"entries","entries":["You
+      know the mercenary life as only someone who has experienced it can. You are
+      able to identify mercenary companies by their emblems, and you know a little
+      about any such company, including who has hired them recently. You can find
+      the taverns and festhalls where mercenaries abide in any area, as long as you
+      speak the language. You can find mercenary work between adventures sufficient
+      to maintain a comfortable lifestyle (see \"{@book Practicing a Profession|PHB|8|Practicing
+      a Profession}\" under \"Downtime Activities\" in chapter 8 of the Player''s
+      Handbook)."],"data":{"isFeature":true}},{"type":"entries","name":"Suggested
+      Characteristics","entries":["Use the tables for the {@background soldier} background
+      in the Player''s Handbook as the basis for your traits and motivations, modifying
+      the entries when appropriate to suit your identity as a mercenary.","Your bond
+      could be associated with the company you traveled with previously, or with
+      some of the comrades you served with. The ideal you embrace largely depends
+      on your worldview and your motivation for fighting."]}],"hasFluff":true}'
+    DataHash: b7eacf229969c18472d67766a91ed1f7

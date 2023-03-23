@@ -17,3 +17,11 @@ MonoBehaviour:
     with lightning","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
     Chromatic Rose|WBtW}"]}'
   DataHash: 19714d1e14ca4964a51ac4ca60327991
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blue Chromatic Rose
+    Content: 
+    AsJson: '{"name":"Blue Chromatic Rose","source":"WBtW","page":208,"resist":["lightning"],"detail1":"crackles
+      with lightning","rarity":"rare","wondrous":true,"hasRefs":true,"entries":["{#itemEntry
+      Chromatic Rose|WBtW}"]}'
+    DataHash: 19714d1e14ca4964a51ac4ca60327991

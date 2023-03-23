@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Skyship
   AsJson: '{"name":"Skyship","source":"EGW","page":72,"type":"AIR","rarity":"none","value":10000000,"crewMin":6,"crewMax":10,"vehSpeed":10,"capPassenger":30,"capCargo":10,"travelCost":200,"shippingCost":100}'
   DataHash: de065201943d388b0a5bb0d09457d4a6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skyship
+    Content: 
+    AsJson: '{"name":"Skyship","source":"EGW","page":72,"type":"AIR","rarity":"none","value":10000000,"crewMin":6,"crewMax":10,"vehSpeed":10,"capPassenger":30,"capCargo":10,"travelCost":200,"shippingCost":100}'
+    DataHash: de065201943d388b0a5bb0d09457d4a6

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Dr. Cassee Dannell
   AsJson: '{"name":"Dr. Cassee Dannell","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"int":10,"hasToken":true}'
   DataHash: 51a7b9a826bc8daf83fe3ae6ca4cdfc3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dr. Cassee Dannell
+    Content: 
+    AsJson: '{"name":"Dr. Cassee Dannell","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"int":10,"hasToken":true}'
+    DataHash: 51a7b9a826bc8daf83fe3ae6ca4cdfc3

@@ -59,3 +59,54 @@ MonoBehaviour:
     dispel magic}"]},"4":{"slots":2,"spells":["{@spell divination}","{@spell freedom
     of movement}"]}},"ability":"wis"}],"variant":null}]}'
   DataHash: eb2cd4656f9cff2d0ab7a88e426c3c87
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drider
+    Content: 
+    AsJson: '{"name":"Drider","source":"MM","page":120,"srd":true,"otherSources":[{"source":"WDMM"},{"source":"CRCotN"}],"size":["L"],"type":"monstrosity","alignment":["C","E"],"ac":[{"ac":19,"from":["natural
+      armor"]}],"hp":{"average":123,"formula":"13d10 + 52"},"speed":{"walk":30,"climb":30},"str":16,"dex":16,"con":18,"int":13,"wis":14,"cha":12,"skill":{"perception":"+5","stealth":"+9"},"senses":["darkvision
+      120 ft."],"passive":15,"languages":["Elvish","Undercommon"],"cr":"6","spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The drider''s innate spellcasting ability is
+      Wisdom (spell save {@dc 13}). The drider can innately cast the following spells,
+      requiring no material components:"],"will":["{@spell dancing lights}"],"daily":{"1e":["{@spell
+      darkness}","{@spell faerie fire}"]},"ability":"wis"}],"trait":[{"name":"Fey
+      Ancestry","entries":["The drider has advantage on saving throws against being
+      {@condition charmed}, and magic can''t put the drider to sleep."]},{"name":"Spider
+      Climb","entries":["The drider can climb difficult surfaces, including upside
+      down on ceilings, without needing to make an ability check."]},{"name":"Sunlight
+      Sensitivity","entries":["While in sunlight, the drider has disadvantage on
+      attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on
+      sight."]},{"name":"Web Walker","entries":["The drider ignores movement restrictions
+      caused by webbing."]}],"action":[{"name":"Multiattack","entries":["The drider
+      makes three attacks, either with its longsword or its longbow. It can replace
+      one of those attacks with a bite attack."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one creature. {@h}2 ({@damage 1d4}) piercing
+      damage plus 9 ({@damage 2d8}) poison damage."]},{"name":"Longsword","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+      damage, or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands."]},{"name":"Longbow","entries":["{@atk
+      rw} {@hit 6} to hit, range 150/600 ft., one target. {@h}7 ({@damage 1d8 + 3})
+      piercing damage plus 4 ({@damage 1d8}) poison damage."]}],"variant":[{"type":"variant","name":"Drider
+      Spellcasting","entries":["Driders that were once drow spellcasters might retain
+      their ability to cast spells. Such driders typically have a higher spellcasting
+      ability (15 or 16) than other driders. Further, the drider gains the Spellcasting
+      trait. A drider that was a drow divine spellcaster, therefore, could have a
+      Wisdom of 16 (+3) and a Spellcasting trait as follows.","Spellcasting. The
+      drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 14}, {@hit 6} to hit with spell attacks). The drider has the following
+      spells prepared from the cleric spell list:",{"type":"list","style":"list-hang-notitle","items":["Cantrips
+      (at will): {@spell poison spray}, {@spell thaumaturgy}","1st level (4 slots):
+      {@spell bane}, {@spell detect magic}, {@spell sanctuary}","2nd level (3 slots):
+      {@spell hold person}, {@spell silence}","3rd level (3 slots): {@spell clairvoyance},
+      {@spell dispel magic}","4th level (2 slots): {@spell divination}, {@spell freedom
+      of movement}"]}]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/drider.mp3"},"traitTags":["Fey
+      Ancestry","Spider Climb","Sunlight Sensitivity","Web Walker"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["E","U"],"damageTags":["I","P","S"],"spellcastingTags":["I"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true,"_versions":[{"name":"Drider
+      Spellcaster","source":"MM","wis":16,"spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 14}, {@hit 6} to hit with spell attacks). The drider has the following
+      spells prepared from the cleric spell list:"],"spells":{"0":{"spells":["{@spell
+      poison spray}","{@spell thaumaturgy}"]},"1":{"slots":4,"spells":["{@spell bane}","{@spell
+      detect magic}","{@spell sanctuary}"]},"2":{"slots":3,"spells":["{@spell hold
+      person}","{@spell silence}"]},"3":{"slots":3,"spells":["{@spell clairvoyance}","{@spell
+      dispel magic}"]},"4":{"slots":2,"spells":["{@spell divination}","{@spell freedom
+      of movement}"]}},"ability":"wis"}],"variant":null}]}'
+    DataHash: eb2cd4656f9cff2d0ab7a88e426c3c87

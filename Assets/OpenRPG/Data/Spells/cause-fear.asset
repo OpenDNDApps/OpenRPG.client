@@ -23,3 +23,18 @@ MonoBehaviour:
     level or higher, you can target one additional creature for each slot level above
     1st. The creatures must be within 30 feet of each other when you target them."]}],"conditionInflict":["frightened"],"savingThrow":["wisdom"],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: e5aa302bd3b4688ada5b0f4a1c83dd41
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cause Fear
+    Content: 
+    AsJson: '{"name":"Cause Fear","source":"XGE","page":151,"level":1,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      awaken the sense of mortality in one creature you can see within range. A construct
+      or an undead is immune to this effect. The target must succeed on a Wisdom
+      saving throw or become {@condition frightened} of you until the spell ends.
+      The {@condition frightened} target can repeat the saving throw at the end of
+      each of its turns, ending the effect on itself on a success."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, you can target one additional creature for each slot level
+      above 1st. The creatures must be within 30 feet of each other when you target
+      them."]}],"conditionInflict":["frightened"],"savingThrow":["wisdom"],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: e5aa302bd3b4688ada5b0f4a1c83dd41

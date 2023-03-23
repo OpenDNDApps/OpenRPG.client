@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tyrant","alias":["Monstrosaur","Dreadmaw","Swordtooth","Regisaur"],"source":"PSX","page":31,"_copy":{"name":"Tyrannosaurus
     Rex","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tyrannosaurus","with":"tyrant"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0acb6016c3bbd7a1292bf5a6b337cf2b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tyrant
+    Content: 
+    AsJson: '{"name":"Tyrant","alias":["Monstrosaur","Dreadmaw","Swordtooth","Regisaur"],"source":"PSX","page":31,"_copy":{"name":"Tyrannosaurus
+      Rex","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"tyrannosaurus","with":"tyrant"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0acb6016c3bbd7a1292bf5a6b337cf2b

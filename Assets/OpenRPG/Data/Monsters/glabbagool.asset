@@ -17,3 +17,11 @@ MonoBehaviour:
     Cube","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the cube","with":"Glabbagool","flags":"i"}}},"int":10,"languages":["telepathy
     60 ft."],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 9f173ba0557ad9f774f8c762efffcedb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Glabbagool
+    Content: 
+    AsJson: '{"name":"Glabbagool","isNpc":true,"source":"OotA","page":35,"_copy":{"name":"Gelatinous
+      Cube","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the cube","with":"Glabbagool","flags":"i"}}},"int":10,"languages":["telepathy
+      60 ft."],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 9f173ba0557ad9f774f8c762efffcedb

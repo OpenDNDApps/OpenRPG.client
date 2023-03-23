@@ -24,3 +24,18 @@ MonoBehaviour:
     The area of the smoke is heavily obscured. The smoke persists for 1 minute or
     until a strong wind disperses it."]}],"conditionInflict":["blinded"],"savingThrow":["constitution"],"miscTags":["OBS","SGT"],"areaTags":["C","S"]}'
   DataHash: 66f792bb77f05a340e159afb5cecb6b4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pyrotechnics
+    Content: 
+    AsJson: '{"name":"Pyrotechnics","source":"XGE","page":163,"otherSources":[{"source":"EEPC","page":21}],"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Choose
+      an area of nonmagical flame that you can see and that fits within a 5-foot
+      cube within range. You can extinguish the fire in that area, and you create
+      either fireworks or smoke when you do so.",{"type":"entries","name":"Fireworks","entries":["The
+      target explodes with a dazzling display of colors. Each creature within 10
+      feet of the target must succeed on a Constitution saving throw or become {@condition
+      blinded} until the end of your next turn."]},{"type":"entries","name":"Smoke","entries":["Thick
+      black smoke spreads out from the target in a 20-foot radius, moving around
+      corners. The area of the smoke is heavily obscured. The smoke persists for
+      1 minute or until a strong wind disperses it."]}],"conditionInflict":["blinded"],"savingThrow":["constitution"],"miscTags":["OBS","SGT"],"areaTags":["C","S"]}'
+    DataHash: 66f792bb77f05a340e159afb5cecb6b4

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Nordmaarian
   AsJson: '{"name":"Nordmaarian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Nordmaar"],"script":"Istarian"}'
   DataHash: 0160cc0d5dd5a2abf892d31a72f2fb21
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nordmaarian
+    Content: 
+    AsJson: '{"name":"Nordmaarian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Nordmaar"],"script":"Istarian"}'
+    DataHash: 0160cc0d5dd5a2abf892d31a72f2fb21

@@ -22,3 +22,17 @@ MonoBehaviour:
     is {@condition grappled} (escape {@dc 14}). Until this grapple ends, the creature
     is {@condition restrained}, and the snake can''t constrict another target."]}],"environment":["underwater","forest","swamp","desert"],"soundClip":{"type":"internal","path":"bestiary/constrictor-snake.mp3"},"senseTags":["B"],"damageTags":["B","P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true}'
   DataHash: 5ce8cceedc30c1037b4b357abd7b3bee
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Constrictor Snake
+    Content: 
+    AsJson: '{"name":"Constrictor Snake","source":"MM","page":320,"srd":true,"basicRules":true,"otherSources":[{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":13,"formula":"2d10
+      + 2"},"speed":{"walk":30,"swim":30},"str":15,"dex":14,"con":12,"int":1,"wis":10,"cha":3,"senses":["blindsight
+      10 ft."],"passive":10,"cr":"1/4","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) piercing
+      damage."]},{"name":"Constrict","entries":["{@atk mw} {@hit 4} to hit, reach
+      5 ft., one creature. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage, and the
+      target is {@condition grappled} (escape {@dc 14}). Until this grapple ends,
+      the creature is {@condition restrained}, and the snake can''t constrict another
+      target."]}],"environment":["underwater","forest","swamp","desert"],"soundClip":{"type":"internal","path":"bestiary/constrictor-snake.mp3"},"senseTags":["B"],"damageTags":["B","P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true}'
+    DataHash: 5ce8cceedc30c1037b4b357abd7b3bee

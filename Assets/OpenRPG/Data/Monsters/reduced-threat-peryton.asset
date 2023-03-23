@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Peryton","source":"TftYP","page":113,"_copy":{"name":"Peryton","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 87accc76fa940b17e12b55eb4036d251
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Peryton
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Peryton","source":"TftYP","page":113,"_copy":{"name":"Peryton","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 87accc76fa940b17e12b55eb4036d251

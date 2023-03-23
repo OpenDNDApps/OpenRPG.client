@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Clockwork Behir
   AsJson: '{"name":"Clockwork Behir","source":"OoW","page":173,"_copy":{"name":"Behir","source":"MM"},"type":"construct","immune":["poison","psychic"],"conditionImmune":["charmed","exhaustion","frightened","paralyzed","petrified","poisoned"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 9a49b0b9afde23c2121ff9fb18e12d44
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Clockwork Behir
+    Content: 
+    AsJson: '{"name":"Clockwork Behir","source":"OoW","page":173,"_copy":{"name":"Behir","source":"MM"},"type":"construct","immune":["poison","psychic"],"conditionImmune":["charmed","exhaustion","frightened","paralyzed","petrified","poisoned"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 9a49b0b9afde23c2121ff9fb18e12d44

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Young Winter Wolf","source":"TftYP","page":181,"_copy":{"name":"Dire
     Wolf","source":"MM"},"hasToken":true}'
   DataHash: c43d89453c73c3f6f62c79ef85c713ef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Winter Wolf
+    Content: 
+    AsJson: '{"name":"Young Winter Wolf","source":"TftYP","page":181,"_copy":{"name":"Dire
+      Wolf","source":"MM"},"hasToken":true}'
+    DataHash: c43d89453c73c3f6f62c79ef85c713ef

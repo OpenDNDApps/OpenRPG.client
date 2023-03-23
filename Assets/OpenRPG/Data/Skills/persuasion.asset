@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: persuasion
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Persuasion
   AsJson: '{"name":"Persuasion","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["When
     you attempt to influence someone or a group of people with tact, social graces,
     or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically,
@@ -21,3 +21,15 @@ MonoBehaviour:
     convincing a chamberlain to let your party see the king, negotiating peace between
     warring tribes, or inspiring a crowd of townsfolk."]}'
   DataHash: c0990caf3829f612c940d6c96e7ec3fd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Persuasion","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["When
+      you attempt to influence someone or a group of people with tact, social graces,
+      or good nature, the DM might ask you to make a Charisma (Persuasion) check.
+      Typically, you use persuasion when acting in good faith, to foster friendships,
+      make cordial requests, or exhibit proper etiquette. Examples of persuading
+      others include convincing a chamberlain to let your party see the king, negotiating
+      peace between warring tribes, or inspiring a crowd of townsfolk."]}'
+    DataHash: c0990caf3829f612c940d6c96e7ec3fd

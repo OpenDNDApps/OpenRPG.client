@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fine gold chain set with a fire opal
   AsJson: '{"name":"Fine gold chain set with a fire opal","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: 83c076b6ee8ae056dc9ceba7f79bcc5d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine gold chain set with a fire opal
+    Content: 
+    AsJson: '{"name":"Fine gold chain set with a fire opal","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: 83c076b6ee8ae056dc9ceba7f79bcc5d

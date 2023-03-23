@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Force Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["force"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: c89d318420aec4fb4e11c8459acae3c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Force Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Force Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["force"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: c89d318420aec4fb4e11c8459acae3c7

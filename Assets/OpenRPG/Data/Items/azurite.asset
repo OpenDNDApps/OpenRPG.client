@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Azurite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque mottled deep blue gemstone."]}'
   DataHash: bc460847a5e71872d67b697b6de14056
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Azurite
+    Content: 
+    AsJson: '{"name":"Azurite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque mottled deep blue gemstone."]}'
+    DataHash: bc460847a5e71872d67b697b6de14056

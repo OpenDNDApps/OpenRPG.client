@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drake (Large)","source":"PSZ","page":24,"_copy":{"name":"Giant
     Eagle","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"eagle","with":"drake"}}},"hasToken":true}'
   DataHash: 9f6a06c1c5534317d105ddd1281ebfbb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drake (Large)
+    Content: 
+    AsJson: '{"name":"Drake (Large)","source":"PSZ","page":24,"_copy":{"name":"Giant
+      Eagle","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"eagle","with":"drake"}}},"hasToken":true}'
+    DataHash: 9f6a06c1c5534317d105ddd1281ebfbb

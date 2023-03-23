@@ -42,3 +42,37 @@ MonoBehaviour:
     do so, the death knight must see the attacker and be wielding a melee weapon."]}],"soundClip":{"type":"internal","path":"bestiary/death-knight.mp3"},"traitTags":["Magic
     Resistance"],"senseTags":["SD"],"actionTags":["Multiattack","Parry"],"languageTags":["AB","C"],"damageTags":["F","N","S"],"damageTagsSpell":["A","C","F","L","N","R","T","Y"],"spellcastingTags":["CP"],"miscTags":["AOE","MW"],"conditionInflictSpell":["incapacitated","paralyzed","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 82a2930f37b1b31a47b2982b902ec95f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Death Knight
+    Content: 
+    AsJson: '{"name":"Death Knight","source":"MM","page":47,"otherSources":[{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"BGDIA"},{"source":"EGW"},{"source":"TCE"},{"source":"CM"},{"source":"DSotDQ"}],"size":["M"],"type":"undead","alignment":["C","E"],"ac":[{"ac":20,"from":["{@item
+      plate armor|phb}","{@item shield|phb}"]}],"hp":{"average":180,"formula":"19d8
+      + 95"},"speed":{"walk":30},"str":20,"dex":11,"con":20,"int":12,"wis":16,"cha":18,"save":{"dex":"+6","wis":"+9","cha":"+10"},"senses":["darkvision
+      120 ft."],"passive":13,"immune":["necrotic","poison"],"conditionImmune":["exhaustion","frightened","poisoned"],"languages":["Abyssal","Common"],"cr":"17","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      death knight is a 19th-level spellcaster. Its spellcasting ability is Charisma
+      (spell save {@dc 18}, {@hit 10} to hit with spell attacks). It has the following
+      paladin spells prepared:"],"spells":{"1":{"slots":4,"spells":["{@spell command}","{@spell
+      compelled duel}","{@spell searing smite}"]},"2":{"slots":3,"spells":["{@spell
+      hold person}","{@spell magic weapon}"]},"3":{"slots":3,"spells":["{@spell dispel
+      magic}","{@spell elemental weapon}"]},"4":{"slots":3,"spells":["{@spell banishment}","{@spell
+      staggering smite}"]},"5":{"slots":2,"spells":["{@spell destructive wave} (necrotic)"]}},"ability":"cha"}],"trait":[{"name":"Magic
+      Resistance","entries":["The death knight has advantage on saving throws against
+      spells and other magical effects."]},{"name":"Marshal Undead","entries":["Unless
+      the death knight is {@condition incapacitated}, it and undead creatures of
+      its choice within 60 feet of it have advantage on saving throws against features
+      that turn undead."]}],"action":[{"name":"Multiattack","entries":["The death
+      knight makes three longsword attacks."]},{"name":"Longsword","entries":["{@atk
+      mw} {@hit 11} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing
+      damage, or 10 ({@damage 1d10 + 5}) slashing damage if used with two hands,
+      plus 18 ({@damage 4d8}) necrotic damage."]},{"name":"Hellfire Orb (1/Day)","entries":["The
+      death knight hurls a magical ball of fire that explodes at a point it can see
+      within 120 feet of it. Each creature in a 20-foot-radius sphere centered on
+      that point must make a {@dc 18} Dexterity saving throw. The sphere spreads
+      around corners. A creature takes 35 ({@damage 10d6}) fire damage and 35 ({@damage
+      10d6}) necrotic damage on a failed save, or half as much damage on a successful
+      one."]}],"reaction":[{"name":"Parry","entries":["The death knight adds 6 to
+      its AC against one melee attack that would hit it. To do so, the death knight
+      must see the attacker and be wielding a melee weapon."]}],"soundClip":{"type":"internal","path":"bestiary/death-knight.mp3"},"traitTags":["Magic
+      Resistance"],"senseTags":["SD"],"actionTags":["Multiattack","Parry"],"languageTags":["AB","C"],"damageTags":["F","N","S"],"damageTagsSpell":["A","C","F","L","N","R","T","Y"],"spellcastingTags":["CP"],"miscTags":["AOE","MW"],"conditionInflictSpell":["incapacitated","paralyzed","prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 82a2930f37b1b31a47b2982b902ec95f

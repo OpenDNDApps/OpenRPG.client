@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Giant Flying Spider","source":"WDMM","page":150,"_copy":{"name":"Giant
     Spider","source":"MM"},"speed":{"walk":30,"climb":30,"fly":40},"hasToken":true}'
   DataHash: 622c4c5a70e7262bf8d061ec34c43859
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Flying Spider
+    Content: 
+    AsJson: '{"name":"Giant Flying Spider","source":"WDMM","page":150,"_copy":{"name":"Giant
+      Spider","source":"MM"},"speed":{"walk":30,"climb":30,"fly":40},"hasToken":true}'
+    DataHash: 622c4c5a70e7262bf8d061ec34c43859

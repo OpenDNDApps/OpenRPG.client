@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     translucent pale blue with green and golden mottling gemstone."]}'
   DataHash: 312b8333002f73f84f259a2edb66ce98
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Opal
+    Content: 
+    AsJson: '{"name":"Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      translucent pale blue with green and golden mottling gemstone."]}'
+    DataHash: 312b8333002f73f84f259a2edb66ce98

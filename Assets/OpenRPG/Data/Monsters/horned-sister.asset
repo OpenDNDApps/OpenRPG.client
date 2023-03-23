@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Horned Sister","isNpc":true,"source":"WDMM","page":118,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"(^|
     )mage","with":"$1horned sister"}}},"alignment":["L","E"],"languages":["Common","Draconic","Infernal","Undercommon"],"senseTags":["D"],"languageTags":["C","DR","I","U"],"spellcastingTags":["CW","I"],"hasToken":true}'
   DataHash: 4bc44c53bb993e7c0d2be633cb1ef9c2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Horned Sister
+    Content: 
+    AsJson: '{"name":"Horned Sister","isNpc":true,"source":"WDMM","page":118,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"(^|
+      )mage","with":"$1horned sister"}}},"alignment":["L","E"],"languages":["Common","Draconic","Infernal","Undercommon"],"senseTags":["D"],"languageTags":["C","DR","I","U"],"spellcastingTags":["CW","I"],"hasToken":true}'
+    DataHash: 4bc44c53bb993e7c0d2be633cb1ef9c2

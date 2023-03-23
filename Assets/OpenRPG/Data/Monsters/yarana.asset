@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Yarana","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":204,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Yarana","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: d98376d984921418266805b755510b85
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yarana
+    Content: 
+    AsJson: '{"name":"Yarana","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":204,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Yarana","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: d98376d984921418266805b755510b85

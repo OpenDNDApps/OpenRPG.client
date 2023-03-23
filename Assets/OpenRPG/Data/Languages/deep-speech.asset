@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Deep Speech","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@creature
     mind flayer||mind flayers}","{@creature beholder||beholders}"],"script":"none"}'
   DataHash: 82051b769ea76ddfca647d1bc8e871a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Deep Speech
+    Content: 
+    AsJson: '{"name":"Deep Speech","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@creature
+      mind flayer||mind flayers}","{@creature beholder||beholders}"],"script":"none"}'
+    DataHash: 82051b769ea76ddfca647d1bc8e871a5

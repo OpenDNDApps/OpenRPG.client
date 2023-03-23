@@ -24,3 +24,18 @@ MonoBehaviour:
     saving throw at the end of each of its turns. On a successful save, the stunning
     effect ends."],"damageInflict":["psychic"],"conditionInflict":["stunned"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["MT"]}'
   DataHash: 01d74101c38addadf293c5fea9e23163
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Psychic Scream
+    Content: 
+    AsJson: '{"name":"Psychic Scream","source":"XGE","page":163,"level":9,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"s":true},"duration":[{"type":"instant"}],"entries":["You
+      unleash the power of your mind to blast the intellect of up to ten creatures
+      of your choice that you can see within range. Creatures that have an Intelligence
+      score of 2 or lower are unaffected.","Each target must make an Intelligence
+      saving throw. On a failed save, a target takes {@damage 14d6} psychic damage
+      and is {@condition stunned}. On a successful save, a target takes half as much
+      damage and isn''t {@condition stunned}. If a target is killed by this damage,
+      its head explodes, assuming it has one.","A {@condition stunned} target can
+      make an Intelligence saving throw at the end of each of its turns. On a successful
+      save, the stunning effect ends."],"damageInflict":["psychic"],"conditionInflict":["stunned"],"savingThrow":["intelligence"],"miscTags":["SGT"],"areaTags":["MT"]}'
+    DataHash: 01d74101c38addadf293c5fea9e23163

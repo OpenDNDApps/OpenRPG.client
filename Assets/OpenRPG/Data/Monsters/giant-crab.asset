@@ -21,3 +21,15 @@ MonoBehaviour:
     damage, and the target is {@condition grappled} (escape {@dc 11}). The crab has
     two claws, each of which can grapple only one target."]}],"environment":["coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-crab.mp3"},"traitTags":["Amphibious"],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true}'
   DataHash: c46791b6a7b72a246349ac488bc8884d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Crab
+    Content: 
+    AsJson: '{"name":"Giant Crab","source":"MM","page":324,"srd":true,"basicRules":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"BGDIA"},{"source":"EGW"},{"source":"MOT"},{"source":"CM"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":13,"formula":"3d8"},"speed":{"walk":30,"swim":30},"str":13,"dex":15,"con":11,"int":1,"wis":9,"cha":3,"skill":{"stealth":"+4"},"senses":["blindsight
+      30 ft."],"passive":9,"cr":"1/8","trait":[{"name":"Amphibious","entries":["The
+      crab can breathe air and water."]}],"action":[{"name":"Claw","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning
+      damage, and the target is {@condition grappled} (escape {@dc 11}). The crab
+      has two claws, each of which can grapple only one target."]}],"environment":["coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-crab.mp3"},"traitTags":["Amphibious"],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true}'
+    DataHash: c46791b6a7b72a246349ac488bc8884d

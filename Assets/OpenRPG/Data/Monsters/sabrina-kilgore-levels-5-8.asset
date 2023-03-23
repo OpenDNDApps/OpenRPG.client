@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sabrina Kilgore (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Thug","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     thug","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: 6f840698a70663615ef8c2579e9e7202
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sabrina Kilgore (Levels 5-8)
+    Content: 
+    AsJson: '{"name":"Sabrina Kilgore (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Thug","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      thug","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: 6f840698a70663615ef8c2579e9e7202

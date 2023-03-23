@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold-plated sextant with topaz (Brazen Coalition)
   AsJson: '{"name":"Gold-plated sextant with topaz (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: 0449ec96f2cfc09a28abd61c888fa387
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold-plated sextant with topaz (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Gold-plated sextant with topaz (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: 0449ec96f2cfc09a28abd61c888fa387

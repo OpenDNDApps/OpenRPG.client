@@ -21,3 +21,15 @@ MonoBehaviour:
     might be able to persuade a beast to perform a small favor for you, at the DM''s
     discretion."],"affectsCreatureType":["beast"]}'
   DataHash: 056cbccd58bbd1bfec35de05562f0d33
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Speak with Animals
+    Content: 
+    AsJson: '{"name":"Speak with Animals","source":"PHB","page":277,"srd":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"meta":{"ritual":true},"entries":["You
+      gain the ability to comprehend and verbally communicate with beasts for the
+      duration. The knowledge and awareness of many beasts is limited by their intelligence,
+      but at minimum, beasts can give you information about nearby locations and
+      monsters, including whatever they can perceive or have perceived within the
+      past day. You might be able to persuade a beast to perform a small favor for
+      you, at the DM''s discretion."],"affectsCreatureType":["beast"]}'
+    DataHash: 056cbccd58bbd1bfec35de05562f0d33

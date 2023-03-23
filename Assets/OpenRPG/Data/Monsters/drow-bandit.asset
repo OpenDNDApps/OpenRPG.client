@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Bandit","source":"OotA","page":194,"_copy":{"name":"Bandit","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 656ce1359e29acb7d30ab827abd6368b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Bandit
+    Content: 
+    AsJson: '{"name":"Drow Bandit","source":"OotA","page":194,"_copy":{"name":"Bandit","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 656ce1359e29acb7d30ab827abd6368b

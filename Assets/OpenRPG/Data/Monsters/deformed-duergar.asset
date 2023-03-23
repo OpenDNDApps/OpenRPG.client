@@ -20,3 +20,14 @@ MonoBehaviour:
     {@condition stunned}, and knocked {@condition unconscious}."]}]}}},"hp":{"average":40,"formula":"4d8
     + 4"},"miscTags":["MW","RCH","RW","THW"],"hasToken":true,"hasFluff":true}'
   DataHash: 2e999658d78152abd653bbc7e5328a99
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Deformed Duergar
+    Content: 
+    AsJson: '{"name":"Deformed Duergar","isNpc":true,"source":"WDMM","page":180,"_copy":{"name":"Duergar","source":"MM","_mod":{"trait":{"mode":"prependArr","items":[{"name":"Third
+      Arm","entries":["The duergar can make an attack with its javelin as a bonus
+      action."]},{"name":"Merged Heads","entries":["The duergar has advantage on
+      Wisdom ({@skill Perception}) checks and on saving throws against being {@condition
+      charmed}, {@condition frightened}, {@condition stunned}, and knocked {@condition
+      unconscious}."]}]}}},"hp":{"average":40,"formula":"4d8 + 4"},"miscTags":["MW","RCH","RW","THW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 2e999658d78152abd653bbc7e5328a99

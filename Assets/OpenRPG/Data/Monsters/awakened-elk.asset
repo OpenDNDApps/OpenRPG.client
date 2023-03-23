@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Awakened Elk
   AsJson: '{"name":"Awakened Elk","source":"WDMM","page":72,"_copy":{"name":"Elk","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
   DataHash: 0ee110dbc91349c75f13e500c628493a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Awakened Elk
+    Content: 
+    AsJson: '{"name":"Awakened Elk","source":"WDMM","page":72,"_copy":{"name":"Elk","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
+    DataHash: 0ee110dbc91349c75f13e500c628493a

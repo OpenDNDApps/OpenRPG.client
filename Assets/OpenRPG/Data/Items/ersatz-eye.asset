@@ -18,3 +18,12 @@ MonoBehaviour:
     eye is embedded in your eye socket, it can''t be removed by anyone other than
     you, and you can see through the tiny orb as though it were a normal eye."]}'
   DataHash: c54843409349b26e7dab7146805ec5a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ersatz Eye
+    Content: 
+    AsJson: '{"name":"Ersatz Eye","source":"XGE","page":137,"otherSources":[{"source":"EGW"}],"tier":"minor","rarity":"common","reqAttune":true,"wondrous":true,"entries":["This
+      artificial eye replaces a real one that was lost or removed. While the ersatz
+      eye is embedded in your eye socket, it can''t be removed by anyone other than
+      you, and you can see through the tiny orb as though it were a normal eye."]}'
+    DataHash: c54843409349b26e7dab7146805ec5a5

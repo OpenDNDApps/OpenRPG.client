@@ -31,3 +31,25 @@ MonoBehaviour:
     of each of its turns."]}],"soundClip":{"type":"internal","path":"bestiary/magmin.mp3"},"traitTags":["Death
     Burst"],"senseTags":["D"],"languageTags":["IG"],"damageTags":["F"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4b3146890ad1c59426ed8b911ebe19cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Magmin
+    Content: 
+    AsJson: '{"name":"Magmin","source":"MM","page":212,"srd":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"BGDIA"},{"source":"WBtW"}],"size":["S"],"type":"elemental","alignment":["C","N"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":9,"formula":"2d6 + 2"},"speed":{"walk":30},"str":7,"dex":15,"con":12,"int":8,"wis":11,"cha":10,"senses":["darkvision
+      60 ft."],"passive":10,"resist":[{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["fire"],"languages":["Ignan"],"cr":"1/2","trait":[{"name":"Death
+      Burst","entries":["When the magmin dies, it explodes in a burst of fire and
+      magma. Each creature within 10 feet of it must make a {@dc 11} Dexterity saving
+      throw, taking 7 ({@damage 2d6}) fire damage on a failed save, or half as much
+      damage on a successful one. Flammable objects that aren''t being worn or carried
+      in that area are ignited."]},{"name":"Ignited Illumination","entries":["As
+      a bonus action, the magmin can set itself ablaze or extinguish its flames.
+      While ablaze, the magmin sheds bright light in a 10-foot radius and dim light
+      for an additional 10 feet."]}],"action":[{"name":"Touch","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) fire damage.
+      If the target is a creature or a flammable object, it ignites. Until a creature
+      takes an action to douse the fire, the target takes 3 ({@damage 1d6}) fire
+      damage at the end of each of its turns."]}],"soundClip":{"type":"internal","path":"bestiary/magmin.mp3"},"traitTags":["Death
+      Burst"],"senseTags":["D"],"languageTags":["IG"],"damageTags":["F"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4b3146890ad1c59426ed8b911ebe19cb

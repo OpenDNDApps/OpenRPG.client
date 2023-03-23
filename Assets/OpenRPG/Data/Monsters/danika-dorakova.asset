@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Danika Dorakova","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR","_mod":{"*":{"mode":"replaceTxt","replace":"the
     wereraven","with":"Danika","flags":"i"}}},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 935186ffc0960c781adc2bdc1c5eaaaa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Danika Dorakova
+    Content: 
+    AsJson: '{"name":"Danika Dorakova","isNpc":true,"source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      wereraven","with":"Danika","flags":"i"}}},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 935186ffc0960c781adc2bdc1c5eaaaa

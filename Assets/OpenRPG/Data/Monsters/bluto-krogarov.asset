@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bluto Krogarov
   AsJson: '{"name":"Bluto Krogarov","isNpc":true,"source":"CoS","page":38,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: 6fd54bb72026f3f6e89e672c4373f0e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bluto Krogarov
+    Content: 
+    AsJson: '{"name":"Bluto Krogarov","isNpc":true,"source":"CoS","page":38,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: 6fd54bb72026f3f6e89e672c4373f0e2

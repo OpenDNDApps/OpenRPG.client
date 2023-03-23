@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Rooster
   AsJson: '{"name":"Rooster","source":"JttRC","page":206,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"rooster"}}},"speed":{"walk":10},"hasToken":true}'
   DataHash: 975e1575f06d900da7d043a5646e928b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rooster
+    Content: 
+    AsJson: '{"name":"Rooster","source":"JttRC","page":206,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"rooster"}}},"speed":{"walk":10},"hasToken":true}'
+    DataHash: 975e1575f06d900da7d043a5646e928b

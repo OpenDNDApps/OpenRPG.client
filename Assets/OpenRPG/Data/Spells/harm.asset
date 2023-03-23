@@ -22,3 +22,16 @@ MonoBehaviour:
     damage it took. Any effect that removes a disease allows a creature''s hit point
     maximum to return to normal before that time passes."],"damageInflict":["necrotic"],"savingThrow":["constitution"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 339deb21afc16783c4729a371f87a1fd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Harm
+    Content: 
+    AsJson: '{"name":"Harm","source":"PHB","page":249,"srd":true,"basicRules":true,"level":6,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      unleash a virulent disease on a creature that you can see within range. The
+      target must make a Constitution saving throw. On a failed save, it takes {@damage
+      14d6} necrotic damage, or half as much damage on a successful save. The damage
+      can''t reduce the target''s hit points below 1. If the target fails the saving
+      throw, its hit point maximum is reduced for 1 hour by an amount equal to the
+      necrotic damage it took. Any effect that removes a disease allows a creature''s
+      hit point maximum to return to normal before that time passes."],"damageInflict":["necrotic"],"savingThrow":["constitution"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 339deb21afc16783c4729a371f87a1fd

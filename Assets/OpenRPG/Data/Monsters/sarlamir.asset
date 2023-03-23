@@ -17,3 +17,11 @@ MonoBehaviour:
     Knight","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the skeletal
     knight","with":"Sarlamir","flags":"i"}}},"hasToken":true}'
   DataHash: 79c7dce9cc2c1aa2160a7dce0d1c66c4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sarlamir
+    Content: 
+    AsJson: '{"name":"Sarlamir","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":102,"_copy":{"name":"Skeletal
+      Knight","source":"DSotDQ","_mod":{"*":{"mode":"replaceTxt","replace":"the skeletal
+      knight","with":"Sarlamir","flags":"i"}}},"hasToken":true}'
+    DataHash: 79c7dce9cc2c1aa2160a7dce0d1c66c4

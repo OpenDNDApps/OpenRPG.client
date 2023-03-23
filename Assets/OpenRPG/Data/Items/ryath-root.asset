@@ -19,3 +19,13 @@ MonoBehaviour:
     on a DC 13 Constitution saving throw or suffer the {@condition poisoned} condition
     for 1 hour."]}'
   DataHash: afa67dc95ab6e35d6ac76d4ff5403e81
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ryath Root
+    Content: 
+    AsJson: '{"name":"Ryath Root","source":"ToA","page":205,"type":"G","rarity":"unknown","value":5000,"entries":["Any
+      creature that ingests a ryath root gains {@dice 2d4} temporary hit points.
+      A creature that consumes more than one ryath root in a 24-hour period must
+      succeed on a DC 13 Constitution saving throw or suffer the {@condition poisoned}
+      condition for 1 hour."]}'
+    DataHash: afa67dc95ab6e35d6ac76d4ff5403e81

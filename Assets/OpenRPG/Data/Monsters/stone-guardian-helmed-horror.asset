@@ -17,3 +17,11 @@ MonoBehaviour:
     Horror","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"helmed horror","with":"stone
     guardian"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 298f7518a58e0c3e59e9f9f14e7faf7b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone Guardian (Helmed Horror)
+    Content: 
+    AsJson: '{"name":"Stone Guardian (Helmed Horror)","source":"PSX","page":40,"_copy":{"name":"Helmed
+      Horror","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"helmed horror","with":"stone
+      guardian"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 298f7518a58e0c3e59e9f9f14e7faf7b

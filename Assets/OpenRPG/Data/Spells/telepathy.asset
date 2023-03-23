@@ -24,3 +24,18 @@ MonoBehaviour:
     creature with an Intelligence score of at least 1 to understand the meaning of
     your words and take in the scope of any sensory messages you send to it."],"areaTags":["ST"]}'
   DataHash: aed604b2a5c8ce78fb316afd04f1e8eb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Telepathy
+    Content: 
+    AsJson: '{"name":"Telepathy","source":"PHB","page":281,"level":8,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"unlimited"}},"components":{"v":true,"s":true,"m":"a
+      pair of linked silver rings"},"duration":[{"type":"timed","duration":{"type":"hour","amount":24}}],"entries":["You
+      create a telepathic link between yourself and a willing creature with which
+      you are familiar. The creature can be anywhere on the same plane of existence
+      as you. The spell ends if you or the target are no longer on the same plane.","Until
+      the spell ends, you and the target can instantaneously share words, images,
+      sounds, and other sensory messages with one another through the link, and the
+      target recognizes you as the creature it is communicating with. The spell enables
+      a creature with an Intelligence score of at least 1 to understand the meaning
+      of your words and take in the scope of any sensory messages you send to it."],"areaTags":["ST"]}'
+    DataHash: aed604b2a5c8ce78fb316afd04f1e8eb

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Thri-kreen","source":"MM","page":288,"typicalSpeakers":["{@creature
     Thri-kreen||thri-kreen}"]}'
   DataHash: 8d0a1a60374c055030481e65d8e38d3f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thri-kreen
+    Content: 
+    AsJson: '{"name":"Thri-kreen","source":"MM","page":288,"typicalSpeakers":["{@creature
+      Thri-kreen||thri-kreen}"]}'
+    DataHash: 8d0a1a60374c055030481e65d8e38d3f

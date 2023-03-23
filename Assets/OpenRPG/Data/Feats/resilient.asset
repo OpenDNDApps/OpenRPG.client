@@ -18,6 +18,15 @@ MonoBehaviour:
     one ability score. You gain the following benefits:",{"type":"list","items":["You
     gain proficiency in saving throws using the chosen ability."]}]}'
   DataHash: 82d66c0bc79c2ce70e64b77230d99bf0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Resilient
+    Content: 
+    AsJson: '{"name":"Resilient","source":"PHB","page":168,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1,"entry":"Increase
+      the chosen ability score by 1, to a maximum of 20."}}],"savingThrowProficiencies":[{"choose":{"from":["str","dex","con","int","wis","cha"]}}],"entries":["Choose
+      one ability score. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency in saving throws using the chosen ability."]}]}'
+    DataHash: 82d66c0bc79c2ce70e64b77230d99bf0
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 168
   Prerequisites: []

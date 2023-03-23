@@ -29,3 +29,23 @@ MonoBehaviour:
     at a time."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/male-steeder.mp3"},"traitTags":["Spider
     Climb"],"senseTags":["SD"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 7c1ac8f0cb44fbb888f063968a93a860
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Male Steeder
+    Content: 
+    AsJson: '{"name":"Male Steeder","source":"MTF","page":238,"otherSources":[{"source":"OotA","page":231}],"reprintedAs":["Male
+      Steeder|MPMM"],"size":["M"],"type":"monstrosity","alignment":["U"],"ac":[{"ac":12,"from":["natural
+      armor"]}],"hp":{"average":13,"formula":"2d8 + 4"},"speed":{"walk":30,"climb":30},"str":15,"dex":12,"con":14,"int":2,"wis":10,"cha":3,"skill":{"stealth":"+5","perception":"+4"},"senses":["darkvision
+      120 ft."],"passive":14,"cr":"1/4","trait":[{"name":"Spider Climb","entries":["The
+      steeder can climb difficult surfaces, including upside down on ceilings, without
+      needing to make an ability check."]},{"name":"Extraordinary Leap","entries":["The
+      distance of the steeder''s long jumps is tripled; every foot of its walking
+      speed that it spends on the jump allows it to jump 3 feet."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing
+      damage plus 4 ({@damage 1d8}) poison damage."]},{"name":"Sticky Leg","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one Small or Tiny creature. {@h}The target
+      is stuck to the steeder''s leg and is {@condition grappled} until it escapes
+      (escape {@dc 12}). The steeder can have only one creature {@condition grappled}
+      at a time."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/male-steeder.mp3"},"traitTags":["Spider
+      Climb"],"senseTags":["SD"],"damageTags":["I","P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 7c1ac8f0cb44fbb888f063968a93a860

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bandagh
   AsJson: '{"name":"Bandagh","isNpc":true,"source":"TftYP","page":159,"_copy":{"name":"Orc","source":"MM"},"hasToken":true}'
   DataHash: 0db5d5ff29a86a599bc7e49aee2851c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bandagh
+    Content: 
+    AsJson: '{"name":"Bandagh","isNpc":true,"source":"TftYP","page":159,"_copy":{"name":"Orc","source":"MM"},"hasToken":true}'
+    DataHash: 0db5d5ff29a86a599bc7e49aee2851c7

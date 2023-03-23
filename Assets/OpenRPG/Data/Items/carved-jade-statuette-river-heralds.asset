@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carved jade statuette (River Heralds)
   AsJson: '{"name":"Carved jade statuette (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 108d58264a6707db0d50d143b7c18264
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carved jade statuette (River Heralds)
+    Content: 
+    AsJson: '{"name":"Carved jade statuette (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 108d58264a6707db0d50d143b7c18264

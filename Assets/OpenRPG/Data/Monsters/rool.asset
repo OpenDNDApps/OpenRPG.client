@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Rool","isNpc":true,"source":"SKT","page":221,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     assassin","with":"Rool","flags":"i"}}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["O","TC","X"],"hasToken":true}'
   DataHash: f1dd038b5590e13b0bf26e453b3dd8d7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rool
+    Content: 
+    AsJson: '{"name":"Rool","isNpc":true,"source":"SKT","page":221,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Rool","flags":"i"}}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["O","TC","X"],"hasToken":true}'
+    DataHash: f1dd038b5590e13b0bf26e453b3dd8d7

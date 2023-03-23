@@ -25,6 +25,23 @@ MonoBehaviour:
     necrotic damage dealt. You can use this feature a number of times equal to your
     proficiency bonus, and you regain all expended uses when you finish a long rest."]}]}]}'
   DataHash: 77384916ab9f9172507c3f91959150b0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baleful Scion
+    Content: 
+    AsJson: '{"name":"Baleful Scion","source":"UA2022WondersOfTheMultiverse","page":6,"prerequisite":[{"level":4,"feat":["scion
+      of the outer planes|ua2022wondersofthemultiverse|scion of the outer planes
+      (evil outer plane)"]}],"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1}}],"entries":["You
+      can channel cosmic forces of evil that cause pain but invigorate your being.
+      You can choose your own actions despite this malign connection. You gain the
+      following benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Life-Draining
+      Grasp","entries":["Once per turn, when you hit a creature with a melee weapon
+      attack, you can also deal necrotic damage to it. The damage equals {@dice 1d6}
+      + your proficiency bonus, and you regain a number of hit points equal to this
+      necrotic damage dealt. You can use this feature a number of times equal to
+      your proficiency bonus, and you regain all expended uses when you finish a
+      long rest."]}]}]}'
+    DataHash: 77384916ab9f9172507c3f91959150b0
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 6
   Prerequisites:

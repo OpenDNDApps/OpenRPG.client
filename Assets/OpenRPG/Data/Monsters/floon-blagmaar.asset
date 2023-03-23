@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Floon Blagmaar
   AsJson: '{"name":"Floon Blagmaar","isNpc":true,"source":"WDH","page":202,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"int":7,"cha":13,"hasToken":true}'
   DataHash: 15eb898afb993b47b35f7e01ef7496d7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Floon Blagmaar
+    Content: 
+    AsJson: '{"name":"Floon Blagmaar","isNpc":true,"source":"WDH","page":202,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"int":7,"cha":13,"hasToken":true}'
+    DataHash: 15eb898afb993b47b35f7e01ef7496d7

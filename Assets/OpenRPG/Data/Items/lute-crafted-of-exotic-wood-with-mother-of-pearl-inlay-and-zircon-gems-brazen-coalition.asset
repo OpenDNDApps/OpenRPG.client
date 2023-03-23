@@ -17,3 +17,11 @@ MonoBehaviour:
   AsJson: '{"name":"Lute crafted of exotic wood with mother-of-pearl inlay and zircon
     gems (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: bb4da84504609f36c2455a86349f5747
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lute crafted of exotic wood with mother-of-pearl inlay and zircon gems
+      (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Lute crafted of exotic wood with mother-of-pearl inlay and
+      zircon gems (Brazen Coalition)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: bb4da84504609f36c2455a86349f5747

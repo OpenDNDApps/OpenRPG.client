@@ -19,6 +19,16 @@ MonoBehaviour:
     to cold and poison damage.","You have advantage on saving throws against being
     {@condition poisoned}."]}]}'
   DataHash: cc4f20eb69b5683bf5507eef7389df7c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Infernal Constitution
+    Content: 
+    AsJson: '{"name":"Infernal Constitution","source":"XGE","page":75,"prerequisite":[{"race":[{"name":"tiefling"}]}],"ability":[{"con":1}],"entries":["Fiendish
+      blood runs strong in you, unlocking a resilience akin to that possessed by
+      some fiends. You gain the following benefits:",{"type":"list","items":["You
+      have resistance to cold and poison damage.","You have advantage on saving throws
+      against being {@condition poisoned}."]}]}'
+    DataHash: cc4f20eb69b5683bf5507eef7389df7c
   Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   SourcePages: 75
   Prerequisites:

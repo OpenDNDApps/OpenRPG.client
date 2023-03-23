@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold cup set with emeralds
   AsJson: '{"name":"Gold cup set with emeralds","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: 471418955fdc23be46ffbb85d472f2f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold cup set with emeralds
+    Content: 
+    AsJson: '{"name":"Gold cup set with emeralds","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: 471418955fdc23be46ffbb85d472f2f8

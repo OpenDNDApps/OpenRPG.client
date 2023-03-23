@@ -28,6 +28,25 @@ MonoBehaviour:
     of the meal have advantage on Constitution saving throws against disease for
     the next 24 hours."]}]}'
   DataHash: 1854095ccfcbc24ec7a42e212539f789
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gourmand
+    Content: 
+    AsJson: '{"name":"Gourmand","source":"UAFeats","page":4,"ability":[{"con":1}],"toolProficiencies":[{"cook''s
+      utensils":true}],"entries":["You have mastered a variety of special recipes,
+      allowing you to prepare exotic dishes with useful effects. You gain the following
+      benefits:",{"type":"list","items":["You gain proficiency with {@item cook''s
+      utensils|phb}. If you are already proficient with them, you add double your
+      proficiency bonus to checks you make with them.","As an action, you can inspect
+      a drink or plate of food within 5 feet of you and determine whether it is {@condition
+      poisoned}, provided that you can see and smell it.","During a long rest, you
+      can prepare and serve a meal that helps you and your allies recover from the
+      rigors of adventuring, provided you have suitable food, {@item cook''s utensils|phb},
+      and other supplies on hand. The meal serves up to six people, and each person
+      who eats it regains two additional Hit Dice at the end of the long rest. In
+      addition, those who partake of the meal have advantage on Constitution saving
+      throws against disease for the next 24 hours."]}]}'
+    DataHash: 1854095ccfcbc24ec7a42e212539f789
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 4
   Prerequisites: []

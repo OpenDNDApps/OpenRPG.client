@@ -20,3 +20,14 @@ MonoBehaviour:
     throw. On a failed save, it has disadvantage on attack rolls and ability checks,
     and can''t take reactions, until the end of its next turn."],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["AAD"]}'
   DataHash: bc46fdbaa2f985f0a6d24d0981e53c1c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Staggering Smite
+    Content: 
+    AsJson: '{"name":"Staggering Smite","source":"PHB","page":278,"level":4,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+      next time you hit a creature with a melee weapon attack during this spell''s
+      duration, your weapon pierces both body and mind, and the attack deals an extra
+      {@damage 4d6} psychic damage to the target. The target must make a Wisdom saving
+      throw. On a failed save, it has disadvantage on attack rolls and ability checks,
+      and can''t take reactions, until the end of its next turn."],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["AAD"]}'
+    DataHash: bc46fdbaa2f985f0a6d24d0981e53c1c

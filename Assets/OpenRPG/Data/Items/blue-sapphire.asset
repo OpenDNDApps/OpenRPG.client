@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blue Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     transparent blue-white to medium blue gemstone."]}'
   DataHash: 15f1d2dce12c2a4e2160258c82e32021
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blue Sapphire
+    Content: 
+    AsJson: '{"name":"Blue Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      transparent blue-white to medium blue gemstone."]}'
+    DataHash: 15f1d2dce12c2a4e2160258c82e32021

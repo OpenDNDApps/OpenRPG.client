@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fine gold chain with fire opals (Legion of Dusk)
   AsJson: '{"name":"Fine gold chain with fire opals (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 8b48343bee5ff1494ec19a3226b99ed6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine gold chain with fire opals (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Fine gold chain with fire opals (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 8b48343bee5ff1494ec19a3226b99ed6

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Dryad
   AsJson: '{"name":"Dryad","source":"PSX","page":38,"_copy":{"name":"Dryad","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0ab168d96f55515d09912b5a7361466d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dryad
+    Content: 
+    AsJson: '{"name":"Dryad","source":"PSX","page":38,"_copy":{"name":"Dryad","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0ab168d96f55515d09912b5a7361466d

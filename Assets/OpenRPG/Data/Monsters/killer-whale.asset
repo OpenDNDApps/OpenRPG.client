@@ -24,3 +24,18 @@ MonoBehaviour:
     damage."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/killer-whale.mp3"},"traitTags":["Hold
     Breath","Keen Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: 7bb1e27bbbc217ab3d0922b1d3f854d2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Killer Whale
+    Content: 
+    AsJson: '{"name":"Killer Whale","source":"MM","page":331,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"GoS"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+      armor"]}],"hp":{"average":90,"formula":"12d12 + 12"},"speed":{"swim":60},"str":19,"dex":10,"con":13,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3"},"senses":["blindsight
+      120 ft."],"passive":13,"cr":"3","trait":[{"name":"Echolocation","entries":["The
+      whale can''t use its blindsight while {@condition deafened}."]},{"name":"Hold
+      Breath","entries":["The whale can hold its breath for 30 minutes."]},{"name":"Keen
+      Hearing","entries":["The whale has advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}21 ({@damage 5d6 + 4}) piercing
+      damage."]}],"environment":["underwater"],"soundClip":{"type":"internal","path":"bestiary/killer-whale.mp3"},"traitTags":["Hold
+      Breath","Keen Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: 7bb1e27bbbc217ab3d0922b1d3f854d2

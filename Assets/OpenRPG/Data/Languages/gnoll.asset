@@ -17,3 +17,11 @@ MonoBehaviour:
     Gnoll||gnolls}","{@creature Gnoll Pack Lord||gnoll pack lords}","{@creature Gnoll
     Fang of Yeenoghu||gnoll fangs of yeenoghu}"]}'
   DataHash: 9f8bc604515bffbb4ff6a9d5536db411
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gnoll
+    Content: 
+    AsJson: '{"name":"Gnoll","source":"MM","page":163,"typicalSpeakers":["{@creature
+      Gnoll||gnolls}","{@creature Gnoll Pack Lord||gnoll pack lords}","{@creature
+      Gnoll Fang of Yeenoghu||gnoll fangs of yeenoghu}"]}'
+    DataHash: 9f8bc604515bffbb4ff6a9d5536db411

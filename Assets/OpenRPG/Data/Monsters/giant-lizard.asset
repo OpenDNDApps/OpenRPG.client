@@ -28,3 +28,22 @@ MonoBehaviour:
     Climb","entries":["The lizard can climb difficult surfaces, including upside
     down on ceilings, without needing to make an ability check."]}]}},"speed":{"walk":30,"climb":30,"swim":30},"variant":null}]}'
   DataHash: 2f926ddb87e0e59855b474d187ea0ffe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Lizard
+    Content: 
+    AsJson: '{"name":"Giant Lizard","source":"MM","page":326,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"IDRotF"},{"source":"JttRC"},{"source":"KftGV"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+      armor"]}],"hp":{"average":19,"formula":"3d10 + 3"},"speed":{"walk":30,"climb":30},"str":15,"dex":12,"con":13,"int":2,"wis":10,"cha":5,"senses":["darkvision
+      30 ft."],"passive":10,"cr":"1/4","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing
+      damage."]}],"variant":[{"type":"variant","name":"Giant Lizard Traits","entries":["Some
+      giant lizards have one or both of the following traits:",{"type":"entries","name":"Hold
+      Breath","entries":["The lizard can hold its breath for 15 minutes. (A lizard
+      that has this trait also has a swimming speed of 30 feet.)"]},{"type":"entries","name":"Spider
+      Climb","entries":["The lizard can climb difficult surfaces, including upside
+      down on ceilings, without needing to make an ability check."]}]}],"environment":["underdark","forest","swamp","desert","coastal"],"soundClip":{"type":"internal","path":"bestiary/giant-lizard.mp3"},"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"_versions":[{"name":"Giant
+      Lizard (Hold Breath and Spider Climb)","source":"MM","_mod":{"trait":{"mode":"appendArr","items":[{"name":"Hold
+      Breath","entries":["The lizard can hold its breath for 15 minutes."]},{"name":"Spider
+      Climb","entries":["The lizard can climb difficult surfaces, including upside
+      down on ceilings, without needing to make an ability check."]}]}},"speed":{"walk":30,"climb":30,"swim":30},"variant":null}]}'
+    DataHash: 2f926ddb87e0e59855b474d187ea0ffe

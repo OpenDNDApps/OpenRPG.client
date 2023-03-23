@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silver chalice set with moonstones
   AsJson: '{"name":"Silver chalice set with moonstones","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 0e1176618ac7f093928bf553c0f5c86b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver chalice set with moonstones
+    Content: 
+    AsJson: '{"name":"Silver chalice set with moonstones","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 0e1176618ac7f093928bf553c0f5c86b

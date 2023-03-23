@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Khur
   AsJson: '{"name":"Khur","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Khur"],"script":"Istarian"}'
   DataHash: 7d32a15c8c0d32a53a532f4be12ec3f5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Khur
+    Content: 
+    AsJson: '{"name":"Khur","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Khur"],"script":"Istarian"}'
+    DataHash: 7d32a15c8c0d32a53a532f4be12ec3f5

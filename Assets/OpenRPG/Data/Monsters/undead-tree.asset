@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Undead Tree
   AsJson: '{"name":"Undead Tree","source":"BGDIA","page":109,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"tree"}}},"type":"undead","resist":["necrotic"],"hasToken":true}'
   DataHash: 4a08e3cc2c142c923ac26cf0e89fe7ca
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Undead Tree
+    Content: 
+    AsJson: '{"name":"Undead Tree","source":"BGDIA","page":109,"_copy":{"name":"Treant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"treant","with":"tree"}}},"type":"undead","resist":["necrotic"],"hasToken":true}'
+    DataHash: 4a08e3cc2c142c923ac26cf0e89fe7ca

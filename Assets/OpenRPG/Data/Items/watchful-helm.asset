@@ -20,3 +20,14 @@ MonoBehaviour:
     invisibility} spell from the helm. Once this property of the helm is used, it
     can''t be used again until the next dawn."],"attachedSpells":["see invisibility"]}'
   DataHash: 518610cc08f784698ca74e4863fb0d3f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Watchful Helm
+    Content: 
+    AsJson: '{"name":"Watchful Helm","source":"CM","page":183,"rarity":"very rare","reqAttune":true,"wondrous":true,"bonusAc":"+1","entries":["While
+      you wear this helm, you gain a +1 bonus to AC and remain aware of your surroundings
+      even while you''re asleep, and you have advantage on Wisdom ({@skill Perception})
+      checks that rely on sight.","As a bonus action, you can cast the {@spell see
+      invisibility} spell from the helm. Once this property of the helm is used,
+      it can''t be used again until the next dawn."],"attachedSpells":["see invisibility"]}'
+    DataHash: 518610cc08f784698ca74e4863fb0d3f

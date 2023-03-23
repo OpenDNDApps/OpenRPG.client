@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fine Clothes
   AsJson: '{"name":"Fine Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":6,"value":1500}'
   DataHash: e194e91d8a9207e9416966af508389bf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fine Clothes
+    Content: 
+    AsJson: '{"name":"Fine Clothes","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":6,"value":1500}'
+    DataHash: e194e91d8a9207e9416966af508389bf

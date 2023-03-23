@@ -28,3 +28,22 @@ MonoBehaviour:
     to make a dagger attack with advantage on the attack roll."]}],"traitTags":["Light
     Sensitivity","Reckless"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: e16068eeb8d19f23bc8616325b673651
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gibberling
+    Content: 
+    AsJson: '{"name":"Gibberling","source":"MaBJoV","page":141,"size":["S"],"type":"aberration","alignment":["C","N"],"ac":[12],"hp":{"average":7,"formula":"2d6"},"speed":{"walk":25},"str":10,"dex":15,"con":10,"int":6,"wis":8,"cha":8,"skill":{"stealth":"+4"},"senses":["darkvision
+      60 ft."],"passive":9,"resist":["psychic"],"conditionImmune":["charmed","frightened"],"cr":"1/4","trait":[{"name":"Reckless","entries":["At
+      the start of its turn, the gibberling can gain advantage on all melee weapon
+      attack rolls during that turn, but attack rolls against it have advantage until
+      the start of its next turn."]},{"name":"Light Sensitivity","entries":["While
+      in bright light, gibberlings have disadvantage on attack rolls, as well as
+      on Wisdom ({@skill Perception}) checks that rely on sight."]},{"name":"Burrow","entries":["A
+      gibberling gains advantage on stealth checks if it uses an action to burrow
+      into dirt."]}],"action":[{"name":"Dagger","entries":["{@atk mw} {@hit 4} to
+      hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."]},{"name":"Swarm","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. The target is {@condition grappled}
+      (escape {@dc 10}). All gibberlings within 5 ft. of the target can use a reaction
+      to make a dagger attack with advantage on the attack roll."]}],"traitTags":["Light
+      Sensitivity","Reckless"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: e16068eeb8d19f23bc8616325b673651

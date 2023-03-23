@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Conservatory Student
   AsJson: '{"name":"Conservatory Student","source":"KftGV","_copy":{"name":"Noble","source":"MM","_mod":{"action":{"mode":"removeArr","names":"Rapier"}}},"skill":{"performance":"+7"},"reaction":null}'
   DataHash: 26e6c4b990a45715af1925eabb3ff75e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Conservatory Student
+    Content: 
+    AsJson: '{"name":"Conservatory Student","source":"KftGV","_copy":{"name":"Noble","source":"MM","_mod":{"action":{"mode":"removeArr","names":"Rapier"}}},"skill":{"performance":"+7"},"reaction":null}'
+    DataHash: 26e6c4b990a45715af1925eabb3ff75e

@@ -19,3 +19,13 @@ MonoBehaviour:
     difficult surfaces, including upside down on ceilings, without needing to make
     an ability check."]}}}},"alignment":["C","E"],"traitTags":["Spider Climb"],"hasToken":true}'
   DataHash: f343d8e9a52d3a9ffae2b61b5848cba3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mishka Belview
+    Content: 
+    AsJson: '{"name":"Mishka Belview","isNpc":true,"source":"CoS","page":150,"_copy":{"name":"Mongrelfolk","source":"CoS","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mongrelfolk","with":"Mishka","flags":"i"},"trait":{"mode":"replaceArr","replace":"Extraordinary
+      Feature","items":{"name":"Spider Climb","entries":["The mongrelfolk can climb
+      difficult surfaces, including upside down on ceilings, without needing to make
+      an ability check."]}}}},"alignment":["C","E"],"traitTags":["Spider Climb"],"hasToken":true}'
+    DataHash: f343d8e9a52d3a9ffae2b61b5848cba3

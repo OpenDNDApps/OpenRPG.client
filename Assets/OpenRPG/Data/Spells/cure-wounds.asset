@@ -20,3 +20,14 @@ MonoBehaviour:
     level or higher, the healing increases by {@scaledice 1d8|1-9|1d8} for each slot
     level above 1st."]}],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL"],"areaTags":["ST"]}'
   DataHash: 37d9a95890749928dd361284380183bf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cure Wounds
+    Content: 
+    AsJson: '{"name":"Cure Wounds","source":"PHB","page":230,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["A
+      creature you touch regains a number of hit points equal to {@dice 1d8} + your
+      spellcasting ability modifier. This spell has no effect on undead or constructs."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, the healing increases by {@scaledice 1d8|1-9|1d8} for each
+      slot level above 1st."]}],"affectsCreatureType":["aberration","beast","celestial","dragon","elemental","fey","fiend","giant","humanoid","monstrosity","ooze","plant"],"miscTags":["HL"],"areaTags":["ST"]}'
+    DataHash: 37d9a95890749928dd361284380183bf

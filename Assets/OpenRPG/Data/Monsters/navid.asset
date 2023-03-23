@@ -17,3 +17,11 @@ MonoBehaviour:
     efreeti","with":"Navid","flags":"i"},"_":{"mode":"addSpells","will":["{@spell
     polymorph} (self only)"]}}},"hasToken":true}'
   DataHash: b315a2de405a2daf7dc720d50d8596f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Navid
+    Content: 
+    AsJson: '{"name":"Navid","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":159,"_copy":{"name":"Efreeti","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      efreeti","with":"Navid","flags":"i"},"_":{"mode":"addSpells","will":["{@spell
+      polymorph} (self only)"]}}},"hasToken":true}'
+    DataHash: b315a2de405a2daf7dc720d50d8596f8

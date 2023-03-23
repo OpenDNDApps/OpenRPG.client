@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Silver medallion (Sun Empire)
   AsJson: '{"name":"Silver medallion (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: b08eaf2726908aa0304eb87001caf56c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Silver medallion (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Silver medallion (Sun Empire)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: b08eaf2726908aa0304eb87001caf56c

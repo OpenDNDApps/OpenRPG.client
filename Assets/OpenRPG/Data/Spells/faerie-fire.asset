@@ -21,3 +21,16 @@ MonoBehaviour:
     an affected creature or object has advantage if the attacker can see it, and
     the affected creature or object can''t benefit from being {@condition invisible}."],"savingThrow":["dexterity"],"miscTags":["LGT"],"areaTags":["C"]}'
   DataHash: cef6febe2f082e8b9bf029f6a35a59f1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Faerie Fire
+    Content: 
+    AsJson: '{"name":"Faerie Fire","source":"PHB","page":239,"srd":true,"basicRules":true,"level":1,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Each
+      object in a 20-foot cube within range is outlined in blue, green, or violet
+      light (your choice). Any creature in the area when the spell is cast is also
+      outlined in light if it fails a Dexterity saving throw. For the duration, objects
+      and affected creatures shed dim light in a 10-foot radius.","Any attack roll
+      against an affected creature or object has advantage if the attacker can see
+      it, and the affected creature or object can''t benefit from being {@condition
+      invisible}."],"savingThrow":["dexterity"],"miscTags":["LGT"],"areaTags":["C"]}'
+    DataHash: cef6febe2f082e8b9bf029f6a35a59f1

@@ -17,3 +17,11 @@ MonoBehaviour:
     Horror","source":"MM"},"size":["T"],"ac":[{"ac":10,"from":["natural armor"]}],"hp":{"average":4,"formula":"1d4
     + 2"},"speed":{"walk":10,"climb":10},"str":9,"cr":"0","action":null,"actionTags":[],"hasToken":true}'
   DataHash: ae2a6482e5cd51917aa2ee7f2de4562f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Infant Hook Horror
+    Content: 
+    AsJson: '{"name":"Infant Hook Horror","source":"OotA","page":34,"_copy":{"name":"Hook
+      Horror","source":"MM"},"size":["T"],"ac":[{"ac":10,"from":["natural armor"]}],"hp":{"average":4,"formula":"1d4
+      + 2"},"speed":{"walk":10,"climb":10},"str":9,"cr":"0","action":null,"actionTags":[],"hasToken":true}'
+    DataHash: ae2a6482e5cd51917aa2ee7f2de4562f

@@ -17,6 +17,14 @@ MonoBehaviour:
     turn when you roll damage for a melee weapon attack, you can reroll the weapon''s
     damage dice and use either total."]}'
   DataHash: 9c9e4cd5241a6ea51265cb1a8b87ac14
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Savage Attacker
+    Content: 
+    AsJson: '{"name":"Savage Attacker","source":"PHB","page":169,"entries":["Once
+      per turn when you roll damage for a melee weapon attack, you can reroll the
+      weapon''s damage dice and use either total."]}'
+    DataHash: 9c9e4cd5241a6ea51265cb1a8b87ac14
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 169
   Prerequisites: []

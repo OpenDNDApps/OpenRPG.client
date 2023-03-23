@@ -20,3 +20,14 @@ MonoBehaviour:
     takes 3 ({@damage 1d6}) poison damage. After three successful saves, the poison
     ends."],"poisonTypes":["inhaled"]}'
   DataHash: 4b84373aded8c2f156af9f9256ac6243
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Burnt Othur Fumes
+    Content: 
+    AsJson: '{"name":"Burnt Othur Fumes","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":50000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 13 Constitution saving
+      throw or take 10 ({@damage 3d6}) poison damage, and must repeat the saving
+      throw at the start of each of its turns. On each successive failed save, the
+      character takes 3 ({@damage 1d6}) poison damage. After three successful saves,
+      the poison ends."],"poisonTypes":["inhaled"]}'
+    DataHash: 4b84373aded8c2f156af9f9256ac6243

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chest","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":25,"value":500,"entries":["A
     chest holds 12 cubic feet or 300 pounds of gear."],"containerCapacity":{"weight":[300]}}'
   DataHash: 515620a05f28eb5f7f3e5d64531a3101
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chest
+    Content: 
+    AsJson: '{"name":"Chest","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":25,"value":500,"entries":["A
+      chest holds 12 cubic feet or 300 pounds of gear."],"containerCapacity":{"weight":[300]}}'
+    DataHash: 515620a05f28eb5f7f3e5d64531a3101

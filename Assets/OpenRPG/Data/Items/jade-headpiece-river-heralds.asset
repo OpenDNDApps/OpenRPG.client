@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade headpiece (River Heralds)
   AsJson: '{"name":"Jade headpiece (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 58f2a4cd95feba686fae330b9e8dcc0a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade headpiece (River Heralds)
+    Content: 
+    AsJson: '{"name":"Jade headpiece (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 58f2a4cd95feba686fae330b9e8dcc0a

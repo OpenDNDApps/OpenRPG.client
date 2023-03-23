@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chalcedony","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque white gemstone."]}'
   DataHash: a822bbb203c47a70b00aa8ff97b7adf9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chalcedony
+    Content: 
+    AsJson: '{"name":"Chalcedony","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque white gemstone."]}'
+    DataHash: a822bbb203c47a70b00aa8ff97b7adf9

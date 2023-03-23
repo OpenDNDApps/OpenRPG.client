@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gomazoa
   AsJson: '{"name":"Gomazoa","source":"PSZ","page":26,"_copy":{"name":"Roper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"roper","with":"gomazoa"}}},"speed":{"fly":10},"hasToken":true}'
   DataHash: 633031f0e0a19c0d8def400c3dfc91f0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gomazoa
+    Content: 
+    AsJson: '{"name":"Gomazoa","source":"PSZ","page":26,"_copy":{"name":"Roper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"roper","with":"gomazoa"}}},"speed":{"fly":10},"hasToken":true}'
+    DataHash: 633031f0e0a19c0d8def400c3dfc91f0

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Two-Person Tent","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":20,"value":200,"entries":["A
     simple and portable canvas shelter, a tent sleeps two."]}'
   DataHash: 6a613de116e266aeda52d0a7a42237e2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Two-Person Tent
+    Content: 
+    AsJson: '{"name":"Two-Person Tent","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":20,"value":200,"entries":["A
+      simple and portable canvas shelter, a tent sleeps two."]}'
+    DataHash: 6a613de116e266aeda52d0a7a42237e2

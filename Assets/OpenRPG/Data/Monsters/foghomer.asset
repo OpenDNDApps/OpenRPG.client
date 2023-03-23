@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Foghomer","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":58,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Firbolg","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Foghomer","flags":"i"}}},"alignment":["N","G"],"spellcastingTags":["CC","I"],"hasToken":true}'
   DataHash: af0c73d37aac0c027af36b585dc298ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Foghomer
+    Content: 
+    AsJson: '{"name":"Foghomer","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":58,"_copy":{"name":"Priest","source":"MM","_trait":{"name":"Firbolg","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Foghomer","flags":"i"}}},"alignment":["N","G"],"spellcastingTags":["CC","I"],"hasToken":true}'
+    DataHash: af0c73d37aac0c027af36b585dc298ce

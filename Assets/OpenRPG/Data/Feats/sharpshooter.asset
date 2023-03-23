@@ -22,6 +22,19 @@ MonoBehaviour:
     penalty to the attack roll. If the attack hits, you add +10 to the attack''s
     damage."]}]}'
   DataHash: ffd772637e0c94ca20049890e6d96747
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sharpshooter
+    Content: 
+    AsJson: '{"name":"Sharpshooter","source":"PHB","page":170,"entries":["You have
+      mastered ranged weapons and can make shots that others find impossible. You
+      gain the following benefits:",{"type":"list","items":["Attacking at long range
+      doesn''t impose disadvantage on your ranged weapon attack rolls.","Your ranged
+      weapon attacks ignore half cover and three-quarters cover.","Before you make
+      an attack with a ranged weapon that you are proficient with, you can choose
+      to take a -5 penalty to the attack roll. If the attack hits, you add +10 to
+      the attack''s damage."]}]}'
+    DataHash: ffd772637e0c94ca20049890e6d96747
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 170
   Prerequisites: []

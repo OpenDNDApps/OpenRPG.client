@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Krebbyg Masq''il''yr","isNpc":true,"source":"WDH","page":67,"_copy":{"name":"Drow
     Gunslinger","source":"WDH","_mod":{"*":{"mode":"replaceTxt","replace":"the drow","with":"Krebbyg","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
   DataHash: d532482f1e29f08d6fcd596c137e9b5c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Krebbyg Masq'il'yr
+    Content: 
+    AsJson: '{"name":"Krebbyg Masq''il''yr","isNpc":true,"source":"WDH","page":67,"_copy":{"name":"Drow
+      Gunslinger","source":"WDH","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Krebbyg","flags":"i"}}},"alignment":["C","N"],"hasToken":true}'
+    DataHash: d532482f1e29f08d6fcd596c137e9b5c

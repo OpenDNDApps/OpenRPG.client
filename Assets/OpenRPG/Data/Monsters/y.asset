@@ -17,3 +17,11 @@ MonoBehaviour:
     Savant","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the derro
     savant","with":"Y","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 10578ba650e12af71dac8f181ab24f93
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Y
+    Content: 
+    AsJson: '{"name":"Y","isNpc":true,"source":"OotA","page":29,"_copy":{"name":"Derro
+      Savant","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the derro
+      savant","with":"Y","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 10578ba650e12af71dac8f181ab24f93

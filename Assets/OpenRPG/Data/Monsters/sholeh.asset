@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Sholeh","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":14,"_copy":{"name":"Ancient
     Brass Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Sholeh","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
   DataHash: 14b3b561762550813e084835aba8a112
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sholeh
+    Content: 
+    AsJson: '{"name":"Sholeh","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":14,"_copy":{"name":"Ancient
+      Brass Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      dragon","with":"Sholeh","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 14b3b561762550813e084835aba8a112

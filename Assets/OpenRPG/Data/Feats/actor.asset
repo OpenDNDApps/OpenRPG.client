@@ -23,6 +23,20 @@ MonoBehaviour:
     Charisma ({@skill Deception}) check allows a listener to determine that the effect
     is faked."]}]}'
   DataHash: dc2ba63ae0919c96f319571f8cde822d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Actor
+    Content: 
+    AsJson: '{"name":"Actor","source":"PHB","page":165,"ability":[{"cha":1}],"entries":["Skilled
+      at mimicry and dramatics, you gain the following benefits:",{"type":"list","items":["You
+      have advantage on Charisma ({@skill Deception}) and Charisma ({@skill Performance})
+      checks when trying to pass yourself off as a different person.","You can mimic
+      the speech of another person or the sounds made by other creatures. You must
+      have heard the person speaking, or heard the creature make the sound, for at
+      least 1 minute. A successful Wisdom ({@skill Insight}) check contested by your
+      Charisma ({@skill Deception}) check allows a listener to determine that the
+      effect is faked."]}]}'
+    DataHash: dc2ba63ae0919c96f319571f8cde822d
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

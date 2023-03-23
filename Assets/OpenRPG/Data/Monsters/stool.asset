@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Stool","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Myconid
     Sprout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the myconid","with":"Stool","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 7559a4cab6416ecc231eb8500ee7d441
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stool
+    Content: 
+    AsJson: '{"name":"Stool","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Myconid
+      Sprout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the myconid","with":"Stool","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 7559a4cab6416ecc231eb8500ee7d441

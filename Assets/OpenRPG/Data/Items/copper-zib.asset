@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Copper Zib
   AsJson: '{"name":"Copper Zib","source":"GGR","page":9,"type":"$","rarity":"none","value":1}'
   DataHash: a64321311dcd8f76416da46b559914e4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper Zib
+    Content: 
+    AsJson: '{"name":"Copper Zib","source":"GGR","page":9,"type":"$","rarity":"none","value":1}'
+    DataHash: a64321311dcd8f76416da46b559914e4

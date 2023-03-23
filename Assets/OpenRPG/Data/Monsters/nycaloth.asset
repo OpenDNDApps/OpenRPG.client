@@ -49,3 +49,43 @@ MonoBehaviour:
     (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/nycaloth.mp3"},"traitTags":["Magic
     Resistance","Magic Weapons"],"senseTags":["B","D"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","I","TP"],"damageTags":["S"],"spellcastingTags":["I"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4cde316121ef481f4290622e2c4cc368
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nycaloth
+    Content: 
+    AsJson: '{"name":"Nycaloth","source":"MM","page":314,"otherSources":[{"source":"PotA"},{"source":"RoT"},{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"TCE"},{"source":"KftGV"}],"size":["L"],"type":{"type":"fiend","tags":["yugoloth"]},"alignment":["N","E"],"ac":[{"ac":18,"from":["natural
+      armor"]}],"hp":{"average":123,"formula":"13d10 + 52"},"speed":{"walk":40,"fly":60},"str":20,"dex":11,"con":19,"int":12,"wis":10,"cha":15,"skill":{"intimidation":"+6","perception":"+4","stealth":"+4"},"senses":["blindsight
+      60 ft.","darkvision 60 ft."],"passive":14,"resist":["cold","fire","lightning",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["acid","poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Infernal","telepathy
+      60 ft."],"cr":"9","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+      nycaloth''s innate spellcasting ability is Charisma. The nycaloth can innately
+      cast the following spells, requiring no material components:"],"will":["{@spell
+      darkness}","{@spell detect magic}","{@spell dispel magic}","{@spell invisibility}
+      (self only)","{@spell mirror image}"],"ability":"cha"}],"trait":[{"name":"Magic
+      Resistance","entries":["The nycaloth has advantage on saving throws against
+      spells and other magical effects."]},{"name":"Magic Weapons","entries":["The
+      nycaloth''s weapon attacks are magical."]}],"action":[{"name":"Multiattack","entries":["The
+      nycaloth makes two melee attacks, or it makes one melee attack and teleports
+      before or after the attack."]},{"name":"Claw","entries":["{@atk mw} {@hit 9}
+      to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) slashing damage.
+      If the target is a creature, it must succeed on a {@dc 16} Constitution saving
+      throw or take 5 ({@damage 2d4}) slashing damage at the start of each of its
+      turns due to a fiendish wound. Each time the nycaloth hits the wounded target
+      with this attack, the damage dealt by the wound increases by 5 ({@dice 2d4}).
+      Any creature can take an action to stanch the wound with a successful {@dc
+      13} Wisdom (Medicine) check. The wound also closes if the target receives magical
+      healing."]},{"name":"Greataxe","entries":["{@atk mw} {@hit 9} to hit, reach
+      5 ft., one target. {@h}18 ({@damage 2d12 + 5}) slashing damage."]},{"name":"Teleport","entries":["The
+      nycaloth magically teleports, along with any equipment it is wearing or carrying,
+      up to 60 feet to an unoccupied space it can see."]}],"variant":[{"type":"variant","name":"Yugoloth
+      Summoning","entries":["Some yugoloths have an action option that allows them
+      to summon other yugoloths.",{"name":"Summon Yugoloth (1/Day)","type":"entries","entries":["The
+      yugoloth chooses what to summon and attempts a magical summoning.","A nycaloth
+      has a {@chance 50|50 percent|50% summoning chance} chance of summoning {@dice
+      1d4} {@creature mezzoloth||mezzoloths} or one nycaloth.","A summoned yugoloth
+      appears in an unoccupied space within 60 feet of its summoner, does as it pleases,
+      and can''t summon other yugoloths. The summoned yugoloth remains for 1 minute,
+      until it or its summoner dies, or until its summoner takes a bonus action to
+      dismiss it."]}],"_version":{"name":"Nycaloth (Summoner)","addHeadersAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/nycaloth.mp3"},"traitTags":["Magic
+      Resistance","Magic Weapons"],"senseTags":["B","D"],"actionTags":["Multiattack","Teleport"],"languageTags":["AB","I","TP"],"damageTags":["S"],"spellcastingTags":["I"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4cde316121ef481f4290622e2c4cc368

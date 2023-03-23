@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Woodcrasher Baloth
   AsJson: '{"name":"Woodcrasher Baloth","source":"PSZ","page":33,"_copy":{"name":"Baloth","source":"PSZ"},"speed":{"walk":30,"climb":50},"hasToken":true}'
   DataHash: f6b593f626e6a3b5746d4b54cafd9cc5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Woodcrasher Baloth
+    Content: 
+    AsJson: '{"name":"Woodcrasher Baloth","source":"PSZ","page":33,"_copy":{"name":"Baloth","source":"PSZ"},"speed":{"walk":30,"climb":50},"hasToken":true}'
+    DataHash: f6b593f626e6a3b5746d4b54cafd9cc5

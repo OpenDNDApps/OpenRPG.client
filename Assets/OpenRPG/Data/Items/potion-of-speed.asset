@@ -19,3 +19,13 @@ MonoBehaviour:
     is streaked with black and swirls on its own."],"attachedSpells":["haste"],"lootTables":["Magic
     Item Table D"]}'
   DataHash: fe2aad97c69f3945421f83284aef7cac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Speed
+    Content: 
+    AsJson: '{"name":"Potion of Speed","source":"DMG","page":188,"srd":true,"type":"P","tier":"minor","rarity":"very
+      rare","entries":["When you drink this potion, you gain the effect of the {@spell
+      haste} spell for 1 minute (no concentration required). The potion''s yellow
+      fluid is streaked with black and swirls on its own."],"attachedSpells":["haste"],"lootTables":["Magic
+      Item Table D"]}'
+    DataHash: fe2aad97c69f3945421f83284aef7cac

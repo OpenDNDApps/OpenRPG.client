@@ -17,3 +17,11 @@ MonoBehaviour:
     a corpse is reduced to 0 hit points, it splits open, disgorging a {@creature
     swarm of poisonous snakes}. The snakes are hungry and fight until slain."]}],"hasToken":true}'
   DataHash: efd318b96c76d6593fc03a3dd71fe4c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Distended Corpse
+    Content: 
+    AsJson: '{"name":"Distended Corpse","source":"CoS","page":165,"_copy":{"name":"Commoner","source":"MM"},"speed":{"walk":20},"conditionImmune":["charmed","frightened"],"trait":[{"name":"Snake-Swollen","entries":["When
+      a corpse is reduced to 0 hit points, it splits open, disgorging a {@creature
+      swarm of poisonous snakes}. The snakes are hungry and fight until slain."]}],"hasToken":true}'
+    DataHash: efd318b96c76d6593fc03a3dd71fe4c5

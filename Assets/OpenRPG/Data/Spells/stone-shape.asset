@@ -23,3 +23,17 @@ MonoBehaviour:
     The object you create can have up to two hinges and a latch, but finer mechanical
     detail isn''t possible."],"miscTags":["OBJ"]}'
   DataHash: e0954a32e988db69e8f618561948a7b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone Shape
+    Content: 
+    AsJson: '{"name":"Stone Shape","source":"PHB","page":278,"srd":true,"level":4,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"soft
+      clay, which must be worked into roughly the desired shape of the stone object"},"duration":[{"type":"instant"}],"entries":["You
+      touch a stone object of Medium size or smaller or a section of stone no more
+      than 5 feet in any dimension and form it into any shape that suits your purpose.
+      So, for example, you could shape a large rock into a weapon, idol, or coffer,
+      or make a small passage through a wall, as long as the wall is less than 5
+      feet thick. You could also shape a stone door or its frame to seal the door
+      shut. The object you create can have up to two hinges and a latch, but finer
+      mechanical detail isn''t possible."],"miscTags":["OBJ"]}'
+    DataHash: e0954a32e988db69e8f618561948a7b5

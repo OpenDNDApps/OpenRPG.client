@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pan Flute
   AsJson: '{"name":"Pan Flute","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":2,"value":1200}'
   DataHash: 6346d6544221dc800109217e46f9bf01
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pan Flute
+    Content: 
+    AsJson: '{"name":"Pan Flute","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":2,"value":1200}'
+    DataHash: 6346d6544221dc800109217e46f9bf01

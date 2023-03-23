@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Wurm
   AsJson: '{"name":"Wurm","source":"PSZ","page":32,"_copy":{"name":"Purple Worm","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\bworm","with":"wurm"}}},"hasToken":true}'
   DataHash: 8fd50022a8b5edb127317d443f05e9f2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wurm
+    Content: 
+    AsJson: '{"name":"Wurm","source":"PSZ","page":32,"_copy":{"name":"Purple Worm","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\bworm","with":"wurm"}}},"hasToken":true}'
+    DataHash: 8fd50022a8b5edb127317d443f05e9f2

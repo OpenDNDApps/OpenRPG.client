@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Shalendra Floshin","isNpc":true,"source":"TftYP","page":119,"_copy":{"name":"Knight","source":"MM","_trait":{"name":"High
     Elf","source":"PHB"}},"traitTags":["Fey Ancestry"],"hasToken":true}'
   DataHash: e9eefbcfd183e9a8543e8609967f8729
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shalendra Floshin
+    Content: 
+    AsJson: '{"name":"Shalendra Floshin","isNpc":true,"source":"TftYP","page":119,"_copy":{"name":"Knight","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"}},"traitTags":["Fey Ancestry"],"hasToken":true}'
+    DataHash: e9eefbcfd183e9a8543e8609967f8729

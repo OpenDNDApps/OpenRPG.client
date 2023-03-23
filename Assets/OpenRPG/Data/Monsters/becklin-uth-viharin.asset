@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Becklin Uth Viharin","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":55,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     knight","with":"Becklin","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: a20f6cc6c38b05a75797e3c080d29bf8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Becklin Uth Viharin
+    Content: 
+    AsJson: '{"name":"Becklin Uth Viharin","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":55,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      knight","with":"Becklin","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: a20f6cc6c38b05a75797e3c080d29bf8

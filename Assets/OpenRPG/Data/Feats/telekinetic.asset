@@ -23,6 +23,20 @@ MonoBehaviour:
     8 + your proficiency bonus + your Intelligence modifier) or be pushed 5 feet
     away from you."]}]}'
   DataHash: ae989d6d5e40fd8fc03fc366959202ab
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Telekinetic
+    Content: 
+    AsJson: '{"name":"Telekinetic","source":"UAFighterRogueWizard","page":8,"ability":[{"int":1}],"additionalSpells":[{"known":{"_":["mage
+      hand#c"]}}],"entries":["You learn to move things with your mind. You gain the
+      following benefits:",{"type":"list","items":["You learn the {@spell mage hand}
+      cantrip. You can cast it without verbal or somatic components, and you can
+      make the spectral hand invisible.","As a bonus action, you can try to shove
+      one creature you can see within 5 feet of the spectral hand created by your
+      {@spell mage hand} spell. When you do so, the target must succeed on a Strength
+      saving throw (DC 8 + your proficiency bonus + your Intelligence modifier) or
+      be pushed 5 feet away from you."]}]}'
+    DataHash: ae989d6d5e40fd8fc03fc366959202ab
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites: []

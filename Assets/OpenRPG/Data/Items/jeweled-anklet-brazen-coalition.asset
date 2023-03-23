@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jeweled anklet (Brazen Coalition)
   AsJson: '{"name":"Jeweled anklet (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 74a9a9c2df65d7db49496af80e8d17cf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jeweled anklet (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Jeweled anklet (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 74a9a9c2df65d7db49496af80e8d17cf

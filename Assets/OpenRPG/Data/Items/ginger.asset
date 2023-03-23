@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ginger
   AsJson: '{"name":"Ginger","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":100}'
   DataHash: 997c53f122f63ee6f3cc4cfb1e1da05c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ginger
+    Content: 
+    AsJson: '{"name":"Ginger","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":100}'
+    DataHash: 997c53f122f63ee6f3cc4cfb1e1da05c

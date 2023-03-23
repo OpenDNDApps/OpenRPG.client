@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Koris","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":106,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     assassin","with":"Koris","flags":"i"}}},"size":["M"],"alignment":["L","N"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: b16b7f95166d9be64cec9d5e1c1c1f87
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Koris
+    Content: 
+    AsJson: '{"name":"Koris","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":106,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Koris","flags":"i"}}},"size":["M"],"alignment":["L","N"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: b16b7f95166d9be64cec9d5e1c1c1f87

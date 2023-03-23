@@ -25,3 +25,20 @@ MonoBehaviour:
     level or higher, one additional bolt leaps from the first target to another target
     for each slot level above 6th."]}],"damageInflict":["lightning"],"savingThrow":["dexterity"],"miscTags":["OBJ","SGT"],"areaTags":["ST","MT"]}'
   DataHash: b3cecd8b86d7555ce6f499110debbc63
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chain Lightning
+    Content: 
+    AsJson: '{"name":"Chain Lightning","source":"PHB","page":221,"srd":true,"basicRules":true,"level":6,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":150}},"components":{"v":true,"s":true,"m":"a
+      bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins"},"duration":[{"type":"instant"}],"entries":["You
+      create a bolt of lightning that arcs toward a target of your choice that you
+      can see within range. Three bolts then leap from that target to as many as
+      three other targets, each of which must be within 30 feet of the first target.
+      A target can be a creature or an object and can be targeted by only one of
+      the bolts.","A target must make a Dexterity saving throw. The target takes
+      {@damage 10d8} lightning damage on a failed save, or half as much damage on
+      a successful one."],"entriesHigherLevel":[{"type":"entries","name":"At Higher
+      Levels","entries":["When you cast this spell using a spell slot of 7th level
+      or higher, one additional bolt leaps from the first target to another target
+      for each slot level above 6th."]}],"damageInflict":["lightning"],"savingThrow":["dexterity"],"miscTags":["OBJ","SGT"],"areaTags":["ST","MT"]}'
+    DataHash: b3cecd8b86d7555ce6f499110debbc63

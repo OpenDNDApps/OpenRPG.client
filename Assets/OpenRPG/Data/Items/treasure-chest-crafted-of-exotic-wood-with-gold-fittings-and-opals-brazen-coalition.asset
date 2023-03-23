@@ -17,3 +17,11 @@ MonoBehaviour:
   AsJson: '{"name":"Treasure chest crafted of exotic wood with gold fittings and
     opals (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: 7998a4a8a5bcbb89ae76b0a467791de9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Treasure chest crafted of exotic wood with gold fittings and opals (Brazen
+      Coalition)
+    Content: 
+    AsJson: '{"name":"Treasure chest crafted of exotic wood with gold fittings and
+      opals (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: 7998a4a8a5bcbb89ae76b0a467791de9

@@ -12,10 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 595faf26945585c40903857d7610e502, type: 3}
   m_Name: animal-handling
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Animal Handling
   AsJson: '{"name":"Animal Handling","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["When
     there is any question whether you can calm down a domesticated animal, keep a
     mount from getting spooked, or intuit an animal''s intentions, the DM might call
     for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling)
     check to control your mount when you attempt a risky maneuver."]}'
   DataHash: e3b8c796882775173bb9d633cd83ceac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Animal Handling","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["When
+      there is any question whether you can calm down a domesticated animal, keep
+      a mount from getting spooked, or intuit an animal''s intentions, the DM might
+      call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling)
+      check to control your mount when you attempt a risky maneuver."]}'
+    DataHash: e3b8c796882775173bb9d633cd83ceac

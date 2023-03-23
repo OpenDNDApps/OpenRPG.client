@@ -21,3 +21,15 @@ MonoBehaviour:
     to read one page of text.","This spell doesn''t decode secret messages in a text
     or a glyph, such as an arcane sigil, that isn''t part of a written language."]}'
   DataHash: 06fceb388a4c186607a47d658b9127f7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Comprehend Languages
+    Content: 
+    AsJson: '{"name":"Comprehend Languages","source":"PHB","page":224,"srd":true,"basicRules":true,"level":1,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      pinch of soot and salt"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"meta":{"ritual":true},"entries":["For
+      the duration, you understand the literal meaning of any spoken language that
+      you hear. You also understand any written language that you see, but you must
+      be touching the surface on which the words are written. It takes about 1 minute
+      to read one page of text.","This spell doesn''t decode secret messages in a
+      text or a glyph, such as an arcane sigil, that isn''t part of a written language."]}'
+    DataHash: 06fceb388a4c186607a47d658b9127f7

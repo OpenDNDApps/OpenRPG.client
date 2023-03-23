@@ -20,6 +20,17 @@ MonoBehaviour:
     on an Intelligence check (DC equal to your Intelligence score + your proficiency
     bonus), or they use magic to decipher it."]}]}'
   DataHash: 93842f836eee871f1dea8c37e2f3222b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Linguist
+    Content: 
+    AsJson: '{"name":"Linguist","source":"PHB","page":167,"ability":[{"int":1}],"languageProficiencies":[{"any":3}],"entries":["You
+      have studied languages and codes, gaining the following benefits:",{"type":"list","items":["You
+      learn three languages of your choice.","You can ably create written ciphers.
+      Others can''t decipher a code you create unless you teach them, they succeed
+      on an Intelligence check (DC equal to your Intelligence score + your proficiency
+      bonus), or they use magic to decipher it."]}]}'
+    DataHash: 93842f836eee871f1dea8c37e2f3222b
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

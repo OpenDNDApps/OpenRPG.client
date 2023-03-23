@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sphinx (Type 2)
   AsJson: '{"name":"Sphinx (Type 2)","source":"PSZ","page":24,"_copy":{"name":"Gynosphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
   DataHash: 5d762a69356945abe744478240996b85
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sphinx (Type 2)
+    Content: 
+    AsJson: '{"name":"Sphinx (Type 2)","source":"PSZ","page":24,"_copy":{"name":"Gynosphinx","source":"MM"},"damageTagsLegendary":[],"hasToken":true}'
+    DataHash: 5d762a69356945abe744478240996b85

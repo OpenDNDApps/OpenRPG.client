@@ -19,3 +19,13 @@ MonoBehaviour:
     magic can''t put the sea elf to sleep."]}}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["C","G"],"senses":["darkvision
     60 ft."],"languages":["Common","Elvish"],"traitTags":["Amphibious","Fey Ancestry"],"senseTags":["D"],"languageTags":["C","E"],"hasToken":true}'
   DataHash: 32031a1d8e9bb09f9efa637fcdb0b6f8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sea Elf
+    Content: 
+    AsJson: '{"name":"Sea Elf","source":"SKT","page":70,"_copy":{"name":"Merfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"merfolk","with":"sea
+      elf","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Fey Ancestry","entries":["The
+      sea elf has advantage on saving throws against being {@condition charmed},
+      and magic can''t put the sea elf to sleep."]}}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["C","G"],"senses":["darkvision
+      60 ft."],"languages":["Common","Elvish"],"traitTags":["Amphibious","Fey Ancestry"],"senseTags":["D"],"languageTags":["C","E"],"hasToken":true}'
+    DataHash: 32031a1d8e9bb09f9efa637fcdb0b6f8

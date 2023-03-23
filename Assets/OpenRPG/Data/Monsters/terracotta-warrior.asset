@@ -22,3 +22,17 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
     damage."]}}}},"damageTags":["P"],"hasToken":true}'
   DataHash: a30daec2c7f8822658f477137fea7b77
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Terracotta Warrior
+    Content: 
+    AsJson: '{"name":"Terracotta Warrior","source":"ToA","page":161,"_copy":{"name":"Animated
+      Armor","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"armor","with":"terracotta
+      warrior"},"trait":[{"mode":"replaceArr","replace":"False Appearance","items":{"name":"False
+      Appearance","entries":["While the terracotta warrior remains motionless, it
+      is indistinguishable from a terracotta statue."]}},{"mode":"prependArr","items":{"name":"Fragile","entries":["If
+      a critical hit is scored against the terracotta warrior, it shatters and is
+      destroyed."]}}],"action":{"mode":"replaceArr","replace":"Slam","items":{"name":"Shortsword","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+      damage."]}}}},"damageTags":["P"],"hasToken":true}'
+    DataHash: a30daec2c7f8822658f477137fea7b77

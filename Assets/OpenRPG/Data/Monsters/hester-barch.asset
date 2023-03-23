@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hester Barch","isNpc":true,"source":"WDH","page":83,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     acolyte","with":"Hester","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"skill":{"medicine":"+4","religion":"+2","insight":"+4"},"hasToken":true}'
   DataHash: cb3464b5658a0ab64b3e9575fef5fcf8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hester Barch
+    Content: 
+    AsJson: '{"name":"Hester Barch","isNpc":true,"source":"WDH","page":83,"_copy":{"name":"Acolyte","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      acolyte","with":"Hester","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"skill":{"medicine":"+4","religion":"+2","insight":"+4"},"hasToken":true}'
+    DataHash: cb3464b5658a0ab64b3e9575fef5fcf8

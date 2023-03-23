@@ -22,3 +22,16 @@ MonoBehaviour:
     bite another target"]}],"environment":["swamp","urban"],"soundClip":{"type":"internal","path":"bestiary/crocodile.mp3"},"traitTags":["Hold
     Breath"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true}'
   DataHash: 26c9306ddc15d296b691b18a83ed7c6b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Crocodile
+    Content: 
+    AsJson: '{"name":"Crocodile","source":"MM","page":320,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"PotA"},{"source":"ToA"},{"source":"GoS"},{"source":"DIP"},{"source":"SLW"},{"source":"IMR"},{"source":"EGW"},{"source":"WBtW"},{"source":"PSX"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[{"ac":12,"from":["natural
+      armor"]}],"hp":{"average":19,"formula":"3d10 + 3"},"speed":{"walk":20,"swim":30},"str":15,"dex":10,"con":13,"int":2,"wis":10,"cha":5,"skill":{"stealth":"+2"},"passive":10,"cr":"1/2","trait":[{"name":"Hold
+      Breath","entries":["The crocodile can hold its breath for 15 minutes."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d10 + 2})
+      piercing damage, and the target is {@condition grappled} (escape {@dc 12}).
+      Until this grapple ends, the target is {@condition restrained}, and the crocodile
+      can''t bite another target"]}],"environment":["swamp","urban"],"soundClip":{"type":"internal","path":"bestiary/crocodile.mp3"},"traitTags":["Hold
+      Breath"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["grappled","restrained"],"hasToken":true}'
+    DataHash: 26c9306ddc15d296b691b18a83ed7c6b

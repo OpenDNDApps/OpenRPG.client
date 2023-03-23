@@ -18,3 +18,12 @@ MonoBehaviour:
     the ability to cast the {@spell dream} spell once as an action (spell save DC
     15), requiring no components."],"attachedSpells":["dream"]}'
   DataHash: cf9be0836692c461a6d54b979f219f37
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vial of Stardust
+    Content: 
+    AsJson: '{"name":"Vial of Stardust","source":"WDMM","page":251,"type":"OTH","rarity":"unknown","entries":["Any
+      creature that sprinkles the contents of a Vial of Stardust over itself gains
+      the ability to cast the {@spell dream} spell once as an action (spell save
+      DC 15), requiring no components."],"attachedSpells":["dream"]}'
+    DataHash: cf9be0836692c461a6d54b979f219f37

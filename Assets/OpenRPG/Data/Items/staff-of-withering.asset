@@ -23,3 +23,17 @@ MonoBehaviour:
     have disadvantage for 1 hour on any ability check or saving throw that uses Strength
     or Constitution."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
   DataHash: a1ce41da4f1e069d314824abbf485549
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Staff of Withering
+    Content: 
+    AsJson: '{"name":"Staff of Withering","source":"DMG","page":205,"srd":true,"tier":"major","rarity":"rare","reqAttune":"by
+      a cleric, druid, or warlock","reqAttuneTags":[{"class":"cleric"},{"class":"druid"},{"class":"warlock"}],"weight":4,"weaponCategory":"simple","property":["V"],"dmg1":"1d6","dmgType":"B","dmg2":"1d8","recharge":"dawn","rechargeAmount":"{@dice
+      1d3}","charges":3,"staff":true,"entries":["This staff has 3 charges and regains
+      {@dice 1d3} expended charges daily at dawn.","The staff can be wielded as a
+      magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and
+      you can expend 1 charge to deal an extra {@damage 2d10} necrotic damage to
+      the target. In addition, the target must succeed on a DC 15 Constitution saving
+      throw or have disadvantage for 1 hour on any ability check or saving throw
+      that uses Strength or Constitution."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+    DataHash: a1ce41da4f1e069d314824abbf485549

@@ -22,3 +22,16 @@ MonoBehaviour:
     Drivvin dismisses it as an action or until the demon is reduced to 0 hit points."]}}}},"languages":["Abyssal","Common","Dwarvish","Elvish","Goblin","Undercommon"],"traitTags":["Fey
     Ancestry","Magic Resistance","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["AB","C","D","E","GO","U"],"spellcastingTags":["CW","I"],"hasToken":true}'
   DataHash: 1086a1c465a479bcbee990ec8a822d9a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drivvin Freth
+    Content: 
+    AsJson: '{"name":"Drivvin Freth","isNpc":true,"source":"WDMM","page":169,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Drow","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Drivvin","flags":"i"},"action":{"mode":"appendArr","items":{"name":"Summon
+      Demon (1/Day)","entries":["Drivvin magically summons a {@filter demon of challenge
+      rating 6 or lower|bestiary|challenge rating=[&0;&6]|tag=demon|miscellaneous=!swarm}.
+      The summoned demon appears in an unoccupied space within 60 feet of him, acts
+      as his ally, and can''t summon other demons. The summoned demon remains until
+      Drivvin dismisses it as an action or until the demon is reduced to 0 hit points."]}}}},"languages":["Abyssal","Common","Dwarvish","Elvish","Goblin","Undercommon"],"traitTags":["Fey
+      Ancestry","Magic Resistance","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["AB","C","D","E","GO","U"],"spellcastingTags":["CW","I"],"hasToken":true}'
+    DataHash: 1086a1c465a479bcbee990ec8a822d9a

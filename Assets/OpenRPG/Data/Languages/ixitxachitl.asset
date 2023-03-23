@@ -18,3 +18,12 @@ MonoBehaviour:
     clerics}","{@creature Vampiric Ixitxachitl|OotA|vampiric ixitxachitl}","{@creature
     Vampiric Ixitxachitl Cleric|OotA|vampiric ixitxachitl clerics}"]}'
   DataHash: 5c2d5f1ef7878f3e6af778be35660ea5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ixitxachitl
+    Content: 
+    AsJson: '{"name":"Ixitxachitl","source":"OotA","page":225,"typicalSpeakers":["{@creature
+      Ixitxachitl|OotA|ixitxachitl}","{@creature Ixitxachitl Cleric|OotA|ixitxachitl
+      clerics}","{@creature Vampiric Ixitxachitl|OotA|vampiric ixitxachitl}","{@creature
+      Vampiric Ixitxachitl Cleric|OotA|vampiric ixitxachitl clerics}"]}'
+    DataHash: 5c2d5f1ef7878f3e6af778be35660ea5

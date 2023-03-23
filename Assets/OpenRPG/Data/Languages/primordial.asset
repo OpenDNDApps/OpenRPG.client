@@ -17,3 +17,11 @@ MonoBehaviour:
     elementals|bestiary|type=elemental}"],"script":"Dwarvish","entries":["Primordial
     is a guttural language, filled with harsh syllables and hard consonants."],"hasFluffImages":true}'
   DataHash: 637b896a5d626f1005395e53b16ee47a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Primordial
+    Content: 
+    AsJson: '{"name":"Primordial","dialects":["Auran","Aquan","Ignan","Terran"],"source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"EEPC","page":9}],"type":"exotic","typicalSpeakers":["{@filter
+      elementals|bestiary|type=elemental}"],"script":"Dwarvish","entries":["Primordial
+      is a guttural language, filled with harsh syllables and hard consonants."],"hasFluffImages":true}'
+    DataHash: 637b896a5d626f1005395e53b16ee47a

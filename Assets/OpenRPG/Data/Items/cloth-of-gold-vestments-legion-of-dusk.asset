@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cloth-of-gold vestments (Legion of Dusk)
   AsJson: '{"name":"Cloth-of-gold vestments (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: 14cd4207e79a4701cc178c8a764eb457
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloth-of-gold vestments (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Cloth-of-gold vestments (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: 14cd4207e79a4701cc178c8a764eb457

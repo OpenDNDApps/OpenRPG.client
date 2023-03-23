@@ -19,3 +19,13 @@ MonoBehaviour:
     bubble contains 1 hour of breathable air. The bubble regains all its expended
     air daily at dawn."]}'
   DataHash: a11899d364773a27da0c616ea6db1b0f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Breathing Bubble
+    Content: 
+    AsJson: '{"name":"Breathing Bubble","source":"EGW","page":266,"otherSources":[{"source":"CRCotN","page":213}],"rarity":"common","wondrous":true,"entries":["This
+      translucent, bubble-like sphere has a slightly tacky outer surface, and you
+      gain the item''s benefits only while wearing it over your head like a helmet.","The
+      bubble contains 1 hour of breathable air. The bubble regains all its expended
+      air daily at dawn."]}'
+    DataHash: a11899d364773a27da0c616ea6db1b0f

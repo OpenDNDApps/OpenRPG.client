@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kasem Aroon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":21,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Kasem","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: d8e2a15134f8395378af77854ab51d97
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kasem Aroon
+    Content: 
+    AsJson: '{"name":"Kasem Aroon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":21,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Kasem","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: d8e2a15134f8395378af77854ab51d97

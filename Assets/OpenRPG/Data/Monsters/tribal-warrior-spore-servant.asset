@@ -18,3 +18,12 @@ MonoBehaviour:
     servant","flags":"i"}]}},"type":"plant","alignment":["U"],"speed":{"walk":20},"str":13,"dex":11,"con":12,"int":2,"wis":6,"cha":1,"senses":["blindsight
     30 ft. (blind beyond this radius)"],"conditionImmune":["blinded","charmed","frightened","paralyzed"],"languages":null,"trait":null,"traitTags":[],"senseTags":["B"],"languageTags":[],"hasToken":true}'
   DataHash: 73eb34d9cfc012df638155467ead2977
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tribal Warrior Spore Servant
+    Content: 
+    AsJson: '{"name":"Tribal Warrior Spore Servant","source":"IDRotF","page":52,"_copy":{"name":"Tribal
+      Warrior","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"tribal
+      warrior","with":"spore servant","flags":"i"}]}},"type":"plant","alignment":["U"],"speed":{"walk":20},"str":13,"dex":11,"con":12,"int":2,"wis":6,"cha":1,"senses":["blindsight
+      30 ft. (blind beyond this radius)"],"conditionImmune":["blinded","charmed","frightened","paralyzed"],"languages":null,"trait":null,"traitTags":[],"senseTags":["B"],"languageTags":[],"hasToken":true}'
+    DataHash: 73eb34d9cfc012df638155467ead2977

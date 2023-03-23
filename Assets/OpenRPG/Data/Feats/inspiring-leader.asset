@@ -21,6 +21,18 @@ MonoBehaviour:
     A creature can''t gain temporary hit points from this feat again until it has
     finished a short or long rest."]}'
   DataHash: 97e713906411eccd85bab33242a2760b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Inspiring Leader
+    Content: 
+    AsJson: '{"name":"Inspiring Leader","source":"PHB","page":167,"prerequisite":[{"ability":[{"cha":13}]}],"entries":["You
+      can spend 10 minutes inspiring your companions, shoring up their resolve to
+      fight. When you do so, choose up to six friendly creatures (which can include
+      yourself) within 30 feet of you who can see or hear you and who can understand
+      you. Each creature can gain temporary hit points equal to your level + your
+      Charisma modifier. A creature can''t gain temporary hit points from this feat
+      again until it has finished a short or long rest."]}'
+    DataHash: 97e713906411eccd85bab33242a2760b
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

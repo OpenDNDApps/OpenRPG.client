@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Beholder","source":"TftYP","page":113,"_copy":{"name":"Beholder","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 68d163566019f30a1a9f8c5233c6d3fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Beholder
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Beholder","source":"TftYP","page":113,"_copy":{"name":"Beholder","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 68d163566019f30a1a9f8c5233c6d3fe

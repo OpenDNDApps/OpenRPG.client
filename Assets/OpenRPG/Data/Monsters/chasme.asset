@@ -41,3 +41,37 @@ MonoBehaviour:
     summoner dismisses it as an action."],"_version":{"name":"Chasme (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/chasme.mp3"},"traitTags":["Magic
     Resistance","Spider Climb"],"senseTags":["B","SD"],"languageTags":["AB","TP"],"damageTags":["N","P"],"miscTags":["HPR","MW"],"conditionInflict":["unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 86b62a2da921db7d3c06ee30679c3f9e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chasme
+    Content: 
+    AsJson: '{"name":"Chasme","source":"MM","page":57,"otherSources":[{"source":"WDMM"},{"source":"BGDIA"},{"source":"CRCotN"},{"source":"KftGV"}],"size":["L"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":84,"formula":"13d10 + 13"},"speed":{"walk":20,"fly":60},"str":15,"dex":15,"con":12,"int":11,"wis":14,"cha":10,"save":{"dex":"+5","wis":"+5"},"skill":{"perception":"+5"},"senses":["blindsight
+      10 ft.","darkvision 120 ft."],"passive":15,"resist":["cold","fire","lightning"],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+      120 ft."],"cr":"6","trait":[{"name":"Drone","entries":["The chasme produces
+      a horrid droning sound to which demons are immune. Any other creature that
+      starts its turn with in 30 feet of the chasme must succeed on a {@dc 12} Constitution
+      saving throw or fall {@condition unconscious} for 10 minutes. A creature that
+      can''t hear the drone automatically succeeds on the save. The effect on the
+      creature ends if it takes damage or if another creature takes an action to
+      splash it with holy water. If a creature''s saving throw is successful or the
+      effect ends for it, it is immune to the drone for the next 24 hours."]},{"name":"Magic
+      Resistance","entries":["The chasme has advantage on saving throws against spells
+      and other magical effects."]},{"name":"Spider Climb","entries":["The chasme
+      can climb difficult surfaces, including upside down on ceilings, without needing
+      to make an ability check."]}],"action":[{"name":"Proboscis","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}16 ({@damage 4d6 + 2})
+      piercing damage plus 24 ({@damage 7d6}) necrotic damage, and the target''s
+      hit point maximum is reduced by an amount equal to the necrotic damage taken.
+      If this effect reduces a creature''s hit point maximum to 0, the creature dies.
+      This reduction to a creature''s hit point maximum lasts until the creature
+      finishes a long rest or until it is affected by a spell like  {@spell greater
+      restoration}."]}],"variant":[{"type":"variant","name":"Summon Demon (1/Day)","entries":["The
+      demon chooses what to summon and attempts a magical summoning.","A chasme has
+      a {@chance 30|30 percent|30% summoning chance} chance of summoning one chasme.","A
+      summoned demon appears in an unoccupied space within 60 feet of its summoner,
+      acts as an ally of its summoner, and can''t summon other demons. It remains
+      for 1 minute, until it or its summoner dies, or until its summoner dismisses
+      it as an action."],"_version":{"name":"Chasme (Summoner)","addAs":"action"}}],"soundClip":{"type":"internal","path":"bestiary/chasme.mp3"},"traitTags":["Magic
+      Resistance","Spider Climb"],"senseTags":["B","SD"],"languageTags":["AB","TP"],"damageTags":["N","P"],"miscTags":["HPR","MW"],"conditionInflict":["unconscious"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 86b62a2da921db7d3c06ee30679c3f9e

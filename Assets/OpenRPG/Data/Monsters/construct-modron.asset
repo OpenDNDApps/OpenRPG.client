@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Construct (Modron)
   AsJson: '{"name":"Construct (Modron)","source":"PSK","page":32,"_copy":{"name":"Monodrone","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"monodrone","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 2e79bad45d1318aac284978be77e7cc5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Construct (Modron)
+    Content: 
+    AsJson: '{"name":"Construct (Modron)","source":"PSK","page":32,"_copy":{"name":"Monodrone","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"monodrone","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 2e79bad45d1318aac284978be77e7cc5

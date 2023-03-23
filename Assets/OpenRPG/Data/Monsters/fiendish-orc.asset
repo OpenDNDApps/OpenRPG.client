@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Fiendish Orc
   AsJson: '{"name":"Fiendish Orc","source":"CRCotN","page":71,"_copy":{"name":"Orc","source":"MM"},"type":{"type":"fiend","tags":["orc"]},"immune":["fire","poison"],"languages":["Abyssal","Common","Orc"],"hasToken":true}'
   DataHash: 9857d1eebfea7fe8ff4cb43828f843fa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fiendish Orc
+    Content: 
+    AsJson: '{"name":"Fiendish Orc","source":"CRCotN","page":71,"_copy":{"name":"Orc","source":"MM"},"type":{"type":"fiend","tags":["orc"]},"immune":["fire","poison"],"languages":["Abyssal","Common","Orc"],"hasToken":true}'
+    DataHash: 9857d1eebfea7fe8ff4cb43828f843fa

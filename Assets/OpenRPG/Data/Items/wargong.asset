@@ -18,3 +18,12 @@ MonoBehaviour:
     Both goblins and dwarves make and play wargongs, their sound echoing through
     tunnels in the Underdark."]}'
   DataHash: 6dfb6ae05e5cc67a8c74a3517b186f1a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wargong
+    Content: 
+    AsJson: '{"name":"Wargong","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      metal gong, traditionally made from a shield, particularly the shield of an
+      enemy. Both goblins and dwarves make and play wargongs, their sound echoing
+      through tunnels in the Underdark."]}'
+    DataHash: 6dfb6ae05e5cc67a8c74a3517b186f1a

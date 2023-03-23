@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: "{\"name\":\"Bucket\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":2,\"value\":5,\"entries\":[\"A
     bucket holds 3 gallons of liquid or \xBD cubic foot of solids.\"]}"
   DataHash: b1b64ba6daf770a627f70b35a8f0e29a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bucket
+    Content: 
+    AsJson: "{\"name\":\"Bucket\",\"source\":\"PHB\",\"page\":153,\"srd\":true,\"basicRules\":true,\"type\":\"G\",\"rarity\":\"none\",\"weight\":2,\"value\":5,\"entries\":[\"A
+      bucket holds 3 gallons of liquid or \xBD cubic foot of solids.\"]}"
+    DataHash: b1b64ba6daf770a627f70b35a8f0e29a

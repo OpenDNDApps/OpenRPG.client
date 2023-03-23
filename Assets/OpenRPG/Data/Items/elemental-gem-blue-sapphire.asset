@@ -19,3 +19,13 @@ MonoBehaviour:
     conjure elemental} spell, and the gem''s magic is lost."],"attachedSpells":["conjure
     elemental"]}'
   DataHash: 31487a4a61fdf86bf69bf4352973bd3c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elemental Gem, Blue Sapphire
+    Content: 
+    AsJson: '{"name":"Elemental Gem, Blue Sapphire","source":"DMG","page":167,"srd":true,"tier":"minor","rarity":"uncommon","wondrous":true,"entries":["This
+      gem contains a mote of elemental energy. When you use an action to break the
+      gem, an {@creature air elemental} is summoned as if you had cast the {@spell
+      conjure elemental} spell, and the gem''s magic is lost."],"attachedSpells":["conjure
+      elemental"]}'
+    DataHash: 31487a4a61fdf86bf69bf4352973bd3c

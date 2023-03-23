@@ -22,3 +22,17 @@ MonoBehaviour:
     throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving
     throw at the end of each of its turns, ending the effect on itself on a success."]}],"environment":["underdark","swamp","urban"],"soundClip":{"type":"internal","path":"bestiary/ghoul.mp3"},"altArt":[{"name":"Ghoul","source":"DIP"}],"senseTags":["D"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d055b9a860dd982bf3f67740d2fb0daa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ghoul
+    Content: 
+    AsJson: '{"name":"Ghoul","source":"MM","page":148,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"LMoP"},{"source":"PotA"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"SLW"},{"source":"SDW"},{"source":"BGDIA"},{"source":"RMBRE"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"JttRC"},{"source":"DoSI"},{"source":"KftGV"}],"size":["M"],"type":"undead","alignment":["C","E"],"ac":[12],"hp":{"average":22,"formula":"5d8"},"speed":{"walk":30},"str":13,"dex":15,"con":10,"int":7,"wis":10,"cha":6,"senses":["darkvision
+      60 ft."],"passive":10,"immune":["poison"],"conditionImmune":["charmed","exhaustion","poisoned"],"languages":["Common"],"cr":"1","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one creature. {@h}9 ({@damage 2d6 + 2}) piercing
+      damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 4} to hit, reach 5 ft.,
+      one target. {@h}7 ({@damage 2d4 + 2}) slashing damage. If the target is a creature
+      other than an elf or undead, it must succeed on a {@dc 10} Constitution saving
+      throw or be {@condition paralyzed} for 1 minute. The target can repeat the
+      saving throw at the end of each of its turns, ending the effect on itself on
+      a success."]}],"environment":["underdark","swamp","urban"],"soundClip":{"type":"internal","path":"bestiary/ghoul.mp3"},"altArt":[{"name":"Ghoul","source":"DIP"}],"senseTags":["D"],"languageTags":["C"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d055b9a860dd982bf3f67740d2fb0daa

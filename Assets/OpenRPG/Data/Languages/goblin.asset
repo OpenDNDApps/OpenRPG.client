@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Goblin","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
     goblinoids|bestiary|tag=goblinoid}"],"script":"Dwarvish","hasFluffImages":true}'
   DataHash: 0c4127ff7c53dc49b15b325f23fec78a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Goblin
+    Content: 
+    AsJson: '{"name":"Goblin","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
+      goblinoids|bestiary|tag=goblinoid}"],"script":"Dwarvish","hasFluffImages":true}'
+    DataHash: 0c4127ff7c53dc49b15b325f23fec78a

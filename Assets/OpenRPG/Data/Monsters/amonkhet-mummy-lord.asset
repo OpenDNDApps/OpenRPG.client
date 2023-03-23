@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amonkhet Mummy Lord","source":"PSA","page":34,"_copy":{"name":"Mummy
     Lord","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d44a5aba5ea227199ebc2118e40cc505
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amonkhet Mummy Lord
+    Content: 
+    AsJson: '{"name":"Amonkhet Mummy Lord","source":"PSA","page":34,"_copy":{"name":"Mummy
+      Lord","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d44a5aba5ea227199ebc2118e40cc505

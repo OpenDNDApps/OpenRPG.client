@@ -26,3 +26,20 @@ MonoBehaviour:
     its hit points or fewer."]}],"environment":["underdark","mountain","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/swarm-of-bats.mp3"},"traitTags":["Keen
     Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 83fa67b7955982b01e2b37b0828efe81
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Swarm of Bats
+    Content: 
+    AsJson: '{"name":"Swarm of Bats","source":"MM","page":337,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"PotA"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDMM"},{"source":"EGW"},{"source":"CM"},{"source":"WBtW"}],"size":["M"],"type":{"type":"beast","swarmSize":"T"},"alignment":["U"],"ac":[12],"hp":{"average":22,"formula":"5d8"},"speed":{"walk":0,"fly":30},"str":5,"dex":15,"con":10,"int":2,"wis":12,"cha":4,"senses":["blindsight
+      60 ft."],"passive":11,"resist":["bludgeoning","piercing","slashing"],"conditionImmune":["charmed","frightened","grappled","paralyzed","petrified","prone","restrained","stunned"],"cr":"1/4","trait":[{"name":"Echolocation","entries":["The
+      swarm can''t use its blindsight while {@condition deafened}."]},{"name":"Keen
+      Hearing","entries":["The swarm has advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing."]},{"name":"Swarm","entries":["The swarm can occupy
+      another creature''s space and vice versa, and the swarm can move through any
+      opening large enough for a Tiny bat. The swarm can''t regain hit points or
+      gain temporary hit points."]}],"action":[{"name":"Bites","entries":["{@atk
+      mw} {@hit 4} to hit, reach 0 ft., one creature in the swarm''s space. {@h}5
+      ({@damage 2d4}) piercing damage, or 2 ({@damage 1d4}) piercing damage if the
+      swarm has half of its hit points or fewer."]}],"environment":["underdark","mountain","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/swarm-of-bats.mp3"},"traitTags":["Keen
+      Senses"],"senseTags":["B"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 83fa67b7955982b01e2b37b0828efe81

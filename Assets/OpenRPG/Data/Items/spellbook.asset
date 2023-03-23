@@ -17,3 +17,11 @@ MonoBehaviour:
     for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages
     suitable for recording spells."]}'
   DataHash: c204357394fc39df1fbf97fe3173f2ec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spellbook
+    Content: 
+    AsJson: '{"name":"Spellbook","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":3,"value":5000,"entries":["Essential
+      for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages
+      suitable for recording spells."]}'
+    DataHash: c204357394fc39df1fbf97fe3173f2ec

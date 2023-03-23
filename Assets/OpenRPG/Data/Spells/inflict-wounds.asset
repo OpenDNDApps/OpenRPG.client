@@ -20,3 +20,14 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 3d10|1-9|1d10} for each
     slot level above 1st."]}],"damageInflict":["necrotic"],"spellAttack":["M"],"areaTags":["ST"]}'
   DataHash: 9655cb8b06061128b7b5ab3f9ef87588
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Inflict Wounds
+    Content: 
+    AsJson: '{"name":"Inflict Wounds","source":"PHB","page":253,"srd":true,"basicRules":true,"level":1,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["Make
+      a melee spell attack against a creature you can reach. On a hit, the target
+      takes {@damage 3d10} necrotic damage."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 2nd
+      level or higher, the damage increases by {@scaledamage 3d10|1-9|1d10} for each
+      slot level above 1st."]}],"damageInflict":["necrotic"],"spellAttack":["M"],"areaTags":["ST"]}'
+    DataHash: 9655cb8b06061128b7b5ab3f9ef87588

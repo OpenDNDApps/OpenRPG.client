@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Niles Breakbone","isNpc":true,"source":"ToA","page":47,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     noble","with":"Niles","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: 0fec7eedc734a53601baf0df5d991a4c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Niles Breakbone
+    Content: 
+    AsJson: '{"name":"Niles Breakbone","isNpc":true,"source":"ToA","page":47,"_copy":{"name":"Noble","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Niles","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 0fec7eedc734a53601baf0df5d991a4c

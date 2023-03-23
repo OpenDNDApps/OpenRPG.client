@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Emil Toranescu","isNpc":true,"source":"CoS","page":81,"_copy":{"name":"Werewolf","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     werewolf","with":"Emil","flags":"i"}}},"hp":{"average":72,"formula":"9d8 + 18"},"hasToken":true,"hasFluffImages":true}'
   DataHash: b44c39fff45e92d6c8aeb116509817a4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emil Toranescu
+    Content: 
+    AsJson: '{"name":"Emil Toranescu","isNpc":true,"source":"CoS","page":81,"_copy":{"name":"Werewolf","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      werewolf","with":"Emil","flags":"i"}}},"hp":{"average":72,"formula":"9d8 +
+      18"},"hasToken":true,"hasFluffImages":true}'
+    DataHash: b44c39fff45e92d6c8aeb116509817a4

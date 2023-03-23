@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Snowy Owlbear
   AsJson: '{"name":"Snowy Owlbear","source":"IDRotF","page":309,"_copy":{"name":"Owlbear","source":"MM"},"speed":{"walk":40,"swim":30},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: af489d9bdaa1d30c2000d50b206aab0c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Snowy Owlbear
+    Content: 
+    AsJson: '{"name":"Snowy Owlbear","source":"IDRotF","page":309,"_copy":{"name":"Owlbear","source":"MM"},"speed":{"walk":40,"swim":30},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: af489d9bdaa1d30c2000d50b206aab0c

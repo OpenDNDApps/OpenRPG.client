@@ -20,6 +20,17 @@ MonoBehaviour:
     you use this ability, you can''t use it again until you finish a short or long
     rest."]}]}'
   DataHash: 0dd2a587ecab8d27521a5300a94527c3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Human Determination
+    Content: 
+    AsJson: '{"name":"Human Determination","source":"UAFeatsForRaces","page":3,"prerequisite":[{"race":[{"name":"human"}]}],"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1}}],"entries":["You
+      are filled with a determination that can draw the unreachable within your reach.
+      You gain the following benefits:",{"type":"list","items":["When you make an
+      attack roll, an ability check, or a saving throw, you can do so with advantage.
+      Once you use this ability, you can''t use it again until you finish a short
+      or long rest."]}]}'
+    DataHash: 0dd2a587ecab8d27521a5300a94527c3
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites:

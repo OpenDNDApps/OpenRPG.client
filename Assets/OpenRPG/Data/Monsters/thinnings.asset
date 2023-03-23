@@ -19,3 +19,13 @@ MonoBehaviour:
     or revert to his normal thickness. In his flattened form, he can slide under
     doors, roll himself up, or even fold himself into the pages of a book."]}}}},"type":"fey","alignment":["N"],"languages":["Common","Elvish","Sylvan"],"actionTags":["Multiattack","Shapechanger"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 33820b406b89211b2fd65e62d81fe77a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thinnings
+    Content: 
+    AsJson: '{"name":"Thinnings","isNpc":true,"source":"WBtW","page":15,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Thinnings","flags":"i"},"action":{"mode":"appendArr","items":{"name":"Change
+      Shape","entries":["Thinnings can make himself as flat as a piece of parchment
+      or revert to his normal thickness. In his flattened form, he can slide under
+      doors, roll himself up, or even fold himself into the pages of a book."]}}}},"type":"fey","alignment":["N"],"languages":["Common","Elvish","Sylvan"],"actionTags":["Multiattack","Shapechanger"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 33820b406b89211b2fd65e62d81fe77a

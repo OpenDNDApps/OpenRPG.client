@@ -17,3 +17,11 @@ MonoBehaviour:
     Giant","source":"MM"},"ac":[{"ac":16,"from":["{@item chain mail|phb}"]}],"hp":{"average":115,"formula":"10d12
     + 40"},"hasToken":true}'
   DataHash: 1c27b893e57f1c9c3f1fb9a565f93034
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hill Giant Sergeant
+    Content: 
+    AsJson: '{"name":"Hill Giant Sergeant","source":"TftYP","page":170,"_copy":{"name":"Hill
+      Giant","source":"MM"},"ac":[{"ac":16,"from":["{@item chain mail|phb}"]}],"hp":{"average":115,"formula":"10d12
+      + 40"},"hasToken":true}'
+    DataHash: 1c27b893e57f1c9c3f1fb9a565f93034

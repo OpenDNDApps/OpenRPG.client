@@ -20,3 +20,14 @@ MonoBehaviour:
     Seeker|EGW} stat block. This automaton is under the DM''s control. A vox seeker
     reduced to 0 hit points is destroyed."]}'
   DataHash: 923213f9e5e4ba32603c2901f313232a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vox Seeker
+    Content: 
+    AsJson: '{"name":"Vox Seeker","source":"EGW","page":270,"rarity":"common","wondrous":true,"entries":["This
+      clockwork device resembles a metal crab the size of a dinner plate. Every action
+      used to wind up the device allows it to operate for 1 minute, to a maximum
+      of 10 minutes. While operational, the item uses the accompanying {@creature
+      Vox Seeker|EGW} stat block. This automaton is under the DM''s control. A vox
+      seeker reduced to 0 hit points is destroyed."]}'
+    DataHash: 923213f9e5e4ba32603c2901f313232a

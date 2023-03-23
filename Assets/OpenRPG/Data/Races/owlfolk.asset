@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: owlfolk
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Owlfolk
   AsJson: '{"name":"Owlfolk","source":"UA2021FolkOfTheFeywild","page":3,"lineage":"VRGR","size":["S","M"],"speed":{"walk":30,"fly":30},"darkvision":90,"skillProficiencies":[{"stealth":true}],"additionalSpells":[{"ability":{"choose":["int","wis","cha"]},"known":{"1":{"ritual":["detect
     magic"]}}}],"entries":[{"type":"entries","name":"Size","entries":["You are Medium
     or Small. You choose the size when you gain this race."]},{"type":"entries","name":"Darkvision","entries":["You
@@ -28,3 +28,23 @@ MonoBehaviour:
     throw (DC 10) to stop falling and fly in place until the start of your next turn."]},{"type":"entries","name":"Silent
     Feathers","entries":["You have proficiency in the {@skill Stealth} skill."]}],"hasFluff":true}'
   DataHash: 7b0980d3325dedd1b4f102c53fe85385
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Owlfolk","source":"UA2021FolkOfTheFeywild","page":3,"lineage":"VRGR","size":["S","M"],"speed":{"walk":30,"fly":30},"darkvision":90,"skillProficiencies":[{"stealth":true}],"additionalSpells":[{"ability":{"choose":["int","wis","cha"]},"known":{"1":{"ritual":["detect
+      magic"]}}}],"entries":[{"type":"entries","name":"Size","entries":["You are
+      Medium or Small. You choose the size when you gain this race."]},{"type":"entries","name":"Darkvision","entries":["You
+      can see in dim light within 90 feet of you as if it were bright light and in
+      darkness as if it were dim light. You discern colors in that darkness only
+      as shades of gray."]},{"type":"entries","name":"Magic Sight","entries":["Your
+      keen senses can focus to see the presence of magic. You gain the ability to
+      cast the {@spell detect magic} spell, but only as a ritual. Your spellcasting
+      ability for this spell is your choice of Intelligence, Wisdom, or Charisma.
+      You can also cast this spell normally with any spell slots you have."]},{"type":"entries","name":"Nimble
+      Flight","entries":["Thanks to your wings, you have a flying speed equal to
+      your walking speed. When you fall, you can use your reaction to make a Dexterity
+      saving throw (DC 10) to stop falling and fly in place until the start of your
+      next turn."]},{"type":"entries","name":"Silent Feathers","entries":["You have
+      proficiency in the {@skill Stealth} skill."]}],"hasFluff":true}'
+    DataHash: 7b0980d3325dedd1b4f102c53fe85385

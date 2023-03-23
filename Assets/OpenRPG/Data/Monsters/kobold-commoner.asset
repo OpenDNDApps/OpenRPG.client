@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) bludgeoning
     damage."]}],"traitTags":["Pack Tactics","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","DR","X"],"hasToken":true}'
   DataHash: 284cc9929d631c12eb236a776cd0cabe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kobold Commoner
+    Content: 
+    AsJson: '{"name":"Kobold Commoner","source":"TftYP","page":18,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Kobold","source":"DMG"}},"hp":{"average":3,"formula":"1d6"},"action":[{"name":"Club","entries":["{@atk
+      mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) bludgeoning
+      damage."]}],"traitTags":["Pack Tactics","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","DR","X"],"hasToken":true}'
+    DataHash: 284cc9929d631c12eb236a776cd0cabe

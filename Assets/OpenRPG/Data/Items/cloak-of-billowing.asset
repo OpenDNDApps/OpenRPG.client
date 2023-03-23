@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cloak of Billowing","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
     wearing this cloak, you can use a bonus action to make it billow dramatically."]}'
   DataHash: 21d6d6cda9be053723c2f30056ce6e94
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Billowing
+    Content: 
+    AsJson: '{"name":"Cloak of Billowing","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+      wearing this cloak, you can use a bonus action to make it billow dramatically."]}'
+    DataHash: 21d6d6cda9be053723c2f30056ce6e94

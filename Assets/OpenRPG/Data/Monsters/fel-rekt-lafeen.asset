@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Fel''rekt Lafeen","isNpc":true,"source":"WDH","page":67,"_copy":{"name":"Drow
     Gunslinger","source":"WDH","_mod":{"*":{"mode":"replaceTxt","replace":"the drow","with":"Fel''rekt","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
   DataHash: b902689f9956ab2368f357a0c4876287
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fel'rekt Lafeen
+    Content: 
+    AsJson: '{"name":"Fel''rekt Lafeen","isNpc":true,"source":"WDH","page":67,"_copy":{"name":"Drow
+      Gunslinger","source":"WDH","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Fel''rekt","flags":"i"}}},"alignment":["N","G"],"hasToken":true}'
+    DataHash: b902689f9956ab2368f357a0c4876287

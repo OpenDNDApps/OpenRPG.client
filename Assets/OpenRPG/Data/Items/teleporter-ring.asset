@@ -18,3 +18,12 @@ MonoBehaviour:
     the teleportation circle either in area K22 or area E1, teleporting itself and
     up to six other willing creatures from one circle to the other."]}'
   DataHash: 554fb1d8b065a13923edb7f586f54767
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Teleporter Ring
+    Content: 
+    AsJson: '{"name":"Teleporter Ring","source":"WDH","page":157,"type":"RG","rarity":"unknown
+      (magic)","entries":["As an action, a creature wearing a teleporter ring can
+      activate the teleportation circle either in area K22 or area E1, teleporting
+      itself and up to six other willing creatures from one circle to the other."]}'
+    DataHash: 554fb1d8b065a13923edb7f586f54767

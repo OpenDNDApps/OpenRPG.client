@@ -20,3 +20,14 @@ MonoBehaviour:
     such as refusing to pay for food at a tavern or breaking down doors at a local
     shop, since most people will not report your activity to the authorities."],"data":{"isFeature":true}}}}},"hasFluff":true}'
   DataHash: ef88e62acb5475f118ee50bd9452d510
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Variant Sailor (Pirate)
+    Content: 
+    AsJson: '{"name":"Variant Sailor (Pirate)","source":"PHB","page":139,"_copy":{"name":"Sailor","source":"PHB","_mod":{"entries":{"mode":"replaceArr","replace":"Feature:
+      Ship''s Passage","items":{"name":"Feature: Bad Reputation","type":"entries","entries":["No
+      matter where you go, people are afraid of you due to your reputation. When
+      you are in a civilized settlement, you can get away with minor criminal offenses,
+      such as refusing to pay for food at a tavern or breaking down doors at a local
+      shop, since most people will not report your activity to the authorities."],"data":{"isFeature":true}}}}},"hasFluff":true}'
+    DataHash: ef88e62acb5475f118ee50bd9452d510

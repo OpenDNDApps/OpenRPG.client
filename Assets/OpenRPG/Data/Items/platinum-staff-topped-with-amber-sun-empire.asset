@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum staff topped with amber (Sun Empire)
   AsJson: '{"name":"Platinum staff topped with amber (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: 1ec5f939fb6e3935a5c09bb4d3fbb600
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum staff topped with amber (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Platinum staff topped with amber (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: 1ec5f939fb6e3935a5c09bb4d3fbb600

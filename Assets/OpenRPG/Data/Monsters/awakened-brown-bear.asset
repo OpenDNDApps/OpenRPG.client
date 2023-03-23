@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Awakened Brown Bear","source":"WDMM","page":72,"_copy":{"name":"Brown
     Bear","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
   DataHash: f321891f219377e1f6ee10c70d800669
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Awakened Brown Bear
+    Content: 
+    AsJson: '{"name":"Awakened Brown Bear","source":"WDMM","page":72,"_copy":{"name":"Brown
+      Bear","source":"MM","_trait":{"name":"Awakened","source":"PHB"}},"hasToken":true}'
+    DataHash: f321891f219377e1f6ee10c70d800669

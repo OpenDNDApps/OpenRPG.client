@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Darrett Highwater","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":59,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     knight","with":"Darrett","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
   DataHash: 42b821e6fdc983737fd3eef555d37a0a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Darrett Highwater
+    Content: 
+    AsJson: '{"name":"Darrett Highwater","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":59,"_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      knight","with":"Darrett","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 42b821e6fdc983737fd3eef555d37a0a

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Trilobite (Giant)","source":"PSX","page":40,"_copy":{"name":"Giant
     Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crab","with":"trilobite"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 4b15a52ccb41f47a0f9cf3fe3170a805
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Trilobite (Giant)
+    Content: 
+    AsJson: '{"name":"Trilobite (Giant)","source":"PSX","page":40,"_copy":{"name":"Giant
+      Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"crab","with":"trilobite"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 4b15a52ccb41f47a0f9cf3fe3170a805

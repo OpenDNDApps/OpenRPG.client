@@ -26,3 +26,20 @@ MonoBehaviour:
     {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
     damage."]}],"environment":["grassland","forest","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/gnoll-fang-of-yeenoghu.mp3"},"traitTags":["Rampage"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","OTH"],"damageTags":["I","P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 8daf71aaf1885547bd11b92965dcb18b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gnoll Fang of Yeenoghu
+    Content: 
+    AsJson: '{"name":"Gnoll Fang of Yeenoghu","source":"MM","page":163,"otherSources":[{"source":"BGDIA"},{"source":"IDRotF"}],"size":["M"],"type":{"type":"fiend","tags":["gnoll"]},"alignment":["C","E"],"ac":[{"ac":14,"from":["{@item
+      hide armor|phb}"]}],"hp":{"average":65,"formula":"10d8 + 20"},"speed":{"walk":30},"str":17,"dex":15,"con":15,"int":10,"wis":11,"cha":13,"save":{"con":"+4","wis":"+2","cha":"+3"},"senses":["darkvision
+      60 ft."],"passive":10,"languages":["Abyssal","Gnoll"],"cr":"4","trait":[{"name":"Rampage","entries":["When
+      the gnoll reduces a creature to 0 hit points with a melee attack on its turn,
+      the gnoll can take a bonus action to move up to half its speed and make a bite
+      attack."]}],"action":[{"name":"Multiattack","entries":["The gnoll makes three
+      attacks: one with its bite and two with its claws."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d6 + 3}) piercing
+      damage, and the target must succeed on a {@dc 12} Constitution saving throw
+      or take 7 ({@damage 2d6}) poison damage."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+      damage."]}],"environment":["grassland","forest","hill","desert"],"soundClip":{"type":"internal","path":"bestiary/gnoll-fang-of-yeenoghu.mp3"},"traitTags":["Rampage"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","OTH"],"damageTags":["I","P","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 8daf71aaf1885547bd11b92965dcb18b

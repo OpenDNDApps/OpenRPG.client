@@ -19,3 +19,13 @@ MonoBehaviour:
     Features","entries":["While cursed with spider features, Shunn can climb difficult
     surfaces, even across ceilings, without needing to make an ability check."]}}}},"alignment":["L","E"],"hasToken":true,"hasFluff":true}'
   DataHash: 567c445c824f5fdd7d3cd71822634505
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shunn Shurreth
+    Content: 
+    AsJson: '{"name":"Shunn Shurreth","isNpc":true,"source":"WDMM","page":33,"_copy":{"name":"Drow
+      Elite Warrior","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      drow","with":"Shunn","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Spider
+      Features","entries":["While cursed with spider features, Shunn can climb difficult
+      surfaces, even across ceilings, without needing to make an ability check."]}}}},"alignment":["L","E"],"hasToken":true,"hasFluff":true}'
+    DataHash: 567c445c824f5fdd7d3cd71822634505

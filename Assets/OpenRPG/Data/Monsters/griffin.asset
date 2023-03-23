@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Griffin
   AsJson: '{"name":"Griffin","source":"PSX","page":39,"_copy":{"name":"Griffon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"griffon","with":"griffin"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: bebf6560ed401f78436e59028076be7c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Griffin
+    Content: 
+    AsJson: '{"name":"Griffin","source":"PSX","page":39,"_copy":{"name":"Griffon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"griffon","with":"griffin"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: bebf6560ed401f78436e59028076be7c

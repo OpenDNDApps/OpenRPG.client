@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold dragon comb set with red garnets as eyes
   AsJson: '{"name":"Gold dragon comb set with red garnets as eyes","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: eaacba46340d79ff94de8f57e76afeec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold dragon comb set with red garnets as eyes
+    Content: 
+    AsJson: '{"name":"Gold dragon comb set with red garnets as eyes","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: eaacba46340d79ff94de8f57e76afeec

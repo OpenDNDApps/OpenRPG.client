@@ -23,3 +23,17 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 8d8|5-9|1d8} for each
     slot level above 5th."]}],"damageInflict":["cold"],"savingThrow":["constitution"],"areaTags":["N"]}'
   DataHash: f66f9f75b26c5833fba78c34acb2ab7c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cone of Cold
+    Content: 
+    AsJson: '{"name":"Cone of Cold","source":"PHB","page":224,"srd":true,"basicRules":true,"level":5,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true,"m":"a
+      small crystal or glass cone"},"duration":[{"type":"instant"}],"entries":["A
+      blast of cold air erupts from your hands. Each creature in a 60-foot cone must
+      make a Constitution saving throw. A creature takes {@damage 8d8} cold damage
+      on a failed save, or half as much damage on a successful one.","A creature
+      killed by this spell becomes a frozen statue until it thaws."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 6th
+      level or higher, the damage increases by {@scaledamage 8d8|5-9|1d8} for each
+      slot level above 5th."]}],"damageInflict":["cold"],"savingThrow":["constitution"],"areaTags":["N"]}'
+    DataHash: f66f9f75b26c5833fba78c34acb2ab7c

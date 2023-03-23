@@ -18,3 +18,12 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: 78901a3185c275513f03a42e8d99e58e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Protection
+    Content: 
+    AsJson: '{"name":"Ring of Protection","source":"DMG","page":191,"srd":true,"basicRules":true,"type":"RG","tier":"major","rarity":"rare","reqAttune":true,"bonusAc":"+1","bonusSavingThrow":"+1","entries":["You
+      gain a +1 bonus to AC and saving throws while wearing this ring."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table G"],"hasFluffImages":true}'
+    DataHash: 78901a3185c275513f03a42e8d99e58e

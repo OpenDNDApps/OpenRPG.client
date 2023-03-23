@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blinded Troll","isNpc":true,"source":"WDH","page":114,"_copy":{"name":"Troll","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Blinded","entries":["The
     troll is wearing an eyeless helm, and is {@condition blinded}."]}}}},"speed":{"walk":20},"cr":"4","hasToken":true}'
   DataHash: c1d6b7a1fbc0aefc512f0f5f0111b03b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blinded Troll
+    Content: 
+    AsJson: '{"name":"Blinded Troll","isNpc":true,"source":"WDH","page":114,"_copy":{"name":"Troll","source":"MM","_mod":{"trait":{"mode":"prependArr","items":{"name":"Blinded","entries":["The
+      troll is wearing an eyeless helm, and is {@condition blinded}."]}}}},"speed":{"walk":20},"cr":"4","hasToken":true}'
+    DataHash: c1d6b7a1fbc0aefc512f0f5f0111b03b

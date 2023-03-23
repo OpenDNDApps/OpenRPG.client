@@ -17,3 +17,11 @@ MonoBehaviour:
     Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Zox","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
     banishment}","with":"{@spell confusion}"}]}}}},"languages":["Aquan","Auran","Common","Gnomish","Ignan","Terran"],"senseTags":["D"],"languageTags":["AQ","AU","C","G","IG","T"],"hasToken":true}'
   DataHash: 9bef57bbac5fa0a41e2daf26a6555a75
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zox Clammersham
+    Content: 
+    AsJson: '{"name":"Zox Clammersham","isNpc":true,"source":"WDMM","page":176,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Zox","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
+      banishment}","with":"{@spell confusion}"}]}}}},"languages":["Aquan","Auran","Common","Gnomish","Ignan","Terran"],"senseTags":["D"],"languageTags":["AQ","AU","C","G","IG","T"],"hasToken":true}'
+    DataHash: 9bef57bbac5fa0a41e2daf26a6555a75

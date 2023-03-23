@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Tiefling Acrobat
   AsJson: '{"name":"Tiefling Acrobat","source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"skill":{"acrobatics":"+4","performance":"+4"}}'
   DataHash: 3bc50aca4aa41f7970a34022156ce076
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tiefling Acrobat
+    Content: 
+    AsJson: '{"name":"Tiefling Acrobat","source":"KftGV","_copy":{"name":"Commoner","source":"MM"},"skill":{"acrobatics":"+4","performance":"+4"}}'
+    DataHash: 3bc50aca4aa41f7970a34022156ce076

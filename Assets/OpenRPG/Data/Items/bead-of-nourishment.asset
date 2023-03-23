@@ -17,3 +17,11 @@ MonoBehaviour:
     spongy, flavorless, gelatinous bead dissolves on your tongue and provides as
     much nourishment as 1 day of rations."],"miscTags":["CF/W"]}'
   DataHash: ae59d9353d88054ccaaafc5a75364b85
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bead of Nourishment
+    Content: 
+    AsJson: '{"name":"Bead of Nourishment","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+      spongy, flavorless, gelatinous bead dissolves on your tongue and provides as
+      much nourishment as 1 day of rations."],"miscTags":["CF/W"]}'
+    DataHash: ae59d9353d88054ccaaafc5a75364b85

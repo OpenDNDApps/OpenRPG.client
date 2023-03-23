@@ -19,3 +19,13 @@ MonoBehaviour:
     {@dice d4} and add the number rolled to one saving throw of its choice. It can
     roll the die before or after making the saving throw. The spell then ends."],"areaTags":["ST"]}'
   DataHash: 4a1a6d265ffaaca97d162fc839a50b18
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Resistance
+    Content: 
+    AsJson: '{"name":"Resistance","source":"PHB","page":272,"srd":true,"basicRules":true,"level":0,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      miniature cloak"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      touch one willing creature. Once before the spell ends, the target can roll
+      a {@dice d4} and add the number rolled to one saving throw of its choice. It
+      can roll the die before or after making the saving throw. The spell then ends."],"areaTags":["ST"]}'
+    DataHash: 4a1a6d265ffaaca97d162fc839a50b18

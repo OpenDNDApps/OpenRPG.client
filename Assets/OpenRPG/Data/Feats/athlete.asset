@@ -19,6 +19,16 @@ MonoBehaviour:
     doesn''t cost you extra movement.","You can make a running long jump or a running
     high jump after moving only 5 feet on foot, rather than 10 feet."]}]}'
   DataHash: a3e6d2afd4479d65009537b4db411956
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Athlete
+    Content: 
+    AsJson: '{"name":"Athlete","source":"PHB","page":165,"ability":[{"choose":{"from":["str","dex"],"amount":1}}],"entries":["You
+      have undergone extensive physical training to gain the following benefits:",{"type":"list","items":["When
+      you are {@condition prone}, standing up uses only 5 feet of your movement.","Climbing
+      doesn''t cost you extra movement.","You can make a running long jump or a running
+      high jump after moving only 5 feet on foot, rather than 10 feet."]}]}'
+    DataHash: a3e6d2afd4479d65009537b4db411956
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

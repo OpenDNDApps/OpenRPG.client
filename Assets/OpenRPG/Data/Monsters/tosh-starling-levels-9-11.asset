@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tosh Starling (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     veteran","with":"Tosh Starling","flags":"i"}}},"type":{"type":"humanoid","tags":["orc"]},"alignment":["N"],"hasToken":true}'
   DataHash: 842c1f908652d38a18843aa16e0b9602
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tosh Starling (Levels 9-11)
+    Content: 
+    AsJson: '{"name":"Tosh Starling (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      veteran","with":"Tosh Starling","flags":"i"}}},"type":{"type":"humanoid","tags":["orc"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 842c1f908652d38a18843aa16e0b9602

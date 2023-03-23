@@ -21,3 +21,15 @@ MonoBehaviour:
     of the former damage.","This spell can physically repair a magic item or construct,
     but the spell can''t restore magic to such an object."],"miscTags":["OBJ"]}'
   DataHash: bb1534e4ac6f1854ec5f1c2191ce341a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mending
+    Content: 
+    AsJson: '{"name":"Mending","source":"PHB","page":259,"srd":true,"level":0,"school":"T","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"two
+      lodestones"},"duration":[{"type":"instant"}],"entries":["This spell repairs
+      a single break or tear in an object you touch, such as broken chain link, two
+      halves of a broken key, a torn cloak, or a leaking wineskin. As long as the
+      break or tear is no larger than 1 foot in any dimension, you mend it, leaving
+      no trace of the former damage.","This spell can physically repair a magic item
+      or construct, but the spell can''t restore magic to such an object."],"miscTags":["OBJ"]}'
+    DataHash: bb1534e4ac6f1854ec5f1c2191ce341a

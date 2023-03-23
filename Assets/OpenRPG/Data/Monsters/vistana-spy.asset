@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Spy
   AsJson: '{"name":"Vistana Spy","source":"CoS","page":28,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: d652efc2bc55de4eee3689a74f118726
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Spy
+    Content: 
+    AsJson: '{"name":"Vistana Spy","source":"CoS","page":28,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: d652efc2bc55de4eee3689a74f118726

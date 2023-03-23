@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Rilago","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ghost","with":"Rilago","flags":"i"}}},"hasToken":true}'
   DataHash: d6b0278aea68db2b2a987a40e4444b3f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rilago
+    Content: 
+    AsJson: '{"name":"Rilago","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Rilago","flags":"i"}}},"hasToken":true}'
+    DataHash: d6b0278aea68db2b2a987a40e4444b3f

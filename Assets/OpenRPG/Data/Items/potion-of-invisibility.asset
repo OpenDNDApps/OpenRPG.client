@@ -19,3 +19,14 @@ MonoBehaviour:
     Anything you wear or carry is {@condition invisible} with you. The effect ends
     early if you attack or cast a spell."],"lootTables":["Magic Item Table D"]}'
   DataHash: 445d26923822e6ba76b483cb01e671ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Invisibility
+    Content: 
+    AsJson: '{"name":"Potion of Invisibility","source":"DMG","page":188,"srd":true,"basicRules":true,"type":"P","tier":"minor","rarity":"very
+      rare","entries":["This potion''s container looks empty but feels as though
+      it holds liquid. When you drink it, you become {@condition invisible} for 1
+      hour. Anything you wear or carry is {@condition invisible} with you. The effect
+      ends early if you attack or cast a spell."],"lootTables":["Magic Item Table
+      D"]}'
+    DataHash: 445d26923822e6ba76b483cb01e671ce

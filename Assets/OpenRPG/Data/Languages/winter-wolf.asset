@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Winter Wolf","source":"MM","page":340,"typicalSpeakers":["{@creature
     Winter Wolf||winter wolves}"]}'
   DataHash: 030bd43a2b92f6ec8c085574a2967595
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Winter Wolf
+    Content: 
+    AsJson: '{"name":"Winter Wolf","source":"MM","page":340,"typicalSpeakers":["{@creature
+      Winter Wolf||winter wolves}"]}'
+    DataHash: 030bd43a2b92f6ec8c085574a2967595

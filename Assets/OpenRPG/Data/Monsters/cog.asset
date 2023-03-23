@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Cog","isNpc":true,"source":"SKT","page":209,"_copy":{"name":"Hill
     Giant","source":"MM"},"ac":[{"ac":15,"from":["{@item scale mail|phb}"]}],"hasToken":true}'
   DataHash: 44b4fa29b4c4c3a28125f8bba25ed14f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cog
+    Content: 
+    AsJson: '{"name":"Cog","isNpc":true,"source":"SKT","page":209,"_copy":{"name":"Hill
+      Giant","source":"MM"},"ac":[{"ac":15,"from":["{@item scale mail|phb}"]}],"hasToken":true}'
+    DataHash: 44b4fa29b4c4c3a28125f8bba25ed14f

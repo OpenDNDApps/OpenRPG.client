@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Young Wereraven
   AsJson: '{"name":"Young Wereraven","source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR"},"size":["S"],"alignment":["L","G"],"hp":{"average":7,"formula":"2d6"},"hasToken":true}'
   DataHash: 3ddd343114199b94d83183626dba4353
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Wereraven
+    Content: 
+    AsJson: '{"name":"Young Wereraven","source":"CoS","page":98,"_copy":{"name":"Wereraven","source":"VRGR"},"size":["S"],"alignment":["L","G"],"hp":{"average":7,"formula":"2d6"},"hasToken":true}'
+    DataHash: 3ddd343114199b94d83183626dba4353

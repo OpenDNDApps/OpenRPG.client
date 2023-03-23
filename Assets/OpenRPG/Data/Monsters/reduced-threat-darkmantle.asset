@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Darkmantle","source":"TftYP","page":113,"_copy":{"name":"Darkmantle","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 00f27c4d17412c596708e3d950c7e5f4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Darkmantle
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Darkmantle","source":"TftYP","page":113,"_copy":{"name":"Darkmantle","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 00f27c4d17412c596708e3d950c7e5f4

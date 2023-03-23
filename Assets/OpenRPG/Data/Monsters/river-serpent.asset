@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"River Serpent","source":"PSA","page":38,"_copy":{"name":"Giant
     Constrictor Snake","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"snake","with":"serpent"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: e1f1aecf93e4eb782e50d242db4961ea
+  DataByEdition:
+  - Edition: d&d5e
+    Title: River Serpent
+    Content: 
+    AsJson: '{"name":"River Serpent","source":"PSA","page":38,"_copy":{"name":"Giant
+      Constrictor Snake","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"snake","with":"serpent"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: e1f1aecf93e4eb782e50d242db4961ea

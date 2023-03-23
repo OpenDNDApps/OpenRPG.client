@@ -19,3 +19,13 @@ MonoBehaviour:
     walk across molten rock as if it were solid ground."],"lootTables":["Magic Item
     Table I"],"hasFluffImages":true}'
   DataHash: aa1f76c8b3ab4adf566a7cddb7802b05
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Efreeti Chain
+    Content: 
+    AsJson: '{"name":"Efreeti Chain","source":"DMG","page":167,"type":"HA","immune":["fire"],"tier":"major","rarity":"legendary","reqAttune":true,"weight":55,"ac":16,"strength":"13","bonusAc":"+3","stealth":true,"entries":["While
+      wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage,
+      and you can understand and speak Primordial. In addition, you can stand on
+      and walk across molten rock as if it were solid ground."],"lootTables":["Magic
+      Item Table I"],"hasFluffImages":true}'
+    DataHash: aa1f76c8b3ab4adf566a7cddb7802b05

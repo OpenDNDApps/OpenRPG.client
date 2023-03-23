@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, increase the cold damage by {@scaledamage 3d8|2-9|1d8} for each
     slot level above 2nd."]}],"damageInflict":["cold"],"savingThrow":["constitution"],"areaTags":["N"],"hasFluffImages":true}'
   DataHash: 30d29a300f8595c261beaf5fa39616ac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rime's Binding Ice
+    Content: 
+    AsJson: '{"name":"Rime''s Binding Ice","source":"FTD","page":21,"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":30}},"components":{"s":true,"m":"a
+      vial of meltwater"},"duration":[{"type":"instant"}],"entries":["A burst of
+      cold energy emanates from you in a 30-foot cone. Each creature in that area
+      must make a Constitution saving throw. On a failed save, a creature takes {@damage
+      3d8} cold damage and is hindered by ice formations for 1 minute, or until it
+      or another creature within reach of it uses an action to break away the ice.
+      A creature hindered by ice has its speed reduced to 0. On a successful save,
+      a creature takes half as much damage and isn''t hindered by ice."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, increase the cold damage by {@scaledamage 3d8|2-9|1d8} for
+      each slot level above 2nd."]}],"damageInflict":["cold"],"savingThrow":["constitution"],"areaTags":["N"],"hasFluffImages":true}'
+    DataHash: 30d29a300f8595c261beaf5fa39616ac

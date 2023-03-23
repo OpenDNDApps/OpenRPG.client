@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zaroum Al-Saryak","isNpc":true,"source":"ToA","page":67,"_copy":{"name":"Bandit
     Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Zaroum","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 5bda7c89f493f303087d8740bed27269
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zaroum Al-Saryak
+    Content: 
+    AsJson: '{"name":"Zaroum Al-Saryak","isNpc":true,"source":"ToA","page":67,"_copy":{"name":"Bandit
+      Captain","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the captain","with":"Zaroum","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 5bda7c89f493f303087d8740bed27269

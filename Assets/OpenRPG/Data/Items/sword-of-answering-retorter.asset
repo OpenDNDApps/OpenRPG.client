@@ -26,3 +26,20 @@ MonoBehaviour:
     dealt with this special attack ignores any damage immunity or resistance the
     target has."]}'
   DataHash: 0f1b0b42a8cff023b0b9beeb96a793f2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sword of Answering (Retorter)
+    Content: 
+    AsJson: '{"name":"Sword of Answering (Retorter)","source":"DMG","page":206,"baseItem":"longsword|phb","type":"M","tier":"major","rarity":"legendary","reqAttune":"by
+      a lawful good creature","reqAttuneTags":[{"alignment":["L","G"]}],"weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+3","entries":["In
+      the world of Greyhawk, only nine of these blades are known to exist. Each is
+      patterned after the legendary sword Fragarach, which is variously translated
+      as \"Final Word.\" Each of the nine swords has its own name and alignment,
+      and each bears a different gem in its pommel.","Retorter, the Lawful Good sword,
+      has an aquamarine set in its pommel.","You gain a +3 bonus to attack and damage
+      rolls made with this sword. In addition, while you hold the sword, you can
+      use your reaction to make one melee attack with it against any creature in
+      your reach that deals damage to you. You have advantage on the attack roll,
+      and any damage dealt with this special attack ignores any damage immunity or
+      resistance the target has."]}'
+    DataHash: 0f1b0b42a8cff023b0b9beeb96a793f2

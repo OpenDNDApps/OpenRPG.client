@@ -19,3 +19,13 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["disguise
     self"],"lootTables":["Magic Item Table F"]}'
   DataHash: 80a1e678a9fcb014d10f259e4ef8bbb9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hat of Disguise
+    Content: 
+    AsJson: '{"name":"Hat of Disguise","source":"DMG","page":173,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+      wearing this hat, you can use an action to cast the {@spell disguise self}
+      spell from it at will. The spell ends if the hat is removed."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"attachedSpells":["disguise
+      self"],"lootTables":["Magic Item Table F"]}'
+    DataHash: 80a1e678a9fcb014d10f259e4ef8bbb9

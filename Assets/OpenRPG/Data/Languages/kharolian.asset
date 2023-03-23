@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kharolian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Plains
     of Dust","Tarsis"],"script":"Common"}'
   DataHash: d0c759d3eb4e34f860775900694d3c10
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kharolian
+    Content: 
+    AsJson: '{"name":"Kharolian","source":"DSotDQ","page":9,"type":"standard","typicalSpeakers":["Plains
+      of Dust","Tarsis"],"script":"Common"}'
+    DataHash: d0c759d3eb4e34f860775900694d3c10

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Faroul","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Faroul","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: 9503be5c3c8aba0a13335efbf8b42740
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Faroul
+    Content: 
+    AsJson: '{"name":"Faroul","isNpc":true,"source":"ToA","page":34,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Faroul","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: 9503be5c3c8aba0a13335efbf8b42740

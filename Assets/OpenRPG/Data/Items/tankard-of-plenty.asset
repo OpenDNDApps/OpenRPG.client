@@ -19,3 +19,13 @@ MonoBehaviour:
     fills the tankard with three pints of rich dwarven ale. This power can be used
     up to three times per day."]}'
   DataHash: 45c660d386328a85cdcd6a9d1a4ed6c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tankard of Plenty
+    Content: 
+    AsJson: '{"name":"Tankard of Plenty","source":"HotDQ","page":74,"otherSources":[{"source":"ToD","page":90}],"type":"OTH","rarity":"unknown
+      (magic)","entries":["This golden stein is decorated with dancing dwarves and
+      grain patterns. Speaking the command word (\"Illefarn\") while grasping the
+      handle fills the tankard with three pints of rich dwarven ale. This power can
+      be used up to three times per day."]}'
+    DataHash: 45c660d386328a85cdcd6a9d1a4ed6c5

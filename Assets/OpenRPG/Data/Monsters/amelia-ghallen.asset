@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Amelia Ghallen","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":180,"_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     veteran","with":"Amelia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: dc863fad03bd13ed7c3f46330a717793
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amelia Ghallen
+    Content: 
+    AsJson: '{"name":"Amelia Ghallen","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":180,"_copy":{"name":"Veteran","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      veteran","with":"Amelia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: dc863fad03bd13ed7c3f46330a717793

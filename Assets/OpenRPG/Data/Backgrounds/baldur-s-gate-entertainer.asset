@@ -26,3 +26,20 @@ MonoBehaviour:
     that frequents the establishment. This contact is delighted to talk with you,
     and to listen.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
   DataHash: f697a73c2b754734dc902308d9c8e4a3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baldur's Gate Entertainer
+    Content: 
+    AsJson: "{\"name\":\"Baldur's Gate Entertainer\",\"source\":\"BGDIA\",\"page\":202,\"additionalSources\":[{\"source\":\"PHB\",\"page\":130}],\"_copy\":{\"name\":\"Entertainer\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"insertArr\",\"index\":2,\"items\":{\"name\":\"Baldur's
+      Gate Feature: Backstage Pass\",\"type\":\"entries\",\"entries\":[\"{@note The
+      effects of a Baldur's Gate feature can be used only while the character is
+      in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable
+      effects in situations similar to those in Baldur's Gate.}\",\"You've learned
+      that most of the real business of entertainment (or any other venture) happens
+      behind the scenes. It's easy for you to case what sorts of audiences attend
+      what venue\u2014like how toughs gather at the Blushing Mermaid or how brash
+      patriars congregate at the Helm and Cloak. After a successful performance,
+      you may meet an enthusiastic member of the crowd\u2014someone of an occupation
+      or social class that frequents the establishment. This contact is delighted
+      to talk with you, and to listen.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
+    DataHash: f697a73c2b754734dc902308d9c8e4a3

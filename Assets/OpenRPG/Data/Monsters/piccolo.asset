@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Piccolo","isNpc":true,"source":"CoS","page":118,"_copy":{"name":"Baboon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     baboon","with":"Piccolo","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: e5c39ebf60ed6995e136c36a1d8331af
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Piccolo
+    Content: 
+    AsJson: '{"name":"Piccolo","isNpc":true,"source":"CoS","page":118,"_copy":{"name":"Baboon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      baboon","with":"Piccolo","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: e5c39ebf60ed6995e136c36a1d8331af

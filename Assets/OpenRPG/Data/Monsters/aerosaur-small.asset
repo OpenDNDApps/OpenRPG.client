@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Aerosaur (Small)
   AsJson: '{"name":"Aerosaur (Small)","source":"PSX","page":29,"_copy":{"name":"Pteranodon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pteranodon","with":"aerosaur"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0355d0a0f4c977b72219b4fcc9abc628
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aerosaur (Small)
+    Content: 
+    AsJson: '{"name":"Aerosaur (Small)","source":"PSX","page":29,"_copy":{"name":"Pteranodon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pteranodon","with":"aerosaur"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0355d0a0f4c977b72219b4fcc9abc628

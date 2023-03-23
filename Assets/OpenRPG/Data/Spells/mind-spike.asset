@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each
     slot level above 2nd."]}],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
   DataHash: 1aaa92646f37a78816eaadeb7a44c67d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mind Spike
+    Content: 
+    AsJson: '{"name":"Mind Spike","source":"XGE","page":162,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+      reach into the mind of one creature you can see within range. The target must
+      make a Wisdom saving throw, taking {@damage 3d8} psychic damage on a failed
+      save, or half as much damage on a successful one. On a failed save, you also
+      always know the target''s location until the spell ends, but only while the
+      two of you are on the same plane of existence. While you have this knowledge,
+      the target can''t become hidden from you, and if it''s {@condition invisible},
+      it gains no benefit from that condition against you."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each
+      slot level above 2nd."]}],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["ST"]}'
+    DataHash: 1aaa92646f37a78816eaadeb7a44c67d

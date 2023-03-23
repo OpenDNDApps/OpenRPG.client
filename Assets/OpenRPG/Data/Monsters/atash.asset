@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Atash","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":166,"_copy":{"name":"Solar","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     solar","with":"Atash","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
   DataHash: cc04616aadf16c3911e5084ff67da4de
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Atash
+    Content: 
+    AsJson: '{"name":"Atash","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":166,"_copy":{"name":"Solar","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      solar","with":"Atash","flags":"i"}}},"alignment":["L","N"],"hasToken":true}'
+    DataHash: cc04616aadf16c3911e5084ff67da4de

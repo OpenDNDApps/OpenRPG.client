@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ront","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     orc","with":"Ront","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 756c14e1df0f1824097c0f17ad7496c3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ront
+    Content: 
+    AsJson: '{"name":"Ront","isNpc":true,"source":"OotA","page":7,"_copy":{"name":"Orc","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      orc","with":"Ront","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 756c14e1df0f1824097c0f17ad7496c3

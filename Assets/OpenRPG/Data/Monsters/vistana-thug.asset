@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Thug
   AsJson: '{"name":"Vistana Thug","source":"CoS","page":28,"_copy":{"name":"Thug","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: e087995ca40ad381c1197727f01004da
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Thug
+    Content: 
+    AsJson: '{"name":"Vistana Thug","source":"CoS","page":28,"_copy":{"name":"Thug","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: e087995ca40ad381c1197727f01004da

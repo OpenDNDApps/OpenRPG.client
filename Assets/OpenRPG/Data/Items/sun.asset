@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sun","source":"WDH","page":169,"type":"$","rarity":"none","value":1000,"entries":["Platinum
     coin, twice as large as a {@item nib|wdh} (1 sun = 1,000 {@item nib|wdh|nibs})"]}'
   DataHash: f99a23f86be3fe9a9569658d1eeb304d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sun
+    Content: 
+    AsJson: '{"name":"Sun","source":"WDH","page":169,"type":"$","rarity":"none","value":1000,"entries":["Platinum
+      coin, twice as large as a {@item nib|wdh} (1 sun = 1,000 {@item nib|wdh|nibs})"]}'
+    DataHash: f99a23f86be3fe9a9569658d1eeb304d

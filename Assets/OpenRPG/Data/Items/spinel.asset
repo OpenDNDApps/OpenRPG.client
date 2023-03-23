@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Spinel","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
     transparent red, red-brown, or deep green gemstone."]}'
   DataHash: 21cf7262be2849273cd7755bd0472908
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spinel
+    Content: 
+    AsJson: '{"name":"Spinel","source":"DMG","page":134,"type":"$","rarity":"none","value":10000,"entries":["A
+      transparent red, red-brown, or deep green gemstone."]}'
+    DataHash: 21cf7262be2849273cd7755bd0472908

@@ -20,3 +20,14 @@ MonoBehaviour:
     or all magic items in its possession are teleported to the bottom of the pit
     in {@adventure area 31|WDMM|15|31. Hall of Embers}."]}}}},"hasToken":true}'
   DataHash: e33a06a95df08a1efda6e716f52d6e42
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Statue of Vergadain
+    Content: 
+    AsJson: '{"name":"Statue of Vergadain","source":"WDMM","page":202,"_copy":{"name":"Stone
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Magic
+      Theft","entries":["As a bonus action, the golem targets one creature it can
+      see within 30 feet of it. The target must succeed on a DC 17 Charisma saving
+      throw, or all magic items in its possession are teleported to the bottom of
+      the pit in {@adventure area 31|WDMM|15|31. Hall of Embers}."]}}}},"hasToken":true}'
+    DataHash: e33a06a95df08a1efda6e716f52d6e42

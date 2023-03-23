@@ -23,3 +23,17 @@ MonoBehaviour:
     within range. A light must be within 20 feet of another light created by this
     spell, and a light winks out if it exceeds the spell''s range."],"miscTags":["LGT","UBA"]}'
   DataHash: db90903f8a2910f5c6a21de4e30d66d3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dancing Lights
+    Content: 
+    AsJson: '{"name":"Dancing Lights","source":"PHB","page":230,"srd":true,"basicRules":true,"level":0,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true,"m":"a
+      bit of phosphorus or wychwood, or a glowworm"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      create up to four torch-sized lights within range, making them appear as torches,
+      lanterns, or glowing orbs that hover in the air for the duration. You can also
+      combine the four lights into one glowing vaguely humanoid form of Medium size.
+      Whichever form you choose, each light sheds dim light in a 10-foot radius.","As
+      a bonus action on your turn, you can move the lights up to 60 feet to a new
+      spot within range. A light must be within 20 feet of another light created
+      by this spell, and a light winks out if it exceeds the spell''s range."],"miscTags":["LGT","UBA"]}'
+    DataHash: db90903f8a2910f5c6a21de4e30d66d3

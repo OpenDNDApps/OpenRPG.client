@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vocath","isNpc":true,"isNamedCreature":true,"source":"LoX","page":42,"_copy":{"name":"Mercane","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mercane","with":"Vocath","flags":"i"}}},"hasToken":true}'
   DataHash: 5a269479bd90a8f54d7f6d275f4556c0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vocath
+    Content: 
+    AsJson: '{"name":"Vocath","isNpc":true,"isNamedCreature":true,"source":"LoX","page":42,"_copy":{"name":"Mercane","source":"BAM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mercane","with":"Vocath","flags":"i"}}},"hasToken":true}'
+    DataHash: 5a269479bd90a8f54d7f6d275f4556c0

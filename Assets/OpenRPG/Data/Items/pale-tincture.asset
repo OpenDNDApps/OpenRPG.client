@@ -21,3 +21,15 @@ MonoBehaviour:
     the damage the poison deals can''t be healed by any means. After seven successful
     saving throws, the effect ends and the creature can heal normally."],"poisonTypes":["ingested"]}'
   DataHash: d481ddabbb64f1b0d36fd0d27221eb9e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pale Tincture
+    Content: 
+    AsJson: '{"name":"Pale Tincture","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":25000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 16 Constitution saving
+      throw or take 3 ({@damage 1d6}) poison damage and become {@condition poisoned}.
+      The {@condition poisoned} creature must repeat the saving throw every 24 hours,
+      taking 3 ({@damage 1d6}) poison damage on a failed save. Until this poison
+      ends, the damage the poison deals can''t be healed by any means. After seven
+      successful saving throws, the effect ends and the creature can heal normally."],"poisonTypes":["ingested"]}'
+    DataHash: d481ddabbb64f1b0d36fd0d27221eb9e

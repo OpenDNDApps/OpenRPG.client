@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Undead Bulette","source":"WDMM","page":90,"_copy":{"name":"Bulette","source":"MM"},"type":"undead","hp":{"average":125,"formula":"9d10
     + 45"},"resist":["necrotic"],"immune":["poison"],"vulnerable":["radiant"],"conditionImmune":["poisoned"],"hasToken":true}'
   DataHash: 71cb93206c10930dab30c1f922fb4854
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Undead Bulette
+    Content: 
+    AsJson: '{"name":"Undead Bulette","source":"WDMM","page":90,"_copy":{"name":"Bulette","source":"MM"},"type":"undead","hp":{"average":125,"formula":"9d10
+      + 45"},"resist":["necrotic"],"immune":["poison"],"vulnerable":["radiant"],"conditionImmune":["poisoned"],"hasToken":true}'
+    DataHash: 71cb93206c10930dab30c1f922fb4854

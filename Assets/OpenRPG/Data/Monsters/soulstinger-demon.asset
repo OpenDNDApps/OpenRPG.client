@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Soulstinger Demon","source":"PSA","page":30,"_copy":{"name":"Bone
     Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"devil","with":"demon"},"variant":"remove"}},"type":{"type":"fiend","tags":["demon"]},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: b08235a571c319aa0344f600bf6e425b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Soulstinger Demon
+    Content: 
+    AsJson: '{"name":"Soulstinger Demon","source":"PSA","page":30,"_copy":{"name":"Bone
+      Devil","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"devil","with":"demon"},"variant":"remove"}},"type":{"type":"fiend","tags":["demon"]},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: b08235a571c319aa0344f600bf6e425b

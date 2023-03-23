@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Thopter (Bat)
   AsJson: '{"name":"Thopter (Bat)","source":"PSK","page":33,"_copy":{"name":"Bat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"bat","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 1afa4f0b98867a8f71db8e9324f89527
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thopter (Bat)
+    Content: 
+    AsJson: '{"name":"Thopter (Bat)","source":"PSK","page":33,"_copy":{"name":"Bat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"bat","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 1afa4f0b98867a8f71db8e9324f89527

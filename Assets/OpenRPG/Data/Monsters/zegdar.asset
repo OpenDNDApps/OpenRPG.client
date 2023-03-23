@@ -17,3 +17,11 @@ MonoBehaviour:
     Minotaur","source":"PotA","_mod":{"*":{"mode":"replaceTxt","replace":"the minotaur","with":"Zegdar","flags":"i"}}},"ac":[{"ac":16,"from":["{@item
     chain mail|phb}"]}],"hp":{"average":117,"formula":"9d10 + 27"},"int":11,"hasToken":true,"hasFluffImages":true}'
   DataHash: 72132cfdcee11c8fa38e5aa753ba069f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zegdar
+    Content: 
+    AsJson: '{"name":"Zegdar","isNpc":true,"source":"PotA","page":120,"_copy":{"name":"Emberhorn
+      Minotaur","source":"PotA","_mod":{"*":{"mode":"replaceTxt","replace":"the minotaur","with":"Zegdar","flags":"i"}}},"ac":[{"ac":16,"from":["{@item
+      chain mail|phb}"]}],"hp":{"average":117,"formula":"9d10 + 27"},"int":11,"hasToken":true,"hasFluffImages":true}'
+    DataHash: 72132cfdcee11c8fa38e5aa753ba069f

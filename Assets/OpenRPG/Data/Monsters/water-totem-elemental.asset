@@ -17,3 +17,11 @@ MonoBehaviour:
     Elemental","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elemental","with":"totem
     elemental"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 86c642455da1dfdeacfced4eb3307781
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Water Totem Elemental
+    Content: 
+    AsJson: '{"name":"Water Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Water
+      Elemental","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"elemental","with":"totem
+      elemental"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 86c642455da1dfdeacfced4eb3307781

@@ -40,3 +40,34 @@ MonoBehaviour:
     damage plus 10 ({@damage 3d6}) poison damage."]}],"environment":["forest","swamp","desert"],"soundClip":{"type":"internal","path":"bestiary/yuan-ti-abomination.mp3"},"traitTags":["Magic
     Resistance","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C","DR"],"damageTags":["B","I","P","S"],"spellcastingTags":["F","I"],"miscTags":["MW","RCH","RNG","RW"],"conditionInflict":["grappled","restrained"],"conditionInflictSpell":["charmed","frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 87c7ce6442a61328f812c0e95750eccd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yuan-ti Abomination
+    Content: 
+    AsJson: '{"name":"Yuan-ti Abomination","source":"MM","page":308,"otherSources":[{"source":"RoT"},{"source":"ToA"},{"source":"WDMM"},{"source":"DIP"},{"source":"SLW"},{"source":"CM"}],"size":["L"],"type":{"type":"monstrosity","tags":["shapechanger","yuan-ti"]},"alignment":["N","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":127,"formula":"15d10 + 45"},"speed":{"walk":40},"str":19,"dex":16,"con":17,"int":17,"wis":15,"cha":18,"skill":{"perception":"+5","stealth":"+6"},"senses":["darkvision
+      60 ft."],"passive":15,"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","Common","Draconic"],"cr":"7","spellcasting":[{"name":"Innate
+      Spellcasting (Abomination Form Only)","headerEntries":["The yuan-ti''s innate
+      spellcasting ability is Charisma (spell save {@dc 15}). The yuan-ti can innately
+      cast the following spells, requiring no material components:"],"will":["{@spell
+      animal friendship} (snakes only)"],"daily":{"1":["{@spell fear}"],"3":["{@spell
+      suggestion}"]},"ability":"cha"}],"trait":[{"name":"Shapechanger","entries":["The
+      yuan-ti can use its action to polymorph into a Large snake, or back into its
+      true form. Its statistics are the same in each form. Any equipment it is wearing
+      or carrying isn''t transformed. It doesn''t change form if it dies."]},{"name":"Magic
+      Resistance","entries":["The yuan-ti has advantage on saving throws against
+      spells and other magical effects."]}],"action":[{"name":"Multiattack (Abomination
+      Form Only)","entries":["The yuan-ti makes two ranged attacks or three melee
+      attacks, but can use its bite and constrict attacks only once each."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d6 + 4}) piercing
+      damage plus 10 ({@damage 3d6}) poison damage."]},{"name":"Constrict","entries":["{@atk
+      mw} {@hit 7} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+      damage, and the target is {@condition grappled} (escape {@dc 14}). Until this
+      grapple ends, the target is {@condition restrained}, and the yuan-ti can''t
+      constrict another target."]},{"name":"Scimitar (Abomination Form Only)","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing
+      damage."]},{"name":"Longbow (Abomination Form Only)","entries":["{@atk rw}
+      {@hit 6} to hit, range 150/600 ft., one target. {@h}12 ({@damage 2d8 + 3})
+      piercing damage plus 10 ({@damage 3d6}) poison damage."]}],"environment":["forest","swamp","desert"],"soundClip":{"type":"internal","path":"bestiary/yuan-ti-abomination.mp3"},"traitTags":["Magic
+      Resistance","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","C","DR"],"damageTags":["B","I","P","S"],"spellcastingTags":["F","I"],"miscTags":["MW","RCH","RNG","RW"],"conditionInflict":["grappled","restrained"],"conditionInflictSpell":["charmed","frightened"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 87c7ce6442a61328f812c0e95750eccd

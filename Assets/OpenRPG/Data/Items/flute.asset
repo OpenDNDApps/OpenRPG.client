@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Flute
   AsJson: '{"name":"Flute","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":1,"value":200}'
   DataHash: bdab2c4ffa391102429580294d970247
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flute
+    Content: 
+    AsJson: '{"name":"Flute","source":"PHB","page":154,"srd":true,"basicRules":true,"type":"INS","rarity":"none","weight":1,"value":200}'
+    DataHash: bdab2c4ffa391102429580294d970247

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tholtz Daggerdark","isNpc":true,"source":"SKT","page":221,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Tholtz"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true}'
   DataHash: 9f12f77fd782532f926e424e159a88c4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tholtz Daggerdark
+    Content: 
+    AsJson: '{"name":"Tholtz Daggerdark","isNpc":true,"source":"SKT","page":221,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Tholtz"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true}'
+    DataHash: 9f12f77fd782532f926e424e159a88c4

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Alexandrite","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
     transparent dark green gemstone."]}'
   DataHash: 80873997cfcc0175d6c2ec46c975585a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Alexandrite
+    Content: 
+    AsJson: '{"name":"Alexandrite","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+      transparent dark green gemstone."]}'
+    DataHash: 80873997cfcc0175d6c2ec46c975585a

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Vasilka","isNpc":true,"source":"CoS","page":151,"_copy":{"name":"Flesh
     Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the golem","with":"Vasilka","flags":"i"}}},"hasToken":true}'
   DataHash: fe0fe1cda664d4ec9f59fac3892f7ce5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vasilka
+    Content: 
+    AsJson: '{"name":"Vasilka","isNpc":true,"source":"CoS","page":151,"_copy":{"name":"Flesh
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the golem","with":"Vasilka","flags":"i"}}},"hasToken":true}'
+    DataHash: fe0fe1cda664d4ec9f59fac3892f7ce5

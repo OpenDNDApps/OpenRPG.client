@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Heartstabber Mosquito
   AsJson: '{"name":"Heartstabber Mosquito","source":"PSZ","page":27,"_copy":{"name":"Stirge","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"stirge","with":"mosquito"}}},"hasToken":true}'
   DataHash: f9c73ec19a33584ecea36c10ef8c17b6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Heartstabber Mosquito
+    Content: 
+    AsJson: '{"name":"Heartstabber Mosquito","source":"PSZ","page":27,"_copy":{"name":"Stirge","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"stirge","with":"mosquito"}}},"hasToken":true}'
+    DataHash: f9c73ec19a33584ecea36c10ef8c17b6

@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}{@damage 2d6 + 4} piercing
     damage."]}}}},"size":["L"],"hp":{"average":104,"formula":"16d10 + 16"},"str":18,"cr":"3","damageTags":["P"],"hasToken":true}'
   DataHash: a78641ddce91a6e8d8fc22d687a656e6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Otto
+    Content: 
+    AsJson: '{"name":"Otto","isNpc":true,"source":"WDMM","page":96,"_copy":{"name":"Faerie
+      Dragon (Violet)","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Bite","items":{"name":"Bite","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}{@damage 2d6 + 4} piercing
+      damage."]}}}},"size":["L"],"hp":{"average":104,"formula":"16d10 + 16"},"str":18,"cr":"3","damageTags":["P"],"hasToken":true}'
+    DataHash: a78641ddce91a6e8d8fc22d687a656e6

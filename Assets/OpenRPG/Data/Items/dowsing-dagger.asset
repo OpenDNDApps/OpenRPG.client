@@ -17,3 +17,12 @@ MonoBehaviour:
     curved jade blade fashioned by the River Heralds, this {@item +1 dagger} can
     detect the presence of fresh water within 200 feet of the wielder."]}'
   DataHash: 70546f314b6475794d93407ae7bf1e6a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dowsing Dagger
+    Content: 
+    AsJson: '{"name":"Dowsing Dagger","source":"XMtS","page":19,"rarity":"unknown
+      (magic)","entries":["A curved jade blade fashioned by the River Heralds, this
+      {@item +1 dagger} can detect the presence of fresh water within 200 feet of
+      the wielder."]}'
+    DataHash: 70546f314b6475794d93407ae7bf1e6a

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ggr
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Guildmasters' Guide to Ravnica
   AsJson: '{"name":"Guildmasters'' Guide to Ravnica","id":"GGR","source":"GGR","group":"setting","coverUrl":"img/covers/GGR.png","published":"2018-11-20","contents":[{"name":"Welcome
     to Ravnica","headers":["City of Guilds","History of Ravnica","Life in the Big
     City"]},{"name":"Character Creation","ordinal":{"type":"chapter","identifier":1},"headers":["Choosing
@@ -31,6 +31,29 @@ MonoBehaviour:
     NPCs","Golgari NPCs","Gruul NPCs","Izzet NPCs","Orzhov NPCs","Rakdos NPCs","Selesnya
     NPCs","Simic NPCs"]}]}'
   DataHash: 4590097e77dbd2afb228e1cf8fde961a
-  CoverURL: 
-  Published: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Guildmasters'' Guide to Ravnica","id":"GGR","source":"GGR","group":"setting","coverUrl":"img/covers/GGR.png","published":"2018-11-20","contents":[{"name":"Welcome
+      to Ravnica","headers":["City of Guilds","History of Ravnica","Life in the Big
+      City"]},{"name":"Character Creation","ordinal":{"type":"chapter","identifier":1},"headers":["Choosing
+      a Guild","Races","Classes by Guild","Subclass Options"]},{"name":"Guilds of
+      Ravnica","ordinal":{"type":"chapter","identifier":2},"headers":["Azorius Senate","Boros
+      Legion","House Dimir","Golgari Swarm","Gruul Clans","Izzet League","Orzhov
+      Syndicate","Cult of Rakdos","Selesnya Conclave","Simic Combine"]},{"name":"The
+      Tenth District","ordinal":{"type":"chapter","identifier":3},"headers":["The
+      Six Precincts","Major Trade Ways","Beneath the Streets","Precinct One","Precinct
+      Two","Precinct Three","Precinct Four","Precinct Five","Precinct Six"]},{"name":"Creating
+      Adventures","ordinal":{"type":"chapter","identifier":4},"headers":["Guild-Based
+      Adventures","Choosing a Guild","Involving the Characters","Complications","Azorius
+      Senate","Boros Legion","House Dimir","Golgari Swarm","Gruul Clans","Izzet League","Orzhov
+      Syndicate","Cult of Rakdos","Selesnya Conclave","Simic Combine"]},{"name":"Treasures","ordinal":{"type":"chapter","identifier":5},"headers":["Coins
+      in Treasure","Guild Charms","Magic Items"]},{"name":"Friends and Foes","ordinal":{"type":"chapter","identifier":6},"headers":["Creatures
+      by Guild"]},{"name":"NPCs by Guild","headers":["Azorius NPCs","Boros NPCs","Dimir
+      NPCs","Golgari NPCs","Gruul NPCs","Izzet NPCs","Orzhov NPCs","Rakdos NPCs","Selesnya
+      NPCs","Simic NPCs"]}]}'
+    DataHash: 4590097e77dbd2afb228e1cf8fde961a
+  CoverURL: img/covers/GGR.png
+  Published: 2018-11-20
   Author: 

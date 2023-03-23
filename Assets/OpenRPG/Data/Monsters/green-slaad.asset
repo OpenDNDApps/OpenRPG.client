@@ -51,3 +51,45 @@ MonoBehaviour:
     to the slaad."],"_version":{"name":"Green Slaad (Control Gem)","addAs":"trait"}}],"soundClip":{"type":"internal","path":"bestiary/green-slaad.mp3"},"traitTags":["Magic
     Resistance","Regeneration","Shapechanger"],"senseTags":["B","D"],"actionTags":["Multiattack"],"languageTags":["OTH","TP"],"damageTags":["B","F","P","S","Y"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 3e550349637818fa4e716b40475b3f5a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Green Slaad
+    Content: 
+    AsJson: '{"name":"Green Slaad","source":"MM","page":277,"otherSources":[{"source":"WDMM"},{"source":"IDRotF"},{"source":"DSotDQ"}],"size":["L"],"type":{"type":"aberration","tags":["shapechanger"]},"alignment":["C","N"],"ac":[{"ac":16,"from":["natural
+      armor"]}],"hp":{"average":127,"formula":"15d10 + 45"},"speed":{"walk":30},"str":18,"dex":15,"con":16,"int":11,"wis":8,"cha":12,"skill":{"arcana":"+3","perception":"+2"},"senses":["blindsight
+      30 ft.","darkvision 60 ft."],"passive":12,"resist":["acid","cold","fire","lightning","thunder"],"languages":["Slaad","telepathy
+      60 ft."],"cr":"8","spellcasting":[{"name":"Innate Spellcasting","headerEntries":["The
+      slaad''s innate spellcasting ability is Charisma (spell save {@dc 12}). The
+      slaad can innately cast the following spells, requiring no material components:"],"will":["{@spell
+      detect magic}","{@spell detect thoughts}","{@spell mage hand}"],"daily":{"1":["{@spell
+      fireball}"],"2e":["{@spell fear}","{@spell invisibility} (self only)"]},"ability":"cha"}],"trait":[{"name":"Shapechanger","entries":["The
+      slaad can use its action to polymorph into a Small or Medium humanoid, or back
+      into its true form. Its statistics, other than its size, are the same in each
+      form. Any equipment it is wearing or carrying isn''t transformed. It reverts
+      to its true form if it dies."]},{"name":"Magic Resistance","entries":["The
+      slaad has advantage on saving throws against spells and other magical effects."]},{"name":"Regeneration","entries":["The
+      slaad regains 10 hit points at the start of its turn if it has at least 1 hit
+      point."]}],"action":[{"name":"Multiattack","entries":["The slaad makes three
+      attacks: one with its bite and two with its claws or staff. Alternatively,
+      it uses its Hurl Flame twice."]},{"name":"Bite (Slaad Form Only)","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing
+      damage."]},{"name":"Claw (Slaad Form Only)","entries":["{@atk mw} {@hit 7}
+      to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) slashing damage."]},{"name":"Staff","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning
+      damage."]},{"name":"Hurl Flame","entries":["{@atk rs} {@hit 4} to hit, range
+      60 ft., one target. {@h}10 ({@damage 3d6}) fire damage. The fire ignites flammable
+      objects that aren''t being worn or carried."]}],"variant":[{"type":"variant","name":"Control
+      Gem","entries":["Implanted in the slaad''s brain is a magic control gem. The
+      slaad must obey whoever possesses the gem and is immune to being {@condition
+      charmed} while so controlled.","Certain spells can be used to acquire the gem.
+      If the slaad fails its saving throw against {@spell imprisonment}, the spell
+      can transfer the gem to the spellcaster''s open hand, instead of imprisoning
+      the slaad. A {@spell wish} spell, if cast in the slaad''s presence, can be
+      worded to acquire the gem.","A {@spell greater restoration} spell cast on the
+      slaad destroys the gem without harming the slaad.","Someone who is proficient
+      in Wisdom (Medicine) can remove the gem from an {@condition incapacitated}
+      slaad. Each try requires 1 minute of uninterrupted work and a successful {@dc
+      20} Wisdom (Medicine) check. Each failed attempt deals 22 ({@damage 4d10})
+      psychic damage to the slaad."],"_version":{"name":"Green Slaad (Control Gem)","addAs":"trait"}}],"soundClip":{"type":"internal","path":"bestiary/green-slaad.mp3"},"traitTags":["Magic
+      Resistance","Regeneration","Shapechanger"],"senseTags":["B","D"],"actionTags":["Multiattack"],"languageTags":["OTH","TP"],"damageTags":["B","F","P","S","Y"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"miscTags":["MW"],"conditionInflictSpell":["frightened","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 3e550349637818fa4e716b40475b3f5a

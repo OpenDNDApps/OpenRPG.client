@@ -24,3 +24,18 @@ MonoBehaviour:
     of blood from the target or the target dies. A creature, including the target,
     can use its action to detach the stirge."]}],"environment":["grassland","forest","swamp","hill","urban","desert","coastal","mountain","underdark"],"soundClip":{"type":"internal","path":"bestiary/stirge.mp3"},"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c876218c595b6de354a94265a8435c13
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stirge
+    Content: 
+    AsJson: '{"name":"Stirge","source":"MM","page":284,"srd":true,"basicRules":true,"otherSources":[{"source":"HotDQ"},{"source":"LMoP"},{"source":"PotA"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DIP"},{"source":"BGDIA"},{"source":"RMBRE"},{"source":"IMR"},{"source":"EGW"},{"source":"DoSI"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":2,"formula":"1d4"},"speed":{"walk":10,"fly":40},"str":4,"dex":16,"con":11,"int":2,"wis":8,"cha":6,"senses":["darkvision
+      60 ft."],"passive":9,"cr":"1/8","action":[{"name":"Blood Drain","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d4 + 3}) piercing
+      damage, and the stirge attaches to the target. While attached, the stirge doesn''t
+      attack. Instead, at the start of each of the stirge''s turns, the target loses
+      5 ({@dice 1d4 + 3}) hit points due to blood loss.","The stirge can detach itself
+      by spending 5 feet of its movement. It does so after it drains 10 hit points
+      of blood from the target or the target dies. A creature, including the target,
+      can use its action to detach the stirge."]}],"environment":["grassland","forest","swamp","hill","urban","desert","coastal","mountain","underdark"],"soundClip":{"type":"internal","path":"bestiary/stirge.mp3"},"senseTags":["D"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c876218c595b6de354a94265a8435c13

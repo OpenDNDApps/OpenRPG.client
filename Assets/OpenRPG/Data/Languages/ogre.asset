@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ogre
   AsJson: '{"name":"Ogre","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Blode","Kern"],"script":"Ogre"}'
   DataHash: d40c65382a47635e2c2fed124a34a2d9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ogre
+    Content: 
+    AsJson: '{"name":"Ogre","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Blode","Kern"],"script":"Ogre"}'
+    DataHash: d40c65382a47635e2c2fed124a34a2d9

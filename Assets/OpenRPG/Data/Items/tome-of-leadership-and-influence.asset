@@ -21,3 +21,16 @@ MonoBehaviour:
     does your maximum for that score. The manual then loses its magic, but regains
     it in a century."],"lootTables":["Magic Item Table H"],"hasFluffImages":true}'
   DataHash: 10e49cb643b003ab6b0cbbe44bd985fc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tome of Leadership and Influence
+    Content: 
+    AsJson: '{"name":"Tome of Leadership and Influence","source":"DMG","page":208,"srd":true,"tier":"major","rarity":"very
+      rare","wondrous":true,"weight":5,"ability":{"cha":2},"entries":["This book
+      contains guidelines for influencing and charming others, and its words are
+      charged with magic. If you spend 48 hours over a period of 6 days or fewer
+      studying the book''s contents and practicing its guidelines, your Charisma
+      score increases by 2, as does your maximum for that score. The manual then
+      loses its magic, but regains it in a century."],"lootTables":["Magic Item Table
+      H"],"hasFluffImages":true}'
+    DataHash: 10e49cb643b003ab6b0cbbe44bd985fc

@@ -17,3 +17,11 @@ MonoBehaviour:
     Giant","source":"MM"},"alignment":["N","E"],"ac":[{"ac":16,"from":["{@item bracers
     of defense}"]}],"hasToken":true}'
   DataHash: cff0b3253167dd79d94f1c3a9024096a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cressaro
+    Content: 
+    AsJson: '{"name":"Cressaro","isNpc":true,"source":"SKT","page":193,"_copy":{"name":"Cloud
+      Giant","source":"MM"},"alignment":["N","E"],"ac":[{"ac":16,"from":["{@item
+      bracers of defense}"]}],"hasToken":true}'
+    DataHash: cff0b3253167dd79d94f1c3a9024096a

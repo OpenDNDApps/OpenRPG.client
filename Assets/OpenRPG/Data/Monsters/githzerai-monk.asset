@@ -25,3 +25,19 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning
     damage plus 9 ({@damage 2d8}) psychic damage. This is a magic weapon attack."]}],"soundClip":{"type":"internal","path":"bestiary/githzerai-monk.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["B","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c691d48687ec57f98daa034d9d487cbf
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Githzerai Monk
+    Content: 
+    AsJson: '{"name":"Githzerai Monk","source":"MM","page":161,"size":["M"],"type":{"type":"humanoid","tags":["gith"]},"alignment":["L","N"],"ac":[14],"hp":{"average":38,"formula":"7d8
+      + 7"},"speed":{"walk":30},"str":12,"dex":15,"con":12,"int":13,"wis":14,"cha":10,"save":{"str":"+3","dex":"+4","int":"+3","wis":"+4"},"skill":{"insight":"+4","perception":"+4"},"passive":14,"languages":["Gith"],"cr":"2","spellcasting":[{"name":"Innate
+      Spellcasting (Psionics)","headerEntries":["The githzerai''s innate spellcasting
+      ability is Wisdom. It can innately cast the following spells, requiring no
+      components:"],"will":["{@spell mage hand} (the hand is invisible)"],"daily":{"3e":["{@spell
+      feather fall}","{@spell jump}","{@spell see invisibility}","{@spell shield}"]},"ability":"wis"}],"trait":[{"name":"Psychic
+      Defense","entries":["While the githzerai is wearing no armor and wielding no
+      shield, its AC includes its Wisdom modifier."]}],"action":[{"name":"Multiattack","entries":["The
+      githzerai makes two unarmed strikes."]},{"name":"Unarmed Strike","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning
+      damage plus 9 ({@damage 2d8}) psychic damage. This is a magic weapon attack."]}],"soundClip":{"type":"internal","path":"bestiary/githzerai-monk.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["B","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c691d48687ec57f98daa034d9d487cbf

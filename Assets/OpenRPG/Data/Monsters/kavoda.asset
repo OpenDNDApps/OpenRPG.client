@@ -20,3 +20,14 @@ MonoBehaviour:
     weapon} and a {@item Potion of Hill Giant Strength||potion of giant strength
     (hill)}."]}}}},"alignment":["C","G"],"ac":[{"ac":12,"from":["{@item robes|phb}"]}],"languages":["Common","Gnomish","Terran","Undercommon"]}'
   DataHash: ef385c33c53c1f661c98f8586f0ff3de
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kavoda
+    Content: 
+    AsJson: '{"name":"Kavoda","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Deep
+      Gnome (Svirfneblin)","source":"MM","_trait":{"name":"Deep Gnome","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      gnome","with":"Kavoda","flags":"i"},"trait":{"mode":"prependArr","items":{"name":"Special
+      Equipment","entries":["Kavoda carries a {@item spell scroll} of {@spell magic
+      weapon} and a {@item Potion of Hill Giant Strength||potion of giant strength
+      (hill)}."]}}}},"alignment":["C","G"],"ac":[{"ac":12,"from":["{@item robes|phb}"]}],"languages":["Common","Gnomish","Terran","Undercommon"]}'
+    DataHash: ef385c33c53c1f661c98f8586f0ff3de

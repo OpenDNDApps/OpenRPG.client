@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Black Pudding","source":"TftYP","page":113,"_copy":{"name":"Black
     Pudding","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: f6f86e66dcafef2c8a0e2f5482b07955
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Black Pudding
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Black Pudding","source":"TftYP","page":113,"_copy":{"name":"Black
+      Pudding","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: f6f86e66dcafef2c8a0e2f5482b07955

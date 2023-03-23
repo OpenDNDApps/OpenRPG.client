@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Kothian
   AsJson: '{"name":"Kothian","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Minotaurs"],"script":"Kothian"}'
   DataHash: 1138e7144aa58ae75f2d1c426ae9e34a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kothian
+    Content: 
+    AsJson: '{"name":"Kothian","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Minotaurs"],"script":"Kothian"}'
+    DataHash: 1138e7144aa58ae75f2d1c426ae9e34a

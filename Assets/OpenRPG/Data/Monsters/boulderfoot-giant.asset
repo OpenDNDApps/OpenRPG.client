@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Boulderfoot Giant","source":"PSZ","page":30,"_copy":{"name":"Stone
     Giant","source":"MM"},"hasToken":true}'
   DataHash: c422f65eac6a5da2c76e81c61ab73a2d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Boulderfoot Giant
+    Content: 
+    AsJson: '{"name":"Boulderfoot Giant","source":"PSZ","page":30,"_copy":{"name":"Stone
+      Giant","source":"MM"},"hasToken":true}'
+    DataHash: c422f65eac6a5da2c76e81c61ab73a2d

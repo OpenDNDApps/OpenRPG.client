@@ -20,6 +20,17 @@ MonoBehaviour:
     of firearms.","Being within 5 feet of a hostile creature doesn''t impose disadvantage
     on your ranged attack rolls."]}]}'
   DataHash: 77bf71905b58fc123c261ec105fe3ad5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gunner
+    Content: 
+    AsJson: '{"name":"Gunner","source":"UA2020Feats","page":2,"ability":[{"dex":1}],"weaponProficiencies":[{"firearms":true}],"entries":["You
+      have a quick hand and keen eye when employing firearms, granting you the following
+      benefits:",{"type":"list","items":["You gain proficiency with firearms (see
+      \"{@variantrule Firearms|DMG}\" in the Dungeon Master''s Guide).","You ignore
+      the loading property of firearms.","Being within 5 feet of a hostile creature
+      doesn''t impose disadvantage on your ranged attack rolls."]}]}'
+    DataHash: 77bf71905b58fc123c261ec105fe3ad5
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

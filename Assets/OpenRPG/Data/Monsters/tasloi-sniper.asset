@@ -27,3 +27,21 @@ MonoBehaviour:
     piercing damage."]},{"name":"Shortsword","entries":["{@atk mw} {@hit 6} to hit,
     reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."]}],"senseTags":["D"],"languageTags":["GO","S"],"damageTags":["I","P"],"miscTags":["MW","RNG","RW","THW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 5fc91a9f23c0a410b4ad7e248938dfe7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tasloi Sniper
+    Content: 
+    AsJson: '{"name":"Tasloi Sniper","isNamedCreature":true,"source":"MaBJoV","page":153,"size":["S"],"type":{"type":"humanoid","tags":["goblinoid"]},"alignment":["C","E"],"ac":[14],"hp":{"average":15,"formula":"6d6
+      - 6"},"speed":{"walk":25,"climb":25},"str":8,"dex":18,"con":8,"int":12,"wis":10,"cha":12,"skill":{"stealth":"+8"},"senses":["darkvision
+      60 ft."],"passive":10,"languages":["Goblin","Sylvan","Tasloi"],"cr":"1","trait":[{"name":"Nimble
+      Escape","entries":["The tasloi can take the Disengage or Hide action as a bonus
+      action on each of its turns."]}],"action":[{"name":"Javelin Expert","entries":["Tasloi
+      can use their Dexterity score for attack and damage rolls with a javelin, just
+      as if the javelin had the finesse property."]},{"name":"Blowgun","entries":["{@atk
+      rw} {@hit 6} to hit, range 25/100 ft., one target. {@h}5 (1 + 4) piercing damage
+      and 7 ({@damage 2d6}) poison damage. The target must succeed on a {@dc 9} Constitution
+      saving throw or be {@condition poisoned} for one hour."]},{"name":"Javelin","entries":["{@atk
+      rw} {@hit 6} to hit, range 30/120 ft., one target. {@h}7 ({@damage 1d6 + 4})
+      piercing damage."]},{"name":"Shortsword","entries":["{@atk mw} {@hit 6} to
+      hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."]}],"senseTags":["D"],"languageTags":["GO","S"],"damageTags":["I","P"],"miscTags":["MW","RNG","RW","THW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 5fc91a9f23c0a410b4ad7e248938dfe7

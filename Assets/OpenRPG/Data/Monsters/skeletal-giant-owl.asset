@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Skeletal Giant Owl","source":"IMR","page":33,"_copy":{"name":"Giant
     Owl","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
   DataHash: 229e12eaa3d1e73921eee4a6f8ce8536
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeletal Giant Owl
+    Content: 
+    AsJson: '{"name":"Skeletal Giant Owl","source":"IMR","page":33,"_copy":{"name":"Giant
+      Owl","source":"MM"},"type":"undead","immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"hasToken":true}'
+    DataHash: 229e12eaa3d1e73921eee4a6f8ce8536

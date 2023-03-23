@@ -23,6 +23,20 @@ MonoBehaviour:
     pertinent advice and historical examples. To receive this bonus, the creature
     must be able to understand what you''re saying."]}]}'
   DataHash: 8e6d3325c319abc69876904a0eb6183d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Historian
+    Content: 
+    AsJson: '{"name":"Historian","source":"UAFeatsForSkills","page":2,"ability":[{"int":1}],"skillProficiencies":[{"history":true}],"entries":["Your
+      study of history rewards you with the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill History} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","When you take the {@action Help} action to aid another creature''s ability
+      check, you can make a DC 15 Intelligence ({@skill History}) check. On a success,
+      that creature''s check gains a bonus equal to your proficiency bonus, as you
+      share pertinent advice and historical examples. To receive this bonus, the
+      creature must be able to understand what you''re saying."]}]}'
+    DataHash: 8e6d3325c319abc69876904a0eb6183d
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

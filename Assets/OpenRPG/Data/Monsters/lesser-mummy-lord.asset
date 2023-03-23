@@ -17,3 +17,11 @@ MonoBehaviour:
     Lord","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Special
     Equipment","entries":["The mummy wears a {@item ring of fire resistance}."]}}}},"resist":["fire"],"vulnerable":null,"cr":{"cr":"15","xp":6500},"spellcasting":null,"legendary":null,"damageTagsSpell":[],"spellcastingTags":[],"hasToken":true}'
   DataHash: a5a3d74c88e3e4de94ba49bef42ddb33
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lesser Mummy Lord
+    Content: 
+    AsJson: '{"name":"Lesser Mummy Lord","source":"TftYP","page":224,"_copy":{"name":"Mummy
+      Lord","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Special
+      Equipment","entries":["The mummy wears a {@item ring of fire resistance}."]}}}},"resist":["fire"],"vulnerable":null,"cr":{"cr":"15","xp":6500},"spellcasting":null,"legendary":null,"damageTagsSpell":[],"spellcastingTags":[],"hasToken":true}'
+    DataHash: a5a3d74c88e3e4de94ba49bef42ddb33

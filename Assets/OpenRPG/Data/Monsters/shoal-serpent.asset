@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Shoal Serpent
   AsJson: '{"name":"Shoal Serpent","source":"PSZ","page":26,"_copy":{"name":"Plesiosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"plesiosaurus","with":"serpent"}}},"hasToken":true}'
   DataHash: b8afbf16e7238cfc6010e6daf1a901e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shoal Serpent
+    Content: 
+    AsJson: '{"name":"Shoal Serpent","source":"PSZ","page":26,"_copy":{"name":"Plesiosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"plesiosaurus","with":"serpent"}}},"hasToken":true}'
+    DataHash: b8afbf16e7238cfc6010e6daf1a901e5

@@ -37,3 +37,32 @@ MonoBehaviour:
     ending the effect on itself on a success."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/mind-flayer.mp3"},"traitTags":["Magic
     Resistance"],"senseTags":["SD"],"actionTags":["Tentacles"],"languageTags":["DS","TP","U"],"damageTags":["P","Y"],"spellcastingTags":["I","P"],"miscTags":["AOE","MW"],"conditionInflict":["grappled","stunned"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a941c0c4b5213d34f46de4e46a3736dc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mind Flayer
+    Content: 
+    AsJson: '{"name":"Mind Flayer","alias":["Illithid"],"source":"MM","page":222,"otherSources":[{"source":"TftYP"},{"source":"WDH"},{"source":"WDMM"},{"source":"ERLW"},{"source":"IMR"},{"source":"IDRotF"},{"source":"TCE"},{"source":"SjA"},{"source":"LoX"},{"source":"KftGV"}],"size":["M"],"type":"aberration","alignment":["L","E"],"ac":[{"ac":15,"from":["{@item
+      breastplate|phb}"]}],"hp":{"average":71,"formula":"13d8 + 13"},"speed":{"walk":30},"str":11,"dex":12,"con":12,"int":19,"wis":17,"cha":17,"save":{"int":"+7","wis":"+6","cha":"+6"},"skill":{"arcana":"+7","deception":"+6","insight":"+6","perception":"+6","persuasion":"+6","stealth":"+4"},"senses":["darkvision
+      120 ft."],"passive":16,"languages":["Deep Speech","Undercommon","telepathy
+      120 ft."],"cr":"7","spellcasting":[{"name":"Innate Spellcasting (Psionics)","headerEntries":["The
+      mind flayer''s innate spellcasting ability is Intelligence (spell save {@dc
+      15}). It can innately cast the following spells, requiring no components:"],"will":["{@spell
+      detect thoughts}","{@spell levitate}"],"daily":{"1e":["{@spell dominate monster}","{@spell
+      plane shift} (self only)"]},"ability":"int"}],"trait":[{"name":"Magic Resistance","entries":["The
+      mind flayer has advantage on saving throws against spells and other magical
+      effects."]}],"action":[{"name":"Tentacles","entries":["{@atk mw} {@hit 7} to
+      hit, reach 5 ft., one creature. {@h}15 ({@damage 2d10 + 4}) psychic damage.
+      If the target is Medium or smaller, it is {@condition grappled} (escape {@dc
+      15}) and must succeed on a {@dc 15} Intelligence saving throw or be {@condition
+      stunned} until this grapple ends."]},{"name":"Extract Brain","entries":["{@atk
+      mw} {@hit 7} to hit, reach 5 ft., one {@condition incapacitated} humanoid {@condition
+      grappled} by the mind flayer. {@h}The target takes 55 ({@damage 10d10}) piercing
+      damage. If this damage reduces the target to 0 hit points, the mind flayer
+      kills the target by extracting and devouring its brain."]},{"name":"Mind Blast
+      {@recharge 5}","entries":["The mind flayer magically emits psychic energy in
+      a 60-foot cone. Each creature in that area must succeed on a {@dc 15} Intelligence
+      saving throw or take 22 ({@damage 4d8 + 4}) psychic damage and be {@condition
+      stunned} for 1 minute. A creature can repeat the saving throw at the end of
+      each of its turns, ending the effect on itself on a success."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/mind-flayer.mp3"},"traitTags":["Magic
+      Resistance"],"senseTags":["SD"],"actionTags":["Tentacles"],"languageTags":["DS","TP","U"],"damageTags":["P","Y"],"spellcastingTags":["I","P"],"miscTags":["AOE","MW"],"conditionInflict":["grappled","stunned"],"conditionInflictSpell":["charmed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a941c0c4b5213d34f46de4e46a3736dc

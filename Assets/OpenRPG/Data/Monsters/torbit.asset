@@ -17,3 +17,11 @@ MonoBehaviour:
     assassin","with":"Torbit","flags":"i"}}},"alignment":["C","E"],"traitTags":["Amphibious","Sneak
     Attack"],"languageTags":["OTH","TC","X"],"hasToken":true,"hasFluff":true}'
   DataHash: 1e4b17ccdbbefef79d69496d7971b754
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Torbit
+    Content: 
+    AsJson: '{"name":"Torbit","isNpc":true,"source":"WDMM","page":115,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Bullywug","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Torbit","flags":"i"}}},"alignment":["C","E"],"traitTags":["Amphibious","Sneak
+      Attack"],"languageTags":["OTH","TC","X"],"hasToken":true,"hasFluff":true}'
+    DataHash: 1e4b17ccdbbefef79d69496d7971b754

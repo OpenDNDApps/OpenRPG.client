@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3a16825e9b496288caf46e538dc2fa, type: 3}
   m_Name: skeleton
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Skeleton
   AsJson: '{"name":"Skeleton","source":"DMG","page":282,"size":["M"],"speed":30,"ability":[{"dex":2,"int":-4,"cha":-4}],"darkvision":60,"traitTags":["Improved
     Resting","NPC Race"],"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"entries":[{"type":"entries","name":"Brittle
     Bones","entries":["You are vulnerable to bludgeoning damage."]},{"type":"entries","name":"Undead
@@ -23,3 +23,17 @@ MonoBehaviour:
     light. You can''t discern color in darkness, only shades of gray."],"type":"entries"},{"name":"Languages","entries":["You
     can''t speak, but you can understand the languages you knew in life."],"type":"entries"}]}'
   DataHash: 31977c99f57d06965790d03ed3bbe95a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Skeleton","source":"DMG","page":282,"size":["M"],"speed":30,"ability":[{"dex":2,"int":-4,"cha":-4}],"darkvision":60,"traitTags":["Improved
+      Resting","NPC Race"],"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"entries":[{"type":"entries","name":"Brittle
+      Bones","entries":["You are vulnerable to bludgeoning damage."]},{"type":"entries","name":"Undead
+      Nature","entries":["You are immune to poison damage and {@condition exhaustion},
+      and you can''t be {@condition poisoned}. You don''t require air, food, drink,
+      or sleep."]},{"name":"Darkvision","entries":["You can see in dim light within
+      60 feet of you as if it were bright light, and in darkness as if it were dim
+      light. You can''t discern color in darkness, only shades of gray."],"type":"entries"},{"name":"Languages","entries":["You
+      can''t speak, but you can understand the languages you knew in life."],"type":"entries"}]}'
+    DataHash: 31977c99f57d06965790d03ed3bbe95a

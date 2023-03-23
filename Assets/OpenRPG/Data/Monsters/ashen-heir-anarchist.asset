@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ashen Heir Anarchist
   AsJson: '{"name":"Ashen Heir Anarchist","source":"JttRC","page":158,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"spy","with":"anarchist"}}},"hasToken":true}'
   DataHash: 51946bd46a3e58d522de020f49091639
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ashen Heir Anarchist
+    Content: 
+    AsJson: '{"name":"Ashen Heir Anarchist","source":"JttRC","page":158,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"spy","with":"anarchist"}}},"hasToken":true}'
+    DataHash: 51946bd46a3e58d522de020f49091639

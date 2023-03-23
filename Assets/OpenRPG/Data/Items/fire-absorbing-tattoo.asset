@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: 82a2c621b66b44006fca30d429dbf6a6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fire Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Fire Absorbing Tattoo","source":"TCE","page":119,"resist":["fire"],"detail1":"red","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: 82a2c621b66b44006fca30d429dbf6a6

@@ -20,3 +20,14 @@ MonoBehaviour:
     make a DC 10 Dexterity saving throw, taking {@damage 1d8} bludgeoning damage
     on a failed save, or half as much damage on a successful one."]}'
   DataHash: 7d71a7740326bb62d3e638325c06068c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Explosive Seed
+    Content: 
+    AsJson: '{"name":"Explosive Seed","source":"EGW","page":225,"type":"G","rarity":"none","entries":["This
+      acorn-sized sphere of brass contains a small amount of blasting powder and
+      a clockwork trigger. An explosive seed can be thrown up to 30 feet as an action,
+      detonating on impact. Each creature within 5 feet of the exploding seed must
+      make a DC 10 Dexterity saving throw, taking {@damage 1d8} bludgeoning damage
+      on a failed save, or half as much damage on a successful one."]}'
+    DataHash: 7d71a7740326bb62d3e638325c06068c

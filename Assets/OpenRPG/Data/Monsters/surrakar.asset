@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Surrakar
   AsJson: '{"name":"Surrakar","source":"PSZ","page":26,"_copy":{"name":"Lizardfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"lizardfolk","with":"surrakar"}}},"hasToken":true}'
   DataHash: 6f8e9e88c1fc2e855db4d69aa6136a6b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Surrakar
+    Content: 
+    AsJson: '{"name":"Surrakar","source":"PSZ","page":26,"_copy":{"name":"Lizardfolk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"lizardfolk","with":"surrakar"}}},"hasToken":true}'
+    DataHash: 6f8e9e88c1fc2e855db4d69aa6136a6b

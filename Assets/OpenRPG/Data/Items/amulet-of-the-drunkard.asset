@@ -18,3 +18,12 @@ MonoBehaviour:
     4d4 + 4} hit points when you drink a pint of beer, ale, mead, or wine. Once the
     amulet has restored hit points, it can''t do so again until the next dawn."],"hasFluffImages":true}'
   DataHash: 24ec31b84b4f48b9331cb153d4788b3c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Amulet of the Drunkard
+    Content: 
+    AsJson: '{"name":"Amulet of the Drunkard","source":"EGW","page":265,"rarity":"uncommon","wondrous":true,"entries":["This
+      amulet smells of old, ale-stained wood. While wearing it, you can regain {@dice
+      4d4 + 4} hit points when you drink a pint of beer, ale, mead, or wine. Once
+      the amulet has restored hit points, it can''t do so again until the next dawn."],"hasFluffImages":true}'
+    DataHash: 24ec31b84b4f48b9331cb153d4788b3c

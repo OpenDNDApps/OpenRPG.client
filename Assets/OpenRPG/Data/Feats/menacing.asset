@@ -25,6 +25,22 @@ MonoBehaviour:
     fails, the target can''t be {@condition frightened} by you in this way for 1
     hour."]}]}'
   DataHash: 8c8ab979d49aaa5961f14433e38853d0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Menacing
+    Content: 
+    AsJson: '{"name":"Menacing","source":"UAFeatsForSkills","page":2,"ability":[{"cha":1}],"skillProficiencies":[{"intimidation":true}],"entries":["You
+      become fearsome to others, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Intimidation} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","When you take the {@action Attack} action on your turn, you can replace
+      one attack with an attempt to demoralize one humanoid you can see within 30
+      feet of you that can see and hear you. Make a Charisma ({@skill Intimidation})
+      check contested by the target''s Wisdom ({@skill Insight}) check. If your check
+      succeeds, the target is {@condition frightened} until the end of your next
+      turn. If your check fails, the target can''t be {@condition frightened} by
+      you in this way for 1 hour."]}]}'
+    DataHash: 8c8ab979d49aaa5961f14433e38853d0
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 2
   Prerequisites: []

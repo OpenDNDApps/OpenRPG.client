@@ -23,3 +23,18 @@ MonoBehaviour:
     the tattoo vanishes from your skin.","A spell cast from this tattoo has a spellcasting
     ability modifier of +4, a save DC of 15 and an attack bonus of +7."]}'
   DataHash: 2ea0d2d0fa0b9cb4c79a218c4b757e1a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spellwrought Tattoo (4th Level)
+    Content: 
+    AsJson: '{"name":"Spellwrought Tattoo (4th Level)","source":"UA2020SpellsAndMagicTattoos","page":11,"rarity":"rare","wondrous":true,"tattoo":true,"entries":["This
+      tattoo contains a single spell, wrought on your skin by a magic needle. To
+      use the tattoo, you must hold the needle against your skin where you want the
+      tattoo to appear and speak the command word. The needle turns into the ink
+      that becomes the tattoo, which appears on your skin. Once the tattoo is on
+      your skin, you can cast its spell, requiring no material components. The tattoo
+      glows faintly while you cast the spell and for the spell''s duration. Once
+      the spell ends, the tattoo vanishes from your skin.","A spell cast from this
+      tattoo has a spellcasting ability modifier of +4, a save DC of 15 and an attack
+      bonus of +7."]}'
+    DataHash: 2ea0d2d0fa0b9cb4c79a218c4b757e1a

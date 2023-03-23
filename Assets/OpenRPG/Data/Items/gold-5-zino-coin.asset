@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold 5-Zino Coin
   AsJson: '{"name":"Gold 5-Zino Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":500}'
   DataHash: db6a74c4be1180b7c92bc89c60b08644
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold 5-Zino Coin
+    Content: 
+    AsJson: '{"name":"Gold 5-Zino Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":500}'
+    DataHash: db6a74c4be1180b7c92bc89c60b08644

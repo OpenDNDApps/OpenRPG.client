@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade breastplate (River Heralds)
   AsJson: '{"name":"Jade breastplate (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: e2372a843e8ff1456dbc49a142994571
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade breastplate (River Heralds)
+    Content: 
+    AsJson: '{"name":"Jade breastplate (River Heralds)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: e2372a843e8ff1456dbc49a142994571

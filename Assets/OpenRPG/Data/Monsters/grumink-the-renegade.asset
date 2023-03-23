@@ -17,3 +17,11 @@ MonoBehaviour:
     assassin","with":"Grumink","flags":"i"}}},"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["C","E"],"senses":["darkvision
     60 ft."],"senseTags":["D"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 9e8d7cdde6f547f131aa815852ad10d2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grumink the Renegade
+    Content: 
+    AsJson: '{"name":"Grumink the Renegade","isNpc":true,"source":"PotA","page":210,"_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Grumink","flags":"i"}}},"type":{"type":"humanoid","tags":["dwarf"]},"alignment":["C","E"],"senses":["darkvision
+      60 ft."],"senseTags":["D"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 9e8d7cdde6f547f131aa815852ad10d2

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Hezrou","source":"TftYP","page":113,"_copy":{"name":"Hezrou","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 26e54d25696c5d6ef8f8972ac716bed7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Hezrou
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Hezrou","source":"TftYP","page":113,"_copy":{"name":"Hezrou","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 26e54d25696c5d6ef8f8972ac716bed7

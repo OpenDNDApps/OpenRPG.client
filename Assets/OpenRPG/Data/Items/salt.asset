@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Salt
   AsJson: '{"name":"Salt","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":5}'
   DataHash: 8266f30e62fffcdfc63b0e9a3b43fb2d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Salt
+    Content: 
+    AsJson: '{"name":"Salt","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":5}'
+    DataHash: 8266f30e62fffcdfc63b0e9a3b43fb2d

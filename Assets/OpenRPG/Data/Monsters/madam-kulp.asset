@@ -17,3 +17,11 @@ MonoBehaviour:
     Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the noble","with":"Madam
     Kulp","flags":"i"}}},"alignment":["N"],"hasToken":true}'
   DataHash: 3a28e43f707a37e832898eb395f0b93b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Madam Kulp
+    Content: 
+    AsJson: '{"name":"Madam Kulp","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":27,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the noble","with":"Madam
+      Kulp","flags":"i"}}},"alignment":["N"],"hasToken":true}'
+    DataHash: 3a28e43f707a37e832898eb395f0b93b

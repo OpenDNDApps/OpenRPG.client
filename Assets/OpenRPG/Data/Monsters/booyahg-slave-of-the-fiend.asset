@@ -18,3 +18,12 @@ MonoBehaviour:
     warlock","with":"The goblin"},{"mode":"replaceTxt","replace":"the warlock","with":"the
     goblin"}]}},"hasToken":true,"hasFluff":true}'
   DataHash: 11c866140727d3411bd011cc346008d0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Booyahg Slave of the Fiend
+    Content: 
+    AsJson: '{"name":"Booyahg Slave of the Fiend","shortName":"Goblin","source":"VGM","page":42,"_copy":{"name":"Warlock
+      of the Fiend","source":"VGM","_trait":{"name":"Goblin","source":"DMG"},"_mod":{"*":[{"mode":"replaceTxt","replace":"The
+      warlock","with":"The goblin"},{"mode":"replaceTxt","replace":"the warlock","with":"the
+      goblin"}]}},"hasToken":true,"hasFluff":true}'
+    DataHash: 11c866140727d3411bd011cc346008d0

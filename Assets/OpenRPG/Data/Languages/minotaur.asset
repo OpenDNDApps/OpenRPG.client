@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Minotaur
   AsJson: '{"name":"Minotaur","source":"MOT","page":9,"typicalSpeakers":["Minotaurs"],"script":"Minotaur"}'
   DataHash: 2d7941282bd4d4656f090d809160d3c1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Minotaur
+    Content: 
+    AsJson: '{"name":"Minotaur","source":"MOT","page":9,"typicalSpeakers":["Minotaurs"],"script":"Minotaur"}'
+    DataHash: 2d7941282bd4d4656f090d809160d3c1

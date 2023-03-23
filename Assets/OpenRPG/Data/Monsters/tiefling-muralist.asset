@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Tiefling Muralist
   AsJson: '{"name":"Tiefling Muralist","source":"IMR","page":17,"_copy":{"name":"Cultist","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"cultist","with":"muralist"}}},"languageTags":["C","I","X"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 24deb6af1291fd2227733462231fdfae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tiefling Muralist
+    Content: 
+    AsJson: '{"name":"Tiefling Muralist","source":"IMR","page":17,"_copy":{"name":"Cultist","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"cultist","with":"muralist"}}},"languageTags":["C","I","X"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 24deb6af1291fd2227733462231fdfae

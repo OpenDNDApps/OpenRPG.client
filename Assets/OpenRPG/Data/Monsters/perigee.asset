@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Perigee","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":168,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     deva","with":"Perigee","flags":"i"}}},"hasToken":true}'
   DataHash: 6c17750f43949532e627ef3bead79208
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Perigee
+    Content: 
+    AsJson: '{"name":"Perigee","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":168,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      deva","with":"Perigee","flags":"i"}}},"hasToken":true}'
+    DataHash: 6c17750f43949532e627ef3bead79208

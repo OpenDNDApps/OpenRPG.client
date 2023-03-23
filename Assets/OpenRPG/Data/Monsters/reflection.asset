@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reflection","source":"TCE","page":158,"_copy":{"name":"Shadow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shadow","with":"reflection"}}},"type":"fey","resist":["acid","cold","fire","lightning","thunder",{"resist":["piercing","slashing"],"note":"from
     nonmagical attacks","cond":true}],"vulnerable":["bludgeoning"],"hasToken":true}'
   DataHash: d20fe9885080dd601398e9f378374fdd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reflection
+    Content: 
+    AsJson: '{"name":"Reflection","source":"TCE","page":158,"_copy":{"name":"Shadow","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"shadow","with":"reflection"}}},"type":"fey","resist":["acid","cold","fire","lightning","thunder",{"resist":["piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"vulnerable":["bludgeoning"],"hasToken":true}'
+    DataHash: d20fe9885080dd601398e9f378374fdd

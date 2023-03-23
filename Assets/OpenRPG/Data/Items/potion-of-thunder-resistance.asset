@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Thunder Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["thunder"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: 5b6f576c3deec3cc9fcda62bc0ad6e77
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Thunder Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Thunder Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["thunder"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: 5b6f576c3deec3cc9fcda62bc0ad6e77

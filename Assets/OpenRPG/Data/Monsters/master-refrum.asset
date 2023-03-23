@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Master Refrum","isNpc":true,"source":"GoS","page":165,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     priest","with":"Refrum","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 5aa9862c8cf596be6420af9ef791cf0a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Master Refrum
+    Content: 
+    AsJson: '{"name":"Master Refrum","isNpc":true,"source":"GoS","page":165,"_copy":{"name":"Priest","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      priest","with":"Refrum","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 5aa9862c8cf596be6420af9ef791cf0a

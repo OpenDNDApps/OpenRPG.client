@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Maegla Tarnlar
   AsJson: '{"name":"Maegla Tarnlar","isNpc":true,"source":"PotA","page":25,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: f27128dcf0cf584728bca3ba84403a99
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Maegla Tarnlar
+    Content: 
+    AsJson: '{"name":"Maegla Tarnlar","isNpc":true,"source":"PotA","page":25,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: f27128dcf0cf584728bca3ba84403a99

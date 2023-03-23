@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Tosh Starling (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Tosh Starling","flags":"i"}}},"type":{"type":"humanoid","tags":["orc"]},"alignment":["N"],"hasToken":true}'
   DataHash: 2df3ad67d64be7c89cc4045c2fa9e886
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tosh Starling (Levels 5-8)
+    Content: 
+    AsJson: '{"name":"Tosh Starling (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Tosh Starling","flags":"i"}}},"type":{"type":"humanoid","tags":["orc"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 2df3ad67d64be7c89cc4045c2fa9e886

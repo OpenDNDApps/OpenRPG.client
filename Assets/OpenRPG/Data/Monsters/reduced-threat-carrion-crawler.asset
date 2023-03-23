@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Carrion Crawler","source":"TftYP","page":113,"_copy":{"name":"Carrion
     Crawler","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: d4b662f1565420414a32c37c5f6ae1df
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Carrion Crawler
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Carrion Crawler","source":"TftYP","page":113,"_copy":{"name":"Carrion
+      Crawler","source":"MM","_trait":{"name":"Reduced Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: d4b662f1565420414a32c37c5f6ae1df

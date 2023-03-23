@@ -36,3 +36,30 @@ MonoBehaviour:
     a simple wooden structure","10"],["Design a complex wooden structure","15"],["Find
     a weak point in a wooden wall","15"],["Pry apart a door","20"]]}]}'
   DataHash: 639357f992dd5ee46046f14c96feb451
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carpenter's Tools
+    Content: 
+    AsJson: '{"name":"Carpenter''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":80}],"type":"AT","rarity":"none","weight":6,"value":800,"additionalEntries":["Skill
+      at carpentry enables a character to construct wooden structures. A carpenter
+      can build a house, a shack, a wooden cabinet, or similar items.",{"type":"entries","name":"Components","entries":["Carpenter''s
+      tools include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze,
+      a plane, and a chisel."]},{"type":"entries","name":"History","entries":["This
+      tool proficiency aids you in identifying the use and the origin of wooden buildings
+      and other large wooden objects."]},{"type":"entries","name":"Investigation","entries":["You
+      gain additional insight when inspecting areas within wooden structures, because
+      you know tricks of construction that can conceal areas from discovery."]},{"type":"entries","name":"Perception","entries":["You
+      can spot irregularities in wooden walls or floors, making it easier to find
+      trap doors and secret passages."]},{"type":"entries","name":"Stealth","entries":["You
+      can quickly assess the weak spots in a wooden floor, making it easier to avoid
+      the places that creak and groan when they''re stepped on."]},{"type":"entries","name":"Fortify","entries":["With
+      1 minute of work and raw materials, you can make a door or window harder to
+      force open. Increase the DC needed to open it by 5."]},{"type":"entries","name":"Temporary
+      Shelter","entries":["As part of a long rest, you can construct a lean-to or
+      a similar shelter to keep your group dry and in the shade for the duration
+      of the rest. Because it was fashioned quickly from whatever wood was available,
+      the shelter collapses {@dice 1d3} days after being assembled."]},{"type":"table","caption":"Carpenter''s
+      Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Build
+      a simple wooden structure","10"],["Design a complex wooden structure","15"],["Find
+      a weak point in a wooden wall","15"],["Pry apart a door","20"]]}]}'
+    DataHash: 639357f992dd5ee46046f14c96feb451

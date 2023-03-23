@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Aquamarine","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
     transparent pale blue-green gemstone."]}'
   DataHash: fb6ecc45a53bec5af93f873a1795321e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aquamarine
+    Content: 
+    AsJson: '{"name":"Aquamarine","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+      transparent pale blue-green gemstone."]}'
+    DataHash: fb6ecc45a53bec5af93f873a1795321e

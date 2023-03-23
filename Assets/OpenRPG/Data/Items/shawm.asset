@@ -17,3 +17,11 @@ MonoBehaviour:
     double-reed instrument similar to an oboe or a bassoon, popular with gnomes,
     who have developed some bellows-powered versions."]}'
   DataHash: 5fa619d9961f16e3306a095a52c5199b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shawm
+    Content: 
+    AsJson: '{"name":"Shawm","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      double-reed instrument similar to an oboe or a bassoon, popular with gnomes,
+      who have developed some bellows-powered versions."]}'
+    DataHash: 5fa619d9961f16e3306a095a52c5199b

@@ -21,3 +21,15 @@ MonoBehaviour:
     your next turn as a {@creature zombie} that is permanently under your command,
     following your verbal orders to the best of its ability."],"damageInflict":["necrotic"],"savingThrow":["constitution"],"miscTags":["PRM","SGT","SMN"],"areaTags":["ST"]}'
   DataHash: b8a8667ba78db4db76bac445b5b160be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Finger of Death
+    Content: 
+    AsJson: '{"name":"Finger of Death","source":"PHB","page":241,"srd":true,"basicRules":true,"level":7,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":60}},"components":{"v":true,"s":true},"duration":[{"type":"instant"}],"entries":["You
+      send negative energy coursing through a creature that you can see within range,
+      causing it searing pain. The target must make a Constitution saving throw.
+      It takes {@damage 7d8 + 30} necrotic damage on a failed save, or half as much
+      damage on a successful one.","A humanoid killed by this spell rises at the
+      start of your next turn as a {@creature zombie} that is permanently under your
+      command, following your verbal orders to the best of its ability."],"damageInflict":["necrotic"],"savingThrow":["constitution"],"miscTags":["PRM","SGT","SMN"],"areaTags":["ST"]}'
+    DataHash: b8a8667ba78db4db76bac445b5b160be

@@ -37,3 +37,31 @@ MonoBehaviour:
     hit, reach 5 ft., one creature. {@h}{@damage 1d6 + 3 + summonSpellLevel} psychic
     damage."]}],"traitTags":["Regeneration"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["DS"],"damageTags":["S","Y"],"miscTags":["MW"],"hasToken":true}'
   DataHash: e1a6b0f81020e69591a2a716906dd9f7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aberrant Spirit
+    Content: 
+    AsJson: '{"name":"Aberrant Spirit","source":"UA2020SpellsAndMagicTattoos","page":3,"summonedBySpell":"Summon
+      Aberrant Spirit|UA2020SpellsAndMagicTattoos","summonedBySpellLevel":4,"size":["M"],"type":"aberration","alignment":["N","E"],"ac":[{"special":"11
+      + the level of the spell (natural armor)"}],"hp":{"special":"equal the aberration''s
+      Constitution modifier + your spellcasting ability modifier + ten times the
+      spell''s level"},"speed":{"walk":30,"fly":{"number":30,"condition":"(beholderkin
+      only; hover)"},"canHover":true},"str":16,"dex":10,"con":15,"int":16,"wis":10,"cha":6,"senses":["darkvision
+      60 ft."],"passive":10,"immune":["psychic"],"languages":["Deep Speech","understands
+      the languages you speak"],"trait":[{"name":"Regeneration (Slaadi Only)","entries":["The
+      aberration regains 10 hit points at the start of its turn if it has at least
+      1 hit point."]},{"name":"Whispering Aura (Star Spawn Only)","entries":["At
+      the start of each of the aberration''s turns, each creature within 5 feet of
+      it must succeed on a Wisdom saving throw against your spell save DC or take
+      {@damage 3d6} psychic damage, provided that the aberration isn''t {@condition
+      incapacitated}."]}],"action":[{"name":"Multiattack","entries":["The aberration
+      makes a number of attacks equal to half this spell''s level (rounded down)."]},{"name":"Eye
+      Ray (Beholderkin Only)","entries":["{@atk rs} {@hit 3 + summonSpellLevel} to
+      hit, range 30 ft., one creature. {@h}{@damage 1d8 + 3 + summonSpellLevel} psychic
+      damage."]},{"name":"Claws (Slaadi Only)","entries":["{@atk mw} {@hit 3 + summonSpellLevel}
+      to hit, reach 5 ft., one target. {@h}{@damage 1d10 + 3 + summonSpellLevel}
+      slashing damage. If the target is a creature, it can''t regain hit points until
+      the start of the aberration''s next turn."]},{"name":"Psychic Slam (Star Spawn
+      Only)","entries":["{@atk ms} {@hit 3 + summonSpellLevel} to hit, reach 5 ft.,
+      one creature. {@h}{@damage 1d6 + 3 + summonSpellLevel} psychic damage."]}],"traitTags":["Regeneration"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["DS"],"damageTags":["S","Y"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: e1a6b0f81020e69591a2a716906dd9f7

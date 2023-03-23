@@ -17,3 +17,11 @@ MonoBehaviour:
     Blight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"blight","with":"blight
     totem"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 548d723a77bda720e453ecba6a4fb3e1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blight Totem Elemental
+    Content: 
+    AsJson: '{"name":"Blight Totem Elemental","source":"PSX","page":38,"_copy":{"name":"Vine
+      Blight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"blight","with":"blight
+      totem"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 548d723a77bda720e453ecba6a4fb3e1

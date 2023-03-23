@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Eye patch with a mock eye set in blue sapphire and moonstone
     (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 0b1b102237cbeb4981e6d999852d8b6d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eye patch with a mock eye set in blue sapphire and moonstone (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Eye patch with a mock eye set in blue sapphire and moonstone
+      (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 0b1b102237cbeb4981e6d999852d8b6d

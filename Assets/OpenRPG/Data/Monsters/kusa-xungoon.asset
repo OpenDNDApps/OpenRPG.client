@@ -17,3 +17,11 @@ MonoBehaviour:
     noble","with":"Kusa","flags":"i"}}},"alignment":["L","G"],"traitTags":["Pack
     Tactics","Sunlight Sensitivity"],"hasToken":true}'
   DataHash: 7f77316b25c4e1def41d94cdf019f8ae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kusa Xungoon
+    Content: 
+    AsJson: '{"name":"Kusa Xungoon","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":20,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Kobold","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      noble","with":"Kusa","flags":"i"}}},"alignment":["L","G"],"traitTags":["Pack
+      Tactics","Sunlight Sensitivity"],"hasToken":true}'
+    DataHash: 7f77316b25c4e1def41d94cdf019f8ae

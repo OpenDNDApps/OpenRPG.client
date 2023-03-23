@@ -23,3 +23,17 @@ MonoBehaviour:
     a {@creature giant wasp}."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"resist":["poison"],"attachedSpells":["polymorph","insect
     plague"]}'
   DataHash: f1bf50a58ab27437987e3391093ca2fc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Verminshroud (Awakened)
+    Content: 
+    AsJson: '{"name":"Verminshroud (Awakened)","source":"EGW","_copy":{"name":"Verminshroud
+      (Dormant)","source":"EGW","_mod":{"entries":{"mode":"insertArr","index":-1,"items":{"type":"entries","name":"Awakened","entries":["While
+      wearing the Verminshroud in its awakened state, you gain the following benefits:",{"type":"list","items":["You
+      have resistance to poison damage.","You can use an action to cast the {@spell
+      insect plague} spell (save DC 15) from the Verminshroud, requiring no material
+      components. This property can''t be used again until the next dawn.","When
+      you cast the {@spell polymorph} spell using the Verminshroud, you can transform
+      into a {@creature giant wasp}."]}]}}},"_preserve":{"page":true,"hasFluffImages":true}},"resist":["poison"],"attachedSpells":["polymorph","insect
+      plague"]}'
+    DataHash: f1bf50a58ab27437987e3391093ca2fc

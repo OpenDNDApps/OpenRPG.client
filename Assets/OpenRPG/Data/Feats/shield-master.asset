@@ -25,6 +25,22 @@ MonoBehaviour:
     to take no damage if you succeed on the saving throw, interposing your shield
     between yourself and the source of the effect."]}]}'
   DataHash: 00bdf4d8dc644a0cff6fca819f0fd3cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shield Master
+    Content: 
+    AsJson: '{"name":"Shield Master","source":"PHB","page":170,"entries":["You use
+      shields not just for protection but also for offense. You gain the following
+      benefits while you are wielding a {@item shield|phb}:",{"type":"list","items":["If
+      you take the {@action Attack} action on your turn, you can use a bonus action
+      to try to {@action shove} a creature within 5 feet of you with your shield.","If
+      you aren''t {@condition incapacitated}, you can add your shield''s AC bonus
+      to any Dexterity saving throw you make against a spell or other harmful effect
+      that targets only you.","If you are subjected to an effect that allows you
+      to make a Dexterity saving throw to take only half damage, you can use your
+      reaction to take no damage if you succeed on the saving throw, interposing
+      your shield between yourself and the source of the effect."]}]}'
+    DataHash: 00bdf4d8dc644a0cff6fca819f0fd3cb
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 170
   Prerequisites: []

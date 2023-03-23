@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Augen Trust (Spy)","source":"EGW","page":203,"_copy":{"name":"Variant
     Criminal (Spy)","source":"PHB"},"hasFluff":true}'
   DataHash: d095cd430e19cf8db3fe049e22cfb98e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Augen Trust (Spy)
+    Content: 
+    AsJson: '{"name":"Augen Trust (Spy)","source":"EGW","page":203,"_copy":{"name":"Variant
+      Criminal (Spy)","source":"PHB"},"hasFluff":true}'
+    DataHash: d095cd430e19cf8db3fe049e22cfb98e

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gregir Fendelsohn (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Thug","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     thug","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
   DataHash: 1a9abbfda1c8575e95bdef0d41373624
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gregir Fendelsohn (Levels 5-8)
+    Content: 
+    AsJson: '{"name":"Gregir Fendelsohn (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Thug","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      thug","with":"Gregir Fendelsohn","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
+    DataHash: 1a9abbfda1c8575e95bdef0d41373624

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Wiri Fleagol","isNpc":true,"source":"SKT","page":176,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Rock
     Gnome","source":"PHB"}},"alignment":["C","G"],"senseTags":["D"],"languageTags":["C","G","X"],"hasToken":true}'
   DataHash: f736188f86010d1ab3a185946e546d0f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wiri Fleagol
+    Content: 
+    AsJson: '{"name":"Wiri Fleagol","isNpc":true,"source":"SKT","page":176,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Rock
+      Gnome","source":"PHB"}},"alignment":["C","G"],"senseTags":["D"],"languageTags":["C","G","X"],"hasToken":true}'
+    DataHash: f736188f86010d1ab3a185946e546d0f

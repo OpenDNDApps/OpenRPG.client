@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d3 + 2}) bludgeoning
     damage."]}],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: 7f6ad3ba14498d3d28948d66e412fa2b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scufflecup Teacup
+    Content: 
+    AsJson: '{"name":"Scufflecup Teacup","source":"SCC","page":159,"size":["T"],"type":"construct","alignment":["U"],"ac":[12],"hp":{"average":5,"formula":"2d4"},"speed":{"walk":20},"str":4,"dex":14,"con":10,"int":3,"wis":3,"cha":1,"senses":["blindsight
+      30 ft. (blind beyond this radius)"],"passive":6,"immune":["poison"],"conditionImmune":["blinded","exhaustion","poisoned"],"cr":"0","action":[{"name":"Slam","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d3 + 2}) bludgeoning
+      damage."]}],"senseTags":["B"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: 7f6ad3ba14498d3d28948d66e412fa2b

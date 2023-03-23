@@ -17,3 +17,11 @@ MonoBehaviour:
     coin, about two inches square with a hold large enough for a {@item nib|wdh}
     to fit in (1 taol = 200 {@item nib|wdh|nibs})"]}'
   DataHash: ce73e56342b02911f935e5f94d987670
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Taol
+    Content: 
+    AsJson: '{"name":"Taol","source":"WDH","page":169,"type":"$","rarity":"none","value":200,"entries":["Brass
+      coin, about two inches square with a hold large enough for a {@item nib|wdh}
+      to fit in (1 taol = 200 {@item nib|wdh|nibs})"]}'
+    DataHash: ce73e56342b02911f935e5f94d987670

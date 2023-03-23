@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Emmek Frewn
   AsJson: '{"name":"Emmek Frewn","isNpc":true,"source":"WDH","page":42,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: ed444563df2249ee45ee9c82e3d6b3d7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Emmek Frewn
+    Content: 
+    AsJson: '{"name":"Emmek Frewn","isNpc":true,"source":"WDH","page":42,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: ed444563df2249ee45ee9c82e3d6b3d7

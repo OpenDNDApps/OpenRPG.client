@@ -12,11 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ps-z
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Plane Shift: Zendikar'
   AsJson: '{"name":"Plane Shift: Zendikar","id":"PS-Z","source":"PSZ","group":"supplement-alt","coverUrl":"img/covers/PSZ.png","published":"2016-04-27","author":"Wizards
     RPG Team","contents":[{"name":"Introduction","headers":["The World"]},{"name":"Races
     of Zendikar"},{"name":"A Zendikar Bestiary"}]}'
   DataHash: 6ead1a9ba84661818553489a85e5d9e9
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Plane Shift: Zendikar","id":"PS-Z","source":"PSZ","group":"supplement-alt","coverUrl":"img/covers/PSZ.png","published":"2016-04-27","author":"Wizards
+      RPG Team","contents":[{"name":"Introduction","headers":["The World"]},{"name":"Races
+      of Zendikar"},{"name":"A Zendikar Bestiary"}]}'
+    DataHash: 6ead1a9ba84661818553489a85e5d9e9
+  CoverURL: img/covers/PSZ.png
+  Published: 2016-04-27
+  Author: Wizards RPG Team

@@ -18,3 +18,12 @@ MonoBehaviour:
     on you if your Strength without the belt is equal to or greater than the belt''s
     score."],"lootTables":["Magic Item Table I"]}'
   DataHash: 564341f6a666d5964ee862e109c54eba
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Belt of Cloud Giant Strength
+    Content: 
+    AsJson: '{"name":"Belt of Cloud Giant Strength","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"legendary","reqAttune":true,"wondrous":true,"ability":{"static":{"str":27}},"entries":["While
+      wearing this belt, your Strength score changes to 27. The item has no effect
+      on you if your Strength without the belt is equal to or greater than the belt''s
+      score."],"lootTables":["Magic Item Table I"]}'
+    DataHash: 564341f6a666d5964ee862e109c54eba

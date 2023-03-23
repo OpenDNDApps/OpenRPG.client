@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Painted gold war mask
   AsJson: '{"name":"Painted gold war mask","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 004a18761e4e3492fbf9fff713c95bac
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Painted gold war mask
+    Content: 
+    AsJson: '{"name":"Painted gold war mask","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 004a18761e4e3492fbf9fff713c95bac

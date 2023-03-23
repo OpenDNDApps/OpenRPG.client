@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Lightning Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["lightning"],"detail1":"citrine","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: f06e4d055ad1cb33922a8dc1256c6735
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Lightning Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Lightning Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["lightning"],"detail1":"citrine","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: f06e4d055ad1cb33922a8dc1256c6735

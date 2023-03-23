@@ -21,3 +21,16 @@ MonoBehaviour:
     grapple ends, the target is {@condition restrained}, and the medusa can't constrict
     another target.\"]}}]}},\"damageTags\":[\"B\",\"I\",\"P\"],\"hasToken\":true,\"hasFluff\":true}"
   DataHash: 9cac43d777eb87a5592860050dbbae73
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Medusa
+    Content: 
+    AsJson: "{\"name\":\"Medusa\",\"source\":\"MOT\",\"page\":206,\"otherSources\":[{\"source\":\"CM\"}],\"_copy\":{\"name\":\"Medusa\",\"source\":\"MM\",\"_mod\":{\"action\":[{\"mode\":\"replaceArr\",\"replace\":\"Multiattack\",\"items\":{\"name\":\"Multiattack\",\"entries\":[\"The
+      medusa makes either three melee attacks\u2014one with its snake hair, one to
+      constrict, and one with its shortsword\u2014or two ranged attacks with its
+      longbow.\"]}},{\"mode\":\"appendArr\",\"items\":{\"name\":\"Constrict\",\"entries\":[\"{@atk
+      mw} {@hit 3} to hit, reach 10 ft., one target. {@h}7 ({@damage 2d6}) bludgeoning
+      damage, and the target is {@condition grappled} (escape {@dc 11}). Until this
+      grapple ends, the target is {@condition restrained}, and the medusa can't constrict
+      another target.\"]}}]}},\"damageTags\":[\"B\",\"I\",\"P\"],\"hasToken\":true,\"hasFluff\":true}"
+    DataHash: 9cac43d777eb87a5592860050dbbae73

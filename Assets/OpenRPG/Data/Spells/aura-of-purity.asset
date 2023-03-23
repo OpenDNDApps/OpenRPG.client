@@ -22,3 +22,16 @@ MonoBehaviour:
     {@condition frightened}, {@condition paralyzed}, {@condition poisoned}, and {@condition
     stunned}."],"damageResist":["poison"],"areaTags":["S"]}'
   DataHash: f609848f8522a473f80e222423c9cfa1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aura of Purity
+    Content: 
+    AsJson: '{"name":"Aura of Purity","source":"PHB","page":216,"level":4,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["Purifying
+      energy radiates from you in an aura with a 30-foot radius. Until the spell
+      ends, the aura moves with you, centered on you. Each nonhostile creature in
+      the aura (including you) can''t become diseased, has resistance to poison damage,
+      and has advantage on saving throws against effects that cause any of the following
+      conditions: {@condition blinded}, {@condition charmed}, {@condition deafened},
+      {@condition frightened}, {@condition paralyzed}, {@condition poisoned}, and
+      {@condition stunned}."],"damageResist":["poison"],"areaTags":["S"]}'
+    DataHash: f609848f8522a473f80e222423c9cfa1

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Fish","source":"GoS","page":224,"_copy":{"name":"Quipper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"quipper","with":"fish","flags":"i"},"trait":{"mode":"removeArr","names":"Blood
     Frenzy"}}},"action":null,"damageTags":[],"miscTags":[],"hasToken":true}'
   DataHash: 42143fcdc7a39cc86b1bfe7e2c427fbc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fish
+    Content: 
+    AsJson: '{"name":"Fish","source":"GoS","page":224,"_copy":{"name":"Quipper","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"quipper","with":"fish","flags":"i"},"trait":{"mode":"removeArr","names":"Blood
+      Frenzy"}}},"action":null,"damageTags":[],"miscTags":[],"hasToken":true}'
+    DataHash: 42143fcdc7a39cc86b1bfe7e2c427fbc

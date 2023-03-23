@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Saddlebags
   AsJson: '{"name":"Saddlebags","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":8,"value":400}'
   DataHash: b9da09803c1d90ce90cc50dccb47eb3c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Saddlebags
+    Content: 
+    AsJson: '{"name":"Saddlebags","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TAH","rarity":"none","weight":8,"value":400}'
+    DataHash: b9da09803c1d90ce90cc50dccb47eb3c

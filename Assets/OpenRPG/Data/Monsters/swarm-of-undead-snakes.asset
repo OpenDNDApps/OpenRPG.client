@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Swarm of Undead Snakes","source":"EGW","page":247,"_copy":{"name":"Swarm
     of Poisonous Snakes","source":"MM","_mod":{"conditionImmune":{"mode":"appendArr","items":"poisoned"}}},"type":{"type":"undead","swarmSize":"T"},"immune":["poison"],"hasToken":true}'
   DataHash: 3201a24e1473529fbea33b87dd2353b1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Swarm of Undead Snakes
+    Content: 
+    AsJson: '{"name":"Swarm of Undead Snakes","source":"EGW","page":247,"_copy":{"name":"Swarm
+      of Poisonous Snakes","source":"MM","_mod":{"conditionImmune":{"mode":"appendArr","items":"poisoned"}}},"type":{"type":"undead","swarmSize":"T"},"immune":["poison"],"hasToken":true}'
+    DataHash: 3201a24e1473529fbea33b87dd2353b1

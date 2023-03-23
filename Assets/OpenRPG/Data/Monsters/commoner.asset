@@ -19,3 +19,13 @@ MonoBehaviour:
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
     damage."]}],"environment":["arctic","desert","coastal","grassland","hill","urban","forest"],"soundClip":{"type":"internal","path":"bestiary/commoner.mp3"},"altArt":[{"name":"Commoner","source":"EGW"}],"languageTags":["C","X"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
   DataHash: d092ebf43bd74a0651575db154a6e9bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Commoner
+    Content: 
+    AsJson: '{"name":"Commoner","source":"MM","page":345,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"HotDQ"},{"source":"LMoP"},{"source":"PotA"},{"source":"RoT"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SLW"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"RMBRE"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"TCE"},{"source":"CM"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"LoX"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":{"type":"humanoid","tags":["any
+      race"]},"alignment":["A"],"ac":[10],"hp":{"average":4,"formula":"1d8"},"speed":{"walk":30},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"languages":["any
+      one language (usually Common)"],"cr":"0","action":[{"name":"Club","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning
+      damage."]}],"environment":["arctic","desert","coastal","grassland","hill","urban","forest"],"soundClip":{"type":"internal","path":"bestiary/commoner.mp3"},"altArt":[{"name":"Commoner","source":"EGW"}],"languageTags":["C","X"],"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: d092ebf43bd74a0651575db154a6e9bb

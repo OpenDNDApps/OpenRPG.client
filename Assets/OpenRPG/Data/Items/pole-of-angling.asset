@@ -18,3 +18,12 @@ MonoBehaviour:
     a fishing pole with a hook, a line, and a reel. Speaking the command word again
     changes the fishing pole back into a normal 10-foot pole."]}'
   DataHash: 75bc45bafbe096a0259b8ea6685ec293
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pole of Angling
+    Content: 
+    AsJson: '{"name":"Pole of Angling","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+      holding this 10-foot pole, you can speak a command word and transform it into
+      a fishing pole with a hook, a line, and a reel. Speaking the command word again
+      changes the fishing pole back into a normal 10-foot pole."]}'
+    DataHash: 75bc45bafbe096a0259b8ea6685ec293

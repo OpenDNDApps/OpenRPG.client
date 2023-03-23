@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jelayne","isNpc":true,"isNamedCreature":true,"source":"OoW","page":84,"_copy":{"name":"Skeleton","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     skeleton","with":"Jelayne","flags":"i"}}},"int":14,"cha":14,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
   DataHash: e8ea39dd29f786d671b8e193304b36a7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jelayne
+    Content: 
+    AsJson: '{"name":"Jelayne","isNpc":true,"isNamedCreature":true,"source":"OoW","page":84,"_copy":{"name":"Skeleton","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      skeleton","with":"Jelayne","flags":"i"}}},"int":14,"cha":14,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
+    DataHash: e8ea39dd29f786d671b8e193304b36a7

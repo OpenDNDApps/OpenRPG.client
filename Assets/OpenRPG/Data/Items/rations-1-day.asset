@@ -17,3 +17,11 @@ MonoBehaviour:
     consist of dry foods suitable for extended travel, including jerky, dried fruit,
     hardtack, and nuts."]}'
   DataHash: 7e38c6d1fc3817dce645f348544f1365
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rations (1 day)
+    Content: 
+    AsJson: '{"name":"Rations (1 day)","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":50,"entries":["Rations
+      consist of dry foods suitable for extended travel, including jerky, dried fruit,
+      hardtack, and nuts."]}'
+    DataHash: 7e38c6d1fc3817dce645f348544f1365

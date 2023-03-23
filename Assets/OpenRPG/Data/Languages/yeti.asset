@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Yeti","source":"MM","page":305,"typicalSpeakers":["{@creature
     Yeti||yetis}","{@creature Abominable Yeti||abominable yetis}"]}'
   DataHash: 964370a5843a19604edd918abe500d6d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yeti
+    Content: 
+    AsJson: '{"name":"Yeti","source":"MM","page":305,"typicalSpeakers":["{@creature
+      Yeti||yetis}","{@creature Abominable Yeti||abominable yetis}"]}'
+    DataHash: 964370a5843a19604edd918abe500d6d

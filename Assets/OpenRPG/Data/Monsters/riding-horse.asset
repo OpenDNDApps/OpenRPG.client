@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) bludgeoning
     damage."]}],"environment":["grassland","urban"],"soundClip":{"type":"internal","path":"bestiary/riding-horse.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 42e8679918fa8330bd74ef9c777cfad8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Riding Horse
+    Content: 
+    AsJson: '{"name":"Riding Horse","source":"MM","page":336,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"DIP"},{"source":"BGDIA"},{"source":"EGW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"KftGV"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":13,"formula":"2d10
+      + 2"},"speed":{"walk":60},"str":16,"dex":10,"con":12,"int":2,"wis":11,"cha":7,"passive":10,"cr":"1/4","action":[{"name":"Hooves","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) bludgeoning
+      damage."]}],"environment":["grassland","urban"],"soundClip":{"type":"internal","path":"bestiary/riding-horse.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 42e8679918fa8330bd74ef9c777cfad8

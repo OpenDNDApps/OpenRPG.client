@@ -28,3 +28,22 @@ MonoBehaviour:
     after the spell ends, you must succeed on a DC 15 Constitution saving throw or
     suffer one level of {@condition exhaustion}."],"damageInflict":["force"],"conditionInflict":["exhaustion"],"savingThrow":["constitution"],"miscTags":["AAD","THP"]}'
   DataHash: af7ee142ddea92acb3e258ea731e9e91
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tenser's Transformation
+    Content: 
+    AsJson: '{"name":"Tenser''s Transformation","source":"XGE","page":168,"level":6,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      few hairs from a bull"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+      endow yourself with endurance and martial prowess fueled by magic. Until the
+      spell ends, you can''t cast spells, and you gain the following benefits:",{"type":"list","items":["You
+      gain 50 temporary hit points. If any of these remain when the spell ends, they
+      are lost.","You have advantage on attack rolls that you make with simple and
+      martial weapons.","When you hit a target with a weapon attack, that target
+      takes an extra {@damage 2d12} force damage.","You have proficiency with all
+      armor, shields, simple weapons, and martial weapons.","You have proficiency
+      in Strength and Constitution saving throws.","You can attack twice, instead
+      of once, when you take the {@action Attack} action on your turn. You ignore
+      this benefit if you already have a feature, like Extra Attack, that gives you
+      extra attacks."]},"Immediately after the spell ends, you must succeed on a
+      DC 15 Constitution saving throw or suffer one level of {@condition exhaustion}."],"damageInflict":["force"],"conditionInflict":["exhaustion"],"savingThrow":["constitution"],"miscTags":["AAD","THP"]}'
+    DataHash: af7ee142ddea92acb3e258ea731e9e91

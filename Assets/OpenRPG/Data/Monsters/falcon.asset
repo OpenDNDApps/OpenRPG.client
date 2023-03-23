@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Falcon
   AsJson: '{"name":"Falcon","source":"WDH","page":53,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"falcon","flags":"i"}}},"hasToken":true}'
   DataHash: f0959976fa396fecb9977b93cf17046c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Falcon
+    Content: 
+    AsJson: '{"name":"Falcon","source":"WDH","page":53,"_copy":{"name":"Hawk","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"hawk","with":"falcon","flags":"i"}}},"hasToken":true}'
+    DataHash: f0959976fa396fecb9977b93cf17046c

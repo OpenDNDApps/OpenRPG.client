@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kella Darkhope","isNpc":true,"source":"SKT","page":25,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     spy","with":"Kella","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
   DataHash: c5278a3546640edf49c8bfd8d0d91f8c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kella Darkhope
+    Content: 
+    AsJson: '{"name":"Kella Darkhope","isNpc":true,"source":"SKT","page":25,"_copy":{"name":"Spy","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      spy","with":"Kella","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"hasToken":true}'
+    DataHash: c5278a3546640edf49c8bfd8d0d91f8c

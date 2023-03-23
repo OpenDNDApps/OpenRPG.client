@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Small mirror set in a painted wooden frame
   AsJson: '{"name":"Small mirror set in a painted wooden frame","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
   DataHash: 06e20c792b8ad039164988ac4eb7e24b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Small mirror set in a painted wooden frame
+    Content: 
+    AsJson: '{"name":"Small mirror set in a painted wooden frame","source":"DMG","page":134,"type":"$","rarity":"none","value":2500}'
+    DataHash: 06e20c792b8ad039164988ac4eb7e24b

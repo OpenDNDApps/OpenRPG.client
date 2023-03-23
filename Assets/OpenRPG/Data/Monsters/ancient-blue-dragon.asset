@@ -77,3 +77,72 @@ MonoBehaviour:
     Resistances"],"senseTags":["B","SD"],"actionTags":["Breath Weapon","Frightful
     Presence","Multiattack"],"languageTags":["C","DR"],"damageTags":["B","L","P","S"],"damageTagsLegendary":["B","L"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["frightened","prone"],"conditionInflictLegendary":["blinded","prone","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: fcbff67ce6d6a2384c53bd84541a53aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ancient Blue Dragon
+    Content: 
+    AsJson: '{"name":"Ancient Blue Dragon","group":["Chromatic Dragon"],"source":"MM","page":90,"srd":true,"otherSources":[{"source":"MOT"},{"source":"TCE"}],"size":["G"],"type":"dragon","alignment":["L","E"],"ac":[{"ac":22,"from":["natural
+      armor"]}],"hp":{"average":481,"formula":"26d20 + 208"},"speed":{"walk":40,"burrow":40,"fly":80},"str":29,"dex":10,"con":27,"int":18,"wis":17,"cha":21,"save":{"dex":"+7","con":"+15","wis":"+10","cha":"+12"},"skill":{"perception":"+17","stealth":"+7"},"senses":["blindsight
+      60 ft.","darkvision 120 ft."],"passive":27,"immune":["lightning"],"languages":["Common","Draconic"],"cr":"23","trait":[{"name":"Legendary
+      Resistance (3/Day)","entries":["If the dragon fails a saving throw, it can
+      choose to succeed instead."]}],"action":[{"name":"Multiattack","entries":["The
+      dragon can use its Frightful Presence. It then makes three attacks: one with
+      its bite and two with its claws."]},{"name":"Bite","entries":["{@atk mw} {@hit
+      16} to hit, reach 15 ft., one target. {@h}20 ({@damage 2d10 + 9}) piercing
+      damage plus 11 ({@damage 2d10}) lightning damage."]},{"name":"Claw","entries":["{@atk
+      mw} {@hit 16} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d6 + 9})
+      slashing damage."]},{"name":"Tail","entries":["{@atk mw} {@hit 16} to hit,
+      reach 20 ft., one target. {@h}18 ({@damage 2d8 + 9}) bludgeoning damage."]},{"name":"Frightful
+      Presence","entries":["Each creature of the dragon''s choice that is within
+      120 feet of the dragon and aware of it must succeed on a {@dc 20} Wisdom saving
+      throw or become {@condition frightened} for 1 minute. A creature can repeat
+      the saving throw at the end of each of its turns, ending the effect on itself
+      on a success. If a creature''s saving throw is successful or the effect ends
+      for it, the creature is immune to the dragon''s Frightful Presence for the
+      next 24 hours."]},{"name":"Lightning Breath {@recharge 5}","entries":["The
+      dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature
+      in that line must make a {@dc 23} Dexterity saving throw, taking 88 ({@damage
+      16d10}) lightning damage on a failed save, or half as much damage on a successful
+      one."]}],"legendary":[{"name":"Detect","entries":["The dragon makes a Wisdom
+      ({@skill Perception}) check."]},{"name":"Tail Attack","entries":["The dragon
+      makes a tail attack."]},{"name":"Wing Attack (Costs 2 Actions)","entries":["The
+      dragon beats its wings. Each creature within 15 feet of the dragon must succeed
+      on a {@dc 24} Dexterity saving throw or take 16 ({@damage 2d6 + 9}) bludgeoning
+      damage and be knocked {@condition prone}. The dragon can then fly up to half
+      its flying speed."]}],"legendaryGroup":{"name":"Blue Dragon","source":"MM"},"variant":[{"type":"inset","name":"Customizing
+      Dragons","source":"FTD","page":33,"entries":["You can customize any dragon''s
+      stat block to reflect the dragon''s unique character. Minor changes such as
+      those below are easy to make and have no impact on a dragon''s challenge rating.",{"type":"entries","name":"Languages","entries":["Most
+      dragons prefer to speak Draconic but learn Common for dealing with allies and
+      minions. But given their high Intelligence and long life span, dragons can
+      easily learn additional languages. You can add languages to a dragon''s stat
+      block."]},{"type":"entries","name":"Skills","entries":["Most dragons are proficient
+      in the {@skill Perception} and {@skill Stealth} skills, and many dragons have
+      additional skill proficiencies. As with languages, you can customize a dragon''s
+      skill list (even doubling their proficiency bonus with certain skills) to reflect
+      particular interests and activities. You can also give a dragon tool proficiencies,
+      particularly if the dragon spends time in Humanoid form."]},{"type":"entries","name":"Spells","entries":["{@note
+      See the \"Variant: Dragons as Innate Spellcasters\" inset(s), below.}"]},{"type":"entries","name":"Other
+      Traits and Actions","entries":["You can borrow traits and actions from other
+      monsters to add unique flavor to a dragon. Consider these examples:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Flyby","entries":["The
+      dragon is an agile flier, quick to fly out of enemies'' reach.","The dragon
+      doesn''t provoke an opportunity attack when it flies out of an enemy''s reach."]},{"type":"item","name":"Mimicry","entries":["Impersonating
+      characters or their allies could be a fun trick for a crafty dragon.","The
+      dragon can mimic any sounds it has heard, including voices. A creature that
+      hears the sounds can tell they are imitations with a successful {@dc 13} Wisdom
+      ({@skill Insight}) check."]},{"type":"item","name":"Rejuvenation","entries":["You
+      might decide that dragons in your campaign, being an essential part of the
+      Material Plane, are nearly impossible to destroy. A dragon''s life essence
+      might be preserved in the egg from which it first emerged, in its hoard, or
+      in a cavernous hall at the center of the world, just as a lich''s essence is
+      hidden in a phylactery.","If it has an essence-preserving object, a destroyed
+      dragon gains a new body in {@dice 1d10} days, regaining all its hit points
+      and becoming active again. The new body appears within 5 feet of the object."]},{"type":"item","name":"Special
+      Senses","entries":["Most dragons have {@sense blindsight} and {@sense darkvision}.
+      You might upgrade {@sense blindsight} to {@sense truesight}, or you could give
+      a dragon with a burrowing speed {@sense tremorsense|MM}."]},{"type":"item","name":"Tunneler","entries":["The
+      dragon can burrow through solid rock at half its burrowing speed and leaves
+      a tunnel in its wake."]}]}]}]}],"environment":["desert","coastal"],"dragonCastingColor":"blue","dragonAge":"ancient","soundClip":{"type":"internal","path":"bestiary/blue-dragon.mp3"},"traitTags":["Legendary
+      Resistances"],"senseTags":["B","SD"],"actionTags":["Breath Weapon","Frightful
+      Presence","Multiattack"],"languageTags":["C","DR"],"damageTags":["B","L","P","S"],"damageTagsLegendary":["B","L"],"miscTags":["AOE","MW","RCH"],"conditionInflict":["frightened","prone"],"conditionInflictLegendary":["blinded","prone","restrained"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: fcbff67ce6d6a2384c53bd84541a53aa

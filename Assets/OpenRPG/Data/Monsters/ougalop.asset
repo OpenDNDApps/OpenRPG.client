@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ougalop","isNpc":true,"source":"OotA","page":142,"_copy":{"name":"Kuo-Toa","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     kuo-toa","with":"Ougalop","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 9afc9a9dbfeb6cae44bfa6a4df767cd7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ougalop
+    Content: 
+    AsJson: '{"name":"Ougalop","isNpc":true,"source":"OotA","page":142,"_copy":{"name":"Kuo-Toa","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      kuo-toa","with":"Ougalop","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 9afc9a9dbfeb6cae44bfa6a4df767cd7

@@ -26,3 +26,20 @@ MonoBehaviour:
     darkness}","{@spell faerie fire}"]},"ability":"cha"}],"traitTags":["Fey Ancestry","Keen
     Senses","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","GI"],"hasToken":true}'
   DataHash: 3ccc614198726cf623256263f1062bda
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Mutated Drow
+    Content: 
+    AsJson: '{"name":"Giant Mutated Drow","source":"WDMM","page":143,"_copy":{"name":"Cloud
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"giant","with":"drow","flags":"i"},"trait":{"mode":"appendArr","items":[{"name":"Fey
+      Ancestry","entries":["The drow has advantage on saving throws against being
+      charmed, and magic can''t put the drow to sleep."]},{"name":"Sunlight Sensitivity","entries":["While
+      in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom
+      ({@skill Perception}) checks that rely on sight."]}]}}},"type":"giant","alignment":["N","E"],"senses":["darkvision
+      120 ft."],"languages":["Elvish","Undercommon"],"spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The drow''s innate spellcasting ability is
+      Charisma (spell save DC 15). The drow can innately cast the following spells,
+      requiring no material components:"],"will":["{@spell dancing lights}"],"daily":{"1e":["{@spell
+      darkness}","{@spell faerie fire}"]},"ability":"cha"}],"traitTags":["Fey Ancestry","Keen
+      Senses","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","GI"],"hasToken":true}'
+    DataHash: 3ccc614198726cf623256263f1062bda

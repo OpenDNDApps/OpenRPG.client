@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Fire Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     translucent fiery red gemstone."]}'
   DataHash: 33b3082be7ee8beda8e0bb5eb3ad20ae
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fire Opal
+    Content: 
+    AsJson: '{"name":"Fire Opal","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      translucent fiery red gemstone."]}'
+    DataHash: 33b3082be7ee8beda8e0bb5eb3ad20ae

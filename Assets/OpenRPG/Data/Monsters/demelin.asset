@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Demelin","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":139,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Demelin","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
   DataHash: cd6aca81f0db2979af870334559bba01
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Demelin
+    Content: 
+    AsJson: '{"name":"Demelin","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":139,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Demelin","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
+    DataHash: cd6aca81f0db2979af870334559bba01

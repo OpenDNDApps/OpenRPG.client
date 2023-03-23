@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, increase the cold damage by {@dice 1d8} for each slot level
     above 2nd."]}],"damageInflict":["cold"],"savingThrow":["constitution"]}'
   DataHash: 6469499a1e27677fe5b62d78b0ecd5ce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Icingdeath's Frost
+    Content: 
+    AsJson: '{"name":"Icingdeath''s Frost","source":"UA2021DraconicOptions","page":6,"level":2,"school":"V","time":[{"number":1,"unit":"action"}],"range":{"type":"cone","distance":{"type":"feet","amount":15}},"components":{"s":true,"m":"a
+      vial of meltwater"},"duration":[{"type":"instant"}],"entries":["A burst of
+      icy cold energy emanates from you in a 30-foot cone. Each creature in that
+      area must make a Constitution saving throw. On a failed save, a creature takes
+      {@damage 3d8} cold damage and is covered in ice for 1 minute or until a creature
+      uses its action to break the ice off itself or another creature. A creature
+      covered in ice has its speed reduced to 0. On a successful save, a creature
+      takes half as much damage with no additional effects."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, increase the cold damage by {@dice 1d8} for each slot level
+      above 2nd."]}],"damageInflict":["cold"],"savingThrow":["constitution"]}'
+    DataHash: 6469499a1e27677fe5b62d78b0ecd5ce

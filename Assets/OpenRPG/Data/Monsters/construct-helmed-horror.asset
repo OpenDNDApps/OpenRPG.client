@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Construct (Helmed Horror)","source":"PSK","page":32,"_copy":{"name":"Helmed
     Horror","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"helmed horror","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 5d501931eef00738bcc6a50523c84696
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Construct (Helmed Horror)
+    Content: 
+    AsJson: '{"name":"Construct (Helmed Horror)","source":"PSK","page":32,"_copy":{"name":"Helmed
+      Horror","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"helmed horror","with":"construct"}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 5d501931eef00738bcc6a50523c84696

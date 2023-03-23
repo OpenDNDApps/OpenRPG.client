@@ -17,3 +17,11 @@ MonoBehaviour:
     Yakfolk Priest|SKT|yakfolk priests}","{@creature Yakfolk Warrior|SKT|yakfolk
     warriors}"]}'
   DataHash: 06980635fee6856ba012cc3e44b3b843
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yikaria
+    Content: 
+    AsJson: '{"name":"Yikaria","source":"SKT","page":244,"typicalSpeakers":["{@creature
+      Yakfolk Priest|SKT|yakfolk priests}","{@creature Yakfolk Warrior|SKT|yakfolk
+      warriors}"]}'
+    DataHash: 06980635fee6856ba012cc3e44b3b843

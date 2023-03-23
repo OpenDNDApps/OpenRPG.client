@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Reghed Shaman
   AsJson: '{"name":"Reghed Shaman","source":"IDRotF","page":152,"_copy":{"name":"Druid","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"druid","with":"shaman"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"languages":["Common","Druidic"],"languageTags":["C","DU"],"spellcastingTags":["O"],"hasToken":true,"hasFluff":true}'
   DataHash: 92f7f33df738822d83f584d8d5c53c42
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reghed Shaman
+    Content: 
+    AsJson: '{"name":"Reghed Shaman","source":"IDRotF","page":152,"_copy":{"name":"Druid","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"druid","with":"shaman"}],"_":[{"mode":"addSkills","skills":{"survival":1}}]}},"languages":["Common","Druidic"],"languageTags":["C","DU"],"spellcastingTags":["O"],"hasToken":true,"hasFluff":true}'
+    DataHash: 92f7f33df738822d83f584d8d5c53c42

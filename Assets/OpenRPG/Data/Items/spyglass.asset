@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Spyglass","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":100000,"entries":["Objects
     viewed through a spyglass are magnified to twice their size."]}'
   DataHash: ffa33081579d9558907d805c5fdd4a35
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spyglass
+    Content: 
+    AsJson: '{"name":"Spyglass","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":100000,"entries":["Objects
+      viewed through a spyglass are magnified to twice their size."]}'
+    DataHash: ffa33081579d9558907d805c5fdd4a35

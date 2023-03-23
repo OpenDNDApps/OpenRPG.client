@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Banded Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
     translucent striped brown, blue, white, or red gemstone."]}'
   DataHash: 1d6f74cb7822c2b80b92107599143810
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Banded Agate
+    Content: 
+    AsJson: '{"name":"Banded Agate","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["A
+      translucent striped brown, blue, white, or red gemstone."]}'
+    DataHash: 1d6f74cb7822c2b80b92107599143810

@@ -17,3 +17,11 @@ MonoBehaviour:
     Uthgardt Barbarian Leader|SKT|uthgardt barbarians}","{@creature Uthgardt Shaman|SKT|uthgardt
     shamans}"]}'
   DataHash: 83da862b6d3ea0c508d10d93d7347752
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bothii
+    Content: 
+    AsJson: '{"name":"Bothii","source":"SKT","page":86,"typicalSpeakers":["{@creature
+      Uthgardt Barbarian Leader|SKT|uthgardt barbarians}","{@creature Uthgardt Shaman|SKT|uthgardt
+      shamans}"]}'
+    DataHash: 83da862b6d3ea0c508d10d93d7347752

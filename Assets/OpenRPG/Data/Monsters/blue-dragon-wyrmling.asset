@@ -58,3 +58,52 @@ MonoBehaviour:
     Dragon Wyrmling","source":"DoSI"}],"senseTags":["B","D"],"actionTags":["Breath
     Weapon"],"languageTags":["DR"],"damageTags":["L","P"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 106dc49a9b9430f295dde96cb4d37da5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blue Dragon Wyrmling
+    Content: 
+    AsJson: '{"name":"Blue Dragon Wyrmling","group":["Chromatic Dragon"],"source":"MM","page":91,"srd":true,"otherSources":[{"source":"MOT"},{"source":"DoSI"}],"size":["M"],"type":"dragon","alignment":["L","E"],"ac":[{"ac":17,"from":["natural
+      armor"]}],"hp":{"average":52,"formula":"8d8 + 16"},"speed":{"walk":30,"burrow":15,"fly":60},"str":17,"dex":10,"con":15,"int":12,"wis":11,"cha":15,"save":{"dex":"+2","con":"+4","wis":"+2","cha":"+4"},"skill":{"perception":"+4","stealth":"+2"},"senses":["blindsight
+      10 ft.","darkvision 60 ft."],"passive":14,"immune":["lightning"],"languages":["Draconic"],"cr":"3","action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing
+      damage plus 3 ({@damage 1d6}) lightning damage."]},{"name":"Lightning Breath
+      {@recharge 5}","entries":["The dragon exhales lightning in a 30-foot line that
+      is 5 feet wide. Each creature in that line must make a {@dc 12} Dexterity saving
+      throw, taking 22 ({@damage 4d10}) lightning damage on a failed save, or half
+      as much damage on a successful one."]}],"variant":[{"type":"inset","name":"Customizing
+      Dragons","source":"FTD","page":33,"entries":["You can customize any dragon''s
+      stat block to reflect the dragon''s unique character. Minor changes such as
+      those below are easy to make and have no impact on a dragon''s challenge rating.",{"type":"entries","name":"Languages","entries":["Most
+      dragons prefer to speak Draconic but learn Common for dealing with allies and
+      minions. But given their high Intelligence and long life span, dragons can
+      easily learn additional languages. You can add languages to a dragon''s stat
+      block."]},{"type":"entries","name":"Skills","entries":["Most dragons are proficient
+      in the {@skill Perception} and {@skill Stealth} skills, and many dragons have
+      additional skill proficiencies. As with languages, you can customize a dragon''s
+      skill list (even doubling their proficiency bonus with certain skills) to reflect
+      particular interests and activities. You can also give a dragon tool proficiencies,
+      particularly if the dragon spends time in Humanoid form."]},{"type":"entries","name":"Spells","entries":["{@note
+      See the \"Variant: Dragons as Innate Spellcasters\" inset(s), below.}"]},{"type":"entries","name":"Other
+      Traits and Actions","entries":["You can borrow traits and actions from other
+      monsters to add unique flavor to a dragon. Consider these examples:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Flyby","entries":["The
+      dragon is an agile flier, quick to fly out of enemies'' reach.","The dragon
+      doesn''t provoke an opportunity attack when it flies out of an enemy''s reach."]},{"type":"item","name":"Mimicry","entries":["Impersonating
+      characters or their allies could be a fun trick for a crafty dragon.","The
+      dragon can mimic any sounds it has heard, including voices. A creature that
+      hears the sounds can tell they are imitations with a successful {@dc 10} Wisdom
+      ({@skill Insight}) check."]},{"type":"item","name":"Rejuvenation","entries":["You
+      might decide that dragons in your campaign, being an essential part of the
+      Material Plane, are nearly impossible to destroy. A dragon''s life essence
+      might be preserved in the egg from which it first emerged, in its hoard, or
+      in a cavernous hall at the center of the world, just as a lich''s essence is
+      hidden in a phylactery.","If it has an essence-preserving object, a destroyed
+      dragon gains a new body in {@dice 1d10} days, regaining all its hit points
+      and becoming active again. The new body appears within 5 feet of the object."]},{"type":"item","name":"Special
+      Senses","entries":["Most dragons have {@sense blindsight} and {@sense darkvision}.
+      You might upgrade {@sense blindsight} to {@sense truesight}, or you could give
+      a dragon with a burrowing speed {@sense tremorsense|MM}."]},{"type":"item","name":"Tunneler","entries":["The
+      dragon can burrow through solid rock at half its burrowing speed and leaves
+      a tunnel in its wake."]}]}]}]}],"dragonAge":"wyrmling","soundClip":{"type":"internal","path":"bestiary/blue-dragon-wyrmling.mp3"},"altArt":[{"name":"Blue
+      Dragon Wyrmling","source":"DoSI"}],"senseTags":["B","D"],"actionTags":["Breath
+      Weapon"],"languageTags":["DR"],"damageTags":["L","P"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 106dc49a9b9430f295dde96cb4d37da5

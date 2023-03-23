@@ -18,3 +18,12 @@ MonoBehaviour:
     Blue Slaad||blue slaads}","{@creature Green Slaad||green slaads}","{@creature
     Gray Slaad||gray slaads}","{@creature Death Slaad||death slaads}"]}'
   DataHash: b52bb429627e26f96b6540023c2d6b06
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Slaad
+    Content: 
+    AsJson: '{"name":"Slaad","source":"MM","page":276,"typicalSpeakers":["{@creature
+      Slaad Tadpole||slaad tadpoles}","{@creature Red Slaad||red slaads}","{@creature
+      Blue Slaad||blue slaads}","{@creature Green Slaad||green slaads}","{@creature
+      Gray Slaad||gray slaads}","{@creature Death Slaad||death slaads}"]}'
+    DataHash: b52bb429627e26f96b6540023c2d6b06

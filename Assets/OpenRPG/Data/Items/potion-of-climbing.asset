@@ -20,3 +20,14 @@ MonoBehaviour:
     layers resembling bands of stone. Shaking the bottle fails to mix the colors."],"lootTables":["Magic
     Item Table A"]}'
   DataHash: 53eb55b33a0739c7e39c7fe71960d468
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Climbing
+    Content: 
+    AsJson: '{"name":"Potion of Climbing","source":"DMG","page":187,"srd":true,"type":"P","tier":"minor","rarity":"common","modifySpeed":{"equal":{"climb":"walk"}},"entries":["When
+      you drink this potion, you gain a climbing speed equal to your walking speed
+      for 1 hour. During this time, you have advantage on Strength ({@skill Athletics})
+      checks you make to climb. The potion is separated into brown, silver, and gray
+      layers resembling bands of stone. Shaking the bottle fails to mix the colors."],"lootTables":["Magic
+      Item Table A"]}'
+    DataHash: 53eb55b33a0739c7e39c7fe71960d468

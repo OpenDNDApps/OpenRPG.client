@@ -19,3 +19,13 @@ MonoBehaviour:
     armor"]}],"speed":{"walk":30,"burrow":15},"senses":["darkvision 30 ft.","tremorsense
     60 ft."],"senseTags":["D","T"],"hasToken":true}'
   DataHash: 51b2f2ad38e00910e3b809874e00cd59
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cave Badger
+    Content: 
+    AsJson: '{"name":"Cave Badger","source":"OotA","page":96,"_copy":{"name":"Giant
+      Badger","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Tunneler","entries":["When
+      the badger burrows, it leaves tunnels behind."]}}}},"ac":[{"ac":12,"from":["natural
+      armor"]}],"speed":{"walk":30,"burrow":15},"senses":["darkvision 30 ft.","tremorsense
+      60 ft."],"senseTags":["D","T"],"hasToken":true}'
+    DataHash: 51b2f2ad38e00910e3b809874e00cd59

@@ -17,3 +17,11 @@ MonoBehaviour:
     Creation","entries":["The rat has gills, iridescent scales, and the ability to
     breathe air and water."]}}}},"hasToken":true}'
   DataHash: 555a38ae646b2ef6815745cf194a18c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chimeric Rat
+    Content: 
+    AsJson: '{"name":"Chimeric Rat","source":"IDRotF","page":246,"_copy":{"name":"Rat","source":"MM","_mod":{"trait":{"mode":"appendArr","items":{"name":"Chimeric
+      Creation","entries":["The rat has gills, iridescent scales, and the ability
+      to breathe air and water."]}}}},"hasToken":true}'
+    DataHash: 555a38ae646b2ef6815745cf194a18c9

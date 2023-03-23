@@ -23,6 +23,20 @@ MonoBehaviour:
     a short rest, and your Psionic Talent die decreases by one die size. You can''t
     meditate in this way again until you finish a long rest."]}]}'
   DataHash: d5f7b2ad55ab871f66d1a0301e3c1bbc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Metabolic Control
+    Content: 
+    AsJson: '{"name":"Metabolic Control","source":"UA2020PsionicOptionsRevisited","page":8,"prerequisite":[{"psionics":true}],"ability":[{"choose":{"from":["str","dex","con"],"amount":1}}],"entries":["You
+      have refined psionic control over your body''s functions.",{"type":"list","items":["If
+      your Psionic Talent die is available, you can take an action to channel your
+      psionic power to nourish yourself for the next 24 hours, as if you consumed
+      sufficient food and water for a day. When you take this action, your Psionic
+      Talent die decreases by one die size.","If your Psionic Talent die is available,
+      you can meditate for 1 minute, at the end of which you gain the benefits of
+      finishing a short rest, and your Psionic Talent die decreases by one die size.
+      You can''t meditate in this way again until you finish a long rest."]}]}'
+    DataHash: d5f7b2ad55ab871f66d1a0301e3c1bbc
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 8
   Prerequisites: []

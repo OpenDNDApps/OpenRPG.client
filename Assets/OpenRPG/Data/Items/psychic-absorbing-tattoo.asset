@@ -17,3 +17,11 @@ MonoBehaviour:
     rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
     Absorbing Tattoo|TCE}"]}'
   DataHash: e5b19bf87590cc4780136e05ad48c79f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Psychic Absorbing Tattoo
+    Content: 
+    AsJson: '{"name":"Psychic Absorbing Tattoo","source":"TCE","page":119,"resist":["psychic"],"detail1":"silver","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"tattoo":true,"hasRefs":true,"entries":["{#itemEntry
+      Absorbing Tattoo|TCE}"]}'
+    DataHash: e5b19bf87590cc4780136e05ad48c79f

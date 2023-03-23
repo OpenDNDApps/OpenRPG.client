@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Ball Bearing","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":0.002,"value":0.1,"entries":["Most
     commonly found inside a {@item Ball Bearings (Bag of 1,000)|phb|bag of ball bearings}."]}'
   DataHash: 0ac66b4caec3ba8ac95f78ee0d802b1b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ball Bearing
+    Content: 
+    AsJson: '{"name":"Ball Bearing","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":0.002,"value":0.1,"entries":["Most
+      commonly found inside a {@item Ball Bearings (Bag of 1,000)|phb|bag of ball
+      bearings}."]}'
+    DataHash: 0ac66b4caec3ba8ac95f78ee0d802b1b

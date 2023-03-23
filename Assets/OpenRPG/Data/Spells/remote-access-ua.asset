@@ -20,3 +20,14 @@ MonoBehaviour:
     a person using the device manually would be able to access. You can use remote
     access with only one device at a time."]}'
   DataHash: 0dc257f57e54ede75f4c48ff176d54f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Remote Access (UA)
+    Content: 
+    AsJson: '{"name":"Remote Access (UA)","source":"UAModernMagic","page":8,"level":1,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":120}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10}}],"meta":{"technomagic":true},"entries":["You
+      can use any electronic device within range as if it were in your hands. This
+      is not a telekinesis effect. Rather, this spell allows you to simulate a device''s
+      mechanical functions electronically. You are able to access only functions
+      that a person using the device manually would be able to access. You can use
+      remote access with only one device at a time."]}'
+    DataHash: 0dc257f57e54ede75f4c48ff176d54f9

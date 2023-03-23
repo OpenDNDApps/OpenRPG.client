@@ -20,6 +20,17 @@ MonoBehaviour:
     you are hidden, you can move up to 10 feet in the open without revealing yourself
     if you end the move in a position where you''re not clearly visible."]}]}'
   DataHash: 3ae7436cf3998b577fabf439479a4e68
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stealthy
+    Content: 
+    AsJson: '{"name":"Stealthy","source":"UAFeatsForSkills","page":4,"ability":[{"dex":1}],"skillProficiencies":[{"stealth":true}],"entries":["You
+      know how best to hide. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Stealth} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","If you are hidden, you can move up to 10 feet in the open without revealing
+      yourself if you end the move in a position where you''re not clearly visible."]}]}'
+    DataHash: 3ae7436cf3998b577fabf439479a4e68
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 4
   Prerequisites: []

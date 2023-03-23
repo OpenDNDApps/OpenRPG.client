@@ -29,3 +29,24 @@ MonoBehaviour:
     The target automatically wins if it is immune to being {@condition charmed}."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/nothic.mp3"},"traitTags":["Keen
     Senses"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["N","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c9049c6a0c68e24548ae9bdf756e7802
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nothic
+    Content: 
+    AsJson: '{"name":"Nothic","source":"MM","page":236,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"LMoP"},{"source":"PotA"},{"source":"ToA"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"RMBRE"},{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"JttRC"},{"source":"KftGV"}],"size":["M"],"type":"aberration","alignment":["N","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":45,"formula":"6d8 + 18"},"speed":{"walk":30},"str":14,"dex":16,"con":16,"int":13,"wis":10,"cha":8,"skill":{"arcana":"+3","insight":"+4","perception":"+2","stealth":"+5"},"senses":["truesight
+      120 ft."],"passive":12,"languages":["Undercommon"],"cr":"2","trait":[{"name":"Keen
+      Sight","entries":["The nothic has advantage on Wisdom ({@skill Perception})
+      checks that rely on sight."]}],"action":[{"name":"Multiattack","entries":["The
+      nothic makes two claw attacks."]},{"name":"Claw","entries":["{@atk mw} {@hit
+      4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."]},{"name":"Rotting
+      Gaze","entries":["The nothic targets one creature it can see within 30 feet
+      of it. The target must succeed on a {@dc 12} Constitution saving throw against
+      this magic or take 10 ({@damage 3d6}) necrotic damage."]},{"name":"Weird Insight","entries":["The
+      nothic targets one creature it can see within 30 feet of it. The target must
+      contest its Charisma (Deception) check against the nothic''s Wisdom (Insight)
+      check. If the nothic wins, it magically learns one fact or secret about the
+      target. The target automatically wins if it is immune to being {@condition
+      charmed}."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/nothic.mp3"},"traitTags":["Keen
+      Senses"],"senseTags":["U"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["N","S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c9049c6a0c68e24548ae9bdf756e7802

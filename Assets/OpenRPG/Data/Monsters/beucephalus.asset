@@ -17,3 +17,11 @@ MonoBehaviour:
     nightmare","with":"Beucephalus","flags":"i"}}},"hp":{"average":104,"formula":"8d10
     + 24"},"hasToken":true,"hasFluffImages":true}'
   DataHash: 6930cf2cbac0a674112cdaf282cd97fc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Beucephalus
+    Content: 
+    AsJson: '{"name":"Beucephalus","isNpc":true,"source":"CoS","page":93,"_copy":{"name":"Nightmare","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      nightmare","with":"Beucephalus","flags":"i"}}},"hp":{"average":104,"formula":"8d10
+      + 24"},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 6930cf2cbac0a674112cdaf282cd97fc

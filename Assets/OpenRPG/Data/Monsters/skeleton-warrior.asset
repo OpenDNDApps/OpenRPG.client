@@ -27,3 +27,21 @@ MonoBehaviour:
     mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing
     damage."]}],"traitTags":["Magic Resistance","Magic Weapons"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["LF"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a1b886e3acf7727bab5c89a5806ef84c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeleton Warrior
+    Content: 
+    AsJson: '{"name":"Skeleton Warrior","source":"MaBJoV","page":149,"size":["M"],"type":"undead","alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+      plate armor|PHB}"]}],"hp":{"average":90,"formula":"12d8 + 36"},"speed":{"walk":30},"str":16,"dex":14,"con":16,"int":16,"wis":12,"cha":12,"senses":["darkvision
+      120 ft."],"passive":10,"resist":["cold","necrotic"],"immune":["poison",{"immune":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"vulnerable":[{"vulnerable":["bludgeoning"],"note":"from
+      magical attacks","cond":true}],"conditionImmune":["charmed","exhaustion","frightened","poisoned"],"languages":["all
+      the languages it knew in life"],"cr":"5","trait":[{"name":"Magic Resistance","entries":["The
+      skeleton warrior has advantage on saving throws against spells and other magical
+      effects."]},{"name":"Magic Weapons","entries":["The skeleton warrior''s weapon
+      attacks are magical and have a +3 bonus to attack and damage rolls (included
+      in the attack)."]}],"action":[{"name":"Multiattack","entries":["The skeleton
+      warrior makes two greatsword attacks."]},{"name":"Greatsword","entries":["{@atk
+      mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing
+      damage."]}],"traitTags":["Magic Resistance","Magic Weapons"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["LF"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a1b886e3acf7727bab5c89a5806ef84c

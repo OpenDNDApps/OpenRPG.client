@@ -19,3 +19,13 @@ MonoBehaviour:
     this spell. You teleport each affected target to an unoccupied space that you
     can see within 120 feet of you. That space must be on the ground or on a floor."],"savingThrow":["wisdom"],"miscTags":["SGT","TP"],"areaTags":["MT"]}'
   DataHash: 997e080ef4d07dfd3267157008219c60
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scatter
+    Content: 
+    AsJson: '{"name":"Scatter","source":"XGE","page":164,"level":6,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"instant"}],"entries":["The
+      air quivers around up to five creatures of your choice that you can see within
+      range. An unwilling creature must succeed on a Wisdom saving throw to resist
+      this spell. You teleport each affected target to an unoccupied space that you
+      can see within 120 feet of you. That space must be on the ground or on a floor."],"savingThrow":["wisdom"],"miscTags":["SGT","TP"],"areaTags":["MT"]}'
+    DataHash: 997e080ef4d07dfd3267157008219c60

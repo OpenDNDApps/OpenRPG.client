@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Barnacle Bess","isNpc":true,"source":"GoS","page":220,"_copy":{"name":"Giant
     Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the crab","with":"Bess","flags":"i"}}},"alignment":["L","N"],"int":10,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
   DataHash: 1bdd530078b0684327001d773a0c1fbb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barnacle Bess
+    Content: 
+    AsJson: '{"name":"Barnacle Bess","isNpc":true,"source":"GoS","page":220,"_copy":{"name":"Giant
+      Crab","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the crab","with":"Bess","flags":"i"}}},"alignment":["L","N"],"int":10,"languages":["Common"],"languageTags":["C"],"hasToken":true}'
+    DataHash: 1bdd530078b0684327001d773a0c1fbb

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Wight","source":"TftYP","page":113,"_copy":{"name":"Wight","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: 47c671dfca2214fa27918a3dfbfb5006
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Wight
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Wight","source":"TftYP","page":113,"_copy":{"name":"Wight","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: 47c671dfca2214fa27918a3dfbfb5006

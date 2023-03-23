@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Wyhan","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":79,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     mage","with":"Wyhan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true}'
   DataHash: b86f6a14e692cf5c0bffc9b3dacd2ec8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wyhan
+    Content: 
+    AsJson: '{"name":"Wyhan","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":79,"_copy":{"name":"Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      mage","with":"Wyhan","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","E"],"hasToken":true}'
+    DataHash: b86f6a14e692cf5c0bffc9b3dacd2ec8

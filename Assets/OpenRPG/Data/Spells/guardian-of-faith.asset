@@ -23,3 +23,17 @@ MonoBehaviour:
     or half as much damage on a successful one. The guardian vanishes when it has
     dealt a total of 60 damage."],"damageInflict":["radiant"],"savingThrow":["dexterity"],"miscTags":["SGT"],"hasFluffImages":true}'
   DataHash: e228b1b59282cd1293cba9581690d87a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Guardian of Faith
+    Content: 
+    AsJson: '{"name":"Guardian of Faith","source":"PHB","page":246,"srd":true,"basicRules":true,"level":4,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["A
+      Large spectral guardian appears and hovers for the duration in an unoccupied
+      space of your choice that you can see within range. The guardian occupies that
+      space and is indistinct except for a gleaming sword and shield emblazoned with
+      the symbol of your deity.","Any creature hostile to you that moves to a space
+      within 10 feet of the guardian for the first time on a turn must succeed on
+      a Dexterity saving throw. The creature takes 20 radiant damage on a failed
+      save, or half as much damage on a successful one. The guardian vanishes when
+      it has dealt a total of 60 damage."],"damageInflict":["radiant"],"savingThrow":["dexterity"],"miscTags":["SGT"],"hasFluffImages":true}'
+    DataHash: e228b1b59282cd1293cba9581690d87a

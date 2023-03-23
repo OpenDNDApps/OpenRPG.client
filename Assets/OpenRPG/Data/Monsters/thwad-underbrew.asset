@@ -20,3 +20,14 @@ MonoBehaviour:
     damage, plus 7 ({@damage 2d6}) bludgeoning damage if Thwad has more than half
     of his total hit points remaining."]}}]}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["C","D","X"],"damageTags":["B","P"],"hasToken":true,"hasFluff":true}'
   DataHash: 7d332d546a24a3662e057e407f68e68d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thwad Underbrew
+    Content: 
+    AsJson: '{"name":"Thwad Underbrew","isNpc":true,"source":"WDMM","page":204,"_copy":{"name":"Champion","source":"VGM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the champion","with":"Thwad","flags":"i"},"action":[{"mode":"replaceArr","replace":"Multiattack","items":{"name":"Multiattack","entries":["Thwad
+      makes three attacks with his maul or his shortbow."]}},{"mode":"replaceArr","replace":"Greatsword","items":{"name":"Maul","entries":["{@atk
+      mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning
+      damage, plus 7 ({@damage 2d6}) bludgeoning damage if Thwad has more than half
+      of his total hit points remaining."]}}]}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["C","D","X"],"damageTags":["B","P"],"hasToken":true,"hasFluff":true}'
+    DataHash: 7d332d546a24a3662e057e407f68e68d

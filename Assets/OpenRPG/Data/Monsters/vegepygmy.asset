@@ -26,3 +26,20 @@ MonoBehaviour:
     rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}4 ({@damage 1d4 + 2})
     bludgeoning damage."]}],"environment":["forest","swamp"],"soundClip":{"type":"internal","path":"bestiary/vegepygmy.mp3"},"traitTags":["Regeneration"],"senseTags":["D"],"languageTags":["OTH"],"damageTags":["B","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: ab364ab3c937efcd20de2aea6dd24eeb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vegepygmy
+    Content: 
+    AsJson: '{"name":"Vegepygmy","source":"VGM","page":196,"otherSources":[{"source":"ToA"}],"reprintedAs":["Vegepygmy|MPMM"],"size":["S"],"type":"plant","alignment":["N"],"ac":[{"ac":13,"from":["natural
+      armor"]}],"hp":{"average":9,"formula":"2d6 + 2"},"speed":{"walk":30},"str":7,"dex":14,"con":13,"int":6,"wis":11,"cha":7,"skill":{"perception":"+2","stealth":"+4"},"senses":["darkvision
+      60 ft."],"passive":12,"resist":["lightning","piercing"],"languages":["Vegepygmy"],"cr":"1/4","trait":[{"name":"Plant
+      Camouflage","entries":["The vegepygmy has advantage on Dexterity ({@skill Stealth})
+      checks it makes in any terrain with ample obscuring plant life."]},{"name":"Regeneration","entries":["The
+      vegepygmy regains 3 hit points at the start of its turn. If it takes cold,
+      fire, or necrotic damage, this trait doesn''t function at the start of the
+      vegepygmy''s next turn. The vegepygmy dies only if it starts its turn with
+      0 hit points and doesn''t regenerate."]}],"action":[{"name":"Claws","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing
+      damage."]},{"name":"Sling","entries":["{@atk rw} {@hit 4} to hit, range 30/120
+      ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."]}],"environment":["forest","swamp"],"soundClip":{"type":"internal","path":"bestiary/vegepygmy.mp3"},"traitTags":["Regeneration"],"senseTags":["D"],"languageTags":["OTH"],"damageTags":["B","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: ab364ab3c937efcd20de2aea6dd24eeb

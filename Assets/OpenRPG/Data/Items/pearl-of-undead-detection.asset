@@ -17,3 +17,11 @@ MonoBehaviour:
     (magic)","value":50000,"entries":["This black pearl glows faintly when undead
     are within 120 feet of it."]}'
   DataHash: c825c839013a39ed6ae2150affd1383a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pearl of Undead Detection
+    Content: 
+    AsJson: '{"name":"Pearl of Undead Detection","source":"WDMM","page":76,"type":"OTH","rarity":"unknown
+      (magic)","value":50000,"entries":["This black pearl glows faintly when undead
+      are within 120 feet of it."]}'
+    DataHash: c825c839013a39ed6ae2150affd1383a

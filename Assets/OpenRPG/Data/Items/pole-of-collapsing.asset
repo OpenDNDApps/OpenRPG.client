@@ -20,3 +20,14 @@ MonoBehaviour:
     and cause the rod to revert to a pole; however, the rod will elongate only as
     far as the surrounding space allows."],"hasFluffImages":true}'
   DataHash: f680a77f28f23bae3648996460534204
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pole of Collapsing
+    Content: 
+    AsJson: '{"name":"Pole of Collapsing","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+      holding this 10-foot pole, you can use an action to speak a command word and
+      cause it to collapse into a 1-foot-long rod, for ease of storage. The pole''s
+      weight doesn''t change. You can use an action to speak a different command
+      word and cause the rod to revert to a pole; however, the rod will elongate
+      only as far as the surrounding space allows."],"hasFluffImages":true}'
+    DataHash: f680a77f28f23bae3648996460534204

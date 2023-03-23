@@ -20,3 +20,14 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: af995b9afc933cb22d6ef27ee29d50e1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Free Action
+    Content: 
+    AsJson: '{"name":"Ring of Free Action","source":"DMG","page":191,"srd":true,"type":"RG","tier":"major","rarity":"rare","reqAttune":true,"entries":["While
+      you wear this ring, {@quickref difficult terrain||3} doesn''t cost you extra
+      movement. In addition, magic can neither reduce your speed nor cause you to
+      be {@condition paralyzed} or {@condition restrained}."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table G"],"hasFluffImages":true}'
+    DataHash: af995b9afc933cb22d6ef27ee29d50e1

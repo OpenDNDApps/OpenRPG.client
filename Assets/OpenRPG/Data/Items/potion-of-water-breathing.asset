@@ -18,3 +18,12 @@ MonoBehaviour:
     fluid smells of the sea and has a jellyfish-like bubble floating in it."],"lootTables":["Magic
     Item Table B"],"hasFluffImages":true}'
   DataHash: b91268c5b368f8f5dd4085181218300b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Water Breathing
+    Content: 
+    AsJson: '{"name":"Potion of Water Breathing","source":"DMG","page":188,"srd":true,"type":"P","tier":"minor","rarity":"uncommon","entries":["You
+      can breathe underwater for 1 hour after drinking this potion. Its cloudy green
+      fluid smells of the sea and has a jellyfish-like bubble floating in it."],"lootTables":["Magic
+      Item Table B"],"hasFluffImages":true}'
+    DataHash: b91268c5b368f8f5dd4085181218300b

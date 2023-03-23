@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Donkey
   AsJson: '{"name":"Donkey","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":800,"carryingCapacity":420,"speed":40}'
   DataHash: f263d0fff1595ae0d0317ecdc4785200
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Donkey
+    Content: 
+    AsJson: '{"name":"Donkey","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":800,"carryingCapacity":420,"speed":40}'
+    DataHash: f263d0fff1595ae0d0317ecdc4785200

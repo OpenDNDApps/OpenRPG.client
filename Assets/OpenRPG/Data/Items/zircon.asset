@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zircon","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
     transparent pale blue-green gemstone."]}'
   DataHash: 61fd1c4087d92bc01fc67d3d94c22bc8
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zircon
+    Content: 
+    AsJson: '{"name":"Zircon","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["A
+      transparent pale blue-green gemstone."]}'
+    DataHash: 61fd1c4087d92bc01fc67d3d94c22bc8

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Cotton Cloth (1 sq. yd.)
   AsJson: '{"name":"Cotton Cloth (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":50}'
   DataHash: 5aa59f73e7becaa82c3eb86596985f88
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cotton Cloth (1 sq. yd.)
+    Content: 
+    AsJson: '{"name":"Cotton Cloth (1 sq. yd.)","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":50}'
+    DataHash: 5aa59f73e7becaa82c3eb86596985f88

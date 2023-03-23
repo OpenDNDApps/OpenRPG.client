@@ -21,3 +21,15 @@ MonoBehaviour:
     damage."]}],"soundClip":{"type":"internal","path":"bestiary/slaad-tadpole.mp3"},"traitTags":["Magic
     Resistance"],"senseTags":["D"],"languageTags":["CS","OTH"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 2fb22779032def590cb7aea7b42f286a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Slaad Tadpole
+    Content: 
+    AsJson: '{"name":"Slaad Tadpole","source":"MM","page":276,"otherSources":[{"source":"EGW"},{"source":"IDRotF"},{"source":"CM"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["T"],"type":"aberration","alignment":["C","N"],"ac":[12],"hp":{"average":10,"formula":"4d4"},"speed":{"walk":30},"str":7,"dex":15,"con":10,"int":3,"wis":5,"cha":3,"skill":{"stealth":"+4"},"senses":["darkvision
+      60 ft."],"passive":7,"resist":["acid","cold","fire","lightning","thunder"],"languages":["understands
+      Slaad but can''t speak"],"cr":"1/8","trait":[{"name":"Magic Resistance","entries":["The
+      slaad has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+      damage."]}],"soundClip":{"type":"internal","path":"bestiary/slaad-tadpole.mp3"},"traitTags":["Magic
+      Resistance"],"senseTags":["D"],"languageTags":["CS","OTH"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 2fb22779032def590cb7aea7b42f286a

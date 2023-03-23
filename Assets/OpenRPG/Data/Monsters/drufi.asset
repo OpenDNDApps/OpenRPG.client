@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drufi","isNpc":true,"source":"ToA","page":64,"_copy":{"name":"Frost
     Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Drufi","flags":"i"}}},"alignment":["N","E"],"hasToken":true}'
   DataHash: caa99a27bf0ad6ae67a517ad92dda23b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drufi
+    Content: 
+    AsJson: '{"name":"Drufi","isNpc":true,"source":"ToA","page":64,"_copy":{"name":"Frost
+      Giant","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the giant","with":"Drufi","flags":"i"}}},"alignment":["N","E"],"hasToken":true}'
+    DataHash: caa99a27bf0ad6ae67a517ad92dda23b

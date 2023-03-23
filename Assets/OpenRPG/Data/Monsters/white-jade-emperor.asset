@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"White Jade Emperor","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":197,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"noble","with":"emperor"}}},"alignment":["L","N"],"hasToken":true}'
   DataHash: 6f468656214c06a8bb398e34fa901c02
+  DataByEdition:
+  - Edition: d&d5e
+    Title: White Jade Emperor
+    Content: 
+    AsJson: '{"name":"White Jade Emperor","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":197,"_copy":{"name":"Noble","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"noble","with":"emperor"}}},"alignment":["L","N"],"hasToken":true}'
+    DataHash: 6f468656214c06a8bb398e34fa901c02

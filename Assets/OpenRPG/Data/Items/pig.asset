@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Pig
   AsJson: '{"name":"Pig","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":300}'
   DataHash: c61f201aa4e1d48779d376772ee511f7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pig
+    Content: 
+    AsJson: '{"name":"Pig","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":300}'
+    DataHash: c61f201aa4e1d48779d376772ee511f7

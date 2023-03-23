@@ -17,3 +17,11 @@ MonoBehaviour:
     archmage","with":"Valtagar","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
     banishment}","with":"{@spell Otiluke''s Resilient Sphere}"}]}}}},"alignment":["L","E"],"languages":["Common","Dwarvish","Infernal","Terran","Troglodyte","Undercommon"],"senseTags":["SD"],"languageTags":["C","D","I","OTH","T","U"],"hasToken":true,"hasFluff":true}'
   DataHash: f661f4605d14dc1a8b63406bd8de9a01
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Valtagar Steelshadow
+    Content: 
+    AsJson: '{"name":"Valtagar Steelshadow","isNpc":true,"source":"WDMM","page":271,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Duergar","source":"MTF"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Valtagar","flags":"i"},"_":{"mode":"replaceSpells","spells":{"4":[{"replace":"{@spell
+      banishment}","with":"{@spell Otiluke''s Resilient Sphere}"}]}}}},"alignment":["L","E"],"languages":["Common","Dwarvish","Infernal","Terran","Troglodyte","Undercommon"],"senseTags":["SD"],"languageTags":["C","D","I","OTH","T","U"],"hasToken":true,"hasFluff":true}'
+    DataHash: f661f4605d14dc1a8b63406bd8de9a01

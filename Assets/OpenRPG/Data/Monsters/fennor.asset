@@ -20,3 +20,14 @@ MonoBehaviour:
     mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing
     damage."]}],"actionTags":["Multiattack"],"hasToken":true}'
   DataHash: 76f44ab7233146b77aef97684d660e9e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Fennor
+    Content: 
+    AsJson: '{"name":"Fennor","isNpc":true,"source":"PotA","page":170,"_copy":{"name":"Berserker","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      berserker","with":"Fennor","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"ac":[{"ac":14,"from":["{@item
+      chain shirt|phb}"]}],"cr":"3","action":[{"name":"Multiattack","entries":["Fennor
+      makes two attacks with her greatsword"]},{"name":"Greatsword","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing
+      damage."]}],"actionTags":["Multiattack"],"hasToken":true}'
+    DataHash: 76f44ab7233146b77aef97684d660e9e

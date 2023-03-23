@@ -17,3 +17,11 @@ MonoBehaviour:
     - 1"},"speed":{"walk":5,"fly":30},"str":1,"dex":16,"con":8,"int":1,"wis":10,"cha":1,"passive":10,"cr":"0","action":[{"name":"Sting","entries":["{@atk
     mw} {@hit 5} to hit, reach 5 ft., one target. {@h}3 piercing damage."]}],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
   DataHash: 2299227d10de798d76c7a5ccdccb79a1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Pollenella the Honeybee
+    Content: 
+    AsJson: '{"name":"Pollenella the Honeybee","isNpc":true,"isNamedCreature":true,"source":"WBtW","page":135,"size":["T"],"type":"beast","alignment":["U"],"ac":[13],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":5,"fly":30},"str":1,"dex":16,"con":8,"int":1,"wis":10,"cha":1,"passive":10,"cr":"0","action":[{"name":"Sting","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}3 piercing damage."]}],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: 2299227d10de798d76c7a5ccdccb79a1

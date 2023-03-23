@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jug","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":2,"entries":["A
     jug holds 1 gallon of liquid."]}'
   DataHash: d872fafdf2dbc0c9dddc4ea8e256aaf6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jug
+    Content: 
+    AsJson: '{"name":"Jug","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":4,"value":2,"entries":["A
+      jug holds 1 gallon of liquid."]}'
+    DataHash: d872fafdf2dbc0c9dddc4ea8e256aaf6

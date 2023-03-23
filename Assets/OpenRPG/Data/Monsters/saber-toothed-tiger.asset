@@ -26,3 +26,20 @@ MonoBehaviour:
     one target. {@h}12 ({@damage 2d6 + 5}) slashing damage."]}],"environment":["mountain","arctic"],"soundClip":{"type":"internal","path":"bestiary/saber-toothed-tiger.mp3"},"traitTags":["Keen
     Senses","Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
   DataHash: 16b7598d7505d78f051c67bcd9992b7d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Saber-Toothed Tiger
+    Content: 
+    AsJson: '{"name":"Saber-Toothed Tiger","source":"MM","page":336,"srd":true,"basicRules":true,"otherSources":[{"source":"EGW"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CoS"},{"source":"JttRC"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":52,"formula":"7d10
+      + 14"},"speed":{"walk":40},"str":18,"dex":14,"con":15,"int":3,"wis":12,"cha":8,"skill":{"perception":"+3","stealth":"+6"},"passive":13,"cr":"2","trait":[{"name":"Keen
+      Smell","entries":["The tiger has advantage on Wisdom ({@skill Perception})
+      checks that rely on smell."]},{"name":"Pounce","entries":["If the tiger moves
+      at least 20 feet straight toward a creature and then hits it with a claw attack
+      on the same turn, that target must succeed on a {@dc 14} Strength saving throw
+      or be knocked {@condition prone}. If the target is {@condition prone}, the
+      tiger can make one bite attack against it as a bonus action."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d10 + 5}) piercing
+      damage."]},{"name":"Claw","entries":["{@atk mw} {@hit 6} to hit, reach 5 ft.,
+      one target. {@h}12 ({@damage 2d6 + 5}) slashing damage."]}],"environment":["mountain","arctic"],"soundClip":{"type":"internal","path":"bestiary/saber-toothed-tiger.mp3"},"traitTags":["Keen
+      Senses","Pounce"],"damageTags":["P","S"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true}'
+    DataHash: 16b7598d7505d78f051c67bcd9992b7d

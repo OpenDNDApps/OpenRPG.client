@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold Zino
   AsJson: '{"name":"Gold Zino","source":"GGR","page":9,"type":"$","rarity":"none","value":100}'
   DataHash: 2c8c766830740b9c2d5cbc812c59908f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold Zino
+    Content: 
+    AsJson: '{"name":"Gold Zino","source":"GGR","page":9,"type":"$","rarity":"none","value":100}'
+    DataHash: 2c8c766830740b9c2d5cbc812c59908f

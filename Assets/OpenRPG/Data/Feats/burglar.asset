@@ -19,6 +19,16 @@ MonoBehaviour:
     gain proficiency with {@item thieves'' tools|phb}. If you are already proficient
     with them, you add double your proficiency bonus to checks you make with them."]}]}'
   DataHash: 09cd8500e814328aa6b17bbaee201e99
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Burglar
+    Content: 
+    AsJson: '{"name":"Burglar","source":"UAFeats","page":4,"ability":[{"dex":1}],"toolProficiencies":[{"thieves''
+      tools":true}],"entries":["You pride yourself on your quickness and your close
+      study of certain clandestine activities. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency with {@item thieves'' tools|phb}. If you are already proficient
+      with them, you add double your proficiency bonus to checks you make with them."]}]}'
+    DataHash: 09cd8500e814328aa6b17bbaee201e99
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 4
   Prerequisites: []

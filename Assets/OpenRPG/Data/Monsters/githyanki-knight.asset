@@ -28,3 +28,22 @@ MonoBehaviour:
     projection} spell), the githyanki can cut the silvery cord that tethers the target
     to its material body, instead of dealing damage."]}],"soundClip":{"type":"internal","path":"bestiary/githyanki-knight.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["S","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a23440ac59e2a9740a41eb1491a9f2ec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Githyanki Knight
+    Content: 
+    AsJson: '{"name":"Githyanki Knight","source":"MM","page":160,"otherSources":[{"source":"WDMM"},{"source":"LoX"}],"size":["M"],"type":{"type":"humanoid","tags":["gith"]},"alignment":["L","E"],"ac":[{"ac":18,"from":["{@item
+      plate armor|phb}"]}],"hp":{"average":91,"formula":"14d8 + 28"},"speed":{"walk":30},"str":16,"dex":14,"con":15,"int":14,"wis":14,"cha":15,"save":{"con":"+5","int":"+5","wis":"+5"},"passive":12,"languages":["Gith"],"cr":"8","spellcasting":[{"name":"Innate
+      Spellcasting (Psionics)","headerEntries":["The githyanki''s innate spellcasting
+      ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks).
+      It can innately cast the following spells, requiring no components:"],"will":["{@spell
+      mage hand} (the hand is invisible)"],"daily":{"3e":["{@spell jump}","{@spell
+      misty step}","{@spell nondetection} (self only)","{@spell tongues}"],"1e":["{@spell
+      plane shift}","{@spell telekinesis}"]},"ability":"int"}],"action":[{"name":"Multiattack","entries":["The
+      githyanki makes two silver greatsword attacks."]},{"name":"Silver Greatsword","entries":["{@atk
+      mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing
+      damage plus 10 ({@damage 3d6}) psychic damage. This is a magic weapon attack.
+      On a critical hit against a target in an astral body (as with the {@spell astral
+      projection} spell), the githyanki can cut the silvery cord that tethers the
+      target to its material body, instead of dealing damage."]}],"soundClip":{"type":"internal","path":"bestiary/githyanki-knight.mp3"},"actionTags":["Multiattack"],"languageTags":["GTH"],"damageTags":["S","Y"],"spellcastingTags":["I","P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a23440ac59e2a9740a41eb1491a9f2ec

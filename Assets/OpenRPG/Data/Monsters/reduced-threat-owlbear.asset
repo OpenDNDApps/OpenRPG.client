@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Reduced-Threat Owlbear","source":"TftYP","page":113,"_copy":{"name":"Owlbear","source":"MM","_trait":{"name":"Reduced
     Threat","source":"TftYP"}},"hasToken":true}'
   DataHash: b934c047f9ede2d1d37f64df05b3a2df
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reduced-Threat Owlbear
+    Content: 
+    AsJson: '{"name":"Reduced-Threat Owlbear","source":"TftYP","page":113,"_copy":{"name":"Owlbear","source":"MM","_trait":{"name":"Reduced
+      Threat","source":"TftYP"}},"hasToken":true}'
+    DataHash: b934c047f9ede2d1d37f64df05b3a2df

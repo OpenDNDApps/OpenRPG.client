@@ -29,3 +29,23 @@ MonoBehaviour:
     can take either an action or a bonus action on its turn, not both, and can''t
     take reactions."]}],"soundClip":{"type":"internal","path":"bestiary/dretch.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["P","S"],"miscTags":["AOE","MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 3bf06b9ca13d9f399737aca68eef459f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dretch
+    Content: 
+    AsJson: '{"name":"Dretch","source":"MM","page":57,"srd":true,"otherSources":[{"source":"CoS"},{"source":"GoS"},{"source":"BGDIA"},{"source":"IMR"},{"source":"EGW"},{"source":"WBtW"}],"size":["S"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":18,"formula":"4d6 + 4"},"speed":{"walk":20},"str":11,"dex":11,"con":12,"int":5,"wis":8,"cha":3,"senses":["darkvision
+      60 ft."],"passive":9,"resist":["cold","fire","lightning"],"immune":["poison"],"conditionImmune":["poisoned"],"languages":["Abyssal","telepathy
+      60 ft. (works only with creatures that understand Abyssal)"],"cr":"1/4","action":[{"name":"Multiattack","entries":["The
+      dretch makes two attacks: one with its bite and one with its claws."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) piercing
+      damage."]},{"name":"Claws","entries":["{@atk mw} {@hit 2} to hit, reach 5 ft.,
+      one target. {@h}5 ({@damage 2d4}) slashing damage."]},{"name":"Fetid Cloud
+      (1/Day)","entries":["A 10-foot radius of disgusting green gas extends out from
+      the dretch. The gas spreads around corners, and its area is lightly obscured.
+      It lasts for 1 minute or until a strong wind disperses it. Any creature that
+      starts its turn in that area must succeed on a {@dc 11} Constitution saving
+      throw or be {@condition poisoned} until the start of its next turn. While {@condition
+      poisoned} in this way, the target can take either an action or a bonus action
+      on its turn, not both, and can''t take reactions."]}],"soundClip":{"type":"internal","path":"bestiary/dretch.mp3"},"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["AB","TP"],"damageTags":["P","S"],"miscTags":["AOE","MW"],"conditionInflict":["poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 3bf06b9ca13d9f399737aca68eef459f

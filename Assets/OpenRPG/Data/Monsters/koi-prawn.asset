@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Koi Prawn","source":"JttRC","page":26,"_copy":{"name":"Giant
     Sea Horse","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sea horse","with":"prawn"}}},"hasToken":true}'
   DataHash: f0a3db88b0008e9df46ad5d3dbe96f30
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Koi Prawn
+    Content: 
+    AsJson: '{"name":"Koi Prawn","source":"JttRC","page":26,"_copy":{"name":"Giant
+      Sea Horse","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"sea horse","with":"prawn"}}},"hasToken":true}'
+    DataHash: f0a3db88b0008e9df46ad5d3dbe96f30

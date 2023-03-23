@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Blue Spinel","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
     transparent deep blue gemstone."]}'
   DataHash: 39b8aeffe56a8b87432e485ce4d42163
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Blue Spinel
+    Content: 
+    AsJson: '{"name":"Blue Spinel","source":"DMG","page":134,"type":"$","rarity":"none","value":50000,"entries":["A
+      transparent deep blue gemstone."]}'
+    DataHash: 39b8aeffe56a8b87432e485ce4d42163

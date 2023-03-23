@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Carriage
   AsJson: '{"name":"Carriage","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":600,"value":10000}'
   DataHash: d06036cd95fbcebc0d2dc884f558f477
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carriage
+    Content: 
+    AsJson: '{"name":"Carriage","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"VEH","rarity":"none","weight":600,"value":10000}'
+    DataHash: d06036cd95fbcebc0d2dc884f558f477

@@ -17,3 +17,11 @@ MonoBehaviour:
     Silvertongue","source":"CRCotN","_trait":{"name":"Goliath","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     silvertongue","with":"Aradrine","flags":"i"}}},"type":{"type":"humanoid","tags":["goliath","sorcerer"]},"alignment":["L","N"],"hasToken":true}'
   DataHash: 2337e616c1b460a4d4b62f304c7f8d35
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aradrine the Owl
+    Content: 
+    AsJson: '{"name":"Aradrine the Owl","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":82,"_copy":{"name":"Occult
+      Silvertongue","source":"CRCotN","_trait":{"name":"Goliath","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      silvertongue","with":"Aradrine","flags":"i"}}},"type":{"type":"humanoid","tags":["goliath","sorcerer"]},"alignment":["L","N"],"hasToken":true}'
+    DataHash: 2337e616c1b460a4d4b62f304c7f8d35

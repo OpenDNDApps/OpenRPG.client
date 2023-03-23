@@ -21,3 +21,16 @@ MonoBehaviour:
     poisoned} creature is {@condition paralyzed}. The creature can repeat the saving
     throw at the end of each of its turns, ending the effect on itself on a success."],"poisonTypes":["contact"]}'
   DataHash: 79661e6b4b24ec99d1c2aacb8bce8d98
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Carrion Crawler Mucus
+    Content: 
+    AsJson: '{"name":"Carrion Crawler Mucus","source":"DMG","page":258,"srd":"Crawler
+      Mucus (Contact)","type":"G","rarity":"none","value":20000,"poison":true,"entries":["This
+      poison must be harvested from a dead or {@condition incapacitated} {@creature
+      carrion crawler}. A creature subjected to this poison must succeed on a DC
+      13 Constitution saving throw or be {@condition poisoned} for 1 minute. The
+      {@condition poisoned} creature is {@condition paralyzed}. The creature can
+      repeat the saving throw at the end of each of its turns, ending the effect
+      on itself on a success."],"poisonTypes":["contact"]}'
+    DataHash: 79661e6b4b24ec99d1c2aacb8bce8d98

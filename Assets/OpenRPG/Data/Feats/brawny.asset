@@ -20,6 +20,17 @@ MonoBehaviour:
     count as if you were one size larger for the purpose of determining your carrying
     capacity."]}]}'
   DataHash: be574faee39944e33e76f0cf851a67a2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Brawny
+    Content: 
+    AsJson: '{"name":"Brawny","source":"UAFeatsForSkills","page":1,"ability":[{"str":1}],"skillProficiencies":[{"athletics":true}],"entries":["You
+      become stronger, gaining the following benefits:",{"type":"list","items":["You
+      gain proficiency in the {@skill Athletics} skill. If you are already proficient
+      in the skill, you add double your proficiency bonus to checks you make with
+      it.","You count as if you were one size larger for the purpose of determining
+      your carrying capacity."]}]}'
+    DataHash: be574faee39944e33e76f0cf851a67a2
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 1
   Prerequisites: []

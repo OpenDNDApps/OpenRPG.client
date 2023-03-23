@@ -18,3 +18,13 @@ MonoBehaviour:
     30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action,
     you can lower the hood, reducing the light to dim light in a 5-foot radius."]}'
   DataHash: d849e036493ddad5ea89f5015added96
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hooded Lantern
+    Content: 
+    AsJson: '{"name":"Hooded Lantern","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":2,"value":500,"entries":["A
+      hooded lantern casts bright light in a 30-foot radius and dim light for an
+      additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+      As an action, you can lower the hood, reducing the light to dim light in a
+      5-foot radius."]}'
+    DataHash: d849e036493ddad5ea89f5015added96

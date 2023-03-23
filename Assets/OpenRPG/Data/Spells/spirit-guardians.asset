@@ -28,3 +28,23 @@ MonoBehaviour:
     level or higher, the damage increases by {@scaledamage 3d8|3-9|1d8} for each
     slot level above 3rd."]}],"damageInflict":["necrotic","radiant"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["S"]}'
   DataHash: 97dacac07eadba4179adf4e74fb6a9e9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spirit Guardians
+    Content: 
+    AsJson: '{"name":"Spirit Guardians","source":"PHB","page":278,"srd":true,"basicRules":true,"level":3,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"radius","distance":{"type":"feet","amount":15}},"components":{"v":true,"s":true,"m":"a
+      holy symbol"},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+      call forth spirits to protect you. They flit around you to a distance of 15
+      feet for the duration. If you are good or neutral, their spectral form appears
+      angelic or fey (your choice). If you are evil, they appear fiendish.","When
+      you cast this spell, you can designate any number of creatures you can see
+      to be unaffected by it. An affected creature''s speed is halved in the area,
+      and when the creature enters the area for the first time on a turn or starts
+      its turn there, it must make a Wisdom saving throw. On a failed save, the creature
+      takes {@damage 3d8} radiant damage (if you are good or neutral) or {@damage
+      3d8} necrotic damage (if you are evil). On a successful save, the creature
+      takes half as much damage."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, the damage increases by {@scaledamage 3d8|3-9|1d8} for each
+      slot level above 3rd."]}],"damageInflict":["necrotic","radiant"],"savingThrow":["wisdom"],"miscTags":["SGT"],"areaTags":["S"]}'
+    DataHash: 97dacac07eadba4179adf4e74fb6a9e9

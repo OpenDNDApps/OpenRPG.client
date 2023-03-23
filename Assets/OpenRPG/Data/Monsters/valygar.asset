@@ -26,3 +26,21 @@ MonoBehaviour:
     a creature within 5 feet of Valygar casts a spell, he can use his reaction to
     make a melee weapon attack against that creature."]}],"actionTags":["Multiattack"],"languageTags":["C","DR","P"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 47fd51931c4c91a48f491f82ed96f0be
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Valygar
+    Content: 
+    AsJson: '{"name":"Valygar","isNamedCreature":true,"source":"MaBJoV","page":36,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"ac":[{"ac":17,"from":["{@item
+      half plate armor|PHB|half plate}"]}],"hp":{"average":90,"formula":"12d8 + 36"},"speed":{"walk":30},"str":14,"dex":18,"con":16,"int":10,"wis":11,"cha":10,"save":{"str":"+6","dex":"+8"},"skill":{"arcana":"+4","history":"+4","perception":"+4"},"passive":14,"languages":["Common","Draconic","Primordial"],"cr":"9","trait":[{"name":"Mage
+      Slaying","entries":["When Valygar deals damage to a creature that is concentrating
+      on a spell, that creature has disadvantage on the saving throw it makes to
+      maintain its concentration."]}],"action":[{"name":"Multiattack","entries":["Valygar
+      makes two katana attacks and one hand crossbow attack or two hand crossbow
+      attacks."]},{"name":"Katana","entries":["{@atk mw} {@hit 8} to hit, reach 5
+      ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage, or 9 ({@damage
+      1d10 + 4}) slashing damage if used with two hands."]},{"name":"Hand Crossbow","entries":["{@atk
+      rw} {@hit 8} to hit, range 30/120 ft., one target. {@h}7 ({@damage 1d6 + 4})
+      piercing damage."]}],"reaction":[{"name":"Disrupt Spell","entries":["When a
+      creature within 5 feet of Valygar casts a spell, he can use his reaction to
+      make a melee weapon attack against that creature."]}],"actionTags":["Multiattack"],"languageTags":["C","DR","P"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 47fd51931c4c91a48f491f82ed96f0be

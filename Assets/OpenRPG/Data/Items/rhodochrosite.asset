@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Rhodochrosite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque light pink gemstone."]}'
   DataHash: 45d4782de47c9376d4fe991ff4c3448f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Rhodochrosite
+    Content: 
+    AsJson: '{"name":"Rhodochrosite","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque light pink gemstone."]}'
+    DataHash: 45d4782de47c9376d4fe991ff4c3448f

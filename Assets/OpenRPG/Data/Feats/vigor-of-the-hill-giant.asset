@@ -24,6 +24,21 @@ MonoBehaviour:
     one or more Hit Dice to regain hit points, you regain additional hit points equal
     to your Constitution modifier + your proficiency bonus."]}]}]}'
   DataHash: b682a6685eb086917ab7fa352f7d4403
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vigor Of The Hill Giant
+    Content: 
+    AsJson: '{"name":"Vigor Of The Hill Giant","source":"UA2022WondersOfTheMultiverse","page":10,"prerequisite":[{"level":4,"feat":["strike
+      of the giants|ua2022wondersofthemultiverse|strike of the giants (hill giant)"]}],"ability":[{"con":1}],"entries":["You''ve
+      manifested the resilience emblematic of hill giants, granting you the following
+      benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Bulwark","entries":["When
+      you are subjected to an effect that would move you at least 5 feet or knock
+      you {@condition prone}, you can use your reaction to steady yourself. You are
+      then neither moved nor knocked {@condition prone}."]},{"type":"item","name":"Iron
+      Stomach","entries":["Whenever you eat food as part of a short rest and spend
+      one or more Hit Dice to regain hit points, you regain additional hit points
+      equal to your Constitution modifier + your proficiency bonus."]}]}]}'
+    DataHash: b682a6685eb086917ab7fa352f7d4403
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 10
   Prerequisites:

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Undercommon","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["underdark
     traders"],"script":"Elvish","hasFluffImages":true}'
   DataHash: 9e56b5d5dfe9c8e2b4d56c97d1a63905
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Undercommon
+    Content: 
+    AsJson: '{"name":"Undercommon","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["underdark
+      traders"],"script":"Elvish","hasFluffImages":true}'
+    DataHash: 9e56b5d5dfe9c8e2b4d56c97d1a63905

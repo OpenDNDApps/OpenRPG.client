@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Szoldar Szoldarovich","isNpc":true,"source":"CoS","page":100,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Szoldar","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
   DataHash: 130953c3b661a4f862e449e048bb0ea2
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Szoldar Szoldarovich
+    Content: 
+    AsJson: '{"name":"Szoldar Szoldarovich","isNpc":true,"source":"CoS","page":100,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Szoldar","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 130953c3b661a4f862e449e048bb0ea2

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Yellow Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
     transparent fiery yellow or yellow-green gemstone."]}'
   DataHash: a84a480f282709c6589f48d337e840aa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yellow Sapphire
+    Content: 
+    AsJson: '{"name":"Yellow Sapphire","source":"DMG","page":134,"type":"$","rarity":"none","value":100000,"entries":["A
+      transparent fiery yellow or yellow-green gemstone."]}'
+    DataHash: a84a480f282709c6589f48d337e840aa

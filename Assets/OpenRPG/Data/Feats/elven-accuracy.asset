@@ -20,6 +20,17 @@ MonoBehaviour:
     advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma,
     you can reroll one of the dice once."]}]}'
   DataHash: a96e0a6f796962e898b7ebd37dee2409
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elven Accuracy
+    Content: 
+    AsJson: '{"name":"Elven Accuracy","source":"XGE","page":74,"prerequisite":[{"race":[{"name":"elf"},{"name":"half-elf"}]}],"ability":[{"choose":{"from":["dex","int","wis","cha"],"amount":1}}],"entries":["The
+      accuracy of elves is legendary, especially that of elf archers and spellcasters.
+      You have uncanny aim with attacks that rely on precision rather than brute
+      force. You gain the following benefits:",{"type":"list","items":["Whenever
+      you have advantage on an attack roll using Dexterity, Intelligence, Wisdom,
+      or Charisma, you can reroll one of the dice once."]}]}'
+    DataHash: a96e0a6f796962e898b7ebd37dee2409
   Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   SourcePages: 74
   Prerequisites:

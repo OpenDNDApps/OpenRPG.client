@@ -19,3 +19,13 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 123a94000a51f8c31007f11af7d31a9b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bracers of Archery
+    Content: 
+    AsJson: '{"name":"Bracers of Archery","source":"DMG","page":156,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"grantsProficiency":true,"bonusWeaponDamage":"+2","entries":["While
+      wearing these bracers, you have proficiency with the longbow and shortbow,
+      and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 123a94000a51f8c31007f11af7d31a9b

@@ -20,3 +20,14 @@ MonoBehaviour:
     one melee attack that would hit it. To do so, Orond must see the attacker and
     be wielding a melee weapon."]}],"actionTags":["Parry"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 1f28374c7bbf1e15c45aa380a08bd90e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orond Gralhund
+    Content: 
+    AsJson: '{"name":"Orond Gralhund","isNpc":true,"source":"WDH","page":213,"size":["M"],"type":{"type":"humanoid","tags":[{"tag":"human","prefix":"Tethyrian"}]},"alignment":["L","E"],"ac":[{"ac":15,"from":["{@item
+      breastplate|phb}"]}],"hp":{"average":9,"formula":"2d8"},"speed":{"walk":30},"str":11,"dex":12,"con":11,"int":9,"wis":14,"cha":16,"skill":{"deception":"+5","insight":"+4","persuasion":"+5"},"passive":12,"languages":["Common"],"cr":"1/8","action":[{"name":"Rapier","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing
+      damage."]}],"reaction":[{"name":"Parry","entries":["Orond adds 2 to its AC
+      against one melee attack that would hit it. To do so, Orond must see the attacker
+      and be wielding a melee weapon."]}],"actionTags":["Parry"],"languageTags":["C"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 1f28374c7bbf1e15c45aa380a08bd90e

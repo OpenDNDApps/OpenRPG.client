@@ -20,3 +20,14 @@ MonoBehaviour:
     weapons of some dragons)."],"optionalfeatures":["replicate magic item|tce"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: ba8cec60111f685081faca4e56df26a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necklace of Adaptation
+    Content: 
+    AsJson: '{"name":"Necklace of Adaptation","source":"DMG","page":182,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"weight":1,"entries":["While
+      wearing this necklace, you can breathe normally in any environment, and you
+      have advantage on saving throws made against harmful gases and vapors (such
+      as {@spell cloudkill} and {@spell stinking cloud} effects, inhaled poisons,
+      and the breath weapons of some dragons)."],"optionalfeatures":["replicate magic
+      item|tce"],"lootTables":["Magic Item Table F"],"hasFluffImages":true}'
+    DataHash: ba8cec60111f685081faca4e56df26a5

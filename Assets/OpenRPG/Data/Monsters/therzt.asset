@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Therzt","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","X"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 0d39e4fa472452e0a81f0f302931ad12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Therzt
+    Content: 
+    AsJson: '{"name":"Therzt","isNpc":true,"source":"TftYP","page":158,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sunlight Sensitivity"],"senseTags":["SD"],"languageTags":["C","E","X"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 0d39e4fa472452e0a81f0f302931ad12

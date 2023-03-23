@@ -25,3 +25,19 @@ MonoBehaviour:
     system if the spell''s level is equal to or less than the level of the spell
     slot you used."]}],"abilityCheck":["intelligence"]}'
   DataHash: 31b712905bc41db4c559f80a863641b0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arcane Hacking (UA)
+    Content: 
+    AsJson: '{"name":"Arcane Hacking (UA)","source":"UAModernMagic","page":5,"level":2,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"hacking
+      tools"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"meta":{"technomagic":true},"entries":["You
+      gain advantage on all Intelligence checks using hacking tools to break software
+      encryption or online security when using a foreign system. This spell also
+      allows you to break 2nd-level and lower protective spells such as arcane lock
+      or glyph of warding by making an Intelligence check using hacking tools against
+      the spell save DC of the spell''s caster."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 3rd
+      level or higher, you can attempt to counteract a spell set to secure the foreign
+      system if the spell''s level is equal to or less than the level of the spell
+      slot you used."]}],"abilityCheck":["intelligence"]}'
+    DataHash: 31b712905bc41db4c559f80a863641b0

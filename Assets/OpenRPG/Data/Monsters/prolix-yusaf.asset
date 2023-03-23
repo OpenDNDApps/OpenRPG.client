@@ -17,3 +17,11 @@ MonoBehaviour:
     Agent","source":"CRCotN","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     agent","with":"Prolix","flags":"i"}}},"size":["M"],"type":{"type":"humanoid","tags":["tiefling","wizard"]},"alignment":["L","N"],"damageTagsSpell":["F"],"spellcastingTags":["I","O"],"hasToken":true}'
   DataHash: 69b3911e7cee64d313374b637b249d8c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prolix Yusaf
+    Content: 
+    AsJson: '{"name":"Prolix Yusaf","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":54,"_copy":{"name":"Scholarly
+      Agent","source":"CRCotN","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      agent","with":"Prolix","flags":"i"}}},"size":["M"],"type":{"type":"humanoid","tags":["tiefling","wizard"]},"alignment":["L","N"],"damageTagsSpell":["F"],"spellcastingTags":["I","O"],"hasToken":true}'
+    DataHash: 69b3911e7cee64d313374b637b249d8c

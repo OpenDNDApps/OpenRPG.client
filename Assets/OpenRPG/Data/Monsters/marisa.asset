@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Marisa","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     ghost","with":"Marisa","flags":"i"}}},"hasToken":true}'
   DataHash: 052110ad5e3221822980305b5a826f62
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Marisa
+    Content: 
+    AsJson: '{"name":"Marisa","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":150,"_copy":{"name":"Ghost","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      ghost","with":"Marisa","flags":"i"}}},"hasToken":true}'
+    DataHash: 052110ad5e3221822980305b5a826f62

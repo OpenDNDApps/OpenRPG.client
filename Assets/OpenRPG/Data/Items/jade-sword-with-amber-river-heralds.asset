@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Jade sword with amber (River Heralds)
   AsJson: '{"name":"Jade sword with amber (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
   DataHash: 55bd736256906c2a30b8a3b1cdd5c124
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jade sword with amber (River Heralds)
+    Content: 
+    AsJson: '{"name":"Jade sword with amber (River Heralds)","source":"PSX","page":24,"type":"$","rarity":"none","value":75000}'
+    DataHash: 55bd736256906c2a30b8a3b1cdd5c124

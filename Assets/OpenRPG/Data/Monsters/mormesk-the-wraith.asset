@@ -28,3 +28,22 @@ MonoBehaviour:
     to the target''s hit point maximum lasts until the target finishes a long rest."]}],"traitTags":["Incorporeal
     Movement","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","I"],"damageTags":["N"],"miscTags":["HPR","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 4ac42d0ff17b7a4d3044f2f8154d1221
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mormesk the Wraith
+    Content: 
+    AsJson: '{"name":"Mormesk the Wraith","isNpc":true,"isNamedCreature":true,"source":"LMoP","page":59,"size":["M"],"type":"undead","alignment":["N","E"],"ac":[13],"hp":{"average":45,"formula":"6d8
+      + 18"},"speed":{"walk":0,"fly":60},"str":6,"dex":16,"con":16,"int":12,"wis":14,"cha":15,"senses":["darkvision
+      60 ft."],"passive":12,"resist":["acid","cold","fire","lightning","thunder",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks that aren''t silvered","cond":true}],"immune":["necrotic","poison"],"conditionImmune":["charmed","grappled","paralyzed","petrified","poisoned","prone","restrained"],"languages":["Common","Infernal"],"cr":"3","trait":[{"name":"Incorporeal
+      Movement","entries":["The wraith can move through an object or another creature,
+      but can''t stop there."]},{"name":"Sunlight Sensitivity","entries":["While
+      in sunlight, the wraith has disadvantage on attack rolls and on Wisdom ({@skill
+      Perception}) checks that rely on sight."]}],"action":[{"name":"Life Drain","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}16 ({@damage 3d8 + 3})
+      necrotic damage, and the target must succeed on a {@dc 13} Constitution saving
+      throw or its hit point maximum is reduced by an amount equal to the damage
+      taken. If this attack reduces the target''s hit point maximum to 0, the target
+      dies. This reduction to the target''s hit point maximum lasts until the target
+      finishes a long rest."]}],"traitTags":["Incorporeal Movement","Sunlight Sensitivity"],"senseTags":["D"],"languageTags":["C","I"],"damageTags":["N"],"miscTags":["HPR","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 4ac42d0ff17b7a4d3044f2f8154d1221

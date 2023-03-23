@@ -35,3 +35,32 @@ MonoBehaviour:
     Until this grapple ends, the kuo-toa can''t use its pincer staff on another target."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/kuo-toa-whip.mp3"},"traitTags":["Amphibious","Sunlight
     Sensitivity"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["P"],"damageTagsSpell":["R"],"spellcastingTags":["CC"],"miscTags":["MW","RCH"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 7271409a2c37877b128bfdf7d87e3f7a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kuo-toa Whip
+    Content: 
+    AsJson: '{"name":"Kuo-toa Whip","source":"MM","page":200,"otherSources":[{"source":"PotA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"}],"size":["M"],"type":{"type":"humanoid","tags":["kuo-toa"]},"alignment":["N","E"],"ac":[{"ac":11,"from":["natural
+      armor"]}],"hp":{"average":65,"formula":"10d8 + 20"},"speed":{"walk":30,"swim":30},"str":14,"dex":10,"con":14,"int":12,"wis":14,"cha":11,"skill":{"perception":"+6","religion":"+5"},"senses":["darkvision
+      120 ft."],"passive":16,"languages":["Undercommon"],"cr":"1","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell
+      save {@dc 12}, {@hit 4} to hit with spell attacks). The kuo-toa has the following
+      cleric spells prepared:"],"spells":{"0":{"spells":["{@spell sacred flame}","{@spell
+      thaumaturgy}"]},"1":{"slots":3,"spells":["{@spell bane}","{@spell shield of
+      faith}"]}},"ability":"wis"}],"trait":[{"name":"Amphibious","entries":["The
+      kuo-toa can breathe air and water."]},{"name":"Otherworldly Perception","entries":["The
+      kuo-toa can sense the presence of any creature within 30 feet of it that is
+      {@condition invisible} or on the Ethereal Plane. It can pinpoint such a creature
+      that is moving."]},{"name":"Slippery","entries":["The kuo-toa has advantage
+      on ability checks and saving throws made to escape a grapple."]},{"name":"Sunlight
+      Sensitivity","entries":["While in sunlight, the kuo-toa has disadvantage on
+      attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on
+      sight."]}],"action":[{"name":"Multiattack","entries":["The kuo-toa makes two
+      attacks: one with its bite and one with its pincer staff."]},{"name":"Bite","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing
+      damage."]},{"name":"Pincer Staff","entries":["{@atk mw} {@hit 4} to hit, reach
+      10 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage. If the target
+      is a Medium or smaller creature, it is {@condition grappled} (escape {@dc 14}).
+      Until this grapple ends, the kuo-toa can''t use its pincer staff on another
+      target."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/kuo-toa-whip.mp3"},"traitTags":["Amphibious","Sunlight
+      Sensitivity"],"senseTags":["SD"],"actionTags":["Multiattack"],"languageTags":["U"],"damageTags":["P"],"damageTagsSpell":["R"],"spellcastingTags":["CC"],"miscTags":["MW","RCH"],"conditionInflict":["grappled"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 7271409a2c37877b128bfdf7d87e3f7a

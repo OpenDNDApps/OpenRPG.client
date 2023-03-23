@@ -25,3 +25,19 @@ MonoBehaviour:
     poisoned} while under the spell''s effect, the disease and poison have no effect
     until the spell ends."],"damageResist":["acid","bludgeoning","cold","fire","force","lightning","necrotic","piercing","poison","radiant","slashing","thunder"],"conditionInflict":["blinded","incapacitated"],"areaTags":["ST"]}'
   DataHash: 2ee01e6816a2cd36d913bd81d19478c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feign Death
+    Content: 
+    AsJson: '{"name":"Feign Death","source":"PHB","page":240,"level":3,"school":"N","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      pinch of graveyard dirt"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"meta":{"ritual":true},"entries":["You
+      touch a willing creature and put it into a cataleptic state that is indistinguishable
+      from death.","For the spell''s duration, or until you use an action to touch
+      the target and dismiss the spell, the target appears dead to all outward inspection
+      and to spells used to determine the target''s status. The target is {@condition
+      blinded} and {@condition incapacitated}, and its speed drops to 0. The target
+      has resistance to all damage except psychic damage. If the target is diseased
+      or {@condition poisoned} when you cast the spell, or becomes diseased or {@condition
+      poisoned} while under the spell''s effect, the disease and poison have no effect
+      until the spell ends."],"damageResist":["acid","bludgeoning","cold","fire","force","lightning","necrotic","piercing","poison","radiant","slashing","thunder"],"conditionInflict":["blinded","incapacitated"],"areaTags":["ST"]}'
+    DataHash: 2ee01e6816a2cd36d913bd81d19478c7

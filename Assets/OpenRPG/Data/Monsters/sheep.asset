@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Sheep
   AsJson: '{"name":"Sheep","source":"SKT","page":142,"_copy":{"name":"Goat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"goat","with":"sheep","flags":"i"},"trait":{"mode":"removeArr","names":"Charge"}}},"size":["S"],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":30},"action":null,"traitTags":[],"miscTags":[],"hasToken":true}'
   DataHash: e178e161bee2ede35c18d682a526a719
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sheep
+    Content: 
+    AsJson: '{"name":"Sheep","source":"SKT","page":142,"_copy":{"name":"Goat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"goat","with":"sheep","flags":"i"},"trait":{"mode":"removeArr","names":"Charge"}}},"size":["S"],"hp":{"average":3,"formula":"1d6"},"speed":{"walk":30},"action":null,"traitTags":[],"miscTags":[],"hasToken":true}'
+    DataHash: e178e161bee2ede35c18d682a526a719

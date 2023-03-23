@@ -18,3 +18,12 @@ MonoBehaviour:
     doesn''t cost you extra movement for 1 hour. Once this property has been used,
     it can''t be used again, and the medal becomes nonmagical."]}'
   DataHash: 33fe8cfad35fb96788532d0cf2307b3a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Medal of the Wetlands
+    Content: 
+    AsJson: '{"name":"Medal of the Wetlands","source":"CRCotN","page":214,"rarity":"common","wondrous":true,"entries":["When
+      you use an action to trace the edge of this medal, {@quickref difficult terrain||3}
+      doesn''t cost you extra movement for 1 hour. Once this property has been used,
+      it can''t be used again, and the medal becomes nonmagical."]}'
+    DataHash: 33fe8cfad35fb96788532d0cf2307b3a

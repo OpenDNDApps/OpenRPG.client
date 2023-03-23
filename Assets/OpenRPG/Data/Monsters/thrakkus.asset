@@ -25,3 +25,19 @@ MonoBehaviour:
     save, or half as much damage on a successful one."]}],"traitTags":["Reckless"],"actionTags":["Breath
     Weapon"],"languageTags":["C","DR"],"damageTags":["F","S"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true}'
   DataHash: ca651dd3808d58ae1452b0e26b856551
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thrakkus
+    Content: 
+    AsJson: '{"name":"Thrakkus","isNpc":true,"source":"WDH","page":89,"size":["M"],"type":{"type":"humanoid","tags":["dragonborn"]},"alignment":["C","E"],"ac":[{"ac":13,"from":["{@item
+      hide armor|phb}"]}],"hp":{"average":67,"formula":"9d8 + 27"},"speed":{"walk":30},"str":16,"dex":12,"con":17,"int":9,"wis":11,"cha":9,"passive":10,"resist":["fire"],"languages":["Common","Draconic"],"cr":"2","trait":[{"name":"Reckless","entries":["At
+      the start of his turn, Thrakkus can gain advantage on all melee weapon attack
+      rolls during that turn, but attack rolls against him have advantage until the
+      start of his next turn."]}],"action":[{"name":"Greataxe","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d12 + 3}) slashing
+      damage."]},{"name":"Breath Weapon (1/Day)","entries":["Thrakkus can use his
+      action to exhale a 15-foot cone of fire. Each creature in the cone must make
+      a {@dc 13} Dexterity saving throw, taking 6 ({@damage 2d6}) fire damage on
+      a failed save, or half as much damage on a successful one."]}],"traitTags":["Reckless"],"actionTags":["Breath
+      Weapon"],"languageTags":["C","DR"],"damageTags":["F","S"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true}'
+    DataHash: ca651dd3808d58ae1452b0e26b856551

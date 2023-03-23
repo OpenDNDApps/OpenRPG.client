@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Enna Galakiir (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     assassin","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
   DataHash: f428e728b4d5511e28a17505f1905b81
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Enna Galakiir (Levels 9-11)
+    Content: 
+    AsJson: '{"name":"Enna Galakiir (Levels 9-11)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Assassin","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      assassin","with":"Enna Galakiir","flags":"i"}}},"type":{"type":"humanoid","tags":["elf"]},"alignment":["N"],"hasToken":true}'
+    DataHash: f428e728b4d5511e28a17505f1905b81

@@ -17,3 +17,11 @@ MonoBehaviour:
     prayer empowers you with divine radiance. Until the spell ends, your weapon attacks
     deal an extra {@damage 1d4} radiant damage on a hit."],"damageInflict":["radiant"],"miscTags":["AAD"]}'
   DataHash: 3185ffd40934bc86a76e6d87551e8fb4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Divine Favor
+    Content: 
+    AsJson: '{"name":"Divine Favor","source":"PHB","page":234,"srd":true,"level":1,"school":"V","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Your
+      prayer empowers you with divine radiance. Until the spell ends, your weapon
+      attacks deal an extra {@damage 1d4} radiant damage on a hit."],"damageInflict":["radiant"],"miscTags":["AAD"]}'
+    DataHash: 3185ffd40934bc86a76e6d87551e8fb4

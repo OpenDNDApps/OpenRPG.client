@@ -24,3 +24,18 @@ MonoBehaviour:
     3rd. Additionally, the spell deals an additional {@damage 1d6} fire damage for
     each slot level above 3rd."]}],"damageInflict":["fire"],"miscTags":["OBJ"]}'
   DataHash: c0146f4c6f9e3e10d610b5d152b52e2a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Flame Stride
+    Content: 
+    AsJson: '{"name":"Flame Stride","source":"UA2021DraconicOptions","page":6,"level":3,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["The
+      billowing flames of a dragon cover your feet, granting you explosive speed.
+      For the duration, your speed increases by 20 feet and moving doesn''t provoke
+      opportunity attacks.","When you move within 5 feet of a creature or object
+      that isn''t being worn or carried, it takes {@damage 1d6} fire damage from
+      your trail of heat. A creature or object can take this damage only once during
+      a turn."],"entriesHigherLevel":[{"type":"entries","name":"At Higher Levels","entries":["When
+      you cast this spell using a spell slot of 4th level or higher, increase your
+      speed by 5 feet for each spell slot level above 3rd. Additionally, the spell
+      deals an additional {@damage 1d6} fire damage for each slot level above 3rd."]}],"damageInflict":["fire"],"miscTags":["OBJ"]}'
+    DataHash: c0146f4c6f9e3e10d610b5d152b52e2a

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Macaw
   AsJson: '{"name":"Macaw","source":"PSX","page":39,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"macaw"}}},"hasToken":true,"hasFluff":true}'
   DataHash: 32121bab819e62e98eb56bbba7531369
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Macaw
+    Content: 
+    AsJson: '{"name":"Macaw","source":"PSX","page":39,"_copy":{"name":"Raven","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"raven","with":"macaw"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: 32121bab819e62e98eb56bbba7531369

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Aegisaur
   AsJson: '{"name":"Aegisaur","source":"PSX","page":28,"_copy":{"name":"Ankylosaurus","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 5c139ecaed047822a5a57c47f607d2d9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aegisaur
+    Content: 
+    AsJson: '{"name":"Aegisaur","source":"PSX","page":28,"_copy":{"name":"Ankylosaurus","source":"MM"},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 5c139ecaed047822a5a57c47f607d2d9

@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Laleh","flags":"i"}}},"alignment":["N","G"],"traitTags":["Fey
     Ancestry","Keen Senses"],"hasToken":true}'
   DataHash: e075873c2c6849175abe041baa5436b5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Laleh Ghorbani
+    Content: 
+    AsJson: '{"name":"Laleh Ghorbani","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":156,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Laleh","flags":"i"}}},"alignment":["N","G"],"traitTags":["Fey
+      Ancestry","Keen Senses"],"hasToken":true}'
+    DataHash: e075873c2c6849175abe041baa5436b5

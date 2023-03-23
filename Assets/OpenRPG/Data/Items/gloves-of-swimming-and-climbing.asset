@@ -19,3 +19,13 @@ MonoBehaviour:
     swim."],"optionalfeatures":["replicate magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"]}'
   DataHash: 22524d7e358ee01768a4715edd915766
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gloves of Swimming and Climbing
+    Content: 
+    AsJson: '{"name":"Gloves of Swimming and Climbing","source":"DMG","page":172,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+      wearing these gloves, climbing and swimming don''t cost you extra movement,
+      and you gain a +5 bonus to Strength ({@skill Athletics}) checks made to climb
+      or swim."],"optionalfeatures":["replicate magic item|tce","replicate magic
+      item|uaartificerrevisited"],"lootTables":["Magic Item Table F"]}'
+    DataHash: 22524d7e358ee01768a4715edd915766

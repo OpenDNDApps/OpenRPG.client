@@ -21,3 +21,15 @@ MonoBehaviour:
     roll a {@dice d20}. On a 1, a sad tuba sound plays as the wand crumbles to dust
     and is destroyed."]}'
   DataHash: ba31f2c7ea4fd88f0753bc791b7b9743
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wand of Conducting
+    Content: 
+    AsJson: '{"name":"Wand of Conducting","source":"XGE","page":140,"type":"WD","tier":"minor","rarity":"common","weight":1,"recharge":"dawn","rechargeAmount":3,"charges":3,"entries":["This
+      wand has 3 charges. While holding it, you can use an action to expend 1 of
+      its charges and create orchestral music by waving it around. The music can
+      be heard out to a range of 60 feet and ends when you stop waving the wand.","The
+      wand regains all expended charges daily at dawn. If you expend the wand''s
+      last charge, roll a {@dice d20}. On a 1, a sad tuba sound plays as the wand
+      crumbles to dust and is destroyed."]}'
+    DataHash: ba31f2c7ea4fd88f0753bc791b7b9743

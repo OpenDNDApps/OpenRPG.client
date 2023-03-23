@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum 10-Zino Coin
   AsJson: '{"name":"Platinum 10-Zino Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":1000}'
   DataHash: c786905a9162e4126b698630b08d9614
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum 10-Zino Coin
+    Content: 
+    AsJson: '{"name":"Platinum 10-Zino Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":1000}'
+    DataHash: c786905a9162e4126b698630b08d9614

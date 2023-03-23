@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Chain (10 feet)","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":500,"entries":["A
     chain has 10 hit points. It can be burst with a successful DC 20 Strength check."]}'
   DataHash: fa04b85c642b54fbfab443568fe30d26
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chain (10 feet)
+    Content: 
+    AsJson: '{"name":"Chain (10 feet)","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":10,"value":500,"entries":["A
+      chain has 10 hit points. It can be burst with a successful DC 20 Strength check."]}'
+    DataHash: fa04b85c642b54fbfab443568fe30d26

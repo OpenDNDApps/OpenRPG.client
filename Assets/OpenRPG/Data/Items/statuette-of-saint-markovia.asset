@@ -17,3 +17,11 @@ MonoBehaviour:
     (magic)","value":25000,"bonusSavingThrow":"+1","entries":["This golden statuette
     grants any good-aligned creature that carries it a +1 bonus to saving throws."]}'
   DataHash: e864a5ec2014360d41c15cf384a39ca3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Statuette of Saint Markovia
+    Content: 
+    AsJson: '{"name":"Statuette of Saint Markovia","source":"CoS","page":152,"type":"OTH","rarity":"unknown
+      (magic)","value":25000,"bonusSavingThrow":"+1","entries":["This golden statuette
+      grants any good-aligned creature that carries it a +1 bonus to saving throws."]}'
+    DataHash: e864a5ec2014360d41c15cf384a39ca3

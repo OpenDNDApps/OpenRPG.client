@@ -16,3 +16,11 @@ MonoBehaviour:
   AsJson: '{"name":"Tixie''s Shield Guardian","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Shield
     Guardian","source":"MM","_mod":{"trait":{"mode":"removeArr","names":"Spell Storing"}}}}'
   DataHash: b9d2861aadfc051969ef790a70295a4c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Tixie's Shield Guardian
+    Content: 
+    AsJson: '{"name":"Tixie''s Shield Guardian","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Shield
+      Guardian","source":"MM","_mod":{"trait":{"mode":"removeArr","names":"Spell
+      Storing"}}}}'
+    DataHash: b9d2861aadfc051969ef790a70295a4c

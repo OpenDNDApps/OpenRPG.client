@@ -21,3 +21,15 @@ MonoBehaviour:
     and {@condition blinded} while {@condition poisoned} in this way. A {@spell lesser
     restoration} spell or similar magic ends the effect."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 2b36303bbad4a6ab9b8b4ef03051d721
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nar'l Xibrindas
+    Content: 
+    AsJson: '{"name":"Nar''l Xibrindas","isNpc":true,"source":"WDH","page":211,"_copy":{"name":"Drow
+      Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\bthe drow\\b","with":"Nar''l","flags":"i"},"trait":{"mode":"appendArr","items":{"name":"Special
+      Equipment","entries":["Nar''l carries a vial containing three doses of eyescratch,
+      a contact poison. A creature that comes into contact with the poison must succeed
+      on a {@dc 14} Constitution saving throw or be {@condition poisoned} for 1 hour
+      and {@condition blinded} while {@condition poisoned} in this way. A {@spell
+      lesser restoration} spell or similar magic ends the effect."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 2b36303bbad4a6ab9b8b4ef03051d721

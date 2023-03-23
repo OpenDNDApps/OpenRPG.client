@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Large gold bracelet (Legion of Dusk)
   AsJson: '{"name":"Large gold bracelet (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: 3ba5fc63be24d642fedbf30b683f4290
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Large gold bracelet (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Large gold bracelet (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: 3ba5fc63be24d642fedbf30b683f4290

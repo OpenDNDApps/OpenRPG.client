@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Songhorn","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
     recorder, a simple type of flute, usually carved from wood."]}'
   DataHash: 0dce731d1bde1092790826dcf0441fe5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Songhorn
+    Content: 
+    AsJson: '{"name":"Songhorn","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      recorder, a simple type of flute, usually carved from wood."]}'
+    DataHash: 0dce731d1bde1092790826dcf0441fe5

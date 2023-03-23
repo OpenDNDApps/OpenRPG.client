@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Barrel","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":70,"value":200,"entries":["A
     barrel can hold 40 gallons of liquid or 4 cubic feet of solids."]}'
   DataHash: 62062c95428456f577dcc4ab86245bd3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Barrel
+    Content: 
+    AsJson: '{"name":"Barrel","source":"PHB","page":153,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":70,"value":200,"entries":["A
+      barrel can hold 40 gallons of liquid or 4 cubic feet of solids."]}'
+    DataHash: 62062c95428456f577dcc4ab86245bd3

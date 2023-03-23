@@ -29,3 +29,24 @@ MonoBehaviour:
     3}) psychic damage."]}],"soundClip":{"type":"internal","path":"bestiary/shadow-demon.mp3"},"traitTags":["Incorporeal
     Movement","Light Sensitivity"],"senseTags":["SD"],"languageTags":["AB","TP"],"damageTags":["O","Y"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 11306c932ba22ec1c4ff8b9981163760
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shadow Demon
+    Content: 
+    AsJson: '{"name":"Shadow Demon","source":"MM","page":64,"otherSources":[{"source":"CoS"},{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"BGDIA"},{"source":"IMR"},{"source":"MOT"},{"source":"IDRotF"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"KftGV"}],"size":["M"],"type":{"type":"fiend","tags":["demon"]},"alignment":["C","E"],"ac":[13],"hp":{"average":66,"formula":"12d8
+      + 12"},"speed":{"walk":30,"fly":30},"str":1,"dex":17,"con":12,"int":14,"wis":13,"cha":14,"save":{"dex":"+5","cha":"+4"},"skill":{"stealth":"+7"},"senses":["darkvision
+      120 ft."],"passive":11,"resist":["acid","fire","necrotic","thunder",{"resist":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks","cond":true}],"immune":["cold","lightning","poison"],"vulnerable":["radiant"],"conditionImmune":["exhaustion","grappled","paralyzed","petrified","poisoned","prone","restrained"],"languages":["Abyssal","telepathy
+      120 ft."],"cr":"4","trait":[{"name":"Incorporeal Movement","entries":["The
+      demon can move through other creatures and objects as if they were {@quickref
+      difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends
+      its turn inside an object."]},{"name":"Light Sensitivity","entries":["While
+      in bright light, the demon has disadvantage on attack rolls, as well as on
+      Wisdom ({@skill Perception}) checks that rely on sight."]},{"name":"Shadow
+      Stealth","entries":["While in dim light or darkness, the demon can take the
+      Hide action as a bonus action."]}],"action":[{"name":"Claws","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}10 ({@damage 2d6 + 3})
+      psychic damage or, if the demon had advantage on the attack roll, 17 ({@damage
+      4d6 + 3}) psychic damage."]}],"soundClip":{"type":"internal","path":"bestiary/shadow-demon.mp3"},"traitTags":["Incorporeal
+      Movement","Light Sensitivity"],"senseTags":["SD"],"languageTags":["AB","TP"],"damageTags":["O","Y"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 11306c932ba22ec1c4ff8b9981163760

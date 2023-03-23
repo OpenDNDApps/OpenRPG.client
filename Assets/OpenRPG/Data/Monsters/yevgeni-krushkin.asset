@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Yevgeni Krushkin","isNpc":true,"source":"CoS","page":100,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Yevgeni","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
   DataHash: 22f9c7de09ae7461f328df8447e0398c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Yevgeni Krushkin
+    Content: 
+    AsJson: '{"name":"Yevgeni Krushkin","isNpc":true,"source":"CoS","page":100,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Yevgeni","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 22f9c7de09ae7461f328df8447e0398c

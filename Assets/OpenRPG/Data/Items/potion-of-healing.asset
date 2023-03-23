@@ -17,3 +17,11 @@ MonoBehaviour:
     regain {@dice 2d4 + 2} hit points when you drink this potion. The potion''s red
     liquid glimmers when agitated."],"lootTables":["Magic Item Table A"]}'
   DataHash: 349aafd6ea30edd8ceb95cd42ed70ea3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Healing
+    Content: 
+    AsJson: '{"name":"Potion of Healing","source":"DMG","page":187,"srd":true,"otherSources":[{"source":"PHB","page":153}],"type":"P","tier":"minor","rarity":"common","weight":0.5,"value":5000,"entries":["You
+      regain {@dice 2d4 + 2} hit points when you drink this potion. The potion''s
+      red liquid glimmers when agitated."],"lootTables":["Magic Item Table A"]}'
+    DataHash: 349aafd6ea30edd8ceb95cd42ed70ea3

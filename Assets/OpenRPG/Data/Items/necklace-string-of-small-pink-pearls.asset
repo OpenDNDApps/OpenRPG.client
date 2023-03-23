@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Necklace string of small pink pearls
   AsJson: '{"name":"Necklace string of small pink pearls","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: f287e7c3df251c59952228a08ce80c12
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Necklace string of small pink pearls
+    Content: 
+    AsJson: '{"name":"Necklace string of small pink pearls","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: f287e7c3df251c59952228a08ce80c12

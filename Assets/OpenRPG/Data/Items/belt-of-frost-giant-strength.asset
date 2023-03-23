@@ -19,3 +19,13 @@ MonoBehaviour:
     on you if your Strength without the belt is equal to or greater than the belt''s
     score."],"lootTables":["Magic Item Table H"]}'
   DataHash: 208a91cdb6934e0c864ae1b8b3e85870
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Belt of Frost Giant Strength
+    Content: 
+    AsJson: '{"name":"Belt of Frost Giant Strength","source":"DMG","page":155,"srd":true,"tier":"major","rarity":"very
+      rare","reqAttune":true,"wondrous":true,"ability":{"static":{"str":23}},"entries":["While
+      wearing this belt, your Strength score changes to 23. The item has no effect
+      on you if your Strength without the belt is equal to or greater than the belt''s
+      score."],"lootTables":["Magic Item Table H"]}'
+    DataHash: 208a91cdb6934e0c864ae1b8b3e85870

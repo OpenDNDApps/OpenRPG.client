@@ -21,6 +21,18 @@ MonoBehaviour:
     grapple check. If you succeed, you and the creature are both {@condition restrained}
     until the grapple ends."]}]}'
   DataHash: db7d25d03bb654cd56e57bd4bc706f8d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grappler
+    Content: 
+    AsJson: '{"name":"Grappler","source":"PHB","page":167,"srd":true,"prerequisite":[{"ability":[{"str":13}]}],"entries":["You''ve
+      developed the skills necessary to hold your own in close-quarters grappling.
+      You gain the following benefits:",{"type":"list","items":["You have advantage
+      on attack rolls against a creature you are grappling.","You can use your action
+      to try to pin a creature {@condition grappled} by you. To do so, make another
+      grapple check. If you succeed, you and the creature are both {@condition restrained}
+      until the grapple ends."]}]}'
+    DataHash: db7d25d03bb654cd56e57bd4bc706f8d
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 167
   Prerequisites: []

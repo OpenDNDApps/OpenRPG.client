@@ -19,3 +19,13 @@ MonoBehaviour:
     poisoned} conditions. The clear red liquid has tiny bubbles of light in it."],"lootTables":["Magic
     Item Table C"]}'
   DataHash: 4caa40f9f7c5edeb5fb83c03ea62c4f9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elixir of Health
+    Content: 
+    AsJson: '{"name":"Elixir of Health","source":"DMG","page":168,"type":"P","tier":"minor","rarity":"rare","entries":["When
+      you drink this potion, it cures any disease afflicting you, and it removes
+      the {@condition blinded}, {@condition deafened}, {@condition paralyzed}, and
+      {@condition poisoned} conditions. The clear red liquid has tiny bubbles of
+      light in it."],"lootTables":["Magic Item Table C"]}'
+    DataHash: 4caa40f9f7c5edeb5fb83c03ea62c4f9

@@ -24,3 +24,18 @@ MonoBehaviour:
     using its senses, you are {@condition blinded} and {@condition deafened} in regard
     to your own surroundings."],"conditionInflict":["blinded","deafened","invisible"],"miscTags":["SGT","UBA"]}'
   DataHash: 991422ca3d13f403ef3e075c0ba50de9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mislead
+    Content: 
+    AsJson: '{"name":"Mislead","source":"PHB","page":260,"srd":true,"level":5,"school":"I","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":1},"concentration":true}],"entries":["You
+      become {@condition invisible} at the same time that an illusory double of you
+      appears where you are standing. The double lasts for the duration, but the
+      invisibility ends if you attack or cast a spell.","You can use your action
+      to move your illusory double up to twice your speed and make it gesture, speak,
+      and behave in whatever way you choose.","You can see through its eyes and hear
+      through its ears as if you were located where it is. On each of your turns
+      as a bonus action, you can switch from using its senses to using your own,
+      or back again. While you are using its senses, you are {@condition blinded}
+      and {@condition deafened} in regard to your own surroundings."],"conditionInflict":["blinded","deafened","invisible"],"miscTags":["SGT","UBA"]}'
+    DataHash: 991422ca3d13f403ef3e075c0ba50de9

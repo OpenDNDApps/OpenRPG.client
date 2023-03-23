@@ -17,3 +17,11 @@ MonoBehaviour:
     mw} {@hit 4} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d10 + 2}) slashing
     damage."]}}}},"damageTags":["P","S"],"miscTags":["MW","RCH","RW","THW"],"hasToken":true}'
   DataHash: 768488a1d4178e0eea0724fbfc43b232
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bugbear Gardener
+    Content: 
+    AsJson: '{"name":"Bugbear Gardener","source":"TftYP","page":29,"_copy":{"name":"Bugbear","source":"MM","_mod":{"action":{"mode":"replaceArr","replace":"Morningstar","items":{"name":"Glaive","entries":["{@atk
+      mw} {@hit 4} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d10 + 2})
+      slashing damage."]}}}},"damageTags":["P","S"],"miscTags":["MW","RCH","RW","THW"],"hasToken":true}'
+    DataHash: 768488a1d4178e0eea0724fbfc43b232

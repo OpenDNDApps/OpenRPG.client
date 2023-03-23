@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Electrum 50-Zib Coin
   AsJson: '{"name":"Electrum 50-Zib Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":50}'
   DataHash: 0ca7b67bd161abf4899f7936251bce59
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Electrum 50-Zib Coin
+    Content: 
+    AsJson: '{"name":"Electrum 50-Zib Coin","source":"GGR","page":9,"type":"$","rarity":"none","value":50}'
+    DataHash: 0ca7b67bd161abf4899f7936251bce59

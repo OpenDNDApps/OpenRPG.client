@@ -21,3 +21,15 @@ MonoBehaviour:
     without dealing damage, that effect is instead negated against the target, and
     the spell ends."],"areaTags":["ST"]}'
   DataHash: b06ae557e0aafe3c63e8e6d73dbb02e0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Death Ward
+    Content: 
+    AsJson: '{"name":"Death Ward","source":"PHB","page":230,"srd":true,"basicRules":true,"level":4,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+      touch a creature and grant it a measure of protection from death.","The first
+      time the target would drop to 0 hit points as a result of taking damage, the
+      target instead drops to 1 hit point, and the spell ends.","If the spell is
+      still in effect when the target is subjected to an effect that would kill it
+      instantaneously without dealing damage, that effect is instead negated against
+      the target, and the spell ends."],"areaTags":["ST"]}'
+    DataHash: b06ae557e0aafe3c63e8e6d73dbb02e0

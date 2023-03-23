@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Fire Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["fire"],"detail1":"garnet","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: 445b6cbc72fa0a75c3baf70462743eab
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Fire Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Fire Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["fire"],"detail1":"garnet","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: 445b6cbc72fa0a75c3baf70462743eab

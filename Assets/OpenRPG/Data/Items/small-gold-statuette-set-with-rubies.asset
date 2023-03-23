@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Small gold statuette set with rubies
   AsJson: '{"name":"Small gold statuette set with rubies","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
   DataHash: 4252d34a684aebe194cb722dfa9fba18
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Small gold statuette set with rubies
+    Content: 
+    AsJson: '{"name":"Small gold statuette set with rubies","source":"DMG","page":135,"type":"$","rarity":"none","value":750000}'
+    DataHash: 4252d34a684aebe194cb722dfa9fba18

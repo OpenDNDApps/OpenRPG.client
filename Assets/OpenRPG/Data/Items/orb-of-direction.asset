@@ -17,3 +17,11 @@ MonoBehaviour:
     holding this orb, you can use an action to determine which way is north. This
     property functions only on the Material Plane."],"hasFluffImages":true}'
   DataHash: 4df5b4c392893efbb7525d2ac1319134
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orb of Direction
+    Content: 
+    AsJson: '{"name":"Orb of Direction","source":"XGE","page":138,"tier":"minor","rarity":"common","wondrous":true,"weight":3,"entries":["While
+      holding this orb, you can use an action to determine which way is north. This
+      property functions only on the Material Plane."],"hasFluffImages":true}'
+    DataHash: 4df5b4c392893efbb7525d2ac1319134

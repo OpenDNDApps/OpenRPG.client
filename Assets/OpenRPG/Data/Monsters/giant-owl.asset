@@ -24,3 +24,18 @@ MonoBehaviour:
     damage."]}],"environment":["forest","hill","arctic"],"soundClip":{"type":"internal","path":"bestiary/giant-owl.mp3"},"traitTags":["Flyby","Keen
     Senses"],"senseTags":["SD"],"languageTags":["C","CS","E","OTH","S"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 07f3c535c180916a8af9257dacdfe574
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Giant Owl
+    Content: 
+    AsJson: '{"name":"Giant Owl","source":"MM","page":327,"srd":true,"basicRules":true,"otherSources":[{"source":"SKT"},{"source":"ERLW"},{"source":"IMR"},{"source":"EGW"}],"size":["L"],"type":"beast","alignment":["N"],"ac":[12],"hp":{"average":19,"formula":"3d10
+      + 3"},"speed":{"walk":5,"fly":60},"str":13,"dex":15,"con":12,"int":8,"wis":13,"cha":10,"skill":{"perception":"+5","stealth":"+4"},"senses":["darkvision
+      120 ft."],"passive":15,"languages":["Giant Owl","understands Common, Elvish,
+      and Sylvan but can''t speak them"],"cr":"1/4","trait":[{"name":"Flyby","entries":["The
+      owl doesn''t provoke opportunity attacks when it flies out of an enemy''s reach."]},{"name":"Keen
+      Hearing and Sight","entries":["The owl has advantage on Wisdom ({@skill Perception})
+      checks that rely on hearing or sight."]}],"action":[{"name":"Talons","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d6 + 1}) slashing
+      damage."]}],"environment":["forest","hill","arctic"],"soundClip":{"type":"internal","path":"bestiary/giant-owl.mp3"},"traitTags":["Flyby","Keen
+      Senses"],"senseTags":["SD"],"languageTags":["C","CS","E","OTH","S"],"damageTags":["S"],"miscTags":["MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 07f3c535c180916a8af9257dacdfe574

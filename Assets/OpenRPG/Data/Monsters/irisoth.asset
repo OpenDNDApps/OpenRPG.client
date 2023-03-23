@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Irisoth","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Half-Elf","source":"PHB"}},"traitTags":["Fey
     Ancestry"],"senseTags":["D"],"languageTags":["C","E","X"],"hasToken":true}'
   DataHash: 1488db3b9033188429a2ff9d591e701f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Irisoth
+    Content: 
+    AsJson: '{"name":"Irisoth","isNpc":true,"source":"TftYP","page":157,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Half-Elf","source":"PHB"}},"traitTags":["Fey
+      Ancestry"],"senseTags":["D"],"languageTags":["C","E","X"],"hasToken":true}'
+    DataHash: 1488db3b9033188429a2ff9d591e701f

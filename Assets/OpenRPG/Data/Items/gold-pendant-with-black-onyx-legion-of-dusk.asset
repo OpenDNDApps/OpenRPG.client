@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold pendant with black onyx (Legion of Dusk)
   AsJson: '{"name":"Gold pendant with black onyx (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
   DataHash: af502d59ad988296db4a174f2b8cb23e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold pendant with black onyx (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold pendant with black onyx (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":25000}'
+    DataHash: af502d59ad988296db4a174f2b8cb23e

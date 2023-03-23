@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold basin with rubies (Legion of Dusk)
   AsJson: '{"name":"Gold basin with rubies (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: bdf073f58a2fcab671120be2740e478a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold basin with rubies (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold basin with rubies (Legion of Dusk)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: bdf073f58a2fcab671120be2740e478a

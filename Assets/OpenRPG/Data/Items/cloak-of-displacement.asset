@@ -21,3 +21,15 @@ MonoBehaviour:
     {@condition incapacitated}, {@condition restrained}, or otherwise unable to move."],"lootTables":["Magic
     Item Table G"],"hasFluffImages":true}'
   DataHash: f46db0a7b7f0ea637b2bf1cf9bd98844
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Displacement
+    Content: 
+    AsJson: '{"name":"Cloak of Displacement","source":"DMG","page":158,"srd":true,"tier":"major","rarity":"rare","reqAttune":true,"wondrous":true,"entries":["While
+      you wear this cloak, it projects an illusion that makes you appear to be standing
+      in a place near your actual location, causing any creature to have disadvantage
+      on attack rolls against you. If you take damage, the property ceases to function
+      until the start of your next turn. This property is suppressed while you are
+      {@condition incapacitated}, {@condition restrained}, or otherwise unable to
+      move."],"lootTables":["Magic Item Table G"],"hasFluffImages":true}'
+    DataHash: f46db0a7b7f0ea637b2bf1cf9bd98844

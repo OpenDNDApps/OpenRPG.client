@@ -21,3 +21,15 @@ MonoBehaviour:
     magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
     Item Table F"],"hasFluffImages":true}'
   DataHash: 09c3551bb914fc29b79993e8d8a107a7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Slippers of Spider Climbing
+    Content: 
+    AsJson: '{"name":"Slippers of Spider Climbing","source":"DMG","page":200,"srd":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"modifySpeed":{"equal":{"climb":"walk"}},"entries":["While
+      you wear these light shoes, you can move up, down, and across vertical surfaces
+      and upside down along ceilings, while leaving your hands free. You have a climbing
+      speed equal to your walking speed. However, the slippers don''t allow you to
+      move this way on a slippery surface, such as one covered by ice or oil."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 09c3551bb914fc29b79993e8d8a107a7

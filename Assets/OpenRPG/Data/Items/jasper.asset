@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Jasper","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
     opaque blue, black, or brown gemstone."]}'
   DataHash: 4aab8e851a1e24f6e98f703d59b3fb90
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jasper
+    Content: 
+    AsJson: '{"name":"Jasper","source":"DMG","page":134,"type":"$","rarity":"none","value":5000,"entries":["An
+      opaque blue, black, or brown gemstone."]}'
+    DataHash: 4aab8e851a1e24f6e98f703d59b3fb90

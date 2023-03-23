@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Phaia","isNpc":true,"source":"TftYP","page":132,"_copy":{"name":"Necromancer","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     necromancer","with":"Phaia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
   DataHash: 8e7089f048c0afe3e3a8424ca5c258bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Phaia
+    Content: 
+    AsJson: '{"name":"Phaia","isNpc":true,"source":"TftYP","page":132,"_copy":{"name":"Necromancer","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      necromancer","with":"Phaia","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"hasToken":true}'
+    DataHash: 8e7089f048c0afe3e3a8424ca5c258bb

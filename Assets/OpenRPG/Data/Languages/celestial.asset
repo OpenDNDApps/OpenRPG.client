@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Celestial","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
     celestials|bestiary|type=celestial}"],"script":"Celestial"}'
   DataHash: 508b413421e0408a72fdde5fce61e4c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Celestial
+    Content: 
+    AsJson: '{"name":"Celestial","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
+      celestials|bestiary|type=celestial}"],"script":"Celestial"}'
+    DataHash: 508b413421e0408a72fdde5fce61e4c9

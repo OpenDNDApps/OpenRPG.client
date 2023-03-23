@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ignia","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":184,"_copy":{"name":"Young
     Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Ignia","flags":"i"}}},"size":["H"],"hasToken":true}'
   DataHash: e14fff31f7a147fd2d74cf7187b473d5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ignia
+    Content: 
+    AsJson: '{"name":"Ignia","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":184,"_copy":{"name":"Young
+      Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Ignia","flags":"i"}}},"size":["H"],"hasToken":true}'
+    DataHash: e14fff31f7a147fd2d74cf7187b473d5

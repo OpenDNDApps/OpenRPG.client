@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hand Drum","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
     double-headed skin drum fitted with handles along its side."]}'
   DataHash: f7edf101fc47953cbe083034cea7f050
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hand Drum
+    Content: 
+    AsJson: '{"name":"Hand Drum","source":"SCAG","page":124,"type":"INS","rarity":"none","entries":["A
+      double-headed skin drum fitted with handles along its side."]}'
+    DataHash: f7edf101fc47953cbe083034cea7f050

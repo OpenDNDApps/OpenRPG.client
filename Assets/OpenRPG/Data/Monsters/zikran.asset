@@ -18,3 +18,12 @@ MonoBehaviour:
     conjure elemental}"]}}}}},"hp":{"average":144,"formula":"18d8 + 18"},"languages":["Aquan","Common","Primordial","Sahuagin","Undercommon"],"traitTags":["Amphibious","Magic
     Resistance"],"languageTags":["AQ","C","OTH","P","U"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 0a43d16d23b75fd7aace32521a2d9c26
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zikran
+    Content: 
+    AsJson: '{"name":"Zikran","isNpc":true,"isNamedCreature":true,"source":"CM","page":145,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Water
+      Genasi","source":"EEPC"},"_mod":{"*":{"mode":"replaceTxt","replace":"the archmage","with":"Zikran","flags":"i"},"_":{"mode":"addSpells","spells":{"5":{"spells":["{@spell
+      conjure elemental}"]}}}}},"hp":{"average":144,"formula":"18d8 + 18"},"languages":["Aquan","Common","Primordial","Sahuagin","Undercommon"],"traitTags":["Amphibious","Magic
+      Resistance"],"languageTags":["AQ","C","OTH","P","U"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 0a43d16d23b75fd7aace32521a2d9c26

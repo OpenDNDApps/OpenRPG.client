@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Copper Stormforge","isNpc":true,"source":"WDMM","page":30,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Copper","flags":"i"}}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true,"hasFluff":true}'
   DataHash: 8e415489c4e32d10fa628e6ff3f0a812
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Copper Stormforge
+    Content: 
+    AsJson: '{"name":"Copper Stormforge","isNpc":true,"source":"WDMM","page":30,"_copy":{"name":"Scout","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the scout","with":"Copper","flags":"i"}}},"alignment":["N","E"],"senseTags":["D"],"languageTags":["C","D","X"],"hasToken":true,"hasFluff":true}'
+    DataHash: 8e415489c4e32d10fa628e6ff3f0a812

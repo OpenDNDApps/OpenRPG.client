@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Assassin
   AsJson: '{"name":"Vistana Assassin","source":"CoS","page":28,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: a9f6854bd3200bbd9560b801256b889e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Assassin
+    Content: 
+    AsJson: '{"name":"Vistana Assassin","source":"CoS","page":28,"_copy":{"name":"Assassin","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: a9f6854bd3200bbd9560b801256b889e

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bonnie","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Doppelganger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     doppelganger","with":"Bonnie","flags":"i"}}},"speed":{"walk":20},"cr":"4","hasToken":true}'
   DataHash: e465e5d9ef2702d5e5a86774b44bdba5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bonnie
+    Content: 
+    AsJson: '{"name":"Bonnie","isNpc":true,"source":"WDH","page":20,"_copy":{"name":"Doppelganger","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      doppelganger","with":"Bonnie","flags":"i"}}},"speed":{"walk":20},"cr":"4","hasToken":true}'
+    DataHash: e465e5d9ef2702d5e5a86774b44bdba5

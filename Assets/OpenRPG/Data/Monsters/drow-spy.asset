@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Drow Spy","source":"OotA","page":195,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
     Ancestry","Sneak Attack","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: fce334e2c4f3b82da3b9c3715a227942
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drow Spy
+    Content: 
+    AsJson: '{"name":"Drow Spy","source":"OotA","page":195,"_copy":{"name":"Spy","source":"MM","_trait":{"name":"Drow","source":"PHB"}},"traitTags":["Fey
+      Ancestry","Sneak Attack","Sunlight Sensitivity"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: fce334e2c4f3b82da3b9c3715a227942

@@ -20,3 +20,14 @@ MonoBehaviour:
     damage on a hit. Whether you hit or miss, your walking speed increases by 30
     feet until the end of that turn."],"damageInflict":["force"],"miscTags":["AAD"]}'
   DataHash: 2070f8f79c795761f2de660d3f47fd50
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zephyr Strike
+    Content: 
+    AsJson: '{"name":"Zephyr Strike","source":"XGE","page":171,"level":1,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["You
+      move like the wind. Until the spell ends, your movement doesn''t provoke opportunity
+      attacks.","Once before the spell ends, you can give yourself advantage on one
+      weapon attack roll on your turn. That attack deals an extra {@damage 1d8} force
+      damage on a hit. Whether you hit or miss, your walking speed increases by 30
+      feet until the end of that turn."],"damageInflict":["force"],"miscTags":["AAD"]}'
+    DataHash: 2070f8f79c795761f2de660d3f47fd50

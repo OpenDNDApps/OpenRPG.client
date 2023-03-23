@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kelson Darktreader","isNpc":true,"source":"TftYP","page":132,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Half-Elf","source":"PHB"}},"traitTags":["Fey
     Ancestry"],"senseTags":["D"],"languageTags":["C","E","X"],"hasToken":true}'
   DataHash: 5d949aadf9b89f351061b1f34bf09056
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kelson Darktreader
+    Content: 
+    AsJson: '{"name":"Kelson Darktreader","isNpc":true,"source":"TftYP","page":132,"_copy":{"name":"Commoner","source":"MM","_trait":{"name":"Half-Elf","source":"PHB"}},"traitTags":["Fey
+      Ancestry"],"senseTags":["D"],"languageTags":["C","E","X"],"hasToken":true}'
+    DataHash: 5d949aadf9b89f351061b1f34bf09056

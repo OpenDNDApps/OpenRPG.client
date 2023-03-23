@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Animatronic Allosaurus","source":"KftGV","page":22,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"animatronic
     allosaurus"}}},"type":"construct","immune":["poison","psychic"],"conditionImmune":["charmed","frightened","paralyzed","poisoned"],"hasFluff":true}'
   DataHash: 0c332fa97f3eea844f354b624c8db1b7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animatronic Allosaurus
+    Content: 
+    AsJson: '{"name":"Animatronic Allosaurus","source":"KftGV","page":22,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"animatronic
+      allosaurus"}}},"type":"construct","immune":["poison","psychic"],"conditionImmune":["charmed","frightened","paralyzed","poisoned"],"hasFluff":true}'
+    DataHash: 0c332fa97f3eea844f354b624c8db1b7

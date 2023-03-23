@@ -28,3 +28,22 @@ MonoBehaviour:
     Higher Levels","entries":["When you cast this spell using a spell slot of 6th
     level or higher, the cube increases by 5 feet for each slot level above 5th."]}]}'
   DataHash: 76bbee07441533bd4abb02548086f86d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Creation
+    Content: 
+    AsJson: '{"name":"Creation","source":"PHB","page":229,"srd":true,"level":5,"school":"I","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+      tiny piece of matter of the same type of the item you plan to create"},"duration":[{"type":"special"}],"entries":["You
+      pull wisps of shadow material from the Shadowfell to create a nonliving object
+      of vegetable matter within range: soft goods, rope, wood, or something similar.
+      You can also use this spell to create mineral objects such as stone, crystal,
+      or metal. The object created must be no larger than a 5-foot cube, and the
+      object must be of a form and material that you have seen before.","The duration
+      depends on the object''s material. If the object is composed of multiple materials,
+      use the shortest duration.",{"type":"table","caption":"Creation","colLabels":["Material","Duration"],"colStyles":["col-8","col-4"],"rows":[["Vegetable
+      matter","1 day"],["Stone or crystal","12 hours"],["Precious metals","1 hour"],["Gems","10
+      minutes"],["Adamantine or mithral","1 minute"]]},"Using any material created
+      by this spell as another spell''s material component causes that spell to fail."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 6th
+      level or higher, the cube increases by 5 feet for each slot level above 5th."]}]}'
+    DataHash: 76bbee07441533bd4abb02548086f86d

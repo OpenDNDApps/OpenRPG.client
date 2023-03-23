@@ -32,3 +32,26 @@ MonoBehaviour:
     31 ({@damage 7d8}) poison damage on a failed save, or half as much damage on
     a successful one."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/spirit-naga.mp3"},"traitTags":["Rejuvenation"],"senseTags":["D"],"languageTags":["AB","C"],"damageTags":["I","P"],"damageTagsSpell":["C","L","N","O"],"spellcastingTags":["CW"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c58ca68ec85a1a3a8155fc8522305a65
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spirit Naga
+    Content: 
+    AsJson: '{"name":"Spirit Naga","source":"MM","page":234,"srd":true,"otherSources":[{"source":"TftYP"},{"source":"WDMM"},{"source":"GoS"},{"source":"EGW"},{"source":"MOT"},{"source":"JttRC"}],"size":["L"],"type":"monstrosity","alignment":["C","E"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":75,"formula":"10d10 + 20"},"speed":{"walk":40},"str":18,"dex":17,"con":14,"int":16,"wis":15,"cha":16,"save":{"dex":"+6","con":"+5","wis":"+5","cha":"+6"},"senses":["darkvision
+      60 ft."],"passive":12,"immune":["poison"],"conditionImmune":["charmed","poisoned"],"languages":["Abyssal","Common"],"cr":"8","spellcasting":[{"name":"Spellcasting","headerEntries":["The
+      naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence
+      (spell save {@dc 14}, {@hit 6} to hit with spell attacks), and it needs only
+      verbal components to cast its spells. It has the following wizard spells prepared:"],"spells":{"0":{"spells":["{@spell
+      mage hand}","{@spell minor illusion}","{@spell ray of frost}"]},"1":{"slots":4,"spells":["{@spell
+      charm person}","{@spell detect magic}","{@spell sleep}"]},"2":{"slots":3,"spells":["{@spell
+      detect thoughts}","{@spell hold person}"]},"3":{"slots":3,"spells":["{@spell
+      lightning bolt}","{@spell water breathing}"]},"4":{"slots":3,"spells":["{@spell
+      blight}","{@spell dimension door}"]},"5":{"slots":2,"spells":["{@spell dominate
+      person}"]}},"ability":"int"}],"trait":[{"name":"Rejuvenation","entries":["If
+      it dies, the naga returns to life in {@dice 1d6} days and regains all its hit
+      points. Only a {@spell wish} spell can prevent this trait from functioning."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 7} to hit, reach 10 ft., one creature. {@h}7 ({@damage 1d6 + 4})
+      piercing damage, and the target must make a {@dc 13} Constitution saving throw,
+      taking 31 ({@damage 7d8}) poison damage on a failed save, or half as much damage
+      on a successful one."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/spirit-naga.mp3"},"traitTags":["Rejuvenation"],"senseTags":["D"],"languageTags":["AB","C"],"damageTags":["I","P"],"damageTagsSpell":["C","L","N","O"],"spellcastingTags":["CW"],"miscTags":["MW","RCH"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c58ca68ec85a1a3a8155fc8522305a65

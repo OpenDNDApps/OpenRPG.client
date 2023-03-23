@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Raven Uth Vogler","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":53,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     scout","with":"Raven","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
   DataHash: e90be93e6e6c40a7d9282bbc0198d137
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Raven Uth Vogler
+    Content: 
+    AsJson: '{"name":"Raven Uth Vogler","isNpc":true,"isNamedCreature":true,"source":"DSotDQ","page":53,"_copy":{"name":"Scout","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      scout","with":"Raven","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["N","G"],"hasToken":true}'
+    DataHash: e90be93e6e6c40a7d9282bbc0198d137

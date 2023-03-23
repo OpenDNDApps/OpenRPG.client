@@ -17,3 +17,11 @@ MonoBehaviour:
     champion","with":"Sundeth","flags":"i"}}},"size":["L"],"type":"giant","alignment":["C","E"],"senses":["darkvision
     60 ft."],"languages":["Common","Giant"],"senseTags":["D"],"languageTags":["C","GI"],"hasToken":true,"hasFluff":true}'
   DataHash: c1444dc6272716ab5e2866ad72453b0f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sundeth
+    Content: 
+    AsJson: '{"name":"Sundeth","isNpc":true,"source":"WDMM","page":304,"_copy":{"name":"Champion","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      champion","with":"Sundeth","flags":"i"}}},"size":["L"],"type":"giant","alignment":["C","E"],"senses":["darkvision
+      60 ft."],"languages":["Common","Giant"],"senseTags":["D"],"languageTags":["C","GI"],"hasToken":true,"hasFluff":true}'
+    DataHash: c1444dc6272716ab5e2866ad72453b0f

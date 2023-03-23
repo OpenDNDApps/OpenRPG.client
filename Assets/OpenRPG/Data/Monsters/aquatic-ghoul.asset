@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Aquatic Ghoul
   AsJson: '{"name":"Aquatic Ghoul","source":"PotA","page":87,"_copy":{"name":"Ghoul","source":"MM"},"speed":{"walk":30,"swim":30},"hasToken":true}'
   DataHash: d2150560e0a5afa3756503f2cf3b65c5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aquatic Ghoul
+    Content: 
+    AsJson: '{"name":"Aquatic Ghoul","source":"PotA","page":87,"_copy":{"name":"Ghoul","source":"MM"},"speed":{"walk":30,"swim":30},"hasToken":true}'
+    DataHash: d2150560e0a5afa3756503f2cf3b65c5

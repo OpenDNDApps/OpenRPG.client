@@ -19,3 +19,13 @@ MonoBehaviour:
     that you can see within 30 feet of you fails a saving throw, you can use your
     reaction to allow them to reroll the save. They must use the new roll."],"miscTags":["SGT"]}'
   DataHash: d79d98f9bb100659b02646ef635cab07
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Intellect Fortress
+    Content: 
+    AsJson: '{"name":"Intellect Fortress","source":"UAFighterRogueWizard","page":7,"level":5,"school":"A","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"minute","amount":10},"concentration":true}],"entries":["You
+      create a faintly shimmering barrier of protective psychic power around you.
+      For the duration, you have advantage on all saving throws.","When another creature
+      that you can see within 30 feet of you fails a saving throw, you can use your
+      reaction to allow them to reroll the save. They must use the new roll."],"miscTags":["SGT"]}'
+    DataHash: d79d98f9bb100659b02646ef635cab07

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Al''chaia","isNpc":true,"isNamedCreature":true,"source":"WDMM","page":218,"_copy":{"name":"Githyanki
     Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the githyanki","with":"Al''chaia","flags":"i"}}},"hasToken":true}'
   DataHash: 32a4a04a5f3262249cf4c707ee51533a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Al'chaia
+    Content: 
+    AsJson: '{"name":"Al''chaia","isNpc":true,"isNamedCreature":true,"source":"WDMM","page":218,"_copy":{"name":"Githyanki
+      Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the githyanki","with":"Al''chaia","flags":"i"}}},"hasToken":true}'
+    DataHash: 32a4a04a5f3262249cf4c707ee51533a

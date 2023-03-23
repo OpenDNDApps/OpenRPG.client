@@ -19,3 +19,13 @@ MonoBehaviour:
     you can make one attack with it as a bonus action on each of your turns."],"lootTables":["Magic
     Item Table H"]}'
   DataHash: 2c8f9ee201a938d9a094a0e7dfa9eaec
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Scimitar of Speed
+    Content: 
+    AsJson: '{"name":"Scimitar of Speed","source":"DMG","page":199,"srd":true,"baseItem":"scimitar|phb","type":"M","tier":"major","rarity":"very
+      rare","reqAttune":true,"weight":3,"weaponCategory":"martial","property":["F","L"],"dmg1":"1d6","dmgType":"S","bonusWeapon":"+2","entries":["You
+      gain a +2 bonus to attack and damage rolls made with this magic weapon. In
+      addition, you can make one attack with it as a bonus action on each of your
+      turns."],"lootTables":["Magic Item Table H"]}'
+    DataHash: 2c8f9ee201a938d9a094a0e7dfa9eaec

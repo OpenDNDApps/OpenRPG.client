@@ -26,3 +26,20 @@ MonoBehaviour:
     officials tends to work in your favor, not against you\u2014at least until you
     make some effort to expose it.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
   DataHash: e2359876b3dbecd48956326349224c29
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Baldur's Gate Noble
+    Content: 
+    AsJson: "{\"name\":\"Baldur's Gate Noble\",\"source\":\"BGDIA\",\"page\":204,\"additionalSources\":[{\"source\":\"PHB\",\"page\":135}],\"_copy\":{\"name\":\"Noble\",\"source\":\"PHB\",\"_mod\":{\"entries\":{\"mode\":\"replaceArr\",\"replace\":\"Feature:
+      Position of Privilege\",\"items\":{\"name\":\"Baldur's Gate Feature: Patriar\",\"type\":\"entries\",\"entries\":[\"{@note
+      The effects of a Baldur's Gate feature can be used only while the character
+      is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable
+      effects in situations similar to those in Baldur's Gate.}\",\"As a member of
+      one of the elite families of Baldur's Gate, you may pass through city gates
+      without paying tolls, mingle among the Gate's nobility unquestioned, and impress
+      those on the lookout for wealthy patrons. You are welcome in the Upper City
+      and may stay there after dark without being harassed or evicted. Your word
+      is accepted over others' without question, and any corruption among guards
+      or government officials tends to work in your favor, not against you\u2014at
+      least until you make some effort to expose it.\"],\"data\":{\"isFeature\":true}}}}},\"hasFluff\":true}"
+    DataHash: e2359876b3dbecd48956326349224c29

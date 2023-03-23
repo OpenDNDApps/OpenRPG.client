@@ -19,6 +19,17 @@ MonoBehaviour:
     doff a shield as the free object interaction on your turn.","If you have the
     Spellcasting or Pact Magic feature, you can use a shield as a spellcasting focus."]}]}'
   DataHash: 3cf2c0f7eb852336ba3501a95b2c1694
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shield Training
+    Content: 
+    AsJson: '{"name":"Shield Training","source":"UA2020Feats","page":3,"ability":[{"choose":{"from":["str","dex","con"],"amount":1}}],"armorProficiencies":[{"shield|phb":true}],"entries":["You''ve
+      trained in the effective use of shields. You gain the following benefits:",{"type":"list","items":["You
+      gain proficiency with {@item shield|phb|shields}.","In combat, you can don
+      or doff a shield as the free object interaction on your turn.","If you have
+      the Spellcasting or Pact Magic feature, you can use a shield as a spellcasting
+      focus."]}]}'
+    DataHash: 3cf2c0f7eb852336ba3501a95b2c1694
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

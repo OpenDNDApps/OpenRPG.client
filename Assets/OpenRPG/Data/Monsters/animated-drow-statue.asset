@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Animated Drow Statue","source":"OotA","page":96,"_copy":{"name":"Animated
     Armor","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"suit of armor","with":"statue"},{"mode":"replaceTxt","replace":"armor","with":"statue"}]}},"type":"elemental","hasToken":true}'
   DataHash: 292e396617136067b037c95f8e0bcfcd
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Drow Statue
+    Content: 
+    AsJson: '{"name":"Animated Drow Statue","source":"OotA","page":96,"_copy":{"name":"Animated
+      Armor","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"suit of armor","with":"statue"},{"mode":"replaceTxt","replace":"armor","with":"statue"}]}},"type":"elemental","hasToken":true}'
+    DataHash: 292e396617136067b037c95f8e0bcfcd

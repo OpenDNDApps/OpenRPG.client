@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Dread Helm","source":"XGE","page":137,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
     fearsome steel helm makes your eyes glow red while you wear it."],"hasFluffImages":true}'
   DataHash: 6774f9d9d9d5e9bc20b71220448d7b87
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Dread Helm
+    Content: 
+    AsJson: '{"name":"Dread Helm","source":"XGE","page":137,"tier":"minor","rarity":"common","wondrous":true,"entries":["This
+      fearsome steel helm makes your eyes glow red while you wear it."],"hasFluffImages":true}'
+    DataHash: 6774f9d9d9d5e9bc20b71220448d7b87

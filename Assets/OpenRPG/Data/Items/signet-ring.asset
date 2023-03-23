@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Signet Ring
   AsJson: '{"name":"Signet Ring","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":500}'
   DataHash: e19db1dbc5587658e07b8e0b50886f9c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Signet Ring
+    Content: 
+    AsJson: '{"name":"Signet Ring","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","value":500}'
+    DataHash: e19db1dbc5587658e07b8e0b50886f9c

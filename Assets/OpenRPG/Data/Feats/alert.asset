@@ -19,6 +19,16 @@ MonoBehaviour:
     while you are conscious.","Other creatures don''t gain advantage on attack rolls
     against you as a result of being unseen by you."]}]}'
   DataHash: a8954ca8964478b50dfb46d8b97a02ee
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Alert
+    Content: 
+    AsJson: '{"name":"Alert","source":"PHB","page":165,"entries":["Always on the
+      lookout for danger, you gain the following benefits:",{"type":"list","items":["You
+      gain a +5 bonus to initiative.","You can''t be {@quickref Surprise|PHB|3|0|surprised}
+      while you are conscious.","Other creatures don''t gain advantage on attack
+      rolls against you as a result of being unseen by you."]}]}'
+    DataHash: a8954ca8964478b50dfb46d8b97a02ee
   Sources: {fileID: 11400000, guid: 467d8ab33e4c2b94ea420613b1bf35fe, type: 2}
   SourcePages: 165
   Prerequisites: []

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hellwasp Grub","source":"BGDIA","page":95,"_copy":{"name":"Giant
     Centipede","source":"MM"},"hasToken":true}'
   DataHash: ba8f88e53e6c47376350099ab36fca9c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hellwasp Grub
+    Content: 
+    AsJson: '{"name":"Hellwasp Grub","source":"BGDIA","page":95,"_copy":{"name":"Giant
+      Centipede","source":"MM"},"hasToken":true}'
+    DataHash: ba8f88e53e6c47376350099ab36fca9c

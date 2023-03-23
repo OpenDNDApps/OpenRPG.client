@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d10 + 1}) slashing
     damage."]}],"hasToken":true}'
   DataHash: 2da099f327e246990ec96558b9c4cfbc
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Halberd
+    Content: 
+    AsJson: '{"name":"Animated Halberd","source":"CoS","page":59,"_copy":{"name":"Flying
+      Sword","source":"MM"},"ac":[{"ac":15,"from":["natural armor"]}],"action":[{"name":"Halberd","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d10 + 1}) slashing
+      damage."]}],"hasToken":true}'
+    DataHash: 2da099f327e246990ec96558b9c4cfbc

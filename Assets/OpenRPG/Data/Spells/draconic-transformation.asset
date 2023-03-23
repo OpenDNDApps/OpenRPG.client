@@ -27,3 +27,21 @@ MonoBehaviour:
     make a Dexterity saving throw, taking {@damage 3d8} force damage on a failed
     save or half as much damage on a successful one."]}],"damageInflict":["force"],"conditionInflict":["blinded","invisible"],"savingThrow":["dexterity"],"miscTags":["SGT","UBA"]}'
   DataHash: 2d867ad179bd0f752492ad3d064560cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Draconic Transformation
+    Content: 
+    AsJson: '{"name":"Draconic Transformation","source":"UA2021DraconicOptions","page":5,"level":7,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":{"text":"a
+      statuette of a dragon, worth at least 500 gp","cost":50000}},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["With
+      a roar, you draw on the magic of dragons to transform yourself, taking on various
+      draconic features. You gain the following benefits until the spell ends:",{"type":"list","items":["You
+      have {@sense blindsight} with a range of 30 feet. Within that range, you can
+      effectively see anything that isn''t behind total cover, even if you''re {@condition
+      blinded} or in darkness. Moreover, you can see an {@condition invisible} creature,
+      unless the creature successfully hides from you.","Incorporeal wings sprout
+      from your back, giving you a flying speed of 40 feet.","When you cast this
+      spell, and as a bonus action on subsequent turns for the duration, you can
+      exhale a breath of shimmering energy in a 30- foot cone. Each creature in the
+      area must make a Dexterity saving throw, taking {@damage 3d8} force damage
+      on a failed save or half as much damage on a successful one."]}],"damageInflict":["force"],"conditionInflict":["blinded","invisible"],"savingThrow":["dexterity"],"miscTags":["SGT","UBA"]}'
+    DataHash: 2d867ad179bd0f752492ad3d064560cb

@@ -20,3 +20,14 @@ MonoBehaviour:
     + 100"},"languages":["understands Abyssal but can''t speak"],"cr":"11","traitTags":["Immutable
     Form","Magic Resistance","Magic Weapons","Spider Climb"],"languageTags":["AB","CS"],"hasToken":true}'
   DataHash: bdd481627077c27bd6998b5d37376768
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Animated Statue of Lolth
+    Content: 
+    AsJson: '{"name":"Animated Statue of Lolth","source":"WDMM","page":142,"_copy":{"name":"Stone
+      Golem","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"golem","with":"statue"},"trait":{"mode":"appendArr","items":{"name":"Spider
+      Climb","entries":["The statue can climb difficult surfaces, including upside
+      down on ceilings, without needing to make an ability check."]}}}},"size":["H"],"hp":{"average":230,"formula":"20d12
+      + 100"},"languages":["understands Abyssal but can''t speak"],"cr":"11","traitTags":["Immutable
+      Form","Magic Resistance","Magic Weapons","Spider Climb"],"languageTags":["AB","CS"],"hasToken":true}'
+    DataHash: bdd481627077c27bd6998b5d37376768

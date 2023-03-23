@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Vistana Bandit
   AsJson: '{"name":"Vistana Bandit","source":"CoS","page":28,"_copy":{"name":"Bandit","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
   DataHash: b2bbc8643032144d20910e13e47fa1d6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Vistana Bandit
+    Content: 
+    AsJson: '{"name":"Vistana Bandit","source":"CoS","page":28,"_copy":{"name":"Bandit","source":"MM","_trait":{"name":"Vistana","source":"CoS"}},"hasToken":true}'
+    DataHash: b2bbc8643032144d20910e13e47fa1d6

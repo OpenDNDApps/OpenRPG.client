@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Uzoma Baten","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":94,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Mountain
     Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the guard","with":"Uzoma","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
   DataHash: 2c4479174dbefc9515d69266a7aaf9c9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Uzoma Baten
+    Content: 
+    AsJson: '{"name":"Uzoma Baten","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":94,"_copy":{"name":"Guard","source":"MM","_trait":{"name":"Mountain
+      Dwarf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the guard","with":"Uzoma","flags":"i"}}},"alignment":["L","G"],"hasToken":true}'
+    DataHash: 2c4479174dbefc9515d69266a7aaf9c9

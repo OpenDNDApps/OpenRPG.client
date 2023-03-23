@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Aarakocra Spelljammer
   AsJson: '{"name":"Aarakocra Spelljammer","source":"LoX","page":43,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Aarakocra","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"\\bmage\\b","with":"aarakocra"}}},"hasToken":true}'
   DataHash: f221013a8c1ea52d2da67bdd9072a363
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Aarakocra Spelljammer
+    Content: 
+    AsJson: '{"name":"Aarakocra Spelljammer","source":"LoX","page":43,"_copy":{"name":"Mage","source":"MM","_trait":{"name":"Aarakocra","source":"DMG"},"_mod":{"*":{"mode":"replaceTxt","replace":"\\bmage\\b","with":"aarakocra"}}},"hasToken":true}'
+    DataHash: f221013a8c1ea52d2da67bdd9072a363

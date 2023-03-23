@@ -21,3 +21,15 @@ MonoBehaviour:
     detect magic}","{@spell fog cloud}"],"1e":["{@spell phantasmal force}","{@spell
     shatter}"]},"ability":"int","displayAs":"action"}],"hasFluff":true}'
   DataHash: 8f60cf4d823a06f80fbd4dbc04a0d541
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eliphas Adulare
+    Content: 
+    AsJson: '{"name":"Eliphas Adulare","isNpc":true,"isNamedCreature":true,"source":"KftGV","page":188,"_copy":{"name":"Werebear","source":"MM","_mod":{"*":[{"mode":"replaceTxt","replace":"the
+      werebear","with":"Eliphas","flags":"i"}]}},"int":18,"spellcasting":[{"name":"Spellcasting
+      (Humanoid or Hybrid Form Only)","headerEntries":["Eliphas casts one of the
+      following spells, using Intelligence as the spellcasting ability (save {@dc
+      15}):"],"will":["{@spell light}","{@spell minor illusion}","{@spell prestidigitation}"],"daily":{"2e":["{@spell
+      detect magic}","{@spell fog cloud}"],"1e":["{@spell phantasmal force}","{@spell
+      shatter}"]},"ability":"int","displayAs":"action"}],"hasFluff":true}'
+    DataHash: 8f60cf4d823a06f80fbd4dbc04a0d541

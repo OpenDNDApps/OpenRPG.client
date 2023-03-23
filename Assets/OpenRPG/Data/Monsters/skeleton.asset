@@ -21,3 +21,15 @@ MonoBehaviour:
     damage."]},{"name":"Shortbow","entries":["{@atk rw} {@hit 4} to hit, range 80/320
     ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/skeleton.mp3"},"senseTags":["D"],"languageTags":["CS","LF"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 5caf03460a2caa9ecb81d6bc1ee98bf0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Skeleton
+    Content: 
+    AsJson: '{"name":"Skeleton","source":"MM","page":272,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"LMoP"},{"source":"PotA"},{"source":"SKT"},{"source":"TftYP"},{"source":"ToA"},{"source":"WDH"},{"source":"WDMM"},{"source":"GoS"},{"source":"DC"},{"source":"DIP"},{"source":"SDW"},{"source":"BGDIA"},{"source":"RMBRE"},{"source":"IMR"},{"source":"TCE"},{"source":"WBtW"},{"source":"CRCotN"},{"source":"JttRC"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":"undead","alignment":["L","E"],"ac":[{"ac":13,"from":["armor
+      scraps"]}],"hp":{"average":13,"formula":"2d8 + 4"},"speed":{"walk":30},"str":10,"dex":14,"con":15,"int":6,"wis":8,"cha":5,"senses":["darkvision
+      60 ft."],"passive":9,"immune":["poison"],"vulnerable":["bludgeoning"],"conditionImmune":["exhaustion","poisoned"],"languages":["understands
+      all languages it spoke in life but can''t speak"],"cr":"1/4","action":[{"name":"Shortsword","entries":["{@atk
+      mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing
+      damage."]},{"name":"Shortbow","entries":["{@atk rw} {@hit 4} to hit, range
+      80/320 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/skeleton.mp3"},"senseTags":["D"],"languageTags":["CS","LF"],"damageTags":["P"],"miscTags":["MW","RNG","RW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 5caf03460a2caa9ecb81d6bc1ee98bf0

@@ -19,3 +19,14 @@ MonoBehaviour:
     can''t knowingly speak a lie, as if under the effect of a {@spell zone of truth}
     spell."],"poisonTypes":["ingested"],"attachedSpells":["zone of truth"]}'
   DataHash: 04a483b7a2c44229cba1262146fd4f46
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Truth Serum
+    Content: 
+    AsJson: '{"name":"Truth Serum","source":"DMG","page":258,"srd":true,"type":"G","rarity":"none","value":15000,"poison":true,"entries":["A
+      creature subjected to this poison must succeed on a DC 11 Constitution saving
+      throw or become {@condition poisoned} for 1 hour. The {@condition poisoned}
+      creature can''t knowingly speak a lie, as if under the effect of a {@spell
+      zone of truth} spell."],"poisonTypes":["ingested"],"attachedSpells":["zone
+      of truth"]}'
+    DataHash: 04a483b7a2c44229cba1262146fd4f46

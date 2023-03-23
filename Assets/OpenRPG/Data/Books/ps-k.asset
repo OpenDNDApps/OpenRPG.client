@@ -12,12 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c302415f81ea437782a4ad26a6fe04a2, type: 3}
   m_Name: ps-k
   m_EditorClassIdentifier: 
-  Title: 
+  Title: 'Plane Shift: Kaladesh'
   AsJson: '{"name":"Plane Shift: Kaladesh","id":"PS-K","source":"PSK","group":"supplement-alt","coverUrl":"img/covers/PSK.png","published":"2017-02-16","author":"Wizards
     RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Kaladesh","headers":["The
     Consulate and Renegades","Invention and Magic","Inventing Options","A Kaladesh
     Campaign"]},{"name":"Races of Kaladesh"},{"name":"A Kaladesh Bestiary"}]}'
   DataHash: 72af3e682c93cd6540cffd8012e83457
-  CoverURL: 
-  Published: 
-  Author: 
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 
+    Content: 
+    AsJson: '{"name":"Plane Shift: Kaladesh","id":"PS-K","source":"PSK","group":"supplement-alt","coverUrl":"img/covers/PSK.png","published":"2017-02-16","author":"Wizards
+      RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Kaladesh","headers":["The
+      Consulate and Renegades","Invention and Magic","Inventing Options","A Kaladesh
+      Campaign"]},{"name":"Races of Kaladesh"},{"name":"A Kaladesh Bestiary"}]}'
+    DataHash: 72af3e682c93cd6540cffd8012e83457
+  CoverURL: img/covers/PSK.png
+  Published: 2017-02-16
+  Author: Wizards RPG Team

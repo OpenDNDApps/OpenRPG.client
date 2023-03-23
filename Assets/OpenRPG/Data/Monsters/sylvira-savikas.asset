@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sylvira Savikas","isNpc":true,"source":"BGDIA","page":46,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Sylvira","flags":"i"},"_":[{"mode":"addSkills","skills":{"investigation":2}}]}},"alignment":["L","N"],"languages":["Abyssal","Celestial","Common","Draconic","Infernal","Primordial"],"languageTags":["AB","C","CE","DR","I","P"],"spellcastingTags":["CW","I"],"hasToken":true}'
   DataHash: c2c8ce1fb73067c8a41d55534b8b9a04
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sylvira Savikas
+    Content: 
+    AsJson: '{"name":"Sylvira Savikas","isNpc":true,"source":"BGDIA","page":46,"_copy":{"name":"Archmage","source":"MM","_trait":{"name":"Tiefling","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Sylvira","flags":"i"},"_":[{"mode":"addSkills","skills":{"investigation":2}}]}},"alignment":["L","N"],"languages":["Abyssal","Celestial","Common","Draconic","Infernal","Primordial"],"languageTags":["AB","C","CE","DR","I","P"],"spellcastingTags":["CW","I"],"hasToken":true}'
+    DataHash: c2c8ce1fb73067c8a41d55534b8b9a04

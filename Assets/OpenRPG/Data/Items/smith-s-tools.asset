@@ -27,3 +27,21 @@ MonoBehaviour:
     a dull blade","10"],["Repair a suit of armor","15"],["Sunder a nonmagical metal
     object","15"]]}]}'
   DataHash: 0e437fdedb252b8bacd9c3ae80fa3918
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Smith's Tools
+    Content: 
+    AsJson: '{"name":"Smith''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":84}],"type":"AT","rarity":"none","weight":8,"value":2000,"additionalEntries":["Smith''s
+      tools allow you to work metal, heating it to alter its shape, repair damage,
+      or work raw ingots into useful items.",{"type":"entries","name":"Components","entries":["Smith''s
+      tools include hammers, tongs, charcoal, rags, and a whetstone."]},{"type":"entries","name":"Arcana
+      and History","entries":["Your expertise lends you additional insight when examining
+      metal objects, such as weapons."]},{"type":"entries","name":"Investigation","entries":["You
+      can spot clues and make deductions that others might overlook when an investigation
+      involves armor, weapons, or other metalwork."]},{"type":"entries","name":"Repair","entries":["With
+      access to your tools and an open flame hot enough to make metal pliable, you
+      can restore 10 hit points to a damaged metal object for each hour of work."]},{"type":"table","caption":"Smith''s
+      Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Sharpen
+      a dull blade","10"],["Repair a suit of armor","15"],["Sunder a nonmagical metal
+      object","15"]]}]}'
+    DataHash: 0e437fdedb252b8bacd9c3ae80fa3918

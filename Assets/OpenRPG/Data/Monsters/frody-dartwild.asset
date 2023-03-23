@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Frody Dartwild","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Zombie","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     zombie","with":"Frody","flags":"i"}}},"alignment":["N","G"],"int":10,"languages":["Common"]}'
   DataHash: 714c62c458469ab07b9045f445a6b6db
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Frody Dartwild
+    Content: 
+    AsJson: '{"name":"Frody Dartwild","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Zombie","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      zombie","with":"Frody","flags":"i"}}},"alignment":["N","G"],"int":10,"languages":["Common"]}'
+    DataHash: 714c62c458469ab07b9045f445a6b6db

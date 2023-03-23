@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Hedrun Arnsfirth","isNpc":true,"source":"TftYP","page":160,"_copy":{"name":"Deathlock
     Wight","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the wight","with":"Hedrun","flags":"i"}}},"hasToken":true}'
   DataHash: 4e46028e5a1798069afe5ebee6f3f643
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hedrun Arnsfirth
+    Content: 
+    AsJson: '{"name":"Hedrun Arnsfirth","isNpc":true,"source":"TftYP","page":160,"_copy":{"name":"Deathlock
+      Wight","source":"MTF","_mod":{"*":{"mode":"replaceTxt","replace":"the wight","with":"Hedrun","flags":"i"}}},"hasToken":true}'
+    DataHash: 4e46028e5a1798069afe5ebee6f3f643

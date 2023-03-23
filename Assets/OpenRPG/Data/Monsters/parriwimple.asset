@@ -17,3 +17,11 @@ MonoBehaviour:
     gladiator","with":"Parriwimple","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"ac":[{"ac":14,"from":["{@item
     studded leather armor|phb|studded leather}"]}],"int":6,"hasToken":true}'
   DataHash: 7ac1246c7d786f3fffacd372928a7870
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Parriwimple
+    Content: 
+    AsJson: '{"name":"Parriwimple","isNpc":true,"source":"CoS","page":43,"_copy":{"name":"Gladiator","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      gladiator","with":"Parriwimple","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","G"],"ac":[{"ac":14,"from":["{@item
+      studded leather armor|phb|studded leather}"]}],"int":6,"hasToken":true}'
+    DataHash: 7ac1246c7d786f3fffacd372928a7870

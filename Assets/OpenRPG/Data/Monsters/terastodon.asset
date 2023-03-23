@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Terastodon
   AsJson: '{"name":"Terastodon","source":"PSZ","page":34,"_copy":{"name":"Mammoth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"mammoth","with":"terastodon"}}},"hasToken":true}'
   DataHash: 44442d364f22ed30b3e74881ee6315f4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Terastodon
+    Content: 
+    AsJson: '{"name":"Terastodon","source":"PSZ","page":34,"_copy":{"name":"Mammoth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"mammoth","with":"terastodon"}}},"hasToken":true}'
+    DataHash: 44442d364f22ed30b3e74881ee6315f4

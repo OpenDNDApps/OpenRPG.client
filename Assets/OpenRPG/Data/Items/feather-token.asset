@@ -19,3 +19,13 @@ MonoBehaviour:
     take no damage from falling. The token''s magic is expended after you land, whereupon
     the disk becomes nonmagical."]}'
   DataHash: 52edc6476ae92008b0e4475c0a1914c7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Feather Token
+    Content: 
+    AsJson: '{"name":"Feather Token","source":"ERLW","page":277,"otherSources":[{"source":"UAWGE","page":115}],"rarity":"common","wondrous":true,"entries":["This
+      small metal disk is inscribed with the image of a feather. When you fall at
+      least 20 feet while the token is on your person, you descend 60 feet per round
+      and take no damage from falling. The token''s magic is expended after you land,
+      whereupon the disk becomes nonmagical."]}'
+    DataHash: 52edc6476ae92008b0e4475c0a1914c7

@@ -19,3 +19,13 @@ MonoBehaviour:
     grappled} (escape DC 17). Until this grapple ends, the target is {@condition
     restrained}, and the angel can''t attack another target with its staff."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 8beab854c11368a1d3f2fa083c7c0c0e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Angel of Amonkhet
+    Content: 
+    AsJson: '{"name":"Angel of Amonkhet","source":"PSA","page":30,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"deva","with":"angel"},"action":{"mode":"replaceArr","replace":"Mace","items":{"name":"Staff","entries":["{@atk
+      mw} {@hit 8} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 4}) bludgeoning
+      damage plus 18 ({@damage 4d8}) radiant damage, and the target is {@condition
+      grappled} (escape DC 17). Until this grapple ends, the target is {@condition
+      restrained}, and the angel can''t attack another target with its staff."]}}}},"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 8beab854c11368a1d3f2fa083c7c0c0e

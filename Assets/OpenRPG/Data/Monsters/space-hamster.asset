@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Space Hamster","source":"WDMM","page":251,"_copy":{"name":"Rat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     rat","with":"the hamster","flags":"i"}}},"action":null,"damageTags":[],"miscTags":[],"hasToken":true}'
   DataHash: aa94422336d1a2dcd3675f24e59ae043
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Space Hamster
+    Content: 
+    AsJson: '{"name":"Space Hamster","source":"WDMM","page":251,"_copy":{"name":"Rat","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      rat","with":"the hamster","flags":"i"}}},"action":null,"damageTags":[],"miscTags":[],"hasToken":true}'
+    DataHash: aa94422336d1a2dcd3675f24e59ae043

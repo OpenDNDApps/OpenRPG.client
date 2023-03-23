@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Themberchaud","isNpc":true,"source":"OotA","page":53,"_copy":{"name":"Adult
     Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Themberchaud","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
   DataHash: e828c3dbde003dec60d31e860f73a9fa
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Themberchaud
+    Content: 
+    AsJson: '{"name":"Themberchaud","isNpc":true,"source":"OotA","page":53,"_copy":{"name":"Adult
+      Red Dragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the dragon","with":"Themberchaud","flags":"i"}}},"damageTagsLegendary":[],"hasToken":true,"hasFluffImages":true}'
+    DataHash: e828c3dbde003dec60d31e860f73a9fa

@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the druid","with":"Eira","flags":"i"}}},"traitTags":["Fey
     Ancestry"],"hasToken":true}'
   DataHash: ae09a078f9a94862b1fe1d355b1de184
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Eira
+    Content: 
+    AsJson: '{"name":"Eira","isNpc":true,"source":"TftYP","page":159,"_copy":{"name":"Druid","source":"MM","_trait":{"name":"Wood
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the druid","with":"Eira","flags":"i"}}},"traitTags":["Fey
+      Ancestry"],"hasToken":true}'
+    DataHash: ae09a078f9a94862b1fe1d355b1de184

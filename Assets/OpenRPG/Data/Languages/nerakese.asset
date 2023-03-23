@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Nerakese
   AsJson: '{"name":"Nerakese","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Neraka"],"script":"Istarian"}'
   DataHash: 92aab39c14a1c7769394b46e7dc77534
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Nerakese
+    Content: 
+    AsJson: '{"name":"Nerakese","source":"DSotDQ","page":9,"type":"rare","typicalSpeakers":["Neraka"],"script":"Istarian"}'
+    DataHash: 92aab39c14a1c7769394b46e7dc77534

@@ -17,3 +17,11 @@ MonoBehaviour:
     Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the druid","with":"Sladis","flags":"i"},"languages":{"mode":"appendIfNotExistsArr","items":"Undercommon"}}},"alignment":["N","G"],"traitTags":["Fey
     Ancestry"],"hasToken":true,"hasFluffImages":true}'
   DataHash: ddfd8cb2ab35ec043b19bcd36ef3d095
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sladis Vadir
+    Content: 
+    AsJson: '{"name":"Sladis Vadir","isNpc":true,"source":"OotA","page":135,"_copy":{"name":"Druid","source":"MM","_trait":{"name":"High
+      Elf","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the druid","with":"Sladis","flags":"i"},"languages":{"mode":"appendIfNotExistsArr","items":"Undercommon"}}},"alignment":["N","G"],"traitTags":["Fey
+      Ancestry"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: ddfd8cb2ab35ec043b19bcd36ef3d095

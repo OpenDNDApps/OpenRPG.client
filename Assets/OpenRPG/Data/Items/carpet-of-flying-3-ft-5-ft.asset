@@ -21,3 +21,15 @@ MonoBehaviour:
     up to twice this weight, but it flies at half speed if it carries more than its
     normal capacity.\"]}"
   DataHash: 5a451ad0df5e0299d37b180ef66dff83
+  DataByEdition:
+  - Edition: d&d5e
+    Title: "Carpet of Flying, 3 ft. \xD7 5 ft."
+    Content: 
+    AsJson: "{\"name\":\"Carpet of Flying, 3 ft. \xD7 5 ft.\",\"source\":\"DMG\",\"page\":157,\"srd\":true,\"tier\":\"major\",\"rarity\":\"very
+      rare\",\"wondrous\":true,\"entries\":[\"You can speak the carpet's command
+      word as an action to make the carpet hover and fly. It moves according to your
+      spoken directions, provided that you are within 30 feet of it.\",\"A 3 ft.
+      \xD7 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carpet
+      can carry up to twice this weight, but it flies at half speed if it carries
+      more than its normal capacity.\"]}"
+    DataHash: 5a451ad0df5e0299d37b180ef66dff83

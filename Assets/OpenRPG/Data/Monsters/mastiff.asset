@@ -22,3 +22,16 @@ MonoBehaviour:
     throw or be knocked {@condition prone}."]}],"environment":["forest","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/mastiff.mp3"},"traitTags":["Keen
     Senses"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 6c388ee5be4ee7509dcdad7fefd2f76e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mastiff
+    Content: 
+    AsJson: '{"name":"Mastiff","source":"MM","page":332,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"TftYP"},{"source":"WDH"},{"source":"BGDIA"},{"source":"ERLW"},{"source":"EGW"},{"source":"DSotDQ"},{"source":"KftGV"}],"size":["M"],"type":"beast","alignment":["U"],"ac":[12],"hp":{"average":5,"formula":"1d8
+      + 1"},"speed":{"walk":40},"str":13,"dex":14,"con":12,"int":3,"wis":12,"cha":7,"skill":{"perception":"+3"},"passive":13,"cr":"1/8","trait":[{"name":"Keen
+      Hearing and Smell","entries":["The mastiff has advantage on Wisdom ({@skill
+      Perception}) checks that rely on hearing or smell."]}],"action":[{"name":"Bite","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing
+      damage. If the target is a creature, it must succeed on a {@dc 11} Strength
+      saving throw or be knocked {@condition prone}."]}],"environment":["forest","hill","urban"],"soundClip":{"type":"internal","path":"bestiary/mastiff.mp3"},"traitTags":["Keen
+      Senses"],"damageTags":["P"],"miscTags":["MW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 6c388ee5be4ee7509dcdad7fefd2f76e

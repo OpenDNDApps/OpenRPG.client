@@ -17,3 +17,11 @@ MonoBehaviour:
     Giant","source":"MM"},"int":10,"wis":12,"cha":12,"skill":{"insight":"+4","perception":"+4"},"passive":14,"languages":["Common","Giant"],"traitTags":["Keen
     Senses"],"languageTags":["C","GI"],"spellcastingTags":["I"],"hasToken":true}'
   DataHash: 269b0b3a9599c5e926c7afc1f9dcbc30
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Young Cloud Giant
+    Content: 
+    AsJson: '{"name":"Young Cloud Giant","source":"SKT","page":112,"_copy":{"name":"Hill
+      Giant","source":"MM"},"int":10,"wis":12,"cha":12,"skill":{"insight":"+4","perception":"+4"},"passive":14,"languages":["Common","Giant"],"traitTags":["Keen
+      Senses"],"languageTags":["C","GI"],"spellcastingTags":["I"],"hasToken":true}'
+    DataHash: 269b0b3a9599c5e926c7afc1f9dcbc30

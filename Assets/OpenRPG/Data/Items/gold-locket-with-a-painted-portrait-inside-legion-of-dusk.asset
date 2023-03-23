@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold locket with a painted portrait inside (Legion of Dusk)
   AsJson: '{"name":"Gold locket with a painted portrait inside (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
   DataHash: 2eb9a894d78ff5e85c77967ea48b76fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold locket with a painted portrait inside (Legion of Dusk)
+    Content: 
+    AsJson: '{"name":"Gold locket with a painted portrait inside (Legion of Dusk)","source":"PSX","page":24,"type":"$","rarity":"none","value":2500}'
+    DataHash: 2eb9a894d78ff5e85c77967ea48b76fe

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Thopter (Pseudodragon)
   AsJson: '{"name":"Thopter (Pseudodragon)","source":"PSK","page":33,"_copy":{"name":"Pseudodragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pseudodragon","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 21ce5c66560e9b5fb4093e2e221ade89
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Thopter (Pseudodragon)
+    Content: 
+    AsJson: '{"name":"Thopter (Pseudodragon)","source":"PSK","page":33,"_copy":{"name":"Pseudodragon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pseudodragon","with":"thopter"}}},"type":"construct","immune":["poison"],"conditionImmune":["charmed","poisoned"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 21ce5c66560e9b5fb4093e2e221ade89

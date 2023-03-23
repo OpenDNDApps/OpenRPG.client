@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Embroidered silk and velvet mantle set with numerous moonstones
   AsJson: '{"name":"Embroidered silk and velvet mantle set with numerous moonstones","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: 8a3730cf4a1f868db4f2897f1fe81853
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Embroidered silk and velvet mantle set with numerous moonstones
+    Content: 
+    AsJson: '{"name":"Embroidered silk and velvet mantle set with numerous moonstones","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: 8a3730cf4a1f868db4f2897f1fe81853

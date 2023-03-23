@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Prince Derendil","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Quaggoth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     quaggoth","with":"Prince Derendil","flags":"i"}}},"languages":["Elvish","Undercommon"],"hasToken":true,"hasFluffImages":true}'
   DataHash: eea368858525e5c6445cdfec099d0705
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prince Derendil
+    Content: 
+    AsJson: '{"name":"Prince Derendil","isNpc":true,"source":"OotA","page":6,"_copy":{"name":"Quaggoth","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      quaggoth","with":"Prince Derendil","flags":"i"}}},"languages":["Elvish","Undercommon"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: eea368858525e5c6445cdfec099d0705

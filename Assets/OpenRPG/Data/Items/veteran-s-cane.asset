@@ -17,3 +17,11 @@ MonoBehaviour:
     you grasp this walking cane and use a bonus action to speak the command word,
     it transforms into an ordinary longsword and ceases to be magical."]}'
   DataHash: 340b2ba51de1824294a49e9aadf6ffce
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Veteran's Cane
+    Content: 
+    AsJson: '{"name":"Veteran''s Cane","source":"XGE","page":139,"tier":"minor","rarity":"common","wondrous":true,"entries":["When
+      you grasp this walking cane and use a bonus action to speak the command word,
+      it transforms into an ordinary longsword and ceases to be magical."]}'
+    DataHash: 340b2ba51de1824294a49e9aadf6ffce

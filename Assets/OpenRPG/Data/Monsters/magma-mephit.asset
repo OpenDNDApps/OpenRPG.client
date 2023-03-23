@@ -37,3 +37,31 @@ MonoBehaviour:
     Mephit (Summoner)","addAs":"action"}}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/magma-mephit.mp3"},"traitTags":["Death
     Burst","False Appearance"],"senseTags":["D"],"actionTags":["Breath Weapon"],"languageTags":["IG","T"],"damageTags":["F","S"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 791e707939bbaf1cdb3452b4afcd1254
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Magma Mephit
+    Content: 
+    AsJson: '{"name":"Magma Mephit","source":"MM","page":216,"srd":true,"otherSources":[{"source":"PotA"},{"source":"SKT"},{"source":"ToA"},{"source":"WDMM"},{"source":"GoS"},{"source":"EGW"},{"source":"SjA"}],"size":["S"],"type":"elemental","alignment":["N","E"],"ac":[11],"hp":{"average":22,"formula":"5d6
+      + 5"},"speed":{"walk":30,"fly":30},"str":8,"dex":12,"con":12,"int":7,"wis":10,"cha":10,"skill":{"stealth":"+3"},"senses":["darkvision
+      60 ft."],"passive":10,"immune":["fire","poison"],"vulnerable":["cold"],"conditionImmune":["poisoned"],"languages":["Ignan","Terran"],"cr":"1/2","spellcasting":[{"name":"Innate
+      Spellcasting (1/Day)","headerEntries":["The mephit can innately cast {@spell
+      heat metal} (spell save {@dc 10}), requiring no material components. Its innate
+      spellcasting ability is Charisma."],"will":["{@spell heat metal}"],"ability":"cha","hidden":["will"]}],"trait":[{"name":"Death
+      Burst","entries":["When the mephit dies, it explodes in a burst of lava. Each
+      creature within 5 feet of it must make a {@dc 11} Dexterity saving throw, taking
+      7 ({@damage 2d6}) fire damage on a failed save, or half as much damage on a
+      successful one."]},{"name":"False Appearance","entries":["While the mephit
+      remains motionless, it is indistinguishable from an ordinary mound of magma."]}],"action":[{"name":"Claws","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one creature. {@h}3 ({@damage 1d4 + 1}) slashing
+      damage plus 2 ({@damage 1d4}) fire damage."]},{"name":"Fire Breath {@recharge}","entries":["The
+      mephit exhales a 15-foot cone of fire. Each creature in that area must make
+      a {@dc 11} Dexterity saving throw, taking 7 ({@damage 2d6}) fire damage on
+      a failed save, or half as much damage on a successful one."]}],"variant":[{"type":"variant","name":"Summon
+      Mephits (1/Day)","entries":["The mephit has a {@chance 25|25 percent|25% summoning
+      chance} chance of summoning {@dice 1d4} mephits of its kind. A summoned mephit
+      appears in an unoccupied space within 60 feet of its summoner, acts as an ally
+      of its summoner, and can''t summon other mephits. It remains for 1 minute,
+      until it or its summoner dies, or until its summoner dismisses it as an action."],"_version":{"name":"Magma
+      Mephit (Summoner)","addAs":"action"}}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/magma-mephit.mp3"},"traitTags":["Death
+      Burst","False Appearance"],"senseTags":["D"],"actionTags":["Breath Weapon"],"languageTags":["IG","T"],"damageTags":["F","S"],"damageTagsSpell":["F"],"spellcastingTags":["I"],"miscTags":["AOE","MW"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 791e707939bbaf1cdb3452b4afcd1254

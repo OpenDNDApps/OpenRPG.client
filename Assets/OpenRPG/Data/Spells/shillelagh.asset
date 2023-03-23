@@ -22,3 +22,16 @@ MonoBehaviour:
     magical, if it isn''t already. The spell ends if you cast it again or if you
     let go of the weapon."]}'
   DataHash: de0bb06471eb47d8b7b6ea5050adf275
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shillelagh
+    Content: 
+    AsJson: '{"name":"Shillelagh","source":"PHB","page":275,"srd":true,"level":0,"school":"T","time":[{"number":1,"unit":"bonus"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"mistletoe,
+      a shamrock leaf, and a club or quarterstaff"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1}}],"entries":["The
+      wood of a {@item club|phb} or {@item quarterstaff|phb} you are holding is imbued
+      with nature''s power. For the duration, you can use your spellcasting ability
+      instead of Strength for the attack and damage rolls of melee attacks using
+      that weapon, and the weapon''s damage die becomes a {@dice d8}. The weapon
+      also becomes magical, if it isn''t already. The spell ends if you cast it again
+      or if you let go of the weapon."]}'
+    DataHash: de0bb06471eb47d8b7b6ea5050adf275

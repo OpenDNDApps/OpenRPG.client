@@ -19,3 +19,13 @@ MonoBehaviour:
     mw} {@hit 3} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d6 + 1}) slashing
     damage."]}],"damageTags":["S","Y"],"miscTags":["MW"],"hasToken":true}'
   DataHash: d810b55638313f44de538b65a4b74bef
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stolos
+    Content: 
+    AsJson: '{"name":"Stolos","isNpc":true,"source":"IMR","page":33,"_copy":{"name":"Warlock
+      of the Great Old One","source":"VGM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      warlock","with":"Stolos","flags":"i"}}},"alignment":["N","E"],"speed":{"walk":30,"fly":30},"action":[{"name":"Talons","entries":["{@atk
+      mw} {@hit 3} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d6 + 1}) slashing
+      damage."]}],"damageTags":["S","Y"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: d810b55638313f44de538b65a4b74bef

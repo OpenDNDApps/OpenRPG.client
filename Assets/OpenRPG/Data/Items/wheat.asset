@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Wheat
   AsJson: '{"name":"Wheat","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":1}'
   DataHash: 7e52358890598d4fb407d0e1710c0848
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wheat
+    Content: 
+    AsJson: '{"name":"Wheat","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","weight":1,"value":1}'
+    DataHash: 7e52358890598d4fb407d0e1710c0848

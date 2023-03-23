@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)
   AsJson: '{"name":"Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
   DataHash: b7f74eaa389824bf4a6f6a7429670c15
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":750000}'
+    DataHash: b7f74eaa389824bf4a6f6a7429670c15

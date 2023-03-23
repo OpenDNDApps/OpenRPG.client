@@ -19,3 +19,13 @@ MonoBehaviour:
     damage. If the target is a creature, it must succeed on a {@dc 14} Strength saving
     throw or be knocked {@condition prone}."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/ankylosaurus.mp3"},"damageTags":["B"],"miscTags":["MW","RCH"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: d114a54980f350f4a9ec9c8a028ce760
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ankylosaurus
+    Content: 
+    AsJson: '{"name":"Ankylosaurus","group":["Dinosaurs"],"source":"MM","page":79,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"CRCotN"}],"size":["H"],"type":"beast","alignment":["U"],"ac":[{"ac":15,"from":["natural
+      armor"]}],"hp":{"average":68,"formula":"8d12 + 16"},"speed":{"walk":30},"str":19,"dex":11,"con":15,"int":2,"wis":12,"cha":5,"passive":11,"cr":"3","action":[{"name":"Tail","entries":["{@atk
+      mw} {@hit 7} to hit, reach 10 ft., one target. {@h}18 ({@damage 4d6 + 4}) bludgeoning
+      damage. If the target is a creature, it must succeed on a {@dc 14} Strength
+      saving throw or be knocked {@condition prone}."]}],"environment":["grassland"],"soundClip":{"type":"internal","path":"bestiary/ankylosaurus.mp3"},"damageTags":["B"],"miscTags":["MW","RCH"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: d114a54980f350f4a9ec9c8a028ce760

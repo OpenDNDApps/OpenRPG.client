@@ -29,3 +29,24 @@ MonoBehaviour:
     Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2 text-center"],"rows":[["Modify
     a leather item''s appearance","10"],["Determine a leather item''s history","20"]]}]}'
   DataHash: ca5645b87efb9e9839112aaa8a04a68c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Leatherworker's Tools
+    Content: 
+    AsJson: '{"name":"Leatherworker''s Tools","source":"PHB","page":154,"srd":true,"basicRules":true,"additionalSources":[{"source":"XGE","page":82}],"type":"AT","rarity":"none","weight":5,"value":500,"additionalEntries":["Knowledge
+      of leatherworking extends to lore concerning animal hides and their properties.
+      It also confers knowledge of leather armor and similar goods.",{"type":"entries","name":"Components","entries":["Leatherworker''s
+      tools include a knife, a small mallet, an edger, a hole punch, thread, and
+      leather scraps."]},{"type":"entries","name":"Arcana","entries":["Your expertise
+      in working with leather grants you added insight when you inspect magic items
+      crafted from leather, such as boots and some cloaks."]},{"type":"entries","name":"Investigation","entries":["You
+      gain added insight when studying leather items or clues related to them, as
+      you draw on your knowledge of leather to pick out details that others would
+      overlook."]},{"type":"entries","name":"Identify Hides","entries":["When looking
+      at a hide or a leather item, you can determine the source of the leather and
+      any special techniques used to treat it. For example, you can spot the difference
+      between leather crafted using dwarven methods and leather crafted using halfling
+      methods."]},{"type":"table","caption":"Leatherworker''s Tools","colLabels":["Activity","DC"],"colStyles":["col-10","col-2
+      text-center"],"rows":[["Modify a leather item''s appearance","10"],["Determine
+      a leather item''s history","20"]]}]}'
+    DataHash: ca5645b87efb9e9839112aaa8a04a68c

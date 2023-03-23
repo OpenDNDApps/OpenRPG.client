@@ -20,6 +20,17 @@ MonoBehaviour:
     of your skill or tool proficiencies. Your proficiency bonus is doubled for any
     ability check you make that uses the chosen proficiency."]}]}'
   DataHash: a8f87846f21bc697cbd7b9e0f8d9598f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Practiced Expert
+    Content: 
+    AsJson: '{"name":"Practiced Expert","source":"UA2020Feats","page":3,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":1}}],"skillToolLanguageProficiencies":[{"choose":[{"from":["anySkill","anyTool"]}]}],"entries":["You
+      have honed your proficiency with particular skills or tools, gaining the following
+      benefits:",{"type":"list","items":["You gain proficiency with one {@table skills|phb|skill}
+      or {@filter tool|items|type=tool;artisan''s tools} of your choice.","Choose
+      one of your skill or tool proficiencies. Your proficiency bonus is doubled
+      for any ability check you make that uses the chosen proficiency."]}]}'
+    DataHash: a8f87846f21bc697cbd7b9e0f8d9598f
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 3
   Prerequisites: []

@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Zilchyn Q''Leptin","isNpc":true,"source":"OotA","page":137,"_copy":{"name":"Drow
     Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the drow","with":"Zilchyn","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
   DataHash: 7b979ea5e0cfeb034598cdeef151e1d3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Zilchyn Q'Leptin
+    Content: 
+    AsJson: '{"name":"Zilchyn Q''Leptin","isNpc":true,"source":"OotA","page":137,"_copy":{"name":"Drow
+      Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the drow","with":"Zilchyn","flags":"i"}}},"hasToken":true,"hasFluffImages":true}'
+    DataHash: 7b979ea5e0cfeb034598cdeef151e1d3

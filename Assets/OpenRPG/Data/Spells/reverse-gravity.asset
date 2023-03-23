@@ -26,3 +26,20 @@ MonoBehaviour:
     slightly, for the duration.","At the end of the duration, affected objects and
     creatures fall back down."],"savingThrow":["dexterity"],"miscTags":["OBJ"],"areaTags":["Y"]}'
   DataHash: c164bc2d45849ded856b4ac4a0d04d22
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Reverse Gravity
+    Content: 
+    AsJson: '{"name":"Reverse Gravity","source":"PHB","page":272,"srd":true,"level":7,"school":"T","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":100}},"components":{"v":true,"s":true,"m":"a
+      lodestone and iron filings"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["This
+      spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered
+      on a point within range. All creatures and objects that aren''t somehow anchored
+      to the ground in the area fall upward and reach the top of the area when you
+      cast this spell. A creature can make a Dexterity saving throw to grab onto
+      a fixed object it can reach, thus avoiding the fall.","If some solid object
+      (such as a ceiling) is encountered in this fall, falling objects and creatures
+      strike it just as they would during a normal downward fall. If an object or
+      creature reaches the top of the area without striking anything, it remains
+      there, oscillating slightly, for the duration.","At the end of the duration,
+      affected objects and creatures fall back down."],"savingThrow":["dexterity"],"miscTags":["OBJ"],"areaTags":["Y"]}'
+    DataHash: c164bc2d45849ded856b4ac4a0d04d22

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Riding Horse
   AsJson: '{"name":"Riding Horse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":7500,"carryingCapacity":480,"speed":60}'
   DataHash: 4e4b0ad3fc3808a36a8faded9deb6072
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Riding Horse
+    Content: 
+    AsJson: '{"name":"Riding Horse","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"MNT","rarity":"none","value":7500,"carryingCapacity":480,"speed":60}'
+    DataHash: 4e4b0ad3fc3808a36a8faded9deb6072

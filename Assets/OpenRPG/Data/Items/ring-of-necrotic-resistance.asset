@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Necrotic Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["necrotic"],"detail1":"jet","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: c85142d92b721506d67ed0952b824866
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Necrotic Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Necrotic Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["necrotic"],"detail1":"jet","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: c85142d92b721506d67ed0952b824866

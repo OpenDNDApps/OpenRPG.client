@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Gold music box (Brazen Coalition)
   AsJson: '{"name":"Gold music box (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: c32d8c1249beba408144380dfb64e05a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gold music box (Brazen Coalition)
+    Content: 
+    AsJson: '{"name":"Gold music box (Brazen Coalition)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: c32d8c1249beba408144380dfb64e05a

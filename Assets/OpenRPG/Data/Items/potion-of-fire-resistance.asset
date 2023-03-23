@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Potion of Fire Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["fire"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
     Potion of Resistance}"]}'
   DataHash: 3cd46fe9e0cc9423f57f43edfb3588fe
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Fire Resistance
+    Content: 
+    AsJson: '{"name":"Potion of Fire Resistance","source":"DMG","page":188,"srd":true,"type":"P","resist":["fire"],"tier":"minor","rarity":"uncommon","hasRefs":true,"entries":["{#itemEntry
+      Potion of Resistance}"]}'
+    DataHash: 3cd46fe9e0cc9423f57f43edfb3588fe

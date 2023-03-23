@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Wei Feng Ying","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":188,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     archmage","with":"Wei Feng","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
   DataHash: e2738a5747ec691e80212802922db0bb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wei Feng Ying
+    Content: 
+    AsJson: '{"name":"Wei Feng Ying","isNpc":true,"isNamedCreature":true,"source":"JttRC","page":188,"_copy":{"name":"Archmage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      archmage","with":"Wei Feng","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["L","N"],"hasToken":true}'
+    DataHash: e2738a5747ec691e80212802922db0bb

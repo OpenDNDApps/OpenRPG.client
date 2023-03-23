@@ -17,3 +17,11 @@ MonoBehaviour:
     Sahuagin||sahuagin}","{@creature Sahuagin Priestess||sahuagin priestesses}","{@creature
     Sahuagin Baron||sahuagin barons}"]}'
   DataHash: 1234849ae864e6e3ae797c327c2ab5b1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sahuagin
+    Content: 
+    AsJson: '{"name":"Sahuagin","source":"MM","page":263,"typicalSpeakers":["{@creature
+      Sahuagin||sahuagin}","{@creature Sahuagin Priestess||sahuagin priestesses}","{@creature
+      Sahuagin Baron||sahuagin barons}"]}'
+    DataHash: 1234849ae864e6e3ae797c327c2ab5b1

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ox
   AsJson: '{"name":"Ox","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":1500}'
   DataHash: 9cdc555394d92ec41b2e91dcd614c28a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ox
+    Content: 
+    AsJson: '{"name":"Ox","source":"PHB","page":157,"srd":true,"basicRules":true,"type":"TG","rarity":"none","value":1500}'
+    DataHash: 9cdc555394d92ec41b2e91dcd614c28a

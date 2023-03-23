@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Ring of Poison Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["poison"],"detail1":"amethyst","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
     Ring of Resistance}"]}'
   DataHash: e942ca2078973269ceebea576150281d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ring of Poison Resistance
+    Content: 
+    AsJson: '{"name":"Ring of Poison Resistance","source":"DMG","page":192,"srd":true,"basicRules":true,"type":"RG","resist":["poison"],"detail1":"amethyst","tier":"major","rarity":"rare","reqAttune":true,"hasRefs":true,"entries":["{#itemEntry
+      Ring of Resistance}"]}'
+    DataHash: e942ca2078973269ceebea576150281d

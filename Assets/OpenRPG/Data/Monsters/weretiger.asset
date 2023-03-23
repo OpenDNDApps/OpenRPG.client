@@ -48,3 +48,43 @@ MonoBehaviour:
     have the Fey Ancestry trait."]}],"environment":["grassland","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/weretiger.mp3"},"traitTags":["Keen
     Senses","Pounce","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","CS"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: dff64fe03188c8f31a48486afe9734cb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Weretiger
+    Content: 
+    AsJson: '{"name":"Weretiger","group":["Lycanthropes"],"source":"MM","page":210,"srd":true,"otherSources":[{"source":"ToA"},{"source":"EGW"},{"source":"JttRC"}],"size":["M"],"type":{"type":"humanoid","tags":["human","shapechanger"]},"alignment":["N"],"ac":[12],"hp":{"average":120,"formula":"16d8
+      + 48"},"speed":{"walk":{"number":30,"condition":"(40 ft. in tiger form)"}},"str":17,"dex":15,"con":16,"int":10,"wis":13,"cha":11,"skill":{"perception":"+5","stealth":"+4"},"senses":["darkvision
+      60 ft."],"passive":15,"immune":[{"immune":["bludgeoning","piercing","slashing"],"note":"from
+      nonmagical attacks that aren''t silvered","cond":true}],"languages":["Common
+      (can''t speak in tiger form)"],"cr":"4","trait":[{"name":"Shapechanger","entries":["The
+      weretiger can use its action to polymorph into a tiger-humanoid hybrid or into
+      a tiger, or back into its true form, which is humanoid. Its statistics, other
+      than its size, are the same in each form. Any equipment it is wearing or carrying
+      isn''t transformed. It reverts to its true form if it dies."]},{"name":"Keen
+      Hearing and Smell","entries":["The weretiger has advantage on Wisdom ({@skill
+      Perception}) checks that rely on hearing or smell."]},{"name":"Pounce (Tiger
+      or Hybrid Form Only)","entries":["If the weretiger moves at least 15 feet straight
+      toward a creature and then hits it with a claw attack on the same turn, that
+      target must succeed on a {@dc 14} Strength saving throw or be knocked {@condition
+      prone}. If the target is {@condition prone}, the weretiger can make one bite
+      attack against it as a bonus action."]}],"action":[{"name":"Multiattack (Humanoid
+      or Hybrid Form Only)","entries":["In humanoid form, the weretiger makes two
+      scimitar attacks or two longbow attacks. In hybrid form, it can attack like
+      a humanoid or make two claw attacks."]},{"name":"Bite (Tiger or Hybrid Form
+      Only)","entries":["{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8
+      ({@damage 1d10 + 3}) piercing damage. If the target is a humanoid, it must
+      succeed on a {@dc 13} Constitution saving throw or be cursed with weretiger
+      lycanthropy."]},{"name":"Claw (Tiger or Hybrid Form Only)","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing
+      damage."]},{"name":"Scimitar (Humanoid or Hybrid Form Only)","entries":["{@atk
+      mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing
+      damage."]},{"name":"Longbow (Humanoid or Hybrid Form Only)","entries":["{@atk
+      rw} {@hit 4} to hit, range 150/600 ft., one target. {@h}6 ({@damage 1d8 + 2})
+      piercing damage."]}],"variant":[{"type":"variant","name":"Nonhuman Lycanthropes","entries":["The
+      statistics presented in this section assume a base creature of human. However,
+      you can also use the statistics to represent nonhuman lycanthropes, adding
+      verisimilitude by allowing a nonhuman lycanthrope to retain one or more of
+      its humanoid racial traits. For example, an elf werewolf might have the Fey
+      Ancestry trait."]}],"environment":["grassland","forest","desert"],"soundClip":{"type":"internal","path":"bestiary/weretiger.mp3"},"traitTags":["Keen
+      Senses","Pounce","Shapechanger"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","CS"],"damageTags":["P","S"],"miscTags":["MW","RNG","RW"],"conditionInflict":["prone"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: dff64fe03188c8f31a48486afe9734cb

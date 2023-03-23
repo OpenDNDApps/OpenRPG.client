@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Drake (Small)
   AsJson: '{"name":"Drake (Small)","source":"PSZ","page":24,"_copy":{"name":"Pteranodon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pteranodon","with":"drake"}}},"hasToken":true}'
   DataHash: 5e18d8edf1e2785ee7d9761779dc6ca5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drake (Small)
+    Content: 
+    AsJson: '{"name":"Drake (Small)","source":"PSZ","page":24,"_copy":{"name":"Pteranodon","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"pteranodon","with":"drake"}}},"hasToken":true}'
+    DataHash: 5e18d8edf1e2785ee7d9761779dc6ca5

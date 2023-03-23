@@ -21,3 +21,15 @@ MonoBehaviour:
     secret doors hidden by magic, and can see into the Ethereal Plane, all out to
     a range of 120 feet."]}'
   DataHash: 2d1f6d3ec7b04faec630fb0f34169f4c
+  DataByEdition:
+  - Edition: d&d5e
+    Title: True Seeing
+    Content: 
+    AsJson: '{"name":"True Seeing","source":"PHB","page":284,"srd":true,"basicRules":true,"level":6,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"an
+      ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron,
+      and fat; and is consumed by the spell","cost":2500,"consume":true}},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["This
+      spell gives the willing creature you touch the ability to see things as they
+      actually are. For the duration, the creature has {@sense truesight}, notices
+      secret doors hidden by magic, and can see into the Ethereal Plane, all out
+      to a range of 120 feet."]}'
+    DataHash: 2d1f6d3ec7b04faec630fb0f34169f4c

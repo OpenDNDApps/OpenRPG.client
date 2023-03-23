@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Arlo Kettletoe (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     knight","with":"Arlo Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
   DataHash: 160c89614bc8a86b06def4e87220e05e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Arlo Kettletoe (Levels 5-8)
+    Content: 
+    AsJson: '{"name":"Arlo Kettletoe (Levels 5-8)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Knight","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      knight","with":"Arlo Kettletoe","flags":"i"}}},"type":{"type":"humanoid","tags":["halfling"]},"alignment":["N"],"hasToken":true}'
+    DataHash: 160c89614bc8a86b06def4e87220e05e

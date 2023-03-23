@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Bronzefume","isNpc":true,"source":"PotA","page":92,"_copy":{"name":"Dragon
     Turtle","source":"MM"},"hp":{"average":220,"formula":"22d20 + 110"},"cr":"13","hasToken":true}'
   DataHash: a0284b678713af74f93db54b4e764230
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bronzefume
+    Content: 
+    AsJson: '{"name":"Bronzefume","isNpc":true,"source":"PotA","page":92,"_copy":{"name":"Dragon
+      Turtle","source":"MM"},"hp":{"average":220,"formula":"22d20 + 110"},"cr":"13","hasToken":true}'
+    DataHash: a0284b678713af74f93db54b4e764230

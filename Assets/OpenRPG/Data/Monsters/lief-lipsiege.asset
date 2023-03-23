@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Lief Lipsiege
   AsJson: '{"name":"Lief Lipsiege","isNpc":true,"source":"CoS","page":62,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true}'
   DataHash: 09709351cf657462be3dbdc993b17fc9
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Lief Lipsiege
+    Content: 
+    AsJson: '{"name":"Lief Lipsiege","isNpc":true,"source":"CoS","page":62,"_copy":{"name":"Commoner","source":"MM"},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","E"],"hasToken":true}'
+    DataHash: 09709351cf657462be3dbdc993b17fc9

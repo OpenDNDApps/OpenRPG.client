@@ -17,3 +17,11 @@ MonoBehaviour:
     Captain","source":"MM","_trait":{"name":"Tabaxi","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     captain","with":"Three Earrings"}}},"alignment":["N","E"],"hasToken":true,"hasFluff":true}'
   DataHash: 6fa5929a6a8f4d60a2f4e8b92238c74b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Three Earrings
+    Content: 
+    AsJson: '{"name":"Three Earrings","isNpc":true,"source":"EGW","page":211,"_copy":{"name":"Bandit
+      Captain","source":"MM","_trait":{"name":"Tabaxi","source":"VGM"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      captain","with":"Three Earrings"}}},"alignment":["N","E"],"hasToken":true,"hasFluff":true}'
+    DataHash: 6fa5929a6a8f4d60a2f4e8b92238c74b

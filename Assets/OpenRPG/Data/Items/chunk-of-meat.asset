@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Chunk of Meat
   AsJson: '{"name":"Chunk of Meat","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":30}'
   DataHash: df3823bb920f8c97892a7f0674ee4fe0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Chunk of Meat
+    Content: 
+    AsJson: '{"name":"Chunk of Meat","source":"PHB","page":158,"srd":true,"basicRules":true,"type":"FD","rarity":"none","value":30}'
+    DataHash: df3823bb920f8c97892a7f0674ee4fe0

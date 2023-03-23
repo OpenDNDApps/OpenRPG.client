@@ -17,3 +17,11 @@ MonoBehaviour:
     tin box contains a cup and simple cutlery. The box clamps together, and one side
     can be used as a cooking pan and the other as a plate or shallow bowl."]}'
   DataHash: 80b37b47510324ce87346303df6e4968
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mess Kit
+    Content: 
+    AsJson: '{"name":"Mess Kit","source":"PHB","page":152,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":20,"entries":["This
+      tin box contains a cup and simple cutlery. The box clamps together, and one
+      side can be used as a cooking pan and the other as a plate or shallow bowl."]}'
+    DataHash: 80b37b47510324ce87346303df6e4968

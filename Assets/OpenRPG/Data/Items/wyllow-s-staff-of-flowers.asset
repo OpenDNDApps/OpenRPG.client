@@ -18,3 +18,12 @@ MonoBehaviour:
     staff is peculiar in that it can''t create roses, which the archdruid dislikes.
     If a rose is chosen, a daisy grows instead."}}},"reqAttune":true}'
   DataHash: a03fe7115c09a68fff5d7f87431f7f7f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wyllow's Staff of Flowers
+    Content: 
+    AsJson: '{"name":"Wyllow''s Staff of Flowers","source":"WDMM","page":75,"_copy":{"name":"Staff
+      of Flowers","source":"XGE","_mod":{"entries":{"mode":"appendArr","items":"Wyllow''s
+      staff is peculiar in that it can''t create roses, which the archdruid dislikes.
+      If a rose is chosen, a daisy grows instead."}}},"reqAttune":true}'
+    DataHash: a03fe7115c09a68fff5d7f87431f7f7f

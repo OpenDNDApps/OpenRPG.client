@@ -18,3 +18,12 @@ MonoBehaviour:
     When the well is at full power, all good-aligned creatures that see the colors
     experience feelings of happiness and have advantage on all Charisma checks."]}'
   DataHash: 4ee50cf0c7b63e8ab829603792f15d62
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Prismatic Well
+    Content: 
+    AsJson: '{"name":"Prismatic Well","source":"NRH-AT","page":8,"rarity":"legendary","wondrous":true,"entries":["This
+      well enhances the colors of the city of Harmony and invigorates the population.
+      When the well is at full power, all good-aligned creatures that see the colors
+      experience feelings of happiness and have advantage on all Charisma checks."]}'
+    DataHash: 4ee50cf0c7b63e8ab829603792f15d62

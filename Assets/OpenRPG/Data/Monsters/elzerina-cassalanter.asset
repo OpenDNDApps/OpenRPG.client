@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Elzerina Cassalanter
   AsJson: '{"name":"Elzerina Cassalanter","isNpc":true,"source":"WDH","page":115,"size":["S"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"ac":[10],"hp":{"special":"1"},"speed":{"walk":30},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"languages":["Common"],"cr":"Unknown","languageTags":["C"],"hasToken":true}'
   DataHash: 203fc63edc42af1cf426bd6478ddad2b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Elzerina Cassalanter
+    Content: 
+    AsJson: '{"name":"Elzerina Cassalanter","isNpc":true,"source":"WDH","page":115,"size":["S"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N"],"ac":[10],"hp":{"special":"1"},"speed":{"walk":30},"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"passive":10,"languages":["Common"],"cr":"Unknown","languageTags":["C"],"hasToken":true}'
+    DataHash: 203fc63edc42af1cf426bd6478ddad2b

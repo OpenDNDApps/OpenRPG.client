@@ -19,3 +19,13 @@ MonoBehaviour:
     property: words spoken by the shield''s bearer are amplified and sound ten times
     louder than normal."]}'
   DataHash: 467e488d8aae947a97566e9e30d82356
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shield of Shouting
+    Content: 
+    AsJson: '{"name":"Shield of Shouting","source":"ToA","page":116,"type":"S","rarity":"unknown
+      (magic)","weight":6,"ac":2,"entries":["A {@spell detect magic} spell reveals
+      an aura of transmutation magic around this shield, which has a minor magical
+      property: words spoken by the shield''s bearer are amplified and sound ten
+      times louder than normal."]}'
+    DataHash: 467e488d8aae947a97566e9e30d82356

@@ -27,3 +27,21 @@ MonoBehaviour:
     use its action to make a Strength or Dexterity check (its choice) against your
     spell save DC. On a success, it frees itself."],"damageInflict":["bludgeoning"],"conditionInflict":["restrained"],"savingThrow":["dexterity"],"abilityCheck":["strength","dexterity"],"miscTags":["SGT"],"areaTags":["Q"]}'
   DataHash: a96d3873c2c92ad656482a8e0da8f72a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Evard's Black Tentacles
+    Content: 
+    AsJson: '{"name":"Evard''s Black Tentacles","source":"PHB","page":238,"srd":"Black
+      Tentacles","level":4,"school":"C","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":90}},"components":{"v":true,"s":true,"m":"a
+      piece of tentacle from a giant octopus or a giant squid"},"duration":[{"type":"timed","duration":{"type":"minute","amount":1},"concentration":true}],"entries":["Squirming,
+      ebony tentacles fill a 20-foot square on ground that you can see within range.
+      For the duration, these tentacles turn the ground in the area into {@quickref
+      difficult terrain||3}.","When a creature enters the affected area for the first
+      time on a turn or starts its turn there, the creature must succeed on a Dexterity
+      saving throw or take {@damage 3d6} bludgeoning damage and be {@condition restrained}
+      by the tentacles until the spell ends. A creature that starts its turn in the
+      area and is already {@condition restrained} by the tentacles takes {@damage
+      3d6} bludgeoning damage.","A creature {@condition restrained} by the tentacles
+      can use its action to make a Strength or Dexterity check (its choice) against
+      your spell save DC. On a success, it frees itself."],"damageInflict":["bludgeoning"],"conditionInflict":["restrained"],"savingThrow":["dexterity"],"abilityCheck":["strength","dexterity"],"miscTags":["SGT"],"areaTags":["Q"]}'
+    DataHash: a96d3873c2c92ad656482a8e0da8f72a

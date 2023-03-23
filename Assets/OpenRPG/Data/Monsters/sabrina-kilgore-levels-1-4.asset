@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Sabrina Kilgore (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     bandit","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
   DataHash: f620ce8cf75041a5275e97336ab98d38
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sabrina Kilgore (Levels 1-4)
+    Content: 
+    AsJson: '{"name":"Sabrina Kilgore (Levels 1-4)","isNpc":true,"isNamedCreature":true,"source":"KftGV","_copy":{"name":"Bandit","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      bandit","with":"Sabrina Kilgore","flags":"i"}}},"type":{"type":"humanoid","tags":["human"]},"alignment":["C","N"],"hasToken":true}'
+    DataHash: f620ce8cf75041a5275e97336ab98d38

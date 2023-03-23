@@ -21,3 +21,15 @@ MonoBehaviour:
     item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic Item
     Table F"],"hasFluffImages":true}'
   DataHash: 44762eb6bbba35f7b752d77d5a62aa63
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Elvenkind
+    Content: 
+    AsJson: '{"name":"Cloak of Elvenkind","source":"DMG","page":158,"srd":true,"basicRules":true,"tier":"major","rarity":"uncommon","reqAttune":true,"wondrous":true,"entries":["While
+      you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made
+      to see you have disadvantage, and you have advantage on Dexterity ({@skill
+      Stealth}) checks made to hide, as the cloak''s color shifts to camouflage you.
+      Pulling the hood up or down requires an action."],"optionalfeatures":["replicate
+      magic item|tce","replicate magic item|uaartificerrevisited"],"lootTables":["Magic
+      Item Table F"],"hasFluffImages":true}'
+    DataHash: 44762eb6bbba35f7b752d77d5a62aa63

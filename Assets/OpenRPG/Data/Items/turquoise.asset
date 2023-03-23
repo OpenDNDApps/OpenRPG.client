@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Turquoise","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
     opaque light blue-green gemstone."]}'
   DataHash: 53a9c1d8be27102093ae419fcb2e4be1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Turquoise
+    Content: 
+    AsJson: '{"name":"Turquoise","source":"DMG","page":134,"type":"$","rarity":"none","value":1000,"entries":["An
+      opaque light blue-green gemstone."]}'
+    DataHash: 53a9c1d8be27102093ae419fcb2e4be1

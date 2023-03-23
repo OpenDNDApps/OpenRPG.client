@@ -42,3 +42,37 @@ MonoBehaviour:
     at least key members of it), and it is highly unusual for a knight's ideal not
     to reflect the agenda, sentiment, or philosophy of one's order.\"]}],\"hasFluff\":true}"
   DataHash: c25ab1a671f853ee2aba04e8d4ccab03
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Knight of the Order
+    Content: 
+    AsJson: "{\"name\":\"Knight of the Order\",\"source\":\"SCAG\",\"page\":151,\"skillProficiencies\":[{\"persuasion\":true,\"choose\":{\"from\":[\"arcana\",\"history\",\"nature\",\"religion\"]}}],\"languageProficiencies\":[{\"anyStandard\":1}],\"toolProficiencies\":[{\"choose\":{\"from\":[\"musical
+      instrument\",\"gaming set\"]}}],\"startingEquipment\":[{\"_\":[\"traveler's
+      clothes|phb\",{\"special\":\"signet, banner, or seal representing your place
+      or rank in the order\"},{\"item\":\"pouch|phb\",\"containsValue\":1000}]}],\"entries\":[{\"type\":\"list\",\"style\":\"list-hang-notitle\",\"items\":[{\"type\":\"item\",\"name\":\"Skill
+      Proficiencies:\",\"entry\":\"{@skill Persuasion}, plus one from among {@skill
+      Arcana}, {@skill History}, {@skill Nature}, and {@skill Religion}, as appropriate
+      for your order\"},{\"type\":\"item\",\"name\":\"Tool Proficiencies:\",\"entry\":\"Your
+      choice of a {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming
+      set} or a {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument}\"},{\"type\":\"item\",\"name\":\"Languages:\",\"entry\":\"Any
+      one of your choice\"},{\"type\":\"item\",\"name\":\"Equipment:\",\"entry\":\"One
+      set of {@item traveler's clothes|phb}, a signet, banner, or seal representing
+      your place or rank in the order, and a {@item pouch|phb} containing 10 gp\"}]},{\"name\":\"Feature:
+      Knightly Regard\",\"type\":\"entries\",\"entries\":[\"You receive shelter and
+      succor from members of your knightly order and those who are sympathetic to
+      its aims. If your order is a religious one, you can gain aid from temples and
+      other religious communities of your deity. Knights of civic orders can get
+      help from the community\u2014whether a lone settlement or a great nation\u2014that
+      they serve, and knights of philosophical orders can find help from those they
+      have aided in pursuit of their ideals, and those who share their ideals.\",\"This
+      help comes in the form of shelter and meals, and healing when appropriate,
+      as well as occasionally risky assistance, such as a band of local citizens
+      rallying to aid a sorely pressed knight, or those who support the order helping
+      to smuggle a knight out of town when he or she is being hunted unjustly.\"],\"data\":{\"isFeature\":true}},{\"type\":\"entries\",\"name\":\"Suggested
+      Characteristics\",\"entries\":[\"Use the tables for the {@background soldier}
+      background in the Player's Handbook as the basis for your traits and motivations,
+      modifying the entries when appropriate to suit your identity as a knight of
+      your order.\",\"Your bond almost always involves the order to which you belong
+      (or at least key members of it), and it is highly unusual for a knight's ideal
+      not to reflect the agenda, sentiment, or philosophy of one's order.\"]}],\"hasFluff\":true}"
+    DataHash: c25ab1a671f853ee2aba04e8d4ccab03

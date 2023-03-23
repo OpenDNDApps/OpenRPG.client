@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Timbermaw
   AsJson: '{"name":"Timbermaw","source":"PSZ","page":34,"_copy":{"name":"Grick","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"grick","with":"timbermaw"}}},"hasToken":true}'
   DataHash: e45e6d8eb14ad0371b8851ae4bfed10d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Timbermaw
+    Content: 
+    AsJson: '{"name":"Timbermaw","source":"PSZ","page":34,"_copy":{"name":"Grick","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"grick","with":"timbermaw"}}},"hasToken":true}'
+    DataHash: e45e6d8eb14ad0371b8851ae4bfed10d

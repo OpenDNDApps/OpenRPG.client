@@ -18,3 +18,12 @@ MonoBehaviour:
     mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning
     damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/draft-horse.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
   DataHash: fa1b194c13198849738389fea86442ab
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Draft Horse
+    Content: 
+    AsJson: '{"name":"Draft Horse","source":"MM","page":321,"srd":true,"basicRules":true,"otherSources":[{"source":"CoS"},{"source":"SKT"},{"source":"WDH"},{"source":"GoS"},{"source":"BGDIA"}],"size":["L"],"type":"beast","alignment":["U"],"ac":[10],"hp":{"average":19,"formula":"3d10
+      + 3"},"speed":{"walk":40},"str":18,"dex":10,"con":12,"int":2,"wis":11,"cha":7,"passive":10,"cr":"1/4","action":[{"name":"Hooves","entries":["{@atk
+      mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning
+      damage."]}],"environment":["urban"],"soundClip":{"type":"internal","path":"bestiary/draft-horse.mp3"},"damageTags":["B"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: fa1b194c13198849738389fea86442ab

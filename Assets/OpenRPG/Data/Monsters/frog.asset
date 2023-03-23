@@ -20,3 +20,14 @@ MonoBehaviour:
     long jump is up to 10 feet and its high jump is up to 5 feet, with or without
     a running start."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/frog.mp3"},"traitTags":["Amphibious"],"senseTags":["D"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: c6d3e9c0ba721d39a9e624c62a8be44b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Frog
+    Content: 
+    AsJson: '{"name":"Frog","source":"MM","page":322,"srd":true,"basicRules":true,"otherSources":[{"source":"ToA"},{"source":"CoS"},{"source":"WBtW"},{"source":"PSX"},{"source":"KftGV"}],"size":["T"],"type":"beast","alignment":["U"],"ac":[11],"hp":{"average":1,"formula":"1d4
+      - 1"},"speed":{"walk":20,"swim":20},"str":1,"dex":13,"con":8,"int":1,"wis":8,"cha":3,"skill":{"perception":"+1","stealth":"+3"},"senses":["darkvision
+      30 ft."],"passive":11,"cr":"0","trait":[{"name":"Amphibious","entries":["The
+      frog can breathe air and water."]},{"name":"Standing Leap","entries":["The
+      frog''s long jump is up to 10 feet and its high jump is up to 5 feet, with
+      or without a running start."]}],"familiar":true,"soundClip":{"type":"internal","path":"bestiary/frog.mp3"},"traitTags":["Amphibious"],"senseTags":["D"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: c6d3e9c0ba721d39a9e624c62a8be44b

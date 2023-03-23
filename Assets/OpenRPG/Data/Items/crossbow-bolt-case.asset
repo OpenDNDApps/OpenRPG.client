@@ -17,3 +17,11 @@ MonoBehaviour:
     wooden case can hold up to twenty {@item crossbow bolt|phb|crossbow bolts}."],"containerCapacity":{"item":[{"crossbow
     bolt|phb":20}]}}'
   DataHash: 8ee187db820851fa6456d226c428e252
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Crossbow Bolt Case
+    Content: 
+    AsJson: '{"name":"Crossbow Bolt Case","source":"PHB","page":151,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":1,"value":100,"entries":["This
+      wooden case can hold up to twenty {@item crossbow bolt|phb|crossbow bolts}."],"containerCapacity":{"item":[{"crossbow
+      bolt|phb":20}]}}'
+    DataHash: 8ee187db820851fa6456d226c428e252

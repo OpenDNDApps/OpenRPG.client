@@ -25,3 +25,19 @@ MonoBehaviour:
     level or higher, the damage increases by {@dice 1d4} for each slot level above
     4th."]}],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["SGT"]}'
   DataHash: 8fad68854215836235222dcc2a66fd6b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Antagonize
+    Content: 
+    AsJson: '{"name":"Antagonize","source":"UA2022WondersOfTheMultiverse","page":10,"level":3,"school":"E","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"feet","amount":30}},"components":{"v":true,"s":true,"m":"a
+      playing card depicting a rogue"},"duration":[{"type":"instant"}],"entries":["You
+      whisper magical words that antagonize one creature of your choice within range.
+      The target must make a Wisdom saving throw. On a failed save, it takes {@damage
+      4d4} psychic damage and must immediately use its reaction, if available, to
+      make a melee attack against another creature of your choice that you can see.
+      If no other creature is within range, the target has disadvantage on the next
+      attack roll it makes before the start of your next turn."],"entriesHigherLevel":[{"type":"entries","name":"At
+      Higher Levels","entries":["When you cast this spell using a spell slot of 4th
+      level or higher, the damage increases by {@dice 1d4} for each slot level above
+      4th."]}],"damageInflict":["psychic"],"savingThrow":["wisdom"],"miscTags":["SGT"]}'
+    DataHash: 8fad68854215836235222dcc2a66fd6b

@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Mechachimera
   AsJson: '{"name":"Mechachimera","source":"OoW","page":134,"_copy":{"name":"Chimera","source":"MM"},"type":"construct","immune":["poison","psychic"],"hasToken":true}'
   DataHash: bb7d6b6ac196e28efc46f6a81e470984
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Mechachimera
+    Content: 
+    AsJson: '{"name":"Mechachimera","source":"OoW","page":134,"_copy":{"name":"Chimera","source":"MM"},"type":"construct","immune":["poison","psychic"],"hasToken":true}'
+    DataHash: bb7d6b6ac196e28efc46f6a81e470984

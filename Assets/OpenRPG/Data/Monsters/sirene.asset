@@ -26,3 +26,20 @@ MonoBehaviour:
     rw} {@hit 6} to hit, range 80/320 ft., one target. {@h}7 ({@damage 1d6 + 4})
     piercing damage."]}],"traitTags":["Amphibious","Magic Resistance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","E","S"],"damageTags":["P"],"spellcastingTags":["I"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["charmed","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: a8cc70e4abcdf771f543f623d839d433
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sirene
+    Content: 
+    AsJson: '{"name":"Sirene","source":"MaBJoV","page":145,"size":["M"],"type":"fey","alignment":["C","N"],"ac":[14],"hp":{"average":36,"formula":"8d8"},"speed":{"walk":30,"swim":30},"str":12,"dex":18,"con":11,"int":12,"wis":10,"cha":16,"skill":{"performance":"+5","persuasion":"+5","stealth":"+6"},"senses":["darkvision
+      60 ft."],"passive":10,"languages":["Common","Elvish","Sylvan"],"cr":"3","spellcasting":[{"name":"Innate
+      Spellcasting","headerEntries":["The sirene''s spellcasting ability is Charisma
+      (spell save {@dc 13}). It can innately cast the following spells, requiring
+      no components:"],"daily":{"3e":["{@spell crown of madness}","{@spell suggestion}"],"1e":["{@spell
+      invisibility}"]},"ability":"cha"}],"trait":[{"name":"Amphibious","entries":["The
+      sirene can breathe air and water."]},{"name":"Magic Resistance","entries":["The
+      sirene has advantage on saving throws against spells and other magical effects."]}],"action":[{"name":"Multiattack","entries":["The
+      sirene makes two dagger attacks or two shortbow attacks."]},{"name":"Dagger","entries":["{@atk
+      mw} {@hit 6} to hit, range 5 ft., one target. {@h}6 ({@dice 1d4 + 4})"]},{"name":"Shortbow","entries":["{@atk
+      rw} {@hit 6} to hit, range 80/320 ft., one target. {@h}7 ({@damage 1d6 + 4})
+      piercing damage."]}],"traitTags":["Amphibious","Magic Resistance"],"senseTags":["D"],"actionTags":["Multiattack"],"languageTags":["C","E","S"],"damageTags":["P"],"spellcastingTags":["I"],"miscTags":["MW","RNG","RW"],"conditionInflictSpell":["charmed","invisible"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: a8cc70e4abcdf771f543f623d839d433

@@ -19,3 +19,13 @@ MonoBehaviour:
     unseen servant is {@condition invisible}."]}],"action":[{"name":"Slam","entries":["{@atk
     mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."]}],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["invisible"],"hasToken":true,"hasFluff":true}'
   DataHash: 5364593bb079b85cf788d683b9e7e0f6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Living Unseen Servant
+    Content: 
+    AsJson: '{"name":"Living Unseen Servant","source":"WDMM","page":313,"size":["M"],"type":"construct","alignment":["U"],"ac":[10],"hp":{"average":4,"formula":"1d8"},"speed":{"walk":30},"str":2,"dex":10,"con":11,"int":1,"wis":10,"cha":1,"skill":{"perception":"+2","stealth":"+4"},"senses":["blindsight
+      60 ft. (blind beyond this radius)"],"passive":12,"immune":["poison"],"conditionImmune":["exhaustion","paralyzed","petrified","poisoned","unconscious"],"languages":["understands
+      one language (usually Common) but can''t speak"],"cr":"0","trait":[{"name":"Invisibility","entries":["The
+      unseen servant is {@condition invisible}."]}],"action":[{"name":"Slam","entries":["{@atk
+      mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."]}],"senseTags":["B"],"languageTags":["C","CS"],"damageTags":["B"],"miscTags":["MW"],"conditionInflict":["invisible"],"hasToken":true,"hasFluff":true}'
+    DataHash: 5364593bb079b85cf788d683b9e7e0f6

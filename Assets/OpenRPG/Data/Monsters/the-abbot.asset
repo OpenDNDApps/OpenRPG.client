@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"The Abbot","isNpc":true,"source":"CoS","page":151,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
     deva","with":"The Abbot","flags":"i"}}},"alignment":["L","E"],"hasToken":true}'
   DataHash: 9a945bf909b06c3ebdf0093205950de0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: The Abbot
+    Content: 
+    AsJson: '{"name":"The Abbot","isNpc":true,"source":"CoS","page":151,"_copy":{"name":"Deva","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      deva","with":"The Abbot","flags":"i"}}},"alignment":["L","E"],"hasToken":true}'
+    DataHash: 9a945bf909b06c3ebdf0093205950de0

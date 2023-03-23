@@ -16,6 +16,13 @@ MonoBehaviour:
   AsJson: '{"name":"Plane Shift: Ixalan","alias":["Plane Shift: Ixalan"],"id":"PSX","source":"PSX","author":"MTG","group":"supplement","coverUrl":"img/covers/PSX.jpg","published":"2018-10-16","contents":[{"name":"Magazine
     Issue","headers":["Ignored Topic"]}]}'
   DataHash: ccd0c6e2d74b8aa241a908573100fe22
+  DataByEdition:
+  - Edition: d&d5e
+    Title: 'Plane Shift: Ixalan'
+    Content: 
+    AsJson: '{"name":"Plane Shift: Ixalan","alias":["Plane Shift: Ixalan"],"id":"PSX","source":"PSX","author":"MTG","group":"supplement","coverUrl":"img/covers/PSX.jpg","published":"2018-10-16","contents":[{"name":"Magazine
+      Issue","headers":["Ignored Topic"]}]}'
+    DataHash: ccd0c6e2d74b8aa241a908573100fe22
   CoverURL: img/covers/PSX.jpg
   Published: 2018-10-16
   Author: MTG

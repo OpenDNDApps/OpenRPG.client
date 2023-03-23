@@ -23,3 +23,18 @@ MonoBehaviour:
     mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage
     1d4 + 1}) piercing damage."]}],"languageTags":["C"],"damageTags":["P"],"damageTagsSpell":["C","F","O"],"spellcastingTags":["CW"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
   DataHash: eecf52897714d41eac126018a0f02983
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Sanbalet
+    Content: 
+    AsJson: '{"name":"Sanbalet","isNpc":true,"source":"GoS","page":252,"size":["M"],"type":{"type":"humanoid","tags":["human"]},"alignment":["N","E"],"ac":[11],"hp":{"average":27,"formula":"6d8"},"speed":{"walk":30},"str":10,"dex":12,"con":11,"int":16,"wis":13,"cha":14,"skill":{"arcana":"+5"},"passive":11,"languages":["Common"],"cr":"1","spellcasting":[{"name":"Spellcasting","headerEntries":["Sanbalet
+      is a 3rd-level spellcaster. His spellcasting ability is Intelligence (spell
+      save {@dc 13}, {@hit 5} to hit with spell attacks). He has the following wizard
+      spells prepared:"],"spells":{"0":{"spells":["{@spell dancing lights}","{@spell
+      minor illusion}","{@spell ray of frost}"]},"1":{"slots":4,"spells":["{@spell
+      charm person}","{@spell color spray}","{@spell magic missile}","{@spell silent
+      image}"]},"2":{"slots":2,"spells":["{@spell magic mouth}","{@spell scorching
+      ray}"]}},"ability":"int"}],"action":[{"name":"Dagger","entries":["{@atk mw,rw}
+      {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage
+      1d4 + 1}) piercing damage."]}],"languageTags":["C"],"damageTags":["P"],"damageTagsSpell":["C","F","O"],"spellcastingTags":["CW"],"miscTags":["MW","RW","THW"],"hasToken":true,"hasFluff":true}'
+    DataHash: eecf52897714d41eac126018a0f02983

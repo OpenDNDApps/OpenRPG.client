@@ -21,3 +21,15 @@ MonoBehaviour:
     In addition, when you use your Arcane Recovery feature, you can increase the
     number of spell slot levels you regain by 1."]}'
   DataHash: f75337040c0285993283b62431b151ed
+  DataByEdition:
+  - Edition: d&d5e
+    Title: +2 Arcane Grimoire
+    Content: 
+    AsJson: '{"name":"+2 Arcane Grimoire","source":"TCE","page":120,"rarity":"rare","reqAttune":"by
+      a wizard","reqAttuneTags":[{"class":"wizard"}],"wondrous":true,"weight":3,"bonusSpellAttack":"+2","bonusSpellSaveDc":"+2","focus":["Wizard"],"entries":["While
+      you are holding this leather-bound book, you can use it as a spellcasting focus
+      for your wizard spells, and you gain a +2 bonus to spell attack rolls and to
+      the saving throw DCs of your wizard spells.","You can use this book as a spellbook.
+      In addition, when you use your Arcane Recovery feature, you can increase the
+      number of spell slot levels you regain by 1."]}'
+    DataHash: f75337040c0285993283b62431b151ed

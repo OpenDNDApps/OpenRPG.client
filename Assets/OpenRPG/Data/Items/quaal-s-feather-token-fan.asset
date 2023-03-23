@@ -22,3 +22,17 @@ MonoBehaviour:
     fan floats and creates a wind strong enough to fill the sails of one ship, increasing
     its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action."]}]}'
   DataHash: 28224387fbdd25ad91913ec49521002f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Quaal's Feather Token, Fan
+    Content: 
+    AsJson: '{"name":"Quaal''s Feather Token, Fan","source":"DMG","page":188,"srd":"Feather
+      Token, Fan","tier":"minor","rarity":"rare","wondrous":true,"entries":["This
+      tiny object looks like a feather. Different types of feather tokens exist,
+      each with a different single-use effect.",{"name":"Fan","type":"entries","entries":["If
+      you are on a boat or ship, you can use an action to toss the token up to 10
+      feet in the air. The token disappears, and a giant flapping fan takes its place.
+      The fan floats and creates a wind strong enough to fill the sails of one ship,
+      increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan
+      as an action."]}]}'
+    DataHash: 28224387fbdd25ad91913ec49521002f

@@ -22,3 +22,16 @@ MonoBehaviour:
     duration.","This spell immediately ends if you cast it again before its duration
     ends."],"areaTags":["ST"]}'
   DataHash: 3d21c7dc2ca7551f5739410f25e8b003
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Foresight
+    Content: 
+    AsJson: '{"name":"Foresight","source":"PHB","page":244,"srd":true,"basicRules":true,"level":9,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":"a
+      hummingbird feather"},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+      touch a willing creature and bestow a limited ability to see into the immediate
+      future. For the duration, the target can''t be {@quickref Surprise|PHB|3|0|surprised}
+      and has advantage on attack rolls, ability checks, and saving throws. Additionally,
+      other creatures have disadvantage on attack rolls against the target for the
+      duration.","This spell immediately ends if you cast it again before its duration
+      ends."],"areaTags":["ST"]}'
+    DataHash: 3d21c7dc2ca7551f5739410f25e8b003

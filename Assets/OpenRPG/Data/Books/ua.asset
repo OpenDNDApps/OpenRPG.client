@@ -17,6 +17,14 @@ MonoBehaviour:
     Gygax","group":"supplement","coverUrl":"img/covers/UA1e.webp","published":"1985-02-19","contents":[{"name":"Magazine
     Issue","headers":["Ignored Topic"]}]}'
   DataHash: 4b7c03e53e29b0d76e4e738d86a0b3e4
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Unearthed Arcana
+    Content: 
+    AsJson: '{"name":"Unearthed Arcana","alias":["Unearthed Arcana: Boo''s Astral
+      Menagerie"],"id":"UA","source":"UA","author":"Gary Gygax","group":"supplement","coverUrl":"img/covers/UA1e.webp","published":"1985-02-19","contents":[{"name":"Magazine
+      Issue","headers":["Ignored Topic"]}]}'
+    DataHash: 4b7c03e53e29b0d76e4e738d86a0b3e4
   CoverURL: img/covers/UA1e.webp
   Published: 1985-02-19
   Author: Gary Gygax

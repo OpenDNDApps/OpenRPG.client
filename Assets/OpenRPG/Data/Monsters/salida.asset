@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Salida","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Yuan-ti
     Pureblood","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the yuan-ti","with":"Salida","flags":"i"}}},"alignment":["N","E"],"skill":{"deception":"+6","perception":"+3","stealth":"+3","survival":"+5"},"hasToken":true}'
   DataHash: 060f4090ed29f21b7fd75b3af160c8a5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Salida
+    Content: 
+    AsJson: '{"name":"Salida","isNpc":true,"source":"ToA","page":35,"_copy":{"name":"Yuan-ti
+      Pureblood","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"the yuan-ti","with":"Salida","flags":"i"}}},"alignment":["N","E"],"skill":{"deception":"+6","perception":"+3","stealth":"+3","survival":"+5"},"hasToken":true}'
+    DataHash: 060f4090ed29f21b7fd75b3af160c8a5

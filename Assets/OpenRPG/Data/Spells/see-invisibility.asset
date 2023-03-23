@@ -19,3 +19,13 @@ MonoBehaviour:
     were visible, and you can see into the Ethereal Plane. Ethereal creatures and
     objects appear ghostly and translucent."]}'
   DataHash: 9c657e2a046ec55949ff4f36187db90f
+  DataByEdition:
+  - Edition: d&d5e
+    Title: See Invisibility
+    Content: 
+    AsJson: '{"name":"See Invisibility","source":"PHB","page":274,"srd":true,"level":2,"school":"D","time":[{"number":1,"unit":"action"}],"range":{"type":"point","distance":{"type":"self"}},"components":{"v":true,"s":true,"m":"a
+      pinch of talc and a small sprinkling of powdered silver"},"duration":[{"type":"timed","duration":{"type":"hour","amount":1}}],"entries":["For
+      the duration, you see {@condition invisible} creatures and objects as if they
+      were visible, and you can see into the Ethereal Plane. Ethereal creatures and
+      objects appear ghostly and translucent."]}'
+    DataHash: 9c657e2a046ec55949ff4f36187db90f

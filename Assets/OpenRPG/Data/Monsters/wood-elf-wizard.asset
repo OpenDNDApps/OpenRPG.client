@@ -18,3 +18,12 @@ MonoBehaviour:
     elf"},"trait":{"mode":"removeArr","names":"Sunlight Sensitivity"}}},"traitTags":["Fey
     Ancestry"],"hasToken":true}'
   DataHash: a0d9494bce9f6a191cac7d1a26c36556
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wood Elf Wizard
+    Content: 
+    AsJson: '{"name":"Wood Elf Wizard","source":"CM","page":187,"_copy":{"name":"Drow
+      Mage","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"\\bdrow\\b","with":"wood
+      elf"},"trait":{"mode":"removeArr","names":"Sunlight Sensitivity"}}},"traitTags":["Fey
+      Ancestry"],"hasToken":true}'
+    DataHash: a0d9494bce9f6a191cac7d1a26c36556

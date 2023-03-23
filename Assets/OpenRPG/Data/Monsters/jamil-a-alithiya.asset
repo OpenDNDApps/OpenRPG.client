@@ -17,3 +17,11 @@ MonoBehaviour:
     High Curator","source":"CRCotN","_mod":{"*":{"mode":"replaceTxt","replace":"the
     high curator","with":"Jamil","flags":"i"}}},"size":["M"],"type":{"type":"humanoid","tags":["human","monk","wizard"]},"alignment":["C","G"],"hasToken":true}'
   DataHash: 7e47d348f1328c8f40b27ac1af6c211d
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Jamil A'alithiya
+    Content: 
+    AsJson: '{"name":"Jamil A''alithiya","isNpc":true,"isNamedCreature":true,"source":"CRCotN","page":83,"_copy":{"name":"Monastic
+      High Curator","source":"CRCotN","_mod":{"*":{"mode":"replaceTxt","replace":"the
+      high curator","with":"Jamil","flags":"i"}}},"size":["M"],"type":{"type":"humanoid","tags":["human","monk","wizard"]},"alignment":["C","G"],"hasToken":true}'
+    DataHash: 7e47d348f1328c8f40b27ac1af6c211d

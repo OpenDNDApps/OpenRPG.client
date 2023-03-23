@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Airship
   AsJson: '{"name":"Airship","source":"DMG","page":119,"type":"AIR","rarity":"none","value":2000000,"crew":10,"vehAc":13,"vehHp":300,"vehSpeed":8,"capPassenger":20,"capCargo":1}'
   DataHash: 58baf4634c0ba0b0a7ea746d026efb06
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Airship
+    Content: 
+    AsJson: '{"name":"Airship","source":"DMG","page":119,"type":"AIR","rarity":"none","value":2000000,"crew":10,"vehAc":13,"vehHp":300,"vehSpeed":8,"capPassenger":20,"capCargo":1}'
+    DataHash: 58baf4634c0ba0b0a7ea746d026efb06

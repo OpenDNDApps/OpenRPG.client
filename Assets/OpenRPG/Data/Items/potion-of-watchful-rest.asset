@@ -19,3 +19,13 @@ MonoBehaviour:
     still gain its benefits. This sweet, amber-colored brew has no effect on creatures
     that don''t require sleep, such as elves."]}'
   DataHash: dc9280e2edac28e3bc0b1c37a3be95e5
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Watchful Rest
+    Content: 
+    AsJson: '{"name":"Potion of Watchful Rest","source":"WDMM","page":62,"type":"P","rarity":"common","entries":["When
+      you drink this potion, you gain the following benefits for the next 8 hours:
+      magic can''t put you to sleep, and you can remain awake during a long rest
+      and still gain its benefits. This sweet, amber-colored brew has no effect on
+      creatures that don''t require sleep, such as elves."]}'
+    DataHash: dc9280e2edac28e3bc0b1c37a3be95e5

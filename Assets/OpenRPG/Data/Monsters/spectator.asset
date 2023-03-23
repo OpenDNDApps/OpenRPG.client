@@ -45,3 +45,39 @@ MonoBehaviour:
     its own save. If the spell was an attack, the attack roll is rerolled against
     the chosen creature."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/spectator.mp3"},"altArt":[{"name":"Spectator","source":"RMBRE"}],"senseTags":["SD"],"languageTags":["DS","TP","U"],"damageTags":["N","P"],"miscTags":["MW"],"conditionInflict":["frightened","paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
   DataHash: 6b7a91c00b27c102627bb50a5b4a36c3
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Spectator
+    Content: 
+    AsJson: '{"name":"Spectator","group":["Beholders"],"source":"MM","page":30,"basicRules":true,"otherSources":[{"source":"LMoP"},{"source":"WDH"},{"source":"WDMM"},{"source":"RMBRE"},{"source":"IDRotF"},{"source":"SjA"},{"source":"KftGV"}],"size":["M"],"type":"aberration","alignment":["L","N"],"ac":[{"ac":14,"from":["natural
+      armor"]}],"hp":{"average":39,"formula":"6d8 + 12"},"speed":{"walk":0,"fly":{"number":30,"condition":"(hover)"},"canHover":true},"str":8,"dex":14,"con":14,"int":13,"wis":14,"cha":11,"skill":{"perception":"+6"},"senses":["darkvision
+      120 ft."],"passive":16,"conditionImmune":["prone"],"languages":["Deep Speech","Undercommon","telepathy
+      120 ft."],"cr":"3","action":[{"name":"Bite","entries":["{@atk mw} {@hit 1}
+      to hit, reach 5 ft., one target. {@h}2 ({@damage 1d6 - 1}) piercing damage."]},{"name":"Eye
+      Rays","entries":["The spectator shoots up to two of the following magical eye
+      rays at one or two creatures it can see within 90 feet of it. It can use each
+      ray only once on a turn.",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"1.
+      Confusion Ray","style":"italic","entry":"The target must succeed on a {@dc
+      13} Wisdom saving throw, or it can''t take reactions until the end of its next
+      turn. On its turn, the target can''t move, and it uses its action to make a
+      melee or ranged attack against a randomly determined creature within range.
+      If the target can''t attack, it does nothing on its turn."},{"type":"item","name":"2.
+      Paralyzing Ray","style":"italic","entry":"The target must succeed on a {@dc
+      13} Constitution saving throw or be {@condition paralyzed} for 1 minute. The
+      target can repeat the saving throw at the end of each of its turns, ending
+      the effect on itself on a success."},{"type":"item","name":"3. Fear Ray","style":"italic","entry":"The
+      target must succeed on a {@dc 13} Wisdom saving throw or be {@condition frightened}
+      for 1 minute. The target can repeat the saving throw at the end of each of
+      its turns, with disadvantage if the spectator is visible to the target, ending
+      the effect on itself on a success."},{"type":"item","name":"4. Wounding Ray","style":"italic","entry":"The
+      target must make a {@dc 13} Constitution saving throw, taking 16 ({@damage
+      3d10}) necrotic damage on a failed save, or half as much damage on a successful
+      one."}]}]},{"name":"Create Food and Water","entries":["The spectator magically
+      creates enough food and water to sustain itself for 24 hours."]}],"reaction":[{"name":"Spell
+      Reflection","entries":["If the spectator makes a successful saving throw against
+      a spell, or a spell attack misses it, the spectator can choose another creature
+      (including the spellcaster) it can see within 30 feet of it. The spell targets
+      the chosen creature instead of the spectator. If the spell forced a saving
+      throw, the chosen creature makes its own save. If the spell was an attack,
+      the attack roll is rerolled against the chosen creature."]}],"environment":["underdark"],"soundClip":{"type":"internal","path":"bestiary/spectator.mp3"},"altArt":[{"name":"Spectator","source":"RMBRE"}],"senseTags":["SD"],"languageTags":["DS","TP","U"],"damageTags":["N","P"],"miscTags":["MW"],"conditionInflict":["frightened","paralyzed"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
+    DataHash: 6b7a91c00b27c102627bb50a5b4a36c3

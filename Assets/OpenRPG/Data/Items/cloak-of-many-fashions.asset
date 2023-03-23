@@ -20,3 +20,14 @@ MonoBehaviour:
     duplicate the appearance of other magic cloaks, it doesn''t gain their magical
     properties."],"hasFluffImages":true}'
   DataHash: 4d038ee09b189059779aff8617797e88
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Cloak of Many Fashions
+    Content: 
+    AsJson: '{"name":"Cloak of Many Fashions","source":"XGE","page":136,"tier":"minor","rarity":"common","wondrous":true,"entries":["While
+      wearing this cloak, you can use a bonus action to change the style, color,
+      and apparent quality of the garment. The cloak''s weight doesn''t change. Regardless
+      of its appearance, the cloak can''t be anything but a cloak. Although it can
+      duplicate the appearance of other magic cloaks, it doesn''t gain their magical
+      properties."],"hasFluffImages":true}'
+    DataHash: 4d038ee09b189059779aff8617797e88

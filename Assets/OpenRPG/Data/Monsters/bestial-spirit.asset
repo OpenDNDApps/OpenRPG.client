@@ -31,3 +31,26 @@ MonoBehaviour:
     1d8 + 4 + summonSpellLevel} piercing damage."]}],"traitTags":["Amphibious","Flyby","Pack
     Tactics"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
   DataHash: f72b0493e014e6975c1d3b416da9e1e7
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Bestial Spirit
+    Content: 
+    AsJson: '{"name":"Bestial Spirit","source":"UA2020SpellsAndMagicTattoos","page":4,"summonedBySpell":"Summon
+      Bestial Spirit|UA2020SpellsAndMagicTattoos","summonedBySpellLevel":2,"size":["S"],"type":"beast","alignment":["U"],"ac":[{"special":"11
+      + the level of the spell (natural armor)"}],"hp":{"special":"equal the beast''s
+      Constitution modifier + your spellcasting ability modifier + ten times the
+      spell''s level"},"speed":{"walk":30,"climb":{"number":30,"condition":"(land
+      only)"},"fly":{"number":60,"condition":"(air only)"},"swim":{"number":30,"condition":"(water
+      only)"}},"str":18,"dex":11,"con":16,"int":4,"wis":14,"cha":5,"senses":["darkvision
+      60 ft."],"passive":12,"languages":["understands the languages you speak"],"trait":[{"name":"Amphibious
+      (Water Only)","entries":["The beast can breathe air and water."]},{"name":"Flyby
+      (Air Only)","entries":["The beast doesn''t provoke opportunity attacks when
+      it flies out of an enemy''s reach."]},{"name":"Pack Tactics (Land and Water
+      Only)","entries":["The beast has advantage on an attack roll against a creature
+      if at least one of the beast''s allies is within 5 feet of the creature and
+      the ally isn''t {@condition incapacitated}."]}],"action":[{"name":"Multiattack","entries":["The
+      beast makes a number of attacks equal to half this spell''s level (rounded
+      down)."]},{"name":"Maul","entries":["{@atk mw} {@hit 4 + summonSpellLevel}
+      to hit, reach 5 ft., one target. {@h}{@damage 1d8 + 4 + summonSpellLevel} piercing
+      damage."]}],"traitTags":["Amphibious","Flyby","Pack Tactics"],"senseTags":["D"],"actionTags":["Multiattack"],"damageTags":["P"],"miscTags":["MW"],"hasToken":true}'
+    DataHash: f72b0493e014e6975c1d3b416da9e1e7

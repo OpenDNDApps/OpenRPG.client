@@ -20,3 +20,14 @@ MonoBehaviour:
     The potion''s crimson liquid regularly pulses with dull light, calling to mind
     a heartbeat."],"lootTables":["Magic Item Table D"]}'
   DataHash: 100948bef3928deb9be3ce8091695bdb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Potion of Vitality
+    Content: 
+    AsJson: '{"name":"Potion of Vitality","source":"DMG","page":188,"basicRules":true,"type":"P","tier":"minor","rarity":"very
+      rare","entries":["When you drink this potion, it removes any {@condition exhaustion}
+      you are suffering and cures any disease or poison affecting you. For the next
+      24 hours, you regain the maximum number of hit points for any Hit Die you spend.
+      The potion''s crimson liquid regularly pulses with dull light, calling to mind
+      a heartbeat."],"lootTables":["Magic Item Table D"]}'
+    DataHash: 100948bef3928deb9be3ce8091695bdb

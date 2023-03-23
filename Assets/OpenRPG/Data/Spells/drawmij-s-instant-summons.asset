@@ -28,3 +28,22 @@ MonoBehaviour:
     at that moment.","{@spell Dispel magic} or a similar effect successfully applied
     to the sapphire ends this spell''s effect."],"miscTags":["OBJ"]}'
   DataHash: d0b372ae74964c31ee932ea54e5389a0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Drawmij's Instant Summons
+    Content: 
+    AsJson: '{"name":"Drawmij''s Instant Summons","source":"PHB","page":235,"srd":"Instant
+      Summons","level":6,"school":"C","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true,"m":{"text":"a
+      sapphire worth 1,000 gp","cost":100000}},"duration":[{"type":"permanent","ends":["dispel"]}],"meta":{"ritual":true},"entries":["You
+      touch an object weighing 10 pounds or less whose longest dimension is 6 feet
+      or less. The spell leaves an invisible mark on its surface and invisibly inscribes
+      the name of the item on the sapphire you use as the material component. Each
+      time you cast this spell, you must use a different sapphire.","At any time
+      thereafter, you can use your action to speak the item''s name and crush the
+      sapphire. The item instantly appears in your hand regardless of physical or
+      planar distances, and the spell ends.","If another creature is holding or carrying
+      the item, crushing the sapphire doesn''t transport the item to you, but instead
+      you learn who the creature possessing the object is and roughly where that
+      creature is located at that moment.","{@spell Dispel magic} or a similar effect
+      successfully applied to the sapphire ends this spell''s effect."],"miscTags":["OBJ"]}'
+    DataHash: d0b372ae74964c31ee932ea54e5389a0

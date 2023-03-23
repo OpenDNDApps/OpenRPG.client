@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Platinum headdress with topaz sun symbol (Sun Empire)
   AsJson: '{"name":"Platinum headdress with topaz sun symbol (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
   DataHash: 347e489b47da498d1aea1e4f5fbd5a78
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Platinum headdress with topaz sun symbol (Sun Empire)
+    Content: 
+    AsJson: '{"name":"Platinum headdress with topaz sun symbol (Sun Empire)","source":"PSX","page":25,"type":"$","rarity":"none","value":250000}'
+    DataHash: 347e489b47da498d1aea1e4f5fbd5a78

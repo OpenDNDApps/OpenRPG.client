@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Kobold Elite","source":"TftYP","page":18,"_copy":{"name":"Kobold","source":"MM"},"hp":{"average":7,"formula":"2d6
     - 2"},"hasToken":true}'
   DataHash: afa770ff62ae07153ff018521248ddf0
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Kobold Elite
+    Content: 
+    AsJson: '{"name":"Kobold Elite","source":"TftYP","page":18,"_copy":{"name":"Kobold","source":"MM"},"hp":{"average":7,"formula":"2d6
+      - 2"},"hasToken":true}'
+    DataHash: afa770ff62ae07153ff018521248ddf0

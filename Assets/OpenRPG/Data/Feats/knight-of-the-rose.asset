@@ -32,6 +32,29 @@ MonoBehaviour:
     change what knightly order they''re a part of, but they always have access to
     any Knight of Solamnia feats they''ve acquired."]}]}'
   DataHash: d2700969b92ed8db67dd0e1825729819
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Knight of the Rose
+    Content: 
+    AsJson: '{"name":"Knight of the Rose","source":"UA2022HeroesOfKrynnRevisited","page":5,"prerequisite":[{"level":4,"feat":["squire
+      of solamnia|ua2022heroesofkrynnrevisited"]}],"ability":[{"choose":{"from":["con","cha"],"amount":1}}],"entries":["You
+      are a Knight of Solamnia aligned with the Order of the Rose, a group known
+      for leadership, justice, and wisdom. Your resolve grants you these benefits:",{"type":"list","style":"list-hang-notitle","items":[{"type":"item","name":"Rose
+      Maneuvers","entries":["You learn the {@optfeature Commander''s Strike} or {@optfeature
+      Rally} maneuver from the Battle Master subclass of the fighter in the Player''s
+      Handbook (choose the maneuver when you gain this feat). Whenever you finish
+      a long rest, you can replace the maneuver you learned from this feat with the
+      other maneuver offered by it."]},{"type":"item","name":"Superiority Dice","entries":["You
+      gain two superiority dice, which you add to the dice you have from the Squire
+      of Solamnia feat. All the dice are now d8s."]}]},{"type":"inset","name":"Membership
+      in Multiple Knightly Orders","entries":["Knights of Solamnia are only ever
+      members of one of their organization''s orders. In the course of their training,
+      most knights begin as members of the Knights of the Crown and then move on
+      to join other orders. Whether a character follows this path or another, they
+      retain what they learned as a member of an order even if they join another.
+      Characters can change what knightly order they''re a part of, but they always
+      have access to any Knight of Solamnia feats they''ve acquired."]}]}'
+    DataHash: d2700969b92ed8db67dd0e1825729819
   Sources: {fileID: 11400000, guid: 4aa91e2090b786c478e5fee4fc6655c4, type: 2}
   SourcePages: 5
   Prerequisites:

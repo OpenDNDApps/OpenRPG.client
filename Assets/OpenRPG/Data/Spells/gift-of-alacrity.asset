@@ -17,3 +17,11 @@ MonoBehaviour:
     touch a willing creature. For the duration, the target can add {@dice 1d8} to
     its initiative rolls."],"areaTags":["ST"]}'
   DataHash: 1481a1937a4fe7b17a838c949557ade1
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gift of Alacrity
+    Content: 
+    AsJson: '{"name":"Gift of Alacrity","source":"EGW","page":186,"level":1,"school":"D","time":[{"number":1,"unit":"minute"}],"range":{"type":"point","distance":{"type":"touch"}},"components":{"v":true,"s":true},"duration":[{"type":"timed","duration":{"type":"hour","amount":8}}],"entries":["You
+      touch a willing creature. For the duration, the target can add {@dice 1d8}
+      to its initiative rolls."],"areaTags":["ST"]}'
+    DataHash: 1481a1937a4fe7b17a838c949557ade1

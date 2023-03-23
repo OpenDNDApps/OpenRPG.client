@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Embroidered glove set with jewel chips
   AsJson: '{"name":"Embroidered glove set with jewel chips","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
   DataHash: 4cf91cd5a9eac885c3be0e0e9695ee18
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Embroidered glove set with jewel chips
+    Content: 
+    AsJson: '{"name":"Embroidered glove set with jewel chips","source":"DMG","page":135,"type":"$","rarity":"none","value":250000}'
+    DataHash: 4cf91cd5a9eac885c3be0e0e9695ee18

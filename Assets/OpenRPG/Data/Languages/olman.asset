@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Olman
   AsJson: '{"name":"Olman","source":"TftYP","page":238}'
   DataHash: 1465874a6f8dc419adbbef97a963a22b
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Olman
+    Content: 
+    AsJson: '{"name":"Olman","source":"TftYP","page":238}'
+    DataHash: 1465874a6f8dc419adbbef97a963a22b

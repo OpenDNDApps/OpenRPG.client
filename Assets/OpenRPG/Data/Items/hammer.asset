@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Hammer
   AsJson: '{"name":"Hammer","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":3,"value":100}'
   DataHash: 4d41b5c4fbc8d94f842e5daaf68b1eff
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Hammer
+    Content: 
+    AsJson: '{"name":"Hammer","source":"PHB","page":150,"srd":true,"basicRules":true,"type":"G","rarity":"none","weight":3,"value":100}'
+    DataHash: 4d41b5c4fbc8d94f842e5daaf68b1eff

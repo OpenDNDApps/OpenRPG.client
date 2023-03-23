@@ -19,3 +19,13 @@ MonoBehaviour:
     handle can command the ewer to fill with 1 gallon of wine, and it can''t produce
     more wine until the next dawn."]}'
   DataHash: 51ea7cca71a293abcd9b634881598c83
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Green Copper Ewer
+    Content: 
+    AsJson: '{"name":"Green Copper Ewer","source":"CoS","page":188,"type":"OTH","rarity":"unknown
+      (magic)","entries":["Any poisonous liquid poured into the ewer is instantly
+      transformed into an equal amount of sweet wine. Furthermore, a creature that
+      grasps the ewer''s handle can command the ewer to fill with 1 gallon of wine,
+      and it can''t produce more wine until the next dawn."]}'
+    DataHash: 51ea7cca71a293abcd9b634881598c83

@@ -22,6 +22,19 @@ MonoBehaviour:
     spells in this way when you finish a long rest. Wisdom is your spellcasting ability
     for all three spells."]}'
   DataHash: 12c193f2f296874babd815c8a046ba69
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Wood Elf Magic
+    Content: 
+    AsJson: '{"name":"Wood Elf Magic","source":"XGE","page":75,"prerequisite":[{"race":[{"name":"elf","subrace":"wood"}]}],"additionalSpells":[{"ability":"wis","innate":{"_":{"daily":{"1e":["longstrider","pass
+      without trace"]}}},"known":{"_":[{"choose":"level=0|class=Druid"}]}}],"entries":["You
+      learn the magic of the primeval woods, which are revered and protected by your
+      people. You learn one druid cantrip of your choice. You also learn the {@spell
+      longstrider} and {@spell pass without trace} spells, each of which you can
+      cast once without expending a spell slot. You regain the ability to cast these
+      two spells in this way when you finish a long rest. Wisdom is your spellcasting
+      ability for all three spells."]}'
+    DataHash: 12c193f2f296874babd815c8a046ba69
   Sources: {fileID: 11400000, guid: a711bd9bd440e404bb9ea4f7760f89f3, type: 2}
   SourcePages: 75
   Prerequisites:

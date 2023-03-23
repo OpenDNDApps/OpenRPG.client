@@ -17,3 +17,11 @@ MonoBehaviour:
     Grung|VGM|grungs}","{@creature Grung Wildling|VGM|grung wildlings}","{@creature
     Grung Elite Warrior|VGM|grung elite warriors}"]}'
   DataHash: 3930feae082898ace7bed7312083cc07
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Grung
+    Content: 
+    AsJson: '{"name":"Grung","source":"VGM","page":156,"typicalSpeakers":["{@creature
+      Grung|VGM|grungs}","{@creature Grung Wildling|VGM|grung wildlings}","{@creature
+      Grung Elite Warrior|VGM|grung elite warriors}"]}'
+    DataHash: 3930feae082898ace7bed7312083cc07

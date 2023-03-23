@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Ferocidon
   AsJson: '{"name":"Ferocidon","source":"PSX","page":30,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"ferocidon"}}},"hasToken":true,"hasFluff":true}'
   DataHash: a41b2bdd583811c5287c8c1c731e9249
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Ferocidon
+    Content: 
+    AsJson: '{"name":"Ferocidon","source":"PSX","page":30,"_copy":{"name":"Allosaurus","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"allosaurus","with":"ferocidon"}}},"hasToken":true,"hasFluff":true}'
+    DataHash: a41b2bdd583811c5287c8c1c731e9249

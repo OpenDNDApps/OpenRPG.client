@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Gildha Duhn","isNpc":true,"isNamedCreature":true,"source":"OoW","page":110,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
     acolyte","with":"Gildha","flags":"i"}}},"languageTags":["C","O","X"],"hasToken":true,"hasFluffImages":true}'
   DataHash: dd3fefa0d1c515279f3c0b6f9ccf3f26
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gildha Duhn
+    Content: 
+    AsJson: '{"name":"Gildha Duhn","isNpc":true,"isNamedCreature":true,"source":"OoW","page":110,"_copy":{"name":"Acolyte","source":"MM","_trait":{"name":"Half-Orc","source":"PHB"},"_mod":{"*":{"mode":"replaceTxt","replace":"the
+      acolyte","with":"Gildha","flags":"i"}}},"languageTags":["C","O","X"],"hasToken":true,"hasFluffImages":true}'
+    DataHash: dd3fefa0d1c515279f3c0b6f9ccf3f26

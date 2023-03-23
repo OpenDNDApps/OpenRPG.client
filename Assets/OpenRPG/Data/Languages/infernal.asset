@@ -16,3 +16,10 @@ MonoBehaviour:
   AsJson: '{"name":"Infernal","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
     devils|bestiary|tag=devil}"],"script":"Infernal"}'
   DataHash: 66f8b39ebc2bc0a975c82e0bbf5cecf6
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Infernal
+    Content: 
+    AsJson: '{"name":"Infernal","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"exotic","typicalSpeakers":["{@filter
+      devils|bestiary|tag=devil}"],"script":"Infernal"}'
+    DataHash: 66f8b39ebc2bc0a975c82e0bbf5cecf6

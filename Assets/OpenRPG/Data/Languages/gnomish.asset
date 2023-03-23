@@ -18,3 +18,12 @@ MonoBehaviour:
     Gnomish language, which uses the Dwarvish script, is renowned for its technical
     treatises and its catalogs of knowledge about the natural world."],"hasFluffImages":true}'
   DataHash: f26f45d0111778c414b89b821a42a20a
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Gnomish
+    Content: 
+    AsJson: '{"name":"Gnomish","source":"PHB","page":123,"srd":true,"basicRules":true,"additionalSources":[{"source":"PHB","page":35}],"type":"standard","typicalSpeakers":["{@filter
+      gnomes|bestiary|type=humanoid|tag=any race;gnome}"],"script":"Dwarvish","entries":["The
+      Gnomish language, which uses the Dwarvish script, is renowned for its technical
+      treatises and its catalogs of knowledge about the natural world."],"hasFluffImages":true}'
+    DataHash: f26f45d0111778c414b89b821a42a20a

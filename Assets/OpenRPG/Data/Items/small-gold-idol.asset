@@ -15,3 +15,9 @@ MonoBehaviour:
   Title: Small gold idol
   AsJson: '{"name":"Small gold idol","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
   DataHash: 4121bf9fa1e0d2c0f8a1745a91320b34
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Small gold idol
+    Content: 
+    AsJson: '{"name":"Small gold idol","source":"DMG","page":135,"type":"$","rarity":"none","value":75000}'
+    DataHash: 4121bf9fa1e0d2c0f8a1745a91320b34

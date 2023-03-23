@@ -18,3 +18,12 @@ MonoBehaviour:
     language with hard consonants. It has no script of its own but is written in
     the Dwarvish script."],"hasFluffImages":true}'
   DataHash: db517f086ffdde24ff82071230c92387
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Orc
+    Content: 
+    AsJson: '{"name":"Orc","source":"PHB","page":123,"srd":true,"basicRules":true,"type":"standard","typicalSpeakers":["{@filter
+      orcs|bestiary|tag=orc}"],"script":"Dwarvish","entries":[" Orc is a harsh, grating
+      language with hard consonants. It has no script of its own but is written in
+      the Dwarvish script."],"hasFluffImages":true}'
+    DataHash: db517f086ffdde24ff82071230c92387

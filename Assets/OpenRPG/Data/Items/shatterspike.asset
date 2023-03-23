@@ -19,3 +19,13 @@ MonoBehaviour:
     or slashing damage to the object (your choice). Further, damage from nonmagical
     sources can''t harm the weapon."]}'
   DataHash: 4d4e6020a9b55f7ee0857950916af11e
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Shatterspike
+    Content: 
+    AsJson: '{"name":"Shatterspike","source":"TftYP","page":229,"baseItem":"longsword|phb","type":"M","rarity":"uncommon","reqAttune":true,"weight":3,"weaponCategory":"martial","property":["V"],"dmg1":"1d8","dmgType":"S","dmg2":"1d10","bonusWeapon":"+1","entries":["You
+      have a +1 bonus to attack and damage rolls made with this magic weapon. If
+      it hits an object, the hit is automatically a critical hit, and it can deal
+      bludgeoning or slashing damage to the object (your choice). Further, damage
+      from nonmagical sources can''t harm the weapon."]}'
+    DataHash: 4d4e6020a9b55f7ee0857950916af11e

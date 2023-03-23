@@ -22,3 +22,16 @@ MonoBehaviour:
     part with the stone until the curse is broken with {@spell remove curse} or similar
     magic."]}]}'
   DataHash: 9f76ed776137a371307a9967bacff1eb
+  DataByEdition:
+  - Edition: d&d5e
+    Title: Stone of Ill Luck
+    Content: 
+    AsJson: '{"name":"Stone of Ill Luck","source":"TftYP","page":229,"rarity":"uncommon","reqAttune":true,"wondrous":true,"curse":true,"weight":1,"bonusSavingThrow":"-2","bonusAbilityCheck":"-2","entries":["This
+      polished agate appears to be a {@item stone of good luck} to anyone who tries
+      to identify it, and it confers that item''s property while on your person.",{"type":"entries","name":"Curse","entries":["This
+      item is cursed. While it is on your person, you take a -2 penalty to ability
+      checks and saving throws. Until the curse is discovered, the DM secretly applies
+      this penalty, assuming you are adding the item''s bonus. You are unwilling
+      to part with the stone until the curse is broken with {@spell remove curse}
+      or similar magic."]}]}'
+    DataHash: 9f76ed776137a371307a9967bacff1eb
