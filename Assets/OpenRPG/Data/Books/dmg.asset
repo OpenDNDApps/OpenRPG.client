@@ -45,7 +45,7 @@ MonoBehaviour:
   DataHash: b686474cfd789dacccd6749a1cf7654d
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Dungeon Master's Guide
     Content: 
     AsJson: '{"name":"Dungeon Master''s Guide","id":"DMG","source":"DMG","group":"core","coverUrl":"img/covers/DMG.png","published":"2014-12-09","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["The Dungeon Master","How

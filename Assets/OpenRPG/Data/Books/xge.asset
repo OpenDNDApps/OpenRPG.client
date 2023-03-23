@@ -26,7 +26,7 @@ MonoBehaviour:
   DataHash: 6428548ba9119c314135d211c7b62523
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Xanathar's Guide to Everything
     Content: 
     AsJson: '{"name":"Xanathar''s Guide to Everything","id":"XGE","source":"XGE","group":"supplement","coverUrl":"img/covers/XGE.png","published":"2017-11-21","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["Using this Book","The

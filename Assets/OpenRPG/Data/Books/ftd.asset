@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: ef99bf810cfaeaef4366a637f9450602
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Fizban's Treasury of Dragons
     Content: 
     AsJson: '{"name":"Fizban''s Treasury of Dragons","id":"FTD","source":"FTD","group":"supplement","coverUrl":"img/covers/FTD.png","published":"2021-10-26","author":"Wizards
       RPG Team","contents":[{"name":"Elegy for the First World","headers":["A Treasury

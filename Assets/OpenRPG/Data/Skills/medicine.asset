@@ -19,7 +19,7 @@ MonoBehaviour:
   DataHash: 92aaf764f09acf17207747a452cb718a
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Medicine
     Content: 
     AsJson: '{"name":"Medicine","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["A
       Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose

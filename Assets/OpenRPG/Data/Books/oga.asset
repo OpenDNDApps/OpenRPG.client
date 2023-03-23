@@ -18,7 +18,7 @@ MonoBehaviour:
   DataHash: 14c453ddc1039c734af1587e3b2ba106
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: One Grung Above
     Content: 
     AsJson: '{"name":"One Grung Above","id":"OGA","source":"OGA","group":"supplement-alt","coverUrl":"img/covers/OGA.png","published":"2017-10-11","author":"Extra
       Life","contents":[{"name":"One Grung Above"}]}'

@@ -33,7 +33,7 @@ MonoBehaviour:
   DataHash: 4590097e77dbd2afb228e1cf8fde961a
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Guildmasters' Guide to Ravnica
     Content: 
     AsJson: '{"name":"Guildmasters'' Guide to Ravnica","id":"GGR","source":"GGR","group":"setting","coverUrl":"img/covers/GGR.png","published":"2018-11-20","contents":[{"name":"Welcome
       to Ravnica","headers":["City of Guilds","History of Ravnica","Life in the Big

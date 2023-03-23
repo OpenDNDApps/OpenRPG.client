@@ -54,7 +54,7 @@ MonoBehaviour:
   DataHash: f6266199f0f422bf4c939f791514677e
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Eladrin
     Content: 
     AsJson: '{"name":"Eladrin","source":"MPMM","page":13,"lineage":"VRGR","creatureTypes":["humanoid"],"creatureTypeTags":["elf"],"size":["M"],"speed":30,"age":{"max":750},"darkvision":60,"traitTags":["Improved
       Resting","Tool Proficiency","Weapon Proficiency"],"skillProficiencies":[{"perception":true}],"entries":["{@i

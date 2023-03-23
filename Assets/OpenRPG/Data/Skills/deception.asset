@@ -23,7 +23,7 @@ MonoBehaviour:
   DataHash: 4b5afea09026526c384b57c9106d728a
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Deception
     Content: 
     AsJson: '{"name":"Deception","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
       Charisma (Deception) check determines whether you can convincingly hide the

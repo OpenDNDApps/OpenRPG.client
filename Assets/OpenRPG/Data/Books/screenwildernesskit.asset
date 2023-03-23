@@ -18,7 +18,7 @@ MonoBehaviour:
   DataHash: 423a84f0080e85ce0d319d3f94340806
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Dungeon Master''s Screen: Wilderness Kit'
     Content: 
     AsJson: '{"name":"Dungeon Master''s Screen: Wilderness Kit","id":"ScreenWildernessKit","source":"ScreenWildernessKit","group":"screen","coverUrl":"img/covers/ScreenWildernessKit.png","published":"2020-11-17","contents":[{"name":"Wilderness
       Journeys"},{"name":"Wilderness Chases"}]}'

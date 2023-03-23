@@ -24,7 +24,7 @@ MonoBehaviour:
   DataHash: b97400033066910be284d1b1a24388d8
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Minsc and Boo's Journal of Villainy
     Content: 
     AsJson: '{"name":"Minsc and Boo''s Journal of Villainy","id":"MaBJoV","source":"MaBJoV","group":"supplement-alt","coverUrl":"img/covers/MaBJoV.png","published":"2021-10-05","author":"Wizards
       RPG Team","contents":[{"name":"Preface"},{"name":"Heroic Stories","headers":["Hometowns","Group

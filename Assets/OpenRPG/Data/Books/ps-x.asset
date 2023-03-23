@@ -21,7 +21,7 @@ MonoBehaviour:
   DataHash: d3ee415c81a2234c2a2a54496c313122
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Ixalan'
     Content: 
     AsJson: '{"name":"Plane Shift: Ixalan","id":"PS-X","source":"PSX","group":"supplement-alt","coverUrl":"img/covers/PSX.png","published":"2018-01-09","author":"Wizards
       RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Ixalan","headers":["Sun

@@ -36,7 +36,7 @@ MonoBehaviour:
   DataHash: f26802a50f3fa5dab63709feb90e799c
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Deep Gnome
     Content: 
     AsJson: '{"name":"Deep Gnome","source":"MPMM","page":11,"lineage":"VRGR","creatureTypes":["humanoid"],"creatureTypeTags":["gnome"],"size":["S"],"speed":30,"age":{"max":500},"darkvision":120,"traitTags":["Magic
       Resistance"],"additionalSpells":[{"innate":{"3":{"daily":{"1":["disguise self"]}},"5":{"daily":{"1":["nondetection"]}}},"ability":{"choose":["int","wis","cha"]}}],"entries":[{"type":"entries","name":"Creature

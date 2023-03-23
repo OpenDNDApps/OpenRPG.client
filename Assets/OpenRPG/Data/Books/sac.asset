@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: fcc4fe55b08cb69df0ea6ece1e20ab68
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Sage Advice Compendium
     Content: 
     AsJson: '{"name":"Sage Advice Compendium","id":"SAC","source":"SAC","group":"other","coverUrl":"img/covers/SAC.png","published":"2019-01-31","contents":[{"name":"Sage
       Advice Compendium","headers":["Rules References","Compiled Answers","The Role

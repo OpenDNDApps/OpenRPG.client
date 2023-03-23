@@ -27,7 +27,7 @@ MonoBehaviour:
   DataHash: f7ead104aa98e4ec5c1b935d8dfa71ab
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Siren
     Content: 
     AsJson: '{"name":"Siren","source":"PSX","page":17,"size":["M"],"speed":{"walk":25,"fly":30},"ability":[{"cha":2}],"languageProficiencies":[{"common":true,"other":true}],"additionalSpells":[{"known":{"1":["friends#c"]}}],"entries":[{"name":"Alignment","type":"entries","entries":["Most
       sirens lean toward chaotic alignment, cherishing the freedom and independence

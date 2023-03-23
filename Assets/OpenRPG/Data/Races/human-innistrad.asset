@@ -22,7 +22,7 @@ MonoBehaviour:
   DataHash: 6efa4cd2b5d7d7d90e4ff0f1ca2a4e47
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Human (Innistrad)
     Content: 
     AsJson: '{"name":"Human (Innistrad)","source":"PSI","page":8,"size":["M"],"speed":30,"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
       reach adulthood in their late teens and live less than a century."]},{"name":"Alignment","type":"entries","entries":["Humans

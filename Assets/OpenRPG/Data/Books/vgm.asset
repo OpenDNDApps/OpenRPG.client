@@ -23,7 +23,7 @@ MonoBehaviour:
   DataHash: c2fe92ac412704d9c9ad4d1c3be91e98
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Volo's Guide to Monsters
     Content: 
     AsJson: '{"name":"Volo''s Guide to Monsters","id":"VGM","source":"VGM","group":"supplement","coverUrl":"img/covers/VGM.png","published":"2016-11-15","author":"Wizards
       RPG Team","contents":[{"name":"Monster Lore","headers":["Beholders: Bad Dreams

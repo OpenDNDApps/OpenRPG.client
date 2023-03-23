@@ -60,7 +60,7 @@ MonoBehaviour:
   DataHash: 19f93754a159c5315513f54378a8bf51
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Revenant
     Content: 
     AsJson: "{\"name\":\"Revenant\",\"source\":\"UAGothicHeroes\",\"page\":1,\"size\":[\"V\"],\"speed\":\"Varies\",\"ability\":[{\"con\":1}],\"resist\":[\"necrotic\"],\"entries\":[{\"name\":\"Revenant
       Subrace\",\"entries\":[\"Having met a cruel and undeserved end, you have returned

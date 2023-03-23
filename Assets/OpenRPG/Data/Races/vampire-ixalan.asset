@@ -36,7 +36,7 @@ MonoBehaviour:
   DataHash: 6c389ef2e4404243d0c840612bc3332f
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Vampire (Ixalan)
     Content: 
     AsJson: '{"name":"Vampire (Ixalan)","source":"PSX","page":14,"size":["M"],"speed":30,"ability":[{"cha":2,"wis":1}],"darkvision":60,"languageProficiencies":[{"common":true,"other":true}],"resist":["necrotic"],"entries":[{"name":"Age","type":"entries","entries":["Vampires
       don''t mature and age in the same way that other races do."]},{"name":"Alignment","type":"entries","entries":["Vampires

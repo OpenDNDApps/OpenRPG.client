@@ -31,7 +31,7 @@ MonoBehaviour:
   DataHash: 405ad6460eb09e8f819ea04d76c4ffff
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Goblin (Zendikar)
     Content: 
     AsJson: '{"name":"Goblin (Zendikar)","source":"PSZ","page":16,"size":["S"],"speed":25,"ability":[{"con":2}],"age":{"mature":12,"max":50},"darkvision":60,"traitTags":["Natural
       Armor"],"languageProficiencies":[{"common":true,"goblin":true}],"resist":["fire","psychic"],"entries":[{"name":"Age","type":"entries","entries":["Goblins

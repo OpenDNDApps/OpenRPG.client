@@ -25,7 +25,7 @@ MonoBehaviour:
   DataHash: 1f752a7ab5d1befeaafd728e352af791
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Astral Adventurer's Guide
     Content: 
     AsJson: '{"name":"Astral Adventurer''s Guide","alias":["Spelljammer: Astral Adventurer''s
       Guide"],"id":"AAG","source":"AAG","group":"supplement","coverUrl":"img/covers/SAiS.png","published":"2022-08-16","contents":[{"name":"Introduction:

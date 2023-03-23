@@ -40,7 +40,7 @@ MonoBehaviour:
   DataHash: 7fa856743b0e99abd755d4cbb6907fd6
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Shadar-Kai
     Content: 
     AsJson: '{"name":"Shadar-Kai","source":"MPMM","page":31,"lineage":"VRGR","creatureTypes":["humanoid"],"creatureTypeTags":["elf"],"size":["M"],"speed":30,"age":{"max":750},"darkvision":60,"traitTags":["Improved
       Resting","Tool Proficiency","Weapon Proficiency"],"skillProficiencies":[{"perception":true}],"resist":["necrotic"],"entries":[{"type":"entries","name":"Creature

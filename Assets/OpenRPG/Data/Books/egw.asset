@@ -44,7 +44,7 @@ MonoBehaviour:
   DataHash: abb2c379dc97d15db07b52b1a6a3f1bd
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Explorer's Guide to Wildemount
     Content: 
     AsJson: '{"name":"Explorer''s Guide to Wildemount","id":"EGW","source":"EGW","group":"setting","coverUrl":"img/covers/EGW.png","published":"2020-03-17","contents":[{"name":"Preface"},{"name":"Welcome
       to Wildemount","headers":["A New D&D Setting","Nations of Wildemount","What''s

@@ -25,7 +25,7 @@ MonoBehaviour:
   DataHash: c1903f682ca6325bc0a7e21e16f28e12
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Bullywug
     Content: 
     AsJson: '{"name":"Bullywug","source":"DMG","page":282,"size":["M"],"speed":{"walk":20,"swim":40},"ability":[{"int":-2,"cha":-2}],"traitTags":["Amphibious","NPC
       Race"],"languageProficiencies":[{"other":true}],"entries":[{"type":"entries","name":"Amphibious","entries":["You

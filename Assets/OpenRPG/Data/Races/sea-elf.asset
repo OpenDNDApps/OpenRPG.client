@@ -39,7 +39,7 @@ MonoBehaviour:
   DataHash: 2048b68a127943cfb59582e60f7ae806
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Sea Elf
     Content: 
     AsJson: '{"name":"Sea Elf","source":"MPMM","page":30,"lineage":"VRGR","creatureTypes":["humanoid"],"creatureTypeTags":["elf"],"size":["M"],"speed":{"walk":30,"swim":true},"age":{"max":750},"darkvision":60,"traitTags":["Amphibious","Improved
       Resting","Tool Proficiency","Weapon Proficiency"],"skillProficiencies":[{"perception":true}],"resist":["cold"],"entries":[{"type":"entries","name":"Creature

@@ -54,7 +54,7 @@ MonoBehaviour:
   DataHash: cf61adf94ae308312500198cc9422efa
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Eberron: Rising from the Last War'
     Content: 
     AsJson: '{"name":"Eberron: Rising from the Last War","id":"ERLW","source":"ERLW","group":"setting","coverUrl":"img/covers/ERLW.png","published":"2019-11-19","contents":[{"name":"Welcome
       to Eberron","headers":["Using This Book","Seven Things to Know","History of

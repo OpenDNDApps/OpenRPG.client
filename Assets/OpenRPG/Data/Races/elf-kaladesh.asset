@@ -47,7 +47,7 @@ MonoBehaviour:
   DataHash: 1f51d1c51a85689968d768e65440ae23
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Elf (Kaladesh)
     Content: 
     AsJson: '{"name":"Elf (Kaladesh)","source":"PSK","page":20,"size":["M"],"speed":30,"ability":[{"dex":2,"wis":1}],"age":{"mature":100,"max":750},"darkvision":60,"traitTags":["Improved
       Resting"],"skillProficiencies":[{"perception":true}],"languageProficiencies":[{"common":true,"elvish":true}],"weaponProficiencies":[{"longsword|phb":true,"shortsword|phb":true,"shortbow|phb":true,"longbow|phb":true}],"entries":[{"name":"Age","type":"entries","entries":["Although

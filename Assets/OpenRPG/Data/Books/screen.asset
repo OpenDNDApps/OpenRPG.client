@@ -17,7 +17,7 @@ MonoBehaviour:
   DataHash: f80eb55ace85a6debd1f1763d38627d3
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Dungeon Master's Screen
     Content: 
     AsJson: '{"name":"Dungeon Master''s Screen","id":"Screen","source":"Screen","group":"screen","coverUrl":"img/covers/Screen.png","published":"2015-01-20","contents":[{"name":"Tables"}]}'
     DataHash: f80eb55ace85a6debd1f1763d38627d3

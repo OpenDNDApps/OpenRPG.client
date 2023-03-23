@@ -24,7 +24,7 @@ MonoBehaviour:
   DataHash: ef3d0104b53b5b88b2dce40688178628
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Owlin
     Content: 
     AsJson: '{"name":"Owlin","source":"SCC","page":29,"lineage":"VRGR","size":["S","M"],"speed":{"walk":30,"fly":true},"darkvision":120,"skillProficiencies":[{"stealth":true}],"entries":[{"type":"entries","name":"Size","entries":["You
       are Medium or Small. You choose the size when you select this race."]},{"type":"entries","name":"Darkvision","entries":["You

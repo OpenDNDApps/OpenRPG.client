@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: b1c9be0f12f2db5e39aa87771d30705b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Khenra
     Content: 
     AsJson: '{"name":"Khenra","source":"PSA","page":17,"size":["M"],"speed":35,"ability":[{"dex":2,"str":1}],"age":{"mature":13,"max":60},"languageProficiencies":[{"common":true,"other":true}],"weaponProficiencies":[{"longsword|phb":true,"spear|phb":true,"javelin|phb":true}],"entries":[{"name":"Age","type":"entries","entries":["Khenra
       mature quickly, reaching adulthood in their early teens. Khenra initiates are

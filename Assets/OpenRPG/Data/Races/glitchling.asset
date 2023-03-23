@@ -37,7 +37,7 @@ MonoBehaviour:
   DataHash: f77959f2c259042dd719fac226069f1d
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Glitchling
     Content: 
     AsJson: '{"name":"Glitchling","source":"UA2022WondersOfTheMultiverse","page":1,"lineage":"VRGR","creatureTypes":["construct"],"size":["M"],"speed":30,"traitTags":["Natural
       Armor"],"entries":[{"type":"entries","name":"Creature Type","entries":["You

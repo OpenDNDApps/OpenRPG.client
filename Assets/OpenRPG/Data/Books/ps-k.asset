@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 72af3e682c93cd6540cffd8012e83457
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Kaladesh'
     Content: 
     AsJson: '{"name":"Plane Shift: Kaladesh","id":"PS-K","source":"PSK","group":"supplement-alt","coverUrl":"img/covers/PSK.png","published":"2017-02-16","author":"Wizards
       RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Kaladesh","headers":["The

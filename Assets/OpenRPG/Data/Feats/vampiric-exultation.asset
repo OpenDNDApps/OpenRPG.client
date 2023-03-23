@@ -22,7 +22,7 @@ MonoBehaviour:
   DataHash: d6c82fe2ea36d047a25f1793e1919c93
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Vampiric Exultation
     Content: 
     AsJson: '{"name":"Vampiric Exultation","source":"PSX","page":14,"prerequisite":[{"race":[{"name":"Vampire
       (Ixalan)"}]}],"entries":["As an action, you can transform the lower half of

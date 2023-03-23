@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: d4dc9c25d570cf041e4c3867a2f1c496
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Stealth
     Content: 
     AsJson: '{"name":"Stealth","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Make
       a Dexterity (Stealth) check when you attempt to conceal yourself from enemies,

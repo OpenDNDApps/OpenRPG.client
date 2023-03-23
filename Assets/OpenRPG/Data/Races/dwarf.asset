@@ -40,7 +40,7 @@ MonoBehaviour:
   DataHash: 0216c0eeda19902e2110913b71e8e50b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Dwarf
     Content: 
     AsJson: '{"name":"Dwarf","source":"PHB","page":18,"srd":true,"basicRules":true,"size":["M"],"speed":25,"ability":[{"con":2}],"age":{"mature":20,"max":350},"darkvision":60,"traitTags":["Tool
       Proficiency"],"languageProficiencies":[{"common":true,"dwarvish":true}],"weaponProficiencies":[{"battleaxe|phb":true,"handaxe|phb":true,"light

@@ -14,7 +14,7 @@ namespace ORC
         [Header("----")]
         public List<EditionRawScriptableDataPair> DataByEdition = new List<EditionRawScriptableDataPair>();
 
-        public void OnValidate()
+        public void ManualValidate()
         {
             DataByEdition.RemoveAll(data => data.Edition.Equals("5e"));
             if (!DataByEdition.Exists(data => data.Edition.Equals(kDungeonsAndDragons5thEditionKey)))
@@ -29,10 +29,6 @@ namespace ORC
             find.Title = Title;
             find.AsJson = AsJson;
             find.DataHash = DataHash;
-            
-            #if UNITY_EDITOR
-            UnityEditor.EditorUtility.SetDirty(this);
-            #endif
         }
 
         public virtual void ParseSource(string source)
@@ -94,7 +90,7 @@ namespace ORC
 
             if (GUILayout.Button("Validate")) 
             {
-                m_target.OnValidate();
+                m_target.ManualValidate();
             }
 
             GUILayout.Space(EditorGUIUtility.standardVerticalSpacing);

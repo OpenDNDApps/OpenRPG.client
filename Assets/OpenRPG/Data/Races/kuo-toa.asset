@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: d7055d1798c3b97b35d73d86fdcc9bc2
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Kuo-Toa
     Content: 
     AsJson: '{"name":"Kuo-Toa","source":"DMG","page":282,"size":["M"],"speed":{"walk":30,"swim":30},"darkvision":120,"traitTags":["Amphibious","NPC
       Race","Sunlight Sensitivity"],"languageProficiencies":[{"undercommon":true}],"entries":[{"name":"Amphibious","type":"entries","entries":["You

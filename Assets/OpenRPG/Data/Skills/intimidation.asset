@@ -22,7 +22,7 @@ MonoBehaviour:
   DataHash: a241929efe0ef51cf16497db62390046
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Intimidation
     Content: 
     AsJson: '{"name":"Intimidation","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["When
       you attempt to influence someone through overt threats, hostile actions, and

@@ -42,7 +42,7 @@ MonoBehaviour:
   DataHash: 83a86972bce2339098afb13c0299cae2
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Verdan
     Content: 
     AsJson: '{"name":"Verdan","source":"AI","page":72,"size":["V"],"speed":30,"ability":[{"con":1,"cha":2}],"age":{"mature":24,"max":200},"skillProficiencies":[{"persuasion":true}],"languageProficiencies":[{"common":true,"goblin":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Verdan
       reach adulthood at around the age of 24, and it is thought that they might

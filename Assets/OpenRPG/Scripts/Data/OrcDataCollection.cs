@@ -173,16 +173,16 @@ namespace ORC
             
             if(GUILayout.Button("Validate All"))
             {
-                m_target.Backgrounds.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.SourceBooks.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Classes.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Feats.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Items.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Languages.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Monsters.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Races.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Skills.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
-                m_target.Spells.ForEach(item => { item.OnValidate(); item.ParseSource(item.AsJson); });
+                m_target.Backgrounds.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.SourceBooks.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Classes.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Feats.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Items.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Languages.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Monsters.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Races.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Skills.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
+                m_target.Spells.ForEach(item => { item.ManualValidate(); item.ParseSource(item.AsJson); UnityEditor.EditorUtility.SetDirty(item); });
                 
                 AssetDatabase.SaveAssets();
             }

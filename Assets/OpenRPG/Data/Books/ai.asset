@@ -28,7 +28,7 @@ MonoBehaviour:
   DataHash: f00a1e9172bdb68813d267632c0f40fc
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Acquisitions Incorporated
     Content: 
     AsJson: "{\"name\":\"Acquisitions Incorporated\",\"id\":\"AI\",\"source\":\"AI\",\"group\":\"supplement\",\"coverUrl\":\"img/covers/AI.png\",\"published\":\"2019-06-18\",\"contents\":[{\"name\":\"Acquisitions
       Incorporated\",\"ordinal\":{\"type\":\"chapter\",\"identifier\":1},\"headers\":[\"It's

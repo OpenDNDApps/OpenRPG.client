@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: e0312ae7ca6777a7bccbe44b98f1e495
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Strixhaven: A Curriculum of Chaos'
     Content: 
     AsJson: '{"name":"Strixhaven: A Curriculum of Chaos","id":"SCC","source":"SCC","group":"setting","coverUrl":"img/covers/SCC.png","published":"2021-12-07","author":"Wizards
       RPG Team","contents":[{"name":"Welcome to Strixhaven","headers":["About This

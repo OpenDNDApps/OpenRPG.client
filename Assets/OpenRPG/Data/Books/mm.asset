@@ -21,7 +21,7 @@ MonoBehaviour:
   DataHash: 8961548cc7f839619d071cc37975e458
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Monster Manual
     Content: 
     AsJson: '{"name":"Monster Manual","id":"MM","source":"MM","group":"core","coverUrl":"img/covers/MM.png","published":"2014-09-30","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["How to Use This Book","What

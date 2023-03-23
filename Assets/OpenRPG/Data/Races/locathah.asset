@@ -34,7 +34,7 @@ MonoBehaviour:
   DataHash: 4c80c922f7569730bfd3aacff4d76d34
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Locathah
     Content: 
     AsJson: '{"name":"Locathah","source":"LR","page":24,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"str":2,"dex":1}],"age":{"mature":10,"max":80},"traitTags":["Amphibious","Natural
       Armor"],"skillProficiencies":[{"athletics":true,"perception":true}],"languageProficiencies":[{"aquan":true,"common":true}],"entries":[{"name":"Age","type":"entries","entries":["Locathah

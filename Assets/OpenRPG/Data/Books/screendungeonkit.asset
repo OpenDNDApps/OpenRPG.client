@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 39636e0faaed6c025750e681fe129d7b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Dungeon Master''s Screen: Dungeon Kit'
     Content: 
     AsJson: '{"name":"Dungeon Master''s Screen: Dungeon Kit","id":"ScreenDungeonKit","source":"ScreenDungeonKit","group":"screen","coverUrl":"img/covers/ScreenDungeonKit.webp","published":"2020-09-21","contents":[{"name":"Screen","headers":["Long
       Jump","High Jump","Suffocating","Concentration","Exhaustion","Conditions","State

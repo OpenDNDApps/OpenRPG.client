@@ -29,7 +29,7 @@ MonoBehaviour:
   DataHash: 3a33a8990d6dcb17c6a2b5a264e5c3d6
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Mythic Odysseys of Theros
     Content: 
     AsJson: '{"name":"Mythic Odysseys of Theros","id":"MOT","source":"MOT","group":"setting","coverUrl":"img/covers/MOT.png","published":"2020-06-02","contents":[{"name":"Welcome
       to Theros","headers":["Dreams of Divinity","History and Myth","Languages"]},{"name":"Character

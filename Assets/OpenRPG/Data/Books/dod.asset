@@ -32,7 +32,7 @@ MonoBehaviour:
   DataHash: 950397e5796dd099acc76724075d6317
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Domains of Delight
     Content: 
     AsJson: '{"name":"Domains of Delight","id":"DoD","source":"DoD","group":"supplement-alt","coverUrl":"img/covers/DoD.png","published":"2021-09-21","contents":[{"name":"Feywild
       Overview","headers":["Feywild Features",{"depth":1,"header":"Seelie and Unseelie

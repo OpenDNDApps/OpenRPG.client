@@ -26,7 +26,7 @@ MonoBehaviour:
   DataHash: af460b7d4ef955965a2e363b2d6a9852
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Merfolk (Ixalan)
     Content: 
     AsJson: '{"name":"Merfolk (Ixalan)","source":"PSX","page":12,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"cha":1}],"age":{"mature":20,"max":100},"traitTags":["Amphibious"],"languageProficiencies":[{"common":true,"other":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Merfolk
       mature at the same rate humans do and reach adulthood around the age of 20.

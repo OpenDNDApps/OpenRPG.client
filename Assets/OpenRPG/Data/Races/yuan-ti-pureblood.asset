@@ -34,7 +34,7 @@ MonoBehaviour:
   DataHash: f1413d7c26b7b07d71bfcebbd3685468
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Yuan-ti Pureblood
     Content: 
     AsJson: '{"name":"Yuan-ti Pureblood","source":"VGM","page":120,"reprintedAs":["Yuan-Ti|MPMM"],"size":["M"],"speed":30,"ability":[{"cha":2,"int":1}],"heightAndWeight":{"baseHeight":56,"heightMod":"2d10","baseWeight":110,"weightMod":"2d4"},"age":{"mature":20,"max":100},"darkvision":60,"traitTags":["Magic
       Resistance","Monstrous Race"],"languageProficiencies":[{"common":true,"abyssal":true,"draconic":true}],"immune":["poison"],"conditionImmune":["poisoned"],"additionalSpells":[{"innate":{"1":["animal

@@ -38,7 +38,7 @@ MonoBehaviour:
   DataHash: af59b279b3425e6b21b87f80d6bf208d
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Minotaur (Amonkhet)
     Content: 
     AsJson: '{"name":"Minotaur (Amonkhet)","source":"PSA","page":19,"size":["M"],"speed":30,"ability":[{"str":2,"con":1}],"age":{"mature":20,"max":40},"traitTags":["Natural
       Weapon"],"skillProficiencies":[{"intimidation":true}],"languageProficiencies":[{"common":true,"other":true}],"entries":[{"name":"Age","type":"entries","entries":["Minotaurs

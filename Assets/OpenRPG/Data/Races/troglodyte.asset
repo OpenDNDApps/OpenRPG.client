@@ -31,7 +31,7 @@ MonoBehaviour:
   DataHash: 2687c3a3b4a8e26b776b41f375eda5c0
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Troglodyte
     Content: 
     AsJson: '{"name":"Troglodyte","source":"DMG","page":282,"size":["M"],"speed":30,"ability":[{"str":2,"con":2,"int":-4,"cha":-4}],"darkvision":60,"traitTags":["Natural
       Armor","NPC Race","Sunlight Sensitivity"],"languageProficiencies":[{"other":true}],"entries":[{"name":"Chameleon

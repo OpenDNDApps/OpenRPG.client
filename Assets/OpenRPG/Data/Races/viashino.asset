@@ -34,7 +34,7 @@ MonoBehaviour:
   DataHash: 847cfba2c78a3d4985f45b16de1cd429
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Viashino
     Content: 
     AsJson: '{"name":"Viashino","source":"UARacesOfRavnica","page":5,"size":["M"],"speed":30,"ability":[{"dex":2,"str":1}],"age":{"mature":13,"max":60},"traitTags":["Natural
       Weapon"],"skillProficiencies":[{"choose":{"from":["acrobatics","stealth"]}}],"languageProficiencies":[{"common":true,"draconic":true}],"entries":[{"type":"entries","name":"Age","entries":["Viashino

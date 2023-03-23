@@ -84,7 +84,7 @@ MonoBehaviour:
   DataHash: 62f8582f57991fa5aac590afab1d327f
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Van Richten's Guide to Ravenloft
     Content: 
     AsJson: '{"name":"Van Richten''s Guide to Ravenloft","id":"VRGR","source":"VRGR","group":"setting","coverUrl":"img/covers/VRGR.png","published":"2021-05-18","contents":[{"name":"Welcome
       to Ravenloft","headers":["Using This Book","The Land of the Mists"]},{"name":"Character

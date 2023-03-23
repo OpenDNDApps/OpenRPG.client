@@ -36,7 +36,7 @@ MonoBehaviour:
   DataHash: 03825291468afb742816298c7ac2c916
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Githyanki
     Content: 
     AsJson: '{"name":"Githyanki","source":"MPMM","page":18,"lineage":"VRGR","size":["M"],"speed":30,"traitTags":["Weapon
       Proficiency"],"skillProficiencies":[{"any":1}],"toolProficiencies":[{"any":1}],"resist":["psychic"],"additionalSpells":[{"innate":{"3":{"daily":{"1":["jump"]}},"5":{"daily":{"1":["misty

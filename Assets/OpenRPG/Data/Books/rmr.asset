@@ -28,7 +28,7 @@ MonoBehaviour:
   DataHash: 2780016c03baa1d98c346f9a9509302d
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Dungeons & Dragons vs. Rick and Morty: Basic Rules'
     Content: 
     AsJson: '{"name":"Dungeons & Dragons vs. Rick and Morty: Basic Rules","id":"RMR","source":"RMR","group":"supplement","coverUrl":"img/covers/RMR.png","published":"2019-11-19","contents":[{"name":"How
       to Play","ordinal":{"type":"chapter","identifier":1},"headers":["Getting Started",{"depth":1,"header":"1.

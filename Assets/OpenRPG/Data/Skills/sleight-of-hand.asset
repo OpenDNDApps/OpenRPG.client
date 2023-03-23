@@ -22,7 +22,7 @@ MonoBehaviour:
   DataHash: 756377bb8a875e6eb9788ad36eeb1be8
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Sleight of Hand
     Content: 
     AsJson: '{"name":"Sleight of Hand","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Whenever
       you attempt an act of legerdemain or manual trickery, such as planting something

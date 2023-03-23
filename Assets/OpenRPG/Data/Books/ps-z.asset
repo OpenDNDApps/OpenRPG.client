@@ -19,7 +19,7 @@ MonoBehaviour:
   DataHash: 6ead1a9ba84661818553489a85e5d9e9
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Zendikar'
     Content: 
     AsJson: '{"name":"Plane Shift: Zendikar","id":"PS-Z","source":"PSZ","group":"supplement-alt","coverUrl":"img/covers/PSZ.png","published":"2016-04-27","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["The World"]},{"name":"Races

@@ -35,7 +35,7 @@ MonoBehaviour:
   DataHash: c1e53533fd6467b5987e243a27c1de66
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Duergar
     Content: 
     AsJson: '{"name":"Duergar","source":"MPMM","page":12,"lineage":"VRGR","creatureTypes":["humanoid"],"creatureTypeTags":["dwarf"],"size":["M"],"speed":30,"age":{"max":350},"darkvision":120,"resist":["poison"],"additionalSpells":[{"innate":{"3":{"daily":{"1":["enlarge/reduce"]}},"5":{"daily":{"1":["invisibility"]}}},"ability":{"choose":["int","wis","cha"]}}],"entries":[{"type":"entries","name":"Creature
       Type","entries":["You are a Humanoid. You are also considered a dwarf for any

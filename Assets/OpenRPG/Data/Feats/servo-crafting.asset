@@ -28,7 +28,7 @@ MonoBehaviour:
   DataHash: e7fe34d58b9fad2ab4907f21daaf6763
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Servo Crafting
     Content: 
     AsJson: "{\"name\":\"Servo Crafting\",\"source\":\"PSK\",\"page\":13,\"prerequisite\":[{\"ability\":[{\"int\":13}]}],\"additionalSpells\":[{\"innate\":{\"_\":{\"ritual\":[\"find
       familiar\"]}}}],\"entries\":[\"You are skilled in the creation of {@creature

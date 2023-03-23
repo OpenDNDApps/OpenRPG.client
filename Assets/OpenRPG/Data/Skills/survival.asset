@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 84255b4721049fcc91ee78c742bfc3ad
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Survival
     Content: 
     AsJson: '{"name":"Survival","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["The
       DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild

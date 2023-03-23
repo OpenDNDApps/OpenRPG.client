@@ -26,7 +26,7 @@ MonoBehaviour:
   DataHash: 4c7197ae20ec2dc530cc5e69298dcf56
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Human (Amonkhet)
     Content: 
     AsJson: '{"name":"Human (Amonkhet)","source":"PSA","page":14,"size":["M"],"speed":30,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"count":2}}],"age":{"mature":20,"max":100},"feats":[{"any":1}],"skillProficiencies":[{"any":1}],"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
       reach adulthood in their late teens. Most human initiates have completed the

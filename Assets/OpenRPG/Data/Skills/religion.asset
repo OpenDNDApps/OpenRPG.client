@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 5555e5a3fc87cf5b16d37bbc0e07e85a
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Religion
     Content: 
     AsJson: '{"name":"Religion","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["Your
       Intelligence (Religion) check measures your ability to recall lore about deities,

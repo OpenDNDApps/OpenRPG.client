@@ -38,7 +38,7 @@ MonoBehaviour:
   DataHash: 9276958e5d1e4de21eae48b8dadd7544
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Leonin
     Content: 
     AsJson: '{"name":"Leonin","source":"MOT","page":20,"size":["M"],"speed":35,"ability":[{"str":1,"con":2}],"heightAndWeight":{"baseHeight":66,"heightMod":"2d10","baseWeight":180,"weightMod":"2d6"},"age":{"mature":20,"max":100},"darkvision":60,"traitTags":["Natural
       Weapon"],"skillProficiencies":[{"choose":{"from":["athletics","intimidation","perception","survival"]}}],"languageProficiencies":[{"common":true,"other":true}],"entries":[{"name":"Age","type":"entries","entries":["Leonin

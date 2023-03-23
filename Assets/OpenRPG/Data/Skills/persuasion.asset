@@ -23,7 +23,7 @@ MonoBehaviour:
   DataHash: c0990caf3829f612c940d6c96e7ec3fd
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Persuasion
     Content: 
     AsJson: '{"name":"Persuasion","source":"PHB","page":179,"srd":true,"basicRules":true,"entries":["When
       you attempt to influence someone or a group of people with tact, social graces,

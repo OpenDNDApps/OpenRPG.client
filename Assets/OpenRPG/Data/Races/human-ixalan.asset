@@ -27,7 +27,7 @@ MonoBehaviour:
   DataHash: 1e2583e6700b8d993173a6b014c74b3b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Human (Ixalan)
     Content: 
     AsJson: '{"name":"Human (Ixalan)","source":"PSX","page":11,"size":["M"],"speed":30,"ability":[{"str":1,"dex":1,"con":1,"int":1,"wis":1,"cha":1}],"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"anyStandard":1},{"common":true,"other":true,"anyStandard":1}],"entries":[{"name":"Age","type":"entries","entries":["Humans
       reach adulthood in their late teens and live less than a century."]},{"name":"Alignment","type":"entries","entries":["Humans

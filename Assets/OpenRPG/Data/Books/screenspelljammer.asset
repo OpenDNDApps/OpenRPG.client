@@ -17,7 +17,7 @@ MonoBehaviour:
   DataHash: 30d19165517ff51c66c4eab879c31887
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Dungeon Master''s Screen: Spelljammer'
     Content: 
     AsJson: '{"name":"Dungeon Master''s Screen: Spelljammer","id":"ScreenSpelljammer","source":"ScreenSpelljammer","group":"screen","coverUrl":"img/covers/ScreenSpelljammer.png","published":"2022-08-16","contents":[{"name":"Screen"}]}'
     DataHash: 30d19165517ff51c66c4eab879c31887

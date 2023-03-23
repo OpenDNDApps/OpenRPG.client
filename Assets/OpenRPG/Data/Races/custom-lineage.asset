@@ -36,7 +36,7 @@ MonoBehaviour:
   DataHash: 2d92143a7a3ed200cb264cc8a57aab46
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Custom Lineage
     Content: 
     AsJson: '{"name":"Custom Lineage","source":"TCE","page":8,"lineage":true,"size":["S","M"],"speed":30,"ability":[{"choose":{"from":["str","dex","con","int","wis","cha"],"amount":2}}],"darkvision":60,"feats":[{"any":1}],"skillProficiencies":[{"any":1}],"languageProficiencies":[{"common":true,"anyStandard":1}],"entries":["Instead
       of choosing one of the game''s races for your character at 1st level, you can

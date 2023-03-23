@@ -40,7 +40,7 @@ MonoBehaviour:
   DataHash: cd7321b59824a48e192637bd66128a03
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Minotaur (Krynn)
     Content: 
     AsJson: '{"name":"Minotaur (Krynn)","source":"UAWaterborneAdventures","page":1,"size":["M"],"speed":30,"ability":[{"str":1,"choose":{"from":["str","int","wis"],"count":1}}],"age":{"mature":17,"max":150},"traitTags":["Natural
       Weapon","Tool Proficiency"],"languageProficiencies":[{"common":true}],"entries":[{"name":"Age","type":"entries","entries":["Minotaurs

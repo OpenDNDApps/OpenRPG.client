@@ -45,7 +45,7 @@ MonoBehaviour:
   DataHash: da40b8beaa1984c65ae635915778fce2
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Dwarf (Kaladesh)
     Content: 
     AsJson: '{"name":"Dwarf (Kaladesh)","source":"PSK","page":19,"size":["M"],"speed":25,"ability":[{"con":2,"wis":1}],"age":{"mature":20,"max":350},"darkvision":60,"traitTags":["Tool
       Proficiency"],"languageProficiencies":[{"common":true,"dwarvish":true}],"resist":["poison"],"entries":[{"name":"Age","type":"entries","entries":["Dwarves

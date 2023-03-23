@@ -22,7 +22,7 @@ MonoBehaviour:
   DataHash: 38088d16b2aea9ed2bef61c4cf18dcd2
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Human (Zendikar)
     Content: 
     AsJson: '{"name":"Human (Zendikar)","source":"PSZ","page":9,"_copy":{"name":"Human","source":"PHB","_mod":{"entries":{"mode":"replaceArr","replace":"Languages","items":{"name":"Languages","entries":["You
       can speak, read, and write Common and one extra language of your choice. Humans

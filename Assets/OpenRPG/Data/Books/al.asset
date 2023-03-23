@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 3b3bfd8e9a224c79c634dc4bba9794fb
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Adventurers League
     Content: 
     AsJson: '{"name":"Adventurers League","id":"AL","source":"AL","group":"other","coverUrl":"img/covers/AL.png","published":"2016-08-26","contents":[{"name":"Faction
       Guide","headers":["Faction Advancement and Benefits","Apprenticeship","Harpers","Order

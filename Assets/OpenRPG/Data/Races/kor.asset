@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: e162571d7159bdf43c07ce1c739aaace
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Kor
     Content: 
     AsJson: '{"name":"Kor","source":"PSZ","page":10,"size":["M"],"speed":{"walk":30,"climb":30},"ability":[{"dex":2,"wis":1}],"age":{"mature":20,"max":100},"skillProficiencies":[{"athletics":true,"acrobatics":true}],"languageProficiencies":[{"common":true,"other":true}],"entries":[{"name":"Age","type":"entries","entries":["Kor
       mature at the same rate as humans and live about as long."]},{"name":"Alignment","type":"entries","entries":["Most

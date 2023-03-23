@@ -29,7 +29,7 @@ MonoBehaviour:
   DataHash: f26e52d8f862012b5b3ce29f9f6b5ba3
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Half-Elf
     Content: 
     AsJson: '{"name":"Half-Elf","source":"PHB","page":38,"srd":true,"size":["M"],"speed":30,"ability":[{"cha":2,"choose":{"from":["str","dex","con","int","wis"],"count":2}}],"heightAndWeight":{"baseHeight":57,"heightMod":"2d8","baseWeight":110,"weightMod":"2d4"},"age":{"mature":20,"max":180},"darkvision":60,"traitTags":["Uncommon
       Race"],"skillProficiencies":[{"any":2}],"languageProficiencies":[{"common":true,"elvish":true,"anyStandard":1}],"soundClip":{"type":"internal","path":"races/half-elf.mp3"},"entries":[{"name":"Age","type":"entries","entries":["Half-elves

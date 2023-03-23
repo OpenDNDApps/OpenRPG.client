@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: c624ba8592142a9ad6d9775928300940
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Arcana
     Content: 
     AsJson: '{"name":"Arcana","source":"PHB","page":177,"srd":true,"basicRules":true,"entries":["Your
       Intelligence (Arcana) check measures your ability to recall lore about spells,

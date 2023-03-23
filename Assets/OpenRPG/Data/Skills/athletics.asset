@@ -25,7 +25,7 @@ MonoBehaviour:
   DataHash: 2c7741ec74d95182f641ca74a4976925
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Athletics
     Content: 
     AsJson: '{"name":"Athletics","source":"PHB","page":175,"srd":true,"basicRules":true,"entries":["Your
       Strength (Athletics) check covers difficult situations you encounter while

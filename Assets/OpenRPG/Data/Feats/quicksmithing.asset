@@ -44,7 +44,7 @@ MonoBehaviour:
   DataHash: a43458bb147189299cfdc0b92bd8e41d
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Quicksmithing
     Content: 
     AsJson: '{"name":"Quicksmithing","source":"PSK","page":13,"prerequisite":[{"ability":[{"int":13}]}],"toolProficiencies":[{"anyArtisansTool":true}],"entries":["You
       have mastered the art of on-the-fly invention, improvement, and jury-rigging.

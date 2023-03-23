@@ -20,7 +20,7 @@ MonoBehaviour:
   DataHash: 42b6d1c30cdfa6df0785a885fcadfb33
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Amonkhet'
     Content: 
     AsJson: '{"name":"Plane Shift: Amonkhet","id":"PS-A","source":"PSA","group":"supplement-alt","coverUrl":"img/covers/PSA.png","published":"2017-07-06","author":"Wizards
       RPG Team","contents":[{"name":"Introduction"},{"name":"The World of Amonkhet","headers":["People

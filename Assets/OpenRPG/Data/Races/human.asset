@@ -25,7 +25,7 @@ MonoBehaviour:
   DataHash: ef36d5a9aa7e91e38211102c7a9c855f
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Human
     Content: 
     AsJson: '{"name":"Human","source":"PHB","page":29,"srd":true,"basicRules":true,"size":["M"],"speed":30,"heightAndWeight":{"baseHeight":56,"heightMod":"2d10","baseWeight":110,"weightMod":"2d4"},"age":{"mature":20,"max":100},"languageProficiencies":[{"common":true,"anyStandard":1}],"soundClip":{"type":"internal","path":"races/human.mp3"},"entries":[{"name":"Age","type":"entries","entries":["Humans
       reach adulthood in their late teens and live less than a century."]},{"type":"entries","name":"Size","entries":["Humans

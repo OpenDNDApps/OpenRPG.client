@@ -35,7 +35,7 @@ MonoBehaviour:
   DataHash: bb6174627755be795c48e287f7ad94cb
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Yuan-Ti
     Content: 
     AsJson: '{"name":"Yuan-Ti","source":"MPMM","page":36,"lineage":"VRGR","size":["S","M"],"speed":30,"darkvision":60,"traitTags":["Magic
       Resistance"],"resist":["poison"],"additionalSpells":[{"innate":{"1":["animal

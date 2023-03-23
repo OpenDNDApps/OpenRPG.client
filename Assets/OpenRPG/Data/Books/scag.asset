@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: 132c315416129efc1827358f766c1486
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Sword Coast Adventurer's Guide
     Content: 
     AsJson: "{\"name\":\"Sword Coast Adventurer's Guide\",\"id\":\"SCAG\",\"source\":\"SCAG\",\"group\":\"setting\",\"coverUrl\":\"img/covers/SCAG.png\",\"published\":\"2015-11-03\",\"author\":\"Wizards
       RPG Team\",\"contents\":[{\"name\":\"Preface\"},{\"name\":\"Welcome to the

@@ -37,7 +37,7 @@ MonoBehaviour:
   DataHash: 7bc07f0a9f643dc505a7ad0d2482d313
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Elf (Zendikar)
     Content: 
     AsJson: '{"name":"Elf (Zendikar)","source":"PSZ","page":18,"size":["M"],"speed":30,"ability":[{"wis":2}],"age":{"mature":100,"max":750},"darkvision":60,"skillProficiencies":[{"perception":true}],"languageProficiencies":[{"common":true,"elvish":true}],"entries":[{"name":"Age","type":"entries","entries":["Although
       elves reach physical maturity at about the same age as humans, the elven understanding

@@ -41,7 +41,7 @@ MonoBehaviour:
   DataHash: 6e668ccf27f3b999e89ddc960c114f51
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Naga
     Content: 
     AsJson: '{"name":"Naga","source":"PSA","page":21,"size":["M"],"speed":30,"ability":[{"con":2,"int":1}],"age":{"mature":20,"max":100},"traitTags":["Natural
       Weapon","Tool Proficiency"],"languageProficiencies":[{"common":true,"other":true}],"immune":["poison"],"conditionImmune":["poisoned"],"entries":[{"name":"Age","type":"entries","entries":["Like

@@ -24,7 +24,7 @@ MonoBehaviour:
   DataHash: 16199960c9a94185b808b5fe14b32ca5
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Merfolk (Zendikar)
     Content: 
     AsJson: '{"name":"Merfolk (Zendikar)","source":"PSZ","page":13,"size":["M"],"speed":{"walk":30,"swim":30},"ability":[{"cha":1}],"age":{"mature":20,"max":100},"traitTags":["Amphibious"],"languageProficiencies":[{"common":true,"other":true,"anyStandard":1}],"entries":[{"type":"entries","name":"Age","entries":["Merfolk
       mature at the same rate humans do and reach adulthood around the age of 20.

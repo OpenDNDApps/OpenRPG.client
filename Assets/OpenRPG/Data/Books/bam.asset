@@ -19,7 +19,7 @@ MonoBehaviour:
   DataHash: 033a5caca06a4105eae5f1fc26ad9b13
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Boo's Astral Menagerie
     Content: 
     AsJson: '{"name":"Boo''s Astral Menagerie","alias":["Spelljammer: Boo''s Astral
       Menagerie"],"id":"BAM","source":"BAM","group":"supplement","coverUrl":"img/covers/SAiS.png","published":"2022-08-16","contents":[{"name":"Introduction","headers":["Astral

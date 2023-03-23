@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: 7b0980d3325dedd1b4f102c53fe85385
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Owlfolk
     Content: 
     AsJson: '{"name":"Owlfolk","source":"UA2021FolkOfTheFeywild","page":3,"lineage":"VRGR","size":["S","M"],"speed":{"walk":30,"fly":30},"darkvision":90,"skillProficiencies":[{"stealth":true}],"additionalSpells":[{"ability":{"choose":["int","wis","cha"]},"known":{"1":{"ritual":["detect
       magic"]}}}],"entries":[{"type":"entries","name":"Size","entries":["You are

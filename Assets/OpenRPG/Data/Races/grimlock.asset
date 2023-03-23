@@ -25,7 +25,7 @@ MonoBehaviour:
   DataHash: a3f4b8d4fb1d15b700852bc825ce2a99
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Grimlock
     Content: 
     AsJson: '{"name":"Grimlock","source":"DMG","page":282,"size":["M"],"speed":30,"ability":[{"str":2,"cha":-2}],"blindsight":30,"traitTags":["NPC
       Race"],"languageProficiencies":[{"undercommon":true}],"entries":[{"name":"Blindsight","entries":["You

@@ -59,7 +59,7 @@ MonoBehaviour:
   DataHash: 11d74c5b770c684e6d63612051edc4e6
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Aetherborn
     Content: 
     AsJson: "{\"name\":\"Aetherborn\",\"source\":\"PSK\",\"page\":17,\"size\":[\"M\"],\"speed\":30,\"ability\":[{\"cha\":2,\"choose\":{\"from\":[\"str\",\"dex\",\"con\",\"int\",\"wis\"],\"count\":2}}],\"age\":{\"mature\":0,\"max\":3},\"darkvision\":60,\"skillProficiencies\":[{\"intimidation\":true}],\"languageProficiencies\":[{\"common\":true,\"anyStandard\":2}],\"resist\":[\"necrotic\"],\"entries\":[{\"name\":\"Age\",\"type\":\"entries\",\"entries\":[\"Aetherborn
       come into being as adults and live no more than a few years.\"]},{\"name\":\"Alignment\",\"type\":\"entries\",\"entries\":[\"As

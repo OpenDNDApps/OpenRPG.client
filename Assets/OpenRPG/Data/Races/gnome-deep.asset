@@ -31,7 +31,7 @@ MonoBehaviour:
   DataHash: 8e5f9dbab5c01f91a8162d9635659e41
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Gnome (Deep)
     Content: 
     AsJson: '{"name":"Gnome (Deep)","source":"DMG","page":282,"size":["S"],"speed":20,"ability":[{"str":1,"dex":2}],"darkvision":120,"traitTags":["NPC
       Race"],"languageProficiencies":[{"gnomish":true,"terran":true,"undercommon":true}],"additionalSpells":[{"ability":"int","known":{"1":["nondetection","blindness/deafness","blur","disguise

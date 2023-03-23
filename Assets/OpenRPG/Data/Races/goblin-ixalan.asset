@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: f1ec9256d9a2f2e0a5e2541e779fe81c
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Goblin (Ixalan)
     Content: 
     AsJson: '{"name":"Goblin (Ixalan)","source":"PSX","page":16,"size":["S"],"speed":{"walk":25,"climb":25},"ability":[{"dex":2}],"age":{"mature":12,"max":50},"darkvision":60,"languageProficiencies":[{"common":true,"goblin":true}],"entries":[{"name":"Age","type":"entries","entries":["Goblins
       mature faster than humans, reaching adulthood around age 12. They age noticeably

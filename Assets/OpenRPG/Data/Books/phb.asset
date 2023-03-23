@@ -34,7 +34,7 @@ MonoBehaviour:
   DataHash: f88f4ce9084d2f4e8bac86f46a813547
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Player's Handbook
     Content: 
     AsJson: '{"name":"Player''s Handbook","id":"PHB","source":"PHB","group":"core","coverUrl":"img/covers/PHB.png","published":"2014-08-19","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["Worlds of Adventure","Using

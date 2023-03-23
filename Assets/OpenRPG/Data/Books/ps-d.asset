@@ -21,7 +21,7 @@ MonoBehaviour:
   DataHash: 22eff9fe15965ac34c9ab6437753732e
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Dominaria'
     Content: 
     AsJson: '{"name":"Plane Shift: Dominaria","id":"PS-D","source":"PSD","group":"supplement-alt","coverUrl":"img/covers/PSD.png","published":"2018-07-31","author":"Wizards
       RPG Team","contents":[{"name":"Introduction","headers":["The Domains"]},{"name":"Seven

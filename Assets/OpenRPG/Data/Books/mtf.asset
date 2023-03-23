@@ -30,7 +30,7 @@ MonoBehaviour:
   DataHash: b484e0871b1f9383751bf50c6f985d29
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Mordenkainen's Tome of Foes
     Content: 
     AsJson: '{"name":"Mordenkainen''s Tome of Foes","id":"MTF","source":"MTF","group":"supplement","coverUrl":"img/covers/MTF.png","published":"2018-05-29","author":"Wizards
       RPG Team","contents":[{"name":"The Blood War","headers":["The Great Dance","Lords

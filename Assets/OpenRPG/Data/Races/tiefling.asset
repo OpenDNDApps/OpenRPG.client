@@ -33,7 +33,7 @@ MonoBehaviour:
   DataHash: 836c94ce2a4fc5c7009efae219c126e0
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Tiefling
     Content: 
     AsJson: '{"name":"Tiefling","source":"PHB","page":42,"srd":true,"size":["M"],"speed":30,"ability":[{"cha":2,"int":1}],"heightAndWeight":{"baseHeight":57,"heightMod":"2d8","baseWeight":110,"weightMod":"2d4"},"age":{"mature":20,"max":100},"darkvision":60,"traitTags":["Uncommon
       Race"],"languageProficiencies":[{"common":true,"infernal":true}],"resist":["fire"],"soundClip":{"type":"internal","path":"races/tiefling.mp3"},"additionalSpells":[{"innate":{"3":{"daily":{"1":["hellish

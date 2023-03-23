@@ -27,7 +27,7 @@ MonoBehaviour:
   DataHash: 0144f47305f9ad42de1b28d2ec61d6e1
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Zombie
     Content: 
     AsJson: '{"name":"Zombie","source":"DMG","page":282,"size":["M"],"speed":30,"ability":[{"str":1,"con":2,"int":-6,"wis":-4,"cha":-4}],"darkvision":60,"traitTags":["Improved
       Resting","NPC Race"],"immune":["poison"],"conditionImmune":["poisoned"],"entries":[{"type":"entries","name":"Undead

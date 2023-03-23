@@ -26,7 +26,7 @@ MonoBehaviour:
   DataHash: ff79faab51ca6f3dd115a3b8c188174b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: 'Plane Shift: Innistrad'
     Content: 
     AsJson: "{\"name\":\"Plane Shift: Innistrad\",\"id\":\"PS-I\",\"source\":\"PSI\",\"group\":\"supplement-alt\",\"coverUrl\":\"img/covers/PSI.png\",\"published\":\"2016-07-12\",\"author\":\"Wizards
       RPG Team\",\"contents\":[{\"name\":\"Introduction\"},{\"name\":\"The World

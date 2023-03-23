@@ -26,7 +26,7 @@ MonoBehaviour:
   DataHash: 8a96ef03560f54e362ebfe8e09d995d6
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Rabbitfolk
     Content: 
     AsJson: '{"name":"Rabbitfolk","source":"UA2021FolkOfTheFeywild","page":3,"lineage":"VRGR","size":["S","M"],"speed":30,"skillProficiencies":[{"perception":true}],"entries":[{"type":"entries","name":"Size","entries":["You
       are Medium or Small. You choose the size when you gain this race."]},{"type":"entries","name":"Hare-Trigger","entries":["You

@@ -23,7 +23,7 @@ MonoBehaviour:
   DataHash: 9ae31f028f3f4abf5f070ffa9b53026b
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Investigation
     Content: 
     AsJson: '{"name":"Investigation","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["When
       you look around for clues and make deductions based on those clues, you make

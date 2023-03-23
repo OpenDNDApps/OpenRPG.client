@@ -21,7 +21,7 @@ MonoBehaviour:
   DataHash: e3b8c796882775173bb9d633cd83ceac
   DataByEdition:
   - Edition: d&d5e
-    Title: 
+    Title: Animal Handling
     Content: 
     AsJson: '{"name":"Animal Handling","source":"PHB","page":178,"srd":true,"basicRules":true,"entries":["When
       there is any question whether you can calm down a domesticated animal, keep
