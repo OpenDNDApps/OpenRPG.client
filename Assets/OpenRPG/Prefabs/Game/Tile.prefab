@@ -302,8 +302,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_tileType: 1
-  m_visualRoot2D: {fileID: 0}
-  m_visualRood3D: {fileID: 0}
+  m_visualRoot2D: {fileID: 2127741186499328158}
+  m_visualRood3D: {fileID: 8418005977274328621}
 --- !u!1 &6489189802334115041
 GameObject:
   m_ObjectHideFlags: 0
