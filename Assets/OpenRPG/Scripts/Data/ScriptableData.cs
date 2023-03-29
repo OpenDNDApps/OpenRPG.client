@@ -11,9 +11,15 @@ namespace ORC
         public string AsJson;
         public string DataHash;
         
-        [Header("----")]
+        [Space(4f)]
         public List<EditionRawScriptableDataPair> DataByEdition = new List<EditionRawScriptableDataPair>();
+        public EditionRawScriptableDataPair FifthEdition => DataByEdition.Find(data => data.Edition.Equals(kDungeonsAndDragons5thEditionKey));
+        public EditionRawScriptableDataPair Pf1Edition => DataByEdition.Find(data => data.Edition.Equals(kPathfinder1stEditionKey));
+        public EditionRawScriptableDataPair Pf2Edition => DataByEdition.Find(data => data.Edition.Equals(kPathfinder2ndEditionKey));
 
+
+        [Space(4f)] public List<PageStyleConfiguration> PageStyleConfigurations = new List<PageStyleConfiguration>();
+        
         public void ManualValidate()
         {
             DataByEdition.RemoveAll(data => data.Edition.Equals("5e"));
@@ -41,6 +47,15 @@ namespace ORC
 
             Debug.Log("Parsed: " + source);
         }
+
+        [Serializable]
+        public class PageStyleConfiguration
+        {
+            public string Title;
+            public PageStyle Style;
+            public PageTransparency PageTransparency;
+            public Sprite Background;
+        }
         
         [Serializable]
         public class EditionRawScriptableDataPair
@@ -62,7 +77,6 @@ namespace ORC
 namespace ORC
 {
     using UnityEditor;
-    using System.IO;
     
     [CustomEditor(typeof(ScriptableData), true)]
     public class ScriptableDataEditor : Editor
