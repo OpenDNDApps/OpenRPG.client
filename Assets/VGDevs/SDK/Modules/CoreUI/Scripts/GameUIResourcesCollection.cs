@@ -7,7 +7,7 @@ using UnityEngine.Serialization;
 namespace VGDevs
 {
     [CreateAssetMenu(fileName = GameResources.kUIFileName, menuName = GameResources.kCreateMenuPrefixNameResources + GameResources.kUIFileName)]
-    public class GameUIResourcesCollection : BaseResourcesCollection
+    public partial class GameUIResourcesCollection : BaseResourcesCollection
     {
 	    [Header("UI Resources")]
 	    [SerializeField] private UIRuntime m_uiRuntime;

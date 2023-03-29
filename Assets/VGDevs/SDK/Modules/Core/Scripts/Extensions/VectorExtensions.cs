@@ -11,7 +11,7 @@ namespace VGDevs
 
         public static Vector2 XY(this Vector3 vector)
         {
-            return new Vector2(vector.x, vector.y);
+            return vector;
         }
 
         public static Vector2 XZ(this Vector3 vector)
