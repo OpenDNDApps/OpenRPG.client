@@ -149,12 +149,36 @@ public static class StringExtensions
 	/// <summary>
 	/// Returns true if the string is a valid http or https url
 	/// </summary>
-	/// <param name="value"></param>
+	/// <param name="url"></param>
 	/// <returns></returns>
-	public static bool IsValidUrl(this string text)
+	public static bool IsValidUrl(this string url)
 	{
-		Regex rx = new Regex(@"http(s)?://([\w-]+\.)+[\w-]+(/[\w- ./?%&=]*)?");
-		return rx.IsMatch(text);
+		return Uri.TryCreate(url, UriKind.Absolute, out Uri uriResult) && (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps);
+	}
+
+	public static bool IsValidImageURL(this string url)
+	{
+		if (!url.IsValidUrl())
+		{
+			return false;
+		}
+
+		string[] imageExtensions = new string[] { ".jpg", ".jpeg", ".png", ".bmp", ".gif" };
+		string extension = System.IO.Path.GetExtension(url);
+		return imageExtensions.Contains(extension.ToLower());
+	}
+
+	public static bool IsValidVideoUrl(this string url)
+	{
+		if (!url.IsValidUrl())
+		{
+			return false;
+		}
+
+		string[] videoExtensions = new string[] { ".mp4", ".avi", ".mov", ".wmv", ".flv", ".webm" };
+		string extension = System.IO.Path.GetExtension(url);
+
+		return videoExtensions.Contains(extension.ToLower());
 	}
 
 	/// <summary>
