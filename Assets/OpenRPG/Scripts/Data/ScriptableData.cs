@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ORC
 {
@@ -45,7 +48,47 @@ namespace ORC
                 find.Content = source;
             }
 
-            Debug.Log("Parsed: " + source);
+            Debug.Log($"Parsed: {source}");
+        }
+        
+        protected virtual JObject FindItemInCollection<T>(List<T> collection, string editionKey, string sourceID, string itemID) where T : ScriptableData
+        {
+            foreach (var item in collection)
+            {
+                if (!item.name.Equals(itemID.AsSlug()))
+                    continue;
+                
+                var findByEdition = item.DataByEdition.Find(data => data.Edition.Equals(editionKey));
+                if (findByEdition == null)
+                    continue;
+
+                if (findByEdition.SourceBook != null && !findByEdition.SourceBook.ID.Equals(sourceID))
+                    continue;
+                
+                return JsonConvert.DeserializeObject<JObject>(findByEdition.AsJson);
+            }
+
+            return null;
+        }
+
+        protected virtual string BuiltStyle_Title(string title)
+        {
+            return $"<style=\"PaperPage_Title\">{title}</style>";
+        }
+
+        protected virtual string BuiltStyle_Separator()
+        {
+            return $"<style=\"PaperPage_Separator\"></style>";
+        }
+
+        protected virtual string BuiltStyle_SubTitle(string subTitle)
+        {
+            return $"<style=\"PaperPage_SubTitle\">{subTitle}</style>";
+        }
+        
+        protected virtual string BuiltStyle_RedProperties(string property)
+        {
+            return $"<style=\"PaperPage_RedProperties\">{property}</style>";
         }
 
         [Serializable]
@@ -65,9 +108,26 @@ namespace ORC
             public string Title;
             [TextArea(15, 20)]
             public string Content;
+            public bool IsSRD;
+            public SourceBookData SourceBook;
             [Header("Data")]
             public string AsJson;
             public string DataHash;
+        }
+
+        [Serializable]
+        public enum OrcDataType
+        {
+            Unknown,
+            Backgrounds,
+            Books,
+            Classes,
+            Feats,
+            Items,
+            Languages,
+            Monsters,
+            Races,
+            Spells
         }
     }
 }

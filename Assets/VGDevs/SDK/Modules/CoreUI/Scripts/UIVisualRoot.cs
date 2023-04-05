@@ -3,12 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using VGDevs;
 
 namespace VGDevs
 {
     [RequireComponent(typeof(CanvasGroup))]
-    public class UIVisualRoot : UIItemBase
+    public class UIVisualRoot : UIItemBase, IPointerEnterHandler, IPointerExitHandler
     {
         [Header("UIVisualRoot Settings")]
         [SerializeField] private CanvasGroup m_canvasGroup;
@@ -99,6 +100,16 @@ namespace VGDevs
         {
             m_canvasGroup.Enable();
         }
+
+        public void OnPointerEnter(PointerEventData eventData)
+        {
+            StartAnimation(VisualRootAnimTriggerType.OnPointerEnter);
+        }
+
+        public void OnPointerExit(PointerEventData eventData)
+        {
+            StartAnimation(VisualRootAnimTriggerType.OnPointerExit);
+        }
     }
 
     [Serializable]
@@ -115,7 +126,9 @@ namespace VGDevs
         EnterAnimation,
         ExitAnimation,
         OnEnable,
-        OnDisable
+        OnDisable,
+        OnPointerEnter,
+        OnPointerExit,
     }
 }
 

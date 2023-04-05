@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_loadablePrefabs:
   - {fileID: 4981522841658000767, guid: f8959b806c7b7c8438ed06594b1e2ce7, type: 3}
+  DefaultPageStyle: {fileID: 0}
+  PageStyles: []
   m_uiRuntime: {fileID: 6809938705032059769, guid: f8959b806c7b7c8438ed06594b1e2ce7, type: 3}
   m_uiItems: []
   m_uiWindows:
@@ -24,6 +26,7 @@ MonoBehaviour:
   - {fileID: 4747236739156647421, guid: c86d4f4fde8b29c42b937ee25e83ef66, type: 3}
   - {fileID: 5016009735770741335, guid: 4d26e49e2d5b14d41b4001c99c8faf52, type: 3}
   - {fileID: 1401064877110066562, guid: 9648703889cc2cf4eb910ef2ca0a6535, type: 3}
+  - {fileID: 4316897491617527078, guid: 3d592a0375e62b74c9afb1762991447b, type: 3}
   m_uiAnimations:
   - {fileID: 11400000, guid: 5612cdccd2a124240ac3d693e289c6a0, type: 2}
   - {fileID: 11400000, guid: 5612cdccd2a124240ac3d693e289c6a0, type: 2}

@@ -33,3 +33,8 @@ MonoBehaviour:
       In addition, when you use your Arcane Recovery feature, you can increase the
       number of spell slot levels you regain by 1."]}'
     DataHash: f75337040c0285993283b62431b151ed
+  PageStyleConfigurations:
+  - Title: d&d5e
+    Style: {fileID: 11400000, guid: 8acb3a9aa23716d4e97d6a58dbbc8ba7, type: 2}
+    PageTransparency: 0
+    Background: {fileID: 0}

@@ -35,7 +35,7 @@ namespace VGDevs
         {
             OnAnimatedShowStart?.Invoke();
             m_visualRoots.Enable();
-            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.EnterAnimation).StartAnimation(VisualRootAnimTriggerType.EnterAnimation, Show);
+            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.EnterAnimation, Show);
         }
 
         [ContextMenu("AnimatedHide")]
@@ -46,13 +46,13 @@ namespace VGDevs
             m_hidingAnimationActive = true;
             
             OnAnimatedHideStart?.Invoke();
-            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.ExitAnimation).StartAnimation(VisualRootAnimTriggerType.ExitAnimation, Hide);
+            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.ExitAnimation, Hide);
         }
 
         public virtual void Show()
         {
-            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.OnEnable).StartAnimation(VisualRootAnimTriggerType.OnEnable);
-            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.OnEnable).Enable();
+            m_visualRoots.Enable();
+            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.OnEnable);
 
             OnShow?.Invoke();
         }
