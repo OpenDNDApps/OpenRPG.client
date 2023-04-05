@@ -9,7 +9,8 @@ namespace ORC
 {
     public class GameCameraController : CameraController
     {
-        [SerializeField] private float m_scrollZoomSpeedFactor = 1f;
+        [SerializeField] private float m_scrollZoomSpeedFactor = .003f;
+        [SerializeField] private float m_rotationSpeedFactor = .6f;
         //[SerializeField] private float m_cameraMouseMovementFactor = 1f;
 
         [SerializeField] private List<CinemachineVirtualCamera> m_vCameras = new List<CinemachineVirtualCamera>();
@@ -21,6 +22,7 @@ namespace ORC
         [SerializeField] private Transform m_moveTarget;
         
         private Vector3 m_dragOrigin;
+        private Vector3 m_rotateOrigin;
         
         private float m_currentZoom = 0.5f;
         private Vector2 m_currentZoomRange = new Vector2(0.1f, 1f);
@@ -35,7 +37,7 @@ namespace ORC
             
             CinemachineCore.CameraUpdatedEvent.AddListener(OnCameraUpdate);
             
-            //Board.OnMouseOverScroll += OnMouseOverScroll;
+            Board.OnMouseOverScroll += OnMouseOverScroll;
         }
 
         public CinemachineVirtualCamera SetNextVirtualCamera()
@@ -44,20 +46,29 @@ namespace ORC
             if(m_lastCameraActiveIndex >= m_vCameras.Count)
                 m_lastCameraActiveIndex = 0;
             
-            for (var i = 0; i < m_vCameras.Count; i++)
+            for (int i = 0; i < m_vCameras.Count; i++)
             {
                 m_vCameras[i].Priority = i == m_lastCameraActiveIndex ? 1 : 0;
             }
             
             m_currentVCamera = m_vCameras[m_lastCameraActiveIndex];
+            Board.NotifyCameraChange(m_currentVCamera);
+
+            SetNewCameraZoomLogic();
+            
+            return m_vCameras[m_lastCameraActiveIndex];
+        }
+
+        private void SetNewCameraZoomLogic()
+        {
+            bool isInit = m_currentFramingTransposer == null;
             m_currentFramingTransposer = m_currentVCamera.GetCinemachineComponent<CinemachineFramingTransposer>();
 
             m_currentZoomRange = new Vector2(m_currentVCamera.m_Lens.FarClipPlane / 100f, m_currentVCamera.m_Lens.FarClipPlane / 2f);
-            m_currentZoom = Mathf.InverseLerp(m_currentZoomRange.x, m_currentZoomRange.y, m_currentFramingTransposer.m_CameraDistance);
+            m_currentZoom = isInit ? Mathf.InverseLerp(m_currentZoomRange.x, m_currentZoomRange.y, m_currentFramingTransposer.m_CameraDistance) : m_currentZoom;
             
-            Board.SetCamera(m_currentVCamera);
-
-            return m_vCameras[m_lastCameraActiveIndex];
+            var desiredZoomDistance = Mathf.Lerp(m_currentZoomRange.x, m_currentZoomRange.y, m_currentZoom);
+            m_currentFramingTransposer.m_CameraDistance = desiredZoomDistance;
         }
 
         private void Update()
@@ -65,6 +76,11 @@ namespace ORC
             if (Input.GetKeyDown(KeyCode.Alpha1))
             {
                 SetNextVirtualCamera();
+            }
+            
+            if (Input.mouseScrollDelta.y != 0)
+            {
+                OnMouseOverScroll(Input.mouseScrollDelta.y);
             }
         }
 
@@ -82,11 +98,26 @@ namespace ORC
                 m_moveTarget.localPosition += delta * m_dragSpeedMultiplier;
                 m_dragOrigin = newPosition;
             }
-            
-            float scrollDelta = Input.mouseScrollDelta.y;
-            if (scrollDelta != 0f)
+            else if (Input.GetMouseButtonDown(1))
             {
-                OnMouseOverScroll(scrollDelta);
+                m_rotateOrigin = Input.mousePosition;
+            }
+            else if (Input.GetMouseButton(1))
+            {
+                Vector3 newPosition = Input.mousePosition;
+                Vector3 delta = newPosition - m_rotateOrigin;
+                if (Input.mousePosition.y < Screen.height / 2f)
+                {
+                    delta.x *= -1;
+                }
+                if (Input.mousePosition.x > Screen.width / 2f)
+                {
+                    delta.y *= -1;
+                }
+                m_rotateOrigin = newPosition;
+                Quaternion desiredRotation = transform.localRotation * Quaternion.Euler(0,  -1 * ((delta.x + delta.y) * m_rotationSpeedFactor), 0);
+                Board.NotifyCameraRotationChanged(desiredRotation);
+                transform.localRotation = desiredRotation;
             }
         }
         
@@ -105,6 +136,15 @@ namespace ORC
             var desiredZoomDistance = Mathf.Lerp(m_currentZoomRange.x, m_currentZoomRange.y, m_currentZoom);
 
             m_currentFramingTransposer.m_CameraDistance = desiredZoomDistance;
+        }
+    }
+
+    public static class OrcCameraExtensions
+    {
+        public static bool IsOrthographic(this CinemachineVirtualCamera vCamera)
+        {
+            // TODO: Find a better way to check rather than using the FOV
+            return vCamera.m_Lens.Orthographic || vCamera.m_Lens.FieldOfView <= 3;
         }
     }
 }

@@ -9,15 +9,23 @@ namespace ORC
     public static class Board
     {
         public static Action<Vector3> OnSurfaceClick;
+        public static Action<Quaternion> OnCameraRotationChanged;
         public static Action<bool> OnMouseOverSurface;
         public static Action<float> OnMouseOverScroll;
         
-        public static event Action<LensSettings.OverrideModes> OnPerspectiveChanged;
+        public static Quaternion LastCameraRotation { get; private set; }
+        
+        public static event Action<CinemachineVirtualCamera> OnCameraChanged;
 
-        public static void SetCamera(CinemachineVirtualCamera vCamera)
+        public static void NotifyCameraChange(CinemachineVirtualCamera vCamera)
         {
-            
-            OnPerspectiveChanged?.Invoke(vCamera.m_Lens.ModeOverride);
+            OnCameraChanged?.Invoke(vCamera);
+        }
+        
+        public static void NotifyCameraRotationChanged(Quaternion rotation)
+        {
+            LastCameraRotation = rotation;
+            OnCameraRotationChanged?.Invoke(LastCameraRotation);
         }
     }
 }
