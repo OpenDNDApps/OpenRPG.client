@@ -30,4 +30,43 @@ namespace ORC
         Gargantuan = 1 << 7,
         Colossal = 1 << 8
     }
+
+    [Flags]
+    public enum DamageTypes
+    {
+        Slashing = 1 << 1,
+        Piercing = 1 << 2,
+        Bludgeoning = 1 << 3,
+        Acid = 1 << 4,
+        Cold = 1 << 5,
+        Fire = 1 << 6,
+        Force = 1 << 7,
+        Lightning = 1 << 8,
+        Necrotic = 1 << 9,
+        Poison = 1 << 10,
+        Psychic = 1 << 11,
+        Radiant = 1 << 12,
+        Thunder = 1 << 13,
+        Nonlethal = 1 << 14
+    }
+
+    [Flags]
+    public enum ArmourCategories
+    {
+        Natural = 1 << 1,
+        Light = 1 << 2,
+        Medium = 1 << 3,
+        Heavy = 1 << 4,
+        Shield = 1 << 5
+    }
+
+    public struct CreatureAttributes
+    {
+        public int STR;
+        public int DEX;
+        public int CON;
+        public int INT;
+        public int WIS;
+        public int CHA;
+    }
 }

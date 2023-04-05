@@ -7,6 +7,7 @@ namespace VGDevs
     public class UIItemBase : MonoBehaviour
     {
         protected UIWindow m_window;
+        protected UIVisualRoot m_visualRoot;
         protected bool m_initialized = false;
 
         public UIWindow Window
@@ -22,6 +23,22 @@ namespace VGDevs
                     Debug.LogError($"Window not found on '{this.name}' gameObject");
                 
                 return m_window;
+            }
+        }
+
+        public UIVisualRoot VisualRoot
+        {
+            get
+            {
+                if (m_visualRoot == null)
+                    m_visualRoot = GetComponent<UIVisualRoot>();
+                if (m_window == null)
+                    m_visualRoot = GetComponentInParent<UIVisualRoot>();
+                
+                if (m_visualRoot == null)
+                    Debug.LogError($"VisualRoot not found on '{this.name}' gameObject");
+                
+                return m_visualRoot;
             }
         }
         

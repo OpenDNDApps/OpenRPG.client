@@ -31,13 +31,9 @@ namespace ORC
             if (monster.ContainsKey("_copy") && (baseMonsterToCopy = (JObject) monster["_copy"]) != null)
             {
                 JObject baseMonster = GetToCopyMonsterData(baseMonsterToCopy);
-                JArray alignmentArray = baseMonster.Value<JArray>("alignment");
-                List<string> stringList = alignmentArray?.Select(token => (string)token).ToList();
-                Alignment alignment = stringList?.Count > 0 ? stringList.AsAlignment() : Alignment.Undefined;
-                
-                JArray sizeArray = baseMonster.Value<JArray>("size");
-                List<string> sizeList = sizeArray?.Select(token => (string)token).ToList();
-                CreatureSize creatureSize = sizeList?.Count > 0 ? sizeList.AsCreatureSize() : CreatureSize.Undefined;
+                Alignment alignment = ExtractAlignment(baseMonster);
+                CreatureSize creatureSize = ExtractCreatureSize(baseMonster);
+                CreatureAttributes creatureAttributes = ExtractCreatureAttributes(baseMonster);
                 
                 content += $"{BuiltStyle_SubTitle($"{creatureSize} Creature, {alignment.ToFlagString()}")}\n";
                 content += $"{BuiltStyle_Separator()}\n";
@@ -48,7 +44,43 @@ namespace ORC
             
             FifthEdition.Content = content;
         }
-        
+
+        private static Alignment ExtractAlignment(JObject data)
+        {
+            if (!data.ContainsKey("alignment"))
+                return Alignment.Undefined;
+            
+            List<string> alignments = data.Value<JArray>("alignment").AsListOfString();
+            return alignments?.Count > 0 ? alignments.AsAlignment() : Alignment.Undefined;
+        }
+
+        private static CreatureSize ExtractCreatureSize(JObject data)
+        {
+            if (!data.ContainsKey("size"))
+                return CreatureSize.Undefined;
+            
+            List<string> sizes = data.Value<JArray>("size").AsListOfString();
+            return sizes?.Count > 0 ? sizes.AsCreatureSize() : CreatureSize.Undefined;
+        }
+
+        private static CreatureAttributes ExtractCreatureAttributes(JObject data)
+        {
+            CreatureAttributes toReturn = new CreatureAttributes();
+            if (!data.ContainsKey("str"))
+                toReturn.STR = data.Value<int>("str");
+            if (!data.ContainsKey("dex"))
+                toReturn.DEX = data.Value<int>("dex");
+            if (!data.ContainsKey("con"))
+                toReturn.CON = data.Value<int>("con");
+            if (!data.ContainsKey("int"))
+                toReturn.INT = data.Value<int>("int");
+            if (!data.ContainsKey("wis"))
+                toReturn.WIS = data.Value<int>("wis");
+            if (!data.ContainsKey("cha"))
+                toReturn.CHA = data.Value<int>("cha");
+            return toReturn;
+        }
+
         public static string ToSpeedString(JObject speedObj)
         {
             var speeds = new List<string>();

@@ -26,7 +26,19 @@ MonoBehaviour:
   DataByEdition:
   - Edition: d&d5e
     Title: The Bagman
-    Content: 
+    Content: '<style="PaperPage_Title">The Bagman</style>
+
+      <style="PaperPage_SubTitle">Large
+      Creature, Chaotic Evil</style>
+
+      <style="PaperPage_Separator"></style>
+
+      <style="PaperPage_RedProperties"><b>Speed:</b>
+      : 30ft</style>
+
+'
+    IsSRD: 0
+    SourceBook: {fileID: 0}
     AsJson: '{"name":"The Bagman","source":"VRGR","page":225,"_copy":{"name":"Troll","source":"MM","_mod":{"*":{"mode":"replaceTxt","replace":"troll","with":"Bagman","flags":"i"},"trait":[{"mode":"appendArr","items":[{"name":"Grappler","entries":["The
       Bagman has advantage on attack rolls against any creature {@condition grappled}
       by it."]},{"name":"Amorphous","entries":["The Bagman can move through a space
@@ -37,3 +49,4 @@ MonoBehaviour:
       each of its turns, ending the effect on itself on a success."]}]}]}},"traitTags":["Amorphous","Keen
       Senses","Regeneration"],"hasToken":true,"hasFluff":true,"hasFluffImages":true}'
     DataHash: 7d747adaae8b3b15ba30f1bbeb338801
+  PageStyleConfigurations: []

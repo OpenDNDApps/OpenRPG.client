@@ -1,12 +1,26 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using Newtonsoft.Json.Linq;
 using UnityEngine;
 
 namespace ORC
 {
     public static class OrcExtensions
     {
+        public static List<string> AsListOfString(this JArray jArray)
+        {
+            try
+            {
+                return jArray?.Select(token => (string) token).ToList();
+            }
+            catch (Exception _)
+            {
+                return new List<string>();
+            }
+        }
+        
         #region Alignment
         private static readonly Dictionary<string, Alignment> AlignmentsPair = new Dictionary<string, Alignment>(StringComparer.OrdinalIgnoreCase)
         {

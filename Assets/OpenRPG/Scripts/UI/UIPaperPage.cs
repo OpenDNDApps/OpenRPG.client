@@ -6,6 +6,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using VGDevs;
+using NaughtyAttributes;
 
 namespace ORC
 {
@@ -35,7 +36,8 @@ namespace ORC
         {
             SetDebugContent();
         }
-
+        
+        [Button]
         private void SetDebugContent()
         {
             if (!m_getRandomToDebug) 

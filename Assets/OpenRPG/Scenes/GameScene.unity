@@ -1471,19 +1471,26 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3057181294079598840, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
       propertyPath: m_text
-      value: "<style=\"PaperPage_Title\">The Bagman</style>\n<style=\"PaperPage_Separator\"></style>\n\"trait\":
-        [{\r\n\t\t\"name\": \"Keen Smell\",\r\n\t\t\"entries\": [\"The troll has
-        advantage on Wisdom ({@skill Perception}) checks that rely on smell.\"]\r\n\t},
-        {\r\n\t\t\"name\": \"Regeneration\",\r\n\t\t\"entries\": [\"The troll regains
-        10 hit points at the start of its turn. If the troll takes acid or fire damage,
-        this trait doesn't function at the start of the troll's next turn. The troll
-        dies only if it starts its turn with 0 hit points and doesn't regenerate.\"]\r\n\t}],\r\n\t\"action\":
-        [{\r\n\t\t\"name\": \"Multiattack\",\r\n\t\t\"entries\": [\"The troll makes
-        three attacks: one with its bite and two with its claws.\"]\r\n\t}, {\r\n\t\t\"name\":
-        \"Bite\",\r\n\t\t\"entries\": [\"{@atk mw} {@hit 7} to hit, reach 5 ft.,
-        one target. {@h}7 ({@damage 1d6 + 4}) piercing damage.\"]\r\n\t}, {\r\n\t\t\"name\":
-        \"Claw\",\r\n\t\t\"entries\": [\"{@atk mw} {@hit 7} to hit, reach 5 ft.,
-        one target. {@h}11 ({@damage 2d6 + 4}) slashing damage.\"]\r\n\t}],"
+      value: '<size=0.8em><align=center>STR AGI CON INT WIS CHA</align>
+
+        <align=center>18
+        (+4) AGI CON INT WIS CHA</align></size>'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3057181294079598840, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
+      propertyPath: m_fontSize
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3057181294079598840, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3432118112516851404, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
+      propertyPath: m_debugType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3432118112516851404, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
+      propertyPath: m_getRandomToDebug
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5383076415644871955, guid: 07d048c2b65c76642ae17ee5937fa83a, type: 3}
       propertyPath: m_Pivot.x
