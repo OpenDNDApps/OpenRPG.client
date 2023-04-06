@@ -68,5 +68,16 @@ namespace ORC
         public int INT;
         public int WIS;
         public int CHA;
+
+        public override string ToString()
+        {
+            return $"STR: {STR} ({ToAbilityBonus(STR)}), DEX: {DEX} ({ToAbilityBonus(DEX)}), CON: {CON} ({ToAbilityBonus(CON)}), INT: {INT} ({ToAbilityBonus(INT)}), WIS: {WIS} ({ToAbilityBonus(WIS)}), CHA: {CHA} ({ToAbilityBonus(CHA)})";
+        }
+        
+        public static string ToAbilityBonus(int abilityScore)
+        {
+            var bonus = (abilityScore - 10) / 2;
+            return (bonus >= 0 ? "+" : "") + bonus.ToString();
+        }
     }
 }

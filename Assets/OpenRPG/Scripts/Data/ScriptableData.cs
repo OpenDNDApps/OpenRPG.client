@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using NaughtyAttributes;
 using UnityEngine;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -106,8 +107,10 @@ namespace ORC
             public string Edition;
             [Space(2f)]
             public string Title;
-            [TextArea(15, 20)]
+            [ResizableTextArea]
             public string Content;
+            [ResizableTextArea]
+            public string StatsBlock;
             public bool IsSRD;
             public SourceBookData SourceBook;
             [Header("Data")]
