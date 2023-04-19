@@ -12,7 +12,7 @@ namespace ORC
         
         private void OnMouseUpAsButton()
         {
-            var hitPosition = GameRuntime.Camera.ScreenToWorldPoint(Input.mousePosition);
+            var hitPosition = GameRuntime.WorldCamera.ScreenToWorldPoint(Input.mousePosition);
             Board.OnSurfaceClick?.Invoke(hitPosition);
             //Debug.Log($"Clicked on board at {hitPosition}");
         }

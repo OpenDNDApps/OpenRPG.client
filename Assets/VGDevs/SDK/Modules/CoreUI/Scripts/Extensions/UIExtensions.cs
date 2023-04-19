@@ -17,7 +17,7 @@ namespace VGDevs
             return tmp.text;
         }
 
-        public static void SetLocalizedText(this TMP_Text tmp, string localizationKey, bool defaultAsFail = true)
+        public static void SetLocalizedText(this TMP_Text tmp, string localizationKey)
         {
             // if defaultAsFail just set key as string.
             // TODO: Localization

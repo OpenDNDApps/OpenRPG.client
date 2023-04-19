@@ -9,9 +9,8 @@ namespace VGDevs
     {
         [Header("Generic Window Settings")]
         [SerializeField] protected UIWindowBehaviours m_uiWindowBehaviours = UIWindowBehaviours.AutoHideWhenCloseCalled;
-        [SerializeField] private UISectionType m_uiSectionType = UISectionType.Default;
+        [SerializeField] protected UISectionType m_uiSectionType = UISectionType.Default;
         [SerializeField] protected UIButton m_closeButton;
-        [SerializeField] private bool m_hideOnAwake = true;
         
         [Header("Notch Settings")]
         [SerializeField] protected NotchBehaviour m_notchBehaviour = NotchBehaviour.Ignore;
@@ -31,11 +30,8 @@ namespace VGDevs
         
         protected override void OnInit()
         {
-            if (m_hideOnAwake)
-            {
-                m_visualRoots.Disable();
-            }
-
+            base.OnInit();
+            
             if (m_closeButton != null)
             {
                 m_closeButton.OnClick = OnCloseButtonClick;
@@ -47,14 +43,6 @@ namespace VGDevs
             }
 
             this.ApplySafeArea();
-        }
-
-        protected void SetButtonAsCloseButton(UIButton closeButton)
-        {
-            if (closeButton != default)
-            {
-                closeButton.OnClick += OnCloseButtonClick;
-            }
         }
 
         public virtual void OnCloseButtonClick()

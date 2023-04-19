@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Cinemachine;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using VGDevs;
 
 namespace ORC
@@ -123,7 +124,12 @@ namespace ORC
         
         private Vector3 GetMouseWorldPosition()
         {
-            Ray ray = GameRuntime.Camera.ScreenPointToRay(Input.mousePosition);
+            Ray ray = GameRuntime.WorldCamera.ScreenPointToRay(Input.mousePosition);
+            if (EventSystem.current.IsPointerOverGameObject())
+            {
+                return ray.origin;
+            }
+            
             Plane plane = new Plane(Vector3.up, Vector3.zero);
             plane.Raycast(ray, out float distance);
             return ray.GetPoint(distance);

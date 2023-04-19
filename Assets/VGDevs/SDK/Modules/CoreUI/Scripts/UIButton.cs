@@ -22,6 +22,10 @@ namespace VGDevs
 
         protected bool m_isHighlighted;
         protected string m_originalText;
+
+        protected UITabSection m_tabSection;
+        
+        public Action<UITabSection> OnTabButtonClick;
         
         public Func<bool> Conditionable { get; set; } = () => true;
         public Action OnClick;
@@ -61,6 +65,12 @@ namespace VGDevs
         public virtual void ClickBehaviour()
         {
             OnClick?.Invoke();
+        }
+
+        public void SetupAsTabButton(UITabSection p_owner, Action<UITabSection> p_onTabButtonClick)
+        {
+            m_tabSection = p_owner;
+            OnTabButtonClick = p_onTabButtonClick;
         }
 
         public void TriggerClick()

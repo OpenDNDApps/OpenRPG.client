@@ -356,6 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_canvasGroup: {fileID: 3011737366973026054}
+  m_visualRootBehaviours: 0
   m_animationsInfo: []
 --- !u!225 &3011737366973026054
 CanvasGroup:
@@ -428,6 +429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_canvasGroup: {fileID: 6323783969846266479}
+  m_visualRootBehaviours: 0
   m_animationsInfo: []
 --- !u!225 &6323783969846266479
 CanvasGroup:
@@ -1143,6 +1145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_canvasGroup: {fileID: 6322765118005956248}
+  m_visualRootBehaviours: 0
   m_animationsInfo: []
 --- !u!225 &6322765118005956248
 CanvasGroup:
@@ -1209,9 +1212,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_visualRoots:
+  - {fileID: 4736540947282291796}
   - {fileID: 7365174606127171464}
   - {fileID: 5980111186476503418}
-  destroyOnHide: 1
+  m_itemBehaviours: 2
+  m_destroyOnHide: 0
   m_uiSectionType: 2
   m_closeButton: {fileID: 8031414298927217012}
   m_hideOnAwake: 0
