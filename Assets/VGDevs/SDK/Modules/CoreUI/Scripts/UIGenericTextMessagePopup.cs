@@ -18,20 +18,17 @@ namespace VGDevs
         {
             if (m_closeButton != null)
             {
-                m_closeButton.Enable();
-                m_closeButton.gameObject.SetActive(true);
+                m_closeButton.Deactivate(true);
             }
 
             if (m_primaryButton != null)
             {
-                m_primaryButton.Disable();
-                m_primaryButton.gameObject.SetActive(false);
+                m_primaryButton.Deactivate(true);
             }
 
             if (m_secondaryButton != null)
             {
-                m_secondaryButton.Disable();
-                m_secondaryButton.gameObject.SetActive(false);
+                m_secondaryButton.Deactivate(true);
             }
 
             if (m_title != null)
@@ -92,8 +89,7 @@ namespace VGDevs
             
             if (m_closeButton != null)
             {
-                m_closeButton.Disable();
-                m_closeButton.gameObject.SetActive(false);
+                m_closeButton.Deactivate(true);
             }
             
             if (cleanCallback)
@@ -103,8 +99,7 @@ namespace VGDevs
             
             m_secondaryButton.SetLabel(labelKey);
             m_secondaryButton.OnClick += onClick;
-            m_secondaryButton.Enable();
-            m_secondaryButton.gameObject.SetActive(true);
+            m_secondaryButton.Enable(true);
         }
     }
 }

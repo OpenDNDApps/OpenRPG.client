@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2258118475511867247}
   - component: {fileID: 4283011525690194336}
   - component: {fileID: 7045339549018901365}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas - Popup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29,6 +29,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2318578541074014719}
   m_RootOrder: 2
@@ -56,6 +57,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -110,7 +112,7 @@ GameObject:
   - component: {fileID: 3122227055518801361}
   - component: {fileID: 8417132386958761069}
   - component: {fileID: 7514066075993025220}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: EventSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,6 +129,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2318578541074014719}
   m_RootOrder: 4
@@ -158,6 +161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -177,7 +181,7 @@ GameObject:
   - component: {fileID: 102549043675198225}
   - component: {fileID: 8869081092980152244}
   - component: {fileID: 2064550467751473480}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas - Default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,6 +198,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2318578541074014719}
   m_RootOrder: 1
@@ -221,6 +226,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -276,7 +282,7 @@ GameObject:
   - component: {fileID: 5631342490014576222}
   - component: {fileID: 6785501485976058965}
   - component: {fileID: 306658734854698422}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas - Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,6 +299,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2318578541074014719}
   m_RootOrder: 0
@@ -320,6 +327,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -373,7 +381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2318578541074014719}
   - component: {fileID: 6809938705032059769}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: UIRuntime
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -390,6 +398,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1813337981993631814}
   - {fileID: 8262999118417471178}
@@ -434,7 +443,7 @@ GameObject:
   - component: {fileID: 7004328206898554693}
   - component: {fileID: 3850055028280190692}
   - component: {fileID: 1536954751998546964}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas - Overlay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -451,6 +460,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2318578541074014719}
   m_RootOrder: 3
@@ -478,6 +488,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0

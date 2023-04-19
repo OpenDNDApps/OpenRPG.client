@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using DG.Tweening;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -30,7 +31,7 @@ namespace VGDevs
             }
             else
             {
-                var parentAsUIItem = transform.parent.GetComponent<UIItem>();
+                UIItem parentAsUIItem = transform.parent.GetComponent<UIItem>();
                 if (parentAsUIItem != null)
                 {
                     parentAsUIItem.VisualRoots.AddUnique(this);
@@ -41,20 +42,27 @@ namespace VGDevs
             {
                 m_animationsInfo.Add(new WhenAnimationPair
                 {
-                    TriggerType = VisualRootAnimTriggerType.EnterAnimation,
+                    TriggerType = VisualRootAnimTriggerType.AnimatedShow,
                     Animation = null
                 });
                 
                 m_animationsInfo.Add(new WhenAnimationPair
                 {
-                    TriggerType = VisualRootAnimTriggerType.ExitAnimation,
+                    TriggerType = VisualRootAnimTriggerType.AnimatedHide,
                     Animation = null
                 });
             }
         }
+        
+        private bool HasAnyAnimationsOfType(VisualRootAnimTriggerType p_trigger)
+        {
+            return m_animationsInfo.Any(p_pair => p_pair.TriggerType.HasFlag(p_trigger));
+        }
 
         public virtual float StartAnimation(VisualRootAnimTriggerType triggerType, Action onComplete = null)
         {
+            if (!HasAnyAnimationsOfType(triggerType))
+                return 0f;
             return StartAnimationsOnTriggerMatches(m_animationsInfo, triggerType, onComplete);
         }
         
@@ -67,13 +75,13 @@ namespace VGDevs
                     continue;
             
                 UIAnimation theAnimation = null;
-                if (pair.TriggerType.HasFlag(VisualRootAnimTriggerType.EnterAnimation))
+                if (pair.TriggerType.HasFlag(VisualRootAnimTriggerType.AnimatedShow))
                 {
                     theAnimation = theAnimation != null ? theAnimation : pair.Animation != null ? pair.Animation : GameResources.Settings.UI.Default.ShowAnimation;
                 } 
-                if (pair.TriggerType.HasFlag(VisualRootAnimTriggerType.ExitAnimation))
+                if (pair.TriggerType.HasFlag(VisualRootAnimTriggerType.AnimatedHide))
                 {
-                    theAnimation = theAnimation != null ? theAnimation : pair.Animation != null ? pair.Animation : GameResources.Settings.UI.Default.ShowAnimation;
+                    theAnimation = theAnimation != null ? theAnimation : pair.Animation != null ? pair.Animation : GameResources.Settings.UI.Default.HideAnimation;
                 }
                 theAnimation = theAnimation != null ? theAnimation : pair.Animation != null ? pair.Animation : GameResources.Settings.UI.Default.EmptyAnimation;
             
@@ -91,24 +99,35 @@ namespace VGDevs
             return largestDuration;
         }
 
-        public void Disable(bool softDisable = false)
-        {
-            m_canvasGroup.Disable(softDisable);
-        }
-
         public void Enable()
         {
             m_canvasGroup.Enable();
         }
 
+        public void Activate()
+        {
+            m_canvasGroup.Activate();
+            StartAnimation(VisualRootAnimTriggerType.Activate);
+        }
+
+        public void Disable(bool softDisable = false)
+        {
+            m_canvasGroup.Disable(softDisable);
+        }
+
+        public void Deactivate()
+        {
+            m_canvasGroup.Deactivate();
+        }
+
         public void OnPointerEnter(PointerEventData eventData)
         {
-            StartAnimation(VisualRootAnimTriggerType.OnPointerEnter);
+            StartAnimation(VisualRootAnimTriggerType.PointerEnter);
         }
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            StartAnimation(VisualRootAnimTriggerType.OnPointerExit);
+            StartAnimation(VisualRootAnimTriggerType.PointerExit);
         }
     }
 
@@ -123,12 +142,13 @@ namespace VGDevs
     public enum VisualRootAnimTriggerType
     {
         Manual,
-        EnterAnimation,
-        ExitAnimation,
-        OnEnable,
-        OnDisable,
-        OnPointerEnter,
-        OnPointerExit,
+        AnimatedShow = 1 << 0,
+        AnimatedHide = 1 << 1,
+        Activate = 1 << 2,
+        // Deactivate = 1 << 3, Use AnimatedHide instead.
+        PointerEnter = 1 << 4,
+        PointerExit = 1 << 5,
+        PointerClick = 1 << 6,
     }
 }
 
@@ -163,27 +183,53 @@ public static class VisualRootExtensions
         return toReturn;
     }
     
-    public static void Disable(this List<UIVisualRoot> visualRootPairs, bool softDisable = false)
-    {
-        foreach (var visualRoot in visualRootPairs)
-        {
-            visualRoot.Disable(softDisable);
-        }
-    }
-    
-    public static void Enable(this List<UIVisualRoot> visualRootPairs)
+    public static List<UIVisualRoot> Enable(this List<UIVisualRoot> visualRootPairs)
     {
         foreach (var visualRoot in visualRootPairs)
         {
             visualRoot.Enable();
         }
+
+        return visualRootPairs;
     }
     
-    public static void DOKill(this List<UIVisualRoot> visualRoots)
+    public static List<UIVisualRoot> Activate(this List<UIVisualRoot> visualRootPairs)
+    {
+        foreach (var visualRoot in visualRootPairs)
+        {
+            visualRoot.Activate();
+        }
+
+        return visualRootPairs;
+    }
+    
+    public static List<UIVisualRoot> Disable(this List<UIVisualRoot> visualRootPairs, bool softDisable = false)
+    {
+        foreach (var visualRoot in visualRootPairs)
+        {
+            visualRoot.Disable(softDisable);
+        }
+        
+        return visualRootPairs;
+    }
+    
+    public static List<UIVisualRoot> Deactivate(this List<UIVisualRoot> visualRootPairs)
+    {
+        foreach (var visualRoot in visualRootPairs)
+        {
+            visualRoot.Deactivate();
+        }
+
+        return visualRootPairs;
+    }
+    
+    public static List<UIVisualRoot> DOKill(this List<UIVisualRoot> visualRoots)
     {
         foreach (var visualRoot in visualRoots)
         {
             visualRoot.DOKill();
         }
+        
+        return visualRoots;
     }
 }

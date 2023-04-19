@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 namespace VGDevs
 {
-    public class UIButton : UIItem, IPointerEnterHandler, IPointerExitHandler
+    public class UIButton : UIItem, IPointerClickHandler
     {
         [Header("UI Button")] 
         [SerializeField] private Button m_button;
@@ -38,13 +38,7 @@ namespace VGDevs
             }
         }
 
-        public void SetLabel(string key)
-        {
-            if (m_label == null || string.IsNullOrEmpty(key))
-                return;
-
-            m_label.SetLocalizedText(key);
-        }
+        public void SetLabel(string key) => m_label.SetLocalizedText(key);
 
         public virtual void ClickBehaviour()
         {
@@ -56,14 +50,9 @@ namespace VGDevs
             m_button.onClick.Invoke();
         }
         
-        public void OnPointerEnter(PointerEventData eventData)
+        public void OnPointerClick(PointerEventData eventData)
         {
-            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.OnPointerEnter);
-        }
-
-        public void OnPointerExit(PointerEventData eventData)
-        {
-            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.OnPointerExit);
+            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.PointerClick);
         }
     }
 }

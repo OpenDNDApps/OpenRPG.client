@@ -6,8 +6,8 @@ namespace VGDevs
 {
     public class UIItemBase : MonoBehaviour
     {
-        protected UIWindow m_window;
-        protected UIVisualRoot m_visualRoot;
+        protected UIWindow m_window;        
+        protected Canvas m_canvas;
         protected bool m_initialized = false;
 
         public UIWindow Window
@@ -26,19 +26,14 @@ namespace VGDevs
             }
         }
 
-        public UIVisualRoot VisualRoot
+        public Canvas Canvas
         {
             get
             {
-                if (m_visualRoot == null)
-                    m_visualRoot = GetComponent<UIVisualRoot>();
-                if (m_window == null)
-                    m_visualRoot = GetComponentInParent<UIVisualRoot>();
-                
-                if (m_visualRoot == null)
-                    Debug.LogError($"VisualRoot not found on '{this.name}' gameObject");
-                
-                return m_visualRoot;
+                if (m_canvas == null)
+                    m_canvas = UIRuntime.GetCanvasOfType(Window.SectionType);
+
+                return m_canvas;
             }
         }
         

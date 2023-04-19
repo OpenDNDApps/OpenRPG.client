@@ -15,7 +15,7 @@ namespace VGDevs
             set => m_origin.rotation = value;
         }
         
-        protected virtual Camera m_camera => GameRuntime.Camera;
+        protected virtual Camera m_camera => GameRuntime.WorldCamera;
 
         protected virtual void PrepInputs()
         {

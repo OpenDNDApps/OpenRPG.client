@@ -24,46 +24,65 @@ namespace VGDevs
             tmp.text = localizationKey;
         }
 
-        public static void Disable(this CanvasGroup canvasGroup, bool softDisable = false)
-        {
-            canvasGroup.alpha = GameResources.Settings.UI.DisabledAlpha;
-            canvasGroup.interactable = false;
-            canvasGroup.blocksRaycasts = false;
-            
-            if (softDisable) 
-                return;
-            
-            canvasGroup.alpha = 0f;
-            canvasGroup.gameObject.SetActive(false);
-            canvasGroup.DOKill();
-        }
-
         public static void Enable(this CanvasGroup canvasGroup)
         {
             canvasGroup.alpha = GameResources.Settings.UI.EnabledAlpha;
+            canvasGroup.Activate();
+        }
+
+        public static void Activate(this CanvasGroup canvasGroup)
+        {
             canvasGroup.interactable = true;
             canvasGroup.blocksRaycasts = true;
             canvasGroup.gameObject.SetActive(true);
         }
 
-        public static void Disable(this TMP_Text text, bool softDisable = false)
+        public static void Disable(this CanvasGroup canvasGroup, bool softDisable = false)
         {
-            text.alpha = GameResources.Settings.UI.DisabledAlpha;
-            text.raycastTarget = false;
+            canvasGroup.alpha = softDisable ? GameResources.Settings.UI.DisabledAlpha : 0f;
+            canvasGroup.Deactivate(softDisable);
+        }
+
+        public static void Deactivate(this CanvasGroup canvasGroup, bool softDisable = false)
+        {
+            canvasGroup.interactable = false;
+            canvasGroup.blocksRaycasts = false;
             
             if (softDisable) 
                 return;
-            
-            text.alpha = 0f;
-            text.gameObject.SetActive(false);
-            text.DOKill();
+
+            canvasGroup.gameObject.SetActive(false);
+            canvasGroup.DOKill();
         }
 
         public static void Enable(this TMP_Text text)
         {
             text.alpha = GameResources.Settings.UI.EnabledAlpha;
+            text.Activate();
+        }
+
+        public static void Activate(this TMP_Text text)
+        {
             text.raycastTarget = false;
             text.gameObject.SetActive(true);
+        }
+
+        public static void Disable(this TMP_Text text, bool softDisable = false)
+        {
+            text.alpha = softDisable ? GameResources.Settings.UI.DisabledAlpha : 0f;
+            text.raycastTarget = false;
+            
+            if (softDisable) 
+                return;
+            
+            text.Deactivate();
+        }
+        
+        public static void Deactivate(this TMP_Text text)
+        {
+            text.raycastTarget = false;
+            text.gameObject.SetActive(false);
+            text.DOKill();
         }
     }
 }

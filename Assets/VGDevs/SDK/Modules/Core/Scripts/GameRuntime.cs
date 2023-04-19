@@ -13,7 +13,24 @@ namespace VGDevs
 
         public static Action<CameraController, CameraController> OnCameraControllerChanged;
 
-        public static Camera Camera => Instance.m_camera == null ? Instance.m_camera = Camera.main : Instance.m_camera;
+        public static Camera WorldCamera
+        {
+            get
+            {
+                if (Instance.m_camera == null)
+                    Instance.m_camera = Camera.main;
+                return Instance.m_camera;
+            }
+            set => Instance.m_camera = value;
+        }
+        
+        public Camera UICamera
+        {
+            get => UIRuntime.UICamera;
+            set => UIRuntime.UICamera = value;
+        }
+
+        public static event Action ManualTickUpdater;
 
         protected override void OnSingletonAwake()
         {
@@ -21,6 +38,11 @@ namespace VGDevs
             SceneManager.activeSceneChanged += OnActiveSceneChange;
 
             IsReady = true;
+        }
+
+        private void Update()
+        {
+            ManualTickUpdater?.Invoke();
         }
 
         private void OnActiveSceneChange(Scene current, Scene next)

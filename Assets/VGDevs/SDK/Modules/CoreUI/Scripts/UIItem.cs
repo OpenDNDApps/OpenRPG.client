@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
-using DG.Tweening;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace VGDevs
 {
@@ -9,7 +9,7 @@ namespace VGDevs
     {
         [Header("UIItem Settings")] 
         [SerializeField] protected List<UIVisualRoot> m_visualRoots = new List<UIVisualRoot>();
-        [SerializeField] protected bool destroyOnHide = true;
+        [FormerlySerializedAs("destroyOnHide")] [SerializeField] protected bool m_destroyOnHide = true;
         
         protected RectTransform m_rectTransform => transform as RectTransform;
 
@@ -23,22 +23,28 @@ namespace VGDevs
 
         private bool m_hidingAnimationActive = false;
 
-
         protected override void OnInit()
         {
             if (m_visualRoots.Count == 0)
                 throw new Exception($"No visual root found on '{this.name}' gameObject");
         }
 
-        [ContextMenu("AnimatedShow")]
         public virtual void AnimatedShow()
         {
             OnAnimatedShowStart?.Invoke();
-            m_visualRoots.Enable();
-            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.EnterAnimation, Show);
+            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.AnimatedShow)
+                         .Activate()
+                         .StartAnimation(VisualRootAnimTriggerType.AnimatedShow, Show);
         }
 
-        [ContextMenu("AnimatedHide")]
+        public virtual void Show()
+        {
+            m_visualRoots.Enable();
+            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.Activate);
+
+            OnShow?.Invoke();
+        }
+
         public virtual void AnimatedHide()
         {
             if (m_hidingAnimationActive)
@@ -46,15 +52,7 @@ namespace VGDevs
             m_hidingAnimationActive = true;
             
             OnAnimatedHideStart?.Invoke();
-            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.ExitAnimation, Hide);
-        }
-
-        public virtual void Show()
-        {
-            m_visualRoots.Enable();
-            m_visualRoots.StartAnimation(VisualRootAnimTriggerType.OnEnable);
-
-            OnShow?.Invoke();
+            m_visualRoots.GetVisualRootsByTriggerType(VisualRootAnimTriggerType.AnimatedHide).StartAnimation(VisualRootAnimTriggerType.AnimatedHide, Hide);
         }
 
         public virtual void Show(bool includeRoot)
@@ -74,13 +72,12 @@ namespace VGDevs
             OnHide?.Invoke();
             m_hidingAnimationActive = false;
 
-            if (destroyOnHide)
+            if (m_destroyOnHide)
             {
                 this.SafeDestroy(this.gameObject);
             }
         }
         
-
         public virtual void Hide(bool includeRoot)
         {
             if (includeRoot)
@@ -96,9 +93,31 @@ namespace VGDevs
             m_visualRoots.Disable(softDisable);
         }
 
-        public virtual void Enable()
+        public virtual void Deactivate(bool includeRoot = false)
         {
+            if (includeRoot)
+            {
+                gameObject.SetActive(false);
+            }
+            m_visualRoots.Deactivate();
+        }
+
+        public virtual void Enable(bool includeRoot = false)
+        {
+            if (includeRoot)
+            {
+                gameObject.SetActive(true);
+            }
             m_visualRoots.Enable();
+        }
+        
+        public virtual void Activate(bool includeRoot = false)
+        {
+            if (includeRoot)
+            {
+                gameObject.SetActive(true);
+            }
+            m_visualRoots.Activate();
         }
 
         protected virtual void OnDestroy()

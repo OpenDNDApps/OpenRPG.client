@@ -15,7 +15,6 @@ namespace VGDevs
         
         [Header("Notch Settings")]
         [SerializeField] protected NotchBehaviour m_notchBehaviour = NotchBehaviour.Ignore;
-        private Canvas m_canvas;
         
         [Header("Popup Settings")] 
         [SerializeField] protected bool m_autoGenerateInputBlocker = false;
@@ -26,17 +25,6 @@ namespace VGDevs
         public NotchBehaviour NotchBehaviour => m_notchBehaviour;
 
         public InputBlockClickBehaviour InputBlockerBehaviour => m_inputBlockClickBehaviour;
-
-        public Canvas Canvas
-        {
-            get
-            {
-                if (m_canvas == null)
-                    m_canvas = UIRuntime.GetCanvasOfType(m_uiSectionType);
-
-                return m_canvas;
-            }
-        }
 
         public bool IsTopLevelWindow => this.Canvas.transform == transform.parent;
 

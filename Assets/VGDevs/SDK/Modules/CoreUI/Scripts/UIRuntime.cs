@@ -14,7 +14,29 @@ namespace VGDevs
 		[SerializeField] private List<UIScreenPanelContainer> m_canvases = new List<UIScreenPanelContainer>();
         [SerializeField] private Camera m_camera;
         
-		public Camera Camera => m_camera == null ? m_camera = Camera.main : m_camera;
+		public Camera WorldCamera
+        {
+            get => GameRuntime.WorldCamera;
+            set => GameRuntime.WorldCamera = value;
+        }
+        
+        public static Camera UICamera
+        {
+            get
+            {
+                if (Instance.m_camera == null)
+                    Instance.m_camera = Camera.main;
+                return Instance.m_camera;
+            }
+            set
+            {
+                foreach (UIScreenPanelContainer container in Instance.m_canvases)
+                {
+                    container.Canvas.worldCamera = value;
+                }
+                Instance.m_camera = value;
+            }
+        }
 
         public event Action<UIWindow> OnWindowRemoved;
         private Dictionary<UISectionType, List<UIWindow>> m_windowHistory = new Dictionary<UISectionType, List<UIWindow>>();
@@ -28,7 +50,6 @@ namespace VGDevs
 
         private void OnActiveSceneChange(Scene current, Scene next)
         {
-            m_camera = Camera.main;
             Initialize();
         }
 
@@ -36,7 +57,6 @@ namespace VGDevs
         {
             foreach (var container in m_canvases)
             {
-                container.Canvas.worldCamera = m_camera;
                 if (!Settings.UI.Sorting.Exists(sort => sort.Type.Equals(container.Type)))
                     continue;
 

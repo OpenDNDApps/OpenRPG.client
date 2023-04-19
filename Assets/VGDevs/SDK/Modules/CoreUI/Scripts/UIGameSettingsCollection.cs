@@ -22,6 +22,7 @@ namespace VGDevs
         [Serializable]
         public struct UIDefaults
         {
+            public float DelayedTimeOnUIInputOnValueChanged;
             public UIItem Transition;
             public UIInputBlocker InputBlocker;
             public UIAnimation ShowAnimation;
