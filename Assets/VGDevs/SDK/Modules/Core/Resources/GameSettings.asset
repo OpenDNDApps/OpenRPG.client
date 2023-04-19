@@ -30,6 +30,7 @@ MonoBehaviour:
       Type: 3
     Default:
       DelayedTimeOnUIInputOnValueChanged: 0.6
+      PositionBasedAnimationDelay: 0.05
       Transition: {fileID: 0}
       InputBlocker: {fileID: 6316150423643922361, guid: bd9ff69435161af47aeff112199cb1c8, type: 3}
       ShowAnimation: {fileID: 11400000, guid: 16662b2e47cbd3d44918d0e981a3f475, type: 2}

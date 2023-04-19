@@ -6,9 +6,12 @@ namespace VGDevs
 {
     public class UIItemBase : MonoBehaviour
     {
+        protected RectTransform m_rectTransform => transform as RectTransform;
         protected UIWindow m_window;        
         protected Canvas m_canvas;
         protected bool m_initialized = false;
+        
+        public RectTransform RectTransform => m_rectTransform;
 
         public UIWindow Window
         {
@@ -53,6 +56,24 @@ namespace VGDevs
             return m_initialized;
         }
 
+        public virtual void Activate()
+        {
+            gameObject.SetActive(true);
+        }
+
+        public virtual void Deactivate()
+        {
+            gameObject.SetActive(false);
+        }
+
         protected virtual void OnInit() { }
+
+        protected virtual void OnDisable()
+        {
+        }
+
+        protected virtual void OnDestroy()
+        {
+        }
     }
 }

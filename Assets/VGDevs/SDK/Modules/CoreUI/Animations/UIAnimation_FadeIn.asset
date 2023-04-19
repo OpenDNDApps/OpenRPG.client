@@ -79,7 +79,7 @@ MonoBehaviour:
     JoinType: 1
     Alpha:
       Duration: 0.3
-      Delay: 0
+      Delay: 0.05
       StartValue: 0
       EndValue: 0
       TargetValue: 1

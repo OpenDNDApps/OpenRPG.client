@@ -23,6 +23,7 @@ namespace VGDevs
         public struct UIDefaults
         {
             public float DelayedTimeOnUIInputOnValueChanged;
+            public float PositionBasedAnimationDelay;
             public UIItem Transition;
             public UIInputBlocker InputBlocker;
             public UIAnimation ShowAnimation;

@@ -141,7 +141,7 @@ MonoBehaviour:
     JoinType: 1
     Alpha:
       Duration: 0.3
-      Delay: 0
+      Delay: 0.05
       StartValue: 0
       EndValue: 0
       TargetValue: 0
@@ -210,11 +210,11 @@ MonoBehaviour:
       Ease: 17
     Scaling:
       Duration: 0.3
-      Delay: 0
+      Delay: 0.05
       StartValue: {x: 0, y: 0, z: 0}
       EndValue: {x: 0, y: 0, z: 0}
-      TargetValue: {x: 1.3, y: 1.3, z: 1.3}
-      Ease: 17
+      TargetValue: {x: 1.15, y: 1.15, z: 1.15}
+      Ease: 18
     Animation:
       Animator: {fileID: 0}
       MotionKey: 

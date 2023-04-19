@@ -5,13 +5,13 @@ using UnityEngine.Serialization;
 
 namespace VGDevs
 {
-    public class UIWindow : UIItem
+    public class UIWindow : UIContentSection
     {
         [Header("Generic Window Settings")]
+        [SerializeField] protected UIWindowBehaviours m_uiWindowBehaviours = UIWindowBehaviours.AutoHideWhenCloseCalled;
         [SerializeField] private UISectionType m_uiSectionType = UISectionType.Default;
         [SerializeField] protected UIButton m_closeButton;
         [SerializeField] private bool m_hideOnAwake = true;
-        [SerializeField] private bool m_autoHideWhenCloseCalled = true;
         
         [Header("Notch Settings")]
         [SerializeField] protected NotchBehaviour m_notchBehaviour = NotchBehaviour.Ignore;
@@ -21,11 +21,10 @@ namespace VGDevs
         [SerializeField] protected UIInputBlocker m_inputBlocker;
         [SerializeField] protected InputBlockClickBehaviour m_inputBlockClickBehaviour = InputBlockClickBehaviour.AnimatedHide;
 
+        public UIWindowBehaviours WindowBehaviours => m_uiWindowBehaviours;
         public UISectionType SectionType => m_uiSectionType;
         public NotchBehaviour NotchBehaviour => m_notchBehaviour;
-
         public InputBlockClickBehaviour InputBlockerBehaviour => m_inputBlockClickBehaviour;
-
         public bool IsTopLevelWindow => this.Canvas.transform == transform.parent;
 
         public event Action OnCloseTrigger;
@@ -60,7 +59,7 @@ namespace VGDevs
 
         public virtual void OnCloseButtonClick()
         {
-            if(m_autoHideWhenCloseCalled)
+            if(m_uiWindowBehaviours.HasFlag(UIWindowBehaviours.AutoHideWhenCloseCalled))
                 AnimatedHide();
             
             OnCloseTrigger?.Invoke();
@@ -108,24 +107,13 @@ namespace VGDevs
             UIRuntime.NotifyWindowDestroy(this);
         }
 
-        /// <summary>
-        /// Changes the vertical position of the VisualRoot.
-        /// </summary>
-        /// <param name="bottomToTop">0f is Bottom, 1f is top.</param>
-        /// <param name="changePivot">Also update the pivot position to match the given value, recommended.</param>
         public void SetVerticalPosition(float bottomToTop = 0.5f, bool changePivot = true)
         {
-            RectTransform root = (RectTransform) m_visualRoots.First().transform;
-
-            root.anchorMax = new Vector2(root.anchorMax.x, bottomToTop);
-            root.anchorMin = new Vector2(root.anchorMin.x, bottomToTop);
-
-            if (changePivot)
+            foreach (UIVisualRoot visualRoot in m_visualRoots)
             {
-                root.pivot = new Vector2(root.pivot.x, bottomToTop);
+                RectTransform rectTransform = (RectTransform) visualRoot.transform;
+                rectTransform.SetVerticalPosition(bottomToTop, changePivot);
             }
-
-            root.anchoredPosition = Vector2.zero;
         }
         
         public UIInputBlocker AddInputBlocker(UIWindow window, UIInputBlocker inputBlocker = null)
@@ -164,10 +152,9 @@ namespace VGDevs
                 case InputBlockClickBehaviour.AnimatedShow:
                     AnimatedShow();
                     return;
+                default:
                 case InputBlockClickBehaviour.None:
                     break;
-                default:
-                    throw new ArgumentOutOfRangeException();
             }
         }
         
@@ -179,5 +166,12 @@ namespace VGDevs
             Show,
             AnimatedShow,
         }
+    }
+
+    [Flags]
+    public enum UIWindowBehaviours
+    {
+        None,
+        AutoHideWhenCloseCalled = 1 << 0,
     }
 }

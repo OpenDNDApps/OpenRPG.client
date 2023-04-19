@@ -107,6 +107,52 @@ namespace VGDevs
 
             return stepDuration;
         }
+
+        public virtual void InsertDelay(float p_delay)
+        {
+            UIAnimationStep step = default;
+            bool found = false;
+            foreach (UIAnimationStep iStep in Steps)
+            {
+                if(iStep.JoinType == ScriptableAnimationJoinType.Join)
+                    continue;
+
+                found = true;
+                step = iStep;
+                break;
+            }
+        
+            if(found == false)
+                return;
+
+            switch (step.Type)
+            {
+                case UIAnimationStepType.Alpha:
+                    step.Alpha.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.Scaling:
+                    step.Scaling.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.Animation:
+                    step.Animation.Params.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.AnchorMin:
+                    step.AnchorMin.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.AnchorMax:
+                    step.AnchorMax.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.AnchorPositions:
+                    step.AnchorPositions.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.AnchorPositionX:
+                    step.AnchorPositionX.Delay += p_delay;
+                    break;
+                case UIAnimationStepType.AnchorPositionY:
+                    step.AnchorPositionY.Delay += p_delay;
+                    break;
+            }
+        }
     }
 
     [Serializable]
